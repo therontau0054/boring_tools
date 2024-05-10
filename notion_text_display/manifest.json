@@ -1,8 +1,8 @@
 {
   "manifest_version": 3,
-  "name": "Auto Css Plugin",
+  "name": "Notion_text_display Plugin",
   "version": "1.0",
-  "description": "Automatically adjust css for notion.",
+  "description": "Textual double-end alignment for Notion.",
   "permissions": [
     "activeTab"
   ],
