@@ -1,0 +1,16 @@
+{
+  "manifest_version": 3,
+  "name": "Auto Css Plugin",
+  "version": "1.0",
+  "description": "Automatically adjust css for notion.",
+  "permissions": [
+    "activeTab"
+  ],
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["content.js"]
+    }
+  ]
+}
+  
