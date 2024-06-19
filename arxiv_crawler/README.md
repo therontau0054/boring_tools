@@ -8,13 +8,13 @@ And the shown content is just the abstract of the paper.
 
 TODO: 
 
-[x] paper filter.
+- [x] paper filter.
 
-[ ] LLM.
+- [ ] LLM.
 
-[ ] Web UI.
+- [ ] Web UI.
 
-[ ] ...
+- [ ] ...
 
 ## Update on 2024-06-19
 
