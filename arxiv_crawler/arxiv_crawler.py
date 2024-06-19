@@ -99,6 +99,7 @@ def dict_to_md(papers_metadata):
     # keyword 作为三级标题
     for k, v in papers_metadata.items():
         new_content += f"\n### {k}\n"
+        abstracts_content += f"## {k}\n"
         new_content += "|Publish Date|Title|Authors|PDF|\n"
         new_content += "|---|---|---|---|\n"
         for paper_metadata in v:
@@ -110,7 +111,7 @@ def dict_to_md(papers_metadata):
             pdf_id = pdf_url.split('/')[-1]
 
             abstract = paper_metadata['summary']
-            abstracts_content += f"## {title}\n"
+            abstracts_content += f"### {title}\n"
             abstracts_content += f"**Authors**: {authors}\n\n"
             abstracts_content += f"**Published Date**: {published_date}\n\n"
             abstracts_content += f"**Updated Date**: {updated_date}\n\n"
