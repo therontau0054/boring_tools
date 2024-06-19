@@ -2,37 +2,60 @@ import os
 import json
 import arxiv
 import datetime
+import requests
+from bs4 import BeautifulSoup
 
 
-def papers_filter(papers):
+def id_filter(id_list):
     """
     Filter the papers by the doi.
     """
     papers_list_path = "./entry_id.list"
     with open(papers_list_path, 'r', encoding = "utf8") as f:
-        papers_filtered_id = f.readlines()
-    papers_filtered_id = [id.strip() for id in papers_filtered_id]
-    papers_new = []
+        id_filtered = f.readlines()
+    id_filtered = [id.strip() for id in id_filtered]
+    id_new = []
     with open(papers_list_path, 'a', encoding = "utf8") as f:
-        for paper in papers:
-            id = paper.entry_id.split('/')[-1]
-            if id not in papers_filtered_id:
+        for id in id_list:
+            if id not in id_filtered:
                 f.write(id + "\n")
-                papers_new.append(paper)
-    return papers_new
+                id_new.append(id)
+    return id_new
 
-def search_by_keyword(keyword: str, max_results: int) -> list:
+
+def search_by_keyword(keyword: str, max_results: int):
     """
     Search arXiv by keyword and return the results.
     """
+    assert max_results < 25, "modify the size in url with 25, 50, 100, 150"
+    keyword += " AND %28cs.LG OR cs.AI%29"
+    keyword = '+'.join(keyword.split())
+    url = f"https://arxiv.org/search/?searchtype=all&query={keyword}&abstracts=show&size=25&order=-submitted_date"
+    id_list = []
+    response = requests.get(url, timeout = 20)
+    if response.status_code == 200:
+        soup = BeautifulSoup(response.text, "html.parser")
+        p_tags = soup.find_all('p', class_ = "list-title is-inline-block")
+        for i, p_tag in enumerate(p_tags):
+            a_tag = p_tag.find('a')
+            if a_tag:
+                a_text = a_tag.text
+                print(a_text)
+                id_list.append(a_text.split(':')[-1])
+            if len(id_list) > max_results:
+                break
+
+    print(id_list)
+    # 获取失败暂时就不管了 反正隔几天就会更新一次
+    id_list = id_filter(id_list)
     client = arxiv.Client()
     search = arxiv.Search(
-        query = keyword + " AND cat:cs.LG",
+        query = "",
+        id_list = id_list,
         max_results = max_results,
-        sort_by = arxiv.SortCriterion.SubmittedDate
+        sort_by = arxiv.SortCriterion.LastUpdatedDate
     )
-    papers = papers_filter(client.results(search))
-    return papers
+    return client.results(search)
 
 
 def get_paper_authors(paper):
@@ -41,7 +64,6 @@ def get_paper_authors(paper):
         authors.append(author.name)
     authors = ", ".join(authors)
     return authors
-
 
 
 def save_to_json(papers):
@@ -100,8 +122,8 @@ def dict_to_md(papers_metadata):
     for k, v in papers_metadata.items():
         new_content += f"\n### {k}\n"
         abstracts_content += f"## {k}\n"
-        new_content += "|Publish Date|Title|Authors|PDF|\n"
-        new_content += "|---|---|---|---|\n"
+        new_content += "|Publish Date|Updated Date|Title|Authors|PDF|\n"
+        new_content += "|---|---|---|---|---|\n"
         for paper_metadata in v:
             published_date = paper_metadata['published'].split()[0]
             updated_date = paper_metadata['updated'].split()[0]
@@ -119,6 +141,7 @@ def dict_to_md(papers_metadata):
             abstracts_content += f"**Abstract**: {abstract}\n\n\n"
 
             new_content += f"|{published_date}"
+            new_content += f"|{updated_date}"
             new_content += f"|{title}"
             new_content += f"|{authors.split(', ')[0]}"
             new_content += f"|[{pdf_id}]({pdf_url})|\n"
@@ -142,7 +165,7 @@ def json_to_md(json_path):
 
 def main():
     keywords = ["Physics", "Diffusion", "Quantitative Finance"]
-    max_results = [8, 5, 5]
+    max_results = [10, 5, 5]
     papers = {}
     for i, keyword in enumerate(keywords):
         papers_per_keyword = search_by_keyword(keyword, max_results[i])
