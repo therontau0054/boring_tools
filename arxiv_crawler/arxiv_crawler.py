@@ -120,7 +120,7 @@ def dict_to_md(papers_metadata):
             new_content += f"|{published_date}"
             new_content += f"|{title}"
             new_content += f"|{authors.split(', ')[0]}"
-            new_content += f"|[{pdf_id}]({pdf_url})|\n\n"
+            new_content += f"|[{pdf_id}]({pdf_url})|\n"
     f.write(abstracts_content)
     f.close()
 

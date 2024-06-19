@@ -8,11 +8,7 @@ on:
   workflow_dispatch:
   schedule:
     - cron:  "0 12 */2 * *" 
-    
-env:
 
-  GITHUB_USER_NAME: SuperJokerayo
-  GITHUB_USER_EMAIL: 1072843554@qq.com
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
   # This workflow contains a single job called "build"
@@ -27,7 +23,6 @@ jobs:
         uses: actions/checkout@v3
         with:
           ref: master
-          path: ./arxiv_crawler
         
       - name: Set up Python Env
         uses: actions/setup-python@v4
@@ -41,15 +36,15 @@ jobs:
           
       - name: Run daily arxiv 
         run: |
-          cd ./arxiv_crawler.py
-          python arxiv_crawler.py
+          cd ./arxiv_crawler
+          python ./arxiv_crawler.py
           
       - name: Push updated files
         uses: github-actions-x/commit@v2.9
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           commit-message: "update papers"
-          files: README.md ./papers_abstracts ./papers_metadata entry_id.list
+          files: ./arxiv_crawler/
           rebase: 'true'
-          name: ${{ env.GITHUB_USER_NAME }}
-          email: ${{ env.GITHUB_USER_EMAIL }}
+          name: SuperJokerayo
+          email: 1072843554@qq.com
