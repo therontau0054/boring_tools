@@ -27,7 +27,7 @@ def search_by_keyword(keyword: str, max_results: int) -> list:
     """
     client = arxiv.Client()
     search = arxiv.Search(
-        query = keyword + " AND cat:cs.AI",
+        query = keyword + " AND cat:cs.LG",
         max_results = max_results,
         sort_by = arxiv.SortCriterion.SubmittedDate
     )
@@ -140,8 +140,8 @@ def json_to_md(json_path):
 
 
 def main():
-    keywords = ["Physics", "Diffusion", "Finance"]
-    max_results = [8, 8, 3]
+    keywords = ["Physics", "Diffusion", "Quantitative Finance"]
+    max_results = [8, 5, 5]
     papers = {}
     for i, keyword in enumerate(keywords):
         papers_per_keyword = search_by_keyword(keyword, max_results[i])
