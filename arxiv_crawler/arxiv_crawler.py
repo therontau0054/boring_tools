@@ -11,9 +11,12 @@ def id_filter(id_list):
     Filter the papers by the doi.
     """
     papers_list_path = "./entry_id.list"
-    with open(papers_list_path, 'r', encoding = "utf8") as f:
-        id_filtered = f.readlines()
-    id_filtered = [id.strip() for id in id_filtered]
+    if os.path.exists(papers_list_path):
+        with open(papers_list_path, 'r', encoding = "utf8") as f:
+            id_filtered = f.readlines()
+        id_filtered = [id.strip() for id in id_filtered]
+    else:
+        id_filtered = []
     id_new = []
     with open(papers_list_path, 'a', encoding = "utf8") as f:
         for id in id_list:
