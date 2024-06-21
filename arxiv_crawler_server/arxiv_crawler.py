@@ -1,0 +1,106 @@
+import os
+import json
+import arxiv
+import datetime
+import requests
+from bs4 import BeautifulSoup
+
+
+def id_filter(id_list):
+    """
+    Filter the papers by the doi.
+    """
+    papers_list_path = "./entry_id.list"
+    if os.path.exists(papers_list_path):
+        with open(papers_list_path, 'r', encoding = "utf8") as f:
+            id_filtered = f.readlines()
+        id_filtered = [id.strip() for id in id_filtered]
+    else:
+        id_filtered = []
+    id_new = []
+    with open(papers_list_path, 'a', encoding = "utf8") as f:
+        for id in id_list:
+            if id not in id_filtered:
+                f.write(id + "\n")
+                id_new.append(id)
+    return id_new
+
+
+def search_by_keyword(keyword: str, max_results: int):
+    """
+    Search arXiv by keyword and return the results.
+    """
+    assert max_results < 25, "modify the size in url with 25, 50, 100, 150"
+    keyword += " AND %28cs.LG OR cs.AI%29"
+    keyword = '+'.join(keyword.split())
+    url = f"https://arxiv.org/search/?searchtype=all&query={keyword}&abstracts=show&size=25&order=-submitted_date"
+    id_list = []
+    response = requests.get(url, timeout = 20)
+    if response.status_code == 200:
+        soup = BeautifulSoup(response.text, "html.parser")
+        p_tags = soup.find_all('p', class_ = "list-title is-inline-block")
+        for i, p_tag in enumerate(p_tags):
+            a_tag = p_tag.find('a')
+            if a_tag:
+                a_text = a_tag.text
+                id_list.append(a_text.split(':')[-1])
+            if len(id_list) > max_results:
+                break
+
+    # 获取失败暂时就不管了 反正隔几天就会更新一次
+    id_list = id_filter(id_list)
+    client = arxiv.Client()
+    search = arxiv.Search(
+        query = "",
+        id_list = id_list,
+        max_results = max_results,
+        sort_by = arxiv.SortCriterion.LastUpdatedDate
+    )
+    return client.results(search)
+
+
+def get_paper_authors(paper):
+    authors = []
+    for author in paper.authors:
+        authors.append(author.name)
+    authors = ", ".join(authors)
+    return authors
+
+
+def save_to_json(papers):
+    """
+    Save the papers to a JSON file.
+    """
+    dir = "./papers_metadata"
+    os.makedirs(dir, exist_ok = True)
+    date = str(datetime.date.today()).replace("-", "")[2:]
+    file_path = f"{dir}/papers_{date}.json"
+    papers_metadata = {}
+    for k, v in papers.items():
+        papers_metadata[k] = []
+        for paper in v:
+            paper_metadata = {
+                "title": paper.title,
+                "authors": get_paper_authors(paper),
+                "summary": paper.summary,
+                "pdf_url": paper.pdf_url,
+                "published": str(paper.published),
+                "updated": str(paper.updated),
+            }
+            papers_metadata[k].append(paper_metadata)
+    with open(file_path, 'w', encoding = "utf8") as file:
+        json.dump(papers_metadata, file, indent = 4)
+    return papers_metadata
+
+
+def get_papers_metadata():
+    keywords = ["Physics", "Diffusion", "Quantitative Finance"]
+    max_results = [10, 5, 5]
+    papers = {}
+    for i, keyword in enumerate(keywords):
+        papers_per_keyword = search_by_keyword(keyword, max_results[i])
+        papers[keyword] = papers_per_keyword
+    save_to_json(papers)
+
+if __name__ == "__main__":
+    get_papers_metadata()
