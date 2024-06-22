@@ -12,7 +12,7 @@ TODO:
 
 - [ ] LLM.
 
-- [ ] Web UI.
+- [x] Web UI (see [arxiv_crawler_server](../arxiv_crawler_server)).
 
 - [ ] ...
 
