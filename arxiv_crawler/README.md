@@ -17,6 +17,35 @@ TODO:
 - [ ] ...
 
 
+
+## Update on 2024-06-21
+
+### Physics
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2024-06-20|2024-06-20|Local symmetries in partially ordered sets|Christoph Minz|[2406.14533v1](http://arxiv.org/pdf/2406.14533v1)|
+|2024-06-20|2024-06-20|Ambiguity Clustering: an accurate and efficient decoder for qLDPC codes|Stasiu Wolanski|[2406.14527v1](http://arxiv.org/pdf/2406.14527v1)|
+|2024-06-20|2024-06-20|Scaling up global kinetic models of pulsar magnetospheres using a hybrid force-free-PIC numerical approach|Adrien Soudais|[2406.14512v1](http://arxiv.org/pdf/2406.14512v1)|
+|2024-06-20|2024-06-20|rKAN: Rational Kolmogorov-Arnold Networks|Alireza Afzal Aghaei|[2406.14495v1](http://arxiv.org/pdf/2406.14495v1)|
+|2024-06-20|2024-06-20|Valid Error Bars for Neural Weather Models using Conformal Prediction|Vignesh Gopakumar|[2406.14483v1](http://arxiv.org/pdf/2406.14483v1)|
+|2024-06-20|2024-06-20|High-threshold, low-overhead and single-shot decodable fault-tolerant quantum memory|Thomas R. Scruby|[2406.14445v1](http://arxiv.org/pdf/2406.14445v1)|
+|2023-10-08|2024-06-20|Physics-aware Machine Learning Revolutionizes Scientific Paradigm for Machine Learning and Process-based Hydrology|Qingsong Xu|[2310.05227v4](http://arxiv.org/pdf/2310.05227v4)|
+|2024-06-20|2024-06-20|Transferable Boltzmann Generators|Leon Klein|[2406.14426v1](http://arxiv.org/pdf/2406.14426v1)|
+|2024-06-20|2024-06-20|Electrical switching of Ising-superconducting nonreciprocity for quantum neuronal transistor|Junlin Xiong|[2406.14417v1](http://arxiv.org/pdf/2406.14417v1)|
+|2024-06-20|2024-06-20|Silicon Nitride C-Band Grating Coupler with Reduced Waveguide Back-Reflection Using Adaptively Corrected Elliptical Grates|Ibrahim Ghannam|[2406.14413v1](http://arxiv.org/pdf/2406.14413v1)|
+
+### Diffusion
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2024-06-20|2024-06-20|Consistency Models Made Easy|Zhengyang Geng|[2406.14548v1](http://arxiv.org/pdf/2406.14548v1)|
+|2024-06-20|2024-06-20|V-LASIK: Consistent Glasses-Removal from Videos Using Synthetic Data|Rotem Shalev-Arkushin|[2406.14510v1](http://arxiv.org/pdf/2406.14510v1)|
+|2024-06-20|2024-06-20|SafeSora: Towards Safety Alignment of Text2Video Generation via a Human Preference Dataset|Josef Dai|[2406.14477v1](http://arxiv.org/pdf/2406.14477v1)|
+|2024-06-20|2024-06-20|CollaFuse: Collaborative Diffusion Models|Simeon Allmendinger|[2406.14429v1](http://arxiv.org/pdf/2406.14429v1)|
+|2024-06-20|2024-06-20|Active Diffusion Subsampling|Oisin Nolan|[2406.14388v1](http://arxiv.org/pdf/2406.14388v1)|
+
+### Quantitative Finance
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
 ## Update on 2024-06-19
 
 ### Physics
