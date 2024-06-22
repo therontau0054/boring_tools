@@ -1,4 +1,5 @@
 import os
+import sys
 import json
 import arxiv
 import datetime
@@ -6,7 +7,7 @@ import requests
 from bs4 import BeautifulSoup
 
 
-def id_filter(id_list):
+def id_filter(id_list, max_results):
     """
     Filter the papers by the doi.
     """
@@ -20,6 +21,8 @@ def id_filter(id_list):
     id_new = []
     with open(papers_list_path, 'a', encoding = "utf8") as f:
         for id in id_list:
+            if len(id_new) == max_results:
+                break
             if id not in id_filtered:
                 f.write(id + "\n")
                 id_new.append(id)
@@ -30,12 +33,12 @@ def search_by_keyword(keyword: str, max_results: int):
     """
     Search arXiv by keyword and return the results.
     """
-    assert max_results < 25, "modify the size in url with 25, 50, 100, 150"
+    assert max_results < 200, "too much and you cannot read them all!"
     keyword += " AND %28cs.LG OR cs.AI%29"
     keyword = '+'.join(keyword.split())
     url = f"https://arxiv.org/search/?searchtype=all&query={keyword}&abstracts=show&size=25&order=-submitted_date"
     id_list = []
-    response = requests.get(url, timeout = 20)
+    response = requests.get(url, timeout = 30)
     if response.status_code == 200:
         soup = BeautifulSoup(response.text, "html.parser")
         p_tags = soup.find_all('p', class_ = "list-title is-inline-block")
@@ -44,11 +47,9 @@ def search_by_keyword(keyword: str, max_results: int):
             if a_tag:
                 a_text = a_tag.text
                 id_list.append(a_text.split(':')[-1])
-            if len(id_list) > max_results:
-                break
 
     # 获取失败暂时就不管了 反正隔几天就会更新一次
-    id_list = id_filter(id_list)
+    id_list = id_filter(id_list, max_results)
     client = arxiv.Client()
     search = arxiv.Search(
         query = "",
@@ -71,10 +72,10 @@ def save_to_json(papers):
     """
     Save the papers to a JSON file.
     """
-    dir = "./papers_metadata"
-    os.makedirs(dir, exist_ok = True)
+    metadata_dir = "./papers_metadata"
+    os.makedirs(metadata_dir, exist_ok = True)
     date = str(datetime.date.today()).replace("-", "")[2:]
-    file_path = f"{dir}/papers_{date}.json"
+    file_path = f"{metadata_dir}/papers_{date}.json"
     papers_metadata = {}
     for k, v in papers.items():
         papers_metadata[k] = []
@@ -88,19 +89,30 @@ def save_to_json(papers):
                 "updated": str(paper.updated),
             }
             papers_metadata[k].append(paper_metadata)
+    if os.path.exists(file_path):
+        with open(file_path, 'r', encoding = "utf-8") as f:
+            old_data = json.load(f)
+        for k, v in old_data.items():
+            if k in papers_metadata:
+                papers_metadata[k] += v
+            else:
+                papers_metadata[k] = v
+
     with open(file_path, 'w', encoding = "utf8") as file:
         json.dump(papers_metadata, file, indent = 4)
     return papers_metadata
 
 
-def get_papers_metadata():
-    keywords = ["Physics", "Diffusion", "Quantitative Finance"]
-    max_results = [10, 5, 5]
+def get_papers_metadata(keywords, max_results):
     papers = {}
     for i, keyword in enumerate(keywords):
         papers_per_keyword = search_by_keyword(keyword, max_results[i])
         papers[keyword] = papers_per_keyword
     save_to_json(papers)
 
+
 if __name__ == "__main__":
-    get_papers_metadata()
+    keywords = sys.argv[1].split(',')
+    max_results = list(map(int, sys.argv[2].split(',')))
+    print(keywords, max_results)
+    get_papers_metadata(keywords, max_results)

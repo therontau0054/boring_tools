@@ -5,8 +5,9 @@ import streamlit as st
 metadata_dir = "./papers_metadata"
 
 
-@st.cache_data(ttl = 600)
+# @st.cache_data(ttl = 600)
 def get_updated_date():
+    if not os.path.exists(metadata_dir): return []
     files = os.listdir(metadata_dir)
     files = sorted(files, key = lambda file: os.path.getctime(os.path.join(metadata_dir, file)), reverse = True)
     date = list(map(lambda x: x.split('_')[1].split('.')[0], files))
@@ -16,6 +17,7 @@ def get_updated_date():
 
 def display_papers():
     st.set_page_config(layout = "wide")
+    # st_autorefresh(interval = 60, key = "arxiv_crawler")
     dates = get_updated_date()
     if len(dates) == 0:
         st.write("No papers metadata available.")
