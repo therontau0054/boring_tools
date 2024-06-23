@@ -18,6 +18,20 @@ TODO:
 
 
 
+
+## Update on 2024-06-23
+
+### Physics
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+
+### Diffusion
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+
+### Quantitative Finance
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
 ## Update on 2024-06-21
 
 ### Physics
