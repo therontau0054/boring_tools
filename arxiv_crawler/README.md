@@ -6,6 +6,8 @@ However, due to the lack of money, LLM is not available. = =.
 
 And the shown content is just the abstract of the paper.
 
+[arxiv_crawler_server](../arxiv_crawler_server) can provide more papers and higher update frequency.
+
 TODO: 
 
 - [x] paper filter.
@@ -15,8 +17,6 @@ TODO:
 - [x] Web UI (see [arxiv_crawler_server](../arxiv_crawler_server)).
 
 - [ ] ...
-
-
 
 
 
@@ -44,23 +44,6 @@ TODO:
 |2023-10-26|2024-06-24|Generative Fractional Diffusion Models|Gabriel Nobis|[2310.17638v2](http://arxiv.org/pdf/2310.17638v2)|
 |2024-06-21|2024-06-24|LatentExplainer: Explaining Latent Representations in Deep Generative Models with Multi-modal Foundation Models|Mengdan Zhu|[2406.14862v2](http://arxiv.org/pdf/2406.14862v2)|
 |2024-06-24|2024-06-24|Repulsive Score Distillation for Diverse Sampling of Diffusion Models|Nicolas Zilberstein|[2406.16683v1](http://arxiv.org/pdf/2406.16683v1)|
-
-### Quantitative Finance
-|Publish Date|Updated Date|Title|Authors|PDF|
-|---|---|---|---|---|
-## Update on 2024-06-23
-
-### Physics
-|Publish Date|Updated Date|Title|Authors|PDF|
-|---|---|---|---|---|
-
-### Diffusion
-|Publish Date|Updated Date|Title|Authors|PDF|
-|---|---|---|---|---|
-
-### Quantitative Finance
-|Publish Date|Updated Date|Title|Authors|PDF|
-|---|---|---|---|---|
 ## Update on 2024-06-21
 
 ### Physics
@@ -85,10 +68,6 @@ TODO:
 |2024-06-20|2024-06-20|SafeSora: Towards Safety Alignment of Text2Video Generation via a Human Preference Dataset|Josef Dai|[2406.14477v1](http://arxiv.org/pdf/2406.14477v1)|
 |2024-06-20|2024-06-20|CollaFuse: Collaborative Diffusion Models|Simeon Allmendinger|[2406.14429v1](http://arxiv.org/pdf/2406.14429v1)|
 |2024-06-20|2024-06-20|Active Diffusion Subsampling|Oisin Nolan|[2406.14388v1](http://arxiv.org/pdf/2406.14388v1)|
-
-### Quantitative Finance
-|Publish Date|Updated Date|Title|Authors|PDF|
-|---|---|---|---|---|
 ## Update on 2024-06-19
 
 ### Physics

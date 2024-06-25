@@ -57,7 +57,7 @@ def search_by_keyword(keyword: str, max_results: int):
         max_results = max_results,
         sort_by = arxiv.SortCriterion.LastUpdatedDate
     )
-    return client.results(search)
+    return list(client.results(search))
 
 
 def get_paper_authors(paper):
@@ -107,8 +107,10 @@ def get_papers_metadata(keywords, max_results):
     papers = {}
     for i, keyword in enumerate(keywords):
         papers_per_keyword = search_by_keyword(keyword, max_results[i])
-        papers[keyword] = papers_per_keyword
-    save_to_json(papers)
+        if papers_per_keyword:
+            papers[keyword] = papers_per_keyword
+    if papers:
+        save_to_json(papers)
 
 
 if __name__ == "__main__":
