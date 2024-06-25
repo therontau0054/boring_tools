@@ -19,6 +19,35 @@ TODO:
 
 
 
+
+## Update on 2024-06-25
+
+### Physics
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2024-06-24|2024-06-24|GeoMFormer: A General Architecture for Geometric Molecular Representation Learning|Tianlang Chen|[2406.16853v1](http://arxiv.org/pdf/2406.16853v1)|
+|2023-09-14|2024-06-24|Improving physics-informed DeepONets with hard constraints|Rüdiger Brecht|[2309.07899v2](http://arxiv.org/pdf/2309.07899v2)|
+|2024-06-24|2024-06-24|Realizing a spatially correlated lattice interferometer|Peng Peng|[2406.16847v1](http://arxiv.org/pdf/2406.16847v1)|
+|2024-05-01|2024-06-24|Scaling and renormalization in high-dimensional regression|Alexander Atanasov|[2405.00592v2](http://arxiv.org/pdf/2405.00592v2)|
+|2024-06-24|2024-06-24|Damping effects of viscous dissipation on growth of symmetric instability|Laur Ferris|[2406.16818v1](http://arxiv.org/pdf/2406.16818v1)|
+|2024-06-24|2024-06-24|Discovering neutrino tridents at the Large Hadron Collider|Wolfgang Altmannshofer|[2406.16803v1](http://arxiv.org/pdf/2406.16803v1)|
+|2024-05-03|2024-06-24|WISER: multimodal variational inference for full-waveform inversion without dimensionality reduction|Ziyi Yin|[2405.10327v2](http://arxiv.org/pdf/2405.10327v2)|
+|2024-04-17|2024-06-24|A Mereological Approach to Higher-Order Structure in Complex Systems: from Macro to Micro with Möbius|Abel Jansma|[2404.14423v3](http://arxiv.org/pdf/2404.14423v3)|
+|2024-06-24|2024-06-24|Quantum resolution limit of long-baseline imaging using distributed entanglement|Isack Padilla|[2406.16789v1](http://arxiv.org/pdf/2406.16789v1)|
+|2024-06-24|2024-06-24|OlympicArena Medal Ranks: Who Is the Most Intelligent AI So Far?|Zhen Huang|[2406.16772v1](http://arxiv.org/pdf/2406.16772v1)|
+
+### Diffusion
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2024-06-24|2024-06-24|StableNormal: Reducing Diffusion Variance for Stable and Sharp Normal|Chongjie Ye|[2406.16864v1](http://arxiv.org/pdf/2406.16864v1)|
+|2024-06-24|2024-06-24|General Binding Affinity Guidance for Diffusion Models in Structure-Based Drug Design|Yue Jian|[2406.16821v1](http://arxiv.org/pdf/2406.16821v1)|
+|2023-10-26|2024-06-24|Generative Fractional Diffusion Models|Gabriel Nobis|[2310.17638v2](http://arxiv.org/pdf/2310.17638v2)|
+|2024-06-21|2024-06-24|LatentExplainer: Explaining Latent Representations in Deep Generative Models with Multi-modal Foundation Models|Mengdan Zhu|[2406.14862v2](http://arxiv.org/pdf/2406.14862v2)|
+|2024-06-24|2024-06-24|Repulsive Score Distillation for Diverse Sampling of Diffusion Models|Nicolas Zilberstein|[2406.16683v1](http://arxiv.org/pdf/2406.16683v1)|
+
+### Quantitative Finance
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
 ## Update on 2024-06-23
 
 ### Physics
