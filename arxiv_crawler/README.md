@@ -20,6 +20,31 @@ TODO:
 
 
 
+
+## Update on 2024-06-27
+
+### Physics
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2024-06-26|2024-06-26|Mental Modeling of Reinforcement Learning Agents by Language Models|Wenhao Lu|[2406.18505v1](http://arxiv.org/pdf/2406.18505v1)|
+|2024-06-26|2024-06-26|$Λ_{\rm s}$CDM cosmology: Alleviating major cosmological tensions by predicting standard neutrino properties|Anita Yadav|[2406.18496v1](http://arxiv.org/pdf/2406.18496v1)|
+|2024-06-26|2024-06-26|Indefinite Causal Structure and Causal Inequalities with Time-Symmetry|Luke Mrini|[2406.18489v1](http://arxiv.org/pdf/2406.18489v1)|
+|2024-06-26|2024-06-26|Modeling the amplitude and energy decay of a weakly damped harmonic oscillator using the energy dissipation rate and a simple trick|Karlo Lelas|[2406.18488v1](http://arxiv.org/pdf/2406.18488v1)|
+|2023-10-20|2024-06-26|NuHepMC: A standardized event record format for neutrino event generators|S. Gardiner|[2310.13211v2](http://arxiv.org/pdf/2310.13211v2)|
+|2024-06-26|2024-06-26|Universal Anomaly Detection at the LHC: Transforming Optimal Classifiers and the DDD Method|Sascha Caron|[2406.18469v1](http://arxiv.org/pdf/2406.18469v1)|
+|2024-06-26|2024-06-26|Bayesian inverse Navier-Stokes problems: joint flow field reconstruction and parameter learning|Alexandros Kontogiannis|[2406.18464v1](http://arxiv.org/pdf/2406.18464v1)|
+|2023-12-05|2024-06-26|Large Knowledge Model: Perspectives and Challenges|Huajun Chen|[2312.02706v2](http://arxiv.org/pdf/2312.02706v2)|
+|2024-06-26|2024-06-26|Scalable tomography of many-body quantum environments with low temporal entanglement|Ilia A. Luchnikov|[2406.18458v1](http://arxiv.org/pdf/2406.18458v1)|
+|2024-06-26|2024-06-26|How to Achieve High Spatial Resolution in Organic Optobioelectronic Devices?|Luca Fabbri|[2406.18447v1](http://arxiv.org/pdf/2406.18447v1)|
+
+### Diffusion
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2024-06-26|2024-06-26|Towards diffusion models for large-scale sea-ice modelling|Tobias Sebastian Finn|[2406.18417v1](http://arxiv.org/pdf/2406.18417v1)|
+|2024-06-26|2024-06-26|Stable Diffusion Segmentation for Biomedical Images with Single-step Reverse Process|Tianyu Lin|[2406.18361v1](http://arxiv.org/pdf/2406.18361v1)|
+|2024-06-26|2024-06-26|Molecular Diffusion Models with Virtual Receptors|Matan Halfon|[2406.18330v1](http://arxiv.org/pdf/2406.18330v1)|
+|2024-06-26|2024-06-26|Generative artificial intelligence in ophthalmology: multimodal retinal images for the diagnosis of Alzheimer's disease with convolutional neural networks|I. R. Slootweg|[2406.18247v1](http://arxiv.org/pdf/2406.18247v1)|
+|2024-06-26|2024-06-26|Galaxy spectroscopy without spectra: Galaxy properties from photometric images with conditional diffusion models|Lars Doorenbos|[2406.18175v1](http://arxiv.org/pdf/2406.18175v1)|
 ## Update on 2024-06-25
 
 ### Physics
