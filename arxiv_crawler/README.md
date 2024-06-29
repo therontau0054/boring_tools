@@ -21,6 +21,30 @@ TODO:
 
 
 
+
+## Update on 2024-06-29
+
+### Physics
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2024-06-27|2024-06-27|Robust Hilbert space fragmentation in group-valued loop models|Alexey Khudorozhkov|[2406.19386v1](http://arxiv.org/pdf/2406.19386v1)|
+|2024-06-27|2024-06-27|Spontaneous symmetry breaking in open quantum systems: strong, weak, and strong-to-weak|Ding Gu|[2406.19381v1](http://arxiv.org/pdf/2406.19381v1)|
+|2024-04-19|2024-06-27|Inflation, the Hubble Tension and Early Dark Energy: an alternative overview|William Giarè|[2404.12779v2](http://arxiv.org/pdf/2404.12779v2)|
+|2024-03-19|2024-06-27|Physics-Guided Neural Networks for Intraventricular Vector Flow Mapping|Hang Jung Ling|[2403.13040v2](http://arxiv.org/pdf/2403.13040v2)|
+|2024-06-27|2024-06-27|Accelerating Multiphase Flow Simulations with Denoising Diffusion Model Driven Initializations|Jaehong Chung|[2406.19333v1](http://arxiv.org/pdf/2406.19333v1)|
+|2023-12-18|2024-06-27|Error-corrected Hadamard gate simulated at the circuit level|György P. Gehér|[2312.11605v2](http://arxiv.org/pdf/2312.11605v2)|
+|2024-06-27|2024-06-27|Nonuniqueness in Defining the Polarization: Nonlocal Surface Charges and the Electrostatic, Energetic, and Transport Perspectives|Shoham Sen|[2406.19322v1](http://arxiv.org/pdf/2406.19322v1)|
+|2024-06-27|2024-06-27|Probing self-interacting ultra-high-energy neutrinos with cosmic 21-cm signal|Mansi Dhuria|[2406.19279v1](http://arxiv.org/pdf/2406.19279v1)|
+|2024-06-27|2024-06-27|Fractal Subsystem Symmetries, Anomalies, Boundaries, and Effective Field Theory|Heitor Casasola|[2406.19275v1](http://arxiv.org/pdf/2406.19275v1)|
+|2024-06-27|2024-06-27|Asymptotic stability of the equilibrium for the free boundary problem of a compressible atmospheric primitive model with physical vacuum|Xin Liu|[2406.19259v1](http://arxiv.org/pdf/2406.19259v1)|
+
+### Diffusion
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2024-06-27|2024-06-27|Subtractive Training for Music Stem Insertion using Latent Diffusion Models|Ivan Villa-Renteria|[2406.19328v1](http://arxiv.org/pdf/2406.19328v1)|
+|2023-12-28|2024-06-27|$μ$GUIDE: a framework for quantitative imaging via generalized uncertainty-driven inference using deep learning|Maëliss Jallais|[2312.17293v3](http://arxiv.org/pdf/2312.17293v3)|
+|2024-06-27|2024-06-27|Compositional Image Decomposition with Diffusion Models|Jocelin Su|[2406.19298v1](http://arxiv.org/pdf/2406.19298v1)|
+|2024-06-27|2024-06-27|DEX-TTS: Diffusion-based EXpressive Text-to-Speech with Style Modeling on Time Variability|Hyun Joon Park|[2406.19135v1](http://arxiv.org/pdf/2406.19135v1)|
 ## Update on 2024-06-27
 
 ### Physics
