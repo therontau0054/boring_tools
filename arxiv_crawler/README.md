@@ -22,6 +22,36 @@ TODO:
 
 
 
+
+## Update on 2024-07-01
+
+### Physics
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2024-06-05|2024-06-28|Solving Differential Equations using Physics-Informed Deep Equilibrium Models|Bruno Machado Pacheco|[2406.03472v2](http://arxiv.org/pdf/2406.03472v2)|
+|2024-06-28|2024-06-28|Tau Tridents at Accelerator Neutrino Facilities|Innes Bigaran|[2406.20067v1](http://arxiv.org/pdf/2406.20067v1)|
+|2024-06-28|2024-06-28|Neural Differentiable Modeling with Diffusion-Based Super-resolution for Two-Dimensional Spatiotemporal Turbulence|Xiantao Fan|[2406.20047v1](http://arxiv.org/pdf/2406.20047v1)|
+|2024-06-28|2024-06-28|Electrostatics-based particle sampling and approximate inference|Yongchao Huang|[2406.20044v1](http://arxiv.org/pdf/2406.20044v1)|
+|2024-06-28|2024-06-28|On Bjorken sum rule with analytic coupling|I. R. Gabdrakhmanov|[2406.20000v1](http://arxiv.org/pdf/2406.20000v1)|
+|2024-03-08|2024-06-28|Quantum error cancellation in photonic systems -- undoing photon losses|Adam Taylor|[2403.05252v2](http://arxiv.org/pdf/2403.05252v2)|
+|2023-11-30|2024-06-28|Scalable Bayesian uncertainty quantification with data-driven priors for radio interferometric imaging|Tobías I. Liaudat|[2312.00125v2](http://arxiv.org/pdf/2312.00125v2)|
+|2023-07-19|2024-06-28|Tracer dynamics in the active random average process|Saikat Santra|[2307.09908v3](http://arxiv.org/pdf/2307.09908v3)|
+|2024-06-28|2024-06-28|Text2Robot: Evolutionary Robot Design from Text Descriptions|Ryan P. Ringel|[2406.19963v1](http://arxiv.org/pdf/2406.19963v1)|
+|2024-06-28|2024-06-28|Gauge invariant quantum backreaction in U(1) axion inflation|Davide Campanella Galanti|[2406.19960v1](http://arxiv.org/pdf/2406.19960v1)|
+
+### Diffusion
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2024-06-28|2024-06-28|On the Trade-off between Flatness and Optimization in Distributed Learning|Ying Cao|[2406.20006v1](http://arxiv.org/pdf/2406.20006v1)|
+|2023-12-06|2024-06-28|Kandinsky 3.0 Technical Report|Vladimir Arkhipkin|[2312.03511v3](http://arxiv.org/pdf/2312.03511v3)|
+|2024-06-28|2024-06-28|Deceptive Diffusion: Generating Synthetic Adversarial Examples|Lucas Beerens|[2406.19807v1](http://arxiv.org/pdf/2406.19807v1)|
+|2024-06-28|2024-06-28|DISCO: Efficient Diffusion Solver for Large-Scale Combinatorial Optimization Problems|Kexiong Yu|[2406.19705v1](http://arxiv.org/pdf/2406.19705v1)|
+|2024-03-05|2024-06-28|Behavior Generation with Latent Actions|Seungjae Lee|[2403.03181v2](http://arxiv.org/pdf/2403.03181v2)|
+
+### Quantitative Finance
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2024-02-28|2024-06-28|A Multimodal Foundation Agent for Financial Trading: Tool-Augmented, Diversified, and Generalist|Wentao Zhang|[2402.18485v3](http://arxiv.org/pdf/2402.18485v3)|
 ## Update on 2024-06-29
 
 ### Physics
