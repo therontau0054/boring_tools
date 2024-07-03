@@ -1,0 +1,126 @@
+{
+    "Physics": [
+        {
+            "title": "Magic Insert: Style-Aware Drag-and-Drop",
+            "authors": "Nataniel Ruiz, Yuanzhen Li, Neal Wadhwa, Yael Pritch, Michael Rubinstein, David E. Jacobs, Shlomi Fruchter",
+            "summary": "We present Magic Insert, a method for dragging-and-dropping subjects from a\nuser-provided image into a target image of a different style in a physically\nplausible manner while matching the style of the target image. This work\nformalizes the problem of style-aware drag-and-drop and presents a method for\ntackling it by addressing two sub-problems: style-aware personalization and\nrealistic object insertion in stylized images. For style-aware personalization,\nour method first fine-tunes a pretrained text-to-image diffusion model using\nLoRA and learned text tokens on the subject image, and then infuses it with a\nCLIP representation of the target style. For object insertion, we use\nBootstrapped Domain Adaption to adapt a domain-specific photorealistic object\ninsertion model to the domain of diverse artistic styles. Overall, the method\nsignificantly outperforms traditional approaches such as inpainting. Finally,\nwe present a dataset, SubjectPlop, to facilitate evaluation and future progress\nin this area. Project page: https://magicinsert.github.io/",
+            "pdf_url": "http://arxiv.org/pdf/2407.02489v1",
+            "published": "2024-07-02 17:59:50+00:00",
+            "updated": "2024-07-02 17:59:50+00:00"
+        },
+        {
+            "title": "Time-reversed information flow through a wormhole in scalar-tensor gravity",
+            "authors": "Hoang Ky Nguyen, Francisco S. N. Lobo",
+            "summary": "This Letter aims to advance unexplored properties of a new class of Closed\nTimelike Curves recently discovered in scalar-tensor gravity, reported in\nUniverse 9, 467 (2023) and Eur.$\\,$Phys.$\\,$J.$\\,$C 83, 626 (2023). Therein, it\nwas shown that when the Weak Energy Condition is violated, the topology of\nspacetime in scalar-tensor gravity is altered, enabling the formation of\ntwo-way traversable wormholes. Furthermore, each of these wormholes acts a\ngateway between two $\\textit{time-mirrored}$ worlds, where the two\nasymptotically flat sheets in the Kruskal-Szekeres diagram are glued\nantipodally along $\\textit{three}$ directions -- time $t$ and the polar and\nazimuth angles $(\\theta,\\,\\varphi)$ of the 2-sphere -- to form a wormhole\nthroat. This contrasts with the standard embedding diagram which typically\nglues the sheets only along the $\\theta$ and $\\varphi$ directions. Crucially,\ndue to the `gluing' along the $t$ direction, the wormhole becomes a portal\nconnecting the two spacetime sheets with $\\textit{opposite}$ physical time\nflows, enabling the emergence of closed timelike loops which straddle the\nthroat. We shall point out that this portal $\\textit{mathematically}$ permits\nthe possibility of backward propagation of information $\\textit{against}$ time.\nThis feature is ubiquitous for wormholes in scalar-tensor theories. In\naddition, we formulate the Feynman sum for transition amplitudes of microscopic\nparticles in the proximity of a wormhole throat in which we account for\ntimelike paths that experience time reversal.",
+            "pdf_url": "http://arxiv.org/pdf/2405.12397v2",
+            "published": "2024-05-20 22:15:59+00:00",
+            "updated": "2024-07-02 17:57:42+00:00"
+        },
+        {
+            "title": "Thermoelectric magnetohydrodynamic flow in a liquid metal-infused trench",
+            "authors": "Oliver George Bond, Peter Denis Howell",
+            "summary": "We derive a mathematical model for steady, unidirectional, thermoelectric\nmagnetohydrodynamic (TEMHD) flow of liquid lithium along a solid metal trench,\nsubject to an imposed heat flux. We use a finite-element method implemented in\nCOMSOL Multiphysics to solve the problem numerically, demonstrating how the\nfluid velocity, induced magnetic field and temperature change depending on the\nkey physical and geometrical parameters. The observed flow structures are\nelucidated by using the method of matched asymptotic expansions to obtain\napproximate solutions in the limit where the Hartmann number is large and the\ntrench walls are thin.",
+            "pdf_url": "http://arxiv.org/pdf/2407.02470v1",
+            "published": "2024-07-02 17:49:59+00:00",
+            "updated": "2024-07-02 17:49:59+00:00"
+        },
+        {
+            "title": "A robust theory of thermal activation in magnetic systems with Gilbert damping",
+            "authors": "Hugo Bocquet, Peter M. Derlet",
+            "summary": "Magnetic systems can exhibit thermally activated transitions whose timescales\nare often described by an Arrhenius law. However, robust predictions of such\ntimescales are only available for certain cases. Inspired by the harmonic\ntheory of Langer, we derive a general activation rate for multi-dimensional\nspin systems. Assuming local thermal equilibrium in the initial minimum and\nderiving an expression for the flow of probability density along the real\nunstable dynamical mode at the saddle point, we obtain the expression for the\nactivation rate that is a function of the Gilbert damping parameter, $\\alpha$.\nWe find that this expression remains valid for the physically relevant regime\nof $\\alpha\\ll1$. When the activation is characterized by a coherent\nreorientation of all spins, we gain insight into the prefactor of the Arrhenius\nlaw by writing it in terms of spin wave frequencies and, for the case of a\nfinite antiferromagnetic spin chain, obtain an expression that depends\nexponentially on the square of the system size indicating a break-down of the\nMeyer-Neldel rule.",
+            "pdf_url": "http://arxiv.org/pdf/2407.02469v1",
+            "published": "2024-07-02 17:48:18+00:00",
+            "updated": "2024-07-02 17:48:18+00:00"
+        },
+        {
+            "title": "LtU-ILI: An All-in-One Framework for Implicit Inference in Astrophysics and Cosmology",
+            "authors": "Matthew Ho, Deaglan J. Bartlett, Nicolas Chartier, Carolina Cuesta-Lazaro, Simon Ding, Axel Lapel, Pablo Lemos, Christopher C. Lovell, T. Lucas Makinen, Chirag Modi, Viraj Pandya, Shivam Pandey, Lucia A. Perez, Benjamin Wandelt, Greg L. Bryan",
+            "summary": "This paper presents the Learning the Universe Implicit Likelihood Inference\n(LtU-ILI) pipeline, a codebase for rapid, user-friendly, and cutting-edge\nmachine learning (ML) inference in astrophysics and cosmology. The pipeline\nincludes software for implementing various neural architectures, training\nschemata, priors, and density estimators in a manner easily adaptable to any\nresearch workflow. It includes comprehensive validation metrics to assess\nposterior estimate coverage, enhancing the reliability of inferred results.\nAdditionally, the pipeline is easily parallelizable and is designed for\nefficient exploration of modeling hyperparameters. To demonstrate its\ncapabilities, we present real applications across a range of astrophysics and\ncosmology problems, such as: estimating galaxy cluster masses from X-ray\nphotometry; inferring cosmology from matter power spectra and halo point\nclouds; characterizing progenitors in gravitational wave signals; capturing\nphysical dust parameters from galaxy colors and luminosities; and establishing\nproperties of semi-analytic models of galaxy formation. We also include\nexhaustive benchmarking and comparisons of all implemented methods as well as\ndiscussions about the challenges and pitfalls of ML inference in astronomical\nsciences. All code and examples are made publicly available at\nhttps://github.com/maho3/ltu-ili.",
+            "pdf_url": "http://arxiv.org/pdf/2402.05137v2",
+            "published": "2024-02-06 19:00:00+00:00",
+            "updated": "2024-07-02 17:38:18+00:00"
+        },
+        {
+            "title": "Quantum collective motion of macroscopic mechanical oscillators",
+            "authors": "Mahdi Chegnizadeh, Marco Scigliuzzo, Amir Youssefi, Shingo Kono, Evgenii Guzovskii, Tobias J. Kippenberg",
+            "summary": "Collective phenomena in physics emerge from interactions among numerous\ncomponents in a complex system, leading to behaviors distinct from those of\nindividual parts. This domain includes classical phenomena like synchronization\nand extends to quantum phenomena such as Bose-Einstein condensation and\nsuper-radiance. Studying these phenomena in controlled artificial systems\nallows for simulating complex natural systems. Solid-state mechanical\noscillators, controllable via optomechanical coupling, have been proposed for\nexploring collective phenomena, but experimental realizations face the\nchallenge of requiring nearly degenerate mechanical oscillators. In this work,\nwe present the collective behavior of six mechanical oscillators coupled to a\ncommon cavity in a superconducting circuit optomechanical platform. We\nexperimentally demonstrate that increasing the optomechanical coupling rates\ninduces a transition from individual mechanical oscillators to a collective\nmode, characterized by equal amplitude and relative phase of the oscillators.\nBy utilizing the finite non-degeneracy of mechanical frequencies and rapidly\nquenching the optomechanical couplings, we directly measure the amplitude and\nrelative phase of the oscillators in the collective mode. We find that the\ncoupling rate of such mode to the cavity increases with the number of coupled\noscillators, similar to a Tavis-Cummings system. Further increasing the\ncoupling rates pushes this collective mode into the strong coupling regime with\nthe cavity. We demonstrate sideband ground-state cooling of the collective\nmode, achieving a 0.4 quanta occupation, and observe quantum sideband asymmetry\nfor this mode. Observing collective optomechanical phenomena in the quantum\nregime opens avenues for studying synchronization, investigating topological\nphases of sound, and achieving multipartite phonon-phonon and photon-phonon\nentanglement.",
+            "pdf_url": "http://arxiv.org/pdf/2407.02453v1",
+            "published": "2024-07-02 17:32:19+00:00",
+            "updated": "2024-07-02 17:32:19+00:00"
+        },
+        {
+            "title": "Meta 3D AssetGen: Text-to-Mesh Generation with High-Quality Geometry, Texture, and PBR Materials",
+            "authors": "Yawar Siddiqui, Tom Monnier, Filippos Kokkinos, Mahendra Kariya, Yanir Kleiman, Emilien Garreau, Oran Gafni, Natalia Neverova, Andrea Vedaldi, Roman Shapovalov, David Novotny",
+            "summary": "We present Meta 3D AssetGen (AssetGen), a significant advancement in\ntext-to-3D generation which produces faithful, high-quality meshes with texture\nand material control. Compared to works that bake shading in the 3D object's\nappearance, AssetGen outputs physically-based rendering (PBR) materials,\nsupporting realistic relighting. AssetGen generates first several views of the\nobject with factored shaded and albedo appearance channels, and then\nreconstructs colours, metalness and roughness in 3D, using a deferred shading\nloss for efficient supervision. It also uses a sign-distance function to\nrepresent 3D shape more reliably and introduces a corresponding loss for direct\nshape supervision. This is implemented using fused kernels for high memory\nefficiency. After mesh extraction, a texture refinement transformer operating\nin UV space significantly improves sharpness and details. AssetGen achieves 17%\nimprovement in Chamfer Distance and 40% in LPIPS over the best concurrent work\nfor few-view reconstruction, and a human preference of 72% over the best\nindustry competitors of comparable speed, including those that support PBR.\nProject page with generated assets: https://assetgen.github.io",
+            "pdf_url": "http://arxiv.org/pdf/2407.02445v1",
+            "published": "2024-07-02 17:21:47+00:00",
+            "updated": "2024-07-02 17:21:47+00:00"
+        },
+        {
+            "title": "Deconstructing flavor anomalously",
+            "authors": "Javier Fuentes-Mart\u00edn, Javier M. Lizana",
+            "summary": "Flavor deconstruction refers to ultraviolet completions of the Standard Model\nwhere the gauge group is split into multiple factors under which fermions\ntransform non-universally. We propose a mechanism for charging same-family\nfermions into different factors of a deconstructed gauge theory in a way that\ngauge anomalies are avoided. The mechanism relies in the inclusion of a\nstrongly-coupled sector, responsible of both anomaly cancellation and the\nbreaking of the non-universal gauge symmetry. As an application, we propose\ndifferent flavor deconstructions of the Standard Model that, instead of\ncomplete families, uniquely identify specific third-family fermions. All these\ndeconstructions allow for a new physics scale that can be as low as few TeV and\nprovide an excellent starting point for the explanation of the Standard Model\nflavor hierarchies.",
+            "pdf_url": "http://arxiv.org/pdf/2402.09507v2",
+            "published": "2024-02-14 19:00:00+00:00",
+            "updated": "2024-07-02 17:14:56+00:00"
+        },
+        {
+            "title": "Sentient observers and the ontology of spacetime",
+            "authors": "Ovidiu Cristinel Stoica",
+            "summary": "I show that, by the same criteria that led to Galilean and Special Relativity\nand gauge symmetries, there is no way to identify a unique set of observables\nthat give the structure of space or spacetime. In some sense, space is lost in\nthe state space itself. Moreover, the relationship between the observables and\nthe physical properties they represent becomes relative. But we can verify that\nthey are not relative, and the spacetime structure is unique. I show that this\nimplies that not all structures isomorphic with observers can be observers,\ncontradicting Structural Realism and Physicalism. This indicates a strong\nconnection between spacetime and the sentience of the observers, as anticipated\nby some early contributors to Special and General Relativity.",
+            "pdf_url": "http://arxiv.org/pdf/2407.02421v1",
+            "published": "2024-07-02 16:48:28+00:00",
+            "updated": "2024-07-02 16:48:28+00:00"
+        },
+        {
+            "title": "Approximate symmetries, insulators, and superconductivity in continuum-model description of twisted WSe$_2$",
+            "authors": "Maine Christos, Pietro M. Bonetti, Mathias S. Scheurer",
+            "summary": "Motivated by the recent discovery of superconductivity in twisted bilayer\nWSe$_2$, we analyze the correlated physics in this system in the framework of a\ncontinuum model for the moir\\'e superlattice. Using the symmetries in a\nfine-tuned limit of the system, we identify the strong-coupling ground states\nand their fate when the perturbations caused by finite bandwidth, displacement\nfield, and the phase of the intralayer potential are taken into account. We\nclassify the superconducting instabilities and, employing a spin-fermion-like\nmodel, study the superconducting instabilities in proximity to these insulating\nparticle-hole orders. This reveals that only a neighboring intervalley coherent\nphase (with zero or finite wave vector) is naturally consistent with the\nobserved superconducting state. Depending on details, the superconductor will\nbe nodal or a chiral gapped state while further including electron-phonon\ncoupling leads to a fully gapped, time-reversal symmetric pairing state.",
+            "pdf_url": "http://arxiv.org/pdf/2407.02393v1",
+            "published": "2024-07-02 16:11:19+00:00",
+            "updated": "2024-07-02 16:11:19+00:00"
+        }
+    ],
+    "Diffusion": [
+        {
+            "title": "Naturalistic Music Decoding from EEG Data via Latent Diffusion Models",
+            "authors": "Emilian Postolache, Natalia Polouliakh, Hiroaki Kitano, Akima Connelly, Emanuele Rodol\u00e0, Luca Cosmo, Taketo Akama",
+            "summary": "In this article, we explore the potential of using latent diffusion models, a\nfamily of powerful generative models, for the task of reconstructing\nnaturalistic music from electroencephalogram (EEG) recordings. Unlike simpler\nmusic with limited timbres, such as MIDI-generated tunes or monophonic pieces,\nthe focus here is on intricate music featuring a diverse array of instruments,\nvoices, and effects, rich in harmonics and timbre. This study represents an\ninitial foray into achieving general music reconstruction of high-quality using\nnon-invasive EEG data, employing an end-to-end training approach directly on\nraw data without the need for manual pre-processing and channel selection. We\ntrain our models on the public NMED-T dataset and perform quantitative\nevaluation proposing neural embedding-based metrics. We additionally perform\nsong classification based on the generated tracks. Our work contributes to the\nongoing research in neural decoding and brain-computer interfaces, offering\ninsights into the feasibility of using EEG data for complex auditory\ninformation reconstruction.",
+            "pdf_url": "http://arxiv.org/pdf/2405.09062v3",
+            "published": "2024-05-15 03:26:01+00:00",
+            "updated": "2024-07-02 17:00:46+00:00"
+        },
+        {
+            "title": "Greedy-DiM: Greedy Algorithms for Unreasonably Effective Face Morphs",
+            "authors": "Zander W. Blasingame, Chen Liu",
+            "summary": "Morphing attacks are an emerging threat to state-of-the-art Face Recognition\n(FR) systems, which aim to create a single image that contains the biometric\ninformation of multiple identities. Diffusion Morphs (DiM) are a recently\nproposed morphing attack that has achieved state-of-the-art performance for\nrepresentation-based morphing attacks. However, none of the existing research\non DiMs have leveraged the iterative nature of DiMs and left the DiM model as a\nblack box, treating it no differently than one would a Generative Adversarial\nNetwork (GAN) or Varational AutoEncoder (VAE). We propose a greedy strategy on\nthe iterative sampling process of DiM models which searches for an optimal step\nguided by an identity-based heuristic function. We compare our proposed\nalgorithm against ten other state-of-the-art morphing algorithms using the\nopen-source SYN-MAD 2022 competition dataset. We find that our proposed\nalgorithm is unreasonably effective, fooling all of the tested FR systems with\nan MMPMR of 100%, outperforming all other morphing algorithms compared.",
+            "pdf_url": "http://arxiv.org/pdf/2404.06025v2",
+            "published": "2024-04-09 05:21:32+00:00",
+            "updated": "2024-07-02 15:48:49+00:00"
+        },
+        {
+            "title": "Diffusion Forcing: Next-token Prediction Meets Full-Sequence Diffusion",
+            "authors": "Boyuan Chen, Diego Marti Monso, Yilun Du, Max Simchowitz, Russ Tedrake, Vincent Sitzmann",
+            "summary": "This paper presents Diffusion Forcing, a new training paradigm where a\ndiffusion model is trained to denoise a set of tokens with independent\nper-token noise levels. We apply Diffusion Forcing to sequence generative\nmodeling by training a causal next-token prediction model to generate one or\nseveral future tokens without fully diffusing past ones. Our approach is shown\nto combine the strengths of next-token prediction models, such as\nvariable-length generation, with the strengths of full-sequence diffusion\nmodels, such as the ability to guide sampling to desirable trajectories. Our\nmethod offers a range of additional capabilities, such as (1) rolling-out\nsequences of continuous tokens, such as video, with lengths past the training\nhorizon, where baselines diverge and (2) new sampling and guiding schemes that\nuniquely profit from Diffusion Forcing's variable-horizon and causal\narchitecture, and which lead to marked performance gains in decision-making and\nplanning tasks. In addition to its empirical success, our method is proven to\noptimize a variational lower bound on the likelihoods of all subsequences of\ntokens drawn from the true joint distribution. Project website:\nhttps://boyuan.space/diffusion-forcing/",
+            "pdf_url": "http://arxiv.org/pdf/2407.01392v2",
+            "published": "2024-07-01 15:43:25+00:00",
+            "updated": "2024-07-02 15:39:29+00:00"
+        },
+        {
+            "title": "Counterfactual Data Augmentation with Denoising Diffusion for Graph Anomaly Detection",
+            "authors": "Chunjing Xiao, Shikang Pang, Xovee Xu, Xuan Li, Goce Trajcevski, Fan Zhou",
+            "summary": "A critical aspect of Graph Neural Networks (GNNs) is to enhance the node\nrepresentations by aggregating node neighborhood information. However, when\ndetecting anomalies, the representations of abnormal nodes are prone to be\naveraged by normal neighbors, making the learned anomaly representations less\ndistinguishable. To tackle this issue, we propose CAGAD -- an unsupervised\nCounterfactual data Augmentation method for Graph Anomaly Detection -- which\nintroduces a graph pointer neural network as the heterophilic node detector to\nidentify potential anomalies whose neighborhoods are normal-node-dominant. For\neach identified potential anomaly, we design a graph-specific diffusion model\nto translate a part of its neighbors, which are probably normal, into anomalous\nones. At last, we involve these translated neighbors in GNN neighborhood\naggregation to produce counterfactual representations of anomalies. Through\naggregating the translated anomalous neighbors, counterfactual representations\nbecome more distinguishable and further advocate detection performance. The\nexperimental results on four datasets demonstrate that CAGAD significantly\noutperforms strong baselines, with an average improvement of 2.35% on F1, 2.53%\non AUC-ROC, and 2.79% on AUC-PR.",
+            "pdf_url": "http://arxiv.org/pdf/2407.02143v1",
+            "published": "2024-07-02 10:37:54+00:00",
+            "updated": "2024-07-02 10:37:54+00:00"
+        },
+        {
+            "title": "Latent Diffusion Model for Generating Ensembles of Climate Simulations",
+            "authors": "Johannes Meuer, Maximilian Witte, Claudia Timmreck, Thomas Ludwig, Christopher Kadow",
+            "summary": "Obtaining accurate estimates of uncertainty in climate scenarios often\nrequires generating large ensembles of high-resolution climate simulations, a\ncomputationally expensive and memory intensive process. To address this\nchallenge, we train a novel generative deep learning approach on extensive sets\nof climate simulations. The model consists of two components: a variational\nautoencoder for dimensionality reduction and a denoising diffusion\nprobabilistic model that generates multiple ensemble members. We validate our\nmodel on the Max Planck Institute Grand Ensemble and show that it achieves good\nagreement with the original ensemble in terms of variability. By leveraging the\nlatent space representation, our model can rapidly generate large ensembles\non-the-fly with minimal memory requirements, which can significantly improve\nthe efficiency of uncertainty quantification in climate simulations.",
+            "pdf_url": "http://arxiv.org/pdf/2407.02070v1",
+            "published": "2024-07-02 08:59:24+00:00",
+            "updated": "2024-07-02 08:59:24+00:00"
+        }
+    ]
+}

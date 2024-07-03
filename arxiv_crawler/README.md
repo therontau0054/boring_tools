@@ -23,6 +23,31 @@ TODO:
 
 
 
+
+## Update on 2024-07-03
+
+### Physics
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2024-07-02|2024-07-02|Magic Insert: Style-Aware Drag-and-Drop|Nataniel Ruiz|[2407.02489v1](http://arxiv.org/pdf/2407.02489v1)|
+|2024-05-20|2024-07-02|Time-reversed information flow through a wormhole in scalar-tensor gravity|Hoang Ky Nguyen|[2405.12397v2](http://arxiv.org/pdf/2405.12397v2)|
+|2024-07-02|2024-07-02|Thermoelectric magnetohydrodynamic flow in a liquid metal-infused trench|Oliver George Bond|[2407.02470v1](http://arxiv.org/pdf/2407.02470v1)|
+|2024-07-02|2024-07-02|A robust theory of thermal activation in magnetic systems with Gilbert damping|Hugo Bocquet|[2407.02469v1](http://arxiv.org/pdf/2407.02469v1)|
+|2024-02-06|2024-07-02|LtU-ILI: An All-in-One Framework for Implicit Inference in Astrophysics and Cosmology|Matthew Ho|[2402.05137v2](http://arxiv.org/pdf/2402.05137v2)|
+|2024-07-02|2024-07-02|Quantum collective motion of macroscopic mechanical oscillators|Mahdi Chegnizadeh|[2407.02453v1](http://arxiv.org/pdf/2407.02453v1)|
+|2024-07-02|2024-07-02|Meta 3D AssetGen: Text-to-Mesh Generation with High-Quality Geometry, Texture, and PBR Materials|Yawar Siddiqui|[2407.02445v1](http://arxiv.org/pdf/2407.02445v1)|
+|2024-02-14|2024-07-02|Deconstructing flavor anomalously|Javier Fuentes-Martín|[2402.09507v2](http://arxiv.org/pdf/2402.09507v2)|
+|2024-07-02|2024-07-02|Sentient observers and the ontology of spacetime|Ovidiu Cristinel Stoica|[2407.02421v1](http://arxiv.org/pdf/2407.02421v1)|
+|2024-07-02|2024-07-02|Approximate symmetries, insulators, and superconductivity in continuum-model description of twisted WSe$_2$|Maine Christos|[2407.02393v1](http://arxiv.org/pdf/2407.02393v1)|
+
+### Diffusion
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2024-05-15|2024-07-02|Naturalistic Music Decoding from EEG Data via Latent Diffusion Models|Emilian Postolache|[2405.09062v3](http://arxiv.org/pdf/2405.09062v3)|
+|2024-04-09|2024-07-02|Greedy-DiM: Greedy Algorithms for Unreasonably Effective Face Morphs|Zander W. Blasingame|[2404.06025v2](http://arxiv.org/pdf/2404.06025v2)|
+|2024-07-01|2024-07-02|Diffusion Forcing: Next-token Prediction Meets Full-Sequence Diffusion|Boyuan Chen|[2407.01392v2](http://arxiv.org/pdf/2407.01392v2)|
+|2024-07-02|2024-07-02|Counterfactual Data Augmentation with Denoising Diffusion for Graph Anomaly Detection|Chunjing Xiao|[2407.02143v1](http://arxiv.org/pdf/2407.02143v1)|
+|2024-07-02|2024-07-02|Latent Diffusion Model for Generating Ensembles of Climate Simulations|Johannes Meuer|[2407.02070v1](http://arxiv.org/pdf/2407.02070v1)|
 ## Update on 2024-07-01
 
 ### Physics
