@@ -24,6 +24,31 @@ TODO:
 
 
 
+
+## Update on 2024-07-05
+
+### Physics
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2024-07-03|2024-07-03|`Interaction annealing' to determine effective quantized valence and orbital structure: an illustration with ferro-orbital order in WTe$_2$|Ruoshi Jiang|[2407.03319v1](http://arxiv.org/pdf/2407.03319v1)|
+|2024-07-03|2024-07-03|Novel Pressure-Equilibrium and Kinetic-Energy Preserving fluxes for compressible flows based on the harmonic mean|Carlo De Michele|[2407.03299v1](http://arxiv.org/pdf/2407.03299v1)|
+|2024-05-08|2024-07-03|Chiral Magnetic Effect in Heavy Ion Collisions: The Present and Future|Dmitri E. Kharzeev|[2405.05427v2](http://arxiv.org/pdf/2405.05427v2)|
+|2024-06-03|2024-07-03|Using Convolutional Neural Networks to detect Edge Localized Modes in DIII-D from Doppler Backscattering measurements|N. Q. X. Teo|[2406.01464v2](http://arxiv.org/pdf/2406.01464v2)|
+|2024-07-03|2024-07-03|Null Infinity and Horizons: A New Approach to Fluxes and Charges|Abhay Ashtekar|[2407.03254v1](http://arxiv.org/pdf/2407.03254v1)|
+|2024-07-03|2024-07-03|Picosecond lifetimes of hydrogen bonds in the halide perovskite CH$_3$NH$_3$PbBr$_3$|Alejandro Garrote-Márquez|[2407.03244v1](http://arxiv.org/pdf/2407.03244v1)|
+|2024-07-03|2024-07-03|Quantum Curved Tetrahedron, Quantum Group Intertwiner Space, and Coherent States|Chen-Hung Hsiao|[2407.03242v1](http://arxiv.org/pdf/2407.03242v1)|
+|2023-12-08|2024-07-03|Differential Equations for Cosmological Correlators|Nima Arkani-Hamed|[2312.05303v2](http://arxiv.org/pdf/2312.05303v2)|
+|2024-03-11|2024-07-03|Searching for New Fundamental Interactions via Isotopic Shifts in Molecular Lattice Clocks|E. Tiberi|[2403.07097v2](http://arxiv.org/pdf/2403.07097v2)|
+|2024-07-03|2024-07-03|Wideband Coherent Microwave Conversion via Magnon Nonlinearity in Hybrid Quantum System|Jiahao Wu|[2407.03201v1](http://arxiv.org/pdf/2407.03201v1)|
+
+### Diffusion
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2024-07-03|2024-07-03|DisCo-Diff: Enhancing Continuous Diffusion Models with Discrete Latents|Yilun Xu|[2407.03300v1](http://arxiv.org/pdf/2407.03300v1)|
+|2024-07-03|2024-07-03|Improved Noise Schedule for Diffusion Training|Tiankai Hang|[2407.03297v1](http://arxiv.org/pdf/2407.03297v1)|
+|2024-06-30|2024-07-03|Diffusion Models for Offline Multi-agent Reinforcement Learning with Safety Constraints|Jianuo Huang|[2407.00741v2](http://arxiv.org/pdf/2407.00741v2)|
+|2024-07-03|2024-07-03|Spatio-Temporal Adaptive Diffusion Models for EEG Super-Resolution in Epilepsy Diagnosis|Tong Zhou|[2407.03089v1](http://arxiv.org/pdf/2407.03089v1)|
+|2024-07-03|2024-07-03|NLP Sampling: Combining MCMC and NLP Methods for Diverse Constrained Sampling|Marc Toussaint|[2407.03035v1](http://arxiv.org/pdf/2407.03035v1)|
 ## Update on 2024-07-03
 
 ### Physics

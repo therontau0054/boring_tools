@@ -1,0 +1,126 @@
+{
+    "Physics": [
+        {
+            "title": "`Interaction annealing' to determine effective quantized valence and orbital structure: an illustration with ferro-orbital order in WTe$_2$",
+            "authors": "Ruoshi Jiang, Fangyuan Gu, Wei Ku",
+            "summary": "Strongly correlated materials are known to display qualitatively distinct\nemergent behaviors at low energy. Conveniently, the superposition principle of\nquantum mechanics ensures that, upon absorbing quantum fluctuation, these rich\nlow-energy behaviors can always be effectively described by dressed particles\nwith fully quantized charge, spin, and orbitals structure. Such a powerful and\nsimple description is, however, difficult to access through density functional\ntheory (DFT) calculations, since in terms of bare particles the quantum\nfluctuation would heavily smear the quantized quantities. To address this\ndifficulty, we propose an `interaction annealing' approach to decipher the\ndominant valence and orbital structure by suppressing the charge fluctuation\nthrough enhancing ionic charging energy. Applying this approach to\nferroelectric semi-metal WTe${_2}$ as a demonstration, we identify a dominant\nferro-orbital ordered structure with W ion in a $d^2$ spin-0 configuration. The\nproposed approach is straightforward to implement in standard DFT calculations\nto grant additional access to essential low-energy physics.",
+            "pdf_url": "http://arxiv.org/pdf/2407.03319v1",
+            "published": "2024-07-03 17:59:18+00:00",
+            "updated": "2024-07-03 17:59:18+00:00"
+        },
+        {
+            "title": "Novel Pressure-Equilibrium and Kinetic-Energy Preserving fluxes for compressible flows based on the harmonic mean",
+            "authors": "Carlo De Michele, Gennaro Coppola",
+            "summary": "Employing physically-consistent numerical methods is an important step\ntowards attaining robust and accurate numerical simulations. When addressing\ncompressible flows, in addition to preserving kinetic energy at a discrete\nlevel, as done in the incompressible case, additional properties are sought\nafter, such as the ability to preserve the equilibrium of pressure that can be\nfound at contact interfaces. This paper investigates the general conditions of\nthe spatial numerical discretizations to achieve the pressure equilibrium\npreserving property (PEP). Schemes from the literature are analyzed in this\nrespect, and procedures to impart the PEP property to existing discretizations\nare proposed. Additionally, new PEP numerical schemes are introduced through\nminor modifications of classical ones. Numerical tests confirmed the theory\nhereby presented and showed that the modifications, beyond the enforcement of\nthe PEP property, have a generally positive impact on the performances of the\noriginal schemes.",
+            "pdf_url": "http://arxiv.org/pdf/2407.03299v1",
+            "published": "2024-07-03 17:41:56+00:00",
+            "updated": "2024-07-03 17:41:56+00:00"
+        },
+        {
+            "title": "Chiral Magnetic Effect in Heavy Ion Collisions: The Present and Future",
+            "authors": "Dmitri E. Kharzeev, Jinfeng Liao, Prithwish Tribedy",
+            "summary": "The chiral magnetic effect (CME) is a collective quantum phenomenon that\narises from the interplay between gauge field topology and fermion chiral\nanomaly, encompassing a wide range of physical systems from semimetals to\nquark-gluon plasma. This review, with a focus on CME and related effects in\nheavy ion collisions, aims to provide an introductory discussion on its\nconceptual foundation and measurement methodology, a timely update on the\npresent status in terms of experimental findings and theoretical progress, as\nwell as an outlook into the open problems and future developments.",
+            "pdf_url": "http://arxiv.org/pdf/2405.05427v2",
+            "published": "2024-05-08 21:13:06+00:00",
+            "updated": "2024-07-03 17:41:36+00:00"
+        },
+        {
+            "title": "Using Convolutional Neural Networks to detect Edge Localized Modes in DIII-D from Doppler Backscattering measurements",
+            "authors": "N. Q. X. Teo, V. H. Hall-Chen, K. Barada, R. J. H. Ng, L. Gu, A. K. Yeoh, Q. T. Pratt, X. Garbet, T. L. Rhodes",
+            "summary": "In H-mode tokamak plasmas, the plasma is sometimes ejected beyond the edge\ntransport barrier. These events are known as edge localized modes (ELMs). ELMs\ncause a loss of energy and damage the vessel walls. Understanding the physics\nof ELMs and by extension, how to detect and mitigate them, is an important\nchallenge. In this paper, we focus on two diagnostic methods $\\unicode{x2013}$\nD-alpha spectroscopy and Doppler backscattering (DBS). The former detects ELMs\nby measuring Balmer alpha emission while the latter uses microwave radiation to\nprobe the plasma. DBS has the advantage of having higher temporal resolution\nand robustness to damage. These advantages of DBS diagnostics may be beneficial\nfor future operational tokamaks and thus data processing techniques for DBS\nshould be developed in preparation. In sight of this, we explore the training\nof neural networks to detect ELMs from DBS data, using D-alpha data as the\nground truth. With shots found in the DIII-D database, the model is trained to\nclassify each time step based on the occurrence of an ELM event. The results\nare promising. When tested on shots similar to those used for training, the\nmodel is capable of consistently achieving a high f1-score of 0.93. This score\nis a performance metric for imbalanced datasets that ranges between 0 and 1. We\nevaluate the performance of our neural network on a variety of ELMs\n$\\unicode{x2013}$ grasssy, suppressed, and wide pedestal $\\unicode{x2013}$\nfinding broad applicability. Beyond ELMs, our work demonstrates the wider\nfeasibility of applying neural networks to data from DBS diagnostics.",
+            "pdf_url": "http://arxiv.org/pdf/2406.01464v2",
+            "published": "2024-06-03 15:54:43+00:00",
+            "updated": "2024-07-03 16:45:26+00:00"
+        },
+        {
+            "title": "Null Infinity and Horizons: A New Approach to Fluxes and Charges",
+            "authors": "Abhay Ashtekar, Simone Speziale",
+            "summary": "We introduce a Hamiltonian framework tailored to degrees of freedom (DOF) of\nfield theories that reside in suitable 3-dimensional open regions, and then\napply it to the gravitational DOF of general relativity. Specifically, these\nDOF now refer to open regions of null infinity, and of black hole (and\ncosmological) horizons representing equilibrium situations. At null infinity\nthe new Hamiltonian framework yields the well-known BMS fluxes and charges. By\ncontrast, all fluxes vanish identically at black hole (and cosmological)\nhorizons just as one would physically expect. In a companion paper we showed\nthat, somewhat surprisingly, the geometry and symmetries of these two physical\nconfigurations descend from a common framework. This paper reinforces that\ntheme: Very different physics emerges in the two cases from a common\nHamiltonian framework because of the difference in the nature of degrees of\nfreedom. Finally, we compare and contrast this Hamiltonian approach with those\navailable in the literature.",
+            "pdf_url": "http://arxiv.org/pdf/2407.03254v1",
+            "published": "2024-07-03 16:35:23+00:00",
+            "updated": "2024-07-03 16:35:23+00:00"
+        },
+        {
+            "title": "Picosecond lifetimes of hydrogen bonds in the halide perovskite CH$_3$NH$_3$PbBr$_3$",
+            "authors": "Alejandro Garrote-M\u00e1rquez, Lucas Lodeiro, Norge Cruz Hern\u00e1ndez, Xia Liang, Aron Walsh, Eduardo Men\u00e9ndez-Proupin",
+            "summary": "The structures and properties of organic-inorganic perovskites are influenced\nby the hydrogen bonding between the organic cations and the inorganic\noctahedral networks. This study explores the dynamics of hydrogen bonds in\nCH$_3$NH$_3$PbBr$_3$ across a temperature range from 70 K to 350 K, using\nmolecular dynamics simulations with machine-learning force fields. The results\nindicate that the lifetime of hydrogen bonds decreases with increasing\ntemperature from 7.6 ps (70 K) to 0.16 ps (350 K), exhibiting Arrhenius-type\nbehaviour. The geometric conditions for hydrogen bonding, which include bond\nlengths and angles, maintain consistency across the full temperature range. The\nrelevance of hydrogen bonds for the vibrational states of the material is also\nevidenced through a detailed analysis of the vibrational power spectra,\ndemonstrating their significant effect on the physical properties for this\nclass of perovskites.",
+            "pdf_url": "http://arxiv.org/pdf/2407.03244v1",
+            "published": "2024-07-03 16:15:22+00:00",
+            "updated": "2024-07-03 16:15:22+00:00"
+        },
+        {
+            "title": "Quantum Curved Tetrahedron, Quantum Group Intertwiner Space, and Coherent States",
+            "authors": "Chen-Hung Hsiao, Qiaoyin Pan",
+            "summary": "In this paper, we construct the phase space of a constantly curved\ntetrahedron with fixed triangle areas in terms of a pair of Darboux coordinates\ncalled the length and twist coordinates, which are in analogy to the\nFenchel-Nielsen coordinates for flat connections, and their quantization. The\ncurvature is identified to the value of the cosmological constant, either\npositive or negative. The physical Hilbert space is given by the\n$\\mathcal{U}_q(\\mathfrak{su}(2))$ intertwiner space. We show that the quantum\ntrace of quantum monodromies, defining the quantum length operators, form a\nfusion algebra and describe their representation theory. We also construct the\ncoherent states in the physical Hilbert space labeled by the length and twist\ncoordinates. These coherent states describe quantum curved tetrahedra and peak\nat points of the tetrahedron phase space. This works is closely related to 3+1\ndimensional Loop Quantum Gravity with a non-vanishing cosmological constant.\nThe coherent states constructed herein serve as good candidates for the\napplication to the spinfoam model with a cosmological constant.",
+            "pdf_url": "http://arxiv.org/pdf/2407.03242v1",
+            "published": "2024-07-03 16:11:43+00:00",
+            "updated": "2024-07-03 16:11:43+00:00"
+        },
+        {
+            "title": "Differential Equations for Cosmological Correlators",
+            "authors": "Nima Arkani-Hamed, Daniel Baumann, Aaron Hillman, Austin Joyce, Hayden Lee, Guilherme L. Pimentel",
+            "summary": "Cosmological fluctuations retain a memory of the physics that generated them\nin their spatial correlations. The strength of correlations varies smoothly as\na function of external kinematics, which is encoded in differential equations\nsatisfied by cosmological correlation functions. In this work, we provide a\nbroader perspective on the origin and structure of these differential\nequations. As a concrete example, we study conformally coupled scalar fields in\na power-law cosmology. The wavefunction coefficients in this model have\nintegral representations, with the integrands being the product of the\ncorresponding flat-space results and \"twist factors\" that depend on the\ncosmological evolution. These integrals are part of a finite-dimensional basis\nof master integrals, which satisfy a system of first-order differential\nequations. We develop a formalism to derive these differential equations for\narbitrary tree graphs. The results can be represented in graphical form by\nassociating the singularities of the differential equations with a set of graph\ntubings. Upon differentiation, these tubings grow in a local and predictive\nfashion. In fact, a few remarkably simple rules allow us to predict -- by hand\n-- the equations for all tree graphs. While the rules of this \"kinematic flow\"\nare defined purely in terms of data on the boundary of the spacetime, they\nreflect the physics of bulk time evolution. We also study the analogous\nstructures in ${\\rm tr}\\,\\phi^3$ theory, and see some glimpses of hidden\nstructure in the sum over planar graphs. This suggests that there is an\nautonomous combinatorial or geometric construction from which cosmological\ncorrelations, and the associated spacetime, emerge.",
+            "pdf_url": "http://arxiv.org/pdf/2312.05303v2",
+            "published": "2023-12-08 19:00:00+00:00",
+            "updated": "2024-07-03 16:09:08+00:00"
+        },
+        {
+            "title": "Searching for New Fundamental Interactions via Isotopic Shifts in Molecular Lattice Clocks",
+            "authors": "E. Tiberi, M. Borkowski, B. Iritani, R. Moszynski, T. Zelevinsky",
+            "summary": "Precision measurements with ultracold atoms and molecules are primed to probe\nbeyond-the-Standard Model physics. Isotopologues of homonuclear molecules are a\nnatural testbed for new Yukawa-type mass-dependent forces at nanometer scales,\ncomplementing existing mesoscopic-body and neutron scattering experiments. Here\nwe propose using isotopic shift measurements in molecular lattice clocks to\nconstrain these new interactions from new massive scalar particles in keV$/c^2$\nrange: the new interaction would impart an extra isotopic shift to molecular\nlevels on top of one predicted by the Standard Model. For the strontium dimer,\na Hz-level agreement between experiment and theory could constrain the coupling\nof the new particles to hadrons by up to an order-of-magnitude over the most\nstringent existing experiments.",
+            "pdf_url": "http://arxiv.org/pdf/2403.07097v2",
+            "published": "2024-03-11 18:45:08+00:00",
+            "updated": "2024-07-03 15:38:54+00:00"
+        },
+        {
+            "title": "Wideband Coherent Microwave Conversion via Magnon Nonlinearity in Hybrid Quantum System",
+            "authors": "Jiahao Wu, Jiacheng Liu, Zheyu Ren, Man Yin Leung, Wai Kuen Leung, Kin On Ho, Xiangrong Wang, Qiming Shao, Sen Yang",
+            "summary": "Frequency conversion is a widely realized physical process in nonlinear\nsystems of optics and electronics. As an emerging nonlinear platform,\nspintronic devices have the potential to achieve stronger frequency conversion.\nHere, we demonstrated a microwave frequency conversion method in a hybrid\nquantum system, integrating nitrogen-vacancy centers in diamond with magnetic\nthin film CoFeB. We achieve a conversion bandwidth ranging from 0.1 to 12GHz,\npresenting an up to $\\mathrm{25^{th}}$ order frequency conversion and further\ndisplay the application of this method for frequency detection and qubits\ncoherent control. Distinct from traditional frequency conversion techniques\nbased on nonlinear electric response, our approach employs nonlinear magnetic\nresponse in spintronic devices. The nonlinearity, originating from the symmetry\nbreaking such as domain walls in magnetic films, presents that our method can\nbe adapted to hybrid systems of other spintronic devices and spin qubits,\nexpanding the application scope of spintronic devices and providing a promising\non-chip platform for coupling quantum systems.",
+            "pdf_url": "http://arxiv.org/pdf/2407.03201v1",
+            "published": "2024-07-03 15:33:34+00:00",
+            "updated": "2024-07-03 15:33:34+00:00"
+        }
+    ],
+    "Diffusion": [
+        {
+            "title": "DisCo-Diff: Enhancing Continuous Diffusion Models with Discrete Latents",
+            "authors": "Yilun Xu, Gabriele Corso, Tommi Jaakkola, Arash Vahdat, Karsten Kreis",
+            "summary": "Diffusion models (DMs) have revolutionized generative learning. They utilize\na diffusion process to encode data into a simple Gaussian distribution.\nHowever, encoding a complex, potentially multimodal data distribution into a\nsingle continuous Gaussian distribution arguably represents an unnecessarily\nchallenging learning problem. We propose Discrete-Continuous Latent Variable\nDiffusion Models (DisCo-Diff) to simplify this task by introducing\ncomplementary discrete latent variables. We augment DMs with learnable discrete\nlatents, inferred with an encoder, and train DM and encoder end-to-end.\nDisCo-Diff does not rely on pre-trained networks, making the framework\nuniversally applicable. The discrete latents significantly simplify learning\nthe DM's complex noise-to-data mapping by reducing the curvature of the DM's\ngenerative ODE. An additional autoregressive transformer models the\ndistribution of the discrete latents, a simple step because DisCo-Diff requires\nonly few discrete variables with small codebooks. We validate DisCo-Diff on toy\ndata, several image synthesis tasks as well as molecular docking, and find that\nintroducing discrete latents consistently improves model performance. For\nexample, DisCo-Diff achieves state-of-the-art FID scores on class-conditioned\nImageNet-64/128 datasets with ODE sampler.",
+            "pdf_url": "http://arxiv.org/pdf/2407.03300v1",
+            "published": "2024-07-03 17:42:46+00:00",
+            "updated": "2024-07-03 17:42:46+00:00"
+        },
+        {
+            "title": "Improved Noise Schedule for Diffusion Training",
+            "authors": "Tiankai Hang, Shuyang Gu",
+            "summary": "Diffusion models have emerged as the de facto choice for generating visual\nsignals. However, training a single model to predict noise across various\nlevels poses significant challenges, necessitating numerous iterations and\nincurring significant computational costs. Various approaches, such as loss\nweighting strategy design and architectural refinements, have been introduced\nto expedite convergence. In this study, we propose a novel approach to design\nthe noise schedule for enhancing the training of diffusion models. Our key\ninsight is that the importance sampling of the logarithm of the Signal-to-Noise\nratio (logSNR), theoretically equivalent to a modified noise schedule, is\nparticularly beneficial for training efficiency when increasing the sample\nfrequency around $\\log \\text{SNR}=0$. We empirically demonstrate the\nsuperiority of our noise schedule over the standard cosine schedule.\nFurthermore, we highlight the advantages of our noise schedule design on the\nImageNet benchmark, showing that the designed schedule consistently benefits\ndifferent prediction targets.",
+            "pdf_url": "http://arxiv.org/pdf/2407.03297v1",
+            "published": "2024-07-03 17:34:55+00:00",
+            "updated": "2024-07-03 17:34:55+00:00"
+        },
+        {
+            "title": "Diffusion Models for Offline Multi-agent Reinforcement Learning with Safety Constraints",
+            "authors": "Jianuo Huang",
+            "summary": "In recent advancements in Multi-agent Reinforcement Learning (MARL), its\napplication has extended to various safety-critical scenarios. However, most\nmethods focus on online learning, which presents substantial risks when\ndeployed in real-world settings. Addressing this challenge, we introduce an\ninnovative framework integrating diffusion models within the MARL paradigm.\nThis approach notably enhances the safety of actions taken by multiple agents\nthrough risk mitigation while modeling coordinated action. Our framework is\ngrounded in the Centralized Training with Decentralized Execution (CTDE)\narchitecture, augmented by a Diffusion Model for prediction trajectory\ngeneration. Additionally, we incorporate a specialized algorithm to further\nensure operational safety. We evaluate our model against baselines on the DSRL\nbenchmark. Experiment results demonstrate that our model not only adheres to\nstringent safety constraints but also achieves superior performance compared to\nexisting methodologies. This underscores the potential of our approach in\nadvancing the safety and efficacy of MARL in real-world applications.",
+            "pdf_url": "http://arxiv.org/pdf/2407.00741v2",
+            "published": "2024-06-30 16:05:31+00:00",
+            "updated": "2024-07-03 16:22:15+00:00"
+        },
+        {
+            "title": "Spatio-Temporal Adaptive Diffusion Models for EEG Super-Resolution in Epilepsy Diagnosis",
+            "authors": "Tong Zhou, Shuqiang Wang",
+            "summary": "Electroencephalogram (EEG) technology, particularly high-density EEG (HD EEG)\ndevices, is widely used in fields such as neuroscience. HD EEG devices improve\nthe spatial resolution of EEG by placing more electrodes on the scalp, meeting\nthe requirements of clinical diagnostic applications such as epilepsy focus\nlocalization. However, this technique faces challenges such as high acquisition\ncosts and limited usage scenarios. In this paper, spatio-temporal adaptive\ndiffusion models (STADMs) are proposed to pioneer the use of diffusion models\nfor achieving spatial SR reconstruction from low-resolution (LR, 64 channels or\nfewer) EEG to high-resolution (HR, 256 channels) EEG. Specifically, a\nspatio-temporal condition module is designed to extract the spatio-temporal\nfeatures of LR EEG, which then serve as conditional inputs to guide the reverse\ndenoising process of diffusion models. Additionally, a multi-scale Transformer\ndenoising module is constructed to leverage multi-scale convolution blocks and\ncross-attention-based diffusion Transformer blocks for conditional guidance to\ngenerate subject-adaptive SR EEG. Experimental results demonstrate that the\nproposed method effectively enhances the spatial resolution of LR EEG and\nquantitatively outperforms existing methods. Furthermore, STADMs demonstrate\ntheir value by applying synthetic SR EEG to classification and source\nlocalization tasks of epilepsy patients, indicating their potential to\nsignificantly improve the spatial resolution of LR EEG.",
+            "pdf_url": "http://arxiv.org/pdf/2407.03089v1",
+            "published": "2024-07-03 13:26:31+00:00",
+            "updated": "2024-07-03 13:26:31+00:00"
+        },
+        {
+            "title": "NLP Sampling: Combining MCMC and NLP Methods for Diverse Constrained Sampling",
+            "authors": "Marc Toussaint, Cornelius V. Braun, Joaquim Ortiz-Haro",
+            "summary": "Generating diverse samples under hard constraints is a core challenge in many\nareas. With this work we aim to provide an integrative view and framework to\ncombine methods from the fields of MCMC, constrained optimization, as well as\nrobotics, and gain insights in their strengths from empirical evaluations. We\npropose NLP Sampling as a general problem formulation, propose a family of\nrestarting two-phase methods as a framework to integrated methods from across\nthe fields, and evaluate them on analytical and robotic manipulation planning\nproblems. Complementary to this, we provide several conceptual discussions,\ne.g. on the role of Lagrange parameters, global sampling, and the idea of a\nDiffused NLP and a corresponding model-based denoising sampler.",
+            "pdf_url": "http://arxiv.org/pdf/2407.03035v1",
+            "published": "2024-07-03 11:55:06+00:00",
+            "updated": "2024-07-03 11:55:06+00:00"
+        }
+    ]
+}
