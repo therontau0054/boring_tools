@@ -25,6 +25,36 @@ TODO:
 
 
 
+
+## Update on 2024-07-09
+
+### Physics
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2024-02-28|2024-07-08|Polarized and unpolarized off-shell $H^\ast\to ZZ\rightarrow 4\ell$ decay above the $2m_Z$ threshold|A. I. Hernández-Juárez|[2402.18497v2](http://arxiv.org/pdf/2402.18497v2)|
+|2024-05-22|2024-07-08|Cellular-resolution X-ray microtomography of an entire mouse brain|Mattia Humbel|[2405.13971v2](http://arxiv.org/pdf/2405.13971v2)|
+|2024-01-16|2024-07-08|A Hidden Convexity of Nonlinear Elasticity|Siddharth Singh|[2401.08538v2](http://arxiv.org/pdf/2401.08538v2)|
+|2024-06-24|2024-07-08|Accelerating Phase Field Simulations Through a Hybrid Adaptive Fourier Neural Operator with U-Net Backbone|Christophe Bonneville|[2406.17119v2](http://arxiv.org/pdf/2406.17119v2)|
+|2024-07-08|2024-07-08|Prevalence of a growth mindset among introductory astronomy students|Moire K. M. Prescott|[2407.06147v1](http://arxiv.org/pdf/2407.06147v1)|
+|2024-07-08|2024-07-08|Constraining $|V_{cs}|$ and physics beyond the Standard Model from exclusive (semi)leptonic charm decays|Carolina Bolognani|[2407.06145v1](http://arxiv.org/pdf/2407.06145v1)|
+|2024-07-08|2024-07-08|Loewner traces driven by Levy processes|Eveliina Peltola|[2407.06144v1](http://arxiv.org/pdf/2407.06144v1)|
+|2024-07-08|2024-07-08|Physics-informed machine learning approaches to reactor antineutrino detection|Sophia Farrell|[2407.06139v1](http://arxiv.org/pdf/2407.06139v1)|
+|2024-07-08|2024-07-08|Depression Detection and Analysis using Large Language Models on Textual and Audio-Visual Modalities|Avinash Anand|[2407.06125v1](http://arxiv.org/pdf/2407.06125v1)|
+|2024-07-08|2024-07-08|Leveraging data-driven weather models for improving numerical weather prediction skill through large-scale spectral nudging|Syed Zahid Husain|[2407.06100v1](http://arxiv.org/pdf/2407.06100v1)|
+
+### Diffusion
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2024-07-08|2024-07-08|Potential Based Diffusion Motion Planning|Yunhao Luo|[2407.06169v1](http://arxiv.org/pdf/2407.06169v1)|
+|2024-07-08|2024-07-08|ANOLE: An Open, Autoregressive, Native Large Multimodal Models for Interleaved Image-Text Generation|Ethan Chern|[2407.06135v1](http://arxiv.org/pdf/2407.06135v1)|
+|2024-07-08|2024-07-08|Structured Generations: Using Hierarchical Clusters to guide Diffusion Models|Jorge da Silva Goncalves|[2407.06124v1](http://arxiv.org/pdf/2407.06124v1)|
+|2024-07-08|2024-07-08|Layered Diffusion Model for One-Shot High Resolution Text-to-Image Synthesis|Emaad Khwaja|[2407.06079v1](http://arxiv.org/pdf/2407.06079v1)|
+|2024-06-19|2024-07-08|EndoUIC: Promptable Diffusion Transformer for Unified Illumination Correction in Capsule Endoscopy|Long Bai|[2406.13705v2](http://arxiv.org/pdf/2406.13705v2)|
+
+### Quantitative Finance
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2024-07-08|2024-07-08|Graph Anomaly Detection with Noisy Labels by Reinforcement Learning|Zhu Wang|[2407.05934v1](http://arxiv.org/pdf/2407.05934v1)|
 ## Update on 2024-07-05
 
 ### Physics
