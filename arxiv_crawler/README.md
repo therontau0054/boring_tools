@@ -26,6 +26,31 @@ TODO:
 
 
 
+
+## Update on 2024-07-11
+
+### Physics
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2024-02-05|2024-07-10|Quantum Decoherence Effects: a complete treatment|Gabriela Barenboim|[2402.03438v2](http://arxiv.org/pdf/2402.03438v2)|
+|2024-07-10|2024-07-10|AdaptiGraph: Material-Adaptive Graph-Based Neural Dynamics for Robotic Manipulation|Kaifeng Zhang|[2407.07889v1](http://arxiv.org/pdf/2407.07889v1)|
+|2024-07-10|2024-07-10|Dynamical Measure Transport and Neural PDE Solvers for Sampling|Jingtong Sun|[2407.07873v1](http://arxiv.org/pdf/2407.07873v1)|
+|2024-07-10|2024-07-10|Synthetic Light-in-Flight|Patrick Cornwall|[2407.07872v1](http://arxiv.org/pdf/2407.07872v1)|
+|2024-07-10|2024-07-10|Equivalence of two component spinor mechanism and four component spinor mechanism in top quark pair production|Malvika Deo|[2407.07836v1](http://arxiv.org/pdf/2407.07836v1)|
+|2024-07-09|2024-07-10|TriQXNet: Forecasting Dst Index from Solar Wind Data Using an Interpretable Parallel Classical-Quantum Framework with Uncertainty Quantification|Md Abrar Jahin|[2407.06658v2](http://arxiv.org/pdf/2407.06658v2)|
+|2024-07-10|2024-07-10|Inhibition of splitting of the chiral and deconfinement transition due to rotation in QCD: the phase diagram of linear sigma model coupled to Polyakov loop|Pracheta Singha|[2407.07828v1](http://arxiv.org/pdf/2407.07828v1)|
+|2024-07-10|2024-07-10|Using Activity to Compartmentalize Binary Mixtures|Nicholas J Lauersdorf|[2407.07826v1](http://arxiv.org/pdf/2407.07826v1)|
+|2024-07-10|2024-07-10|A higher-order generalization of group theory|Balazs Szegedy|[2407.07815v1](http://arxiv.org/pdf/2407.07815v1)|
+|2024-07-10|2024-07-10|Exploring Subfield Interest Development in Undergraduate Physics Students through Social Cognitive Career Theory|Dina Zohrabi Alaee|[2407.07808v1](http://arxiv.org/pdf/2407.07808v1)|
+
+### Diffusion
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2024-07-10|2024-07-10|Generative Image as Action Models|Mohit Shridhar|[2407.07875v1](http://arxiv.org/pdf/2407.07875v1)|
+|2023-12-13|2024-07-10|PhenDiff: Revealing Subtle Phenotypes with Diffusion Models in Real Images|Anis Bourou|[2312.08290v2](http://arxiv.org/pdf/2312.08290v2)|
+|2024-05-29|2024-07-10|Going beyond Compositions, DDPMs Can Produce Zero-Shot Interpolations|Justin Deschenaux|[2405.19201v2](http://arxiv.org/pdf/2405.19201v2)|
+|2024-06-17|2024-07-10|Promises, Outlooks and Challenges of Diffusion Language Modeling|Justin Deschenaux|[2406.11473v2](http://arxiv.org/pdf/2406.11473v2)|
+|2024-07-10|2024-07-10|Feasibility Study on Active Learning of Smart Surrogates for Scientific Simulations|Pradeep Bajracharya|[2407.07674v1](http://arxiv.org/pdf/2407.07674v1)|
 ## Update on 2024-07-09
 
 ### Physics

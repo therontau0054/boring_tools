@@ -1,0 +1,126 @@
+{
+    "Physics": [
+        {
+            "title": "Quantum Decoherence Effects: a complete treatment",
+            "authors": "Gabriela Barenboim, Alberto M. Gago",
+            "summary": "Physical systems in real life are inextricably linked to their surroundings\nand never completely separated from them. Truly closed systems do not exist.\nThe phenomenon of decoherence, which is brought about by the interaction with\nthe environment, removes the relative phase of quantum states in superposition\nand makes them incoherent. In neutrino physics, decoherence, although\nextensively studied has only been analyzed thus far, exclusively in terms of\nits dissipative characteristics. While it is true that dissipation, or the\nexponential suppression, eventually is the main observable effect, the exchange\nof energy between the medium and the system, is an important factor that has\nbeen overlooked up until now. In this work, we introduce this term and analyze\nits consequences.",
+            "pdf_url": "http://arxiv.org/pdf/2402.03438v2",
+            "published": "2024-02-05 19:00:05+00:00",
+            "updated": "2024-07-10 17:59:16+00:00"
+        },
+        {
+            "title": "AdaptiGraph: Material-Adaptive Graph-Based Neural Dynamics for Robotic Manipulation",
+            "authors": "Kaifeng Zhang, Baoyu Li, Kris Hauser, Yunzhu Li",
+            "summary": "Predictive models are a crucial component of many robotic systems. Yet,\nconstructing accurate predictive models for a variety of deformable objects,\nespecially those with unknown physical properties, remains a significant\nchallenge. This paper introduces AdaptiGraph, a learning-based dynamics\nmodeling approach that enables robots to predict, adapt to, and control a wide\narray of challenging deformable materials with unknown physical properties.\nAdaptiGraph leverages the highly flexible graph-based neural dynamics (GBND)\nframework, which represents material bits as particles and employs a graph\nneural network (GNN) to predict particle motion. Its key innovation is a\nunified physical property-conditioned GBND model capable of predicting the\nmotions of diverse materials with varying physical properties without\nretraining. Upon encountering new materials during online deployment,\nAdaptiGraph utilizes a physical property optimization process for a few-shot\nadaptation of the model, enhancing its fit to the observed interaction data.\nThe adapted models can precisely simulate the dynamics and predict the motion\nof various deformable materials, such as ropes, granular media, rigid boxes,\nand cloth, while adapting to different physical properties, including\nstiffness, granular size, and center of pressure. On prediction and\nmanipulation tasks involving a diverse set of real-world deformable objects,\nour method exhibits superior prediction accuracy and task proficiency over\nnon-material-conditioned and non-adaptive models. The project page is available\nat https://robopil.github.io/adaptigraph/ .",
+            "pdf_url": "http://arxiv.org/pdf/2407.07889v1",
+            "published": "2024-07-10 17:57:04+00:00",
+            "updated": "2024-07-10 17:57:04+00:00"
+        },
+        {
+            "title": "Dynamical Measure Transport and Neural PDE Solvers for Sampling",
+            "authors": "Jingtong Sun, Julius Berner, Lorenz Richter, Marius Zeinhofer, Johannes M\u00fcller, Kamyar Azizzadenesheli, Anima Anandkumar",
+            "summary": "The task of sampling from a probability density can be approached as\ntransporting a tractable density function to the target, known as dynamical\nmeasure transport. In this work, we tackle it through a principled unified\nframework using deterministic or stochastic evolutions described by partial\ndifferential equations (PDEs). This framework incorporates prior\ntrajectory-based sampling methods, such as diffusion models or Schr\\\"odinger\nbridges, without relying on the concept of time-reversals. Moreover, it allows\nus to propose novel numerical methods for solving the transport task and thus\nsampling from complicated targets without the need for the normalization\nconstant or data samples. We employ physics-informed neural networks (PINNs) to\napproximate the respective PDE solutions, implying both conceptional and\ncomputational advantages. In particular, PINNs allow for simulation- and\ndiscretization-free optimization and can be trained very efficiently, leading\nto significantly better mode coverage in the sampling task compared to\nalternative methods. Moreover, they can readily be fine-tuned with Gauss-Newton\nmethods to achieve high accuracy in sampling.",
+            "pdf_url": "http://arxiv.org/pdf/2407.07873v1",
+            "published": "2024-07-10 17:39:50+00:00",
+            "updated": "2024-07-10 17:39:50+00:00"
+        },
+        {
+            "title": "Synthetic Light-in-Flight",
+            "authors": "Patrick Cornwall, Manuel Ballester, Stefan Forschner, Muralidhar Madabhushi Balaji, Aggelos Katsaggelos, Florian Willomitzer",
+            "summary": "Light-in-flight (LiF) measurements allow to resolve and visualize the path\nthat light travels through an arbitrary volumetric scene. Traditional LiF\nmethods involve expensive high-speed electronics or narrow-pulse light sources.\nWe present a novel computational LiF approach that only requires\ncontinuous-wave (CW) lasers and off-the-shelf CMOS cameras to capture the full\nLiF information about the scene. From multiple CW scene measurements at\ndifferent optical wavelengths, we create multiple \"synthetic fields,\" each at a\n\"synthetic wave\" which is the beat wave of two respective optical waves. Due to\ntheir robustness to speckle, the synthetic fields can be computationally\ncombined into a \"synthetic light pulse,\" which precisely sections the\nvolumetric scene. Moreover, the complex synthetic fields can be freely\nmanipulated in the computer after their acquisition, which allows for spatial\nand temporal shaping of different sets of pulses from the same set of\nmeasurements to maximize the decoded information output for each scene. In\naddition, the relative speed at which the pulse travels through the scene can\nbe used to characterize physical scene properties such as depth or indices of\nrefraction.",
+            "pdf_url": "http://arxiv.org/pdf/2407.07872v1",
+            "published": "2024-07-10 17:39:33+00:00",
+            "updated": "2024-07-10 17:39:33+00:00"
+        },
+        {
+            "title": "Equivalence of two component spinor mechanism and four component spinor mechanism in top quark pair production",
+            "authors": "Malvika Deo, Anuradha Misra, Sharada Subramaniam, Radhika Vinze",
+            "summary": "In this article, we calculate the $S$-matrix elements for the process $e^{+}\ne^{-}\\rightarrow t \\bar{t}$ mediated by SM photon, $Z$ boson and an additional\n$Z^{'}$ boson indicating the contribution from new physics. We calculate the\namplitude square using two component spinor formalism and four component spinor\nformalism and show the equivalence of the results using the two formalisms. We\nalso establish the relations between the couplings of $Z^{'}$ boson to fermions\nin the two component spinor formalism and four component spinor formalism.",
+            "pdf_url": "http://arxiv.org/pdf/2407.07836v1",
+            "published": "2024-07-10 16:55:52+00:00",
+            "updated": "2024-07-10 16:55:52+00:00"
+        },
+        {
+            "title": "TriQXNet: Forecasting Dst Index from Solar Wind Data Using an Interpretable Parallel Classical-Quantum Framework with Uncertainty Quantification",
+            "authors": "Md Abrar Jahin, M. F. Mridha, Zeyar Aung, Nilanjan Dey, R. Simon Sherratt",
+            "summary": "Geomagnetic storms, caused by solar wind energy transfer to Earth's magnetic\nfield, can disrupt critical infrastructure like GPS, satellite communications,\nand power grids. The disturbance storm-time (Dst) index measures storm\nintensity. Despite advancements in empirical, physics-based, and\nmachine-learning models using real-time solar wind data, accurately forecasting\nextreme geomagnetic events remains challenging due to noise and sensor\nfailures. This research introduces TriQXNet, a novel hybrid classical-quantum\nneural network for Dst forecasting. Our model integrates classical and quantum\ncomputing, conformal prediction, and explainable AI (XAI) within a hybrid\narchitecture. To ensure high-quality input data, we developed a comprehensive\npreprocessing pipeline that included feature selection, normalization,\naggregation, and imputation. TriQXNet processes preprocessed solar wind data\nfrom NASA's ACE and NOAA's DSCOVR satellites, predicting the Dst index for the\ncurrent hour and the next, providing vital advance notice to mitigate\ngeomagnetic storm impacts. TriQXNet outperforms 13 state-of-the-art hybrid\ndeep-learning models, achieving a root mean squared error of 9.27 nanoteslas\n(nT). Rigorous evaluation through 10-fold cross-validated paired t-tests\nconfirmed its superior performance with 95% confidence. Conformal prediction\ntechniques provide quantifiable uncertainty, which is essential for operational\ndecisions, while XAI methods like ShapTime enhance interpretability.\nComparative analysis shows TriQXNet's superior forecasting accuracy, setting a\nnew level of expectations for geomagnetic storm prediction and highlighting the\npotential of classical-quantum hybrid models in space weather forecasting.",
+            "pdf_url": "http://arxiv.org/pdf/2407.06658v2",
+            "published": "2024-07-09 08:30:42+00:00",
+            "updated": "2024-07-10 16:53:38+00:00"
+        },
+        {
+            "title": "Inhibition of splitting of the chiral and deconfinement transition due to rotation in QCD: the phase diagram of linear sigma model coupled to Polyakov loop",
+            "authors": "Pracheta Singha, Victor E. Ambrus, Maxim N. Chernodub",
+            "summary": "We discuss the effect of rigid rotation on critical temperatures of\ndeconfinement and chiral transitions in the linear sigma model coupled to\nquarks and the Polyakov loop. We point out the essential role of the causality\ncondition, which requires that any point of the system should rotate slower\nthan the velocity of light. We show that imposing this physical requirement\nleads to inhibition of the splitting between the chiral and confining\ntransitions, which becomes negligibly small ($\\Delta T \\sim 1$~MeV or less) for\nexperimentally relevant, slow angular velocities $\\Omega \\sim 10$~MeV of a\n$(5-10)$~fm-sized systems. Moreover, the boundedness of the system has a much\nbigger effect on temperature splitting than the rotation itself: the splitting\nreaches 10~MeV in a small, one-fermi-sized non-rotating system. The temperature\nsplitting may, however, become enhanced in an academic limit of\nultra-relativistic regimes when the boundary of the system rotates at\nnear-to-light velocities.",
+            "pdf_url": "http://arxiv.org/pdf/2407.07828v1",
+            "published": "2024-07-10 16:51:22+00:00",
+            "updated": "2024-07-10 16:51:22+00:00"
+        },
+        {
+            "title": "Using Activity to Compartmentalize Binary Mixtures",
+            "authors": "Nicholas J Lauersdorf, Ehssan Nazockdast, Daphne Klotsa",
+            "summary": "We computationally study suspensions of slow and fast active Brownian\nparticles that have undergone motility induced phase separation and are at\nsteady state. Such mixtures, of varying non-zero activity, remain largely\nunexplored even though they are relevant for a plethora of systems and\napplications ranging from cellular biophysics to drone swarms. Our mixtures are\nmodulated by their activity ratios ($\\mathrm{Pe}^\\mathrm{R}$), which we find to\nencode information by giving rise to three regimes, each of which display their\nunique emergent behaviors. Specifically, we found non-monotonic behavior of\nmacroscopic properties, e.g. density and pressure, as a function of activity\nratio, microphase separation of fast and slow particle domains, increased\nfluctuations on the interface and severe avalanche events compared to\nmonodisperse active systems. Our approach of simultaneously varying the two\nactivities of the particle species allowed us to discover these behaviors and\nexplain the microscopic physical mechanisms that drive them.",
+            "pdf_url": "http://arxiv.org/pdf/2407.07826v1",
+            "published": "2024-07-10 16:50:29+00:00",
+            "updated": "2024-07-10 16:50:29+00:00"
+        },
+        {
+            "title": "A higher-order generalization of group theory",
+            "authors": "Balazs Szegedy",
+            "summary": "The goal of this paper is to show that fundamental concepts in higher-order\nFourier analysis can be nauturally extended to the non-commutative setting. We\ngeneralize Gowers norms to arbitrary compact non-commutative groups. On the\nstructural side, we show that nilspace theory (the algebraic part of\nhigher-order Fourier analysis) can be naturally extended to include all\nnon-commutative groups. To this end, we introduce generalized nilspaces called\n\"groupspaces\" and demonstrate that they possess properties very similar to\nnilspaces. We study $k$-th order generalizations of groups that are special\ngroupspaces called {\\it k-step} groupspaces. One step groupspaces are groups.\nWe show that $k$-step groupspaces admit the structure of an iterated principal\nbundle with structure groups $G_1,G_2,\\dots,G_k$. A similar, but somewhat more\ntechnical statement holds for general groupspaces, with possibly infinitely\nmany structure groups. Structure groups of groupspaces are in some sense\nanalogous to higher homotopy groups. In particular we use a version of the\nEckmann-Hilton argument from homotopy theory to show that $G_i$ is abelian for\n$i\\geq 2$. Groupspaces also show some similarities with $n$-groups from higher\ncategory theory (also used in physics) but the exact relationship between these\nconcepts is a subject of future research.",
+            "pdf_url": "http://arxiv.org/pdf/2407.07815v1",
+            "published": "2024-07-10 16:39:19+00:00",
+            "updated": "2024-07-10 16:39:19+00:00"
+        },
+        {
+            "title": "Exploring Subfield Interest Development in Undergraduate Physics Students through Social Cognitive Career Theory",
+            "authors": "Dina Zohrabi Alaee, Benjamin M. Zwickl",
+            "summary": "This study aims to understand how undergraduate physics majors develop an\ninterest in specific subfields. We examine interest formation through the lens\nof Social Cognitive Career Theory (SCCT) by exploring four key SCCT constructs:\nlearning experiences, self-efficacy, outcome expectations, and proximal\nenvironmental influences. We conducted 27 interviews with physics majors across\nvarious years of study between 2020 and 2022. Our first research question\nanalyzes SCCT constructs to provide detailed insights into the interest\nformation of various subfields of physics. Examining these constructs, we\nbetter understand the factors influencing students' preferences toward specific\nsubfields. Our findings indicate that positive class experiences and\nexperimental opportunities significantly impacted students' interest in\ndifferent subfields of physics. This understanding helped us explore\nsignificant variations in interest formation between astrophysics and\nbiomedical physics in Research Question 2. By understanding how students decide\nabout their interests, we can provide valuable insights for physics departments\nand career guidance professionals.",
+            "pdf_url": "http://arxiv.org/pdf/2407.07808v1",
+            "published": "2024-07-10 16:26:30+00:00",
+            "updated": "2024-07-10 16:26:30+00:00"
+        }
+    ],
+    "Diffusion": [
+        {
+            "title": "Generative Image as Action Models",
+            "authors": "Mohit Shridhar, Yat Long Lo, Stephen James",
+            "summary": "Image-generation diffusion models have been fine-tuned to unlock new\ncapabilities such as image-editing and novel view synthesis. Can we similarly\nunlock image-generation models for visuomotor control? We present GENIMA, a\nbehavior-cloning agent that fine-tunes Stable Diffusion to 'draw joint-actions'\nas targets on RGB images. These images are fed into a controller that maps the\nvisual targets into a sequence of joint-positions. We study GENIMA on 25\nRLBench and 9 real-world manipulation tasks. We find that, by lifting actions\ninto image-space, internet pre-trained diffusion models can generate policies\nthat outperform state-of-the-art visuomotor approaches, especially in\nrobustness to scene perturbations and generalizing to novel objects. Our method\nis also competitive with 3D agents, despite lacking priors such as depth,\nkeypoints, or motion-planners.",
+            "pdf_url": "http://arxiv.org/pdf/2407.07875v1",
+            "published": "2024-07-10 17:41:10+00:00",
+            "updated": "2024-07-10 17:41:10+00:00"
+        },
+        {
+            "title": "PhenDiff: Revealing Subtle Phenotypes with Diffusion Models in Real Images",
+            "authors": "Anis Bourou, Thomas Boyer, K\u00e9vin Daupin, V\u00e9ronique Dubreuil, Aur\u00e9lie De Thonel, Val\u00e9rie Mezger, Auguste Genovesio",
+            "summary": "For the past few years, deep generative models have increasingly been used in\nbiological research for a variety of tasks. Recently, they have proven to be\nvaluable for uncovering subtle cell phenotypic differences that are not\ndirectly discernible to the human eye. However, current methods employed to\nachieve this goal mainly rely on Generative Adversarial Networks (GANs). While\neffective, GANs encompass issues such as training instability and mode\ncollapse, and they do not accurately map images back to the model's latent\nspace, which is necessary to synthesize, manipulate, and thus interpret outputs\nbased on real images. In this work, we introduce PhenDiff: a multi-class\nconditional method leveraging Diffusion Models (DMs) designed to identify\nshifts in cellular phenotypes by translating a real image from one condition to\nanother. We qualitatively and quantitatively validate this method on cases\nwhere the phenotypic changes are visible or invisible, such as in low\nconcentrations of drug treatments. Overall, PhenDiff represents a valuable tool\nfor identifying cellular variations in real microscopy images. We anticipate\nthat it could facilitate the understanding of diseases and advance drug\ndiscovery through the identification of novel biomarkers.",
+            "pdf_url": "http://arxiv.org/pdf/2312.08290v2",
+            "published": "2023-12-13 17:06:33+00:00",
+            "updated": "2024-07-10 16:04:03+00:00"
+        },
+        {
+            "title": "Going beyond Compositions, DDPMs Can Produce Zero-Shot Interpolations",
+            "authors": "Justin Deschenaux, Igor Krawczuk, Grigorios Chrysos, Volkan Cevher",
+            "summary": "Denoising Diffusion Probabilistic Models (DDPMs) exhibit remarkable\ncapabilities in image generation, with studies suggesting that they can\ngeneralize by composing latent factors learned from the training data. In this\nwork, we go further and study DDPMs trained on strictly separate subsets of the\ndata distribution with large gaps on the support of the latent factors. We show\nthat such a model can effectively generate images in the unexplored,\nintermediate regions of the distribution. For instance, when trained on clearly\nsmiling and non-smiling faces, we demonstrate a sampling procedure which can\ngenerate slightly smiling faces without reference images (zero-shot\ninterpolation). We replicate these findings for other attributes as well as\nother datasets. Our code is available at\nhttps://github.com/jdeschena/ddpm-zero-shot-interpolation.",
+            "pdf_url": "http://arxiv.org/pdf/2405.19201v2",
+            "published": "2024-05-29 15:41:53+00:00",
+            "updated": "2024-07-10 14:42:18+00:00"
+        },
+        {
+            "title": "Promises, Outlooks and Challenges of Diffusion Language Modeling",
+            "authors": "Justin Deschenaux, Caglar Gulcehre",
+            "summary": "The modern autoregressive Large Language Models (LLMs) have achieved\noutstanding performance on NLP benchmarks, and they are deployed in the real\nworld. However, they still suffer from limitations of the autoregressive\ntraining paradigm. For example, autoregressive token generation is notably slow\nand can be prone to \\textit{exposure bias}. The diffusion-based language models\nwere proposed as an alternative to autoregressive generation to address some of\nthese limitations. We evaluate the recently proposed Score Entropy Discrete\nDiffusion (SEDD) approach and show it is a promising alternative to\nautoregressive generation but it has some short-comings too. We empirically\ndemonstrate the advantages and challenges of SEDD, and observe that SEDD\ngenerally matches autoregressive models in perplexity and on benchmarks such as\nHellaSwag, Arc or WinoGrande. Additionally, we show that in terms of inference\nlatency, SEDD can be up to 4.5$\\times$ more efficient than GPT-2. While SEDD\nallows conditioning on tokens at abitrary positions, SEDD appears slightly\nweaker than GPT-2 for conditional generation given short prompts. Finally, we\nreproduced the main results from the original SEDD paper.",
+            "pdf_url": "http://arxiv.org/pdf/2406.11473v2",
+            "published": "2024-06-17 12:38:38+00:00",
+            "updated": "2024-07-10 14:36:06+00:00"
+        },
+        {
+            "title": "Feasibility Study on Active Learning of Smart Surrogates for Scientific Simulations",
+            "authors": "Pradeep Bajracharya, Javier Quetzalc\u00f3atl Toledo-Mar\u00edn, Geoffrey Fox, Shantenu Jha, Linwei Wang",
+            "summary": "High-performance scientific simulations, important for comprehension of\ncomplex systems, encounter computational challenges especially when exploring\nextensive parameter spaces. There has been an increasing interest in developing\ndeep neural networks (DNNs) as surrogate models capable of accelerating the\nsimulations. However, existing approaches for training these DNN surrogates\nrely on extensive simulation data which are heuristically selected and\ngenerated with expensive computation -- a challenge under-explored in the\nliterature. In this paper, we investigate the potential of incorporating active\nlearning into DNN surrogate training. This allows intelligent and objective\nselection of training simulations, reducing the need to generate extensive\nsimulation data as well as the dependency of the performance of DNN surrogates\non pre-defined training simulations. In the problem context of constructing DNN\nsurrogates for diffusion equations with sources, we examine the efficacy of\ndiversity- and uncertainty-based strategies for selecting training simulations,\nconsidering two different DNN architecture. The results set the groundwork for\ndeveloping the high-performance computing infrastructure for Smart Surrogates\nthat supports on-the-fly generation of simulation data steered by active\nlearning strategies to potentially improve the efficiency of scientific\nsimulations.",
+            "pdf_url": "http://arxiv.org/pdf/2407.07674v1",
+            "published": "2024-07-10 14:00:20+00:00",
+            "updated": "2024-07-10 14:00:20+00:00"
+        }
+    ]
+}
