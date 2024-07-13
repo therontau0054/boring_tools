@@ -1,0 +1,126 @@
+{
+    "Physics": [
+        {
+            "title": "Massive-ish Particles from Small-ish Scales: Non-Perturbative Techniques for Cosmological Collider Physics from Large-Scale Structure Surveys",
+            "authors": "Samuel Goldstein, Oliver H. E. Philcox, J. Colin Hill, Lam Hui",
+            "summary": "Massive particles produced during inflation impact soft limits of primordial\ncorrelators. Searching for these signatures presents an exciting opportunity to\nuncover the particle spectrum in the inflationary epoch. We present\nnon-perturbative methods to constrain intermediate-mass scalars ($0\\leq\nm/H<3/2$, where $H$ is the inflationary Hubble scale) produced during\ninflation, which give rise to a power-law scaling in the squeezed primordial\nbispectrum. Exploiting the large-scale structure consistency relations and the\nseparate universe approach, we derive models for the late-time squeezed matter\nbispectrum and collapsed matter trispectrum sourced by these fields. To\nvalidate our models, we run $N$-body simulations with the \"Cosmological\nCollider\" squeezed bispectrum for two different particle masses. Our models\nyield unbiased constraints on the amplitude of non-Gaussianity, $f_{\\rm\nNL}^{\\Delta}$, from the squeezed bispectrum and collapsed trispectrum deep into\nthe non-linear regime ($k_{\\rm max}\\approx 2~h/{\\rm Mpc}$ at $z=0$). We assess\nthe information content of these summary statistics, emphasizing the importance\nof sample variance cancellation in the matter sector. We also study the\nscale-dependent halo bias in our simulations. For mass-selected halos, the\nnon-Gaussian bias estimated from our simulations agrees with predictions based\non (i) separate universe simulations and (ii) universal mass functions. With\nfurther work, these results can be used to search for inflationary massive\nparticle production with upcoming galaxy surveys.",
+            "pdf_url": "http://arxiv.org/pdf/2407.08731v1",
+            "published": "2024-07-11 17:58:15+00:00",
+            "updated": "2024-07-11 17:58:15+00:00"
+        },
+        {
+            "title": "A unitary coupled-channel three-body amplitude with pions and kaons",
+            "authors": "Yuchuan Feng, Fernando Gil, Michael D\u00f6ring, Raquel Molina, Maxim Mai, Vanamali Shastry, Adam Szczepaniak",
+            "summary": "Three-body dynamics above threshold is required for the reliable extraction\nof many amplitudes and resonances from experiment and lattice QCD. The S-matrix\nprinciple of unitarity can be used to construct dynamical coupled-channel\napproaches in which three particles scatter off each other, re-arranging\ntwo-body subsystems by particle exchange. This paper reports the development of\na three-body coupled-channel, amplitude including pions and kaons. The\nunequal-mass amplitude contains two-body S- and P-wave subsystems (\"isobars\")\nof all isospins, $I=0,\\,1/2,\\,1,\\, 3/2, \\, 2$, and it also allows for\ntransitions within a given isobar. The $f_0(500)\\,\n(\"\\sigma\"),\\,f_0(980),\\,\\rho(700), K_0^*(700)\\,(\"\\kappa\")$, and $K^*(892)$\nresonances are included, apart from repulsive isobars. Different methods to\nevaluate the amplitude for physical momenta are discussed. Production\namplitudes for $a_1$ quantum numbers are shown as a proof of principle for the\nnumerical implementation.",
+            "pdf_url": "http://arxiv.org/pdf/2407.08721v1",
+            "published": "2024-07-11 17:55:30+00:00",
+            "updated": "2024-07-11 17:55:30+00:00"
+        },
+        {
+            "title": "Exploring Optimal Transport for Event-Level Anomaly Detection at the Large Hadron Collider",
+            "authors": "Nathaniel Craig, Jessica N. Howard, Hancheng Li",
+            "summary": "Anomaly detection is a promising, model-agnostic strategy to find physics\nbeyond the Standard Model. State-of-the-art machine learning methods offer\nimpressive performance on anomaly detection tasks, but interpretability,\nresource, and memory concerns motivate considering a wide range of\nalternatives. We explore using the 2-Wasserstein distance from optimal\ntransport theory, both as an anomaly score and as input to interpretable\nmachine learning methods, for event-level anomaly detection at the Large Hadron\nCollider. The choice of ground space plays a key role in optimizing\nperformance. We comment on the feasibility of implementing these methods in the\nL1 trigger system.",
+            "pdf_url": "http://arxiv.org/pdf/2401.15542v2",
+            "published": "2024-01-28 02:01:36+00:00",
+            "updated": "2024-07-11 17:35:48+00:00"
+        },
+        {
+            "title": "Physics, scientific investigation and society in Argentina, 1930-1940",
+            "authors": "Alejandro Gangui, Eduardo L. Ortiz",
+            "summary": "In this paper we continue our study of the scientific research carried out at\nthe Institute of Physics of the National University of La Plata during the\nfirst half of the 20th century, and of the important role played by the\nphysicist Ramon G. Loyarte. Based on his studies, alone or in collaboration\nwith members of the Institute, towards the end of the 1920s Loyarte proposed\nthe possible existence of a new quantum of rotational energy in the mercury\natom. This idea raised criticism and generated a fierce scientific controversy\nthat reached the national and international academic media. We analyse this\ncontroversy by studying the comments that appeared in international review\njournals. We also study Loyarte's activities in politics and science policy in\nArgentina in the 1930s and 1940s, where he was responsible for interesting\npolitical and scientific initiatives.",
+            "pdf_url": "http://arxiv.org/pdf/2407.08698v1",
+            "published": "2024-07-11 17:32:09+00:00",
+            "updated": "2024-07-11 17:32:09+00:00"
+        },
+        {
+            "title": "Reductive Quantum Phase Estimation",
+            "authors": "Nicholas J. C. Papadopoulos, Jarrod T. Reilly, John Drew Wilson, Murray J. Holland",
+            "summary": "Estimating a quantum phase is a necessary task in a wide range of fields of\nquantum science. To accomplish this task, two well-known methods have been\ndeveloped in distinct contexts, namely, Ramsey interferometry (RI) in atomic\nand molecular physics and quantum phase estimation (QPE) in quantum computing.\nWe demonstrate that these canonical examples are instances of a larger class of\nphase estimation protocols, which we call reductive quantum phase estimation\n(RQPE) circuits. Here we present an explicit algorithm that allows one to\ncreate an RQPE circuit. This circuit distinguishes an arbitrary set of phases\nwith a fewer number of qubits and unitary applications, thereby solving a\ngeneral class of quantum hypothesis testing to which RI and QPE belong. We\nfurther demonstrate a trade-off between measurement precision and phase\ndistinguishability, which allows one to tune the circuit to be optimal for a\nspecific application.",
+            "pdf_url": "http://arxiv.org/pdf/2402.04471v4",
+            "published": "2024-02-06 23:38:36+00:00",
+            "updated": "2024-07-11 17:31:49+00:00"
+        },
+        {
+            "title": "Maximal intrinsic randomness of a quantum state",
+            "authors": "Shuyang Meng, Fionnuala Curran, Gabriel Senno, Victoria J. Wright, M\u00e1t\u00e9 Farkas, Valerio Scarani, Antonio Ac\u00edn",
+            "summary": "One of the most counterintuitive aspects of quantum theory is its claim that\nthere is 'intrinsic' randomness in the physical world. Quantum information\nscience has greatly progressed in the study of intrinsic, or secret, quantum\nrandomness in the past decade. With much emphasis on device-independent and\nsemi-device-independent bounds, one of the most basic questions has escaped\nattention: how much intrinsic randomness can be extracted from a given state\n$\\rho$, and what measurements achieve this bound? We answer this question for\nthree different randomness quantifiers: the conditional min-entropy, the\nconditional von Neumann entropy and the conditional max-entropy. For the first,\nwe solve the min-max problem of finding the projective measurement that\nminimises the maximal guessing probability of an eavesdropper. The result is\nthat one can guarantee an amount of conditional min-entropy\n$H^*_{\\textrm{min}}=-\\log_2 P_{\\textrm{guess}}^{*}(\\rho)$ with\n$P_{\\textrm{guess}}^{*}(\\rho)=\\frac{1}{d}(\\textrm{tr} \\sqrt{\\rho})^2$ by\nperforming suitable projective measurements. For the conditional von Neumann\nentropy, we find that the maximal value is $H^{*}= \\log_{2}d-S(\\rho)$, with\n$S(\\rho)$ the von Neumann entropy of $\\rho$, while for the conditional\nmax-entropy, we find the maximal value $H^{*}_\\textrm{max}=\\log_{2}d +\n\\log_{2}\\lambda_{\\textrm{max}}(\\rho)$, where $\\lambda_{\\textrm{max}}(\\rho)$ is\nthe largest eigenvalue of $\\rho$. Optimal values for $H^{*}_{\\textrm{min}}$,\n$H^{*}$ and $H^{*}_\\textrm{max}$ are achieved by measuring in any basis that is\nunbiased to the eigenbasis of $\\rho$, as well as by other, less intuitive,\nmeasurements.",
+            "pdf_url": "http://arxiv.org/pdf/2307.15708v2",
+            "published": "2023-07-28 17:58:13+00:00",
+            "updated": "2024-07-11 17:16:35+00:00"
+        },
+        {
+            "title": "Jet Tagging with More-Interaction Particle Transformer",
+            "authors": "Yifan Wu, Kun Wang, Jingya Zhu",
+            "summary": "In this study, we introduce the More-Interaction Particle Transformer\n(MIParT), a novel deep learning neural network designed for jet tagging. This\nframework incorporates our own design, the More-Interaction Attention (MIA)\nmechanism, which increases the dimensionality of particle interaction\nembeddings. We tested MIParT using the top tagging and quark-gluon datasets.\nOur results show that MIParT not only matches the accuracy and AUC of\nLorentzNet but also significantly outperforms the ParT model in background\nrejection. Specifically, it improves background rejection by approximately 25\\%\nat a 30\\% signal efficiency on the top tagging dataset and by 3\\% on the\nquark-gluon dataset. Additionally, MIParT requires only 30% of the parameters\nand 47% of the computational complexity needed by ParT, proving that high\nperformance can be achieved with reduced model complexity and without extensive\npretraining on large datasets. The results suggest that MIParT has the\npotential to advance efficiency benchmarks for jet tagging and event\nidentification in particle physics.",
+            "pdf_url": "http://arxiv.org/pdf/2407.08682v1",
+            "published": "2024-07-11 17:14:52+00:00",
+            "updated": "2024-07-11 17:14:52+00:00"
+        },
+        {
+            "title": "Hardware Neural Control of CartPole and F1TENTH Race Car",
+            "authors": "Marcin Paluch, Florian Bolli, Xiang Deng, Antonio Rios Navarro, Chang Gao, Tobi Delbruck",
+            "summary": "Nonlinear model predictive control (NMPC) has proven to be an effective\ncontrol method, but it is expensive to compute. This work demonstrates the use\nof hardware FPGA neural network controllers trained to imitate NMPC with\nsupervised learning. We use these Neural Controllers (NCs) implemented on\ninexpensive embedded FPGA hardware for high frequency control on physical\ncartpole and F1TENTH race car. Our results show that the NCs match the control\nperformance of the NMPCs in simulation and outperform it in reality, due to the\nfaster control rate that is afforded by the quick FPGA NC inference. We\ndemonstrate kHz control rates for a physical cartpole and offloading control to\nthe FPGA hardware on the F1TENTH car. Code and hardware implementation for this\npaper are available at https:// github.com/SensorsINI/Neural-Control-Tools.",
+            "pdf_url": "http://arxiv.org/pdf/2407.08681v1",
+            "published": "2024-07-11 17:14:19+00:00",
+            "updated": "2024-07-11 17:14:19+00:00"
+        },
+        {
+            "title": "On the impact of heavy meson production spectra on searches for heavy neutral leptons",
+            "authors": "Jonathan L. Schubert, Babette D\u00f6brich, Jan Jerhot, Tommaso Spadaro",
+            "summary": "Feebly Interacting Particles are a commonly considered extension to the\nStandard Model of Particle Physics. In many theoretical frameworks these\nparticles can explain observed physical phenomena which are in tension with the\ncurrent model. \\textsc{ALPiNIST} is a simplified Monte Carlo framework aimed at\nevaluating past, present, and future, short and long baseline experiments for\ntheir sensitivities to different models of Axion-Like Particles. We present the\nextension of this framework to accommodate new classes of Feebly Interacting\nParticles with emphasis on Heavy Neutral Leptons. This extension is especially\nwell motivated, solving multiple of the standing issues with the Standard Model\nat the same time. The fundamental importance of inputs on the resulting\nparameter sensitivity, and thus the need for a unified simulation set-up, is\nhighlighted.",
+            "pdf_url": "http://arxiv.org/pdf/2407.08673v1",
+            "published": "2024-07-11 17:05:08+00:00",
+            "updated": "2024-07-11 17:05:08+00:00"
+        },
+        {
+            "title": "Factorization algebras from topological-holomorphic field theories",
+            "authors": "Minghao Wang, Brian R. Williams",
+            "summary": "Topological field theories and holomorphic field theories naturally appear in\nboth mathematics and physics. However, there exist intriguing hybrid theories\nthat are topological in some directions and holomorphic in others, such as\ntwists of supersymmetric field theories or Costello's 4-dimensional\nChern-Simons theory. In this paper, we rigorously prove the ultraviolet (UV)\nfiniteness for such hybrid theories on flat space, and present two significant\nvanishing results regarding anomalies.",
+            "pdf_url": "http://arxiv.org/pdf/2407.08667v1",
+            "published": "2024-07-11 16:56:48+00:00",
+            "updated": "2024-07-11 16:56:48+00:00"
+        }
+    ],
+    "Diffusion": [
+        {
+            "title": "Video Diffusion Alignment via Reward Gradients",
+            "authors": "Mihir Prabhudesai, Russell Mendonca, Zheyang Qin, Katerina Fragkiadaki, Deepak Pathak",
+            "summary": "We have made significant progress towards building foundational video\ndiffusion models. As these models are trained using large-scale unsupervised\ndata, it has become crucial to adapt these models to specific downstream tasks.\nAdapting these models via supervised fine-tuning requires collecting target\ndatasets of videos, which is challenging and tedious. In this work, we utilize\npre-trained reward models that are learned via preferences on top of powerful\nvision discriminative models to adapt video diffusion models. These models\ncontain dense gradient information with respect to generated RGB pixels, which\nis critical to efficient learning in complex search spaces, such as videos. We\nshow that backpropagating gradients from these reward models to a video\ndiffusion model can allow for compute and sample efficient alignment of the\nvideo diffusion model. We show results across a variety of reward models and\nvideo diffusion models, demonstrating that our approach can learn much more\nefficiently in terms of reward queries and computation than prior gradient-free\napproaches. Our code, model weights,and more visualization are available at\nhttps://vader-vid.github.io.",
+            "pdf_url": "http://arxiv.org/pdf/2407.08737v1",
+            "published": "2024-07-11 17:59:45+00:00",
+            "updated": "2024-07-11 17:59:45+00:00"
+        },
+        {
+            "title": "SLEDGE: Synthesizing Driving Environments with Generative Models and Rule-Based Traffic",
+            "authors": "Kashyap Chitta, Daniel Dauner, Andreas Geiger",
+            "summary": "SLEDGE is the first generative simulator for vehicle motion planning trained\non real-world driving logs. Its core component is a learned model that is able\nto generate agent bounding boxes and lane graphs. The model's outputs serve as\nan initial state for rule-based traffic simulation. The unique properties of\nthe entities to be generated for SLEDGE, such as their connectivity and\nvariable count per scene, render the naive application of most modern\ngenerative models to this task non-trivial. Therefore, together with a\nsystematic study of existing lane graph representations, we introduce a novel\nraster-to-vector autoencoder. It encodes agents and the lane graph into\ndistinct channels in a rasterized latent map. This facilitates both\nlane-conditioned agent generation and combined generation of lanes and agents\nwith a Diffusion Transformer. Using generated entities in SLEDGE enables\ngreater control over the simulation, e.g. upsampling turns or increasing\ntraffic density. Further, SLEDGE can support 500m long routes, a capability not\nfound in existing data-driven simulators like nuPlan. It presents new\nchallenges for planning algorithms, evidenced by failure rates of over 40% for\nPDM, the winner of the 2023 nuPlan challenge, when tested on hard routes and\ndense traffic generated by our model. Compared to nuPlan, SLEDGE requires\n500$\\times$ less storage to set up (<4 GB), making it a more accessible option\nand helping with democratizing future research in this field.",
+            "pdf_url": "http://arxiv.org/pdf/2403.17933v2",
+            "published": "2024-03-26 17:58:29+00:00",
+            "updated": "2024-07-11 17:27:49+00:00"
+        },
+        {
+            "title": "CAD-Prompted Generative Models: A Pathway to Feasible and Novel Engineering Designs",
+            "authors": "Leah Chong, Jude Rayan, Steven Dow, Ioanna Lykourentzou, Faez Ahmed",
+            "summary": "Text-to-image generative models have increasingly been used to assist\ndesigners during concept generation in various creative domains, such as\ngraphic design, user interface design, and fashion design. However, their\napplications in engineering design remain limited due to the models' challenges\nin generating images of feasible designs concepts. To address this issue, this\npaper introduces a method that improves the design feasibility by prompting the\ngeneration with feasible CAD images. In this work, the usefulness of this\nmethod is investigated through a case study with a bike design task using an\noff-the-shelf text-to-image model, Stable Diffusion 2.1. A diverse set of bike\ndesigns are produced in seven different generation settings with varying CAD\nimage prompting weights, and these designs are evaluated on their perceived\nfeasibility and novelty. Results demonstrate that the CAD image prompting\nsuccessfully helps text-to-image models like Stable Diffusion 2.1 create\nvisibly more feasible design images. While a general tradeoff is observed\nbetween feasibility and novelty, when the prompting weight is kept low around\n0.35, the design feasibility is significantly improved while its novelty\nremains on par with those generated by text prompts alone. The insights from\nthis case study offer some guidelines for selecting the appropriate CAD image\nprompting weight for different stages of the engineering design process. When\nutilized effectively, our CAD image prompting method opens doors to a wider\nrange of applications of text-to-image models in engineering design.",
+            "pdf_url": "http://arxiv.org/pdf/2407.08675v1",
+            "published": "2024-07-11 17:07:32+00:00",
+            "updated": "2024-07-11 17:07:32+00:00"
+        },
+        {
+            "title": "Controlling the Fidelity and Diversity of Deep Generative Models via Pseudo Density",
+            "authors": "Shuangqi Li, Chen Liu, Tong Zhang, Hieu Le, Sabine S\u00fcsstrunk, Mathieu Salzmann",
+            "summary": "We introduce an approach to bias deep generative models, such as GANs and\ndiffusion models, towards generating data with either enhanced fidelity or\nincreased diversity. Our approach involves manipulating the distribution of\ntraining and generated data through a novel metric for individual samples,\nnamed pseudo density, which is based on the nearest-neighbor information from\nreal samples. Our approach offers three distinct techniques to adjust the\nfidelity and diversity of deep generative models: 1) Per-sample perturbation,\nenabling precise adjustments for individual samples towards either more common\nor more unique characteristics; 2) Importance sampling during model inference\nto enhance either fidelity or diversity in the generated data; 3) Fine-tuning\nwith importance sampling, which guides the generative model to learn an\nadjusted distribution, thus controlling fidelity and diversity. Furthermore,\nour fine-tuning method demonstrates the ability to improve the Frechet\nInception Distance (FID) for pre-trained generative models with minimal\niterations.",
+            "pdf_url": "http://arxiv.org/pdf/2407.08659v1",
+            "published": "2024-07-11 16:46:04+00:00",
+            "updated": "2024-07-11 16:46:04+00:00"
+        },
+        {
+            "title": "MOFA-Video: Controllable Image Animation via Generative Motion Field Adaptions in Frozen Image-to-Video Diffusion Model",
+            "authors": "Muyao Niu, Xiaodong Cun, Xintao Wang, Yong Zhang, Ying Shan, Yinqiang Zheng",
+            "summary": "We present MOFA-Video, an advanced controllable image animation method that\ngenerates video from the given image using various additional controllable\nsignals (such as human landmarks reference, manual trajectories, and another\neven provided video) or their combinations. This is different from previous\nmethods which only can work on a specific motion domain or show weak control\nabilities with diffusion prior. To achieve our goal, we design several\ndomain-aware motion field adapters (\\ie, MOFA-Adapters) to control the\ngenerated motions in the video generation pipeline. For MOFA-Adapters, we\nconsider the temporal motion consistency of the video and generate the dense\nmotion flow from the given sparse control conditions first, and then, the\nmulti-scale features of the given image are wrapped as a guided feature for\nstable video diffusion generation. We naively train two motion adapters for the\nmanual trajectories and the human landmarks individually since they both\ncontain sparse information about the control. After training, the MOFA-Adapters\nin different domains can also work together for more controllable video\ngeneration. Project Page: https://myniuuu.github.io/MOFA_Video/",
+            "pdf_url": "http://arxiv.org/pdf/2405.20222v3",
+            "published": "2024-05-30 16:22:22+00:00",
+            "updated": "2024-07-11 16:26:03+00:00"
+        }
+    ]
+}

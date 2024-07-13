@@ -27,6 +27,31 @@ TODO:
 
 
 
+
+## Update on 2024-07-13
+
+### Physics
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2024-07-11|2024-07-11|Massive-ish Particles from Small-ish Scales: Non-Perturbative Techniques for Cosmological Collider Physics from Large-Scale Structure Surveys|Samuel Goldstein|[2407.08731v1](http://arxiv.org/pdf/2407.08731v1)|
+|2024-07-11|2024-07-11|A unitary coupled-channel three-body amplitude with pions and kaons|Yuchuan Feng|[2407.08721v1](http://arxiv.org/pdf/2407.08721v1)|
+|2024-01-28|2024-07-11|Exploring Optimal Transport for Event-Level Anomaly Detection at the Large Hadron Collider|Nathaniel Craig|[2401.15542v2](http://arxiv.org/pdf/2401.15542v2)|
+|2024-07-11|2024-07-11|Physics, scientific investigation and society in Argentina, 1930-1940|Alejandro Gangui|[2407.08698v1](http://arxiv.org/pdf/2407.08698v1)|
+|2024-02-06|2024-07-11|Reductive Quantum Phase Estimation|Nicholas J. C. Papadopoulos|[2402.04471v4](http://arxiv.org/pdf/2402.04471v4)|
+|2023-07-28|2024-07-11|Maximal intrinsic randomness of a quantum state|Shuyang Meng|[2307.15708v2](http://arxiv.org/pdf/2307.15708v2)|
+|2024-07-11|2024-07-11|Jet Tagging with More-Interaction Particle Transformer|Yifan Wu|[2407.08682v1](http://arxiv.org/pdf/2407.08682v1)|
+|2024-07-11|2024-07-11|Hardware Neural Control of CartPole and F1TENTH Race Car|Marcin Paluch|[2407.08681v1](http://arxiv.org/pdf/2407.08681v1)|
+|2024-07-11|2024-07-11|On the impact of heavy meson production spectra on searches for heavy neutral leptons|Jonathan L. Schubert|[2407.08673v1](http://arxiv.org/pdf/2407.08673v1)|
+|2024-07-11|2024-07-11|Factorization algebras from topological-holomorphic field theories|Minghao Wang|[2407.08667v1](http://arxiv.org/pdf/2407.08667v1)|
+
+### Diffusion
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2024-07-11|2024-07-11|Video Diffusion Alignment via Reward Gradients|Mihir Prabhudesai|[2407.08737v1](http://arxiv.org/pdf/2407.08737v1)|
+|2024-03-26|2024-07-11|SLEDGE: Synthesizing Driving Environments with Generative Models and Rule-Based Traffic|Kashyap Chitta|[2403.17933v2](http://arxiv.org/pdf/2403.17933v2)|
+|2024-07-11|2024-07-11|CAD-Prompted Generative Models: A Pathway to Feasible and Novel Engineering Designs|Leah Chong|[2407.08675v1](http://arxiv.org/pdf/2407.08675v1)|
+|2024-07-11|2024-07-11|Controlling the Fidelity and Diversity of Deep Generative Models via Pseudo Density|Shuangqi Li|[2407.08659v1](http://arxiv.org/pdf/2407.08659v1)|
+|2024-05-30|2024-07-11|MOFA-Video: Controllable Image Animation via Generative Motion Field Adaptions in Frozen Image-to-Video Diffusion Model|Muyao Niu|[2405.20222v3](http://arxiv.org/pdf/2405.20222v3)|
 ## Update on 2024-07-11
 
 ### Physics
