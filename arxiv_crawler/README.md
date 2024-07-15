@@ -28,6 +28,30 @@ TODO:
 
 
 
+
+## Update on 2024-07-15
+
+### Physics
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2024-07-12|2024-07-12|Beyond Euclid: An Illustrated Guide to Modern Machine Learning with Geometric, Topological, and Algebraic Structures|Sophia Sanborn|[2407.09468v1](http://arxiv.org/pdf/2407.09468v1)|
+|2024-07-12|2024-07-12|Spin-filter tunneling detection of antiferromagnetic resonance with electrically-tunable damping|Thow Min Jerald Cham|[2407.09462v1](http://arxiv.org/pdf/2407.09462v1)|
+|2024-07-12|2024-07-12|Beyond the instanton gas approach: dominant thimbles approximation for the Hubbard model|Maksim Ulybyshev|[2407.09452v1](http://arxiv.org/pdf/2407.09452v1)|
+|2024-07-12|2024-07-12|Neuroevolution of Decentralized Decision-Making in N-Bead Swimmers Leads to Scalable and Robust Collective Locomotion|Benedikt Hartl|[2407.09438v1](http://arxiv.org/pdf/2407.09438v1)|
+|2024-07-12|2024-07-12|Sunbeam: Near-Sun Statites as Beam Platforms for Beam-Driven Rockets|Jeffrey K. Greason|[2407.09414v1](http://arxiv.org/pdf/2407.09414v1)|
+|2024-07-12|2024-07-12|A Cordial Introduction to Double Scaled SYK|Micha Berkooz|[2407.09396v1](http://arxiv.org/pdf/2407.09396v1)|
+|2024-05-21|2024-07-12|Diffusion of brightened dark excitons in a high-angle incommensurate Moiré homobilayer|Arnab Barman Ray|[2405.12901v2](http://arxiv.org/pdf/2405.12901v2)|
+|2024-07-12|2024-07-12|Enhance students learning outcomes by redesigning individual learning activities into group activities for introductory level Physics courses|Kalani Hettiarachchilage|[2407.09330v1](http://arxiv.org/pdf/2407.09330v1)|
+|2024-03-18|2024-07-12|Loop Special Relativity: Kaluza-Klein area metric as a line element for stringy events|Aharon Davidson|[2403.11800v2](http://arxiv.org/pdf/2403.11800v2)|
+|2024-07-12|2024-07-12|The $Λ_c\to Λ\, l^+ν_\ell$ weak decay including new physics|Fernando Alvarado|[2407.09325v1](http://arxiv.org/pdf/2407.09325v1)|
+
+### Diffusion
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2024-03-14|2024-07-12|StainFuser: Controlling Diffusion for Faster Neural Style Transfer in Multi-Gigapixel Histology Images|Robert Jewsbury|[2403.09302v2](http://arxiv.org/pdf/2403.09302v2)|
+|2024-07-12|2024-07-12|Any-Property-Conditional Molecule Generation with Self-Criticism using Spanning Trees|Alexia Jolicoeur-Martineau|[2407.09357v1](http://arxiv.org/pdf/2407.09357v1)|
+|2024-04-16|2024-07-12|OneActor: Consistent Character Generation via Cluster-Conditioned Guidance|Jiahao Wang|[2404.10267v2](http://arxiv.org/pdf/2404.10267v2)|
+|2024-01-26|2024-07-12|Applications of artificial intelligence in the analysis of histopathology images of gliomas: a review|Jan-Philipp Redlich|[2401.15022v4](http://arxiv.org/pdf/2401.15022v4)|
 ## Update on 2024-07-13
 
 ### Physics
