@@ -29,6 +29,37 @@ TODO:
 
 
 
+
+## Update on 2024-07-17
+
+### Physics
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2024-07-16|2024-07-16|Quantum and Classical Dynamics with Random Permutation Circuits|Bruno Bertini|[2407.11960v1](http://arxiv.org/pdf/2407.11960v1)|
+|2022-02-07|2024-07-16|On the statistical theory of self-gravitating collisionless dark matter flow: high order kinematic and dynamic relations|Zhijie Xu|[2202.02991v3](http://arxiv.org/pdf/2202.02991v3)|
+|2024-07-16|2024-07-16|Stable infinite-temperature eigenstates in SU(2)-symmetric nonintegrable models|Christopher J. Turner|[2407.11956v1](http://arxiv.org/pdf/2407.11956v1)|
+|2024-07-16|2024-07-16|Minimally Entangled Typical Thermal States for Classical and Quantum Simulation of Gauge Theories at Finite Temperature and Density|I-Chi Chen|[2407.11949v1](http://arxiv.org/pdf/2407.11949v1)|
+|2024-01-28|2024-07-16|Model for bubble nucleation efficiency of low-energy nuclear recoils in bubble chambers for dark matter detection|Xiang Li|[2401.15531v2](http://arxiv.org/pdf/2401.15531v2)|
+|2024-03-25|2024-07-16|Backpropagation through space, time, and the brain|Benjamin Ellenberger|[2403.16933v2](http://arxiv.org/pdf/2403.16933v2)|
+|2024-07-16|2024-07-16|Calibration and simulation of ionization signal and electronics noise in the ICARUS liquid argon time projection chamber|ICARUS collaboration|[2407.11925v1](http://arxiv.org/pdf/2407.11925v1)|
+|2024-03-20|2024-07-16|Importance of accounting for student identities and intersectionality for creating equitable and inclusive physics learning environments|Lisabeth Marie Santana|[2403.13621v2](http://arxiv.org/pdf/2403.13621v2)|
+|2024-07-16|2024-07-16|The CONUS+ experiment|The CONUS+ Collaboration|[2407.11912v1](http://arxiv.org/pdf/2407.11912v1)|
+|2024-07-16|2024-07-16|Cumulative Advantage of Brokerage in Academia|Jan Bachmann|[2407.11909v1](http://arxiv.org/pdf/2407.11909v1)|
+
+### Diffusion
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2024-07-16|2024-07-16|Efficient Training with Denoised Neural Weights|Yifan Gong|[2407.11966v1](http://arxiv.org/pdf/2407.11966v1)|
+|2024-07-16|2024-07-16|Context-Guided Diffusion for Out-of-Distribution Molecular and Protein Design|Leo Klarner|[2407.11942v1](http://arxiv.org/pdf/2407.11942v1)|
+|2024-07-08|2024-07-16|Enhanced Safety in Autonomous Driving: Integrating Latent State Diffusion Model for End-to-End Navigation|Detian Chu|[2407.06317v3](http://arxiv.org/pdf/2407.06317v3)|
+|2024-01-18|2024-07-16|A Simple Latent Diffusion Approach for Panoptic Segmentation and Mask Inpainting|Wouter Van Gansbeke|[2401.10227v2](http://arxiv.org/pdf/2401.10227v2)|
+|2024-07-16|2024-07-16|Single Layer Single Gradient Unlearning|Zikui Cai|[2407.11867v1](http://arxiv.org/pdf/2407.11867v1)|
+
+### Quantitative Finance
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2024-07-15|2024-07-15|Hedging Beyond the Mean: A Distributional Reinforcement Learning Perspective for Hedging Portfolios with Structured Products|Anil Sharma|[2407.10903v1](http://arxiv.org/pdf/2407.10903v1)|
+|2024-07-14|2024-07-14|Numbers Matter! Bringing Quantity-awareness to Retrieval Systems|Satya Almasian|[2407.10283v1](http://arxiv.org/pdf/2407.10283v1)|
 ## Update on 2024-07-15
 
 ### Physics
