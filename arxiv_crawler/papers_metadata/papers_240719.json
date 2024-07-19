@@ -1,0 +1,126 @@
+{
+    "Physics": [
+        {
+            "title": "Neural Network Tire Force Modeling for Automated Drifting",
+            "authors": "Nicholas Drake Broadbent, Trey Weber, Daiki Mori, J. Christian Gerdes",
+            "summary": "Automated drifting presents a challenge problem for vehicle control,\nrequiring models and control algorithms that can precisely handle nonlinear,\ncoupled tire forces at the friction limits. We present a neural network\narchitecture for predicting front tire lateral force as a drop-in replacement\nfor physics-based approaches. With a full-scale automated vehicle purpose-built\nfor the drifting application, we deploy these models in a nonlinear model\npredictive controller tuned for tracking a reference drifting trajectory, for\ndirect comparisons of model performance. The neural network tire model exhibits\nsignificantly improved path tracking performance over the brush tire model in\ncases where front-axle braking force is applied, suggesting the neural\nnetwork's ability to express previously unmodeled, latent dynamics in the\ndrifting condition.",
+            "pdf_url": "http://arxiv.org/pdf/2407.13760v1",
+            "published": "2024-07-18 17:58:01+00:00",
+            "updated": "2024-07-18 17:58:01+00:00"
+        },
+        {
+            "title": "Zeno Effect Suppression of Gauge Drift in Quantum Simulations",
+            "authors": "Carter Ball, Thomas D. Cohen",
+            "summary": "Quantum simulation of lattice gauge theories is a promising tool for the\nstudy of many complicated problems including ones with real-time dynamics. For\ngauge theories, however, there is a major challenge in maintaining gauge\ninvariance during time evolution. Such theories have a full Hilbert space that\nis larger than the physical space -- the set of states which are gauge\ninvariant or equivalently respect the Gauss law. While an exact implementation\nof Hamiltonian dynamics starting in the physical Hilbert space will keep the\nsystem in the physical space, various types of errors will inevitably produce\ncomponents outside of it. This work proposes a method of suppressing this gauge\ndrift via the Zeno effect. As in the standard picture of the Zeno effect, our\nmethod relies on frequent projection onto the physical subspace. Additionally,\na technique is discussed to reduce the speed of the gauge drift, which helps to\nreduce the required frequency of projections. We demonstrate our method on a\n$\\mathbb{Z}_2$ gauge theory toy model.",
+            "pdf_url": "http://arxiv.org/pdf/2405.09462v3",
+            "published": "2024-05-15 15:55:33+00:00",
+            "updated": "2024-07-18 17:37:01+00:00"
+        },
+        {
+            "title": "QCD constraints on isospin-dense matter and the nuclear equation of state",
+            "authors": "Ryan Abbott, William Detmold, Marc Illa, Assumpta Parre\u00f1o, Robert J. Perry, Fernando Romero-L\u00f3pez, Phiala E. Shanahan, Michael L. Wagman",
+            "summary": "Understanding the behavior of dense hadronic matter is a central goal in\nnuclear physics as it governs the nature and dynamics of astrophysical objects\nsuch as supernovae and neutron stars. Because of the non-perturbative nature of\nquantum chromodynamics (QCD), little is known rigorously about hadronic matter\nin these extreme conditions. Here, lattice QCD calculations are used to compute\nthermodynamic quantities and the equation of state of QCD over a wide range of\nisospin chemical potentials. Agreement is seen with chiral perturbation theory\npredictions when the chemical potential is small. Comparison to perturbative\nQCD calculations at large chemical potential allows for an estimate of the gap\nin the superconducting phase, and this quantity is seen to agree with\nperturbative determinations. Since the partition function for an isospin\nchemical potential, $\\mu_I$, bounds the partition function for a baryon\nchemical potential $\\mu_B=3\\mu_I/2$, these calculations also provide rigorous\nnon-perturbative QCD bounds on the symmetric nuclear matter equation of state\nover a wide range of baryon densities for the first time.",
+            "pdf_url": "http://arxiv.org/pdf/2406.09273v2",
+            "published": "2024-06-13 16:11:10+00:00",
+            "updated": "2024-07-18 17:30:14+00:00"
+        },
+        {
+            "title": "Assessment of models for nonlinear oscillatory flow through a hexagonal sphere pack",
+            "authors": "Lukas Unglehrt, Michael Manhart",
+            "summary": "We review models for unsteady porous media flow in the volume-averaging\nframework and we discuss the theoretical relations between the models and the\ndefinition of the model coefficients (and the uncertainty therein). The\ndifferent models are compared against direct numerical simulations of\noscillatory flow through a hexagonal sphere pack. The model constants are\ndetermined based on their definition in terms of the Stokes flow, the potential\nflow and steady nonlinear flow. Thus, the discrepancies between the model\npredictions and the simulation data can be attributed to shortcomings of the\nmodels' parametrisation.\n  We found that an extension of the dynamic permeability model of Pride et al.\n[Physical Review B 47(9), 1993] with a Forchheimer-type nonlinearity performs\nvery well for linear flow and for nonlinear flow at low and medium frequencies,\nbut the Forchheimer term with a coefficient obtained from the steady-state\noverpredicts the nonlinear drag at high frequencies. The model reduces to the\nunsteady Forchheimer equation with an acceleration coefficient based on the\nstatic viscous tortuosity for low frequencies.\n  The unsteady Forchheimer equation with an acceleration coefficient based on\nthe high frequency limit of the dynamic tortuosity has large errors for linear\nflow at medium and high frequencies, but low errors for nonlinear flow at all\nfrequencies. This is explained by an error cancellation between the inertial\nand the nonlinear drag.",
+            "pdf_url": "http://arxiv.org/pdf/2402.05320v3",
+            "published": "2024-02-07 23:44:42+00:00",
+            "updated": "2024-07-18 16:43:34+00:00"
+        },
+        {
+            "title": "Introduction to quantum entanglement in many-body systems",
+            "authors": "Anubhav Kumar Srivastava, Guillem M\u00fcller-Rigat, Maciej Lewenstein, Grzegorz Rajchel-Mieldzio\u0107",
+            "summary": "The quantum mechanics formalism introduced new revolutionary concepts\nchallenging our everyday perceptions. Arguably, quantum entanglement, which\nexplains correlations that cannot be reproduced classically, is the most\nnotable of them. Besides its fundamental aspect, entanglement is also a\nresource, fueling emergent technologies such as quantum simulators and\ncomputers. The purpose of this chapter is to give a pedagogical introduction to\nthe topic with a special emphasis on the multipartite scenario, i.e.,\nentanglement distributed among many degrees of freedom. Due to the\ncombinatorial complexity of this setting, particles can interact and become\nentangled in a plethora of ways, which we characterize here. We start by\nproviding the necessary mathematical tools and elementary concepts from\nentanglement theory. A part of this chapter will be devoted to classifying and\nordering entangled states. Then, we focus on various entanglement structures\nuseful in condensed-matter theory such as tensor-network states or symmetric\nstates useful for quantum-enhanced sensing. Finally, we discuss\nstate-of-the-art methods to detect and certify such correlations in\nexperiments, with some relevant illustrative examples.",
+            "pdf_url": "http://arxiv.org/pdf/2402.09523v2",
+            "published": "2024-02-14 19:01:10+00:00",
+            "updated": "2024-07-18 16:30:40+00:00"
+        },
+        {
+            "title": "Measuring kinetic inductance and superfluid stiffness of two-dimensional superconductors using high-quality transmission-line resonators",
+            "authors": "Mary Kreidel, Xuanjing Chu, Jesse Balgley, Nishchhal Verma, Julian Ingham, Leonardo Ranzani, Raquel Queiroz, Robert M. Westervelt, James Hone, Kin Chung Fong",
+            "summary": "The discovery of van der Waals superconductors in recent years has generated\na lot of excitement for their potentially novel pairing mechanisms. However,\ntheir typical atomic-scale thickness and micrometer-scale lateral dimensions\nimpose severe challenges to investigations of pairing symmetry by conventional\nmethods. In this report we demonstrate a new technique that employs\nhigh-quality-factor superconducting resonators to measure the kinetic\ninductance -- up to a part per million -- and loss of a van der Waals\nsuperconductor. We analyze the equivalent circuit model to extract the kinetic\ninductance, superfluid stiffness, penetration depth, and ratio of imaginary and\nreal parts of the complex conductivity. We validate the technique by measuring\naluminum and finding excellent agreement in both the zero-temperature\nsuperconducting gap as well as the complex conductivity data when compared with\nBCS theory. We then demonstrate the utility of the technique by measuring the\nkinetic inductance of multi-layered niobium diselenide and discuss the limits\nto the accuracy of our technique when the transition temperature of the sample,\nNbSe$_2$ at 7.06 K, approaches our Nb probe resonator at 8.59 K. Our method\nwill be useful for practitioners in the growing fields of superconducting\nphysics, materials science, and quantum sensing, as a means of characterizing\nsuperconducting circuit components and studying pairing mechanisms of the novel\nsuperconducting states which arise in layered 2D materials and\nheterostructures.",
+            "pdf_url": "http://arxiv.org/pdf/2407.09916v2",
+            "published": "2024-07-13 15:26:00+00:00",
+            "updated": "2024-07-18 16:25:15+00:00"
+        },
+        {
+            "title": "Surface roughening in nanoparticle catalysts",
+            "authors": "Cameron J. Owen, Nicholas Marcella, Christopher R. O'Connor, Taek-Seung Kim, Ryuichi Shimogawa, Clare Yijia Xie, Ralph G. Nuzzo, Anatoly I. Frenkel, Christian Reece, Boris Kozinsky",
+            "summary": "Supported metal nanoparticle (NP) catalysts are vital for the sustainable\nproduction of chemicals, but their design and implementation are limited by the\nability to identify and characterize their structures and atomic sites that are\ncorrelated with high catalytic activity. Identification of these ''active\nsites'' has relied heavily on extrapolation to supported NP systems from\ninvestigation of idealized surfaces, experimentally using single crystals or\nsupported NPs which are always modelled computationally using slab or regular\npolyhedra models. However, the ability of these methods to predict catalytic\nactivity remains qualitative at best, as the structure of metal NPs in reactive\nenvironments has only been speculated from indirect experimental observations,\nor otherwise remains wholly unknown. Here, by circumventing these limitations\nfor highly accurate simulation methods, we provide direct atomistic insight\ninto the dynamic restructuring of metal NPs by combining in situ spectroscopy\nwith molecular dynamics simulations powered by a machine learned force field.\nWe find that in reactive environments, NP surfaces evolve to a state with\npoorly defined atomic order, while the core of the NP may remain bulk-like.\nThese insights prove that long-standing conceptual models based on idealized\nfaceting for small metal NP systems are not representative of real systems\nunder exposure to reactive environments. We show that the resultant structure\ncan be elucidated by combining advanced spectroscopy and computational tools.\nThis discovery exemplifies that to enable faithful quantitative predictions of\ncatalyst function and stability, we must move beyond idealized-facet\nexperimental and theoretical models and instead employ systems which include\nrealistic surface structures that respond to relevant physical and chemical\nconditions.",
+            "pdf_url": "http://arxiv.org/pdf/2407.13643v1",
+            "published": "2024-07-18 16:21:01+00:00",
+            "updated": "2024-07-18 16:21:01+00:00"
+        },
+        {
+            "title": "Exploration to early universe by Josephson Junction Switching Current Detector",
+            "authors": "Dan Kondo",
+            "summary": "In this paper, we propose a method to probe a Stochastic Gravitational Wave\nBackground (SGWB) with Josephson Junction Switching Current Detector (JJSCD).\nThe sensitivity for the shear can reach $h\\simeq 10^{-19}$ realistically,\n$10^{-21}$ in the near future, $10^{-24}$ optimistically. If we utilize the\nenhancement factor from the ratio of the frequency, it is possible to reach\nfurther below the Big Bang Nucleosynthesis (BBN) bound. It will be interesting\nif we can access the region to discover a footprint of new physics.",
+            "pdf_url": "http://arxiv.org/pdf/2407.13630v1",
+            "published": "2024-07-18 16:01:40+00:00",
+            "updated": "2024-07-18 16:01:40+00:00"
+        },
+        {
+            "title": "Certifying ground-state properties of quantum many-body systems",
+            "authors": "Jie Wang, Jacopo Surace, Ir\u00e9n\u00e9e Fr\u00e9rot, Beno\u00eet Legat, Marc-Olivier Renou, Victor Magron, Antonio Ac\u00edn",
+            "summary": "A ubiquitous problem in quantum physics is to understand the ground-state\nproperties of many-body systems. Confronted with the fact that exact\ndiagonalisation quickly becomes impossible when increasing the system size,\nvariational approaches are typically employed as a scalable alternative: energy\nis minimised over a subset of all possible states and then different physical\nquantities are computed over the solution state. Despite remarkable success,\nrigorously speaking, all what variational methods offer are upper bounds on the\nground-state energy. On the other hand, so-called relaxations of the\nground-state problem based on semidefinite programming represent a\ncomplementary approach, providing lower bounds to the ground-state energy.\nHowever, in their current implementation, neither variational nor relaxation\nmethods offer provable bound on other observables in the ground state beyond\nthe energy. In this work, we show that the combination of the two classes of\napproaches can be used to derive certifiable bounds on the value of any\nobservable in the ground state, such as correlation functions of arbitrary\norder, structure factors, or order parameters. We illustrate the power of this\napproach in paradigmatic examples of 1D and 2D spin-one-half Heisenberg models.\nTo improve the scalability of the method, we exploit the symmetries and\nsparsity of the considered systems to reach sizes of hundreds of particles at\nmuch higher precision than previous works. Our analysis therefore shows how to\nobtain certifiable bounds on many-body ground-state properties beyond energy in\na scalable way.",
+            "pdf_url": "http://arxiv.org/pdf/2310.05844v5",
+            "published": "2023-10-09 16:40:19+00:00",
+            "updated": "2024-07-18 15:57:38+00:00"
+        },
+        {
+            "title": "On the collider-testability of the type-I seesaw model with 3 right-handed neutrinos",
+            "authors": "Marco Drewes, Yannis Georis, Juraj Klari\u0107, Antony Wendels",
+            "summary": "If any heavy neutral leptons are discovered in accelerator-based experiments,\nkey questions will involve their possible connection to neutrino masses or\nleptogenesis. Working in a renormalisable extension of the Standard Model by\nthree right-handed neutrinos, we address the question of how much information\nabout the fundamental model parameters can be obtained by measuring the\nbranching ratios in the decays of the heavy neutral leptons into individual SM\ngenerations. We find that, provided that these branching ratios could be\nmeasured with arbitrary precision, they would be sufficient to pin down all 18\nparameters of the model when supplemented with light neutrino oscillation data.\nWhen considering a finite statistical uncertainty comparable to that which can\nbe achieved by future lepton colliders in the mass range of tens of GeV, some\nparameter degeneracies remain, but measurements would still provide powerful\nconsistency checks of the model. In the sub-GeV range similar sensitivities can\nbe expected for SHiP and DUNE. This shows the potential of these experiments to\nnot only discover heavy neutral leptons, but play an important role in\nunderstanding their role in particle physics and cosmology.",
+            "pdf_url": "http://arxiv.org/pdf/2407.13620v1",
+            "published": "2024-07-18 15:57:21+00:00",
+            "updated": "2024-07-18 15:57:21+00:00"
+        }
+    ],
+    "Diffusion": [
+        {
+            "title": "Understanding Reinforcement Learning-Based Fine-Tuning of Diffusion Models: A Tutorial and Review",
+            "authors": "Masatoshi Uehara, Yulai Zhao, Tommaso Biancalani, Sergey Levine",
+            "summary": "This tutorial provides a comprehensive survey of methods for fine-tuning\ndiffusion models to optimize downstream reward functions. While diffusion\nmodels are widely known to provide excellent generative modeling capability,\npractical applications in domains such as biology require generating samples\nthat maximize some desired metric (e.g., translation efficiency in RNA, docking\nscore in molecules, stability in protein). In these cases, the diffusion model\ncan be optimized not only to generate realistic samples but also to explicitly\nmaximize the measure of interest. Such methods are based on concepts from\nreinforcement learning (RL). We explain the application of various RL\nalgorithms, including PPO, differentiable optimization, reward-weighted MLE,\nvalue-weighted sampling, and path consistency learning, tailored specifically\nfor fine-tuning diffusion models. We aim to explore fundamental aspects such as\nthe strengths and limitations of different RL-based fine-tuning algorithms\nacross various scenarios, the benefits of RL-based fine-tuning compared to\nnon-RL-based approaches, and the formal objectives of RL-based fine-tuning\n(target distributions). Additionally, we aim to examine their connections with\nrelated topics such as classifier guidance, Gflownets, flow-based diffusion\nmodels, path integral control theory, and sampling from unnormalized\ndistributions such as MCMC. The code of this tutorial is available at\nhttps://github.com/masa-ue/RLfinetuning_Diffusion_Bioseq",
+            "pdf_url": "http://arxiv.org/pdf/2407.13734v1",
+            "published": "2024-07-18 17:35:32+00:00",
+            "updated": "2024-07-18 17:35:32+00:00"
+        },
+        {
+            "title": "An Intrinsic Vector Heat Network",
+            "authors": "Alexander Gao, Maurice Chu, Mubbasir Kapadia, Ming C. Lin, Hsueh-Ti Derek Liu",
+            "summary": "Vector fields are widely used to represent and model flows for many science\nand engineering applications. This paper introduces a novel neural network\narchitecture for learning tangent vector fields that are intrinsically defined\non manifold surfaces embedded in 3D. Previous approaches to learning vector\nfields on surfaces treat vectors as multi-dimensional scalar fields, using\ntraditional scalar-valued architectures to process channels individually, thus\nfail to preserve fundamental intrinsic properties of the vector field. The core\nidea of this work is to introduce a trainable vector heat diffusion module to\nspatially propagate vector-valued feature data across the surface, which we\nincorporate into our proposed architecture that consists of vector-valued\nneurons. Our architecture is invariant to rigid motion of the input, isometric\ndeformation, and choice of local tangent bases, and is robust to\ndiscretizations of the surface. We evaluate our Vector Heat Network on triangle\nmeshes, and empirically validate its invariant properties. We also demonstrate\nthe effectiveness of our method on the useful industrial application of\nquadrilateral mesh generation.",
+            "pdf_url": "http://arxiv.org/pdf/2406.09648v2",
+            "published": "2024-06-14 00:40:31+00:00",
+            "updated": "2024-07-18 17:31:20+00:00"
+        },
+        {
+            "title": "Training-free Composite Scene Generation for Layout-to-Image Synthesis",
+            "authors": "Jiaqi Liu, Tao Huang, Chang Xu",
+            "summary": "Recent breakthroughs in text-to-image diffusion models have significantly\nadvanced the generation of high-fidelity, photo-realistic images from textual\ndescriptions. Yet, these models often struggle with interpreting spatial\narrangements from text, hindering their ability to produce images with precise\nspatial configurations. To bridge this gap, layout-to-image generation has\nemerged as a promising direction. However, training-based approaches are\nlimited by the need for extensively annotated datasets, leading to high data\nacquisition costs and a constrained conceptual scope. Conversely, training-free\nmethods face challenges in accurately locating and generating semantically\nsimilar objects within complex compositions. This paper introduces a novel\ntraining-free approach designed to overcome adversarial semantic intersections\nduring the diffusion conditioning phase. By refining intra-token loss with\nselective sampling and enhancing the diffusion process with attention\nredistribution, we propose two innovative constraints: 1) an inter-token\nconstraint that resolves token conflicts to ensure accurate concept synthesis;\nand 2) a self-attention constraint that improves pixel-to-pixel relationships.\nOur evaluations confirm the effectiveness of leveraging layout information for\nguiding the diffusion process, generating content-rich images with enhanced\nfidelity and complexity. Code is available at\nhttps://github.com/Papple-F/csg.git.",
+            "pdf_url": "http://arxiv.org/pdf/2407.13609v1",
+            "published": "2024-07-18 15:48:07+00:00",
+            "updated": "2024-07-18 15:48:07+00:00"
+        },
+        {
+            "title": "EnergyDiff: Universal Time-Series Energy Data Generation using Diffusion Models",
+            "authors": "Nan Lin, Peter Palensky, Pedro P. Vergara",
+            "summary": "High-resolution time series data are crucial for operation and planning in\nenergy systems such as electrical power systems and heating systems. However,\ndue to data collection costs and privacy concerns, such data is often\nunavailable or insufficient for downstream tasks. Data synthesis is a potential\nsolution for this data scarcity. With the recent development of generative AI,\nwe propose EnergyDiff, a universal data generation framework for energy time\nseries data. EnergyDiff builds on state-of-the-art denoising diffusion\nprobabilistic models, utilizing a proposed denoising network dedicated to\nhigh-resolution time series data and introducing a novel Marginal Calibration\ntechnique. Our extensive experimental results demonstrate that EnergyDiff\nachieves significant improvement in capturing temporal dependencies and\nmarginal distributions compared to baselines, particularly at the 1-minute\nresolution. Additionally, EnergyDiff consistently generates high-quality time\nseries data across diverse energy domains, time resolutions, and at both\ncustomer and transformer levels with reduced computational need.",
+            "pdf_url": "http://arxiv.org/pdf/2407.13538v1",
+            "published": "2024-07-18 14:10:50+00:00",
+            "updated": "2024-07-18 14:10:50+00:00"
+        },
+        {
+            "title": "Fundamental Visual Navigation Algorithms: Indirect Sequential, Biased Diffusive, & Direct Pathing",
+            "authors": "Patrick Govoni, Pawel Romanczuk",
+            "summary": "Effective foraging in a predictable local environment requires coordinating\nmovement with observable spatial context - in a word, navigation. Distinct from\nsearch, navigating to specific areas known to be valuable entails its own\nparticularities. How space is understood through vision and parsed for\nnavigation is often examined experimentally, with limited ability to manipulate\nsensory inputs and probe into the algorithmic level of decision-making.\n  As a generalizable, minimal alternative to empirical means, we evolve and\nstudy embodied neural networks to explore information processing algorithms an\norganism may use for visual spatial navigation. Surprisingly, three distinct\nclasses of algorithms emerged, each with its own set of rules and tradeoffs,\nand each appear to be highly relevant to observable biological navigation\nbehaviors.",
+            "pdf_url": "http://arxiv.org/pdf/2407.13535v1",
+            "published": "2024-07-18 14:07:44+00:00",
+            "updated": "2024-07-18 14:07:44+00:00"
+        }
+    ]
+}

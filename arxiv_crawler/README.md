@@ -30,6 +30,31 @@ TODO:
 
 
 
+
+## Update on 2024-07-19
+
+### Physics
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2024-07-18|2024-07-18|Neural Network Tire Force Modeling for Automated Drifting|Nicholas Drake Broadbent|[2407.13760v1](http://arxiv.org/pdf/2407.13760v1)|
+|2024-05-15|2024-07-18|Zeno Effect Suppression of Gauge Drift in Quantum Simulations|Carter Ball|[2405.09462v3](http://arxiv.org/pdf/2405.09462v3)|
+|2024-06-13|2024-07-18|QCD constraints on isospin-dense matter and the nuclear equation of state|Ryan Abbott|[2406.09273v2](http://arxiv.org/pdf/2406.09273v2)|
+|2024-02-07|2024-07-18|Assessment of models for nonlinear oscillatory flow through a hexagonal sphere pack|Lukas Unglehrt|[2402.05320v3](http://arxiv.org/pdf/2402.05320v3)|
+|2024-02-14|2024-07-18|Introduction to quantum entanglement in many-body systems|Anubhav Kumar Srivastava|[2402.09523v2](http://arxiv.org/pdf/2402.09523v2)|
+|2024-07-13|2024-07-18|Measuring kinetic inductance and superfluid stiffness of two-dimensional superconductors using high-quality transmission-line resonators|Mary Kreidel|[2407.09916v2](http://arxiv.org/pdf/2407.09916v2)|
+|2024-07-18|2024-07-18|Surface roughening in nanoparticle catalysts|Cameron J. Owen|[2407.13643v1](http://arxiv.org/pdf/2407.13643v1)|
+|2024-07-18|2024-07-18|Exploration to early universe by Josephson Junction Switching Current Detector|Dan Kondo|[2407.13630v1](http://arxiv.org/pdf/2407.13630v1)|
+|2023-10-09|2024-07-18|Certifying ground-state properties of quantum many-body systems|Jie Wang|[2310.05844v5](http://arxiv.org/pdf/2310.05844v5)|
+|2024-07-18|2024-07-18|On the collider-testability of the type-I seesaw model with 3 right-handed neutrinos|Marco Drewes|[2407.13620v1](http://arxiv.org/pdf/2407.13620v1)|
+
+### Diffusion
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2024-07-18|2024-07-18|Understanding Reinforcement Learning-Based Fine-Tuning of Diffusion Models: A Tutorial and Review|Masatoshi Uehara|[2407.13734v1](http://arxiv.org/pdf/2407.13734v1)|
+|2024-06-14|2024-07-18|An Intrinsic Vector Heat Network|Alexander Gao|[2406.09648v2](http://arxiv.org/pdf/2406.09648v2)|
+|2024-07-18|2024-07-18|Training-free Composite Scene Generation for Layout-to-Image Synthesis|Jiaqi Liu|[2407.13609v1](http://arxiv.org/pdf/2407.13609v1)|
+|2024-07-18|2024-07-18|EnergyDiff: Universal Time-Series Energy Data Generation using Diffusion Models|Nan Lin|[2407.13538v1](http://arxiv.org/pdf/2407.13538v1)|
+|2024-07-18|2024-07-18|Fundamental Visual Navigation Algorithms: Indirect Sequential, Biased Diffusive, & Direct Pathing|Patrick Govoni|[2407.13535v1](http://arxiv.org/pdf/2407.13535v1)|
 ## Update on 2024-07-17
 
 ### Physics
