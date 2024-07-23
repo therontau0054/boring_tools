@@ -31,6 +31,36 @@ TODO:
 
 
 
+
+## Update on 2024-07-23
+
+### Physics
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2024-07-09|2024-07-22|Multicell-Fold: geometric learning in folding multicellular life|Haiqian Yang|[2407.07055v2](http://arxiv.org/pdf/2407.07055v2)|
+|2023-12-18|2024-07-22|Turing's Test, a Beautiful Thought Experiment|Bernardo Gonçalves|[2401.00009v3](http://arxiv.org/pdf/2401.00009v3)|
+|2024-05-24|2024-07-22|Towards Relational Quantum Field Theory|Jan Głowacki|[2405.15455v2](http://arxiv.org/pdf/2405.15455v2)|
+|2024-07-22|2024-07-22|Flux-mediated effective Su-Schrieffer-Heeger model in an impurity decorated diamond chain|David Viedma|[2407.15789v1](http://arxiv.org/pdf/2407.15789v1)|
+|2024-07-22|2024-07-22|Reinterpretation of the Fermi acceleration of cosmic rays in terms of the ballistic surfing acceleration in supernova shocks|Krzysztof Stasiewicz|[2407.15767v1](http://arxiv.org/pdf/2407.15767v1)|
+|2024-07-22|2024-07-22|An instructional lab apparatus for quantum experiments with single nitrogen-vacancy centers in diamond|Zhiyang Yuan|[2407.15759v1](http://arxiv.org/pdf/2407.15759v1)|
+|2024-05-27|2024-07-22|Non-Abelian Hopf-Euler insulators|Wojciech J. Jankowski|[2405.17305v2](http://arxiv.org/pdf/2405.17305v2)|
+|2024-07-22|2024-07-22|Can foreign exchange rates violate Bell inequalities?|Hans De Raedt|[2407.15747v1](http://arxiv.org/pdf/2407.15747v1)|
+|2023-04-08|2024-07-22|Einstein-Podolsky-Rosen-Bohm experiments: a discrete data driven approach|Hans De Raedt|[2304.03962v4](http://arxiv.org/pdf/2304.03962v4)|
+|2024-07-22|2024-07-22|Inferring turbulent velocity and temperature fields and their statistics from Lagrangian velocity measurements using physics-informed Kolmogorov-Arnold Networks|Juan Diego Toscano|[2407.15727v1](http://arxiv.org/pdf/2407.15727v1)|
+
+### Diffusion
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2024-07-22|2024-07-22|Stretching Each Dollar: Diffusion Training from Scratch on a Micro-Budget|Vikash Sehwag|[2407.15811v1](http://arxiv.org/pdf/2407.15811v1)|
+|2024-07-22|2024-07-22|Diffusion Model Based Resource Allocation Strategy in Ultra-Reliable Wireless Networked Control Systems|Amirhassan Babazadeh Darabi|[2407.15784v1](http://arxiv.org/pdf/2407.15784v1)|
+|2024-07-22|2024-07-22|Diffusion for Out-of-Distribution Detection on Road Scenes and Beyond|Silvio Galesso|[2407.15739v1](http://arxiv.org/pdf/2407.15739v1)|
+|2024-07-22|2024-07-22|Estimating Probability Densities with Transformer and Denoising Diffusion|Henry W. Leung|[2407.15703v1](http://arxiv.org/pdf/2407.15703v1)|
+|2024-07-22|2024-07-22|Discrete Flow Matching|Itai Gat|[2407.15595v1](http://arxiv.org/pdf/2407.15595v1)|
+
+### Quantitative Finance
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2024-04-14|2024-07-20|JaFIn: Japanese Financial Instruction Dataset|Kota Tanabe|[2404.09260v2](http://arxiv.org/pdf/2404.09260v2)|
 ## Update on 2024-07-19
 
 ### Physics
