@@ -32,6 +32,31 @@ TODO:
 
 
 
+
+## Update on 2024-07-25
+
+### Physics
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2023-06-20|2024-07-24|Quantum error-correcting codes with a covariant encoding|Aurélie Denys|[2306.11621v4](http://arxiv.org/pdf/2306.11621v4)|
+|2024-04-19|2024-07-24|Investigating Resource-efficient Neutron/Gamma Classification ML Models Targeting eFPGAs|Jyothisraj Johnson|[2404.14436v2](http://arxiv.org/pdf/2404.14436v2)|
+|2024-03-22|2024-07-24|Search for heavy Majorana neutrinos in $e^{\pm} e^{\pm}$ and $e^{\pm} μ^{\pm}$ final states via WW scattering in $pp$ collisions at $\sqrt{s}=13$ TeV with the ATLAS detector|ATLAS Collaboration|[2403.15016v2](http://arxiv.org/pdf/2403.15016v2)|
+|2024-07-24|2024-07-24|Gender disparities in the dissemination and acquisition of scientific knowledge|Chiara Zappalà|[2407.17441v1](http://arxiv.org/pdf/2407.17441v1)|
+|2024-07-24|2024-07-24|Numerical evaluation of orientation averages and its application to molecular physics|Alexander Blech|[2407.17434v1](http://arxiv.org/pdf/2407.17434v1)|
+|2024-07-24|2024-07-24|Physical limits on galvanotaxis depends on cell morphology and orientation|Ifunanya Nwogbaga|[2407.17420v1](http://arxiv.org/pdf/2407.17420v1)|
+|2024-07-24|2024-07-24|Generalized Uncertainty Principle theories and their classical interpretation|Matteo Bruno|[2407.17408v1](http://arxiv.org/pdf/2407.17408v1)|
+|2024-04-01|2024-07-24|SMEFT Matching to $Z^\prime$ Models at Dimension-8|Sally Dawson|[2404.01375v3](http://arxiv.org/pdf/2404.01375v3)|
+|2024-07-24|2024-07-24|Cosmic ray susceptibility of the Terahertz Intensity Mapper detector arrays|Lun-Jun Liu|[2407.17381v1](http://arxiv.org/pdf/2407.17381v1)|
+|2022-11-17|2024-07-24|Design of The Kinetic Inductance Detector Based Focal Plane Assembly for The Terahertz Intensity Mapper|L. -J. Liu|[2211.09351v2](http://arxiv.org/pdf/2211.09351v2)|
+
+### Diffusion
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2024-07-24|2024-07-24|Sublinear Regret for An Actor-Critic Algorithm in Continuous-Time Linear-Quadratic Reinforcement Learning|Yilie Huang|[2407.17226v1](http://arxiv.org/pdf/2407.17226v1)|
+|2024-07-23|2024-07-24|Audio Prompt Adapter: Unleashing Music Editing Abilities for Text-to-Music with Lightweight Finetuning|Fang-Duo Tsai|[2407.16564v2](http://arxiv.org/pdf/2407.16564v2)|
+|2024-07-23|2024-07-24|Visual Stereotypes of Autism Spectrum in DALL-E, Stable Diffusion, SDXL, and Midjourney|Maciej Wodziński|[2407.16292v2](http://arxiv.org/pdf/2407.16292v2)|
+|2024-07-24|2024-07-24|Sparse Inducing Points in Deep Gaussian Processes: Enhancing Modeling with Denoising Diffusion Variational Inference|Jian Xu|[2407.17033v1](http://arxiv.org/pdf/2407.17033v1)|
+|2024-07-24|2024-07-24|Diffree: Text-Guided Shape Free Object Inpainting with Diffusion Model|Lirui Zhao|[2407.16982v1](http://arxiv.org/pdf/2407.16982v1)|
 ## Update on 2024-07-23
 
 ### Physics

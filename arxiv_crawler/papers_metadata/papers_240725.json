@@ -1,0 +1,126 @@
+{
+    "Physics": [
+        {
+            "title": "Quantum error-correcting codes with a covariant encoding",
+            "authors": "Aur\u00e9lie Denys, Anthony Leverrier",
+            "summary": "Given some group $G$ of logical gates, for instance the Clifford group, what\nare the quantum encodings for which these logical gates can be implemented by\nsimple physical operations, described by some physical representation of $G$?\nWe study this question by constructing a general form of such encoding maps.\nFor instance, we recover that the $[[5,1,3]]$ and Steane codes admit\ntransversal implementations of the binary tetrahedral and binary octahedral\ngroups, respectively. For bosonic encodings, we show how to obtain the GKP and\ncat qudit encodings by considering the appropriate groups, and essentially the\nsimplest physical implementations. We further illustrate this approach by\nintroducing a 2-mode bosonic code defined from a constellation of 48 coherent\nstates, for which all single-qubit Clifford gates correspond to passive\nGaussian unitaries.",
+            "pdf_url": "http://arxiv.org/pdf/2306.11621v4",
+            "published": "2023-06-20 15:48:30+00:00",
+            "updated": "2024-07-24 17:51:34+00:00"
+        },
+        {
+            "title": "Investigating Resource-efficient Neutron/Gamma Classification ML Models Targeting eFPGAs",
+            "authors": "Jyothisraj Johnson, Billy Boxer, Tarun Prakash, Carl Grace, Peter Sorensen, Mani Tripathi",
+            "summary": "There has been considerable interest and resulting progress in implementing\nmachine learning (ML) models in hardware over the last several years from the\nparticle and nuclear physics communities. A big driver has been the release of\nthe Python package, hls4ml, which has enabled porting models specified and\ntrained using Python ML libraries to register transfer level (RTL) code. So\nfar, the primary end targets have been commercial FPGAs or synthesized custom\nblocks on ASICs. However, recent developments in open-source embedded FPGA\n(eFPGA) frameworks now provide an alternate, more flexible pathway for\nimplementing ML models in hardware. These customized eFPGA fabrics can be\nintegrated as part of an overall chip design. In general, the decision between\na fully custom, eFPGA, or commercial FPGA ML implementation will depend on the\ndetails of the end-use application. In this work, we explored the parameter\nspace for eFPGA implementations of fully-connected neural network (fcNN) and\nboosted decision tree (BDT) models using the task of neutron/gamma\nclassification with a specific focus on resource efficiency. We used data\ncollected using an AmBe sealed source incident on Stilbene, which was optically\ncoupled to an OnSemi J-series SiPM to generate training and test data for this\nstudy. We investigated relevant input features and the effects of\nbit-resolution and sampling rate as well as trade-offs in hyperparameters for\nboth ML architectures while tracking total resource usage. The performance\nmetric used to track model performance was the calculated neutron efficiency at\na gamma leakage of 10$^{-3}$. The results of the study will be used to aid the\nspecification of an eFPGA fabric, which will be integrated as part of a test\nchip.",
+            "pdf_url": "http://arxiv.org/pdf/2404.14436v2",
+            "published": "2024-04-19 20:03:30+00:00",
+            "updated": "2024-07-24 17:26:07+00:00"
+        },
+        {
+            "title": "Search for heavy Majorana neutrinos in $e^{\\pm} e^{\\pm}$ and $e^{\\pm} \u03bc^{\\pm}$ final states via WW scattering in $pp$ collisions at $\\sqrt{s}=13$ TeV with the ATLAS detector",
+            "authors": "ATLAS Collaboration",
+            "summary": "A search for heavy Majorana neutrinos in scattering of same-sign $W$ boson\npairs in proton-proton collisions at $\\sqrt{s}= 13$ TeV at the LHC is reported.\nThe dataset used corresponds to an integrated luminosity of 140 fb$^{-1}$,\ncollected with the ATLAS detector during 2015-2018. The search is performed in\nfinal states including a same-sign $ee$ or $e\\mu$ pair and at least two jets\nwith large invariant mass and a large rapidity difference. No significant\nexcess of events with respect to the Standard Model background predictions is\nobserved. The results are interpreted in a benchmark scenario of the\nPhenomenological Type-I Seesaw model. New constraints are set on the values of\nthe $\\vert V_{e N} \\vert^{2}$ and $\\vert V_{e N} V^{*}_{\\mu N} \\vert$\nparameters for heavy Majorana neutrino masses between 50 GeV and 20 TeV, where\n$V_{\\ell N}$ is the matrix element describing the mixing of the heavy Majorana\nneutrino mass eigenstate with the Standard Model neutrino of flavour $\\ell = e,\n\\mu$. The sensitivity to the Weinberg operator is investigated and constraints\non the effective $ee$ and $e\\mu$ Majorana neutrino masses are reported. The\nstatistical combination of the $ee$ and $e\\mu$ channels with the previously\npublished $\\mu\\mu$ channel is performed.",
+            "pdf_url": "http://arxiv.org/pdf/2403.15016v2",
+            "published": "2024-03-22 08:01:19+00:00",
+            "updated": "2024-07-24 17:19:23+00:00"
+        },
+        {
+            "title": "Gender disparities in the dissemination and acquisition of scientific knowledge",
+            "authors": "Chiara Zappal\u00e0, Luca Gallo, Jan Bachmann, Federico Battiston, Fariba Karimi",
+            "summary": "Recent research has challenged the widespread belief that gender inequities\nin academia would disappear simply by increasing the number of women. More\ncomplex causes might be at play, embodied in the networked structure of\nscientific collaborations. Here, we aim to understand the structural inequality\nbetween male and female scholars in the dissemination of scientific knowledge.\nWe use a large-scale dataset of academic publications from the American\nPhysical Society (APS) to build a time-varying network of collaborations from\n1970 to 2020. We model knowledge dissemination as a contagion process in which\nscientists become informed based on the propagation of knowledge through their\ncollaborators. We quantify the fairness of the system in terms of how women\nacquire and diffuse knowledge compared to men. Our results indicate that\nknowledge acquisition and diffusion are slower for women than expected. We find\nthat the main determinant of women's disadvantage is the gap in the cumulative\nnumber of collaborators, highlighting how time creates structural disadvantages\nthat contribute to marginalize women in physics. Our work sheds light on how\nthe dynamics of scientific collaborations shape gender disparities in knowledge\ndissemination and calls for a deeper understanding on how to intervene to\nimprove fairness and diversity in the scientific community.",
+            "pdf_url": "http://arxiv.org/pdf/2407.17441v1",
+            "published": "2024-07-24 17:18:54+00:00",
+            "updated": "2024-07-24 17:18:54+00:00"
+        },
+        {
+            "title": "Numerical evaluation of orientation averages and its application to molecular physics",
+            "authors": "Alexander Blech, Raoul M. M. Ebeling, Marec Heger, Christiane P. Koch, Daniel M. Reich",
+            "summary": "In molecular physics, it is often necessary to average over the orientation\nof molecules when calculating observables, in particular when modelling\nexperiments in the liquid or gas phase. Evaluated in terms of Euler angles,\nthis is closely related to integration over two- or three-dimensional unit\nspheres, a common problem discussed in numerical analysis. The computational\ncost of the integration depends significantly on the quadrature method, making\nthe selection of an appropriate method crucial for the feasibility of\nsimulations. After reviewing several classes of spherical quadrature methods in\nterms of their efficiency and error distribution, we derive guidelines for\nchoosing the best quadrature method for orientation averages and illustrate\nthese with three examples from chiral molecule physics. While Gauss quadratures\nallow for achieving numerically exact integration for a wide range of\napplications, other methods offer advantages in specific circumstances. Our\nguidelines can also by applied to higher-dimensional spherical domains and\nother geometries. We also present a Python package providing a flexible\ninterface to a variety of quadrature methods.",
+            "pdf_url": "http://arxiv.org/pdf/2407.17434v1",
+            "published": "2024-07-24 17:09:41+00:00",
+            "updated": "2024-07-24 17:09:41+00:00"
+        },
+        {
+            "title": "Physical limits on galvanotaxis depends on cell morphology and orientation",
+            "authors": "Ifunanya Nwogbaga, Brian A. Camley",
+            "summary": "Galvanotaxis is believed to be driven by the redistribution of transmembrane\nproteins and other molecules, referred to as \"sensors\", through electrophoresis\nand electroosmosis. Here, we update our previous model of the limits of\ngalvanotaxis due to stochasticity of sensor movements to account for cell shape\nand orientation. Computing the Fisher information, we find that cells in\nprinciple possess more information about the electric field direction when\ntheir long axis is parallel to the field, but that for weak fields\nmaximum-likelihood estimators of the field direction may actually have lower\nvariability when the cell's long axis is perpendicular to the field. In an\nalternate possibility, we find that if cells instead estimate the field\ndirection by taking the average of all the sensor locations as its directional\ncue (\"vector sum\"), this introduces a bias towards the short axis, an effect\nnot present for isotropic cells. We also explore the possibility that cell\nelongation arises downstream of sensor redistribution. We argue that if sensors\nmigrate to the cell's rear, the cell will expand perpendicular the field - as\nis more commonly observed - but if sensors migrate to the front, the cell will\nelongate parallel to the field.",
+            "pdf_url": "http://arxiv.org/pdf/2407.17420v1",
+            "published": "2024-07-24 16:57:59+00:00",
+            "updated": "2024-07-24 16:57:59+00:00"
+        },
+        {
+            "title": "Generalized Uncertainty Principle theories and their classical interpretation",
+            "authors": "Matteo Bruno, Sebastiano Segreto, Giovanni Montani",
+            "summary": "In this work, we show that it is possible to define a classical system\nassociated with a Generalized Uncertainty Principle (GUP) theory via the\nimplementation of a consistent symplectic structure. This provides a solid\nframework for the classical Hamiltonian formulation of such theories and the\nstudy of the dynamics of physical systems in the corresponding deformed phase\nspace. By further characterizing the functions that govern non-commutativity in\nthe configuration space using the algebra of angular momentum, we determine a\ngeneral form for the rotation generator in these theories and crucially, we\nshow that, under these conditions, unlike what has been previously found in the\nliterature at the quantum level, this requirement does not lead to the\nsuperselection of GUP models at the classical level. Finally, we demonstrate\nthat a properly defined GUP theory can be correctly interpreted classically if\nand only if the corresponding quantum commutators satisfy the Jacobi\nidentities.",
+            "pdf_url": "http://arxiv.org/pdf/2407.17408v1",
+            "published": "2024-07-24 16:43:11+00:00",
+            "updated": "2024-07-24 16:43:11+00:00"
+        },
+        {
+            "title": "SMEFT Matching to $Z^\\prime$ Models at Dimension-8",
+            "authors": "Sally Dawson, Matthew Forslund, Marvin Schnubel",
+            "summary": "Heavy neutral gauge bosons arise in many motivated models of Beyond the\nStandard Model Physics. Experimental searches require that such gauge bosons\nare above the TeV scale in most models which means that the tools of effective\nfield theories, in particular the Standard Model Effective Field Theory\n(SMEFT), are useful. We match the SMEFT to models with heavy $Z^\\prime$ bosons,\nincluding effects of dimension-8 operators, and consider the restrictions on\nmodel parameters from electroweak precision measurements and from Drell Yan\ninvariant mass distributions and forward-backward asymmetry, $A_\\text{FB}$,\nmeasurements at the LHC. The results demonstrate the model dependence of the\nresulting limits on SMEFT coefficients and the relatively small impact of\nincluding dimension-8 matching. In all cases, the limits from invariant mass\ndistributions are stronger than from $A_\\text{FB}$ measurements in the\n$Z^\\prime$ models we consider.",
+            "pdf_url": "http://arxiv.org/pdf/2404.01375v3",
+            "published": "2024-04-01 18:00:01+00:00",
+            "updated": "2024-07-24 16:10:48+00:00"
+        },
+        {
+            "title": "Cosmic ray susceptibility of the Terahertz Intensity Mapper detector arrays",
+            "authors": "Lun-Jun Liu, Reinier M. J. Janssen, Bruce Bumble, Elijah Kane, Logan M. Foote, Charles M. Bradford, Steven Hailey-Dunsheath, Shubh Agrawal, James E. Aguirre, Hrushi Athreya, Justin S. Bracks, Brockton S. Brendal, Anthony J. Corso, Jeffrey P. Filippini, Jianyang Fu, Christopher E. Groppi, Dylan Joralmon, Ryan P. Keenan, Mikolaj Kowalik, Ian N. Lowe, Alex Manduca, Daniel P. Marrone, Philip D. Mauskopf, Evan C. Mayer, Rong Nie, Vesal Razavimaleki, Talia Saeid, Isaac Trumper, Joaquin D. Vieira",
+            "summary": "We report on the effects of cosmic ray interactions with the Kinetic\nInductance Detector (KID) based focal plane array for the Terahertz Intensity\nMapper (TIM). TIM is a NASA-funded balloon-borne experiment designed to probe\nthe peak of the star formation in the Universe. It employs two spectroscopic\nbands, each equipped with a focal plane of four $\\sim\\,$900-pixel, KID-based\narray chips. Measurements of an 864-pixel TIM array shows 791 resonators in a\n0.5$\\,$GHz bandwidth. We discuss challenges with resonator calibration caused\nby this high multiplexing density. We robustly identify the physical positions\nof 788 (99.6$\\,$%) detectors using a custom LED-based identification scheme.\nUsing this information we show that cosmic ray events occur at a rate of\n2.1$\\,\\mathrm{events/min/cm^2}$ in our array. 66$\\,$% of the events affect a\nsingle pixel, and another 33$\\,$% affect $<\\,$5 KIDs per event spread over a\n0.66$\\,\\mathrm{cm^2}$ region (2 pixel pitches in radius). We observe a total\ncosmic ray dead fraction of 0.0011$\\,$%, and predict that the maximum possible\nin-flight dead fraction is $\\sim\\,$0.165$\\,$%, which demonstrates our design\nwill be robust against these high-energy events.",
+            "pdf_url": "http://arxiv.org/pdf/2407.17381v1",
+            "published": "2024-07-24 16:05:10+00:00",
+            "updated": "2024-07-24 16:05:10+00:00"
+        },
+        {
+            "title": "Design of The Kinetic Inductance Detector Based Focal Plane Assembly for The Terahertz Intensity Mapper",
+            "authors": "L. -J. Liu, R. M. J. Janssen, C. M. Bradford, S. Hailey-Dunsheath, J. Fu, J. P. Filippini, J. E. Aguirre, J. S. Bracks, A. J. Corso, C. Groppi, J. Hoh, R. P. Keenan, I. N. Lowe, D. P. Marrone, P. Mauskopf, R. Nie, J. Redford, I. Trumper, J. D. Vieira",
+            "summary": "We report on the kinetic inductance detector (KID) array focal plane assembly\ndesign for the Terahertz Intensity Mapper (TIM). Each of the 2 arrays consists\nof 4 wafer-sized dies (quadrants), and the overall assembly must satisfy\nthermal and mechanical requirements, while maintaining high optical efficiency\nand a suitable electromagnetic environment for the KIDs. In particular, our\ndesign manages to strictly maintain a 50 $\\mathrm{\\mu m}$ air gap between the\narray and the horn block. We have prototyped and are now testing a sub-scale\nassembly which houses a single quadrant for characterization before integration\ninto the full array. The initial test result shows a $>$95% yield, indicating a\ngood performance of our TIM detector packaging design.",
+            "pdf_url": "http://arxiv.org/pdf/2211.09351v2",
+            "published": "2022-11-17 05:27:08+00:00",
+            "updated": "2024-07-24 16:03:28+00:00"
+        }
+    ],
+    "Diffusion": [
+        {
+            "title": "Sublinear Regret for An Actor-Critic Algorithm in Continuous-Time Linear-Quadratic Reinforcement Learning",
+            "authors": "Yilie Huang, Yanwei Jia, Xun Yu Zhou",
+            "summary": "We study reinforcement learning (RL) for a class of continuous-time\nlinear-quadratic (LQ) control problems for diffusions where volatility of the\nstate processes depends on both state and control variables. We apply a\nmodel-free approach that relies neither on knowledge of model parameters nor on\ntheir estimations, and devise an actor-critic algorithm to learn the optimal\npolicy parameter directly. Our main contributions include the introduction of a\nnovel exploration schedule and a regret analysis of the proposed algorithm. We\nprovide the convergence rate of the policy parameter to the optimal one, and\nprove that the algorithm achieves a regret bound of $O(N^{\\frac{3}{4}})$ up to\na logarithmic factor. We conduct a simulation study to validate the theoretical\nresults and demonstrate the effectiveness and reliability of the proposed\nalgorithm. We also perform numerical comparisons between our method and those\nof the recent model-based stochastic LQ RL studies adapted to the state- and\ncontrol-dependent volatility setting, demonstrating a better performance of the\nformer in terms of regret bounds.",
+            "pdf_url": "http://arxiv.org/pdf/2407.17226v1",
+            "published": "2024-07-24 12:26:21+00:00",
+            "updated": "2024-07-24 12:26:21+00:00"
+        },
+        {
+            "title": "Audio Prompt Adapter: Unleashing Music Editing Abilities for Text-to-Music with Lightweight Finetuning",
+            "authors": "Fang-Duo Tsai, Shih-Lun Wu, Haven Kim, Bo-Yu Chen, Hao-Chung Cheng, Yi-Hsuan Yang",
+            "summary": "Text-to-music models allow users to generate nearly realistic musical audio\nwith textual commands. However, editing music audios remains challenging due to\nthe conflicting desiderata of performing fine-grained alterations on the audio\nwhile maintaining a simple user interface. To address this challenge, we\npropose Audio Prompt Adapter (or AP-Adapter), a lightweight addition to\npretrained text-to-music models. We utilize AudioMAE to extract features from\nthe input audio, and construct attention-based adapters to feedthese features\ninto the internal layers of AudioLDM2, a diffusion-based text-to-music model.\nWith 22M trainable parameters, AP-Adapter empowers users to harness both global\n(e.g., genre and timbre) and local (e.g., melody) aspects of music, using the\noriginal audio and a short text as inputs. Through objective and subjective\nstudies, we evaluate AP-Adapter on three tasks: timbre transfer, genre\ntransfer, and accompaniment generation. Additionally, we demonstrate its\neffectiveness on out-of-domain audios containing unseen instruments during\ntraining.",
+            "pdf_url": "http://arxiv.org/pdf/2407.16564v2",
+            "published": "2024-07-23 15:16:18+00:00",
+            "updated": "2024-07-24 11:12:15+00:00"
+        },
+        {
+            "title": "Visual Stereotypes of Autism Spectrum in DALL-E, Stable Diffusion, SDXL, and Midjourney",
+            "authors": "Maciej Wodzi\u0144ski, Marcin Rz\u0105deczka, Anastazja Szu\u0142a, Marta Sok\u00f3\u0142, Marcin Moskalewicz",
+            "summary": "Avoiding systemic discrimination requires investigating AI models' potential\nto propagate stereotypes resulting from the inherent biases of training\ndatasets. Our study investigated how text-to-image models unintentionally\nperpetuate non-rational beliefs regarding autism. The research protocol\ninvolved generating images based on 53 prompts aimed at visualizing concrete\nobjects and abstract concepts related to autism across four models: DALL-E,\nStable Diffusion, SDXL, and Midjourney (N=249). Expert assessment of results\nwas performed via a framework of 10 deductive codes representing common\nstereotypes contested by the community regarding their presence and spatial\nintensity, quantified on ordinal scales and subject to statistical analysis of\ninter-rater reliability and size effects. The models frequently utilised\ncontroversial themes and symbols which were unevenly distributed, however, with\nstriking homogeneity in terms of skin colour, gender, and age, with autistic\nindividuals portrayed as engaged in solitary activities, interacting with\nobjects rather than people, and displaying stereotypical emotional expressions\nsuch as pale, anger, or sad. Secondly we observed representational\ninsensitivity regarding autism images despite directional prompting aimed at\nfalsifying the above results. Additionally, DALL-E explicitly denied\nperpetuating stereotypes. We interpret this as ANNs mirroring the human\ncognitive architecture regarding the discrepancy between background and\nreflective knowledge, as justified by our previous research on autism-related\nstereotypes in humans.",
+            "pdf_url": "http://arxiv.org/pdf/2407.16292v2",
+            "published": "2024-07-23 08:48:09+00:00",
+            "updated": "2024-07-24 07:15:26+00:00"
+        },
+        {
+            "title": "Sparse Inducing Points in Deep Gaussian Processes: Enhancing Modeling with Denoising Diffusion Variational Inference",
+            "authors": "Jian Xu, Delu Zeng, John Paisley",
+            "summary": "Deep Gaussian processes (DGPs) provide a robust paradigm for Bayesian deep\nlearning. In DGPs, a set of sparse integration locations called inducing points\nare selected to approximate the posterior distribution of the model. This is\ndone to reduce computational complexity and improve model efficiency. However,\ninferring the posterior distribution of inducing points is not straightforward.\nTraditional variational inference approaches to posterior approximation often\nlead to significant bias. To address this issue, we propose an alternative\nmethod called Denoising Diffusion Variational Inference (DDVI) that uses a\ndenoising diffusion stochastic differential equation (SDE) to generate\nposterior samples of inducing variables. We rely on score matching methods for\ndenoising diffusion model to approximate score functions with a neural network.\nFurthermore, by combining classical mathematical theory of SDEs with the\nminimization of KL divergence between the approximate and true processes, we\npropose a novel explicit variational lower bound for the marginal likelihood\nfunction of DGP. Through experiments on various datasets and comparisons with\nbaseline methods, we empirically demonstrate the effectiveness of DDVI for\nposterior inference of inducing points for DGP models.",
+            "pdf_url": "http://arxiv.org/pdf/2407.17033v1",
+            "published": "2024-07-24 06:39:58+00:00",
+            "updated": "2024-07-24 06:39:58+00:00"
+        },
+        {
+            "title": "Diffree: Text-Guided Shape Free Object Inpainting with Diffusion Model",
+            "authors": "Lirui Zhao, Tianshuo Yang, Wenqi Shao, Yuxin Zhang, Yu Qiao, Ping Luo, Kaipeng Zhang, Rongrong Ji",
+            "summary": "This paper addresses an important problem of object addition for images with\nonly text guidance. It is challenging because the new object must be integrated\nseamlessly into the image with consistent visual context, such as lighting,\ntexture, and spatial location. While existing text-guided image inpainting\nmethods can add objects, they either fail to preserve the background\nconsistency or involve cumbersome human intervention in specifying bounding\nboxes or user-scribbled masks. To tackle this challenge, we introduce Diffree,\na Text-to-Image (T2I) model that facilitates text-guided object addition with\nonly text control. To this end, we curate OABench, an exquisite synthetic\ndataset by removing objects with advanced image inpainting techniques. OABench\ncomprises 74K real-world tuples of an original image, an inpainted image with\nthe object removed, an object mask, and object descriptions. Trained on OABench\nusing the Stable Diffusion model with an additional mask prediction module,\nDiffree uniquely predicts the position of the new object and achieves object\naddition with guidance from only text. Extensive experiments demonstrate that\nDiffree excels in adding new objects with a high success rate while maintaining\nbackground consistency, spatial appropriateness, and object relevance and\nquality.",
+            "pdf_url": "http://arxiv.org/pdf/2407.16982v1",
+            "published": "2024-07-24 03:58:58+00:00",
+            "updated": "2024-07-24 03:58:58+00:00"
+        }
+    ]
+}
