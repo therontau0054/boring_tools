@@ -33,6 +33,31 @@ TODO:
 
 
 
+
+## Update on 2024-07-27
+
+### Physics
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2024-07-25|2024-07-25|Line Segment Tracking: Improving the Phase 2 CMS High Level Trigger Tracking with a Novel, Hardware-Agnostic Pattern Recognition Algorithm|Emmanouil Vourliotis|[2407.18231v1](http://arxiv.org/pdf/2407.18231v1)|
+|2020-08-20|2024-07-25|Fractional flow equations. A model for pressure deficit in an oil well|B. F. Martínez-Salgado|[2008.09068v3](http://arxiv.org/pdf/2008.09068v3)|
+|2024-07-25|2024-07-25|Confronting a Standard Model extension with a dark $U(1)$ gauge sector with the prediction for the W-boson mass|Stefan Dittmaier|[2407.18211v1](http://arxiv.org/pdf/2407.18211v1)|
+|2021-09-24|2024-07-25|Multipartite Generalization of Geometric measure of Discord|Ali Saif M. Hassan|[2109.11981v3](http://arxiv.org/pdf/2109.11981v3)|
+|2024-07-25|2024-07-25|Semi-Classical Subspaces, The No Synchronization Law, and More|Samuel Epstein|[2407.18201v1](http://arxiv.org/pdf/2407.18201v1)|
+|2024-06-25|2024-07-25|Violation of $γ$ in Brans-Dicke gravity|Hoang Ky Nguyen|[2406.17771v2](http://arxiv.org/pdf/2406.17771v2)|
+|2024-07-25|2024-07-25|Euler Stratifications of Hypersurface Families|Simon Telen|[2407.18176v1](http://arxiv.org/pdf/2407.18176v1)|
+|2024-07-25|2024-07-25|Non-Reciprocal Coupling in Photonics|Rodriog A. Vicencio|[2407.18174v1](http://arxiv.org/pdf/2407.18174v1)|
+|2024-07-25|2024-07-25|The Emergence of Mem-Emitters|Victor Lopez-Richard|[2407.18164v1](http://arxiv.org/pdf/2407.18164v1)|
+|2024-07-25|2024-07-25|New black ring with all independent conserved charges in five-dimensional minimal supergravity|Ryotaku Suzuki|[2407.18142v1](http://arxiv.org/pdf/2407.18142v1)|
+
+### Diffusion
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2024-07-25|2024-07-25|VGGHeads: A Large-Scale Synthetic Dataset for 3D Human Heads|Orest Kupyn|[2407.18245v1](http://arxiv.org/pdf/2407.18245v1)|
+|2024-07-25|2024-07-25|Self-supervised pre-training with diffusion model for few-shot landmark detection in x-ray images|Roberto Di Via|[2407.18125v1](http://arxiv.org/pdf/2407.18125v1)|
+|2024-02-16|2024-07-25|3D Diffuser Actor: Policy Diffusion with 3D Scene Representations|Tsung-Wei Ke|[2402.10885v3](http://arxiv.org/pdf/2402.10885v3)|
+|2024-07-25|2024-07-25|AttentionHand: Text-driven Controllable Hand Image Generation for 3D Hand Reconstruction in the Wild|Junho Park|[2407.18034v1](http://arxiv.org/pdf/2407.18034v1)|
+|2024-07-25|2024-07-25|Self-Supervision Improves Diffusion Models for Tabular Data Imputation|Yixin Liu|[2407.18013v1](http://arxiv.org/pdf/2407.18013v1)|
 ## Update on 2024-07-25
 
 ### Physics

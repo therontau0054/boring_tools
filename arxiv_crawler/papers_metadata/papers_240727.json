@@ -1,0 +1,126 @@
+{
+    "Physics": [
+        {
+            "title": "Line Segment Tracking: Improving the Phase 2 CMS High Level Trigger Tracking with a Novel, Hardware-Agnostic Pattern Recognition Algorithm",
+            "authors": "Emmanouil Vourliotis, Philip Chang, Peter Elmer, Yanxi Gu, Jonathan Guiang, Vyacheslav Krutelyov, Balaji Venkat Sathia Narayanan, Gavin Niendorf, Michael Reid, Mayra Silva, Andres Rios Tascon, Matev\u017e Tadel, Peter Wittich, Avraham Yagil",
+            "summary": "Charged particle reconstruction is one the most computationally heavy\ncomponents of the full event reconstruction of Large Hadron Collider (LHC)\nexperiments. Looking to the future, projections for the High Luminosity LHC\n(HL-LHC) indicate a superlinear growth for required computing resources for\nsingle-threaded CPU algorithms that surpass the computing resources that are\nexpected to be available. The combination of these facts creates the need for\nefficient and computationally performant pattern recognition algorithms that\nwill be able to run in parallel and possibly on other hardware, such as GPUs,\ngiven that these become more and more available in LHC experiments and\nhigh-performance computing centres. Line Segment Tracking (LST) is a novel such\nalgorithm which has been developed to be fully parallelizable and hardware\nagnostic. The latter is achieved through the usage of the Alpaka library. The\nLST algorithm has been tested with the CMS central software as an external\npackage and has been used in the context of the CMS HL-LHC High Level Trigger\n(HLT). When employing LST for pattern recognition in the HLT tracking, the\nphysics and timing performances are shown to improve with respect to the ones\nutilizing the current pattern recognition algorithms. The latest results on the\nusage of the LST algorithm within the CMS HL-LHC HLT are presented, along with\nprospects for further improvements of the algorithm and its CMS central\nsoftware integration.",
+            "pdf_url": "http://arxiv.org/pdf/2407.18231v1",
+            "published": "2024-07-25 17:50:29+00:00",
+            "updated": "2024-07-25 17:50:29+00:00"
+        },
+        {
+            "title": "Fractional flow equations. A model for pressure deficit in an oil well",
+            "authors": "B. F. Mart\u00ednez-Salgado, F. Alc\u00e1ntara-L\u00f3pez, A. Torres-Hernandez, F. Brambila-Paz, C. Fuentes, J. L\u00f3pez Estrada",
+            "summary": "This article presents a novel system of flow equations that models the\npressure deficit of a reservoir considered as a triple continuous medium formed\nby the rock matrix, vugular medium and fracture. In non-conventional\nreservoirs, the velocity of the fluid particles is altered due to physical and\nchemical phenomena caused by the interaction of the fluid with the medium, this\nbehavior is defined as anomalous. A more exact model can be obtained with the\ninclusion of the memory formalism concept that can be expressed through the use\nof fractional derivatives. Using Laplace transform of the Caputo fractional\nderivative and Bessel functions, a semi-analytical solution is reached in the\nLaplace space.",
+            "pdf_url": "http://arxiv.org/pdf/2008.09068v3",
+            "published": "2020-08-20 16:46:17+00:00",
+            "updated": "2024-07-25 17:36:21+00:00"
+        },
+        {
+            "title": "Confronting a Standard Model extension with a dark $U(1)$ gauge sector with the prediction for the W-boson mass",
+            "authors": "Stefan Dittmaier, Jonas Rehberg, Heidi Rzehak",
+            "summary": "The Dark Abelian Sector Model (DASM) is an extension of the Standard Model of\nparticle physics with an additional spontaneously broken $U_\\text{d}(1)$ gauge\nsymmetry connected to a dark sector, i.e. the SM particles do not carry the\ncorresponding charge. In addition to the gauge boson resulting from the extra\n$U_\\text{d}(1)$ gauge symmetry, the particle content is extended by a further\nHiggs boson, one Dirac fermion as well as right-handed neutrinos. Employing the\n$U_Y(1)$ field-strength tensor as well as the SM Higgs mass operator (the only\ntwo singlet operators of the SM with dimension less than four) and the\nright-handed neutrino fields, we open three portals to the dark sector.\n  After an introduction of the model, we discuss a renormalization scheme for\nthe complete model with a special focus on the renormalization of the mixing\nangles. Finally, as an example of application, we present the prediction for\nthe W-boson mass derived from muon decay in the DASM.",
+            "pdf_url": "http://arxiv.org/pdf/2407.18211v1",
+            "published": "2024-07-25 17:25:42+00:00",
+            "updated": "2024-07-25 17:25:42+00:00"
+        },
+        {
+            "title": "Multipartite Generalization of Geometric measure of Discord",
+            "authors": "Ali Saif M. Hassan, Pramod S. Joag",
+            "summary": "Radhakrishnan et.al [Phys. Rev. Lett. 124, 110401 (2020)] proposed a\ngeneralization of quantum discord to multipartite systems, which is consistency\nwith the conventional definition of discord in bipartite systems and derived\nexplicit formulae for any states. These results are significant in capturing\nquantum correlations for multi-qubit systems. We propose a generalization of\ngeometric measure of multipartite quantum discord in the same manner. We find\ngeneric forms of the generalization of geometric measure of quantum discord in\na general N-partite quantum state. Further, we obtain computable exact formulas\nfor the generalization of geometric measure of quantum discord in an N-qubit\nquantum state, which include the results obtained in [arXiv:2104.12344].",
+            "pdf_url": "http://arxiv.org/pdf/2109.11981v3",
+            "published": "2021-09-24 14:13:03+00:00",
+            "updated": "2024-07-25 17:20:37+00:00"
+        },
+        {
+            "title": "Semi-Classical Subspaces, The No Synchronization Law, and More",
+            "authors": "Samuel Epstein",
+            "summary": "This paper looks at the intersection of algorithmic information theory and\nphysics, namely quantum mechanics, thermodynamics, and black holes. We discuss\ntheorems which characterize the barrier between the quantum world and the\nclassical realm. The notion of a \"semi-classical subspace\" is introduced. The\nNo Synchronization Law is detailed, which says separate and isolated physical\nsystems evolving over time cannot have thermodynamic algorithmic entropies that\nare in synch. We look at future work involving the Kolmogorov complexity of\nblack holes.",
+            "pdf_url": "http://arxiv.org/pdf/2407.18201v1",
+            "published": "2024-07-25 17:09:26+00:00",
+            "updated": "2024-07-25 17:09:26+00:00"
+        },
+        {
+            "title": "Violation of $\u03b3$ in Brans-Dicke gravity",
+            "authors": "Hoang Ky Nguyen, Bertrand Chauvineau",
+            "summary": "The Brans Class I solution in Brans-Dicke gravity is a staple in the study of\ngravitational theories beyond General Relativity. Discovered in 1961, it\ndescribes the exterior vacuum of a spherical Brans-Dicke star and is\ncharacterized by two adjustable parameters. Surprisingly, the relationship\nbetween these parameters and the properties of the star has not been rigorously\nestablished. In this Proceeding, we bridge this gap by deriving $\\textit{the}$\ncomplete exterior solution of Brans Class I, expressed in terms of the total\nenergy and total pressure of the spherisymmetric gravity source. The solution\nallows for the $\\textit{exact}$ derivation of $\\textit{all}$ post-Newtonian\nparameters in Brans-Dicke gravity for far field regions of a spherical source.\nParticularly for the $\\gamma$ parameter, instead of the conventional result\n$\\gamma_{\\,\\text{PPN}}=\\frac{\\omega+1}{\\omega+2}$, we obtain the analytical\nexpression\n$\\gamma_{\\,\\text{exact}}=\\frac{\\omega+1+(\\omega+2)\\,\\Theta}{\\omega+2+(\\omega+1)\\,\\Theta}$\nwhere $\\Theta$ is the ratio of the total pressure\n$P_{\\parallel}^{*}+2P_{\\perp}^{*}$ and total energy $E^{*}$ contained within\nthe mass source. Our $\\textit{non-perturbative}$ $\\gamma$ formula is valid for\nall field strengths and types of matter comprising the mass source.\nConsequently, observational constraints on $\\gamma$ thus set $\\textit{joint}$\nbounds on $\\omega$ and $\\varTheta$, with the latter representing a global\ncharacteristic of the mass source. More broadly, our formula highlights the\nimportance of pressure (when $\\varTheta\\neq0$) in spherical Brans-Dicke stars,\nand potentially in stars within other modified theories of gravitation.",
+            "pdf_url": "http://arxiv.org/pdf/2406.17771v2",
+            "published": "2024-06-25 17:56:05+00:00",
+            "updated": "2024-07-25 16:52:57+00:00"
+        },
+        {
+            "title": "Euler Stratifications of Hypersurface Families",
+            "authors": "Simon Telen, Maximilian Wiesmann",
+            "summary": "We stratify families of projective and very affine hypersurfaces according to\ntheir topological Euler characteristic. Our new algorithms compute all strata\nusing algebro-geometric techniques. For very affine hypersurfaces, we\ninvestigate and exploit the relation to critical point computations. Euler\nstratifications are relevant in particle physics and algebraic statistics. They\nfully describe the dependence of the number of master integrals, respectively\nthe maximum likelihood degree, on kinematic or model parameters.",
+            "pdf_url": "http://arxiv.org/pdf/2407.18176v1",
+            "published": "2024-07-25 16:36:47+00:00",
+            "updated": "2024-07-25 16:36:47+00:00"
+        },
+        {
+            "title": "Non-Reciprocal Coupling in Photonics",
+            "authors": "Rodriog A. Vicencio, Diego Rom\u00e1n-Cort\u00e9s, Mart\u0131n Rubio-Sald\u00edas, Paloma Vildoso, Luis E. F. Foa Torres",
+            "summary": "Non-reciprocal interactions are ubiquitous in nature, and in Physics this\nrealization has started to push boundaries by making non-hermiticity a\nfundamental rather than exceptional property. Despite the prevalence of\nevanescent coupling in physics, little attention has been paid to wavefunction\nprofiles, with reciprocity often assumed for practical reasons. Our work\nchallenges this assumption by demonstrating the origin of non-reciprocity in a\nphotonic platform. We experimentally validate non-reciprocal dynamics on\ndirectional couplers fabricated via femtosecond laser writing, and corroborate\nour findings through continuous simulations. Extending these insights, we\nobserve the topological Non-Hermitian Skin Effect in a Rice-Mele lattice model.\nOur findings open new avenues of research using simple and scalable\nconfigurations, and potentially guiding future developments in Physics and\nbeyond.",
+            "pdf_url": "http://arxiv.org/pdf/2407.18174v1",
+            "published": "2024-07-25 16:34:56+00:00",
+            "updated": "2024-07-25 16:34:56+00:00"
+        },
+        {
+            "title": "The Emergence of Mem-Emitters",
+            "authors": "Victor Lopez-Richard, Igor Ricardo Filgueira e Silva, Alessandra Ames, Frederico B. Sousa, Marcio Daldin Teodoro, Ingrid David Barcelos, Raphaela de Oliveira, Alisson Ronieri Cadore",
+            "summary": "The advent of memristors and resistive switching has transformed solid state\nphysics, enabling advanced applications such as neuromorphic computing.\nInspired by these developments, we introduce the concept of Mem-emitters,\ndevices that manipulate light emission properties of semiconductors to achieve\nmemory functionalities. Mem-emitters, influenced by past exposure to stimuli,\noffer a new approach to optoelectronic computing with potential for enhanced\nspeed, efficiency, and integration. This study explores the unique properties\nof transition metal dichalcogenides-based heterostructures as a promising\nplatform for Mem-emitter functionalities due to their atomic-scale thickness,\ntunable electronic properties, and strong light-matter interaction. By\ndistinguishing between population-driven and transition rate-driven\nMem-emitters, we highlight their potential for various applications, including\noptoelectronic switches, variable light sources, and advanced communication\nsystems. Understanding these mechanisms paves the way for innovative\ntechnologies in memory and computation, offering insights into the intrinsic\ndynamics of complex systems.",
+            "pdf_url": "http://arxiv.org/pdf/2407.18164v1",
+            "published": "2024-07-25 16:27:38+00:00",
+            "updated": "2024-07-25 16:27:38+00:00"
+        },
+        {
+            "title": "New black ring with all independent conserved charges in five-dimensional minimal supergravity",
+            "authors": "Ryotaku Suzuki, Shinya Tomizawa",
+            "summary": "We present a new exact solution for a general non-BPS black ring in the\nbosonic sector of five-dimensional minimal supergravity. This obtained solution\ncarries four independent conserved charges: the mass, two angular momenta, an\nelectric charge, and an additional dipole charge related to other charges. By\nemploying the Ehlers-Harrison transformation, we derive this solution by\ntransforming a five-dimensional vacuum solution into a charged solution in the\ntheory. Previously, our work produced a vacuum doubly rotating black ring\nsolution possessing a Dirac-Misner string singularity by using the Ehlers\ntransformation. In this study, we use the singular black ring as the seed for\nthe Harrison transformation. The resultant solution exhibits regularity, free\nfrom curvature singularities, conical singularities, orbifold singularities,\nDirac-Misner string singularities, and closed timelike curves both on and\noutside the horizon. We show that within a specific parameter range, the black\nring presents two branches for the same mass, two angular momenta and electric\ncharge but these are distinguished by a dipole charge, which exhibits\ndiscontinuous non-uniqueness. Furthermore, this newly obtained black ring\nseamlessly connects to various physically significant solutions, such as the\nPomeransky-Sen'kov black ring, the extremal black ring, the supersymmetric\nblack ring, and the charged singly-spinning black ring.",
+            "pdf_url": "http://arxiv.org/pdf/2407.18142v1",
+            "published": "2024-07-25 15:48:14+00:00",
+            "updated": "2024-07-25 15:48:14+00:00"
+        }
+    ],
+    "Diffusion": [
+        {
+            "title": "VGGHeads: A Large-Scale Synthetic Dataset for 3D Human Heads",
+            "authors": "Orest Kupyn, Eugene Khvedchenia, Christian Rupprecht",
+            "summary": "Human head detection, keypoint estimation, and 3D head model fitting are\nimportant tasks with many applications. However, traditional real-world\ndatasets often suffer from bias, privacy, and ethical concerns, and they have\nbeen recorded in laboratory environments, which makes it difficult for trained\nmodels to generalize. Here, we introduce VGGHeads -- a large scale synthetic\ndataset generated with diffusion models for human head detection and 3D mesh\nestimation. Our dataset comprises over 1 million high-resolution images, each\nannotated with detailed 3D head meshes, facial landmarks, and bounding boxes.\nUsing this dataset we introduce a new model architecture capable of\nsimultaneous heads detection and head meshes reconstruction from a single image\nin a single step. Through extensive experimental evaluations, we demonstrate\nthat models trained on our synthetic data achieve strong performance on real\nimages. Furthermore, the versatility of our dataset makes it applicable across\na broad spectrum of tasks, offering a general and comprehensive representation\nof human heads. Additionally, we provide detailed information about the\nsynthetic data generation pipeline, enabling it to be re-used for other tasks\nand domains.",
+            "pdf_url": "http://arxiv.org/pdf/2407.18245v1",
+            "published": "2024-07-25 17:58:17+00:00",
+            "updated": "2024-07-25 17:58:17+00:00"
+        },
+        {
+            "title": "Self-supervised pre-training with diffusion model for few-shot landmark detection in x-ray images",
+            "authors": "Roberto Di Via, Francesca Odone, Vito Paolo Pastore",
+            "summary": "In the last few years, deep neural networks have been extensively applied in\nthe medical domain for different tasks, ranging from image classification and\nsegmentation to landmark detection. However, the application of these\ntechnologies in the medical domain is often hindered by data scarcity, both in\nterms of available annotations and images. This study introduces a new\nself-supervised pre-training protocol based on diffusion models for landmark\ndetection in x-ray images. Our results show that the proposed self-supervised\nframework can provide accurate landmark detection with a minimal number of\navailable annotated training images (up to 50), outperforming ImageNet\nsupervised pre-training and state-of-the-art self-supervised pre-trainings for\nthree popular x-ray benchmark datasets. To our knowledge, this is the first\nexploration of diffusion models for self-supervised learning in landmark\ndetection, which may offer a valuable pre-training approach in few-shot\nregimes, for mitigating data scarcity.",
+            "pdf_url": "http://arxiv.org/pdf/2407.18125v1",
+            "published": "2024-07-25 15:32:59+00:00",
+            "updated": "2024-07-25 15:32:59+00:00"
+        },
+        {
+            "title": "3D Diffuser Actor: Policy Diffusion with 3D Scene Representations",
+            "authors": "Tsung-Wei Ke, Nikolaos Gkanatsios, Katerina Fragkiadaki",
+            "summary": "Diffusion policies are conditional diffusion models that learn robot action\ndistributions conditioned on the robot and environment state. They have\nrecently shown to outperform both deterministic and alternative action\ndistribution learning formulations. 3D robot policies use 3D scene feature\nrepresentations aggregated from a single or multiple camera views using sensed\ndepth. They have shown to generalize better than their 2D counterparts across\ncamera viewpoints. We unify these two lines of work and present 3D Diffuser\nActor, a neural policy equipped with a novel 3D denoising transformer that\nfuses information from the 3D visual scene, a language instruction and\nproprioception to predict the noise in noised 3D robot pose trajectories. 3D\nDiffuser Actor sets a new state-of-the-art on RLBench with an absolute\nperformance gain of 18.1% over the current SOTA on a multi-view setup and an\nabsolute gain of 13.1% on a single-view setup. On the CALVIN benchmark, it\nimproves over the current SOTA by a 9% relative increase. It also learns to\ncontrol a robot manipulator in the real world from a handful of demonstrations.\nThrough thorough comparisons with the current SOTA policies and ablations of\nour model, we show 3D Diffuser Actor's design choices dramatically outperform\n2D representations, regression and classification objectives, absolute\nattentions, and holistic non-tokenized 3D scene embeddings.",
+            "pdf_url": "http://arxiv.org/pdf/2402.10885v3",
+            "published": "2024-02-16 18:43:02+00:00",
+            "updated": "2024-07-25 14:30:22+00:00"
+        },
+        {
+            "title": "AttentionHand: Text-driven Controllable Hand Image Generation for 3D Hand Reconstruction in the Wild",
+            "authors": "Junho Park, Kyeongbo Kong, Suk-Ju Kang",
+            "summary": "Recently, there has been a significant amount of research conducted on 3D\nhand reconstruction to use various forms of human-computer interaction.\nHowever, 3D hand reconstruction in the wild is challenging due to extreme lack\nof in-the-wild 3D hand datasets. Especially, when hands are in complex pose\nsuch as interacting hands, the problems like appearance similarity, self-handed\noccclusion and depth ambiguity make it more difficult. To overcome these\nissues, we propose AttentionHand, a novel method for text-driven controllable\nhand image generation. Since AttentionHand can generate various and numerous\nin-the-wild hand images well-aligned with 3D hand label, we can acquire a new\n3D hand dataset, and can relieve the domain gap between indoor and outdoor\nscenes. Our method needs easy-to-use four modalities (i.e, an RGB image, a hand\nmesh image from 3D label, a bounding box, and a text prompt). These modalities\nare embedded into the latent space by the encoding phase. Then, through the\ntext attention stage, hand-related tokens from the given text prompt are\nattended to highlight hand-related regions of the latent embedding. After the\nhighlighted embedding is fed to the visual attention stage, hand-related\nregions in the embedding are attended by conditioning global and local hand\nmesh images with the diffusion-based pipeline. In the decoding phase, the final\nfeature is decoded to new hand images, which are well-aligned with the given\nhand mesh image and text prompt. As a result, AttentionHand achieved\nstate-of-the-art among text-to-hand image generation models, and the\nperformance of 3D hand mesh reconstruction was improved by additionally\ntraining with hand images generated by AttentionHand.",
+            "pdf_url": "http://arxiv.org/pdf/2407.18034v1",
+            "published": "2024-07-25 13:29:32+00:00",
+            "updated": "2024-07-25 13:29:32+00:00"
+        },
+        {
+            "title": "Self-Supervision Improves Diffusion Models for Tabular Data Imputation",
+            "authors": "Yixin Liu, Thalaiyasingam Ajanthan, Hisham Husain, Vu Nguyen",
+            "summary": "The ubiquity of missing data has sparked considerable attention and focus on\ntabular data imputation methods. Diffusion models, recognized as the\ncutting-edge technique for data generation, demonstrate significant potential\nin tabular data imputation tasks. However, in pursuit of diversity, vanilla\ndiffusion models often exhibit sensitivity to initialized noises, which hinders\nthe models from generating stable and accurate imputation results.\nAdditionally, the sparsity inherent in tabular data poses challenges for\ndiffusion models in accurately modeling the data manifold, impacting the\nrobustness of these models for data imputation. To tackle these challenges,\nthis paper introduces an advanced diffusion model named Self-supervised\nimputation Diffusion Model (SimpDM for brevity), specifically tailored for\ntabular data imputation tasks. To mitigate sensitivity to noise, we introduce a\nself-supervised alignment mechanism that aims to regularize the model, ensuring\nconsistent and stable imputation predictions. Furthermore, we introduce a\ncarefully devised state-dependent data augmentation strategy within SimpDM,\nenhancing the robustness of the diffusion model when dealing with limited data.\nExtensive experiments demonstrate that SimpDM matches or outperforms\nstate-of-the-art imputation methods across various scenarios.",
+            "pdf_url": "http://arxiv.org/pdf/2407.18013v1",
+            "published": "2024-07-25 13:06:30+00:00",
+            "updated": "2024-07-25 13:06:30+00:00"
+        }
+    ]
+}
