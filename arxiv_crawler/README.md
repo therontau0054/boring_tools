@@ -34,6 +34,31 @@ TODO:
 
 
 
+
+## Update on 2024-07-29
+
+### Physics
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2024-07-26|2024-07-26|Hybrid summary statistics: neural weak lensing inference beyond the power spectrum|T. Lucas Makinen|[2407.18909v1](http://arxiv.org/pdf/2407.18909v1)|
+|2024-07-26|2024-07-26|Lessons from Learning to Spin "Pens"|Jun Wang|[2407.18902v1](http://arxiv.org/pdf/2407.18902v1)|
+|2024-06-05|2024-07-26|Physics-Guided Actor-Critic Reinforcement Learning for Swimming in Turbulence|Christopher Koh|[2406.10242v2](http://arxiv.org/pdf/2406.10242v2)|
+|2024-03-20|2024-07-26|The sPHENIX Micromegas Outer Tracker|S. Aune|[2403.13789v3](http://arxiv.org/pdf/2403.13789v3)|
+|2024-07-26|2024-07-26|Adaptive Parameter Selection in Nudging Based Data Assimilation|Aytekin Çıbık|[2407.18886v1](http://arxiv.org/pdf/2407.18886v1)|
+|2024-07-26|2024-07-26|Effective Modeling of Open Quantum Systems by Low-rank Discretization of Structured Environments|Hideaki Takahashi|[2407.18880v1](http://arxiv.org/pdf/2407.18880v1)|
+|2024-07-26|2024-07-26|Fast optical control of a coherent hole spin in a microcavity|Mark Hogg|[2407.18876v1](http://arxiv.org/pdf/2407.18876v1)|
+|2022-10-21|2024-07-26|Surpassing the Standard Quantum Limit using an Optical Spring|Torrey Cullen|[2210.12222v2](http://arxiv.org/pdf/2210.12222v2)|
+|2024-07-26|2024-07-26|Gravitational waves from a curvature-induced phase transition of a Higgs-portal dark matter sector|Andreas Mantziris|[2407.18845v1](http://arxiv.org/pdf/2407.18845v1)|
+|2024-07-26|2024-07-26|Using stochastic resonance of two-level systems to increase qubit decoherence times|Yujun Choi|[2407.18829v1](http://arxiv.org/pdf/2407.18829v1)|
+
+### Diffusion
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2024-07-26|2024-07-26|Unifying Visual and Semantic Feature Spaces with Diffusion Models for Enhanced Cross-Modal Alignment|Yuze Zheng|[2407.18854v1](http://arxiv.org/pdf/2407.18854v1)|
+|2024-07-21|2024-07-26|Weyl Calculus and Exactly Solvable Schrödinger Bridges with Quadratic State Cost|Alexis M. H. Teter|[2407.15245v2](http://arxiv.org/pdf/2407.15245v2)|
+|2024-01-01|2024-07-26|Diffusion MRI with Machine Learning|Davood Karimi|[2402.00019v2](http://arxiv.org/pdf/2402.00019v2)|
+|2024-07-26|2024-07-26|Log-Concave Coupling for Sampling Neural Net Posteriors|Curtis McDonald|[2407.18802v1](http://arxiv.org/pdf/2407.18802v1)|
+|2023-09-14|2024-07-26|Viewpoint Textual Inversion: Discovering Scene Representations and 3D View Control in 2D Diffusion Models|James Burgess|[2309.07986v2](http://arxiv.org/pdf/2309.07986v2)|
 ## Update on 2024-07-27
 
 ### Physics
