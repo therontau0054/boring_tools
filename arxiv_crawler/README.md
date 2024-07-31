@@ -35,6 +35,37 @@ TODO:
 
 
 
+
+## Update on 2024-07-31
+
+### Physics
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2023-08-17|2024-07-30|Pattern recognition using spiking antiferromagnetic neurons|Hannah Bradley|[2308.09071v3](http://arxiv.org/pdf/2308.09071v3)|
+|2024-06-22|2024-07-30|Persuasion, Betrayal and Regret in Election Campaigns|M. Andrecut|[2406.15894v3](http://arxiv.org/pdf/2406.15894v3)|
+|2024-02-17|2024-07-30|Modeling the amplification of epidemic spread by misinformed populations|Matthew R. DeVerna|[2402.11351v3](http://arxiv.org/pdf/2402.11351v3)|
+|2024-05-14|2024-07-30|A Diffused Background from Axion-like Particles in the Microwave Sky|Harsh Mehta|[2405.08879v3](http://arxiv.org/pdf/2405.08879v3)|
+|2024-07-30|2024-07-30|An iterative transversal CNOT decoder|Kwok Ho Wan|[2407.20976v1](http://arxiv.org/pdf/2407.20976v1)|
+|2024-07-30|2024-07-30|Transfer Learning for Multi-material Classification of Transition Metal Dichalcogenides with Atomic Force Microscopy|Isaiah A. Moses|[2407.20975v1](http://arxiv.org/pdf/2407.20975v1)|
+|2024-07-30|2024-07-30|GeV scale dark matter and $B\rightarrow K+$ missing energy phenomenology in the $U(1)_{B-L}$ model|Ajay Kumar Yadav|[2407.20974v1](http://arxiv.org/pdf/2407.20974v1)|
+|2024-07-30|2024-07-30|System size dependence of energy loss and correlations of heavy mesons at LHC energies|Jiaxing Zhao|[2407.20919v1](http://arxiv.org/pdf/2407.20919v1)|
+|2024-01-09|2024-07-30|A parametrically programmable delay line for microwave photons|Takuma Makihara|[2401.04724v3](http://arxiv.org/pdf/2401.04724v3)|
+|2022-06-14|2024-07-30|Tunnelling of a composite particle in presence of a magnetic field|Bernard Faulend|[2206.06698v2](http://arxiv.org/pdf/2206.06698v2)|
+
+### Diffusion
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2024-02-03|2024-07-30|On the Exploitation of DCT-Traces in the Generative-AI Domain|Orazio Pontorno|[2402.02209v3](http://arxiv.org/pdf/2402.02209v3)|
+|2024-02-05|2024-07-30|Light and Optimal Schrödinger Bridge Matching|Nikita Gushchin|[2402.03207v2](http://arxiv.org/pdf/2402.03207v2)|
+|2024-07-30|2024-07-30|Diffusion Augmented Agents: A Framework for Efficient Exploration and Transfer Learning|Norman Di Palo|[2407.20798v1](http://arxiv.org/pdf/2407.20798v1)|
+|2023-10-02|2024-07-30|Forecasting Tropical Cyclones with Cascaded Diffusion Models|Pritthijit Nath|[2310.01690v7](http://arxiv.org/pdf/2310.01690v7)|
+|2024-07-30|2024-07-30|Joint Diffusion Processes as an Inductive Bias in Sheaf Neural Networks|Ferran Hernandez Caralt|[2407.20597v1](http://arxiv.org/pdf/2407.20597v1)|
+
+### Quantitative Finance
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2024-07-29|2024-07-29|AI-Powered Energy algorithmic Trading: Integrating Hidden Markov Models with Neural Networks|Tiago Monteiro|[2407.19858v1](http://arxiv.org/pdf/2407.19858v1)|
+|2024-07-09|2024-07-09|Evaluating Human-AI Collaboration: A Review and Methodological Framework|George Fragiadakis|[2407.19098v1](http://arxiv.org/pdf/2407.19098v1)|
 ## Update on 2024-07-29
 
 ### Physics

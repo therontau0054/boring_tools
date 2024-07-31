@@ -1,0 +1,144 @@
+{
+    "Physics": [
+        {
+            "title": "Pattern recognition using spiking antiferromagnetic neurons",
+            "authors": "Hannah Bradley, Steven Louis, Andrei Slavin, Vasyl Tyberkevych",
+            "summary": "Spintronic devices offer a promising avenue for the development of nanoscale,\nenergy-efficient artificial neurons for neuromorphic computing. It has\npreviously been shown that with antiferromagnetic (AFM) oscillators, ultra-fast\nspiking artificial neurons can be made that mimic many unique features of\nbiological neurons. In this work, we train an artificial neural network of AFM\nneurons to perform pattern recognition. A simple machine learning algorithm\ncalled spike pattern association neuron (SPAN), which relies on the temporal\nposition of neuron spikes, is used during training. In under a microsecond of\nphysical time, the AFM neural network is trained to recognize symbols composed\nfrom a grid by producing a spike within a specified time window. We further\nachieve multi-symbol recognition with the addition of an output layer to\nsuppress undesirable spikes. Through the utilization of AFM neurons and the\nSPAN algorithm, we create a neural network capable of high-accuracy recognition\nwith overall power consumption on the order of picojoules.",
+            "pdf_url": "http://arxiv.org/pdf/2308.09071v3",
+            "published": "2023-08-17 16:00:57+00:00",
+            "updated": "2024-07-30 17:28:56+00:00"
+        },
+        {
+            "title": "Persuasion, Betrayal and Regret in Election Campaigns",
+            "authors": "M. Andrecut",
+            "summary": "Elections play a fundamental role in democratic societies, however they are\noften characterized by unexpected results. Here we discuss an election campaign\nmodel inspired by the compartmental epidemiology, and we show that the model\ncaptures the main characteristics of an election campaign: persuasion, betrayal\nand regret. All of these three factors can be used together or independently to\ninfluence the campaign, and to determine the winner. We include results for\nboth the deterministic and the stochastic versions of the model, and we show\nthat the decision to not vote significantly increases the fluctuations in the\nmodel, amplifying the chance of controversial results, in agreement with the\nwell known \"paradox of not voting\".",
+            "pdf_url": "http://arxiv.org/pdf/2406.15894v3",
+            "published": "2024-06-22 17:08:29+00:00",
+            "updated": "2024-07-30 17:25:08+00:00"
+        },
+        {
+            "title": "Modeling the amplification of epidemic spread by misinformed populations",
+            "authors": "Matthew R. DeVerna, Francesco Pierri, Yong-Yeol Ahn, Santo Fortunato, Alessandro Flammini, Filippo Menczer",
+            "summary": "Understanding how misinformation affects the spread of disease is crucial for\npublic health, especially given recent research indicating that misinformation\ncan increase vaccine hesitancy and discourage vaccine uptake. However, it is\ndifficult to investigate the interaction between misinformation and epidemic\noutcomes due to the dearth of data-informed holistic epidemic models. Here, we\nemploy an epidemic model that incorporates a large, mobility-informed physical\ncontact network as well as the distribution of misinformed individuals across\ncounties derived from social media data. The model allows us to simulate and\nestimate various scenarios to understand the impact of misinformation on\nepidemic spreading. Using this model, we present a worst-case scenario in which\na heavily misinformed population would result in an additional 14% of the U.S.\npopulation becoming infected over the course of the COVID-19 epidemic, compared\nto a best-case scenario.",
+            "pdf_url": "http://arxiv.org/pdf/2402.11351v3",
+            "published": "2024-02-17 18:01:43+00:00",
+            "updated": "2024-07-30 17:24:26+00:00"
+        },
+        {
+            "title": "A Diffused Background from Axion-like Particles in the Microwave Sky",
+            "authors": "Harsh Mehta, Suvodip Mukherjee",
+            "summary": "The nature of dark matter is an unsolved cosmological problem and axions are\none of the weakly interacting cold dark matter candidates. Axions or ALPs\n(Axion-like particles) are pseudo-scalar bosons predicted by beyond-standard\nmodel theories. The weak coupling of ALPs with photons leads to the conversion\nof CMB photons to ALPs in the presence of a transverse magnetic field. If they\nhave the same mass as the effective mass of a photon in a plasma, the resonant\nconversion would cause a polarized spectral distortion leading to temperature\nfluctuations with the distortion spectrum. The probability of resonant\nconversion depends on the properties of the cluster such as the magnetic field,\nelectron density, and its redshift. We show that this kind of conversion can\nhappen in numerous unresolved galaxy clusters up to high redshifts, which will\nlead to a diffused polarised anisotropy signal in the microwave sky. The\nspectrum of the signal and its shape in the angular scale will be different\nfrom the lensed CMB polarization signal. This new polarised distortion spectrum\nwill be correlated with the distribution of clusters in the universe and hence,\nwith the large-scale structure. The spectrum can then be probed using its\nspectral and spatial variation with respect to the CMB and various foregrounds.\nAn SNR of $\\sim$ 4.36 and $\\sim$ 93.87 are possible in the CMB-S4 145 GHz band\nand CMB-HD 150 GHz band respectively for a photon-ALPs coupling strength of\n$\\mathrm{g_{a \\gamma} = 10^{-12} \\, GeV^{-1}}$ using galaxy clusters beyond\nredshift z $= 1$. The same signal would lead to additional RMS fluctuations of\n$\\sim \\mathrm{7.5 \\times 10^{-2} \\, \\mu K}$ at 145 GHz. In the absence of any\nsignal, future CMB experiments such as Simons Observatory (SO), CMB-S4, and\nCMB-HD can put constraints on coupling strength better than current bounds from\nparticle physics experiment CERN Axion Solar Telescope (CAST).",
+            "pdf_url": "http://arxiv.org/pdf/2405.08879v3",
+            "published": "2024-05-14 18:00:39+00:00",
+            "updated": "2024-07-30 17:15:13+00:00"
+        },
+        {
+            "title": "An iterative transversal CNOT decoder",
+            "authors": "Kwok Ho Wan, Mark Webber, Austin G. Fowler, Winfried K. Hensinger",
+            "summary": "Modern platforms for potential qubit candidates, such as trapped ions or\nneutral atoms, allow long range connectivity between distant physical qubits\nthrough shuttling. This opens up an avenue for transversal logical CNOT gates\nbetween distant logical qubits, whereby physical CNOT gates are performed\nbetween each corresponding physical qubit on the control and target logical\nqubits. However, the transversal CNOT can propagate errors from one logical\nqubit to another, leading to correlated errors between logical qubits. We have\ndeveloped a multi-pass iterative decoder that decodes each logical qubit\nseparately to deal with this correlated error. We show that under circuit-level\nnoise and only $\\mathcal{O}(1)$ code cycles, a threshold can still persist, and\nthe logical error rate will not be significantly degraded, matching the\nsub-threshold logical error rate scaling of $p^{\\lfloor\\frac{d}{2}\\rfloor}$ for\na distance $d$ rotated surface code.",
+            "pdf_url": "http://arxiv.org/pdf/2407.20976v1",
+            "published": "2024-07-30 17:10:10+00:00",
+            "updated": "2024-07-30 17:10:10+00:00"
+        },
+        {
+            "title": "Transfer Learning for Multi-material Classification of Transition Metal Dichalcogenides with Atomic Force Microscopy",
+            "authors": "Isaiah A. Moses, Wesley F. Reinhart",
+            "summary": "Deep learning models are widely used for the data-driven design of materials\nbased on atomic force microscopy (AFM) and other scanning probe microscopy.\nThese tools enhance efficiency in inverse design and characterization of\nmaterials. However, limited and imbalanced experimental materials data\ntypically available is a major challenge. Also important is the need to\ninterpret trained models, which have typically been complex enough to be\nuninterpretable by humans. Here, we present a systemic evaluation of transfer\nlearning strategies to accommodate low-data scenarios in materials synthesis\nand a model latent feature analysis to draw connections to the\nhuman-interpretable characteristics of the samples. Our models show accurate\npredictions in five classes of transition metal dichalcogenides (TMDs)\n(MoS$_2$, WS$_2$, WSe$_2$, MoSe$_2$, and Mo-WSe$_2$) with up to 89$\\%$ accuracy\non held-out test samples. Analysis of the latent features reveals a correlation\nwith physical characteristics such as grain density, DoG blob, and local\nvariation. The transfer learning optimization modality and the exploration of\nthe correlation between the latent and physical features provide important\nframeworks that can be applied to other classes of materials beyond TMDs to\nenhance the models' performance and explainability which can accelerate the\ninverse design of materials for technological applications.",
+            "pdf_url": "http://arxiv.org/pdf/2407.20975v1",
+            "published": "2024-07-30 17:06:42+00:00",
+            "updated": "2024-07-30 17:06:42+00:00"
+        },
+        {
+            "title": "GeV scale dark matter and $B\\rightarrow K+$ missing energy phenomenology in the $U(1)_{B-L}$ model",
+            "authors": "Ajay Kumar Yadav, Shivaramakrishna Singirala, Manas Kumar Mohapatra, Suchismita Sahoo",
+            "summary": "We elucidate the recently observed discrepancy in the branching ratio of\n$B^{+}\\rightarrow K^{+}$ +inv decay mode using a GeV scale scalar dark matter\nin an anomaly-free $U(1)_{B-L}$ gauge extension of the Standard Model. We\nconstrain the new parameters by using consistency with the existing bounds on\nDark matter relic density, direct detection, collider and BR($B\\rightarrow\nK^*\\nu\\bar{\\nu}$) measured at the Belle II experiment. We investigate couplings\nbetween the mediator and the SM fermions as well as the dark matter particle.\nWe then estimate the branching ratios of $b \\to s \\nu \\bar \\nu$ decay processes\nsuch as $B\\rightarrow (K^+,K^*)\\nu\\bar{\\nu}$, $B_s\\rightarrow\n(\\eta,\\eta')\\nu\\bar{\\nu}$, $ B_s\\rightarrow \\phi\\nu\\bar{\\nu}$ and\n$B_c\\rightarrow (D_s, D_s^*)\\nu\\bar{\\nu}$ in a common parameter space, meeting\nthe current experimental bounds of both sectors simultaneously.",
+            "pdf_url": "http://arxiv.org/pdf/2407.20974v1",
+            "published": "2024-07-30 17:04:29+00:00",
+            "updated": "2024-07-30 17:04:29+00:00"
+        },
+        {
+            "title": "System size dependence of energy loss and correlations of heavy mesons at LHC energies",
+            "authors": "Jiaxing Zhao, Joerg Aichelin, Pol Bernard Gossiaux, Klaus Werner",
+            "summary": "We study the system size dependence of heavy quark (HQ) observables at a\ncenter of mass energy of $\\sqrt{s_{\\rm NN}}=5.02$ TeV to explore whether it can\nprovide further constraints on the physical processes which are involved:\nenergy loss of HQs in the quark gluon plasma (QGP), hadronization and hadronic\nrescattering. We use the EPOS4HQ approach to study p-p and 0-10\\% central O-O,\nAr-Ar, Kr-Kr and Pb-Pb reactions and investigate in detail the momentum change\nof heavy quarks from creation until their detection as part of a hadron as well\nas the enhancement of heavy baryon production at low $p_T$. We investigate\nfurthermore the origin and the system size dependence of the azimuthal\ncorrelations between the heavy quark $Q$ and the heavy antiquark $\\bar Q$ and\nhow one can bypass the problem that correlations are washed out due to the\ncombinatorial background. We conclude that a systematic study of the system\nsize dependence of the momentum loss allows to separate the momentum loss due\nto the passage through the QGP from the momentum change due to hadronization\nand the $Q\\bar Q$ correlations allow to gain inside into the different pQCD\nprocesses in which the heavy quarks are created.",
+            "pdf_url": "http://arxiv.org/pdf/2407.20919v1",
+            "published": "2024-07-30 15:58:10+00:00",
+            "updated": "2024-07-30 15:58:10+00:00"
+        },
+        {
+            "title": "A parametrically programmable delay line for microwave photons",
+            "authors": "Takuma Makihara, Nathan Lee, Yudan Guo, Wenyan Guan, Amir H. Safavi-Naeini",
+            "summary": "Delay lines that store quantum information are crucial for advancing quantum\nrepeaters and hardware efficient quantum computers. Traditionally, they are\nrealized as extended systems that support wave propagation but provide limited\ncontrol over the propagating fields. Here, we introduce a parametrically\naddressed delay line for microwave photons that provides a high level of\ncontrol over the stored pulses. By parametrically driving a three-wave mixing\ncircuit element that is weakly hybridized with an ensemble of resonators, we\nengineer a spectral response that simulates that of a physical delay line,\nwhile providing fast control over the delay line's properties. We demonstrate\nthis novel degree of control by choosing which photon echo to emit, translating\npulses in time, and even swapping two pulses, all with pulse energies on the\norder of a single photon. We also measure the noise added from our parametric\ninteractions and find it is much less than one photon.",
+            "pdf_url": "http://arxiv.org/pdf/2401.04724v3",
+            "published": "2024-01-09 18:55:43+00:00",
+            "updated": "2024-07-30 15:52:07+00:00"
+        },
+        {
+            "title": "Tunnelling of a composite particle in presence of a magnetic field",
+            "authors": "Bernard Faulend, Jan Draga\u0161evi\u0107",
+            "summary": "We present a simple model of composite particle tunnelling through a\nrectangular potential barrier in presence of magnetic field. The exact\nnumerical solution of the problem is provided and the applicability to real\nphysical situations is discussed. Some qualitative features of tunnelling with\nno magnetic interaction are retained, but some new ones are also observed. The\nresonance peaks in transmission spectrum generally do not reach $100\\%$\ntransmission probability when the magnetic field is turned on. We observe\nsplitting and in some cases widening of transmission probability peaks. When\nthe width $b$ of area with magnetic field is large, we observe oscillations of\nspin-flip probability with energy and $b$ which are caused by Larmor precession\nof spin about the vector of magnetic field. For some values of relevant\nparameters we also observe significant increase of tunnelling probability for\nlow energies in the single particle case.",
+            "pdf_url": "http://arxiv.org/pdf/2206.06698v2",
+            "published": "2022-06-14 08:57:42+00:00",
+            "updated": "2024-07-30 15:08:37+00:00"
+        }
+    ],
+    "Diffusion": [
+        {
+            "title": "On the Exploitation of DCT-Traces in the Generative-AI Domain",
+            "authors": "Orazio Pontorno, Luca Guarnera, Sebastiano Battiato",
+            "summary": "Deepfakes represent one of the toughest challenges in the world of\nCybersecurity and Digital Forensics, especially considering the high-quality\nresults obtained with recent generative AI-based solutions. Almost all\ngenerative models leave unique traces in synthetic data that, if analyzed and\nidentified in detail, can be exploited to improve the generalization\nlimitations of existing deepfake detectors. In this paper we analyzed deepfake\nimages in the frequency domain generated by both GAN and Diffusion Model\nengines, examining in detail the underlying statistical distribution of\nDiscrete Cosine Transform (DCT) coefficients. Recognizing that not all\ncoefficients contribute equally to image detection, we hypothesize the\nexistence of a unique ``discriminative fingerprint\", embedded in specific\ncombinations of coefficients. To identify them, Machine Learning classifiers\nwere trained on various combinations of coefficients. In addition, the\nExplainable AI (XAI) LIME algorithm was used to search for intrinsic\ndiscriminative combinations of coefficients. Finally, we performed a robustness\ntest to analyze the persistence of traces by applying JPEG compression. The\nexperimental results reveal the existence of traces left by the generative\nmodels that are more discriminative and persistent at JPEG attacks. Code and\ndataset are available at https://github.com/opontorno/dcts_analysis_deepfakes.",
+            "pdf_url": "http://arxiv.org/pdf/2402.02209v3",
+            "published": "2024-02-03 16:45:31+00:00",
+            "updated": "2024-07-30 16:16:45+00:00"
+        },
+        {
+            "title": "Light and Optimal Schr\u00f6dinger Bridge Matching",
+            "authors": "Nikita Gushchin, Sergei Kholkin, Evgeny Burnaev, Alexander Korotin",
+            "summary": "Schr\\\"odinger Bridges (SB) have recently gained the attention of the ML\ncommunity as a promising extension of classic diffusion models which is also\ninterconnected to the Entropic Optimal Transport (EOT). Recent solvers for SB\nexploit the pervasive bridge matching procedures. Such procedures aim to\nrecover a stochastic process transporting the mass between distributions given\nonly a transport plan between them. In particular, given the EOT plan, these\nprocedures can be adapted to solve SB. This fact is heavily exploited by recent\nworks giving rise to matching-based SB solvers. The cornerstone here is\nrecovering the EOT plan: recent works either use heuristical approximations\n(e.g., the minibatch OT) or establish iterative matching procedures which by\nthe design accumulate the error during the training. We address these\nlimitations and propose a novel procedure to learn SB which we call the\n\\textbf{optimal Schr\\\"odinger bridge matching}. It exploits the optimal\nparameterization of the diffusion process and provably recovers the SB process\n\\textbf{(a)} with a single bridge matching step and \\textbf{(b)} with arbitrary\ntransport plan as the input. Furthermore, we show that the optimal bridge\nmatching objective coincides with the recently discovered energy-based modeling\n(EBM) objectives to learn EOT/SB. Inspired by this observation, we develop a\nlight solver (which we call LightSB-M) to implement optimal matching in\npractice using the Gaussian mixture parameterization of the adjusted\nSchr\\\"odinger potential. We experimentally showcase the performance of our\nsolver in a range of practical tasks. The code for our solver can be found at\nhttps://github.com/SKholkin/LightSB-Matching.",
+            "pdf_url": "http://arxiv.org/pdf/2402.03207v2",
+            "published": "2024-02-05 17:17:57+00:00",
+            "updated": "2024-07-30 13:43:36+00:00"
+        },
+        {
+            "title": "Diffusion Augmented Agents: A Framework for Efficient Exploration and Transfer Learning",
+            "authors": "Norman Di Palo, Leonard Hasenclever, Jan Humplik, Arunkumar Byravan",
+            "summary": "We introduce Diffusion Augmented Agents (DAAG), a novel framework that\nleverages large language models, vision language models, and diffusion models\nto improve sample efficiency and transfer learning in reinforcement learning\nfor embodied agents. DAAG hindsight relabels the agent's past experience by\nusing diffusion models to transform videos in a temporally and geometrically\nconsistent way to align with target instructions with a technique we call\nHindsight Experience Augmentation. A large language model orchestrates this\nautonomous process without requiring human supervision, making it well-suited\nfor lifelong learning scenarios. The framework reduces the amount of\nreward-labeled data needed to 1) finetune a vision language model that acts as\na reward detector, and 2) train RL agents on new tasks. We demonstrate the\nsample efficiency gains of DAAG in simulated robotics environments involving\nmanipulation and navigation. Our results show that DAAG improves learning of\nreward detectors, transferring past experience, and acquiring new tasks - key\nabilities for developing efficient lifelong learning agents. Supplementary\nmaterial and visualizations are available on our website\nhttps://sites.google.com/view/diffusion-augmented-agents/",
+            "pdf_url": "http://arxiv.org/pdf/2407.20798v1",
+            "published": "2024-07-30 13:01:31+00:00",
+            "updated": "2024-07-30 13:01:31+00:00"
+        },
+        {
+            "title": "Forecasting Tropical Cyclones with Cascaded Diffusion Models",
+            "authors": "Pritthijit Nath, Pancham Shukla, Shuai Wang, C\u00e9sar Quilodr\u00e1n-Casas",
+            "summary": "As tropical cyclones become more intense due to climate change, the rise of\nAl-based modelling provides a more affordable and accessible approach compared\nto traditional methods based on mathematical models. This work leverages\ngenerative diffusion models to forecast cyclone trajectories and precipitation\npatterns by integrating satellite imaging, remote sensing, and atmospheric\ndata. It employs a cascaded approach that incorporates three main tasks:\nforecasting, super-resolution, and precipitation modelling. The training\ndataset includes 51 cyclones from six major tropical cyclone basins from\nJanuary 2019 - March 2023. Experiments demonstrate that the final forecasts\nfrom the cascaded models show accurate predictions up to a 36-hour rollout,\nwith excellent Structural Similarity (SSIM) and Peak-Singal-To-Noise Ratio\n(PSNR) values exceeding 0.5 and 20 dB, respectively, for all three tasks. The\n36-hour forecasts can be produced in as little as 30 mins on a single Nvidia\nA30/RTX 2080 Ti. This work also highlights the promising efficiency of Al\nmethods such as diffusion models for high-performance needs in weather\nforecasting, such as tropical cyclone forecasting, while remaining\ncomputationally affordable, making them ideal for highly vulnerable regions\nwith critical forecasting needs and financial limitations. Code accessible at\nhttps://github.com/nathzi1505/forecast-diffmodels.",
+            "pdf_url": "http://arxiv.org/pdf/2310.01690v7",
+            "published": "2023-10-02 23:09:59+00:00",
+            "updated": "2024-07-30 12:16:14+00:00"
+        },
+        {
+            "title": "Joint Diffusion Processes as an Inductive Bias in Sheaf Neural Networks",
+            "authors": "Ferran Hernandez Caralt, Guillermo Bern\u00e1rdez Gil, Iulia Duta, Pietro Li\u00f2, Eduard Alarc\u00f3n Cot",
+            "summary": "Sheaf Neural Networks (SNNs) naturally extend Graph Neural Networks (GNNs) by\nendowing a cellular sheaf over the graph, equipping nodes and edges with vector\nspaces and defining linear mappings between them. While the attached geometric\nstructure has proven to be useful in analyzing heterophily and oversmoothing,\nso far the methods by which the sheaf is computed do not always guarantee a\ngood performance in such settings. In this work, drawing inspiration from\nopinion dynamics concepts, we propose two novel sheaf learning approaches that\n(i) provide a more intuitive understanding of the involved structure maps, (ii)\nintroduce a useful inductive bias for heterophily and oversmoothing, and (iii)\ninfer the sheaf in a way that does not scale with the number of features, thus\nusing fewer learnable parameters than existing methods. In our evaluation, we\nshow the limitations of the real-world benchmarks used so far on SNNs, and\ndesign a new synthetic task -- leveraging the symmetries of n-dimensional\nellipsoids -- that enables us to better assess the strengths and weaknesses of\nsheaf-based models. Our extensive experimentation on these novel datasets\nreveals valuable insights into the scenarios and contexts where SNNs in general\n-- and our proposed approaches in particular -- can be beneficial.",
+            "pdf_url": "http://arxiv.org/pdf/2407.20597v1",
+            "published": "2024-07-30 07:17:46+00:00",
+            "updated": "2024-07-30 07:17:46+00:00"
+        }
+    ],
+    "Quantitative Finance": [
+        {
+            "title": "AI-Powered Energy algorithmic Trading: Integrating Hidden Markov Models with Neural Networks",
+            "authors": "Tiago Monteiro",
+            "summary": "In the field of quantitative finance, machine learning methods have become\nessential for alpha generation. This paper presents a pioneering method that\nuniquely combines Hidden Markov Models (HMM) and neural networks, creating a\ndual-model alpha generation system integrated with Black-Litterman portfolio\noptimization. The methodology, implemented on the QuantConnect platform, aims\nto predict future price movements and optimize trading strategies.\nSpecifically, it filters for highly liquid, top-cap energy stocks to ensure\nstable and predictable performance while also accounting for broker payments.\nQuantConnect was selected because of its robust framework and to guarantee\nexperimental reproducibility. The algorithm achieved a 31% return between June\n1, 2023, and January 1, 2024, with a Sharpe ratio of 1.669, demonstrating its\npotential. The findings suggest significant improvements in trading strategy\nperformance through the combined use of the HMM and neural networks. This study\nexplores the architecture of the algorithm, data pre-processing techniques,\nmodel training procedures, and performance evaluation, highlighting its\npractical applicability and effectiveness in real-world trading environments.\nThe full code and backtesting data are available under the MIT license.",
+            "pdf_url": "http://arxiv.org/pdf/2407.19858v1",
+            "published": "2024-07-29 10:26:52+00:00",
+            "updated": "2024-07-29 10:26:52+00:00"
+        },
+        {
+            "title": "Evaluating Human-AI Collaboration: A Review and Methodological Framework",
+            "authors": "George Fragiadakis, Christos Diou, George Kousiouris, Mara Nikolaidou",
+            "summary": "The use of artificial intelligence (AI) in working environments with\nindividuals, known as Human-AI Collaboration (HAIC), has become essential in a\nvariety of domains, boosting decision-making, efficiency, and innovation.\nDespite HAIC's wide potential, evaluating its effectiveness remains challenging\ndue to the complex interaction of components involved.\n  This paper provides a detailed analysis of existing HAIC evaluation\napproaches and develops a fresh paradigm for more effectively evaluating these\nsystems.\n  Our framework includes a structured decision tree which assists to select\nrelevant metrics based on distinct HAIC modes (AI-Centric, Human-Centric, and\nSymbiotic). By including both quantitative and qualitative metrics, the\nframework seeks to represent HAIC's dynamic and reciprocal nature, enabling the\nassessment of its impact and success. This framework's practicality can be\nexamined by its application in an array of domains, including manufacturing,\nhealthcare, finance, and education, each of which has unique challenges and\nrequirements. Our hope is that this study will facilitate further research on\nthe systematic evaluation of HAIC in real-world applications.",
+            "pdf_url": "http://arxiv.org/pdf/2407.19098v1",
+            "published": "2024-07-09 12:52:22+00:00",
+            "updated": "2024-07-09 12:52:22+00:00"
+        }
+    ]
+}
