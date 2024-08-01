@@ -1,0 +1,126 @@
+{
+    "Physics": [
+        {
+            "title": "Non-equilibrium dynamics of symmetry-resolved entanglement and entanglement asymmetry: Exact asymptotics in Rule 54",
+            "authors": "Katja Klobas",
+            "summary": "Symmetry resolved entanglement and entanglement asymmetry are two measures of\nquantum correlations sensitive to symmetries of the system. Here we discuss\ntheir non-equilibrium dynamics in the Rule 54 cellular automaton, a simple, yet\ninteracting, integrable model. Both quantities can be expressed in terms of the\nmore analytically tractable \"charged moments\", i.e. traces of powers of a\nsuitably deformed density matrix, via a replica trick. We express them in terms\nof a tensor network, which we contract in space using a system of local\nalgebraic relations. This gives the asymptotic form for the charged moments,\nvalid in the regime of large but finite time that is shorter than all the\nrelevant subsystem sizes. In this regime the charge moments decay exponentially\nwith the rate given by the leading solution to a cubic equation.",
+            "pdf_url": "http://arxiv.org/pdf/2407.21793v1",
+            "published": "2024-07-31 17:59:50+00:00",
+            "updated": "2024-07-31 17:59:50+00:00"
+        },
+        {
+            "title": "P-wave magnets",
+            "authors": "Anna Birk Hellenes, Tom\u00e1\u0161 Jungwirth, Rodrigo Jaeschke-Ubiergo, Atasi Chakraborty, Jairo Sinova, Libor \u0160mejkal",
+            "summary": "The p-wave Cooper-pairing instability in superfluid $^{3}$He, characterized\nby a parity-breaking excitation gap, is regarded as one of the most rich and\ncomplex phenomena in physics. The possibility of a counterpart unconventional\np-wave ordering of interacting fermions, in which a Fermi surface spontaneously\nbreaks the parity symmetry, has been an open problem for many decades. Here we\nidentify the realization of the counterpart of p-wave superfluidity in\nmagnetism. We demonstrate a strong parity-breaking and anisotropic symmetry\nlowering of spin-polarized and time-reversal symmetric Fermi surfaces in a\nrepresentative p-wave magnet CeNiAsO. As a direct experimental signature we\npredict a large spontaneous anisotropy of the resistivity. Abundant and robust\nrealizations of the unconventional p-wave magnetism can be identified from\nsuitable non-relativistic crystal-lattice and spin symmetries, without\nrequiring strong correlations and extreme external conditions. This opens new\nprospects in fields ranging from topological phenomena to spintronics.",
+            "pdf_url": "http://arxiv.org/pdf/2309.01607v3",
+            "published": "2023-09-04 13:46:12+00:00",
+            "updated": "2024-07-31 17:29:47+00:00"
+        },
+        {
+            "title": "Waveform resampling with LMN method",
+            "authors": "Lino Gerlach, Wenqiang Gu, Nitish Nayak, Xin Qian, Brett Viren",
+            "summary": "Resampling is a common technique applied in digital signal processing. Based\non the Fast Fourier Transformation (FFT), we apply an optimization called here\nthe LMN method to achieve fast and robust re-sampling. In addition to\nperformance comparisons with some other popular methods, we illustrate the\neffectiveness of this LMN method in a particle physics experiment: re-sampling\nof waveforms from Liquid Argon Time Projection Chambers.",
+            "pdf_url": "http://arxiv.org/pdf/2407.21750v1",
+            "published": "2024-07-31 17:09:36+00:00",
+            "updated": "2024-07-31 17:09:36+00:00"
+        },
+        {
+            "title": "Fundamental limitations on the recoverability of quantum processes",
+            "authors": "Sohail, Vivek Pandey, Uttam Singh, Siddhartha Das",
+            "summary": "Quantum information processing and computing tasks can be understood as\nquantum networks, comprising quantum states and channels and possible physical\ntransformations on them. It is hence pertinent to estimate the change in\ninformational content of quantum processes due to physical transformations they\nundergo. The physical transformations of quantum states are described by\nquantum channels, while the transformations of quantum channels are described\nby quantum superchannels. In this work, we determine fundamental limitations on\nhow well the physical transformation on quantum channels can be undone or\nreversed, which are of crucial interest to design and benchmark quantum\ninformation and computation devices. In particular, we refine (strengthen) the\nquantum data processing inequality for quantum channels under the action of\nquantum superchannels. We identify a class of quantum superchannels, which\nappears to be the superchannel analogue of subunital quantum channels, under\nthe action of which the entropy of an arbitrary quantum channel is\nnondecreasing. We also provide a refined inequality for the entropy change of\nquantum channels under the action of an arbitrary quantum superchannel.",
+            "pdf_url": "http://arxiv.org/pdf/2403.12947v2",
+            "published": "2024-03-19 17:50:24+00:00",
+            "updated": "2024-07-31 17:01:19+00:00"
+        },
+        {
+            "title": "A General and Transferable Local Hybrid Functional from First Principles",
+            "authors": "Christof Holzer, Yannick J. Franzke",
+            "summary": "Density functional theory has become the workhorse of quantum physics,\nchemistry, and materials science. Within these fields, a broad range of\napplications needs to be covered. These applications range from solids to\nmolecular systems, from organic to inorganic chemistry, or even from electrons\nto other fermions such as protons or muons. This is emphasized by the plethora\nof density functional approximations that have been developed for various\ncases. In this work, a new local hybrid exchange-correlation density functional\nis constructed from first principles, promoting generality and transferability.\nWe show that constraint satisfaction can be achieved even for admixtures with\nfull exact exchange, without sacrificing accuracy. The performance of the new\nfunctional for electronic structure theory is assessed for thermochemical\nproperties, excitation energies, M\\\"ossbauer isomer shifts, NMR spin-spin\ncoupling constants, NMR shieldings and shifts, magnetizabilities, EPR hyperfine\ncoupling constants, and EPR g-tensors. The new density functional shows a\nrobust performance throughout all tests and is numerically robust only\nrequiring small grids for converged results. Additionally, the functional can\nbe easily generalized to arbitrary fermions as shown for electron-proton\ncorrelation energies. Therefore, we outline that density functionals generated\nin this way are general purpose tools for quantum mechanical studies.",
+            "pdf_url": "http://arxiv.org/pdf/2407.21727v1",
+            "published": "2024-07-31 16:28:25+00:00",
+            "updated": "2024-07-31 16:28:25+00:00"
+        },
+        {
+            "title": "Coordinating Decisions via Quantum Telepathy",
+            "authors": "Dawei Ding, Liang Jiang",
+            "summary": "Quantum telepathy, or pseudotelepathy, is the phenomenon where two\nnon-communicating parties can exhibit correlated behaviors that are impossible\nto achieve using classical mechanics. This is also known as Bell inequality\nviolation and is made possible by quantum entanglement. In this work, we\npresent a conceptual framework for applying quantum telepathy to real-world\nproblems. In general, the problems involve coordinating decisions given a set\nof observations without being able to communicate. We argue this inability is\nactually quite prevalent in the modern era where the decision-making timescales\nof computer processors are so short that speed of light delay is actually quite\nappreciable in comparison. We highlight the example of high-frequency trading\n(HFT), where trades are made at microsecond timescales, but the speed of light\ndelay between different exchanges can range from the order of 10 microseconds\nto 10 milliseconds. Due to the maturity of Bell inequality violation\nexperiments, experimental realization of quantum telepathy schemes that can\nattain a quantum advantage for real-world problems $\\textit{is already almost\nimmediately possible}$. We demonstrate this by conducting a case study for a\nconcrete HFT scenario that gives rise to a generalization of the CHSH game and\nevaluate different possible physical implementations for achieving a quantum\nadvantage. It is well known that Bell inequality violation is a rigorous\nmathematical proof of a quantum advantage over any classical strategy and does\nnot need any complexity-theoretic assumptions such as\n$\\text{BQP}\\neq\\text{BPP}$. Moreover, fault tolerance is not necessary to\nrealize a quantum advantage: for example, violating the CHSH inequality only\nrequires single-qubit gates applied on two entangled qubits.",
+            "pdf_url": "http://arxiv.org/pdf/2407.21723v1",
+            "published": "2024-07-31 16:18:15+00:00",
+            "updated": "2024-07-31 16:18:15+00:00"
+        },
+        {
+            "title": "Assessing the State of AI Policy",
+            "authors": "Joanna F. DeFranco, Luke Biersmith",
+            "summary": "The deployment of artificial intelligence (AI) applications has accelerated\nrapidly. AI enabled technologies are facing the public in many ways including\ninfrastructure, consumer products and home applications. Because many of these\ntechnologies present risks either in the form of physical injury, or bias,\npotentially yielding unfair outcomes, policy makers must consider the need for\noversight. Most policymakers, however, lack the technical knowledge to judge\nwhether an emerging AI technology is safe, effective, and requires oversight,\ntherefore policy makers must depend on expert opinion. But policymakers are\nbetter served when, in addition to expert opinion, they have some general\nunderstanding of existing guidelines and regulations. This work provides an\noverview [the landscape] of AI legislation and directives at the international,\nU.S. state, city and federal levels. It also reviews relevant business\nstandards, and technical society initiatives. Then an overlap and gap analysis\nare performed resulting in a reference guide that includes recommendations and\nguidance for future policy making.",
+            "pdf_url": "http://arxiv.org/pdf/2407.21717v1",
+            "published": "2024-07-31 16:09:25+00:00",
+            "updated": "2024-07-31 16:09:25+00:00"
+        },
+        {
+            "title": "Dephasing-assisted transport in a tight-binding chain with a linear potential",
+            "authors": "Samuel L. Jacob, Laetitia P. Bettman, Artur M. Lacerda, Krissia Zawadzki, Stephen R. Clark, John Goold, Juan Jos\u00e9 Mendoza-Arenas",
+            "summary": "An environment interacting with a quantum system can enhance transport\nthrough the suppression of quantum effects responsible for localization. In\nthis paper, we study the interplay between bulk dephasing and a linear\npotential in a boundary-driven tight-binding chain. A linear potential induces\nWannier-Stark localization in the absence of noise, while dephasing induces\ndiffusive transport in the absence of a tilt. We derive an approximate\nexpression for the steady-state current as a function of both dephasing and\ntilt which closely matches the exact solution for a wide range of parameters.\nFrom it, we find that the maximum current occurs for a dephasing rate equal to\nthe period of Bloch oscillations in the Wannier-Stark localized system. We also\nfind that the current displays a maximum as a function of the system size,\nprovided that the total potential tilt across the chain remains constant. Our\nresults can be verified in current experimental platforms and represents a step\nforward in analytical studies of environment-assisted transport.",
+            "pdf_url": "http://arxiv.org/pdf/2407.21715v1",
+            "published": "2024-07-31 16:07:09+00:00",
+            "updated": "2024-07-31 16:07:09+00:00"
+        },
+        {
+            "title": "Retinomorphic Machine Vision in a Network Laser",
+            "authors": "Wai Kit Ng, Jakub Dranczewski, Anna Fischer, T V Raziman, Dhruv Saxena, Tobias Farchy, Kilian Stenning, Jonathan Peters, Heinz Schmid, Will R Branford, Mauricio Barahona, Kirsten Moselund, Riccardo Sapienza, Jack C. Gartside",
+            "summary": "With the growing prevalence of AI, demand increases for efficient machine\nlearning hardware. Physical systems are sought which combine image feature\ndetection with the essential nonlinearity for tasks such as image\nclassification. Existing physical hardware typically detects features linearly,\nthen employs digital processing for nonlinear activation. Biological vision\nsystems excel at nonlinear image processing. The retina detects features in\nganglion cells via lateral inhibition, where neighbouring cells nonlinearly\ncompete for activation.\n  We present a bio-inspired 'retinomorphic' machine vision platform using an\non-chip semiconductor network laser. The system detects multiple features in\nparallel via spatially-overlapping lasing modes, with integrated nonlinearity\nprovided by antagonistic gain competition between modes - a photonic analogue\nof retinal inhibition. Parallel feature-detection enhances efficiency relative\nto feature-detection schemes which operate sequentially or via multiple device\ncopies, with Si-compatible processing and a compact micron-scale footprint\nrelative to existing mm-scale systems. We report 98.05% accuracy on\nMNIST-digits and 87.85% on Fashion-MNIST, with strong performance on short\ntraining datasets.",
+            "pdf_url": "http://arxiv.org/pdf/2407.15558v2",
+            "published": "2024-07-22 11:42:34+00:00",
+            "updated": "2024-07-31 15:53:03+00:00"
+        },
+        {
+            "title": "Kramers-Kronig relations via Laplace formalism and $L^1$ integrability",
+            "authors": "Marco Prevedelli, Alessio Perinelli, Leonardo Ricci",
+            "summary": "Kramers-Kronig relations link the real and imaginary part of the Fourier\ntransform of a well-behaved causal transfer function describing a linear,\ntime-invariant system. From the physical point of view, according to the\nKramers-Kronig relations, absorption and dispersion become two sides of the\nsame coin. Due to the simplicity of the assumptions underlying them, the\nrelations are a cornerstone of physics. The rigorous mathematical proof was\ncarried out by Titchmarsh in 1937 and just requires the transfer function to be\nsquare-integrable ($L^2$), or equivalently that the impulse response of the\nsystem at hand has a finite energy. Titchmarsh's proof is definitely not easy,\nthus leading to crucial steps that are often overlooked by instructors and,\noccasionally, prompting some authors to attempt shaky shortcuts. Here we share\na rigorous mathematical proof that relies on the Laplace formalism and requires\na slightly stronger assumption on the transfer function, namely its being\nLebesgue-integrable ($L^1$). While the result is not as general as Titchmarsh's\nproof, its enhanced simplicity makes a deeper knowledge of the mathematical\naspects of the Kramers-Kronig relations more accessible to the audience of\nphysicists.",
+            "pdf_url": "http://arxiv.org/pdf/2407.21694v1",
+            "published": "2024-07-31 15:39:12+00:00",
+            "updated": "2024-07-31 15:39:12+00:00"
+        }
+    ],
+    "Diffusion": [
+        {
+            "title": "Noise Level Adaptive Diffusion Model for Robust Reconstruction of Accelerated MRI",
+            "authors": "Shoujin Huang, Guanxiong Luo, Xi Wang, Ziran Chen, Yuwan Wang, Huaishui Yang, Pheng-Ann Heng, Lingyan Zhang, Mengye Lyu",
+            "summary": "In general, diffusion model-based MRI reconstruction methods incrementally\nremove artificially added noise while imposing data consistency to reconstruct\nthe underlying images. However, real-world MRI acquisitions already contain\ninherent noise due to thermal fluctuations. This phenomenon is particularly\nnotable when using ultra-fast, high-resolution imaging sequences for advanced\nresearch, or using low-field systems favored by low- and middle-income\ncountries. These common scenarios can lead to sub-optimal performance or\ncomplete failure of existing diffusion model-based reconstruction techniques.\nSpecifically, as the artificially added noise is gradually removed, the\ninherent MRI noise becomes increasingly pronounced, making the actual noise\nlevel inconsistent with the predefined denoising schedule and consequently\ninaccurate image reconstruction. To tackle this problem, we propose a posterior\nsampling strategy with a novel NoIse Level Adaptive Data Consistency (Nila-DC)\noperation. Extensive experiments are conducted on two public datasets and an\nin-house clinical dataset with field strength ranging from 0.3T to 3T, showing\nthat our method surpasses the state-of-the-art MRI reconstruction methods, and\nis highly robust against various noise levels. The code for Nila is available\nat https://github.com/Solor-pikachu/Nila.",
+            "pdf_url": "http://arxiv.org/pdf/2403.05245v2",
+            "published": "2024-03-08 12:07:18+00:00",
+            "updated": "2024-07-31 14:53:08+00:00"
+        },
+        {
+            "title": "Robust Simultaneous Multislice MRI Reconstruction Using Deep Generative Priors",
+            "authors": "Shoujin Huang, Guanxiong Luo, Yuwan Wang, Kexin Yang, Lingyan Zhang, Jingzhe Liu, Hua Guo, Min Wang, Mengye Lyu",
+            "summary": "Simultaneous multislice (SMS) imaging is a powerful technique for\naccelerating magnetic resonance imaging (MRI) acquisitions. However, SMS\nreconstruction remains challenging due to the complex signal interactions\nbetween and within the excited slices. This study presents a robust SMS MRI\nreconstruction method using deep generative priors. Starting from Gaussian\nnoise, we leverage denoising diffusion probabilistic models (DDPM) to gradually\nrecover the individual slices through reverse diffusion iterations while\nimposing data consistency from the measured k-space under readout concatenation\nframework. The posterior sampling procedure is designed such that the DDPM\ntraining can be performed on single-slice images without special adjustments\nfor SMS tasks. Additionally, our method integrates a low-frequency enhancement\n(LFE) module to address a practical issue that SMS-accelerated fast spin echo\n(FSE) and echo-planar imaging (EPI) sequences cannot easily embed\nautocalibration signals. Extensive experiments demonstrate that our approach\nconsistently outperforms existing methods and generalizes well to unseen\ndatasets. The code is available at https://github.com/Solor-pikachu/ROGER after\nthe review process.",
+            "pdf_url": "http://arxiv.org/pdf/2407.21600v1",
+            "published": "2024-07-31 13:34:14+00:00",
+            "updated": "2024-07-31 13:34:14+00:00"
+        },
+        {
+            "title": "Explainable and Controllable Motion Curve Guided Cardiac Ultrasound Video Generation",
+            "authors": "Junxuan Yu, Rusi Chen, Yongsong Zhou, Yanlin Chen, Yaofei Duan, Yuhao Huang, Han Zhou, Tan Tao, Xin Yang, Dong Ni",
+            "summary": "Echocardiography video is a primary modality for diagnosing heart diseases,\nbut the limited data poses challenges for both clinical teaching and machine\nlearning training. Recently, video generative models have emerged as a\npromising strategy to alleviate this issue. However, previous methods often\nrelied on holistic conditions during generation, hindering the flexible\nmovement control over specific cardiac structures. In this context, we propose\nan explainable and controllable method for echocardiography video generation,\ntaking an initial frame and a motion curve as guidance. Our contributions are\nthree-fold. First, we extract motion information from each heart substructure\nto construct motion curves, enabling the diffusion model to synthesize\ncustomized echocardiography videos by modifying these curves. Second, we\npropose the structure-to-motion alignment module, which can map semantic\nfeatures onto motion curves across cardiac structures. Third, The\nposition-aware attention mechanism is designed to enhance video consistency\nutilizing Gaussian masks with structural position information. Extensive\nexperiments on three echocardiography datasets show that our method outperforms\nothers regarding fidelity and consistency. The full code will be released at\nhttps://github.com/mlmi-2024-72/ECM.",
+            "pdf_url": "http://arxiv.org/pdf/2407.21490v1",
+            "published": "2024-07-31 09:59:20+00:00",
+            "updated": "2024-07-31 09:59:20+00:00"
+        },
+        {
+            "title": "Fine-gained Zero-shot Video Sampling",
+            "authors": "Dengsheng Chen, Jie Hu, Xiaoming Wei, Enhua Wu",
+            "summary": "Incorporating a temporal dimension into pretrained image diffusion models for\nvideo generation is a prevalent approach. However, this method is\ncomputationally demanding and necessitates large-scale video datasets. More\ncritically, the heterogeneity between image and video datasets often results in\ncatastrophic forgetting of the image expertise. Recent attempts to directly\nextract video snippets from image diffusion models have somewhat mitigated\nthese problems. Nevertheless, these methods can only generate brief video clips\nwith simple movements and fail to capture fine-grained motion or non-grid\ndeformation. In this paper, we propose a novel Zero-Shot video Sampling\nalgorithm, denoted as $\\mathcal{ZS}^2$, capable of directly sampling\nhigh-quality video clips from existing image synthesis methods, such as Stable\nDiffusion, without any training or optimization. Specifically, $\\mathcal{ZS}^2$\nutilizes the dependency noise model and temporal momentum attention to ensure\ncontent consistency and animation coherence, respectively. This ability enables\nit to excel in related tasks, such as conditional and context-specialized video\ngeneration and instruction-guided video editing. Experimental results\ndemonstrate that $\\mathcal{ZS}^2$ achieves state-of-the-art performance in\nzero-shot video generation, occasionally outperforming recent supervised\nmethods.\n  Homepage: \\url{https://densechen.github.io/zss/}.",
+            "pdf_url": "http://arxiv.org/pdf/2407.21475v1",
+            "published": "2024-07-31 09:36:58+00:00",
+            "updated": "2024-07-31 09:36:58+00:00"
+        },
+        {
+            "title": "Transient anisotropic kernel for probabilistic learning on manifolds",
+            "authors": "Christian Soize, Roger Ghanem",
+            "summary": "PLoM (Probabilistic Learning on Manifolds) is a method introduced in 2016 for\nhandling small training datasets by projecting an It\\^o equation from a\nstochastic dissipative Hamiltonian dynamical system, acting as the MCMC\ngenerator, for which the KDE-estimated probability measure with the training\ndataset is the invariant measure. PLoM performs a projection on a reduced-order\nvector basis related to the training dataset, using the diffusion maps (DMAPS)\nbasis constructed with a time-independent isotropic kernel. In this paper, we\npropose a new ISDE projection vector basis built from a transient anisotropic\nkernel, providing an alternative to the DMAPS basis to improve statistical\nsurrogates for stochastic manifolds with heterogeneous data. The construction\nensures that for times near the initial time, the DMAPS basis coincides with\nthe transient basis. For larger times, the differences between the two bases\nare characterized by the angle of their spanned vector subspaces. The optimal\ninstant yielding the optimal transient basis is determined using an estimation\nof mutual information from Information Theory, which is normalized by the\nentropy estimation to account for the effects of the number of realizations\nused in the estimations. Consequently, this new vector basis better represents\nstatistical dependencies in the learned probability measure for any dimension.\nThree applications with varying levels of statistical complexity and data\nheterogeneity validate the proposed theory, showing that the transient\nanisotropic kernel improves the learned probability measure.",
+            "pdf_url": "http://arxiv.org/pdf/2407.21435v1",
+            "published": "2024-07-31 08:38:39+00:00",
+            "updated": "2024-07-31 08:38:39+00:00"
+        }
+    ]
+}

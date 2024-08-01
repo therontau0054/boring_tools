@@ -36,6 +36,31 @@ TODO:
 
 
 
+
+## Update on 2024-08-01
+
+### Physics
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2024-07-31|2024-07-31|Non-equilibrium dynamics of symmetry-resolved entanglement and entanglement asymmetry: Exact asymptotics in Rule 54|Katja Klobas|[2407.21793v1](http://arxiv.org/pdf/2407.21793v1)|
+|2023-09-04|2024-07-31|P-wave magnets|Anna Birk Hellenes|[2309.01607v3](http://arxiv.org/pdf/2309.01607v3)|
+|2024-07-31|2024-07-31|Waveform resampling with LMN method|Lino Gerlach|[2407.21750v1](http://arxiv.org/pdf/2407.21750v1)|
+|2024-03-19|2024-07-31|Fundamental limitations on the recoverability of quantum processes|Sohail|[2403.12947v2](http://arxiv.org/pdf/2403.12947v2)|
+|2024-07-31|2024-07-31|A General and Transferable Local Hybrid Functional from First Principles|Christof Holzer|[2407.21727v1](http://arxiv.org/pdf/2407.21727v1)|
+|2024-07-31|2024-07-31|Coordinating Decisions via Quantum Telepathy|Dawei Ding|[2407.21723v1](http://arxiv.org/pdf/2407.21723v1)|
+|2024-07-31|2024-07-31|Assessing the State of AI Policy|Joanna F. DeFranco|[2407.21717v1](http://arxiv.org/pdf/2407.21717v1)|
+|2024-07-31|2024-07-31|Dephasing-assisted transport in a tight-binding chain with a linear potential|Samuel L. Jacob|[2407.21715v1](http://arxiv.org/pdf/2407.21715v1)|
+|2024-07-22|2024-07-31|Retinomorphic Machine Vision in a Network Laser|Wai Kit Ng|[2407.15558v2](http://arxiv.org/pdf/2407.15558v2)|
+|2024-07-31|2024-07-31|Kramers-Kronig relations via Laplace formalism and $L^1$ integrability|Marco Prevedelli|[2407.21694v1](http://arxiv.org/pdf/2407.21694v1)|
+
+### Diffusion
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2024-03-08|2024-07-31|Noise Level Adaptive Diffusion Model for Robust Reconstruction of Accelerated MRI|Shoujin Huang|[2403.05245v2](http://arxiv.org/pdf/2403.05245v2)|
+|2024-07-31|2024-07-31|Robust Simultaneous Multislice MRI Reconstruction Using Deep Generative Priors|Shoujin Huang|[2407.21600v1](http://arxiv.org/pdf/2407.21600v1)|
+|2024-07-31|2024-07-31|Explainable and Controllable Motion Curve Guided Cardiac Ultrasound Video Generation|Junxuan Yu|[2407.21490v1](http://arxiv.org/pdf/2407.21490v1)|
+|2024-07-31|2024-07-31|Fine-gained Zero-shot Video Sampling|Dengsheng Chen|[2407.21475v1](http://arxiv.org/pdf/2407.21475v1)|
+|2024-07-31|2024-07-31|Transient anisotropic kernel for probabilistic learning on manifolds|Christian Soize|[2407.21435v1](http://arxiv.org/pdf/2407.21435v1)|
 ## Update on 2024-07-31
 
 ### Physics
