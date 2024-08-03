@@ -37,6 +37,31 @@ TODO:
 
 
 
+
+## Update on 2024-08-03
+
+### Physics
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2024-08-01|2024-08-01|To reset, or not to reset -- that is the question|György P. Gehér|[2408.00758v1](http://arxiv.org/pdf/2408.00758v1)|
+|2024-08-01|2024-08-01|Thermal Conductivity Predictions with Foundation Atomistic Models|Balázs Póta|[2408.00755v1](http://arxiv.org/pdf/2408.00755v1)|
+|2024-08-01|2024-08-01|The Inevitable Quark Three-Body Force and its Implications for Exotic States|Sungsik Noh|[2408.00715v1](http://arxiv.org/pdf/2408.00715v1)|
+|2024-08-01|2024-08-01|Attosecond Probing of Coherent Vibrational Dynamics in CBr$_4$|Jen-Hao Ou|[2408.00696v1](http://arxiv.org/pdf/2408.00696v1)|
+|2024-08-01|2024-08-01|Accelerating Full Waveform Inversion By Transfer Learning|Divya Shyam Singh|[2408.00695v1](http://arxiv.org/pdf/2408.00695v1)|
+|2024-08-01|2024-08-01|Subspace-projected multireference covariant density functional theory|X. Zhang|[2408.00691v1](http://arxiv.org/pdf/2408.00691v1)|
+|2023-04-25|2024-08-01|Application of Transformers for Nonlinear Channel Compensation in Optical Systems|Behnam Behinaein Hamgini|[2304.13119v3](http://arxiv.org/pdf/2304.13119v3)|
+|2024-03-13|2024-08-01|Actor-Critic Physics-informed Neural Lyapunov Control|Jiarui Wang|[2403.08448v2](http://arxiv.org/pdf/2403.08448v2)|
+|2024-04-16|2024-08-01|Graph neural network-based surrogate modelling for real-time hydraulic prediction of urban drainage networks|Zhiyu Zhang|[2404.10324v2](http://arxiv.org/pdf/2404.10324v2)|
+|2024-03-10|2024-08-01|Distributed quantum architecture search|Haozhen Situ|[2403.06214v2](http://arxiv.org/pdf/2403.06214v2)|
+
+### Diffusion
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2024-08-01|2024-08-01|Smoothed Energy Guidance: Guiding Diffusion Models with Reduced Energy Curvature of Attention|Susung Hong|[2408.00760v1](http://arxiv.org/pdf/2408.00760v1)|
+|2024-08-01|2024-08-01|TurboEdit: Text-Based Image Editing Using Few-Step Diffusion Models|Gilad Deutch|[2408.00735v1](http://arxiv.org/pdf/2408.00735v1)|
+|2024-08-01|2024-08-01|Alpha-VI DeepONet: A prior-robust variational Bayesian approach for enhancing DeepONets with uncertainty quantification|Soban Nasir Lone|[2408.00681v1](http://arxiv.org/pdf/2408.00681v1)|
+|2024-08-01|2024-08-01|Illustrating Classic Brazilian Books using a Text-To-Image Diffusion Model|Felipe Mahlow|[2408.00544v1](http://arxiv.org/pdf/2408.00544v1)|
+|2024-08-01|2024-08-01|A new approach for encoding code and assisting code understanding|Mengdan Fan|[2408.00521v1](http://arxiv.org/pdf/2408.00521v1)|
 ## Update on 2024-08-01
 
 ### Physics
