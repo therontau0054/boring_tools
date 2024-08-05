@@ -38,6 +38,31 @@ TODO:
 
 
 
+
+## Update on 2024-08-05
+
+### Physics
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2024-04-26|2024-08-02|Decoherence in Neutrino Oscillation at the ESSnuSB Experiment|ESSnuSB|[2404.17559v2](http://arxiv.org/pdf/2404.17559v2)|
+|2023-06-19|2024-08-02|Fermions with Electric Dipole Moment in curved spacetime|A. A. Araújo Filho|[2306.10897v2](http://arxiv.org/pdf/2306.10897v2)|
+|2024-08-02|2024-08-02|Non-Hermitian and $\mathcal{PT}$-symmetric extensions of the harmonic and isotonic oscillators|Aritra Ghosh|[2408.01397v1](http://arxiv.org/pdf/2408.01397v1)|
+|2014-01-23|2024-08-02|Spacetime approach to force-free magnetospheres|Samuel E. Gralla|[1401.6159v4](http://arxiv.org/pdf/1401.6159v4)|
+|2024-06-20|2024-08-02|One-Dimensional, One-Phase and Two-Phase Eulerian Explicit Shock Tube Simulation Code|M. Giselle Fernández-Godino|[2406.14018v3](http://arxiv.org/pdf/2406.14018v3)|
+|2024-04-07|2024-08-02|Axialgravisolitons at infinite corners|Federico Manzoni|[2404.04951v2](http://arxiv.org/pdf/2404.04951v2)|
+|2023-11-24|2024-08-02|Quantum Coding with Finite Thermodynamic Resources|Jake Xuereb|[2311.14561v2](http://arxiv.org/pdf/2311.14561v2)|
+|2023-08-11|2024-08-02|An effective gauge field theory of the nucleon interactions|Eduard Boos|[2308.06133v3](http://arxiv.org/pdf/2308.06133v3)|
+|2024-08-02|2024-08-02|Device-Independent Certification of Multipartite Distillable Entanglement|Aby Philip|[2408.01357v1](http://arxiv.org/pdf/2408.01357v1)|
+|2024-08-02|2024-08-02|Search for bottom quark associated production of the standard model Higgs boson in final states with leptons in proton-proton collisions at $\sqrt{s}$ = 13 TeV|CMS Collaboration|[2408.01344v1](http://arxiv.org/pdf/2408.01344v1)|
+
+### Diffusion
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2024-08-02|2024-08-02|Conditional LoRA Parameter Generation|Xiaolong Jin|[2408.01415v1](http://arxiv.org/pdf/2408.01415v1)|
+|2024-07-16|2024-08-02|CCVA-FL: Cross-Client Variations Adaptive Federated Learning for Medical Imaging|Sunny Gupta|[2407.11652v3](http://arxiv.org/pdf/2407.11652v3)|
+|2024-06-06|2024-08-02|Improving Geo-diversity of Generated Images with Contextualized Vendi Score Guidance|Reyhane Askari Hemmat|[2406.04551v2](http://arxiv.org/pdf/2406.04551v2)|
+|2023-02-11|2024-08-02|A Reparameterized Discrete Diffusion Model for Text Generation|Lin Zheng|[2302.05737v3](http://arxiv.org/pdf/2302.05737v3)|
+|2023-10-06|2024-08-02|DragD3D: Realistic Mesh Editing with Rigidity Control Driven by 2D Diffusion Priors|Tianhao Xie|[2310.04561v2](http://arxiv.org/pdf/2310.04561v2)|
 ## Update on 2024-08-03
 
 ### Physics

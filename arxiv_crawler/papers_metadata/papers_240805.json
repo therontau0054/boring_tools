@@ -1,0 +1,126 @@
+{
+    "Physics": [
+        {
+            "title": "Decoherence in Neutrino Oscillation at the ESSnuSB Experiment",
+            "authors": "ESSnuSB, :, J. Aguilar, M. Anastasopoulos, E. Baussan, A. K. Bhattacharyya, A. Bignami, M. Blennow, M. Bogomilov, B. Bolling, E. Bouquerel, F. Bramati, A. Branca, G. Brunetti, I. Bustinduy, C. J. Carlile, J. Cederkall, T. W. Choi, S. Choubey, P. Christiansen, M. Collins, E. Cristaldo Morales, P. Cupia\u0142, H. Danared, D. Dancila, J. P. A. M. de Andr\u00e9, M. Dracos, I. Efthymiopoulos, T. Ekel\u00f6f, M. Eshraqi, G. Fanourakis, A. Farricker, E. Fasoula, T. Fukuda, N. Gazis, Th. Geralis, M. Ghosh, A. Giarnetti, G. Gokbulut, A. Gupta, C. Hagner, L. Hali\u0107, V. T. Hariharan, M. Hooft, K. E. Iversen, N. Jachowicz, M. Jenssen, R. Johansson, E. Kasimi, A. Kayis Topaksu, B. Kildetof, B. Kli\u010dek, K. Kordas, A. Leisos, M. Lindroos, A. Longhin, C. Maiano, D. Majumdar, S. Marangoni, C. Marrelli, C. Martins, D. Meloni, M. Mezzetto, N. Milas, J. Mu\u00f1oz, K. Niewczas, M. Oglakci, T. Ohlsson, M. Olveg\u00e5rd, M. Pari, D. Patrzalek, G. Petkov, Ch. Petridou, P. Poussot, A. Psallidas, F. Pupilli, D. Saiang, D. Sampsonidis, C. Schwab, F. Sordo, A. Sosa, G. Stavropoulos, M. Stip\u010devi\u0107, R. Tarkeshian, F. Terranova, T. Tolba, E. Trachanas, R. Tsenov, A. Tsirigotis, S. E. Tzamarias, G. Vankova-Kirilova, N. Vassilopoulos, S. Vihonen, J. Wurtz, V. Zeter, O. Zormpa, Y. Zou",
+            "summary": "Neutrino oscillation experiments provide a unique window in exploring several\nnew physics scenarios beyond the standard three flavour. One such scenario is\nquantum decoherence in neutrino oscillation which tends to destroy the\ninterference pattern of neutrinos reaching the far detector from the source. In\nthis work, we study the decoherence in neutrino oscillation in the context of\nthe ESSnuSB experiment. We consider the energy-independent decoherence\nparameter and derive the analytical expressions for P$_{\\mu e}$ and P$_{\\mu\n\\mu}$ probabilities in vacuum. We have computed the capability of ESSnuSB to\nput bounds on the decoherence parameters namely, $\\Gamma_{21}$ and\n$\\Gamma_{32}$ and found that the constraints on $\\Gamma_{21}$ are competitive\ncompared to the DUNE bounds and better than the most stringent LBL ones from\nMINOS/MINOS+. We have also investigated the impact of decoherence on the\nESSnuSB measurement of the Dirac CP phase $\\delta_{\\rm CP}$ and concluded that\nit remains robust in the presence of new physics.",
+            "pdf_url": "http://arxiv.org/pdf/2404.17559v2",
+            "published": "2024-04-26 17:38:04+00:00",
+            "updated": "2024-08-02 17:57:44+00:00"
+        },
+        {
+            "title": "Fermions with Electric Dipole Moment in curved spacetime",
+            "authors": "A. A. Ara\u00fajo Filho, H. Hassanabadi, J. A. A. S. Reis, L. Lisboa-Santos",
+            "summary": "This paper explores the relativistic behavior of spin--half particles\npossessing an Electric Dipole Moment (EDM) in a curved spacetime background\ninduced by a spiral dislocation. A thorough review of the mathematical\nformulation of the Dirac spinor in the framework of quantum field theory sets\nthe foundation for our investigation. By deriving the action that governs the\ninteraction between the spinor field, the background spacetime, and an external\nelectric field, we establish a framework to study the dynamics of the system.\nSolving the resulting wave equation reveals a set of coupled equations for the\nradial components of the Dirac spinor, which give rise to a modified energy\nspectrum attributed to the EDM. To validate our findings, we apply them to the\ngeometric phase and thermodynamics.",
+            "pdf_url": "http://arxiv.org/pdf/2306.10897v2",
+            "published": "2023-06-19 12:53:37+00:00",
+            "updated": "2024-08-02 17:32:42+00:00"
+        },
+        {
+            "title": "Non-Hermitian and $\\mathcal{PT}$-symmetric extensions of the harmonic and isotonic oscillators",
+            "authors": "Aritra Ghosh, Akash Sinha",
+            "summary": "The Swanson oscillator forms a prototypical example of a\n$\\mathcal{PT}$-symmetric and non-Hermitian system with a quadratic Hamiltonian.\nThe system is described by the generic quadratic Hamiltonian $\\hat{H}_{\\rm\nSwanson} = \\hbar \\Omega_0 \\big( \\hat{a}^\\dagger \\hat{a} + \\frac{1}{2}\\big) +\n\\alpha \\hat{a}^2 + \\beta ({\\hat{a}^\\dagger})^2$, where $\\Omega_0 > 0$, $\\alpha,\n\\beta \\in \\mathbb{R}$, and $\\alpha \\neq \\beta$. We show that such a system may\nbe realized as a harmonic oscillator in the presence of an imaginary-valued\ngauge field. In the position representation, we solve the problem exactly,\ni.e., we find the wavefunctions and the spectrum. We then also propose a\nsimilar non-Hermitian and $\\mathcal{PT}$-symmetric extension of the isotonic\noscillator which is exactly solved for a certain range of the parameters.",
+            "pdf_url": "http://arxiv.org/pdf/2408.01397v1",
+            "published": "2024-08-02 17:15:17+00:00",
+            "updated": "2024-08-02 17:15:17+00:00"
+        },
+        {
+            "title": "Spacetime approach to force-free magnetospheres",
+            "authors": "Samuel E. Gralla, Ted Jacobson",
+            "summary": "Force-Free Electrodynamics (FFE) describes magnetically dominated\nrelativistic plasma via non-linear equations for the electromagnetic field\nalone. Such plasma is thought to play a key role in the physics of pulsars and\nactive black holes. Despite its simple covariant formulation, FFE has primarily\nbeen studied in 3+1 frameworks, where spacetime is split into space and time.\nIn this article we systematically develop the theory of force-free\nmagnetospheres taking a spacetime perspective. Using a suite of spacetime tools\nand techniques (notably exterior calculus) we cover 1) the basics of the\ntheory, 2) exact solutions that demonstrate the extraction and transport of the\nrotational energy of a compact object (in the case of a black hole, the\nBlandford-Znajek mechanism), 3) the behavior of current sheets, 4) the general\ntheory of stationary, axisymmetric magnetospheres and 5) general properties of\npulsar and black hole magnetospheres. We thereby synthesize, clarify and\ngeneralize known aspects of the physics of force-free magnetospheres, while\nalso introducing several new results.",
+            "pdf_url": "http://arxiv.org/pdf/1401.6159v4",
+            "published": "2014-01-23 20:46:56+00:00",
+            "updated": "2024-08-02 16:44:11+00:00"
+        },
+        {
+            "title": "One-Dimensional, One-Phase and Two-Phase Eulerian Explicit Shock Tube Simulation Code",
+            "authors": "M. Giselle Fern\u00e1ndez-Godino",
+            "summary": "In this work, a one-dimensional simulation code was developed for both\nsingle-phase and two-phase systems, focusing on time-dependent Euler equations\nfor gas and particles. These equations, non-linear hyperbolic conservation\nlaws, describe the dynamics of compressible materials, where body forces,\nviscous stresses, and heat flux are neglected. The Euler equations were\ndiscretized using the finite volume method, and the code was written in MATLAB.\nTo test the accuracy of the computational fluid code, the Sod shock tube\nproblem, a physical analogue of the Riemann problem, was employed. This problem\nmodels a pressure discontinuity where high and low-pressure regions are\nseparated by a diaphragm, which breaks at t=0, creating a discontinuity in\ndensity as well. Exact solutions were used for code verification. A key focus\nwas on modeling a curtain of particles impacted by a shock wave, relevant to\nmultiphase heterogeneous cylindrical explosion studies by the PSAAP II project.\nThis initiative, funded by the US Department of Energy (DOE) National Nuclear\nSecurity Administration (NNSA) Office of Advanced Simulation and Computing\n(ASC), involves Sandia National Laboratories and the Center for Compressible\nMultiphase Turbulence at the University of Florida. The propagation of\nuncertainties in the maximum density of the particle curtain was studied by\nvarying initial curtain thickness and initial high density. Given the\ncomputational expense of multiple code evaluations for uncertainty propagation,\na multi-fidelity surrogate model combining low and high-fidelity simulations\nwas implemented. This model facilitated uncertainty propagation using DAKOTA, a\nflexible and extensible interface between analysis codes and iterative systems\nanalysis methods.",
+            "pdf_url": "http://arxiv.org/pdf/2406.14018v3",
+            "published": "2024-06-20 06:28:16+00:00",
+            "updated": "2024-08-02 16:41:51+00:00"
+        },
+        {
+            "title": "Axialgravisolitons at infinite corners",
+            "authors": "Federico Manzoni",
+            "summary": "Gravitational solitons (gravisolitons) are particular exact solutions of\nEinstein field equation in vacuum build on a given background solution. Their\ninterpretation is not yet fully clear but they contain many of the physically\nrelevant solutions low $N$-solitons solutions. However, a systematic study and\ncharacterization of gravisolitons solution for every $N$ is lacking and their\nrelevance in a theory of quantum gravity is not fully understood. This work\naims to investigate and characterize some properties of $N$-axialsoliton\nsolutions such as their asymptotically behaviour and asymptotic symmetries\ngiven minimal assumptions on the background metric. We develop an explicit\nsystematic asymptotically expansion for the $N$-axialsoliton solution and we\ncompute the leading order of the asymptotic killing vectors. Moreover, in the\nperspective to better understand the role of gravisolitons in quantum gravity\nwe make a link, and a one of the first explicit test, to the corner symmetry\nproposal deriving which subalgebra of the universal corner symmetry algebra is\ngenerated by the asymptotic Killing vectors of $N$-axialsoliton solution. In\nthe spirit of the corner proposal, the axialgravisoliton corner symmetry\nalgebra (\\textfrak{agcsa}) can be useful for the quantization of the\nnon-asymptotically flat sector of gravity while, in the spirit of IR triangle,\nnew soft theorems and memory effects could emerge.",
+            "pdf_url": "http://arxiv.org/pdf/2404.04951v2",
+            "published": "2024-04-07 13:07:54+00:00",
+            "updated": "2024-08-02 16:40:18+00:00"
+        },
+        {
+            "title": "Quantum Coding with Finite Thermodynamic Resources",
+            "authors": "Jake Xuereb, Tiago Debarba, Marcus Huber, Paul Erker",
+            "summary": "Quantum direct coding or Schumacher compression generalised the ideas of\nShannon theory, gave an operational meaning to the von Neumann entropy and\nestablished the term qubit. But remembering that information processing is\ncarried out by physical processes prompts one to wonder what thermodynamic\nresources are required to compress quantum information and how they constrain\none's ability to perform this task. That is, if Alice and Bob only have access\nto thermal quantum states and clocks with finite accuracy, how well can they\nmeasure, encode and decode pure quantum state messages? In this work we examine\nthese questions by modelling Alice's typical measurement as a unitary involving\na measurement probe, investigating imperfect timekeeping on encoding and\ndecoding and considering the role of temperature in Bob's appended qubits. In\ndoing so, we derive fidelity bounds for this protocol involving the\ncorrelations Alice can form with their measurement probe, the variance of the\nclock's ticks and the temperature of Bob's qubits. Finally, we give an insight\ninto the entropy produced by these two agents throughout the compression\nprotocol by relating the resources they use to a quantum thermodynamic cooling\nprotocol.",
+            "pdf_url": "http://arxiv.org/pdf/2311.14561v2",
+            "published": "2023-11-24 15:48:49+00:00",
+            "updated": "2024-08-02 16:38:55+00:00"
+        },
+        {
+            "title": "An effective gauge field theory of the nucleon interactions",
+            "authors": "Eduard Boos",
+            "summary": "We discuss the possibility of constructing an effective gauge field theory of\nthe nucleon interations based on the ideas of isotopic invariance as well as\nhypercharge invariance as a local gauge symmetry and spontaneous breaking of\nthis symmetry. The constructed model predicts the structure of interactions of\nprotons and neutrons with $\\rho$- and $\\sigma$-mesons, with pi-mesons and\nphotons, as well as interactions of these particles with each other. The\nLagrangian of the model consists of several parts parts involving dimension 4\nand 5 gauge invariant operators. Feynman rules for physical degrees of freedom\nas follow from the Lagrangian define the structure of diagrams for one-boson\nexchanges between nucleons predicting the internucleon one-boson exchange\npotential as well as nucleon scattering amplitudes. The range of applicability\nof the model is discussed and estimates are made of the resulting coupling\nconstants. The model predicts the mass of the neutral $\\rho^0$-meson to be\nabout $1\\,MeV$ larger than the mass of the charged mesons $\\rho^{\\pm}$. The\nvector $\\omega$-meson, which is a sterile particle with respect to the\nconsidered gauge group $SU_I(2)\\times U_Y(1)$, can be added to the scheme by\nmeans of a gauge-invariant operator of dimension 5, as shown in Appendix ~A.",
+            "pdf_url": "http://arxiv.org/pdf/2308.06133v3",
+            "published": "2023-08-11 13:40:01+00:00",
+            "updated": "2024-08-02 16:13:41+00:00"
+        },
+        {
+            "title": "Device-Independent Certification of Multipartite Distillable Entanglement",
+            "authors": "Aby Philip, Mark M. Wilde",
+            "summary": "Quantum networks consist of various quantum technologies, spread across vast\ndistances, and involve various users at the same time. Certifying the\nfunctioning and efficiency of the individual components is a task that is well\nstudied and widely used. However, the power of quantum networks can only be\nrealized by integrating all the required quantum technologies and platforms\nacross a large number of users. In this work, we demonstrate how to certify the\ndistillable entanglement available in multipartite states produced by quantum\nnetworks, without relying on the physical realization of its constituent\ncomponents. We do so by using the paradigm of device independence.",
+            "pdf_url": "http://arxiv.org/pdf/2408.01357v1",
+            "published": "2024-08-02 16:09:18+00:00",
+            "updated": "2024-08-02 16:09:18+00:00"
+        },
+        {
+            "title": "Search for bottom quark associated production of the standard model Higgs boson in final states with leptons in proton-proton collisions at $\\sqrt{s}$ = 13 TeV",
+            "authors": "CMS Collaboration",
+            "summary": "This Letter presents the first search for bottom quark associated production\nof the standard model Higgs boson, in final states with leptons. Higgs boson\ndecays to pairs of tau leptons and pairs of leptonically decaying W bosons are\nconsidered. The search is performed using data collected from 2016 to 2018 by\nthe CMS experiment in proton-proton collisions at a centre-of-mass energy of 13\nTeV, corresponding to an integrated luminosity of 138 fb${-1}$. Upper limits at\nthe 95% confidence level are placed on the signal strength for Higgs boson\nproduction in association with bottom quarks; the observed (expected) upper\nlimit is 3.7 (6.1) times the standard model prediction.",
+            "pdf_url": "http://arxiv.org/pdf/2408.01344v1",
+            "published": "2024-08-02 15:41:28+00:00",
+            "updated": "2024-08-02 15:41:28+00:00"
+        }
+    ],
+    "Diffusion": [
+        {
+            "title": "Conditional LoRA Parameter Generation",
+            "authors": "Xiaolong Jin, Kai Wang, Dongwen Tang, Wangbo Zhao, Yukun Zhou, Junshu Tang, Yang You",
+            "summary": "Generative models have achieved remarkable success in image, video, and text\ndomains. Inspired by this, researchers have explored utilizing generative\nmodels to generate neural network parameters. However, these efforts have been\nlimited by the parameter size and the practicality of generating\nhigh-performance parameters. In this paper, we propose COND P-DIFF, a novel\napproach that demonstrates the feasibility of controllable high-performance\nparameter generation, particularly for LoRA (Low-Rank Adaptation) weights,\nduring the fine-tuning process. Specifically, we employ an autoencoder to\nextract efficient latent representations for parameters. We then train a\nconditional latent diffusion model to synthesize high-performing model\nparameters from random noise based on specific task conditions. Experimental\nresults in both computer vision and natural language processing domains\nconsistently demonstrate that COND P-DIFF can generate high-performance\nparameters conditioned on the given task. Moreover, we observe that the\nparameter distribution generated by COND P-DIFF exhibits differences compared\nto the distribution obtained through normal optimization methods, indicating a\ncertain level of generalization capability. Our work paves the way for further\nexploration of condition-driven parameter generation, offering a promising\ndirection for task-specific adaptation of neural networks.",
+            "pdf_url": "http://arxiv.org/pdf/2408.01415v1",
+            "published": "2024-08-02 17:43:34+00:00",
+            "updated": "2024-08-02 17:43:34+00:00"
+        },
+        {
+            "title": "CCVA-FL: Cross-Client Variations Adaptive Federated Learning for Medical Imaging",
+            "authors": "Sunny Gupta, Amit Sethi",
+            "summary": "Federated Learning (FL) offers a privacy-preserving approach to train models\non decentralized data. Its potential in healthcare is significant, but\nchallenges arise due to cross-client variations in medical image data,\nexacerbated by limited annotations. This paper introduces Cross-Client\nVariations Adaptive Federated Learning (CCVA-FL) to address these issues.\nCCVA-FL aims to minimize cross-client variations by transforming images into a\ncommon feature space. It involves expert annotation of a subset of images from\neach client, followed by the selection of a client with the least data\ncomplexity as the target. Synthetic medical images are then generated using\nScalable Diffusion Models with Transformers (DiT) based on the target client's\nannotated images. These synthetic images, capturing diversity and representing\nthe original data, are shared with other clients. Each client then translates\nits local images into the target image space using image-to-image translation.\nThe translated images are subsequently used in a federated learning setting to\ndevelop a server model. Our results demonstrate that CCVA-FL outperforms\nVanilla Federated Averaging by effectively addressing data distribution\ndifferences across clients without compromising privacy.",
+            "pdf_url": "http://arxiv.org/pdf/2407.11652v3",
+            "published": "2024-07-16 12:18:20+00:00",
+            "updated": "2024-08-02 16:30:55+00:00"
+        },
+        {
+            "title": "Improving Geo-diversity of Generated Images with Contextualized Vendi Score Guidance",
+            "authors": "Reyhane Askari Hemmat, Melissa Hall, Alicia Sun, Candace Ross, Michal Drozdzal, Adriana Romero-Soriano",
+            "summary": "With the growing popularity of text-to-image generative models, there has\nbeen increasing focus on understanding their risks and biases. Recent work has\nfound that state-of-the-art models struggle to depict everyday objects with the\ntrue diversity of the real world and have notable gaps between geographic\nregions. In this work, we aim to increase the diversity of generated images of\ncommon objects such that per-region variations are representative of the real\nworld. We introduce an inference time intervention, contextualized Vendi Score\nGuidance (c-VSG), that guides the backwards steps of latent diffusion models to\nincrease the diversity of a sample as compared to a \"memory bank\" of previously\ngenerated images while constraining the amount of variation within that of an\nexemplar set of real-world contextualizing images. We evaluate c-VSG with two\ngeographically representative datasets and find that it substantially increases\nthe diversity of generated images, both for the worst performing regions and on\naverage, while simultaneously maintaining or improving image quality and\nconsistency. Additionally, qualitative analyses reveal that diversity of\ngenerated images is significantly improved, including along the lines of\nreductive region portrayals present in the original model. We hope that this\nwork is a step towards text-to-image generative models that reflect the true\ngeographic diversity of the world.",
+            "pdf_url": "http://arxiv.org/pdf/2406.04551v2",
+            "published": "2024-06-06 23:35:51+00:00",
+            "updated": "2024-08-02 16:09:49+00:00"
+        },
+        {
+            "title": "A Reparameterized Discrete Diffusion Model for Text Generation",
+            "authors": "Lin Zheng, Jianbo Yuan, Lei Yu, Lingpeng Kong",
+            "summary": "This work studies discrete diffusion probabilistic models with applications\nto natural language generation. We derive an alternative yet equivalent\nformulation of the sampling from discrete diffusion processes and leverage this\ninsight to develop a family of reparameterized discrete diffusion models. The\nderived generic framework is highly flexible, offers a fresh perspective of the\ngeneration process in discrete diffusion models, and features more effective\ntraining and decoding techniques. We conduct extensive experiments to evaluate\nthe text generation capability of our model, demonstrating significant\nimprovements over existing diffusion models.",
+            "pdf_url": "http://arxiv.org/pdf/2302.05737v3",
+            "published": "2023-02-11 16:26:57+00:00",
+            "updated": "2024-08-02 16:09:14+00:00"
+        },
+        {
+            "title": "DragD3D: Realistic Mesh Editing with Rigidity Control Driven by 2D Diffusion Priors",
+            "authors": "Tianhao Xie, Eugene Belilovsky, Sudhir Mudur, Tiberiu Popa",
+            "summary": "Direct mesh editing and deformation are key components in the geometric\nmodeling and animation pipeline. Mesh editing methods are typically framed as\noptimization problems combining user-specified vertex constraints with a\nregularizer that determines the position of the rest of the vertices. The\nchoice of the regularizer is key to the realism and authenticity of the final\nresult. Physics and geometry-based regularizers are not aware of the global\ncontext and semantics of the object, and the more recent deep learning priors\nare limited to a specific class of 3D object deformations. Our main\ncontribution is a vertex-based mesh editing method called DragD3D based on (1)\na novel optimization formulation that decouples the rotation and stretch\ncomponents of the deformation and combines a 3D geometric regularizer with (2)\nthe recently introduced DDS loss which scores the faithfulness of the rendered\n2D image to one from a diffusion model. Thus, our deformation method achieves\nglobally realistic shape deformation which is not restricted to any class of\nobjects. Our new formulation optimizes directly the transformation of the\nneural Jacobian field explicitly separating the rotational and stretching\ncomponents. The objective function of the optimization combines the approximate\ngradients of DDS and the gradients from the geometric loss to satisfy the\nvertex constraints. Additional user control over desired global shape\ndeformation is made possible by allowing explicit per-triangle deformation\ncontrol as well as explicit separation of rotational and stretching components\nof the deformation. We show that our deformations can be controlled to yield\nrealistic shape deformations that are aware of the global context of the\nobjects, and provide better results than just using geometric regularizers.",
+            "pdf_url": "http://arxiv.org/pdf/2310.04561v2",
+            "published": "2023-10-06 19:55:40+00:00",
+            "updated": "2024-08-02 14:08:59+00:00"
+        }
+    ]
+}
