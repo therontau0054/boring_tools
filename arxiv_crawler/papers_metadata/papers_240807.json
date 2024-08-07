@@ -1,0 +1,126 @@
+{
+    "Physics": [
+        {
+            "title": "ClassiFIM: An Unsupervised Method To Detect Phase Transitions",
+            "authors": "Victor Kasatkin, Evgeny Mozgunov, Nicholas Ezzell, Utkarsh Mishra, Itay Hen, Daniel Lidar",
+            "summary": "Estimation of the Fisher Information Metric (FIM-estimation) is an important\ntask that arises in unsupervised learning of phase transitions, a problem\nproposed by physicists. This work completes the definition of the task by\ndefining rigorous evaluation metrics distMSE, distMSEPS, and distRE and\nintroduces ClassiFIM, a novel machine learning method designed to solve the\nFIM-estimation task. Unlike existing methods for unsupervised learning of phase\ntransitions, ClassiFIM directly estimates a well-defined quantity (the FIM),\nallowing it to be rigorously compared to any present and future other methods\nthat estimate the same. ClassiFIM transforms a dataset for the FIM-estimation\ntask into a dataset for an auxiliary binary classification task and involves\nselecting and training a model for the latter. We prove that the output of\nClassiFIM approaches the exact FIM in the limit of infinite dataset size and\nunder certain regularity conditions. We implement ClassiFIM on multiple\ndatasets, including datasets describing classical and quantum phase\ntransitions, and find that it achieves a good ground truth approximation with\nmodest computational resources. Furthermore, we independently implement two\nalternative state-of-the-art methods for unsupervised estimation of phase\ntransition locations on the same datasets and find that ClassiFIM predicts such\nlocations at least as well as these other methods. To emphasize the generality\nof our method, we also propose and generate the MNIST-CNN dataset, which\nconsists of the output of CNNs trained on MNIST for different hyperparameter\nchoices. Using ClassiFIM on this dataset suggests there is a phase transition\nin the distribution of image-prediction pairs for CNNs trained on MNIST,\ndemonstrating the broad scope of FIM-estimation beyond physics.",
+            "pdf_url": "http://arxiv.org/pdf/2408.03323v1",
+            "published": "2024-08-06 17:58:29+00:00",
+            "updated": "2024-08-06 17:58:29+00:00"
+        },
+        {
+            "title": "Optomechanics of optically-levitated particles: A tutorial and perspective",
+            "authors": "George Winstone, Alexey Grinin, Mishkat Bhattacharya, Andrew A. Geraci, Tongcang Li, Peter J. Pauzauskie, Nick Vamivakas",
+            "summary": "Optomechanics, the study of the mechanical interaction of light with matter,\nhas proven to be a fruitful area of research that has yielded many notable\nachievements, including the direct detection of gravitational waves in\nkilometer-scale optical interferometers. Light has been used to cool and\ndemonstrate quantum control over the mechanical degrees of freedom of\nindividual ions and atoms, and more recently has facilitated the observation of\nquantum ``mechanics'' in objects of larger mass, even at the kg-scale. Optical\nlevitation, where an object can be suspended by radiation pressure and largely\ndecoupled from its environment, has recently established itself as a rich field\nof study, with many notable results relevant for precision measurement, quantum\ninformation science, and foundational tests of quantum mechanics and\nfundamental physics. This article provides a survey of several current\nactivities in field along with a tutorial describing associated key concepts\nand methods, both from an experimental and theoretical approach. It is intended\nas a resource for junior researchers who are new to this growing field as well\nas beginning graduate students. The tutorial is concluded with a perspective on\nboth promising emerging experimental platforms and anticipated future\ntheoretical developments.",
+            "pdf_url": "http://arxiv.org/pdf/2307.11858v2",
+            "published": "2023-07-21 18:58:25+00:00",
+            "updated": "2024-08-06 17:56:31+00:00"
+        },
+        {
+            "title": "Parametrization sampling and the pion PDF in a phenomenological analysis",
+            "authors": "Aurore Courtoy",
+            "summary": "In these proceedings, we extend the discussion of the pion PDF obtained by\nNLO QCD analysis in the Fant\\^omas4QCD framework. Our pion analysis uses a\nstate-of-the-art statistical methodology that accounts for the epistemic\nuncertainty. Fant\\^omas4QCD, designed to handle multiple functional forms for\nsolving the inverse problem, systematically explores a variety of solutions for\nPDFs, thereby improving estimates of epistemic uncertainty. Through this novel\napproach, we interpret our results for the valence sector, considering various\nnon-perturbative methods available for predicting the pion PDF. We emphasize\nthe distinctions between (global) QCD analyses and QFT-based calculations.",
+            "pdf_url": "http://arxiv.org/pdf/2408.03318v1",
+            "published": "2024-08-06 17:47:05+00:00",
+            "updated": "2024-08-06 17:47:05+00:00"
+        },
+        {
+            "title": "A non-Hermitian quantum mechanics approach for extracting and emulating continuum physics based on bound-state-like calculations",
+            "authors": "Xilin Zhang",
+            "summary": "This work develops a new method for computing a finite quantum system's\ncontinuum states and observables by applying a subspace projection (or reduced\nbasis) method used in model order reduction studies to ``discretize'' the\nsystem's continuous spectrum. The method extracts the continuum physics from\nsolving Schr\\\"odinger equations with bound-state-like boundary conditions and\nemulates this extraction in the space of the input parameters. This parameter\nemulation can readily be adapted to emulate other continuum calculations as\nwell, e.g., those based on complex energy or Lorentz integral transform\nmethods. Here, I give an overview of the key aspects of the formalism and some\ninformative findings from numerical experimentation with two- and three-body\nsystems, which indicates the non-Hermitian quantum mechanics nature of the\nmethod. A potential connection with (near-)optimal rational approximation\nstudied in Math literature is also discussed. Further details are provided in a\nseparate paper.",
+            "pdf_url": "http://arxiv.org/pdf/2408.03309v1",
+            "published": "2024-08-06 17:18:08+00:00",
+            "updated": "2024-08-06 17:18:08+00:00"
+        },
+        {
+            "title": "Photonic Mpemba effect",
+            "authors": "Stefano Longhi",
+            "summary": "The Mpemba effect is the counterintuitive phenomenon in statistical physics\nfor which a far-from-equilibrium state can relax toward equilibrium faster than\na state closer to equilibrium. This effect has raised a great curiosity since\nlong time and has been studied extensively in many classical and quantum\nsystems. Here it is shown that the Mpemba effect can be observed in optics as\nwell. Specifically, the process of light diffusion in finite-sized photonic\nlattices under incoherent (dephasing) dynamics is considered. Rather\nsurprisingly, it is shown that certain highly-localized initial light\ndistributions can diffuse faster than initial broadly delocalized\ndistributions. The effect is illustrated by considering random walk of optical\npulses in fiber-based temporal mesh lattices, which should provide an\nexperimentally-accessible setup for the demonstration of the Mpemba effect in\noptics.",
+            "pdf_url": "http://arxiv.org/pdf/2408.03296v1",
+            "published": "2024-08-06 16:50:21+00:00",
+            "updated": "2024-08-06 16:50:21+00:00"
+        },
+        {
+            "title": "Broadband THz wave generation and detection in organic crystal PNPA at MHz repetition rates",
+            "authors": "Lukasz A. Sterczewski, Jakub Mnich, Jaroslaw Sotor",
+            "summary": "Organic nonlinear optical (NLO) crystals have emerged as efficient\nroom-temperature emitters of broadband THz radiation with high electric field\nstrengths. Although initially confined to high-pulse-energy excitation in the\nmillijoule range with kHz rates, recent efforts have focused on tailoring the\nphysical properties of organic NLO materials for compatibility with popular\nMHz-rate telecommunication wavelength lasers emitting nanojoule energy pulses.\nThis is motivated by the large potential of such crystals for more portable and\nuser-safe spectroscopic systems, additionally complemented by their\nroom-temperature field-sensitive THz detection capabilities. In this work, we\ndemonstrate the MHz-rate operation of the organic crystal PNPA\n((E)-4-((4-nitrobenzylidene)amino)-$N$-phenylaniline), which was recently\ndiscovered through data mining algorithms and reported to surpass the\nconversion efficiency of rivaling NLO crystals at 1 kHz repetition rate. Using\na compact 200 mW Er:fiber laser producing 18 fs pulses at 50 MHz repetition\nrate, we demonstrate the THz field generation and detection capabilities of\nPNPA via performing gas phase spectroscopy in the 1.3-8.5 THz range. We obtain\na dynamic range of 40 dB over 3.6 s and 70 dB over 2 hours. Our work extends\nthe family of organic crystals compatible with telecommunication-wavelength\nexcitation using nJ pulses for spectroscopy beyond 5 THz.",
+            "pdf_url": "http://arxiv.org/pdf/2407.20745v2",
+            "published": "2024-07-30 11:29:30+00:00",
+            "updated": "2024-08-06 16:04:45+00:00"
+        },
+        {
+            "title": "Kinetic scales dominated by magnetic helicity in space plasmas",
+            "authors": "A. Bershadskii",
+            "summary": "It is shown, using results of fully kinetic 3D numerical simulations and\nobservations in solar wind and Earth's magnetosphere that the transition from\ndeterministic chaos to turbulence at kinetic (sub-ion) scales in space plasmas\nis generally dominated by magnetic helicity (an adiabatic invariant in a weakly\ndissipative plasma) directly or through the Kolmogorov-Iroshnikov phenomenology\n(the magneto-inertial range of scales as a precursor of hard turbulence).\nDespite the considerable differences in the scales and physical parameters, the\nresults of numerical simulations are in quantitative agreement with the space\nobservations in the frames of this approach.",
+            "pdf_url": "http://arxiv.org/pdf/2408.03267v1",
+            "published": "2024-08-06 15:59:12+00:00",
+            "updated": "2024-08-06 15:59:12+00:00"
+        },
+        {
+            "title": "Locally Scale Invariant Chern-Simons Actions in 3+1 Dimensions and Their Emergence From 4+2 Dimensional 2T-Physics",
+            "authors": "Itzhak Bars, Sophia D. Singh",
+            "summary": "The traditional Chern-Simons (CS) terms in 3+1 dimensions that modify General\nRelativity (GR), Quantum Chromodynamics (QCD), and Quantum Electrodynamics\n(QED), typically lack scale invariance. However, a locally scale invariant and\ngeodesically complete framework for the Standard Model (SM) coupled to GR was\npreviously constructed by employing a tailored form of local scale (Weyl)\nsymmetry. This refined SM+GR model closely resembles the conventional SM in\nsubatomic realms where gravitational effects are negligible. Nevertheless, it\noffers an intriguing prediction: the emergence of new physics beyond the\ntraditional SM and GR near spacetime singularities, characterized by intense\ngravity and substantial deviations in the Higgs field. In this study, we expand\nupon the enhanced SM+GR by incorporating Weyl invariant CS terms for gravity,\nQCD, and QED in 3+1 dimensions, thereby integrating CS contributions within the\nlocally scale-invariant and geodesically complete paradigm. Additionally, we\nestablish a holographic correspondence between the new CS terms in 3+1\ndimensions and novel 4+2 dimensional CS-type actions within 2T-physics. We\ndemonstrate that the Weyl transformation in 3+1 dimensions arises from 4+2\ngeneral coordinate transformations, which unify the hidden extra 1+1 large (not\ncurled up) dimensions with the evident 3+1 dimensions. By leveraging the\nnewfound local conformal symmetry, the augmented and geodesically complete\nSM+GR+CS introduces innovative tools and perspectives for exploring classical\nfield theory aspects of black hole and cosmological singularities in 3+1\ndimensions, while the 4+2 dimensional connection unveils deeper facets of\nspacetime.",
+            "pdf_url": "http://arxiv.org/pdf/2405.05510v2",
+            "published": "2024-05-09 02:40:45+00:00",
+            "updated": "2024-08-06 15:47:58+00:00"
+        },
+        {
+            "title": "Something from Nothing: Enhanced Laser Cooling of a Mechanical Resonator via Zero-Photon Detection",
+            "authors": "Evan A. Cryer-Jenkins, Kyle D. Major, Jack Clarke, Georg Enzian, Magdalena Szczykulska, Jinglei Zhang, Arjun Gupta, Anthony C. Leung, Harsh Rathee, Andreas \u00d8. Svela, Anthony K. C. Tan, Almut Beige, Klaus M\u00f8lmer, Michael R. Vanner",
+            "summary": "Throughout quantum science and technology, measurement is used as a powerful\nresource for nonlinear operations and quantum state engineering. In particular,\nsingle-photon detection is commonly employed for quantum-information\napplications and tests of fundamental physics. By contrast, and perhaps\ncounter-intuitively, measurement of the absence of photons also provides useful\ninformation, and offers significant potential for a wide range of new\nexperimental directions. Here, we propose and experimentally demonstrate\ncooling of a mechanical resonator below its laser-cooled mechanical occupation\nvia zero-photon detection on the anti-Stokes scattered optical field and verify\nthis cooling through heterodyne measurements. Our measurements are well\ncaptured by a stochastic master equation and the techniques introduced here\nopen new avenues for cooling, quantum thermodynamics, quantum state\nengineering, and quantum measurement and control.",
+            "pdf_url": "http://arxiv.org/pdf/2408.01734v2",
+            "published": "2024-08-03 10:25:10+00:00",
+            "updated": "2024-08-06 15:37:03+00:00"
+        },
+        {
+            "title": "Accelerated Development of Multicomponent Alloys in Discrete Design Space Using Bayesian Multi-Objective Optimisation",
+            "authors": "Osman Mamun, Markus Bause, Bhuiyan Shameem Mahmud Ebna Hai",
+            "summary": "Bayesian optimization (BO) protocol based on Active Learning (AL) principles\nhas garnered significant attention due to its ability to optimize black-box\nobjective functions efficiently. This capability is a prerequisite for guiding\nautonomous and high-throughput materials design and discovery processes.\nHowever, its application in materials science, particularly for novel alloy\ndesigns with multiple targeted properties, remains limited. This limitation is\ndue to the computational complexity and the lack of reliable and robust\nacquisition functions for multiobjective optimization. In recent years,\nexpected hypervolume-based geometrical acquisition functions have demonstrated\nsuperior performance and speed compared to other multiobjective optimization\nalgorithms, such as Thompson Sampling Efficient Multiobjective Optimization\n(TSEMO), Pareto Efficient Global Optimization (parEGO), etc. This work compares\nseveral state-of-the-art multiobjective BO acquisition functions, i.e.,\nparallel expected hypervolume improvement (qEHVI), noisy parallel expected\nhypervolume improvement (qNEHVI), parallel Pareto efficient global optimization\n(parEGO), and parallel noisy Pareto efficient global optimization (qNparEGO)\nfor the multiobjective optimization of physical properties in multi-component\nalloys. We demonstrate the impressive performance of the qEHVI acquisition\nfunction in finding the optimum Pareto front in 1-, 2-, and 3-objective\nAluminium alloy optimization problems within a limited evaluation budget and\nreasonable computational cost. In addition, we discuss the role of different\nsurrogate model optimization methods from a computational cost and efficiency\nperspective.",
+            "pdf_url": "http://arxiv.org/pdf/2401.06106v2",
+            "published": "2024-01-11 18:35:39+00:00",
+            "updated": "2024-08-06 15:33:08+00:00"
+        }
+    ],
+    "Diffusion": [
+        {
+            "title": "An Object is Worth 64x64 Pixels: Generating 3D Object via Image Diffusion",
+            "authors": "Xingguang Yan, Han-Hung Lee, Ziyu Wan, Angel X. Chang",
+            "summary": "We introduce a new approach for generating realistic 3D models with UV maps\nthrough a representation termed \"Object Images.\" This approach encapsulates\nsurface geometry, appearance, and patch structures within a 64x64 pixel image,\neffectively converting complex 3D shapes into a more manageable 2D format. By\ndoing so, we address the challenges of both geometric and semantic irregularity\ninherent in polygonal meshes. This method allows us to use image generation\nmodels, such as Diffusion Transformers, directly for 3D shape generation.\nEvaluated on the ABO dataset, our generated shapes with patch structures\nachieve point cloud FID comparable to recent 3D generative models, while\nnaturally supporting PBR material generation.",
+            "pdf_url": "http://arxiv.org/pdf/2408.03178v1",
+            "published": "2024-08-06 13:22:51+00:00",
+            "updated": "2024-08-06 13:22:51+00:00"
+        },
+        {
+            "title": "Iterative CT Reconstruction via Latent Variable Optimization of Shallow Diffusion Models",
+            "authors": "Sho Ozaki, Shizuo Kaji, Toshikazu Imae, Kanabu Nawa, Hideomi Yamashita, Keiichi Nakagawa",
+            "summary": "Image generative AI has garnered significant attention in recent years. In\nparticular, the diffusion model, a core component of recent generative AI,\nproduces high-quality images with rich diversity. In this study, we propose a\nnovel CT reconstruction method by combining the denoising diffusion\nprobabilistic model with iterative CT reconstruction. In sharp contrast to\nprevious studies, we optimize the fidelity loss of CT reconstruction with\nrespect to the latent variable of the diffusion model, instead of the image and\nmodel parameters. To suppress anatomical structure changes produced by the\ndiffusion model, we shallow the diffusion and reverse processes, and fix a set\nof added noises in the reverse process to make it deterministic during\ninference. We demonstrate the effectiveness of the proposed method through\nsparse view CT reconstruction of 1/10 view projection data. Despite the\nsimplicity of the implementation, the proposed method shows the capability of\nreconstructing high-quality images while preserving the patient's anatomical\nstructure, and outperforms existing methods including iterative reconstruction,\niterative reconstruction with total variation, and the diffusion model alone in\nterms of quantitative indices such as SSIM and PSNR. We also explore further\nsparse view CT using 1/20 view projection data with the same trained diffusion\nmodel. As the number of iterations increases, image quality improvement\ncomparable to that of 1/10 sparse view CT reconstruction is achieved. In\nprinciple, the proposed method can be widely applied not only to CT but also to\nother imaging modalities such as MRI, PET, and SPECT.",
+            "pdf_url": "http://arxiv.org/pdf/2408.03156v1",
+            "published": "2024-08-06 12:55:17+00:00",
+            "updated": "2024-08-06 12:55:17+00:00"
+        },
+        {
+            "title": "FBSDiff: Plug-and-Play Frequency Band Substitution of Diffusion Features for Highly Controllable Text-Driven Image Translation",
+            "authors": "Xiang Gao, Jiaying Liu",
+            "summary": "Large-scale text-to-image diffusion models have been a revolutionary\nmilestone in the evolution of generative AI and multimodal technology, allowing\nwonderful image generation with natural-language text prompt. However, the\nissue of lacking controllability of such models restricts their practical\napplicability for real-life content creation. Thus, attention has been focused\non leveraging a reference image to control text-to-image synthesis, which is\nalso regarded as manipulating (or editing) a reference image as per a text\nprompt, namely, text-driven image-to-image translation. This paper contributes\na novel, concise, and efficient approach that adapts pre-trained large-scale\ntext-to-image (T2I) diffusion model to the image-to-image (I2I) paradigm in a\nplug-and-play manner, realizing high-quality and versatile text-driven I2I\ntranslation without any model training, model fine-tuning, or online\noptimization process. To guide T2I generation with a reference image, we\npropose to decompose diverse guiding factors with different frequency bands of\ndiffusion features in the DCT spectral space, and accordingly devise a novel\nfrequency band substitution layer which realizes dynamic control of the\nreference image to the T2I generation result in a plug-and-play manner. We\ndemonstrate that our method allows flexible control over both guiding factor\nand guiding intensity of the reference image simply by tuning the type and\nbandwidth of the substituted frequency band, respectively. Extensive\nqualitative and quantitative experiments verify superiority of our approach\nover related methods in I2I translation visual quality, versatility, and\ncontrollability. The code is publicly available at:\nhttps://github.com/XiangGao1102/FBSDiff.",
+            "pdf_url": "http://arxiv.org/pdf/2408.00998v2",
+            "published": "2024-08-02 04:13:38+00:00",
+            "updated": "2024-08-06 12:01:17+00:00"
+        },
+        {
+            "title": "Diffusion Posterior Proximal Sampling for Image Restoration",
+            "authors": "Hongjie Wu, Linchao He, Mingqin Zhang, Dongdong Chen, Kunming Luo, Mengting Luo, Ji-Zhe Zhou, Hu Chen, Jiancheng Lv",
+            "summary": "Diffusion models have demonstrated remarkable efficacy in generating\nhigh-quality samples. Existing diffusion-based image restoration algorithms\nexploit pre-trained diffusion models to leverage data priors, yet they still\npreserve elements inherited from the unconditional generation paradigm. These\nstrategies initiate the denoising process with pure white noise and incorporate\nrandom noise at each generative step, leading to over-smoothed results. In this\npaper, we present a refined paradigm for diffusion-based image restoration.\nSpecifically, we opt for a sample consistent with the measurement identity at\neach generative step, exploiting the sampling selection as an avenue for output\nstability and enhancement. The number of candidate samples used for selection\nis adaptively determined based on the signal-to-noise ratio of the timestep.\nAdditionally, we start the restoration process with an initialization combined\nwith the measurement signal, providing supplementary information to better\nalign the generative process. Extensive experimental results and analyses\nvalidate that our proposed method significantly enhances image restoration\nperformance while consuming negligible additional computational resources.",
+            "pdf_url": "http://arxiv.org/pdf/2402.16907v2",
+            "published": "2024-02-25 04:24:28+00:00",
+            "updated": "2024-08-06 07:24:35+00:00"
+        },
+        {
+            "title": "Data-Driven Stochastic Closure Modeling via Conditional Diffusion Model and Neural Operator",
+            "authors": "Xinghao Dong, Chuanqi Chen, Jin-Long Wu",
+            "summary": "Closure models are widely used in simulating complex multiscale dynamical\nsystems such as turbulence and the earth system, for which direct numerical\nsimulation that resolves all scales is often too expensive. For those systems\nwithout a clear scale separation, deterministic and local closure models often\nlack enough generalization capability, which limits their performance in many\nreal-world applications. In this work, we propose a data-driven modeling\nframework for constructing stochastic and non-local closure models via\nconditional diffusion model and neural operator. Specifically, the Fourier\nneural operator is incorporated into a score-based diffusion model, which\nserves as a data-driven stochastic closure model for complex dynamical systems\ngoverned by partial differential equations (PDEs). We also demonstrate how\naccelerated sampling methods can improve the efficiency of the data-driven\nstochastic closure model. The results show that the proposed methodology\nprovides a systematic approach via generative machine learning techniques to\nconstruct data-driven stochastic closure models for multiscale dynamical\nsystems with continuous spatiotemporal fields.",
+            "pdf_url": "http://arxiv.org/pdf/2408.02965v1",
+            "published": "2024-08-06 05:21:31+00:00",
+            "updated": "2024-08-06 05:21:31+00:00"
+        }
+    ]
+}

@@ -39,6 +39,31 @@ TODO:
 
 
 
+
+## Update on 2024-08-07
+
+### Physics
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2024-08-06|2024-08-06|ClassiFIM: An Unsupervised Method To Detect Phase Transitions|Victor Kasatkin|[2408.03323v1](http://arxiv.org/pdf/2408.03323v1)|
+|2023-07-21|2024-08-06|Optomechanics of optically-levitated particles: A tutorial and perspective|George Winstone|[2307.11858v2](http://arxiv.org/pdf/2307.11858v2)|
+|2024-08-06|2024-08-06|Parametrization sampling and the pion PDF in a phenomenological analysis|Aurore Courtoy|[2408.03318v1](http://arxiv.org/pdf/2408.03318v1)|
+|2024-08-06|2024-08-06|A non-Hermitian quantum mechanics approach for extracting and emulating continuum physics based on bound-state-like calculations|Xilin Zhang|[2408.03309v1](http://arxiv.org/pdf/2408.03309v1)|
+|2024-08-06|2024-08-06|Photonic Mpemba effect|Stefano Longhi|[2408.03296v1](http://arxiv.org/pdf/2408.03296v1)|
+|2024-07-30|2024-08-06|Broadband THz wave generation and detection in organic crystal PNPA at MHz repetition rates|Lukasz A. Sterczewski|[2407.20745v2](http://arxiv.org/pdf/2407.20745v2)|
+|2024-08-06|2024-08-06|Kinetic scales dominated by magnetic helicity in space plasmas|A. Bershadskii|[2408.03267v1](http://arxiv.org/pdf/2408.03267v1)|
+|2024-05-09|2024-08-06|Locally Scale Invariant Chern-Simons Actions in 3+1 Dimensions and Their Emergence From 4+2 Dimensional 2T-Physics|Itzhak Bars|[2405.05510v2](http://arxiv.org/pdf/2405.05510v2)|
+|2024-08-03|2024-08-06|Something from Nothing: Enhanced Laser Cooling of a Mechanical Resonator via Zero-Photon Detection|Evan A. Cryer-Jenkins|[2408.01734v2](http://arxiv.org/pdf/2408.01734v2)|
+|2024-01-11|2024-08-06|Accelerated Development of Multicomponent Alloys in Discrete Design Space Using Bayesian Multi-Objective Optimisation|Osman Mamun|[2401.06106v2](http://arxiv.org/pdf/2401.06106v2)|
+
+### Diffusion
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2024-08-06|2024-08-06|An Object is Worth 64x64 Pixels: Generating 3D Object via Image Diffusion|Xingguang Yan|[2408.03178v1](http://arxiv.org/pdf/2408.03178v1)|
+|2024-08-06|2024-08-06|Iterative CT Reconstruction via Latent Variable Optimization of Shallow Diffusion Models|Sho Ozaki|[2408.03156v1](http://arxiv.org/pdf/2408.03156v1)|
+|2024-08-02|2024-08-06|FBSDiff: Plug-and-Play Frequency Band Substitution of Diffusion Features for Highly Controllable Text-Driven Image Translation|Xiang Gao|[2408.00998v2](http://arxiv.org/pdf/2408.00998v2)|
+|2024-02-25|2024-08-06|Diffusion Posterior Proximal Sampling for Image Restoration|Hongjie Wu|[2402.16907v2](http://arxiv.org/pdf/2402.16907v2)|
+|2024-08-06|2024-08-06|Data-Driven Stochastic Closure Modeling via Conditional Diffusion Model and Neural Operator|Xinghao Dong|[2408.02965v1](http://arxiv.org/pdf/2408.02965v1)|
 ## Update on 2024-08-05
 
 ### Physics
