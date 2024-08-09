@@ -1,0 +1,126 @@
+{
+    "Physics": [
+        {
+            "title": "An empirical background modeling tool (TweedleDEE) applied to new Milky Way satellite Leo VI",
+            "authors": "Chance Hoskinson, Jason Kumar, Pearl Sandick",
+            "summary": "We present a computational tool, TweedleDEE, for empirically modeling diffuse\ngamma-ray background emission in a 1 degree region of the sky, using publicly\navailable gamma-ray data slightly off-axis from this region. This background\nmodel allows a user to perform a purely data-driven search for anomalous\nlocalized sources of gamma-ray emission, including new physics. As an\napplication, we use TweedleDEE and the MADHATv2 package to perform the first\nsearch for dark matter annihilation in the newly discovered Leo VI dwarf\nspheroidal galaxy, and present model constraints for a variety of choices of\nthe annihilation channel and velocity dependence of the cross section.",
+            "pdf_url": "http://arxiv.org/pdf/2408.04611v1",
+            "published": "2024-08-08 17:37:28+00:00",
+            "updated": "2024-08-08 17:37:28+00:00"
+        },
+        {
+            "title": "Deriving the Topological Properties of the Magnetic Field of Coronal Mass Ejections from In Situ Measurements: Techniques",
+            "authors": "Nada Al-Haddad, Mitchell Berger",
+            "summary": "Coronal mass ejections (CMEs) are magnetized plasma systems with highly\ncomplex magnetic topology and evolution. Methods developed to assess their\nmagnetic configuration have primarily focused on reconstructing\nthree-dimensional representations from one-dimensional time series measurements\ntaken in situ using techniques based on the \"highly twisted magnetic flux rope\"\napproximations. However, the magnetic fields of CMEs is know to have more\ncomplicated geometries. Their structure can be quantified using measures of\nfield line topology, which have been primarily used for solar physics research.\nIn this work, we introduce a novel technique of directly quantifying the\nvarious form of magnetic helicity within a CME in the interplanetary space\nusing synthetic in situ measurements. We use a relatively simple\nthree-dimensional simulation of a CME initiated with a highly-twisted flux\nrope. We find that a significant portion of the magnetic helicity near 1~au is\ncontained in writhe and mutual helicity rather than just in twist. We discuss\nthe implications of this finding for fitting and reconstruction techniques.",
+            "pdf_url": "http://arxiv.org/pdf/2408.04608v1",
+            "published": "2024-08-08 17:28:05+00:00",
+            "updated": "2024-08-08 17:28:05+00:00"
+        },
+        {
+            "title": "A physical proof of the topological entanglement entropy inequality",
+            "authors": "Michael Levin",
+            "summary": "Recently it was shown that the topological entanglement entropy (TEE) of a\ntwo-dimensional gapped ground state obeys the universal inequality $\\gamma \\geq\n\\log \\mathcal{D}$, where $\\gamma$ is the TEE and $\\mathcal{D}$ is the total\nquantum dimension of all anyon excitations, $\\mathcal{D} = \\sqrt{\\sum_a\nd_a^2}$. Here we present an alternative, more direct proof of this inequality.\nOur proof uses only the strong subadditivity property of the von Neumann\nentropy together with a few physical assumptions about the ground state density\noperator. Our derivation naturally generalizes to a variety of systems,\nincluding spatially inhomogeneous systems with defects and boundaries, higher\ndimensional systems, and mixed states.",
+            "pdf_url": "http://arxiv.org/pdf/2408.04592v1",
+            "published": "2024-08-08 17:06:23+00:00",
+            "updated": "2024-08-08 17:06:23+00:00"
+        },
+        {
+            "title": "Time-cost-error trade-off relation in thermodynamics: The third law and beyond",
+            "authors": "Tan Van Vu, Keiji Saito",
+            "summary": "Elucidating the fundamental limitations inherent in physical systems is a\ncentral subject in physics. For important thermodynamic operations such as\ninformation erasure, cooling, and copying, resources like time and energetic\ncost must be expended to achieve the desired outcome within a predetermined\nerror margin. In this study, we introduce the concept of {\\it separated\nstates}, which consist of fully unoccupied and occupied states. This concept\ngeneralizes many critical states involved in relevant thermodynamic operations.\nWe uncover a three-way trade-off relation between {\\it time}, {\\it cost}, and\n{\\it error} for a general class of thermodynamic operations aimed at creating\nseparated states, simply expressed as $\\tau{\\cal C}\\varepsilon_{\\tau}\\ge\n1-\\eta$. This fundamental relation is applicable to diverse thermodynamic\noperations, including information erasure, cooling, and copying. It provides a\nprofound quantification of the unattainability principle in the third law of\nthermodynamics in a general form. Building upon this relation, we explore the\nquantitative limitations governing cooling operations, the preparation of\nseparated states, and a no-go theorem for exact classical copying. Furthermore,\nwe extend these findings to the quantum regime, encompassing both Markovian and\nnon-Markovian dynamics. Specifically, within Lindblad dynamics, we derive a\nsimilar three-way trade-off relation that quantifies the cost of achieving a\npure state with a given error. The generalization to general quantum dynamics\ninvolving a system coupled to a finite bath implies that heat dissipation\nbecomes infinite as the quantum system is exactly cooled down to the ground\nstate or perfectly reset to a pure state, thereby resolving an open question\nregarding the thermodynamic cost of information erasure.",
+            "pdf_url": "http://arxiv.org/pdf/2408.04576v1",
+            "published": "2024-08-08 16:36:49+00:00",
+            "updated": "2024-08-08 16:36:49+00:00"
+        },
+        {
+            "title": "Modelling shallow confinement in tuneable quantum dots",
+            "authors": "Austris Akmentinsh, Niels Ubbelohde, Vyacheslavs Kashcheyevs",
+            "summary": "This paper proposes a universal microscopic model for the shallow confinement\nregime of single-electron tunneling devices. We consider particle escape from a\nquantum well generically emerging as a bifurcation in a smooth electrostatic\npotential and develop a set of analytic and numerical approximations for the\nground-state tunneling and thermally activated escape rates. These\napproximations are applied to the problem of electron capture by a closing\ntunnel barrier where the competition between the closing speed and the escape\nrate defines a scaling relation for the capture fidelity. Effective\none-dimensional cubic potential approximation leads to a universal form of this\nscaling relation in terms of device-independent dimensionless depth and speed\nparameters. Using predictions for temperature and magnetic-field dependence we\nshow how to infer the energy scales of cubic longitudinal and quadratic\ntransverse confinement. Finally, we derive an intrinsic quantum speed bound for\nadiabatic protection of the ground state tunneling and show that the latter can\npotentially be exploited up to the break down of confinement with a practical\nspeed limit set by reaching the quantum uncertainty of the barrier height\nbefore the onset of non-adiabatic excitation. These results contribute to\nmapping out the physical limits of single-electron quantum technologies for\nelectrical metrology and sensing.",
+            "pdf_url": "http://arxiv.org/pdf/2408.04565v1",
+            "published": "2024-08-08 16:22:51+00:00",
+            "updated": "2024-08-08 16:22:51+00:00"
+        },
+        {
+            "title": "From enrollment to exams: Perceived stress dynamics among first-year physics students",
+            "authors": "Simon Zacharias Lahme, Jasper Ole Cirkel, Larissa Hahn, Julia Hofmann, Josefine Neuhaus, Susanne Schneider, Pascal Klein",
+            "summary": "The current dropout rate in physics studies in Germany is about 60\\%, with\nthe majority of dropouts occurring in the first year. Consequently, the physics\nstudy entry phase poses a significant challenge for many students. Students'\nstress perceptions can provide more profound insights into the processes and\nchallenges during that period. In a panel study featuring 67 measuring points\ninvolving up to 128 participants at each point, we investigated students'\nstress perceptions with the Perceived Stress Questionnaire (PSQ), identified\nunderlying sources of stress, and assessed self-estimated workloads across two\ndifferent cohorts. This examination occurred almost every week during the first\nsemester, and for one cohort also in the second semester, yielding a total of\n3,241 PSQ data points and 5,823 stressors. The PSQ data indicate a consistent\nstress trajectory across all three groups studied that is characterized by\nsignificant dynamics between measuring points, spanning from $M=20.1, SD=15.9$\nto $M=63.6, SD=13.4$ on a scale from 0 to 100. Stress levels rise in the first\nweeks of the lecture, followed by stable, elevated stress levels until the\nexams and a relaxation phase afterward during the lecture-free time and\nChristmas vacation. In the first half of the lecture period, students primarily\nindicated the weekly exercise sheets, the physics lab course, and math courses\nas stressors; later on, preparation for exams and the exams themselves emerged\nas the most important stressors. Together with the students' self-estimated\nworkloads that correlate with the PSQ scores, we can create a coherent picture\nof stress perceptions among first-year physics students, which builds the basis\nfor supportive measures and interventions.",
+            "pdf_url": "http://arxiv.org/pdf/2404.05682v3",
+            "published": "2024-04-08 16:59:51+00:00",
+            "updated": "2024-08-08 16:07:45+00:00"
+        },
+        {
+            "title": "Interference Resurrection of the $\u03c4$ Dipole through Quantum Tomography",
+            "authors": "Prisco Lo Chiatto",
+            "summary": "Helicity selection rules can defy the expectation that the leading\ncontributions from Standard Model Effective Field Theory operators occur at\ndimension 6, potentially reducing sensitivity to new physics scenarios. This\npaper investigates how spin correlations can restore (\"resurrect\") the\ninterference contributions of the $\\tau$ lepton's anomalous dipole moment. We\nfirst illustrate the mechanism for this interference restoration using a simple\nquantum mechanical example. We then calculate the sensitivity of these spin\ncorrelations to new physics. Additionally, we compute quantum information\nobservables, namely measures of entanglement, Bell inequality violation, and\nthe irreducible quantum uncertainty of the $\\tau\\tau$ state. Our findings show\nthat spin correlation observables outperform both the cross-section and quantum\ninformation observables, by providing greater sensitivity to new physics and\npreserving information about $CP$ violation.",
+            "pdf_url": "http://arxiv.org/pdf/2408.04553v1",
+            "published": "2024-08-08 16:06:06+00:00",
+            "updated": "2024-08-08 16:06:06+00:00"
+        },
+        {
+            "title": "Synchronous Multi-modal Semantic CommunicationSystem with Packet-level Coding",
+            "authors": "Yun Tian, Jingkai Ying, Zhijin Qin, Ye Jin, Xiaoming Tao",
+            "summary": "Although the semantic communication with joint semantic-channel coding design\nhas shown promising performance in transmitting data of different modalities\nover physical layer channels, the synchronization and packet-level forward\nerror correction of multimodal semantics have not been well studied. Due to the\nindependent design of semantic encoders, synchronizing multimodal features in\nboth the semantic and time domains is a challenging problem. In this paper, we\ntake the facial video and speech transmission as an example and propose a\nSynchronous Multimodal Semantic Communication System (SyncSC) with Packet-Level\nCoding. To achieve semantic and time synchronization, 3D Morphable Mode (3DMM)\ncoefficients and text are transmitted as semantics, and we propose a semantic\ncodec that achieves similar quality of reconstruction and synchronization with\nlower bandwidth, compared to traditional methods. To protect semantic packets\nunder the erasure channel, we propose a packet-Level Forward Error Correction\n(FEC) method, called PacSC, that maintains a certain visual quality performance\neven at high packet loss rates. Particularly, for text packets, a text packet\nloss concealment module, called TextPC, based on Bidirectional Encoder\nRepresentations from Transformers (BERT) is proposed, which significantly\nimproves the performance of traditional FEC methods. The simulation results\nshow that our proposed SyncSC reduce transmission overhead and achieve\nhigh-quality synchronous transmission of video and speech over the packet loss\nnetwork.",
+            "pdf_url": "http://arxiv.org/pdf/2408.04535v1",
+            "published": "2024-08-08 15:42:00+00:00",
+            "updated": "2024-08-08 15:42:00+00:00"
+        },
+        {
+            "title": "Multidimensionality of the Hubble tension: the roles of $\u03a9_m$ and $\u03c9_c$",
+            "authors": "Davide Pedrotti, Jun-Qian Jiang, Luis A. Escamilla, Simony Santos da Costa, Sunny Vagnozzi",
+            "summary": "The Hubble tension is inherently multidimensional, and bears important\nimplications for parameters beyond $H_0$. We discuss the key role of the matter\ndensity parameter $\\Omega_m$ and the physical cold dark matter density\n$\\omega_c$. We argue that once $\\Omega_m$ and the physical baryon density\n$\\omega_b$ are calibrated, through Baryon Acoustic Oscillations (BAO) and/or\nType Ia Supernovae (SNeIa) for $\\Omega_m$, and via Big Bang Nucleosynthesis for\n$\\omega_b$, any model raising $H_0$ inevitably raises $\\omega_c$ and, under\nminimal assumptions, the clustering parameter $S_8$. We explicitly verify that\nthis behaviour holds when analyzing recent BAO and SNeIa data. We argue that a\ncalibration of $\\Omega_m$ which is as reliable and model-independent as\npossible should be a priority in the Hubble tension discussion, and an\ninteresting possibility in this sense could be represented by galaxy cluster\ngas mass fraction measurements.",
+            "pdf_url": "http://arxiv.org/pdf/2408.04530v1",
+            "published": "2024-08-08 15:29:36+00:00",
+            "updated": "2024-08-08 15:29:36+00:00"
+        },
+        {
+            "title": "Selected Configuration Interaction for Resonances",
+            "authors": "Yann Damour, Anthony Scemama, F\u00e1bris Kossoski, Pierre-Fran\u00e7ois Loos",
+            "summary": "Electronic resonances are metastable states that can decay by electron loss.\nThey are ubiquitous across various fields of science, such as chemistry,\nphysics, and biology. However, current theoretical and computational models for\nresonances cannot yet rival the level of accuracy achieved by bound-state\nmethodologies. Here, we generalize selected configuration interaction (SCI) to\ntreat resonances using the complex absorbing potential (CAP) technique. By\nmodifying the selection procedure and the extrapolation protocol of standard\nSCI, the resulting CAP-SCI method yields resonance positions and widths of full\nconfiguration interaction quality. Initial results for the shape resonances of\n\\ce{N2-} and \\ce{CO-} reveal the important effect of high-order correlation,\nwhich shifts the values obtained with CAP-augmented equation-of-motion\ncoupled-cluster with singles and doubles by more than \\SI{0.1}{\\eV}. The\npresent CAP-SCI approach represents a cornerstone in the development of\nhighly-accurate methodologies for resonances.",
+            "pdf_url": "http://arxiv.org/pdf/2407.08576v2",
+            "published": "2024-07-11 15:02:06+00:00",
+            "updated": "2024-08-08 15:21:49+00:00"
+        }
+    ],
+    "Diffusion": [
+        {
+            "title": "Puppet-Master: Scaling Interactive Video Generation as a Motion Prior for Part-Level Dynamics",
+            "authors": "Ruining Li, Chuanxia Zheng, Christian Rupprecht, Andrea Vedaldi",
+            "summary": "We present Puppet-Master, an interactive video generative model that can\nserve as a motion prior for part-level dynamics. At test time, given a single\nimage and a sparse set of motion trajectories (i.e., drags), Puppet-Master can\nsynthesize a video depicting realistic part-level motion faithful to the given\ndrag interactions. This is achieved by fine-tuning a large-scale pre-trained\nvideo diffusion model, for which we propose a new conditioning architecture to\ninject the dragging control effectively. More importantly, we introduce the\nall-to-first attention mechanism, a drop-in replacement for the widely adopted\nspatial attention modules, which significantly improves generation quality by\naddressing the appearance and background issues in existing models. Unlike\nother motion-conditioned video generators that are trained on in-the-wild\nvideos and mostly move an entire object, Puppet-Master is learned from\nObjaverse-Animation-HQ, a new dataset of curated part-level motion clips. We\npropose a strategy to automatically filter out sub-optimal animations and\naugment the synthetic renderings with meaningful motion trajectories.\nPuppet-Master generalizes well to real images across various categories and\noutperforms existing methods in a zero-shot manner on a real-world benchmark.\nSee our project page for more results: vgg-puppetmaster.github.io.",
+            "pdf_url": "http://arxiv.org/pdf/2408.04631v1",
+            "published": "2024-08-08 17:59:38+00:00",
+            "updated": "2024-08-08 17:59:38+00:00"
+        },
+        {
+            "title": "Img-Diff: Contrastive Data Synthesis for Multimodal Large Language Models",
+            "authors": "Qirui Jiao, Daoyuan Chen, Yilun Huang, Yaliang Li, Ying Shen",
+            "summary": "High-performance Multimodal Large Language Models (MLLMs) rely heavily on\ndata quality. This study introduces a novel dataset named Img-Diff, designed to\nenhance fine-grained image recognition in MLLMs by leveraging insights from\ncontrastive learning and image difference captioning. By analyzing object\ndifferences between similar images, we challenge models to identify both\nmatching and distinct components. We utilize the Stable-Diffusion-XL model and\nadvanced image editing techniques to create pairs of similar images that\nhighlight object replacements. Our methodology includes a Difference Area\nGenerator for object differences identifying, followed by a Difference Captions\nGenerator for detailed difference descriptions. The result is a relatively\nsmall but high-quality dataset of \"object replacement\" samples. We use the the\nproposed dataset to fine-tune state-of-the-art (SOTA) MLLMs such as MGM-7B,\nyielding comprehensive improvements of performance scores over SOTA models that\ntrained with larger-scale datasets, in numerous image difference and Visual\nQuestion Answering tasks. For instance, our trained models notably surpass the\nSOTA models GPT-4V and Gemini on the MMVP benchmark. Besides, we investigate\nalternative methods for generating image difference data through \"object\nremoval\" and conduct thorough evaluation to confirm the dataset's diversity,\nquality, and robustness, presenting several insights on synthesis of such\ncontrastive dataset. To encourage further research and advance the field of\nmultimodal data synthesis and enhancement of MLLMs' fundamental capabilities\nfor image understanding, we release our codes and dataset at\nhttps://github.com/modelscope/data-juicer/tree/ImgDiff.",
+            "pdf_url": "http://arxiv.org/pdf/2408.04594v1",
+            "published": "2024-08-08 17:10:16+00:00",
+            "updated": "2024-08-08 17:10:16+00:00"
+        },
+        {
+            "title": "Long and Short Guidance in Score identity Distillation for One-Step Text-to-Image Generation",
+            "authors": "Mingyuan Zhou, Zhendong Wang, Huangjie Zheng, Hai Huang",
+            "summary": "Diffusion-based text-to-image generation models trained on extensive\ntext-image pairs have shown the capacity to generate photorealistic images\nconsistent with textual descriptions. However, a significant limitation of\nthese models is their slow sample generation, which requires iterative\nrefinement through the same network. In this paper, we enhance Score identity\nDistillation (SiD) by developing long and short classifier-free guidance (LSG)\nto efficiently distill pretrained Stable Diffusion models without using real\ntraining data. SiD aims to optimize a model-based explicit score matching loss,\nutilizing a score-identity-based approximation alongside the proposed LSG for\npractical computation. By training exclusively with fake images synthesized\nwith its one-step generator, SiD equipped with LSG rapidly improves FID and\nCLIP scores, achieving state-of-the-art FID performance while maintaining a\ncompetitive CLIP score. Specifically, its data-free distillation of Stable\nDiffusion 1.5 achieves a record low FID of 8.15 on the COCO-2014 validation\nset, with a CLIP score of 0.304 at an LSG scale of 1.5, and an FID of 9.56 with\na CLIP score of 0.313 at an LSG scale of 2. Our code and distilled one-step\ntext-to-image generators are available at\nhttps://github.com/mingyuanzhou/SiD-LSG.",
+            "pdf_url": "http://arxiv.org/pdf/2406.01561v3",
+            "published": "2024-06-03 17:44:11+00:00",
+            "updated": "2024-08-08 16:00:01+00:00"
+        },
+        {
+            "title": "Random Walk Diffusion for Efficient Large-Scale Graph Generation",
+            "authors": "Tobias Bernecker, Ghalia Rehawi, Francesco Paolo Casale, Janine Knauer-Arloth, Annalisa Marsico",
+            "summary": "Graph generation addresses the problem of generating new graphs that have a\ndata distribution similar to real-world graphs. While previous diffusion-based\ngraph generation methods have shown promising results, they often struggle to\nscale to large graphs. In this work, we propose ARROW-Diff (AutoRegressive\nRandOm Walk Diffusion), a novel random walk-based diffusion approach for\nefficient large-scale graph generation. Our method encompasses two components\nin an iterative process of random walk sampling and graph pruning. We\ndemonstrate that ARROW-Diff can scale to large graphs efficiently, surpassing\nother baseline methods in terms of both generation time and multiple graph\nstatistics, reflecting the high quality of the generated graphs.",
+            "pdf_url": "http://arxiv.org/pdf/2408.04461v1",
+            "published": "2024-08-08 13:42:18+00:00",
+            "updated": "2024-08-08 13:42:18+00:00"
+        },
+        {
+            "title": "Reinforcement Learning for Jump-Diffusions, with Financial Applications",
+            "authors": "Xuefeng Gao, Lingfei Li, Xun Yu Zhou",
+            "summary": "We study continuous-time reinforcement learning (RL) for stochastic control\nin which system dynamics are governed by jump-diffusion processes. We formulate\nan entropy-regularized exploratory control problem with stochastic policies to\ncapture the exploration--exploitation balance essential for RL. Unlike the pure\ndiffusion case initially studied by Wang et al. (2020), the derivation of the\nexploratory dynamics under jump-diffusions calls for a careful formulation of\nthe jump part. Through a theoretical analysis, we find that one can simply use\nthe same policy evaluation and $q$-learning algorithms in Jia and Zhou (2022a,\n2023), originally developed for controlled diffusions, without needing to check\na priori whether the underlying data come from a pure diffusion or a\njump-diffusion. However, we show that the presence of jumps ought to affect\nparameterizations of actors and critics in general. We investigate as an\napplication the mean--variance portfolio selection problem with stock price\nmodelled as a jump-diffusion, and show that both RL algorithms and\nparameterizations are invariant with respect to jumps. Finally, we present a\ndetailed study on applying the general theory to option hedging.",
+            "pdf_url": "http://arxiv.org/pdf/2405.16449v2",
+            "published": "2024-05-26 06:33:11+00:00",
+            "updated": "2024-08-08 13:32:10+00:00"
+        }
+    ]
+}

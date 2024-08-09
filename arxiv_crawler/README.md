@@ -40,6 +40,31 @@ TODO:
 
 
 
+
+## Update on 2024-08-09
+
+### Physics
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2024-08-08|2024-08-08|An empirical background modeling tool (TweedleDEE) applied to new Milky Way satellite Leo VI|Chance Hoskinson|[2408.04611v1](http://arxiv.org/pdf/2408.04611v1)|
+|2024-08-08|2024-08-08|Deriving the Topological Properties of the Magnetic Field of Coronal Mass Ejections from In Situ Measurements: Techniques|Nada Al-Haddad|[2408.04608v1](http://arxiv.org/pdf/2408.04608v1)|
+|2024-08-08|2024-08-08|A physical proof of the topological entanglement entropy inequality|Michael Levin|[2408.04592v1](http://arxiv.org/pdf/2408.04592v1)|
+|2024-08-08|2024-08-08|Time-cost-error trade-off relation in thermodynamics: The third law and beyond|Tan Van Vu|[2408.04576v1](http://arxiv.org/pdf/2408.04576v1)|
+|2024-08-08|2024-08-08|Modelling shallow confinement in tuneable quantum dots|Austris Akmentinsh|[2408.04565v1](http://arxiv.org/pdf/2408.04565v1)|
+|2024-04-08|2024-08-08|From enrollment to exams: Perceived stress dynamics among first-year physics students|Simon Zacharias Lahme|[2404.05682v3](http://arxiv.org/pdf/2404.05682v3)|
+|2024-08-08|2024-08-08|Interference Resurrection of the $τ$ Dipole through Quantum Tomography|Prisco Lo Chiatto|[2408.04553v1](http://arxiv.org/pdf/2408.04553v1)|
+|2024-08-08|2024-08-08|Synchronous Multi-modal Semantic CommunicationSystem with Packet-level Coding|Yun Tian|[2408.04535v1](http://arxiv.org/pdf/2408.04535v1)|
+|2024-08-08|2024-08-08|Multidimensionality of the Hubble tension: the roles of $Ω_m$ and $ω_c$|Davide Pedrotti|[2408.04530v1](http://arxiv.org/pdf/2408.04530v1)|
+|2024-07-11|2024-08-08|Selected Configuration Interaction for Resonances|Yann Damour|[2407.08576v2](http://arxiv.org/pdf/2407.08576v2)|
+
+### Diffusion
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2024-08-08|2024-08-08|Puppet-Master: Scaling Interactive Video Generation as a Motion Prior for Part-Level Dynamics|Ruining Li|[2408.04631v1](http://arxiv.org/pdf/2408.04631v1)|
+|2024-08-08|2024-08-08|Img-Diff: Contrastive Data Synthesis for Multimodal Large Language Models|Qirui Jiao|[2408.04594v1](http://arxiv.org/pdf/2408.04594v1)|
+|2024-06-03|2024-08-08|Long and Short Guidance in Score identity Distillation for One-Step Text-to-Image Generation|Mingyuan Zhou|[2406.01561v3](http://arxiv.org/pdf/2406.01561v3)|
+|2024-08-08|2024-08-08|Random Walk Diffusion for Efficient Large-Scale Graph Generation|Tobias Bernecker|[2408.04461v1](http://arxiv.org/pdf/2408.04461v1)|
+|2024-05-26|2024-08-08|Reinforcement Learning for Jump-Diffusions, with Financial Applications|Xuefeng Gao|[2405.16449v2](http://arxiv.org/pdf/2405.16449v2)|
 ## Update on 2024-08-07
 
 ### Physics
