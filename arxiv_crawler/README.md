@@ -41,6 +41,31 @@ TODO:
 
 
 
+
+## Update on 2024-08-13
+
+### Physics
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2024-08-12|2024-08-12|Non-Maxwellian Ion Distribution in the Equatorial and Auroral Electrojets|Rattanakorn Koontaweepunya|[2408.06339v1](http://arxiv.org/pdf/2408.06339v1)|
+|2024-06-06|2024-08-12|Nicolai maps for super Yang-Mills on the light cone|Olaf Lechtenfeld|[2406.04406v2](http://arxiv.org/pdf/2406.04406v2)|
+|2024-08-12|2024-08-12|Dynamical resource theory of incompatibility preservability|Chung-Yun Hsieh|[2408.06315v1](http://arxiv.org/pdf/2408.06315v1)|
+|2024-08-12|2024-08-12|Inverse designing metamaterials with programmable nonlinear functional responses in graph space|Marco Maurizi|[2408.06300v1](http://arxiv.org/pdf/2408.06300v1)|
+|2024-08-12|2024-08-12|Stabilizer Entanglement Distillation and Efficient Fault-Tolerant Encoder|Yu Shi|[2408.06299v1](http://arxiv.org/pdf/2408.06299v1)|
+|2023-12-04|2024-08-12|Adjoint-Based Enforcement of State Constraints in PDE Optimization Problems|Pritpal Matharu|[2312.01929v2](http://arxiv.org/pdf/2312.01929v2)|
+|2024-08-12|2024-08-12|DUNE: A Machine Learning Deep UNet++ based Ensemble Approach to Monthly, Seasonal and Annual Climate Forecasting|Pratik Shukla|[2408.06262v1](http://arxiv.org/pdf/2408.06262v1)|
+|2024-08-06|2024-08-12|Quantum Simulations of Chemistry in First Quantization with any Basis Set|Timothy N. Georges|[2408.03145v2](http://arxiv.org/pdf/2408.03145v2)|
+|2024-08-12|2024-08-12|One-loop impact factors for heavy quarkonium production: $S$-wave case|Maxim Nefedov|[2408.06234v1](http://arxiv.org/pdf/2408.06234v1)|
+|2024-08-12|2024-08-12|A Digital Twin Framework Utilizing Machine Learning for Robust Predictive Maintenance: Enhancing Tire Health Monitoring|Vispi Karkaria|[2408.06220v1](http://arxiv.org/pdf/2408.06220v1)|
+
+### Diffusion
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2024-08-12|2024-08-12|The AI Scientist: Towards Fully Automated Open-Ended Scientific Discovery|Chris Lu|[2408.06292v1](http://arxiv.org/pdf/2408.06292v1)|
+|2024-02-06|2024-08-12|Unified Discrete Diffusion for Categorical Data|Lingxiao Zhao|[2402.03701v2](http://arxiv.org/pdf/2402.03701v2)|
+|2023-05-23|2024-08-12|Control-A-Video: Controllable Text-to-Video Diffusion Models with Motion Prior and Reward Feedback Learning|Weifeng Chen|[2305.13840v3](http://arxiv.org/pdf/2305.13840v3)|
+|2024-06-13|2024-08-12|Between Randomness and Arbitrariness: Some Lessons for Reliable Machine Learning at Scale|A. Feder Cooper|[2406.09548v2](http://arxiv.org/pdf/2406.09548v2)|
+|2023-09-24|2024-08-11|Residual Corrective Diffusion Modeling for Km-scale Atmospheric Downscaling|Morteza Mardani|[2309.15214v4](http://arxiv.org/pdf/2309.15214v4)|
 ## Update on 2024-08-09
 
 ### Physics
