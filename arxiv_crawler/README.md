@@ -42,6 +42,31 @@ TODO:
 
 
 
+
+## Update on 2024-08-15
+
+### Physics
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2024-08-14|2024-08-14|Elliptic cohomology and quantum field theory|Daniel Berwick-Evans|[2408.07693v1](http://arxiv.org/pdf/2408.07693v1)|
+|2024-04-17|2024-08-14|Data-driven computation of adjoint sensitivities without adjoint solvers: An application to thermoacoustics|Defne E. Ozan|[2404.11738v2](http://arxiv.org/pdf/2404.11738v2)|
+|2024-08-14|2024-08-14|Enabling two-dimensional electron gas with high room-temperature electron mobility exceeding 100 cm$^2$/Vs at a perovskite oxide interface|Georg Hoffmann|[2408.07659v1](http://arxiv.org/pdf/2408.07659v1)|
+|2024-08-14|2024-08-14|Exploring New Physics with PandaX-4T Low Energy Electronic Recoil Data|PandaX Collaboration|[2408.07641v1](http://arxiv.org/pdf/2408.07641v1)|
+|2024-08-14|2024-08-14|Neural Quantum States and Peaked Molecular Wave Functions: Curse or Blessing?|Aleksei Malyshev|[2408.07625v1](http://arxiv.org/pdf/2408.07625v1)|
+|2024-01-11|2024-08-14|Rotational covariance restricts available quantum states|Fynn Otto|[2401.06064v2](http://arxiv.org/pdf/2401.06064v2)|
+|2024-08-14|2024-08-14|Measurement of the Drell--Yan forward-backward asymmetry and of the effective leptonic weak mixing angle in proton-proton collisions at $\sqrt{s}$ = 13 TeV|CMS Collaboration|[2408.07622v1](http://arxiv.org/pdf/2408.07622v1)|
+|2015-10-11|2024-08-14|Quantum Advantages in (n,d)->1 Random Access Codes|Andris Ambainis|[1510.03045v3](http://arxiv.org/pdf/1510.03045v3)|
+|2024-08-14|2024-08-14|Chiral-Extended Photon-Emitter Dressed States in Non-Hermitian Topological Baths|Zhao-Fan Cai|[2408.07603v1](http://arxiv.org/pdf/2408.07603v1)|
+|2024-03-11|2024-08-14|Ensemble inequivalence in long-range quantum systems|Nicolò Defenu|[2403.06673v2](http://arxiv.org/pdf/2403.06673v2)|
+
+### Diffusion
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2024-08-14|2024-08-14|Drug Discovery SMILES-to-Pharmacokinetics Diffusion Models with Deep Molecular Understanding|Bing Hu|[2408.07636v1](http://arxiv.org/pdf/2408.07636v1)|
+|2024-08-14|2024-08-14|PeriodWave: Multi-Period Flow Matching for High-Fidelity Waveform Generation|Sang-Hoon Lee|[2408.07547v1](http://arxiv.org/pdf/2408.07547v1)|
+|2024-08-14|2024-08-14|DifuzCam: Replacing Camera Lens with a Mask and a Diffusion Model|Erez Yosef|[2408.07541v1](http://arxiv.org/pdf/2408.07541v1)|
+|2024-08-14|2024-08-14|Unsupervised Blind Joint Dereverberation and Room Acoustics Estimation with Diffusion Models|Jean-Marie Lemercier|[2408.07472v1](http://arxiv.org/pdf/2408.07472v1)|
+|2024-08-14|2024-08-14|GRIF-DM: Generation of Rich Impression Fonts using Diffusion Models|Lei Kang|[2408.07259v1](http://arxiv.org/pdf/2408.07259v1)|
 ## Update on 2024-08-13
 
 ### Physics
