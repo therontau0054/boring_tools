@@ -43,6 +43,31 @@ TODO:
 
 
 
+
+## Update on 2024-08-17
+
+### Physics
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2024-08-13|2024-08-15|Emergent Non-Invertible Symmetries Bridging UV and IR Phases -- The Adjoint QCD Example|Michele Del Zotto|[2408.07123v2](http://arxiv.org/pdf/2408.07123v2)|
+|2024-08-15|2024-08-15|A universal neutral-atom quantum computer with individual optical addressing and non-destructive readout|A. G. Radnaev|[2408.08288v1](http://arxiv.org/pdf/2408.08288v1)|
+|2024-08-15|2024-08-15|Weak gauge PDEs|Maxim Grigoriev|[2408.08287v1](http://arxiv.org/pdf/2408.08287v1)|
+|2024-08-15|2024-08-15|Global Stellarator Coil Optimization with Quadratic Constraints and Objectives|Lanke Fu|[2408.08267v1](http://arxiv.org/pdf/2408.08267v1)|
+|2024-08-15|2024-08-15|Bayesian Inference analysis of jet quenching using inclusive jet and hadron suppression measurements|R. Ehlers|[2408.08247v1](http://arxiv.org/pdf/2408.08247v1)|
+|2024-08-15|2024-08-15|From Entanglement Purification Scheduling to Fidelity-constrained Entanglement Routing|Ziyue Jia|[2408.08243v1](http://arxiv.org/pdf/2408.08243v1)|
+|2024-07-16|2024-08-15|The Threats of Embodied Multimodal LLMs: Jailbreaking Robotic Manipulation in the Physical World|Hangtao Zhang|[2407.20242v2](http://arxiv.org/pdf/2407.20242v2)|
+|2024-08-15|2024-08-15|The Dawn of KAN in Image-to-Image (I2I) Translation: Integrating Kolmogorov-Arnold Networks with GANs for Unpaired I2I Translation|Arpan Mahara|[2408.08216v1](http://arxiv.org/pdf/2408.08216v1)|
+|2023-12-29|2024-08-15|Scalar-Scaffolded Gluons and the Combinatorial Origins of Yang-Mills Theory|Nima Arkani-Hamed|[2401.00041v2](http://arxiv.org/pdf/2401.00041v2)|
+|2024-08-15|2024-08-15|Data-driven identification of latent port-Hamiltonian systems|Johannes Rettberg|[2408.08185v1](http://arxiv.org/pdf/2408.08185v1)|
+
+### Diffusion
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2024-08-15|2024-08-15|Understanding the Local Geometry of Generative Model Manifolds|Ahmed Imtiaz Humayun|[2408.08307v1](http://arxiv.org/pdf/2408.08307v1)|
+|2024-08-15|2024-08-15|Derivative-Free Guidance in Continuous and Discrete Diffusion Models with Soft Value-Based Decoding|Xiner Li|[2408.08252v1](http://arxiv.org/pdf/2408.08252v1)|
+|2024-08-15|2024-08-15|Not Every Image is Worth a Thousand Words: Quantifying Originality in Stable Diffusion|Adi Haviv|[2408.08184v1](http://arxiv.org/pdf/2408.08184v1)|
+|2023-06-01|2024-08-15|Interactive Character Control with Auto-Regressive Motion Diffusion Models|Yi Shi|[2306.00416v3](http://arxiv.org/pdf/2306.00416v3)|
+|2024-08-15|2024-08-15|Conditional Brownian Bridge Diffusion Model for VHR SAR to Optical Image Translation|Seon-Hoon Kim|[2408.07947v1](http://arxiv.org/pdf/2408.07947v1)|
 ## Update on 2024-08-15
 
 ### Physics
