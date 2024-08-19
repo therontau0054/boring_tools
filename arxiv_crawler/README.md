@@ -44,6 +44,31 @@ TODO:
 
 
 
+
+## Update on 2024-08-19
+
+### Physics
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2024-08-15|2024-08-16|Integrals of Products of Bessel Functions: An Insight from the Physics of Bloch Electrons|J. Covey|[2408.08155v2](http://arxiv.org/pdf/2408.08155v2)|
+|2024-02-08|2024-08-16|Measurable entanglement criterion for extended Bose-Hubbard model|Mehmet Emre Tasgin|[2402.05477v2](http://arxiv.org/pdf/2402.05477v2)|
+|2024-08-16|2024-08-16|Combination of searches for singly produced vector-like top quarks in pp collisions at $\sqrt{s} = 13$ TeV with the ATLAS detector|ATLAS Collaboration|[2408.08789v1](http://arxiv.org/pdf/2408.08789v1)|
+|2024-06-24|2024-08-16|The Born rule for quantum probabilities from Newton's third law|S. S. Afonin|[2408.03941v2](http://arxiv.org/pdf/2408.03941v2)|
+|2024-08-16|2024-08-16|Plasma Rotation Induced by Biasing in Axially Symmetric Mirrors|Alexei D. Beklemishev|[2408.08777v1](http://arxiv.org/pdf/2408.08777v1)|
+|2023-12-31|2024-08-16|Analytical Critical Phenomena of Rotating Regular AdS Black Holes with Dark Energy|Hayat. Laassiri|[2401.00522v2](http://arxiv.org/pdf/2401.00522v2)|
+|2024-07-04|2024-08-16|Violation of causality in $f(Q)$ gravity|A. M. Silva|[2407.04750v2](http://arxiv.org/pdf/2407.04750v2)|
+|2024-08-16|2024-08-16|Towards Higgs and $Z$ boson plus jet distributions at NLL/NLO$^+$|Francesco Giovanni Celiberto|[2408.08757v1](http://arxiv.org/pdf/2408.08757v1)|
+|2024-03-01|2024-08-16|Characterizing Signalling: Connections between Causal Inference and Space-time Geometry|Maarten Grothus|[2403.00916v2](http://arxiv.org/pdf/2403.00916v2)|
+|2024-08-16|2024-08-16|Higgs production at NLL accuracy in the BFKL approach|Francesco Giovanni Celiberto|[2408.08731v1](http://arxiv.org/pdf/2408.08731v1)|
+
+### Diffusion
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2024-05-22|2024-08-16|Learning Diffusion Priors from Observations by Expectation Maximization|François Rozet|[2405.13712v3](http://arxiv.org/pdf/2405.13712v3)|
+|2024-02-29|2024-08-16|CollaFuse: Navigating Limited Resources and Privacy in Collaborative Generative AI|Domenique Zipperling|[2402.19105v2](http://arxiv.org/pdf/2402.19105v2)|
+|2024-08-16|2024-08-16|Modeling the Neonatal Brain Development Using Implicit Neural Representations|Florentin Bieder|[2408.08647v1](http://arxiv.org/pdf/2408.08647v1)|
+|2024-08-16|2024-08-16|Generative Dataset Distillation Based on Diffusion Model|Duo Su|[2408.08610v1](http://arxiv.org/pdf/2408.08610v1)|
+|2024-01-06|2024-08-16|Fair Sampling in Diffusion Models through Switching Mechanism|Yujin Choi|[2401.03140v4](http://arxiv.org/pdf/2401.03140v4)|
 ## Update on 2024-08-17
 
 ### Physics

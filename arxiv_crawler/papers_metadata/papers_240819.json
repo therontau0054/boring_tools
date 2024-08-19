@@ -1,0 +1,126 @@
+{
+    "Physics": [
+        {
+            "title": "Integrals of Products of Bessel Functions: An Insight from the Physics of Bloch Electrons",
+            "authors": "J. Covey, D. L. Maslov",
+            "summary": "Integrals of products of Bessel functions exhibit an intriguing feature:\nunder certain conditions on the parameters specifying the integrand, they\nvanish identically. We provide a physical interpretation of this feature in the\ncontext of both single-particle and many-body properties of electrons on a\nlattice (\"Bloch electrons\"), namely, in terms of their density of states and\numklapp scattering rate. (In an umklapp event, the change in the momentum of\ntwo colliding electrons is equal to a reciprocal lattice vector, which gives\nrise to a finite resistivity due to electron-electron interaction.) In this\ncontext, the vanishing of an integral follows simply from the condition that\neither the density of states vanishes due to the electron energy lying outside\nthe band in which free propagation of electron waves is allowed, or that an\numklapp process is kinematically forbidden due to the Fermi surface being\nsmaller than a critical value.",
+            "pdf_url": "http://arxiv.org/pdf/2408.08155v2",
+            "published": "2024-08-15 13:44:37+00:00",
+            "updated": "2024-08-16 17:09:46+00:00"
+        },
+        {
+            "title": "Measurable entanglement criterion for extended Bose-Hubbard model",
+            "authors": "Mehmet Emre Tasgin, Hyunchul Nha",
+            "summary": "Cold atoms in optical lattice represent a quantum system of fundamental\nimportance as they enable the study of many-body physics in a controllable way.\nIt is thus essential to develop theoretical and experimental tools to explore\nquantum correlation in such systems to advance our understanding of many-body\ninteractions. While previous works have identified some profound aspects of\nquantum entanglement via e.g. entanglement entropy, there exists a critical\ndemand to have an experimentally accessible tool to investigate many-body\nquantum entanglement in a broad context. We present an entanglement criterion\ncharacterizing collective entanglement among lattice sites and enabling\nexperimental observation readily. Our criterion witnesses phase transitions\nsuch as Mott insulator--superfluid and Mott insulator--charge density wave\ntransitions in a measurable way and can be experimentally tested via Raman\nscattering or time-of-flight expansion approach thus within the reach of\ncurrent technology.",
+            "pdf_url": "http://arxiv.org/pdf/2402.05477v2",
+            "published": "2024-02-08 08:09:14+00:00",
+            "updated": "2024-08-16 16:36:05+00:00"
+        },
+        {
+            "title": "Combination of searches for singly produced vector-like top quarks in pp collisions at $\\sqrt{s} = 13$ TeV with the ATLAS detector",
+            "authors": "ATLAS Collaboration",
+            "summary": "A combination of searches for the single production of vector-like top quarks\n($T$) is presented. These analyses are based on proton$-$proton collisions at\n$\\sqrt{s}=13$ TeV recorded in 2015$-$2018 with the ATLAS detector at the Large\nHadron Collider, corresponding to an integrated luminosity of 139 fb$^{-1}$.\nThe $T$-quark decay modes considered in this combination are into a top quark\nand either a Standard Model Higgs boson or a $Z$ boson ($T \\to Ht$ and $T \\to\nZt$). The individual searches used in the combination are differentiated by the\nnumber of leptons ($e$, $\\mu$) in the final state. The observed data are found\nto be in good agreement with the Standard Model background prediction.\nInterpretations are provided for a range of masses and couplings of the\nvector-like top quark for benchmark models and generalized representations in\nterms of 95% confidence level limits. For a benchmark signal prediction of a\nvector-like top quark SU2 singlet with electroweak coupling, $\\kappa$, of 0.5,\nmasses below 2.1 TeV are excluded, resulting in the most restrictive limits to\ndate.",
+            "pdf_url": "http://arxiv.org/pdf/2408.08789v1",
+            "published": "2024-08-16 15:01:56+00:00",
+            "updated": "2024-08-16 15:01:56+00:00"
+        },
+        {
+            "title": "The Born rule for quantum probabilities from Newton's third law",
+            "authors": "S. S. Afonin",
+            "summary": "According to the Born rule, the probability density in quantum theory is\ndetermined by the square of the wave function. A generally accepted derivation\nof this rule has not yet been proposed. In the given work, a simple physical\npicture is constructed within which the Born rule arises in a natural way. In\nthe proposed scheme, the interaction of a particle with a measuring apparatus\nis equivalent to creation of a \"mirror image\" of particle wave function in the\nspace region of interaction. The observable quantity is the product of the\nparticle wave function and its \"image\". The phase of the latter is reversed due\nto Newton's third law, thus leading to the Born rule.",
+            "pdf_url": "http://arxiv.org/pdf/2408.03941v2",
+            "published": "2024-06-24 15:47:49+00:00",
+            "updated": "2024-08-16 14:54:23+00:00"
+        },
+        {
+            "title": "Plasma Rotation Induced by Biasing in Axially Symmetric Mirrors",
+            "authors": "Alexei D. Beklemishev",
+            "summary": "Physics of the plasma rotation driven by biasing in linear traps is analyzed\nfor two limiting cases. The first, relevant for traps with decent plasma\nparameters, considers the line-tying effects to be responsible for the drive as\nwell as for the dissipation of the angular momentum. Meanwhile, in long and\nthin traps with low plasma parameters or developed turbulence the radial\ntransport of the angular momentum becomes its primary loss channel. The\nmomentum flux goes into the scrape-off layer; that makes conditions there\npartially responsible for the achievable rotation limits.",
+            "pdf_url": "http://arxiv.org/pdf/2408.08777v1",
+            "published": "2024-08-16 14:39:15+00:00",
+            "updated": "2024-08-16 14:39:15+00:00"
+        },
+        {
+            "title": "Analytical Critical Phenomena of Rotating Regular AdS Black Holes with Dark Energy",
+            "authors": "Hayat. Laassiri, Ahmed. Daassou, Rachid. Benbrik",
+            "summary": "This study focuses on precisely calculating analytical critical points for\nrotating regular AdS black holes, examining scenarios with and without external\ndark field contributions. Importantly, it represents the first attempt to\ncompute critical points for this specific class of rotating black holes. Our\nprimary focus is on investigating the impact resulting from variations in the\ncharge of nonlinear electrodynamics on the critical phenomena of rotating\nregular AdS black holes, while also incorporating the influence of quintessence\nfield contributions. The analytical investigation is concentrated on the\nhorizon radius, employing two distinct approaches to simplify the complexity\nand length of the calculations. Furthermore, our examination extends to\ndeciphering the intricate relationship between dark energy and critical\nphenomena. This involves visually portraying a range of critical behaviors and\ndetailing a recent discovery regarding how the intensity of quintessence\naffects phase transitions. The shift in these transitions conform to either a\nconcave or convex function, a characteristic dependent on the sign of\nquintessence intensity.",
+            "pdf_url": "http://arxiv.org/pdf/2401.00522v2",
+            "published": "2023-12-31 15:25:26+00:00",
+            "updated": "2024-08-16 14:37:26+00:00"
+        },
+        {
+            "title": "Violation of causality in $f(Q)$ gravity",
+            "authors": "A. M. Silva, M. J. Rebou\u00e7as, N. A. Lemos",
+            "summary": "There is ongoing interest in the nonmetricity formulation of gravity. The\nnonlinear extension of the theory, called $f(Q)$ gravity, has recently been\nproposed and offers a promising avenue for addressing some of the long-standing\nchallenges in cosmology and fundamental physics. A number of solutions have\nalready been found that have confirmed the usefulness of the theory for\nastrophysics and cosmology. Motivated by earlier work on G\\\"odel-type\nspacetimes we investigate whether $f(Q)$ gravity admits such cosmological\nsolutions, which entail causality violation. In the coincident gauge, which is\nshown to be a legitimate gauge because the connection field equations are\nsatisfied, we find that G\\\"odel-type metrics are allowed by this modified\ngravity theory for any function $f(Q)$. As a matter of fact, out of all\nG\\\"odel-type metrics only G\\\"odel's original model is compatible with $f(Q)$\ngravity, implying violation of causality. The requirement that energy\nconditions be obeyed by the matter content leads to mild restrictions on the\nfunction $f(Q)$.",
+            "pdf_url": "http://arxiv.org/pdf/2407.04750v2",
+            "published": "2024-07-04 22:09:57+00:00",
+            "updated": "2024-08-16 14:25:13+00:00"
+        },
+        {
+            "title": "Towards Higgs and $Z$ boson plus jet distributions at NLL/NLO$^+$",
+            "authors": "Francesco Giovanni Celiberto, Luigi Delle Rose, Michael Fucilla, Gabriele Gatto, Alessandro Papa",
+            "summary": "We present novel predictions for rapidity and transverse-momentum\ndistributions sensitive to the emission of a Higgs boson accompanied by a jet\nin proton collisions, calculated within the NLO fixed order in QCD and matched\nwith the next-to leading energy-logarithmic accuracy. We also highlight first\nadvancements in the extension of our analysis to the $Z$-boson case. We come\nout with the message that the improvement of fixed-order calculations on Higgs-\nand $Z$-boson plus jet distributions is a required step to reach the precision\nlevel of the description of observables relevant for Higgs and electroweak\nphysics at current LHC energies and nominal FCC ones.",
+            "pdf_url": "http://arxiv.org/pdf/2408.08757v1",
+            "published": "2024-08-16 13:57:26+00:00",
+            "updated": "2024-08-16 13:57:26+00:00"
+        },
+        {
+            "title": "Characterizing Signalling: Connections between Causal Inference and Space-time Geometry",
+            "authors": "Maarten Grothus, V. Vilasini",
+            "summary": "Causality is pivotal to our understanding of the world, presenting itself in\ndifferent forms: information-theoretic and relativistic, the former linked to\nthe flow of information, the latter to the structure of space-time. Leveraging\na framework introduced in PRA, 106, 032204 (2022), which formally connects\nthese two notions in general physical theories, we study their interplay. Here,\ninformation-theoretic causality is defined through a causal modelling approach.\nFirst, we improve the characterization of information-theoretic signalling as\ndefined through so-called affects relations. Specifically, we provide\nconditions for identifying redundancies in different parts of such a relation,\nintroducing techniques for causal inference in unfaithful causal models (where\nthe observable data does not \"faithfully\" reflect the causal dependences). In\nparticular, this demonstrates the possibility of causal inference using the\nabsence of signalling between certain nodes. Second, we define an\norder-theoretic property called conicality, showing that it is satisfied for\nlight cones in Minkowski space-times with $d>1$ spatial dimensions but violated\nfor $d=1$. Finally, we study the embedding of information-theoretic causal\nmodels in space-time without violating relativistic principles such as no\nsuperluminal signalling (NSS). In general, we observe that constraints imposed\nby NSS in a space-time and those imposed by purely information-theoretic causal\ninference behave differently. We then prove a correspondence between conical\nspace-times and faithful causal models: in both cases, there emerges a parallel\nbetween these two types of constraints. This indicates a connection between\ninformational and geometric notions of causality, and offers new insights for\nstudying the relations between the principles of NSS and no causal loops in\ndifferent space-time geometries and theories of information processing.",
+            "pdf_url": "http://arxiv.org/pdf/2403.00916v2",
+            "published": "2024-03-01 19:00:45+00:00",
+            "updated": "2024-08-16 13:52:00+00:00"
+        },
+        {
+            "title": "Higgs production at NLL accuracy in the BFKL approach",
+            "authors": "Francesco Giovanni Celiberto, Luigi Delle Rose, Michael Fucilla, Gabriele Gatto, Dmitry Yu. Ivanov, Mohammed M. A. Mohammed, Alessandro Papa",
+            "summary": "Precision physics in the Higgs sector has been one of the main challenges of\nparticle physics in the recent years. The pure fixed-order calculations\nentering the collinear factorization framework, which have been pushed up to\nnext-cube-leading-order, are not able to describe the entire kinematic\nspectrum. In particular sectors, they have to be necessarily enhanced by\nall-order resummations. In the so-called semi-hard regime, large energy-type\nlogarithms spoil the perturbative convergence of the series and must be\nresummed to all orders. This resummation is a core ingredient for a correct\ndescription of the inclusive hadroproduction of a forward Higgs boson in the\nlimit of small Bjorken $x$, as well as for a precision study of inclusive\nforward emissions of a Higgs boson in association with a backward identified\nobject. A complete resummation for these processes can be achieved at the at\nnext-to-leading logarithmic accuracy thanks to the\nBalitsky-Fadin-Kuraev-Lipatov approach. In the present work we present and\ndiscuss a series of recent phenomenological results within a partial\nnext-to-leading accuracy. They include the analysis of rapidity and\nazimuthal-angle differential rates for Higgs plus jet and Higgs plus charm\nreactions in forward and ultraforward directions of rapidity at the LHC.",
+            "pdf_url": "http://arxiv.org/pdf/2408.08731v1",
+            "published": "2024-08-16 13:31:46+00:00",
+            "updated": "2024-08-16 13:31:46+00:00"
+        }
+    ],
+    "Diffusion": [
+        {
+            "title": "Learning Diffusion Priors from Observations by Expectation Maximization",
+            "authors": "Fran\u00e7ois Rozet, G\u00e9r\u00f4me Andry, Fran\u00e7ois Lanusse, Gilles Louppe",
+            "summary": "Diffusion models recently proved to be remarkable priors for Bayesian inverse\nproblems. However, training these models typically requires access to large\namounts of clean data, which could prove difficult in some settings. In this\nwork, we present a novel method based on the expectation-maximization algorithm\nfor training diffusion models from incomplete and noisy observations only.\nUnlike previous works, our method leads to proper diffusion models, which is\ncrucial for downstream tasks. As part of our method, we propose and motivate an\nimproved posterior sampling scheme for unconditional diffusion models. We\npresent empirical evidence supporting the effectiveness of our method.",
+            "pdf_url": "http://arxiv.org/pdf/2405.13712v3",
+            "published": "2024-05-22 15:04:06+00:00",
+            "updated": "2024-08-16 14:54:02+00:00"
+        },
+        {
+            "title": "CollaFuse: Navigating Limited Resources and Privacy in Collaborative Generative AI",
+            "authors": "Domenique Zipperling, Simeon Allmendinger, Lukas Struppek, Niklas K\u00fchl",
+            "summary": "In the landscape of generative artificial intelligence, diffusion-based\nmodels present challenges for socio-technical systems in data requirements and\nprivacy. Traditional approaches like federated learning distribute the learning\nprocess but strain individual clients, especially with constrained resources\n(e.g., edge devices). In response to these challenges, we introduce CollaFuse,\na novel framework inspired by split learning. Tailored for efficient and\ncollaborative use of denoising diffusion probabilistic models, CollaFuse\nenables shared server training and inference, alleviating client computational\nburdens. This is achieved by retaining data and computationally inexpensive GPU\nprocesses locally at each client while outsourcing the computationally\nexpensive processes to the shared server. Demonstrated in a healthcare context,\nCollaFuse enhances privacy by highly reducing the need for sensitive\ninformation sharing. These capabilities hold the potential to impact various\napplication areas, such as the design of edge computing solutions, healthcare\nresearch, or autonomous driving. In essence, our work advances distributed\nmachine learning, shaping the future of collaborative GenAI networks.",
+            "pdf_url": "http://arxiv.org/pdf/2402.19105v2",
+            "published": "2024-02-29 12:36:10+00:00",
+            "updated": "2024-08-16 11:28:13+00:00"
+        },
+        {
+            "title": "Modeling the Neonatal Brain Development Using Implicit Neural Representations",
+            "authors": "Florentin Bieder, Paul Friedrich, H\u00e9l\u00e8ne Corbaz, Alicia Durrer, Julia Wolleb, Philippe C. Cattin",
+            "summary": "The human brain undergoes rapid development during the third trimester of\npregnancy. In this work, we model the neonatal development of the infant brain\nin this age range. As a basis, we use MR images of preterm- and term-birth\nneonates from the developing human connectome project (dHCP). We propose a\nneural network, specifically an implicit neural representation (INR), to\npredict 2D- and 3D images of varying time points. In order to model a\nsubject-specific development process, it is necessary to disentangle the age\nfrom the subjects' identity in the latent space of the INR. We propose two\nmethods, Subject Specific Latent Vectors (SSL) and Stochastic Global Latent\nAugmentation (SGLA), enabling this disentanglement. We perform an analysis of\nthe results and compare our proposed model to an age-conditioned denoising\ndiffusion model as a baseline. We also show that our method can be applied in a\nmemory-efficient way, which is especially important for 3D data.",
+            "pdf_url": "http://arxiv.org/pdf/2408.08647v1",
+            "published": "2024-08-16 10:22:54+00:00",
+            "updated": "2024-08-16 10:22:54+00:00"
+        },
+        {
+            "title": "Generative Dataset Distillation Based on Diffusion Model",
+            "authors": "Duo Su, Junjie Hou, Guang Li, Ren Togo, Rui Song, Takahiro Ogawa, Miki Haseyama",
+            "summary": "This paper presents our method for the generative track of The First Dataset\nDistillation Challenge at ECCV 2024. Since the diffusion model has become the\nmainstay of generative models because of its high-quality generative effects,\nwe focus on distillation methods based on the diffusion model. Considering that\nthe track can only generate a fixed number of images in 10 minutes using a\ngenerative model for CIFAR-100 and Tiny-ImageNet datasets, we need to use a\ngenerative model that can generate images at high speed. In this study, we\nproposed a novel generative dataset distillation method based on Stable\nDiffusion. Specifically, we use the SDXL-Turbo model which can generate images\nat high speed and quality. Compared to other diffusion models that can only\ngenerate images per class (IPC) = 1, our method can achieve an IPC = 10 for\nTiny-ImageNet and an IPC = 20 for CIFAR-100, respectively. Additionally, to\ngenerate high-quality distilled datasets for CIFAR-100 and Tiny-ImageNet, we\nuse the class information as text prompts and post data augmentation for the\nSDXL-Turbo model. Experimental results show the effectiveness of the proposed\nmethod, and we achieved third place in the generative track of the ECCV 2024 DD\nChallenge. Codes are available at https://github.com/Guang000/BANKO.",
+            "pdf_url": "http://arxiv.org/pdf/2408.08610v1",
+            "published": "2024-08-16 08:52:02+00:00",
+            "updated": "2024-08-16 08:52:02+00:00"
+        },
+        {
+            "title": "Fair Sampling in Diffusion Models through Switching Mechanism",
+            "authors": "Yujin Choi, Jinseong Park, Hoki Kim, Jaewook Lee, Saeroom Park",
+            "summary": "Diffusion models have shown their effectiveness in generation tasks by\nwell-approximating the underlying probability distribution. However, diffusion\nmodels are known to suffer from an amplified inherent bias from the training\ndata in terms of fairness. While the sampling process of diffusion models can\nbe controlled by conditional guidance, previous works have attempted to find\nempirical guidance to achieve quantitative fairness. To address this\nlimitation, we propose a fairness-aware sampling method called\n\\textit{attribute switching} mechanism for diffusion models. Without additional\ntraining, the proposed sampling can obfuscate sensitive attributes in generated\ndata without relying on classifiers. We mathematically prove and experimentally\ndemonstrate the effectiveness of the proposed method on two key aspects: (i)\nthe generation of fair data and (ii) the preservation of the utility of the\ngenerated data.",
+            "pdf_url": "http://arxiv.org/pdf/2401.03140v4",
+            "published": "2024-01-06 06:55:26+00:00",
+            "updated": "2024-08-16 08:27:00+00:00"
+        }
+    ]
+}
