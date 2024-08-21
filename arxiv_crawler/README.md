@@ -45,6 +45,36 @@ TODO:
 
 
 
+
+## Update on 2024-08-21
+
+### Physics
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2024-08-20|2024-08-20|Quantum Machine Learning Algorithms for Anomaly Detection: a Survey|Sebastiano Corli|[2408.11047v1](http://arxiv.org/pdf/2408.11047v1)|
+|2024-08-20|2024-08-20|Representation Theory of Solitons|Clay Cordova|[2408.11045v1](http://arxiv.org/pdf/2408.11045v1)|
+|2024-08-20|2024-08-20|Search for magnetic monopole pair production in ultraperipheral Pb+Pb collisions at $\sqrt{s_{_\textrm{NN}}}=5.36$ TeV with the ATLAS detector at the LHC|ATLAS Collaboration|[2408.11035v1](http://arxiv.org/pdf/2408.11035v1)|
+|2024-08-20|2024-08-20|Atmospheric Transport Modeling of CO$_2$ with Neural Networks|Vitus Benson|[2408.11032v1](http://arxiv.org/pdf/2408.11032v1)|
+|2024-08-20|2024-08-20|Hubble Tension or Distance Ladder Crisis?|Leandros Perivolaropoulos|[2408.11031v1](http://arxiv.org/pdf/2408.11031v1)|
+|2024-08-20|2024-08-20|Enhanced Shadow Tomography of Molecular Excited States from Enforcing $N$-representability Conditions by Semidefinite Programming|Irma Avdic|[2408.11025v1](http://arxiv.org/pdf/2408.11025v1)|
+|2023-11-17|2024-08-20|Learning Realistic Joint Space Boundaries for Range of Motion Analysis of Healthy and Impaired Human Arms|Shafagh Keyvanian|[2311.10653v2](http://arxiv.org/pdf/2311.10653v2)|
+|2024-08-20|2024-08-20|Temporal solitons in active optical resonators|Dmitry Kazakov|[2408.11020v1](http://arxiv.org/pdf/2408.11020v1)|
+|2024-01-11|2024-08-20|A hierarchy of KPZ equation scaling limits arising from directed random walk models in random media|Shalin Parekh|[2401.06073v2](http://arxiv.org/pdf/2401.06073v2)|
+|2024-08-20|2024-08-20|Confined phases at finite density in the Hardwall model|Akash Singh|[2408.10986v1](http://arxiv.org/pdf/2408.10986v1)|
+
+### Diffusion
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2024-08-20|2024-08-20|Transfusion: Predict the Next Token and Diffuse Images with One Multi-Modal Model|Chunting Zhou|[2408.11039v1](http://arxiv.org/pdf/2408.11039v1)|
+|2024-08-20|2024-08-20|Denoising Plane Wave Ultrasound Images Using Diffusion Probabilistic Models|Hojat Asgariandehkordi|[2408.10987v1](http://arxiv.org/pdf/2408.10987v1)|
+|2024-08-20|2024-08-20|Kilometer-Scale Convection Allowing Model Emulation using Generative Diffusion Modeling|Jaideep Pathak|[2408.10958v1](http://arxiv.org/pdf/2408.10958v1)|
+|2024-08-20|2024-08-20|A Grey-box Attack against Latent Diffusion Model-based Image Editing by Posterior Collapse|Zhongliang Guo|[2408.10901v1](http://arxiv.org/pdf/2408.10901v1)|
+|2023-12-22|2024-08-20|BrainVis: Exploring the Bridge between Brain and Visual Signals via Image Reconstruction|Honghao Fu|[2312.14871v2](http://arxiv.org/pdf/2312.14871v2)|
+
+### Quantitative Finance
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2024-08-20|2024-08-20|The Evolution of Reinforcement Learning in Quantitative Finance|Nikolaos Pippas|[2408.10932v1](http://arxiv.org/pdf/2408.10932v1)|
 ## Update on 2024-08-19
 
 ### Physics
