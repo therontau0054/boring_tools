@@ -46,6 +46,31 @@ TODO:
 
 
 
+
+## Update on 2024-08-23
+
+### Physics
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2024-08-05|2024-08-22|Local ergotropy and its fluctuations across a dissipative quantum phase transition|G. Di Bello|[2408.02655v3](http://arxiv.org/pdf/2408.02655v3)|
+|2023-06-15|2024-08-22|A Short Introduction to Quantum Computing for Physicists|Oswaldo Zapata|[2306.09388v2](http://arxiv.org/pdf/2306.09388v2)|
+|2024-08-22|2024-08-22|Climate Bistability at the Inner Edge of the Habitable Zone due to Runaway Greenhouse and Cloud Feedbacks|Bowen Fan|[2408.12563v1](http://arxiv.org/pdf/2408.12563v1)|
+|2024-08-22|2024-08-22|Hybrid branes from split kinks|D. Bazeia|[2408.12562v1](http://arxiv.org/pdf/2408.12562v1)|
+|2023-06-12|2024-08-22|Time arrow without past hypothesis: a toy model explanation|Pablo Arrighi|[2306.07121v2](http://arxiv.org/pdf/2306.07121v2)|
+|2024-08-22|2024-08-22|Dynamics of Meta-learning Representation in the Teacher-student Scenario|Hui Wang|[2408.12545v1](http://arxiv.org/pdf/2408.12545v1)|
+|2024-07-05|2024-08-22|Approximating the eigenvalues of self-adjoint trace-class operators|Richárd Balka|[2407.04478v2](http://arxiv.org/pdf/2407.04478v2)|
+|2022-06-14|2024-08-22|Neural interval-censored survival regression with feature selection|Carlos García Meixide|[2206.06885v3](http://arxiv.org/pdf/2206.06885v3)|
+|2023-10-25|2024-08-22|$τ$SPECT: A spin-flip loaded magnetic ultracold neutron trap for a determination of the neutron lifetime|J. Auler|[2311.00712v2](http://arxiv.org/pdf/2311.00712v2)|
+|2024-08-22|2024-08-22|UV Completion of Neutral Triple Gauge Couplings|John Ellis|[2408.12508v1](http://arxiv.org/pdf/2408.12508v1)|
+
+### Diffusion
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2024-08-22|2024-08-22|xGen-VideoSyn-1: High-fidelity Text-to-Video Synthesis with Compressed Representations|Can Qin|[2408.12590v1](http://arxiv.org/pdf/2408.12590v1)|
+|2024-08-22|2024-08-22|ssProp: Energy-Efficient Training for Convolutional Neural Networks with Scheduled Sparse Back Propagation|Lujia Zhong|[2408.12561v1](http://arxiv.org/pdf/2408.12561v1)|
+|2024-07-31|2024-08-22|Diff-Cleanse: Identifying and Mitigating Backdoor Attacks in Diffusion Models|Jiang Hao|[2407.21316v2](http://arxiv.org/pdf/2407.21316v2)|
+|2024-08-22|2024-08-22|4D Diffusion for Dynamic Protein Structure Prediction with Reference Guided Motion Alignment|Kaihui Cheng|[2408.12419v1](http://arxiv.org/pdf/2408.12419v1)|
+|2024-08-22|2024-08-22|CODE: Confident Ordinary Differential Editing|Bastien van Delft|[2408.12418v1](http://arxiv.org/pdf/2408.12418v1)|
 ## Update on 2024-08-21
 
 ### Physics
