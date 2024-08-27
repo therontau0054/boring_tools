@@ -47,6 +47,31 @@ TODO:
 
 
 
+
+## Update on 2024-08-27
+
+### Physics
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2024-08-26|2024-08-26|A domain decomposition-based autoregressive deep learning model for unsteady and nonlinear partial differential equations|Sheel Nidhan|[2408.14461v1](http://arxiv.org/pdf/2408.14461v1)|
+|2024-08-26|2024-08-26|Partitioning statistics of a correlated few-electron droplet|Jashwanth Shaju|[2408.14458v1](http://arxiv.org/pdf/2408.14458v1)|
+|2024-08-06|2024-08-26|Detecting Quantum and Classical Phase Transitions via Unsupervised Machine Learning of the Fisher Information Metric|Victor Kasatkin|[2408.03418v2](http://arxiv.org/pdf/2408.03418v2)|
+|2023-10-27|2024-08-26|Quantizing a Non-locally Massive 2-form Model|Kumar Abhinav|[2310.18272v2](http://arxiv.org/pdf/2310.18272v2)|
+|2024-08-26|2024-08-26|Relaxation dynamics in the (double) sine-Gordon model -- an open-system viewpoint|D. Szász-Schagrin|[2408.14428v1](http://arxiv.org/pdf/2408.14428v1)|
+|2024-08-26|2024-08-26|Spectrally Informed Learning of Fluid Flows|Benjamin D. Shaffer|[2408.14407v1](http://arxiv.org/pdf/2408.14407v1)|
+|2024-08-07|2024-08-26|Linear-optical quantum computation with arbitrary error-correcting codes|Blayney W. Walshe|[2408.04126v2](http://arxiv.org/pdf/2408.04126v2)|
+|2022-04-04|2024-08-26|Extended Uncertainty Principle via Dirac Quantization|Mytraya Gattu|[2204.01780v2](http://arxiv.org/pdf/2204.01780v2)|
+|2024-04-04|2024-08-26|Dimension-eight Operator Basis for Universal Standard Model Effective Field Theory|Tyler Corbett|[2404.03720v2](http://arxiv.org/pdf/2404.03720v2)|
+|2024-08-26|2024-08-26|Nucleon Transversity from lattice QCD|Constantia Alexandrou|[2408.14370v1](http://arxiv.org/pdf/2408.14370v1)|
+
+### Diffusion
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2024-08-26|2024-08-26|Application of Neural Ordinary Differential Equations for ITER Burning Plasma Dynamics|Zefang Liu|[2408.14404v1](http://arxiv.org/pdf/2408.14404v1)|
+|2024-08-26|2024-08-26|GR-MG: Leveraging Partially Annotated Data via Multi-Modal Goal Conditioned Policy|Peiyan Li|[2408.14368v1](http://arxiv.org/pdf/2408.14368v1)|
+|2024-08-26|2024-08-26|Foundation Models for Music: A Survey|Yinghao Ma|[2408.14340v1](http://arxiv.org/pdf/2408.14340v1)|
+|2024-08-26|2024-08-26|Streamline tractography of the fetal brain in utero with machine learning|Weide Liu|[2408.14326v1](http://arxiv.org/pdf/2408.14326v1)|
+|2024-08-26|2024-08-26|Integrated Brain Connectivity Analysis with fMRI, DTI, and sMRI Powered by Interpretable Graph Neural Networks|Gang Qu|[2408.14254v1](http://arxiv.org/pdf/2408.14254v1)|
 ## Update on 2024-08-23
 
 ### Physics
