@@ -48,6 +48,36 @@ TODO:
 
 
 
+
+## Update on 2024-08-29
+
+### Physics
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2024-06-17|2024-08-28|Effects of non-commutative geometry on black hole properties|A. A. Araújo Filho|[2406.12015v2](http://arxiv.org/pdf/2406.12015v2)|
+|2024-08-28|2024-08-28|More Text, Less Point: Towards 3D Data-Efficient Point-Language Understanding|Yuan Tang|[2408.15966v1](http://arxiv.org/pdf/2408.15966v1)|
+|2024-08-28|2024-08-28|Novel ground states and emergent quantum many-body scars in a two-species Rydberg atom array|Lei-Yi-Nan Liu|[2408.15965v1](http://arxiv.org/pdf/2408.15965v1)|
+|2024-03-20|2024-08-28|A Physics Preserving Neural Network Based Approach for Constitutive Modeling of Isotropic Fibrous Materials|Nishan Parvez|[2403.13357v4](http://arxiv.org/pdf/2403.13357v4)|
+|2024-08-28|2024-08-28|Probing Lorentz invariance with a high-energy neutrino flare|Mauricio Bustamante|[2408.15949v1](http://arxiv.org/pdf/2408.15949v1)|
+|2024-04-19|2024-08-28|Search for the non-resonant production of Higgs boson pairs via gluon fusion and vector-boson fusion in the $b\bar{b}τ^+τ^-$ final state in proton-proton collisions at $\sqrt{s} = 13$ TeV with the ATLAS detector|ATLAS Collaboration|[2404.12660v3](http://arxiv.org/pdf/2404.12660v3)|
+|2024-08-28|2024-08-28|Beating the Ramsey limit on sensing with deterministic qubit control|M. O. Hecht|[2408.15926v1](http://arxiv.org/pdf/2408.15926v1)|
+|2024-01-04|2024-08-28|asimulation: Domain formation and impact on observables in resolved cosmological simulations of the (a)symmetron|Øyvind Christiansen|[2401.02410v2](http://arxiv.org/pdf/2401.02410v2)|
+|2024-08-28|2024-08-28|Hybrid Type-II and Type-III seesaw model for the muon $g-2$ anomaly|Lei Cai|[2408.15910v1](http://arxiv.org/pdf/2408.15910v1)|
+|2023-08-23|2024-08-28|Differential cross-section measurements of the production of four charged leptons in association with two jets using the ATLAS detector|ATLAS Collaboration|[2308.12324v2](http://arxiv.org/pdf/2308.12324v2)|
+
+### Diffusion
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2024-08-28|2024-08-28|Airfoil Diffusion: Denoising Diffusion Model For Conditional Airfoil Generation|Reid Graves|[2408.15898v1](http://arxiv.org/pdf/2408.15898v1)|
+|2024-08-28|2024-08-28|GenDDS: Generating Diverse Driving Video Scenarios with Prompt-to-Video Generative Model|Yongjie Fu|[2408.15868v1](http://arxiv.org/pdf/2408.15868v1)|
+|2024-06-13|2024-08-28|FADE: Towards Fairness-aware Augmentation for Domain Generalization via Classifier-Guided Score-based Diffusion Models|Yujie Lin|[2406.09495v2](http://arxiv.org/pdf/2406.09495v2)|
+|2024-08-28|2024-08-28|Grand canonical generative diffusion model for crystalline phases and grain boundaries|Bo Lei|[2408.15601v1](http://arxiv.org/pdf/2408.15601v1)|
+|2024-08-28|2024-08-28|MODULI: Unlocking Preference Generalization via Diffusion Models for Offline Multi-Objective Reinforcement Learning|Yifu Yuan|[2408.15501v1](http://arxiv.org/pdf/2408.15501v1)|
+
+### Quantitative Finance
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2022-12-03|2024-08-28|Weak error estimates for rough volatility models|Peter K. Friz|[2212.01591v2](http://arxiv.org/pdf/2212.01591v2)|
 ## Update on 2024-08-27
 
 ### Physics
