@@ -1,0 +1,126 @@
+{
+    "Physics": [
+        {
+            "title": "An algebraic characterisation of Kochen-Specker contextuality",
+            "authors": "Markus Frembs",
+            "summary": "Contextuality is a key distinguishing feature between classical and quantum\nphysics. It expresses a fundamental obstruction to describing quantum theory\nusing classical concepts. In turn, understood as a resource for quantum\ncomputation, it is expected to hold the key to quantum advantage. Yet, despite\nits long recognised importance in quantum foundations and, more recently, in\nquantum computation, the structural essence of contextuality has remained\nsomewhat elusive - different frameworks address different aspects of the\nphenomenon, yet their precise relationship often remains unclear. This issue\nalready looms large at the level of the Bell-Kochen-Specker theorem: while\ntraditional proofs proceed by showing the nonexistence of valuations, the\nnotion of state-independent contextuality in the marginal approach allows to\nprove contextuality from seemingly weaker assumptions. In the light of this,\nand at the absence of a unified mathematical framework for Kochen-Specker\ncontextuality, the original algebraic approach has been widely abandoned, in\nfavour of the study of contextual correlations.\n  Here, we reinstate the algebraic perspective on contextuality. Concretely, by\nbuilding on the novel concept of context connections, we reformulate the\nalgebraic relations between observables originally postulated by Kochen and\nSpecker, and we explicitly demonstrate their consistency with the notion of\nstate-independent contextuality. In the present paper, we focus on the new\nconceptual ideas and discuss them in the concrete setting of spin-1\nobservables, specifically those in the example of [S. Yu and C.H. Oh, Phys.\nRev. Lett., 108, 030402 (2012)]; in a companion paper, we generalise these\nideas, obtain a complete characterisation of Kochen-Specker contextuality and\nprovide a detailed comparison with the related notions of contextuality in the\nmarginal and graph-theoretic approach.",
+            "pdf_url": "http://arxiv.org/pdf/2408.16764v1",
+            "published": "2024-08-29 17:58:12+00:00",
+            "updated": "2024-08-29 17:58:12+00:00"
+        },
+        {
+            "title": "Conditional score-based diffusion models for solving inverse problems in mechanics",
+            "authors": "Agnimitra Dasgupta, Harisankar Ramaswamy, Javier Murgoitio-Esandi, Ken Foo, Runze Li, Qifa Zhou, Brendan Kennedy, Assad Oberai",
+            "summary": "We propose a framework to perform Bayesian inference using conditional\nscore-based diffusion models to solve a class of inverse problems in mechanics\ninvolving the inference of a specimen's spatially varying material properties\nfrom noisy measurements of its mechanical response to loading. Conditional\nscore-based diffusion models are generative models that learn to approximate\nthe score function of a conditional distribution using samples from the joint\ndistribution. More specifically, the score functions corresponding to multiple\nrealizations of the measurement are approximated using a single neural network,\nthe so-called score network, which is subsequently used to sample the posterior\ndistribution using an appropriate Markov chain Monte Carlo scheme based on\nLangevin dynamics. Training the score network only requires simulating the\nforward model. Hence, the proposed approach can accommodate black-box forward\nmodels and complex measurement noise. Moreover, once the score network has been\ntrained, it can be re-used to solve the inverse problem for different\nrealizations of the measurements. We demonstrate the efficacy of the proposed\napproach on a suite of high-dimensional inverse problems in mechanics that\ninvolve inferring heterogeneous material properties from noisy measurements.\nSome examples we consider involve synthetic data, while others include data\ncollected from actual elastography experiments. Further, our applications\ndemonstrate that the proposed approach can handle different measurement\nmodalities, complex patterns in the inferred quantities, non-Gaussian and\nnon-additive noise models, and nonlinear black-box forward models. The results\nshow that the proposed framework can solve large-scale physics-based inverse\nproblems efficiently.",
+            "pdf_url": "http://arxiv.org/pdf/2406.13154v3",
+            "published": "2024-06-19 02:09:15+00:00",
+            "updated": "2024-08-29 17:47:18+00:00"
+        },
+        {
+            "title": "Data-driven reduced order modeling of a two-layer quasi-geostrophic ocean model",
+            "authors": "Lander Besabe, Michele Girfoglio, Annalisa Quaini, Gianluigi Rozza",
+            "summary": "The two-layer quasi-geostrophic equations (2QGE) is a simplified model that\ndescribes the dynamics of a stratified, wind-driven ocean in terms of potential\nvorticity and stream function. Its numerical simulation is plagued by a high\ncomputational cost due to the size of the typical computational domain and the\nneed for high resolution to capture the full spectrum of turbulent scales. In\nthis paper, we present a data-driven reduced order model (ROM) for the 2QGE\nthat drastically reduces the computational time to predict ocean dynamics,\nespecially when there are variable physical parameters. The main building\nblocks of our ROM are: i) proper orthogonal decomposition (POD) and ii) long\nshort-term memory (LSTM) recurrent neural networks. Snapshots data are\ncollected from a high-resolution simulation for part of the time interval of\ninterest and for given parameter values in the case of variable parameters. POD\nis applied to each field variable to extract the dominant modes and a LSTM\nmodel is trained on the modal coefficients associated with the snapshots for\neach variable. Then, the trained LSTM models predict the modal coefficients for\nthe remaining part of the time interval of interest and for a new parameter\nvalue. To illustrate the predictive performance of our POD-LSTM ROM and the\ncorresponding time savings, we consider an extension of the so-called\ndouble-gyre wind forcing test. We show that the POD-LSTM ROM is accurate in\npredicting both time-averaged fields and time-dependent quantities (modal\ncoefficients, enstrophy, and kinetic energy), even when retaining only 10-20\\%\nof the singular value energy of the system. The computational speed up for the\nprediction is about up to 1E+07 compared to a finite volume based full order\nmethod.",
+            "pdf_url": "http://arxiv.org/pdf/2408.16723v1",
+            "published": "2024-08-29 17:16:06+00:00",
+            "updated": "2024-08-29 17:16:06+00:00"
+        },
+        {
+            "title": "Correlators of long strings on AdS$_3\\times$S$^3\\times$T$^4$",
+            "authors": "Zhe-fei Yu, Cheng Peng",
+            "summary": "In this work, we calculate correlators of long strings on\nAdS$_3\\times$S$^3\\times$T$^4$ with pure NS-NS flux. We first construct physical\nvertex operators that correspond to long strings. Due to the GSO projection,\nthey depend on the parity of the spectral flow parameter $w$. For a given $w$,\nwe construct the physical operators that have the lowest space-time weights in\nboth the NS and R sector. Then, we calculate three point correlators for each\npossible type of parities of spectral flows. We find that the recursion\nrelations of correlators in the bosonic SL$(2,\\mathbb{R})$ WZW model can be\nunderstood from the equivalence of these superstring correlators with different\npicture choices. Furthermore, after carefully mapping the vertex operators to\nappropriate operators in the dual CFT, we find that once the fermionic\ncontributions together with the picture changing effects are correctly taken\ninto account, some mathematical identities of covering maps lead to the\nmatching of the correlators of the two sides. We check this explicitly at the\nleading order in the conformal perturbation computation and conjecture that\nthis remains correct to all orders.",
+            "pdf_url": "http://arxiv.org/pdf/2408.16712v1",
+            "published": "2024-08-29 17:05:28+00:00",
+            "updated": "2024-08-29 17:05:28+00:00"
+        },
+        {
+            "title": "Kinematic Varieties for Massless Particles",
+            "authors": "Smita Rajan, Svala Sverrisd\u00f3ttir, Bernd Sturmfels",
+            "summary": "We study algebraic varieties that encode the kinematic data for $n$ massless\nparticles in $d$-dimensional spacetime subject to momentum conservation. Their\ncoordinates are spinor brackets, which we derive from the Clifford algebra\nassociated to the Lorentz group. This was proposed for $d=5$ in the recent\nphysics literature. Our kinematic varieties are given by polynomial constraints\non tensors with both symmetric and skew symmetric slices.",
+            "pdf_url": "http://arxiv.org/pdf/2408.16711v1",
+            "published": "2024-08-29 17:05:17+00:00",
+            "updated": "2024-08-29 17:05:17+00:00"
+        },
+        {
+            "title": "SympGNNs: Symplectic Graph Neural Networks for identifiying high-dimensional Hamiltonian systems and node classification",
+            "authors": "Alan John Varghese, Zhen Zhang, George Em Karniadakis",
+            "summary": "Existing neural network models to learn Hamiltonian systems, such as\nSympNets, although accurate in low-dimensions, struggle to learn the correct\ndynamics for high-dimensional many-body systems. Herein, we introduce\nSymplectic Graph Neural Networks (SympGNNs) that can effectively handle system\nidentification in high-dimensional Hamiltonian systems, as well as node\nclassification. SympGNNs combines symplectic maps with permutation\nequivariance, a property of graph neural networks. Specifically, we propose two\nvariants of SympGNNs: i) G-SympGNN and ii) LA-SympGNN, arising from different\nparameterizations of the kinetic and potential energy. We demonstrate the\ncapabilities of SympGNN on two physical examples: a 40-particle coupled\nHarmonic oscillator, and a 2000-particle molecular dynamics simulation in a\ntwo-dimensional Lennard-Jones potential. Furthermore, we demonstrate the\nperformance of SympGNN in the node classification task, achieving accuracy\ncomparable to the state-of-the-art. We also empirically show that SympGNN can\novercome the oversmoothing and heterophily problems, two key challenges in the\nfield of graph neural networks.",
+            "pdf_url": "http://arxiv.org/pdf/2408.16698v1",
+            "published": "2024-08-29 16:47:58+00:00",
+            "updated": "2024-08-29 16:47:58+00:00"
+        },
+        {
+            "title": "Ultrathin natural biotite crystals as a dielectric layer for van der Waals heterostructure applications",
+            "authors": "Raphaela de Oliveira, Ana Beatriz Yoshida, Cesar Rabahi, Raul O. Freitas, Christiano J. S. de Matos, Yara Galv\u00e3o Gobato, Ingrid D. Barcelos, Alisson R. Cadore",
+            "summary": "Biotite, an iron-rich mineral belonging to the trioctahedral mica group, is a\nnaturally abundant layered material (LM) exhibiting attractive electronic\nproperties for application in nanodevices. Biotite stands out as a\nnon-degradable LM under ambient conditions, featuring high-quality basal\ncleavage, a significant advantage for van der Waals heterostructure (vdWH)\napplications. In this work, we present the micro-mechanical exfoliation of\nbiotite down to monolayers (1Ls), yielding ultrathin flakes with large areas\nand atomically flat surfaces. To identify and characterize the mineral, we\nconducted a multi-elemental analysis of biotite using energy-dispersive\nspectroscopy mapping. Additionally, synchrotron infrared nano-spectroscopy was\nemployed to probe its vibrational signature in few-layer form, with sensitivity\nto the layer number. We have also observed good morphological and structural\nstability in time (up to 12 months) and no important changes in their physical\nproperties after thermal annealing processes in ultrathin biotite flakes.\nConductive atomic force microscopy evaluated its electrical capacity, revealing\nan electrical breakdown strength of approximately 1 V/nm. Finally, we explore\nthe use of biotite as a substrate and encapsulating LM in vdWH applications. We\nhave performed optical and magneto-optical measurements at low temperatures. We\nfind that ultrathin biotite flakes work as a good substrate for 1L-MoSe2,\ncomparable to hexagonal boron nitride flakes, but it induces a small change of\nthe 1L-MoSe2 g-factor values, most likely due to natural impurities on its\ncrystal structure. Furthermore, our results show that biotite flakes are useful\nsystems to protect sensitive LMs such as black phosphorus from degradation for\nup to 60 days in ambient air. Our study introduces biotite as a promising,\ncost-effective LM for the advancement of future ultrathin nanotechnologies.",
+            "pdf_url": "http://arxiv.org/pdf/2408.16697v1",
+            "published": "2024-08-29 16:46:24+00:00",
+            "updated": "2024-08-29 16:46:24+00:00"
+        },
+        {
+            "title": "On Nucleon \"Radii\"",
+            "authors": "Vladimir A. Petrov",
+            "summary": "We show that various nucleon \"radii\" that appear in the literature,\ne.g.\"charge\", \"gravitational\", \"mass\" or \"mechanical, do not have a direct\ngeometric meaning and do not give an idea of the physical size of the nucleon.\nIn the framework of the Gribov parton scheme we show that at high enough energy\nthe gluon cloud of the nucleon shows up and begins to define the interaction\nregion of nucleon-nucleon scattering.",
+            "pdf_url": "http://arxiv.org/pdf/2408.16679v1",
+            "published": "2024-08-29 16:26:32+00:00",
+            "updated": "2024-08-29 16:26:32+00:00"
+        },
+        {
+            "title": "Intersection Numbers from Companion Tensor Algebra",
+            "authors": "Giacomo Brunello, Vsevolod Chestnov, Pierpaolo Mastrolia",
+            "summary": "Twisted period integrals are ubiquitous in theoretical physics and\nmathematics, where they inhabit a finite-dimensional vector space governed by\nan inner product known as the intersection number. In this work, we uncover the\nassociated tensor structures of intersection numbers and integrate them with\nthe fibration method to develop a novel and efficient evaluation scheme.\nCompanion matrices allow us to cast the computation of the intersection numbers\nin terms of a matrix operator calculus within the ambient tensor space. Our\nalgorithm has been successfully applied to the decomposition of two-loop\nfive-point massless functions, representing a significant advancement for the\ndirect projection of Feynman integrals to master integrals via intersection\nnumbers.",
+            "pdf_url": "http://arxiv.org/pdf/2408.16668v1",
+            "published": "2024-08-29 16:15:12+00:00",
+            "updated": "2024-08-29 16:15:12+00:00"
+        },
+        {
+            "title": "In-situ scanning gate imaging of individual two-level material defects in live superconducting quantum circuits",
+            "authors": "M. Heged\u00fcs, R. Banerjee, A. Hutcheson, T. Barker, S. Mahashabde, A. V. Danilov, S. E. Kubatkin, V. Antonov, S. E. de Graaf",
+            "summary": "The low temperature physics of structurally amorphous materials is governed\nby two-level system defects (TLS), the exact origin and nature of which remain\nelusive despite decades of study. Recent advances towards realising stable\nhigh-coherence platforms for quantum computing has increased the importance of\nstudying TLS in solid-state quantum circuits, as they are a persistent source\nof decoherence and instability. Here we perform scanning gate microscopy on a\nlive superconducting quantum circuit at millikelvin temperatures to locate\nindividual TLS. Our method directly reveals the microscopic nature of TLS and\nis also capable of deducing the three dimensional orientation of individual TLS\nelectric dipole moments. Such insights, when combined with structural\ninformation of the underlying materials, can help unravel the detailed\nmicroscopic nature and chemical origin of TLS, directing strategies for their\neventual mitigation.",
+            "pdf_url": "http://arxiv.org/pdf/2408.16660v1",
+            "published": "2024-08-29 16:04:43+00:00",
+            "updated": "2024-08-29 16:04:43+00:00"
+        }
+    ],
+    "Diffusion": [
+        {
+            "title": "ReconX: Reconstruct Any Scene from Sparse Views with Video Diffusion Model",
+            "authors": "Fangfu Liu, Wenqiang Sun, Hanyang Wang, Yikai Wang, Haowen Sun, Junliang Ye, Jun Zhang, Yueqi Duan",
+            "summary": "Advancements in 3D scene reconstruction have transformed 2D images from the\nreal world into 3D models, producing realistic 3D results from hundreds of\ninput photos. Despite great success in dense-view reconstruction scenarios,\nrendering a detailed scene from insufficient captured views is still an\nill-posed optimization problem, often resulting in artifacts and distortions in\nunseen areas. In this paper, we propose ReconX, a novel 3D scene reconstruction\nparadigm that reframes the ambiguous reconstruction challenge as a temporal\ngeneration task. The key insight is to unleash the strong generative prior of\nlarge pre-trained video diffusion models for sparse-view reconstruction.\nHowever, 3D view consistency struggles to be accurately preserved in directly\ngenerated video frames from pre-trained models. To address this, given limited\ninput views, the proposed ReconX first constructs a global point cloud and\nencodes it into a contextual space as the 3D structure condition. Guided by the\ncondition, the video diffusion model then synthesizes video frames that are\nboth detail-preserved and exhibit a high degree of 3D consistency, ensuring the\ncoherence of the scene from various perspectives. Finally, we recover the 3D\nscene from the generated video through a confidence-aware 3D Gaussian Splatting\noptimization scheme. Extensive experiments on various real-world datasets show\nthe superiority of our ReconX over state-of-the-art methods in terms of quality\nand generalizability.",
+            "pdf_url": "http://arxiv.org/pdf/2408.16767v1",
+            "published": "2024-08-29 17:59:40+00:00",
+            "updated": "2024-08-29 17:59:40+00:00"
+        },
+        {
+            "title": "A Score-Based Density Formula, with Applications in Diffusion Generative Models",
+            "authors": "Gen Li, Yuling Yan",
+            "summary": "Score-based generative models (SGMs) have revolutionized the field of\ngenerative modeling, achieving unprecedented success in generating realistic\nand diverse content. Despite empirical advances, the theoretical basis for why\noptimizing the evidence lower bound (ELBO) on the log-likelihood is effective\nfor training diffusion generative models, such as DDPMs, remains largely\nunexplored. In this paper, we address this question by establishing a density\nformula for a continuous-time diffusion process, which can be viewed as the\ncontinuous-time limit of the forward process in an SGM. This formula reveals\nthe connection between the target density and the score function associated\nwith each step of the forward process. Building on this, we demonstrate that\nthe minimizer of the optimization objective for training DDPMs nearly coincides\nwith that of the true objective, providing a theoretical foundation for\noptimizing DDPMs using the ELBO. Furthermore, we offer new insights into the\nrole of score-matching regularization in training GANs, the use of ELBO in\ndiffusion classifiers, and the recently proposed diffusion loss.",
+            "pdf_url": "http://arxiv.org/pdf/2408.16765v1",
+            "published": "2024-08-29 17:59:07+00:00",
+            "updated": "2024-08-29 17:59:07+00:00"
+        },
+        {
+            "title": "UV-free Texture Generation with Denoising and Geodesic Heat Diffusions",
+            "authors": "Simone Foti, Stefanos Zafeiriou, Tolga Birdal",
+            "summary": "Seams, distortions, wasted UV space, vertex-duplication, and varying\nresolution over the surface are the most prominent issues of the standard\nUV-based texturing of meshes. These issues are particularly acute when\nautomatic UV-unwrapping techniques are used. For this reason, instead of\ngenerating textures in automatically generated UV-planes like most\nstate-of-the-art methods, we propose to represent textures as coloured\npoint-clouds whose colours are generated by a denoising diffusion probabilistic\nmodel constrained to operate on the surface of 3D objects. Our sampling and\nresolution agnostic generative model heavily relies on heat diffusion over the\nsurface of the meshes for spatial communication between points. To enable\nprocessing of arbitrarily sampled point-cloud textures and ensure long-distance\ntexture consistency we introduce a fast re-sampling of the mesh spectral\nproperties used during the heat diffusion and introduce a novel\nheat-diffusion-based self-attention mechanism. Our code and pre-trained models\nare available at github.com/simofoti/UV3-TeD.",
+            "pdf_url": "http://arxiv.org/pdf/2408.16762v1",
+            "published": "2024-08-29 17:57:05+00:00",
+            "updated": "2024-08-29 17:57:05+00:00"
+        },
+        {
+            "title": "DriveGenVLM: Real-world Video Generation for Vision Language Model based Autonomous Driving",
+            "authors": "Yongjie Fu, Anmol Jain, Xuan Di, Xu Chen, Zhaobin Mo",
+            "summary": "The advancement of autonomous driving technologies necessitates increasingly\nsophisticated methods for understanding and predicting real-world scenarios.\nVision language models (VLMs) are emerging as revolutionary tools with\nsignificant potential to influence autonomous driving. In this paper, we\npropose the DriveGenVLM framework to generate driving videos and use VLMs to\nunderstand them. To achieve this, we employ a video generation framework\ngrounded in denoising diffusion probabilistic models (DDPM) aimed at predicting\nreal-world video sequences. We then explore the adequacy of our generated\nvideos for use in VLMs by employing a pre-trained model known as Efficient\nIn-context Learning on Egocentric Videos (EILEV). The diffusion model is\ntrained with the Waymo open dataset and evaluated using the Fr\\'echet Video\nDistance (FVD) score to ensure the quality and realism of the generated videos.\nCorresponding narrations are provided by EILEV for these generated videos,\nwhich may be beneficial in the autonomous driving domain. These narrations can\nenhance traffic scene understanding, aid in navigation, and improve planning\ncapabilities. The integration of video generation with VLMs in the DriveGenVLM\nframework represents a significant step forward in leveraging advanced AI\nmodels to address complex challenges in autonomous driving.",
+            "pdf_url": "http://arxiv.org/pdf/2408.16647v1",
+            "published": "2024-08-29 15:52:56+00:00",
+            "updated": "2024-08-29 15:52:56+00:00"
+        },
+        {
+            "title": "RLCP: A Reinforcement Learning-based Copyright Protection Method for Text-to-Image Diffusion Model",
+            "authors": "Zhuan Shi, Jing Yan, Xiaoli Tang, Lingjuan Lyu, Boi Faltings",
+            "summary": "The increasing sophistication of text-to-image generative models has led to\ncomplex challenges in defining and enforcing copyright infringement criteria\nand protection. Existing methods, such as watermarking and dataset\ndeduplication, fail to provide comprehensive solutions due to the lack of\nstandardized metrics and the inherent complexity of addressing copyright\ninfringement in diffusion models. To deal with these challenges, we propose a\nReinforcement Learning-based Copyright Protection(RLCP) method for\nText-to-Image Diffusion Model, which minimizes the generation of\ncopyright-infringing content while maintaining the quality of the\nmodel-generated dataset. Our approach begins with the introduction of a novel\ncopyright metric grounded in copyright law and court precedents on\ninfringement. We then utilize the Denoising Diffusion Policy Optimization\n(DDPO) framework to guide the model through a multi-step decision-making\nprocess, optimizing it using a reward function that incorporates our proposed\ncopyright metric. Additionally, we employ KL divergence as a regularization\nterm to mitigate some failure modes and stabilize RL fine-tuning. Experiments\nconducted on 3 mixed datasets of copyright and non-copyright images demonstrate\nthat our approach significantly reduces copyright infringement risk while\nmaintaining image quality.",
+            "pdf_url": "http://arxiv.org/pdf/2408.16634v1",
+            "published": "2024-08-29 15:39:33+00:00",
+            "updated": "2024-08-29 15:39:33+00:00"
+        }
+    ]
+}

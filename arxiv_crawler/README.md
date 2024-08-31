@@ -49,6 +49,31 @@ TODO:
 
 
 
+
+## Update on 2024-08-31
+
+### Physics
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2024-08-29|2024-08-29|An algebraic characterisation of Kochen-Specker contextuality|Markus Frembs|[2408.16764v1](http://arxiv.org/pdf/2408.16764v1)|
+|2024-06-19|2024-08-29|Conditional score-based diffusion models for solving inverse problems in mechanics|Agnimitra Dasgupta|[2406.13154v3](http://arxiv.org/pdf/2406.13154v3)|
+|2024-08-29|2024-08-29|Data-driven reduced order modeling of a two-layer quasi-geostrophic ocean model|Lander Besabe|[2408.16723v1](http://arxiv.org/pdf/2408.16723v1)|
+|2024-08-29|2024-08-29|Correlators of long strings on AdS$_3\times$S$^3\times$T$^4$|Zhe-fei Yu|[2408.16712v1](http://arxiv.org/pdf/2408.16712v1)|
+|2024-08-29|2024-08-29|Kinematic Varieties for Massless Particles|Smita Rajan|[2408.16711v1](http://arxiv.org/pdf/2408.16711v1)|
+|2024-08-29|2024-08-29|SympGNNs: Symplectic Graph Neural Networks for identifiying high-dimensional Hamiltonian systems and node classification|Alan John Varghese|[2408.16698v1](http://arxiv.org/pdf/2408.16698v1)|
+|2024-08-29|2024-08-29|Ultrathin natural biotite crystals as a dielectric layer for van der Waals heterostructure applications|Raphaela de Oliveira|[2408.16697v1](http://arxiv.org/pdf/2408.16697v1)|
+|2024-08-29|2024-08-29|On Nucleon "Radii"|Vladimir A. Petrov|[2408.16679v1](http://arxiv.org/pdf/2408.16679v1)|
+|2024-08-29|2024-08-29|Intersection Numbers from Companion Tensor Algebra|Giacomo Brunello|[2408.16668v1](http://arxiv.org/pdf/2408.16668v1)|
+|2024-08-29|2024-08-29|In-situ scanning gate imaging of individual two-level material defects in live superconducting quantum circuits|M. Hegedüs|[2408.16660v1](http://arxiv.org/pdf/2408.16660v1)|
+
+### Diffusion
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2024-08-29|2024-08-29|ReconX: Reconstruct Any Scene from Sparse Views with Video Diffusion Model|Fangfu Liu|[2408.16767v1](http://arxiv.org/pdf/2408.16767v1)|
+|2024-08-29|2024-08-29|A Score-Based Density Formula, with Applications in Diffusion Generative Models|Gen Li|[2408.16765v1](http://arxiv.org/pdf/2408.16765v1)|
+|2024-08-29|2024-08-29|UV-free Texture Generation with Denoising and Geodesic Heat Diffusions|Simone Foti|[2408.16762v1](http://arxiv.org/pdf/2408.16762v1)|
+|2024-08-29|2024-08-29|DriveGenVLM: Real-world Video Generation for Vision Language Model based Autonomous Driving|Yongjie Fu|[2408.16647v1](http://arxiv.org/pdf/2408.16647v1)|
+|2024-08-29|2024-08-29|RLCP: A Reinforcement Learning-based Copyright Protection Method for Text-to-Image Diffusion Model|Zhuan Shi|[2408.16634v1](http://arxiv.org/pdf/2408.16634v1)|
 ## Update on 2024-08-29
 
 ### Physics
