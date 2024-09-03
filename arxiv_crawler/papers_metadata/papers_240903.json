@@ -1,0 +1,136 @@
+{
+    "Physics": [
+        {
+            "title": "Nucleon electric polarizabilities and nucleon-pion scattering at physical pion mass",
+            "authors": "Xuan-He Wang, Zhao-Long Zhang, Xiong-Hui Cao, Cong-Ling Fan, Xu Feng, Yu-Sheng Gao, Lu-Chang Jin, Chuan Liu",
+            "summary": "We present a lattice QCD calculation of the nucleon electric polarizabilities\nat the physical pion mass. Our findings reveal the substantial contributions of\nthe $N\\pi$ states to these polarizabilities. Without considering these\ncontributions, the lattice results fall significantly below the experimental\nvalues, consistent with previous lattice studies. This observation has\nmotivated us to compute both the parity-negative $N\\pi$ scattering up to a\nnucleon momentum of $\\sim0.5$ GeV in the center-of-mass frame and corresponding\n$N\\gamma^*\\to N\\pi$ matrix elements using lattice QCD. Our results confirm that\nincorporating dynamic $N\\pi$ contributions is crucial for a reliable\ndetermination of the polarizabilities from lattice QCD. This methodology lays\nthe groundwork for future lattice QCD investigations into various other\npolarizabilities.",
+            "pdf_url": "http://arxiv.org/pdf/2310.01168v3",
+            "published": "2023-10-02 12:57:37+00:00",
+            "updated": "2024-08-30 17:59:39+00:00"
+        },
+        {
+            "title": "Analysis on the von Neumann entropy under the measurement-based feedback control",
+            "authors": "Kohei Kobayashi",
+            "summary": "The measurement-based feedback (MBF) control offers several powerful means\nfor preparing the desired target quantum state. Therefore, it is important to\ninvestigate fundamental properties of MBF. In particular, how the entropy of\nthe controlled system under the MBF behaves is of great interest. In this\nstudy, we examine this problem by deriving a sufficient condition that the time\nderivative of the von Neumann entropy is nonnegative under the MBF control.\nThis result is rigorously characterized by the variance of the system\nobservable and the quantumness of a given decoherence. We show the validity of\nthe result and physical interpretation in the example of qubit stabilizing.",
+            "pdf_url": "http://arxiv.org/pdf/2408.17442v1",
+            "published": "2024-08-30 17:51:20+00:00",
+            "updated": "2024-08-30 17:51:20+00:00"
+        },
+        {
+            "title": "Imprinting New Physics by using Angular profiles of the FCNC process $B_{c}\\to D_{s}^{*}\\left(\\to \\;D_{s}\u03c0\\right)\\ell^{+}\\ell^{-}$",
+            "authors": "Hira Waseem, Abdul Hafeez",
+            "summary": "The decays governed by the flavor-changing-neutral-current transitions\n(FCNC), such as $b\\to s\\ell^{+}\\ell^{-}$, provide an important tool to test the\nphysics in and beyond the Standard Model (SM). This work focuses on\ninvestigating the FCNC process $B_{c}\\to D_{s}^{*} \\left(\\to\nD_{s}\\pi\\right)\\ell^{+}\\ell^{-}(\\ell=e,\\mu,\\tau)$. Being an exclusive process,\nthe initial and final state meson matrix elements involve the form factors,\nwhich are non-perturbative quantities and need to be calculated using specific\nmodels. By using the form factors calculated in the covariant light-front quark\nmodel, we analyze the branching fractions and angular observables such as the\nforward-backward asymmetry $A_{FB}$, polarization fractions (Longitudinal and\ntransverse) $F_{L(T)}$, CP asymmetry coefficients $A_{i}$ and CP-averaged\nangular coefficients $S_{i}$, both in the SM and some new physics (NP)\nscenarios. Some of these physical observables are a potential source of finding\nthe physics beyond the SM and help us distinguish various NP scenarios.",
+            "pdf_url": "http://arxiv.org/pdf/2408.17436v1",
+            "published": "2024-08-30 17:41:27+00:00",
+            "updated": "2024-08-30 17:41:27+00:00"
+        },
+        {
+            "title": "Quantum Distance Approximation for Persistence Diagrams",
+            "authors": "Bernardo Ameneyro, Rebekah Herrman, George Siopsis, Vasileios Maroulas",
+            "summary": "Topological Data Analysis methods can be useful for classification and\nclustering tasks in many different fields as they can provide two dimensional\npersistence diagrams that summarize important information about the shape of\npotentially complex and high dimensional data sets. The space of persistence\ndiagrams can be endowed with various metrics such as the Wasserstein distance\nwhich admit a statistical structure and allow to use these summaries for\nmachine learning algorithms. However, computing the distance between two\npersistence diagrams involves finding an optimal way to match the points of the\ntwo diagrams and may not always be an easy task for classical computers. In\nthis work we explore the potential of quantum computers to estimate the\ndistance between persistence diagrams, in particular we propose variational\nquantum algorithms for the Wasserstein distance as well as the $d^{c}_{p}$\ndistance. Our implementation is a weighted version of the Quantum Approximate\nOptimization Algorithm that relies on control clauses to encode the constraints\nof the optimization problem.",
+            "pdf_url": "http://arxiv.org/pdf/2402.17295v2",
+            "published": "2024-02-27 08:16:17+00:00",
+            "updated": "2024-08-30 17:36:49+00:00"
+        },
+        {
+            "title": "Non-relativistic Conformal Field Theory in Momentum Space",
+            "authors": "Rajesh Kumar Gupta, Meenu",
+            "summary": "Non-relativistic conformal field theory describes many-body physics at\nunitarity. The correlation functions of the system are fixed by the requirement\nof conformal invariance. In this article, we discuss the correlation functions\nof scalar operators in non-relativistic conformal field theories in momentum\nspace. We discuss the solution of conformal Ward identities and express 2,3,\nand 4-point functions as a function of energy and momentum. We also express the\n3- and 4-point functions in the momentum space as the one-loop and three-loop\nFeynman diagram computations, respectively. Lastly, we generalize the\ndiscussion to the momentum space correlation functions in the presence of a\nboundary.",
+            "pdf_url": "http://arxiv.org/pdf/2403.01933v2",
+            "published": "2024-03-04 11:03:28+00:00",
+            "updated": "2024-08-30 17:13:13+00:00"
+        },
+        {
+            "title": "Real-time Simultaneous Dual Sensing of Temperature and Magnetic Field using NV-based Nano-diamonds",
+            "authors": "Sonia Sarkar, Namita Agrawal, Dasika Shishir, Kasturi Saha",
+            "summary": "Quantum sensors based on Nitrogen Vacancy (NV) centers in diamond are highly\ncapable of sensing multiple physical quantities. In this study, we use\namplitude-modulated lock-in detection of optically detected magnetic resonance\nof NV nanodiamonds (NVND) to investigate the link between temperature (T) and\nthe zero-field splitting parameter (D) and also the relationship between\nmagnetic field values and the difference of resonance frequencies. We also\npresent NVNDs' capacity to simultaneously sense both thermal and magnetic\nfields in real time. This dual-sensing approach is beneficial for studying\nmagnetic materials whose magnetization depends on temperature and the applied\nmagnetic field, such as certain ferromagnetic and ferrimagnetic materials.\nIntegrating real-time thermal and magnetic field measurements provides unique\nopportunities for failure analysis in the integrated circuit (IC) industry and\nfor studying thermodynamic processes in cell physiology. The ability to\nconcurrently monitor temperature and magnetic field variations offers a\npowerful toolset for advancing precision diagnostics and monitoring in these\nfields.",
+            "pdf_url": "http://arxiv.org/pdf/2408.17418v1",
+            "published": "2024-08-30 17:07:33+00:00",
+            "updated": "2024-08-30 17:07:33+00:00"
+        },
+        {
+            "title": "Dynamics of irregular wave fields in the Schamel equation framework",
+            "authors": "Marcelo V. Flamarion, Efim Pelinovsky, Ekaterina Didenkulova",
+            "summary": "The present article is devoted to the study of the dynamics of narrowband\nwave fields within the non-integrable Schamel equation, which plays an\nimportant role in plasma physics, wave dynamics in metamaterials, and\nelectrical circuits. A Monte Carlo approach is used to obtain a large number of\nrandom independent realizations of the wave fields, allowing for an\ninvestigation of the evolution of the following statistical characteristics:\nspectra, moments, and distribution functions. The simulations are conducted for\ndifferent values of the Ursell number (the ratio of nonlinearity to dispersion)\nto study the impact of nonlinearity and dispersion on the processes under\nconsideration.",
+            "pdf_url": "http://arxiv.org/pdf/2408.17411v1",
+            "published": "2024-08-30 16:58:52+00:00",
+            "updated": "2024-08-30 16:58:52+00:00"
+        },
+        {
+            "title": "Semi-supervised permutation invariant particle-level anomaly detection",
+            "authors": "Gabriel Matos, Elena Busch, Ki Ryeong Park, Julia Gonski",
+            "summary": "The development of analysis methods to distinguish potential beyond the\nStandard Model phenomena in a model-agnostic way can significantly enhance the\ndiscovery reach in collider experiments. However, the typical machine learning\n(ML) algorithms employed for this task require fixed length and ordered inputs\nthat break the natural permutation invariance in collision events. To address\nthis, a semi-supervised anomaly detection tool is presented that takes a\nvariable number of particle-level inputs and leverages a signal model to encode\nthis information into a permutation invariant, event-level representation via\nsupervised training with a Particle Flow Network (PFN). Data events are then\nencoded into this representation and given as input to an autoencoder for\nunsupervised ANomaly deTEction on particLe flOw latent sPacE (ANTELOPE),\nclassifying anomalous events based on a low-level and permutation invariant\ninput modeling. Performance of the ANTELOPE architecture is evaluated on\nsimulated samples of hadronic processes in a high energy collider experiment,\nshowing good capability to distinguish disparate models of new physics.",
+            "pdf_url": "http://arxiv.org/pdf/2408.17409v1",
+            "published": "2024-08-30 16:55:27+00:00",
+            "updated": "2024-08-30 16:55:27+00:00"
+        },
+        {
+            "title": "1.5-Femtosecond Delay in Charge Transfer",
+            "authors": "Danylo T. Matselyukh, Florian Rott, Thomas Schnappinger, Pengju Zhang, Zheng Li, Jeremy O. Richardson, Regina de Vivie-Riedle, Hans Jakob W\u00f6rner",
+            "summary": "The transfer of population between two intersecting quantum states is the\nmost fundamental dynamical event that governs a broad variety of processes in\nphysics, chemistry, biology and material science. Whereas any two-state\ndescription implies that population leaving one state instantaneously appears\nin the other state, we show that coupling to additional states, present in all\nreal-world systems, can cause a measurable delay in population transfer. Using\nattosecond spectroscopy supported by advanced quantum-chemical calculations, we\nmeasure a delay of 1.46$\\pm$0.41 fs at a charge-transfer state crossing in\nCF$_3$I$^+$, where an electron hole moves from the fluorine atoms to iodine.\nOur measurements also fully resolve the other fundamental quantum-dynamical\nprocesses involved in the charge-transfer reaction: a vibrational rearrangement\ntime of 9.38$\\pm$0.21 fs (during which the vibrational wave packet travels to\nthe state crossing) and a population-transfer time of 2.3-2.4 fs. Our\nexperimental results and theoretical simulations show that delays in population\ntransfer readily appear in otherwise-adiabatic reactions and are typically on\nthe order of 1 fs for intersecting molecular valence states. These results have\nimplications for many research areas, such as atomic and molecular physics,\ncharge transfer or light harvesting.",
+            "pdf_url": "http://arxiv.org/pdf/2408.17402v1",
+            "published": "2024-08-30 16:40:45+00:00",
+            "updated": "2024-08-30 16:40:45+00:00"
+        },
+        {
+            "title": "Two-neutrino double electron capture of $^{124}$Xe in the first LUX-ZEPLIN exposure",
+            "authors": "J. Aalbers, D. S. Akerib, A. K. Al Musalhi, F. Alder, C. S. Amarasinghe, A. Ames, T. J. Anderson, N. Angelides, H. M. Ara\u00fajo, J. E. Armstrong, M. Arthurs, A. Baker, S. Balashov, J. Bang, J. W. Bargemann, E. E. Barillier, K. Beattie, A. Bhatti, A. Biekert, T. P. Biesiadzinski, H. J. Birch, E. Bishop, G. M. Blockinger, B. Boxer, C. A. J. Brew, P. Br\u00e1s, S. Burdin, M. Buuck, M. C. Carmona-Benitez, M. Carter, A. Chawla, H. Chen, Y. T. Chin, N. I. Chott, M. V. Converse, R. Coronel, A. Cottle, G. Cox, D. Curran, C. E. Dahl, A. David, J. Delgaudio, S. Dey, L. de Viveiros, L. Di Felice, C. Ding, J. E. Y. Dobson, E. Druszkiewicz, S. Dubey, S. R. Eriksen, A. Fan, N. M. Fearon, N. Fieldhouse, S. Fiorucci, H. Flaecher, E. D. Fraser, T. M. A. Fruth, R. J. Gaitskell, A. Geffre, J. Genovesi, C. Ghag, R. Gibbons, S. Gokhale, J. Green, M. G. D. van der Grinten, J. J. Haiston, C. R. Hall, S. Han, E. Hartigan-O'Connor, S. J. Haselschwardt, M. A. Hernandez, S. A. Hertel, G. Heuermann, G. J. Homenides, M. Horn, D. Q. Huang, D. Hunt, E. Jacquet, R. S. James, J. Johnson, A. C. Kaboth, A. C. Kamaha, M. Kannichankandy, D. Khaitan, A. Khazov, I. Khurana, J. Kim, Y. D. Kim, J. Kingston, R. Kirk, D. Kodroff, L. Korley, E. V. Korolkova, H. Kraus, S. Kravitz, L. Kreczko, V. A. Kudryavtsev, D. S. Leonard, K. T. Lesko, C. Levy, J. Lin, A. Lindote, W. H. Lippincott, M. I. Lopes, W. Lorenzon, C. Lu, S. Luitz, P. A. Majewski, A. Manalaysay, R. L. Mannino, C. Maupin, M. E. McCarthy, G. McDowell, D. N. McKinsey, J. McLaughlin, J. B. McLaughlin, R. McMonigle, E. Mizrachi, A. Monte, M. E. Monzani, E. Morrison, B. J. Mount, M. Murdy, A. St. J. Murphy, A. Naylor, H. N. Nelson, F. Neves, A. Nguyen, C. L. O'Brien, I. Olcina, K. C. Oliver-Mallory, J. Orpwood, K. Y Oyulmaz, K. J. Palladino, J. Palmer, N. J. Pannifer, N. Parveen, S. J. Patton, B. Penning, G. Pereira, E. Perry, T. Pershing, A. Piepke, Y. Qie, J. Reichenbacher, C. A. Rhyne, Q. Riffard, G. R. C. Rischbieter, E. Ritchey, H. S. Riyat, R. Rosero, T. Rushton, D. Rynders, D. Santone, A. B. M. R. Sazzad, R. W. Schnee, G. Sehr, B. Shafer, S. Shaw, T. Shutt, J. J. Silk, C. Silva, G. Sinev, J. Siniscalco, R. Smith, V. N. Solovov, P. Sorensen, J. Soria, A. Stevens, K. Stifter, B. Suerfu, T. J. Sumner, M. Szydagis, D. R. Tiedt, M. Timalsina, Z. Tong, D. R. Tovey, J. Tranter, M. Trask, M. Tripathi, A. Vacheret, A. C. Vaitkus, O. Valentino, V. Velan, A. Wang, J. J. Wang, Y. Wang, J. R. Watson, L. Weeldreyer, T. J. Whitis, K. Wild, M. Williams, W. J. Wisniewski, L. Wolf, F. L. H. Wolfs, S. Woodford, D. Woodward, C. J. Wright, Q. Xia, J. Xu, Y. Xu, M. Yeh, D. Yeum, W. Zha, E. A. Zweig",
+            "summary": "The broad physics reach of the LUX-ZEPLIN (LZ) experiment covers rare\nphenomena beyond the direct detection of dark matter. We report precise\nmeasurements of the extremely rare decay of $^{124}$Xe through the process of\ntwo-neutrino double electron capture (2$\\nu$2EC), utilizing a\n$1.39\\,\\mathrm{kg} \\times \\mathrm{yr}$ isotopic exposure from the first LZ\nscience run. A half-life of $T_{1/2}^{2\\nu2\\mathrm{EC}} = (1.09 \\pm\n0.14_{\\text{stat}} \\pm 0.05_{\\text{sys}}) \\times 10^{22}\\,\\mathrm{yr}$ is\nobserved with a statistical significance of $8.3\\,\\sigma$, in agreement with\nliterature. First empirical measurements of the KK capture fraction relative to\nother K-shell modes were conducted, and demonstrate consistency with respect to\nrecent signal models at the $1.4\\,\\sigma$ level.",
+            "pdf_url": "http://arxiv.org/pdf/2408.17391v1",
+            "published": "2024-08-30 16:28:15+00:00",
+            "updated": "2024-08-30 16:28:15+00:00"
+        }
+    ],
+    "Diffusion": [
+        {
+            "title": "Frankenstein: Generating Semantic-Compositional 3D Scenes in One Tri-Plane",
+            "authors": "Han Yan, Yang Li, Zhennan Wu, Shenzhou Chen, Weixuan Sun, Taizhang Shang, Weizhe Liu, Tian Chen, Xiaqiang Dai, Chao Ma, Hongdong Li, Pan Ji",
+            "summary": "We present Frankenstein, a diffusion-based framework that can generate\nsemantic-compositional 3D scenes in a single pass. Unlike existing methods that\noutput a single, unified 3D shape, Frankenstein simultaneously generates\nmultiple separated shapes, each corresponding to a semantically meaningful\npart. The 3D scene information is encoded in one single tri-plane tensor, from\nwhich multiple Singed Distance Function (SDF) fields can be decoded to\nrepresent the compositional shapes. During training, an auto-encoder compresses\ntri-planes into a latent space, and then the denoising diffusion process is\nemployed to approximate the distribution of the compositional scenes.\nFrankenstein demonstrates promising results in generating room interiors as\nwell as human avatars with automatically separated parts. The generated scenes\nfacilitate many downstream applications, such as part-wise re-texturing, object\nrearrangement in the room or avatar cloth re-targeting. Our project page is\navailable at: https://wolfball.github.io/frankenstein/.",
+            "pdf_url": "http://arxiv.org/pdf/2403.16210v2",
+            "published": "2024-03-24 16:09:21+00:00",
+            "updated": "2024-08-30 17:39:50+00:00"
+        },
+        {
+            "title": "Image-Perfect Imperfections: Safety, Bias, and Authenticity in the Shadow of Text-To-Image Model Evolution",
+            "authors": "Yixin Wu, Yun Shen, Michael Backes, Yang Zhang",
+            "summary": "Text-to-image models, such as Stable Diffusion (SD), undergo iterative\nupdates to improve image quality and address concerns such as safety.\nImprovements in image quality are straightforward to assess. However, how model\nupdates resolve existing concerns and whether they raise new questions remain\nunexplored. This study takes an initial step in investigating the evolution of\ntext-to-image models from the perspectives of safety, bias, and authenticity.\nOur findings, centered on Stable Diffusion, indicate that model updates paint a\nmixed picture. While updates progressively reduce the generation of unsafe\nimages, the bias issue, particularly in gender, intensifies. We also find that\nnegative stereotypes either persist within the same Non-White race group or\nshift towards other Non-White race groups through SD updates, yet with minimal\nassociation of these traits with the White race group. Additionally, our\nevaluation reveals a new concern stemming from SD updates: State-of-the-art\nfake image detectors, initially trained for earlier SD versions, struggle to\nidentify fake images generated by updated versions. We show that fine-tuning\nthese detectors on fake images generated by updated versions achieves at least\n96.6\\% accuracy across various SD versions, addressing this issue. Our insights\nhighlight the importance of continued efforts to mitigate biases and\nvulnerabilities in evolving text-to-image models.",
+            "pdf_url": "http://arxiv.org/pdf/2408.17285v1",
+            "published": "2024-08-30 13:33:07+00:00",
+            "updated": "2024-08-30 13:33:07+00:00"
+        },
+        {
+            "title": "Object-Centric Diffusion for Efficient Video Editing",
+            "authors": "Kumara Kahatapitiya, Adil Karjauv, Davide Abati, Fatih Porikli, Yuki M. Asano, Amirhossein Habibian",
+            "summary": "Diffusion-based video editing have reached impressive quality and can\ntransform either the global style, local structure, and attributes of given\nvideo inputs, following textual edit prompts. However, such solutions typically\nincur heavy memory and computational costs to generate temporally-coherent\nframes, either in the form of diffusion inversion and/or cross-frame attention.\nIn this paper, we conduct an analysis of such inefficiencies, and suggest\nsimple yet effective modifications that allow significant speed-ups whilst\nmaintaining quality. Moreover, we introduce Object-Centric Diffusion, to fix\ngeneration artifacts and further reduce latency by allocating more computations\ntowards foreground edited regions, arguably more important for perceptual\nquality. We achieve this by two novel proposals: i) Object-Centric Sampling,\ndecoupling the diffusion steps spent on salient or background regions and\nspending most on the former, and ii) Object-Centric Token Merging, which\nreduces cost of cross-frame attention by fusing redundant tokens in unimportant\nbackground regions. Both techniques are readily applicable to a given video\nediting model without retraining, and can drastically reduce its memory and\ncomputational cost. We evaluate our proposals on inversion-based and\ncontrol-signal-based editing pipelines, and show a latency reduction up to 10x\nfor a comparable synthesis quality. Project page:\nqualcomm-ai-research.github.io/object-centric-diffusion.",
+            "pdf_url": "http://arxiv.org/pdf/2401.05735v3",
+            "published": "2024-01-11 08:36:15+00:00",
+            "updated": "2024-08-30 13:28:38+00:00"
+        },
+        {
+            "title": "DiffLoad: Uncertainty Quantification in Electrical Load Forecasting with Diffusion Model",
+            "authors": "Zhixian Wang, Qingsong Wen, Chaoli Zhang, Liang Sun, Yi Wang",
+            "summary": "Electrical load forecasting plays a crucial role in decision-making for power\nsystems, including unit commitment and economic dispatch. The integration of\nrenewable energy sources and the occurrence of external events, such as the\nCOVID-19 pandemic, have rapidly increased uncertainties in load forecasting.\nThe uncertainties in load forecasting can be divided into two types: epistemic\nuncertainty and aleatoric uncertainty. Separating these types of uncertainties\ncan help decision-makers better understand where and to what extent the\nuncertainty is, thereby enhancing their confidence in the following\ndecision-making. This paper proposes a diffusion-based Seq2Seq structure to\nestimate epistemic uncertainty and employs the robust additive Cauchy\ndistribution to estimate aleatoric uncertainty. Our method not only ensures the\naccuracy of load forecasting but also demonstrates the ability to separate the\ntwo types of uncertainties and be applicable to different levels of loads. The\nrelevant code can be found at\n\\url{https://anonymous.4open.science/r/DiffLoad-4714/}.",
+            "pdf_url": "http://arxiv.org/pdf/2306.01001v4",
+            "published": "2023-05-31 05:04:50+00:00",
+            "updated": "2024-08-30 10:41:55+00:00"
+        },
+        {
+            "title": "VQ4DiT: Efficient Post-Training Vector Quantization for Diffusion Transformers",
+            "authors": "Juncan Deng, Shuaiting Li, Zeyu Wang, Hong Gu, Kedong Xu, Kejie Huang",
+            "summary": "The Diffusion Transformers Models (DiTs) have transitioned the network\narchitecture from traditional UNets to transformers, demonstrating exceptional\ncapabilities in image generation. Although DiTs have been widely applied to\nhigh-definition video generation tasks, their large parameter size hinders\ninference on edge devices. Vector quantization (VQ) can decompose model weight\ninto a codebook and assignments, allowing extreme weight quantization and\nsignificantly reducing memory usage. In this paper, we propose VQ4DiT, a fast\npost-training vector quantization method for DiTs. We found that traditional VQ\nmethods calibrate only the codebook without calibrating the assignments. This\nleads to weight sub-vectors being incorrectly assigned to the same assignment,\nproviding inconsistent gradients to the codebook and resulting in a suboptimal\nresult. To address this challenge, VQ4DiT calculates the candidate assignment\nset for each weight sub-vector based on Euclidean distance and reconstructs the\nsub-vector based on the weighted average. Then, using the zero-data and\nblock-wise calibration method, the optimal assignment from the set is\nefficiently selected while calibrating the codebook. VQ4DiT quantizes a DiT\nXL/2 model on a single NVIDIA A100 GPU within 20 minutes to 5 hours depending\non the different quantization settings. Experiments show that VQ4DiT\nestablishes a new state-of-the-art in model size and performance trade-offs,\nquantizing weights to 2-bit precision while retaining acceptable image\ngeneration quality.",
+            "pdf_url": "http://arxiv.org/pdf/2408.17131v1",
+            "published": "2024-08-30 09:15:54+00:00",
+            "updated": "2024-08-30 09:15:54+00:00"
+        }
+    ],
+    "Quantitative Finance": [
+        {
+            "title": "A Framework for Digital Asset Risks with Insurance Applications",
+            "authors": "Zhengming Li, Jianxi Su, Maochao Xu, Jimmy Yuen",
+            "summary": "The remarkable growth of digital assets, starting from the inception of\nBitcoin in 2009 into a 1 trillion market in 2024, underscores the momentum\nbehind disruptive technologies and the global appetite for digital assets. This\npaper develops a framework to enhance actuaries' understanding of the cyber\nrisks associated with the developing digital asset ecosystem, as well as their\nmeasurement methods in the context of digital asset insurance. By integrating\nactuarial perspectives, we aim to enhance understanding and modeling of cyber\nrisks at both the micro and systemic levels. The qualitative examination sheds\nlight on blockchain technology and its associated risks, while our quantitative\nframework offers a rigorous approach to modeling cyber risks in digital asset\ninsurance portfolios. This multifaceted approach serves three primary\nobjectives: i) offer a clear and accessible education on the evolving digital\nasset ecosystem and the diverse spectrum of cyber risks it entails; ii) develop\na scientifically rigorous framework for quantifying cyber risks in the digital\nasset ecosystem; iii) provide practical applications, including pricing\nstrategies and tail risk management. Particularly, we develop\nfrequency-severity models based on real loss data for pricing cyber risks in\ndigit assets and utilize Monte Carlo simulation to estimate the tail risks,\noffering practical insights for risk management strategies. As digital assets\ncontinue to reshape finance, our work serves as a foundational step towards\nsafeguarding the integrity and stability of this rapidly evolving landscape.",
+            "pdf_url": "http://arxiv.org/pdf/2408.17227v1",
+            "published": "2024-08-30 12:11:30+00:00",
+            "updated": "2024-08-30 12:11:30+00:00"
+        }
+    ]
+}

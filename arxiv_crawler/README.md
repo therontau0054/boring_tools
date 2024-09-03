@@ -50,6 +50,36 @@ TODO:
 
 
 
+
+## Update on 2024-09-03
+
+### Physics
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2023-10-02|2024-08-30|Nucleon electric polarizabilities and nucleon-pion scattering at physical pion mass|Xuan-He Wang|[2310.01168v3](http://arxiv.org/pdf/2310.01168v3)|
+|2024-08-30|2024-08-30|Analysis on the von Neumann entropy under the measurement-based feedback control|Kohei Kobayashi|[2408.17442v1](http://arxiv.org/pdf/2408.17442v1)|
+|2024-08-30|2024-08-30|Imprinting New Physics by using Angular profiles of the FCNC process $B_{c}\to D_{s}^{*}\left(\to \;D_{s}π\right)\ell^{+}\ell^{-}$|Hira Waseem|[2408.17436v1](http://arxiv.org/pdf/2408.17436v1)|
+|2024-02-27|2024-08-30|Quantum Distance Approximation for Persistence Diagrams|Bernardo Ameneyro|[2402.17295v2](http://arxiv.org/pdf/2402.17295v2)|
+|2024-03-04|2024-08-30|Non-relativistic Conformal Field Theory in Momentum Space|Rajesh Kumar Gupta|[2403.01933v2](http://arxiv.org/pdf/2403.01933v2)|
+|2024-08-30|2024-08-30|Real-time Simultaneous Dual Sensing of Temperature and Magnetic Field using NV-based Nano-diamonds|Sonia Sarkar|[2408.17418v1](http://arxiv.org/pdf/2408.17418v1)|
+|2024-08-30|2024-08-30|Dynamics of irregular wave fields in the Schamel equation framework|Marcelo V. Flamarion|[2408.17411v1](http://arxiv.org/pdf/2408.17411v1)|
+|2024-08-30|2024-08-30|Semi-supervised permutation invariant particle-level anomaly detection|Gabriel Matos|[2408.17409v1](http://arxiv.org/pdf/2408.17409v1)|
+|2024-08-30|2024-08-30|1.5-Femtosecond Delay in Charge Transfer|Danylo T. Matselyukh|[2408.17402v1](http://arxiv.org/pdf/2408.17402v1)|
+|2024-08-30|2024-08-30|Two-neutrino double electron capture of $^{124}$Xe in the first LUX-ZEPLIN exposure|J. Aalbers|[2408.17391v1](http://arxiv.org/pdf/2408.17391v1)|
+
+### Diffusion
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2024-03-24|2024-08-30|Frankenstein: Generating Semantic-Compositional 3D Scenes in One Tri-Plane|Han Yan|[2403.16210v2](http://arxiv.org/pdf/2403.16210v2)|
+|2024-08-30|2024-08-30|Image-Perfect Imperfections: Safety, Bias, and Authenticity in the Shadow of Text-To-Image Model Evolution|Yixin Wu|[2408.17285v1](http://arxiv.org/pdf/2408.17285v1)|
+|2024-01-11|2024-08-30|Object-Centric Diffusion for Efficient Video Editing|Kumara Kahatapitiya|[2401.05735v3](http://arxiv.org/pdf/2401.05735v3)|
+|2023-05-31|2024-08-30|DiffLoad: Uncertainty Quantification in Electrical Load Forecasting with Diffusion Model|Zhixian Wang|[2306.01001v4](http://arxiv.org/pdf/2306.01001v4)|
+|2024-08-30|2024-08-30|VQ4DiT: Efficient Post-Training Vector Quantization for Diffusion Transformers|Juncan Deng|[2408.17131v1](http://arxiv.org/pdf/2408.17131v1)|
+
+### Quantitative Finance
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2024-08-30|2024-08-30|A Framework for Digital Asset Risks with Insurance Applications|Zhengming Li|[2408.17227v1](http://arxiv.org/pdf/2408.17227v1)|
 ## Update on 2024-08-31
 
 ### Physics
