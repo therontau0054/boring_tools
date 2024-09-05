@@ -1,0 +1,118 @@
+{
+    "Physics": [
+        {
+            "title": "Pseudospectral method for solving PDEs using Matrix Product States",
+            "authors": "Jorge Gidi, Paula Garc\u00eda-Molina, Luca Tagliacozzo, Juan Jos\u00e9 Garc\u00eda-Ripoll",
+            "summary": "This research focuses on solving time-dependent partial differential\nequations (PDEs), in particular the time-dependent Schr\\\"odinger equation,\nusing matrix product states (MPS). We propose an extension of Hermite\nDistributed Approximating Functionals (HDAF) to MPS, a highly accurate\npseudospectral method for approximating functions of derivatives. Integrating\nHDAF into an MPS finite precision algebra, we test four types of\nquantum-inspired algorithms for time evolution: explicit Runge-Kutta methods,\nCrank-Nicolson method, explicitly restarted Arnoli iteration and split-step.\nThe benchmark problem is the expansion of a particle in a quantum quench,\ncharacterized by a rapid increase in space requirements, where HDAF surpasses\ntraditional finite difference methods in accuracy with a comparable cost.\nMoreover, the efficient HDAF approximation to the free propagator avoids the\nneed for Fourier transforms in split-step methods, significantly enhancing\ntheir performance with an improved balance in cost and accuracy. Both\napproaches exhibit similar error scaling and run times compared to FFT vector\nmethods; however, MPS offer an exponential advantage in memory, overcoming\nvector limitations to enable larger discretizations and expansions. Finally,\nthe MPS HDAF split-step method successfully reproduces the physical behavior of\na particle expansion in a double-well potential, demonstrating viability for\nactual research scenarios.",
+            "pdf_url": "http://arxiv.org/pdf/2409.02916v1",
+            "published": "2024-09-04 17:53:38+00:00",
+            "updated": "2024-09-04 17:53:38+00:00"
+        },
+        {
+            "title": "A New Solution to the Callan Rubakov Effect",
+            "authors": "T. Daniel Brennan",
+            "summary": "In this paper we study the scattering of massive fermions off of smooth,\nspherically symmetric monopoles in $4d$ $SU(2)$ gauge theory. We propose a\ncomplete physical picture of the monopole-fermion interaction which encompasses\nall angular momentum modes. We show that as an in-going fermion scatters off a\nmonopole, it excites trapped $W$-bosons in the monopole core by a version of\nthe Witten effect so that the monopole can accrue charge and transform into a\ndyon at parametrically low energies. The imparted electric charge is then\nprotected from decay by an emergent $\\mathbb{Z}_N$ generalized global symmetry,\ncreating a stable dyon. At sufficiently low energies, the scattered fermion can\nbe trapped by the dyon's electrostatic potential, forming a bound state, which\ncan decay into spherically symmetric fermion modes subject to the preserved\n$\\mathbb{Z}_N$ global symmetry. We propose that monopole-fermion scattering can\nbe described in this way without needing to add ``new'' states to the Hilbert\nspace, thereby eliminating a long standing confusion in the Callan Rubakov\neffect.",
+            "pdf_url": "http://arxiv.org/pdf/2309.00680v5",
+            "published": "2023-09-01 18:00:13+00:00",
+            "updated": "2024-09-04 17:48:54+00:00"
+        },
+        {
+            "title": "Kolmogorov n-Widths for Multitask Physics-Informed Machine Learning (PIML) Methods: Towards Robust Metrics",
+            "authors": "Michael Penwarden, Houman Owhadi, Robert M. Kirby",
+            "summary": "Physics-informed machine learning (PIML) as a means of solving partial\ndifferential equations (PDE) has garnered much attention in the Computational\nScience and Engineering (CS&E) world. This topic encompasses a broad array of\nmethods and models aimed at solving a single or a collection of PDE problems,\ncalled multitask learning. PIML is characterized by the incorporation of\nphysical laws into the training process of machine learning models in lieu of\nlarge data when solving PDE problems. Despite the overall success of this\ncollection of methods, it remains incredibly difficult to analyze, benchmark,\nand generally compare one approach to another. Using Kolmogorov n-widths as a\nmeasure of effectiveness of approximating functions, we judiciously apply this\nmetric in the comparison of various multitask PIML architectures. We compute\nlower accuracy bounds and analyze the model's learned basis functions on\nvarious PDE problems. This is the first objective metric for comparing\nmultitask PIML architectures and helps remove uncertainty in model validation\nfrom selective sampling and overfitting. We also identify avenues of\nimprovement for model architectures, such as the choice of activation function,\nwhich can drastically affect model generalization to \"worst-case\" scenarios,\nwhich is not observed when reporting task-specific errors. We also incorporate\nthis metric into the optimization process through regularization, which\nimproves the models' generalizability over the multitask PDE problem.",
+            "pdf_url": "http://arxiv.org/pdf/2402.11126v2",
+            "published": "2024-02-16 23:21:40+00:00",
+            "updated": "2024-09-04 17:46:07+00:00"
+        },
+        {
+            "title": "The single ion of Vanadium in an individual Quantum Dot",
+            "authors": "Karolina Ewa Po\u0142czy\u0144ska, Tomasz Kazimierczuk, Piotr Kossacki, Wojciech Pacuski",
+            "summary": "We present the basic properties of a new physical system: an individual V2+\nion embedded into an individual quantum dot. The system is realized utilizing\nmolecular beam epitaxy and it is observed using a low-temperature\npolarization-resolved magneto-photoluminescence. The nature of the system is\nconfirmed by observation of the excitonic lines split due to the interactions\nof a vanadium ion with carriers confined in a CdTe/ZnTe quantum dot. Observed\ndata are explained by the numerical modeling which includes s,p-d exchange\ninteraction, Zeeman splitting of the exciton and the ion, diamagnetic shift,\nand the presence of shear strain within the quantum dot. The fundamental state\nof vanadium exhibits a spin 1/2 making this system a textbook localized qubit.",
+            "pdf_url": "http://arxiv.org/pdf/2409.02900v1",
+            "published": "2024-09-04 17:44:22+00:00",
+            "updated": "2024-09-04 17:44:22+00:00"
+        },
+        {
+            "title": "Physically constrained quantum clock-driven dynamics",
+            "authors": "Dario Cilluffo, Lea Lautenbacher, Giovanni Spaventa, Susana F. Huelga, Martin B. Plenio",
+            "summary": "Thermal machines are physical systems specifically designed to make thermal\nenergy available for practical use through state transformations in a cyclic\nprocess. This concept relies on the presence of an additional element equipped\nwith a clock, controlling which interaction Hamiltonian between the system and\nthe reservoirs must act at a certain time and that remains unaffected during\nthis process. In the domain of quantum dynamics, there is substantial evidence\nto suggest that fulfilling this final condition is, in fact, impossible, except\nin ideal and far-from-reality cases. In this study we start from one such\nidealized condition and proceed to relax the primary approximations to make the\nmodel more realistic and less ideal. The main result is a fully quantum\ndescription of the engine-clock dynamics within a realistic quantum framework.\nFurthermore, this approach offers the possibility to address the deeper and\nmore fundamental challenge of defining meaningful time operators in the realm\nof quantum mechanics from a different standpoint.",
+            "pdf_url": "http://arxiv.org/pdf/2409.02857v1",
+            "published": "2024-09-04 16:30:47+00:00",
+            "updated": "2024-09-04 16:30:47+00:00"
+        },
+        {
+            "title": "Semiquantum private comparison based on Bell states without quantum measurements from the classical user",
+            "authors": "Mao-Jie Geng, Xia Li, Tian-Yu Ye",
+            "summary": "In this paper, we propose a novel semiquantum private comparison (SQPC)\nprotocol based on Bell states, which enables one quantum user and one classical\nuser to compare the equality of their private inputs with the help of a\nsemi-honest quantum third party (TP). TP is assumed to be semi-honest in the\nsense that she may take all possible attacks to steal users' private inputs\nexcept conspiring with anyone. The security analysis validates that our\nprotocol can resist not only the attacks from internal participants but also\nthe attacks from an external eavesdropper. Besides, our protocol only asks TP\nto perform Bell basis measurements but doesn't need quantum entanglement\nswapping; and it releases the classical user from conducting quantum\nmeasurements and having a quantum memory. Moreover, our protocol can take\nadvantage over previous SQPC protocols based on Bell states in qubit\nefficiency. Finally, our protocol can be generalized into its counterpart of\nthe collective-dephasing noise quantum channel.",
+            "pdf_url": "http://arxiv.org/pdf/2205.04927v4",
+            "published": "2022-05-10 14:32:53+00:00",
+            "updated": "2024-09-04 16:02:57+00:00"
+        },
+        {
+            "title": "Muon $g$$-$$2$: blinding for data-driven hadronic vacuum polarization",
+            "authors": "Alexander Keshavarzi, Daisuke Nomura, Thomas Teubner, Aidan Wright",
+            "summary": "The KNT(W) data-driven determinations of the hadronic vacuum polarization\n(HVP) are crucial inputs to previous and future Standard Model (SM) predictions\nof the muon's anomalous magnetic moment, $a_\\mu$. With the muon $g$$-$$2$'s new\nphysics case uncertain due to disagreeing HVP evaluations, new SM predictions\nand experimental measurements of $a_\\mu$ expected soon, and a complete revamp\nof the KNTW analysis framework underway, this letter motivates and describes a\nblinding scheme for data-driven HVP determinations that has been implemented\nfor future KNTW analyses.",
+            "pdf_url": "http://arxiv.org/pdf/2409.02827v1",
+            "published": "2024-09-04 15:49:36+00:00",
+            "updated": "2024-09-04 15:49:36+00:00"
+        },
+        {
+            "title": "Physics Perspectives with the ePIC Far-Forward and Far-Backward detectors",
+            "authors": "Michael Pitt",
+            "summary": "The forthcoming Electron--Ion Collider (EIC), which is expected to commence\noperations in the early 2030s, has already reached several significant\nmilestones on its path toward completion. The core of the EIC physics program\nis the 3D imaging of partonic structures in protons and nuclei. The\nexperimental detector setup required to enable this primary objective utilizes\n\"far-forward\" (FF) and \"far-backward\" (FB) detectors positioned downstream in\nthe hadron-going and electron-going directions, respectively, from the\ninteraction point of the EIC. The primary purpose of the FB detectors is to\nmonitor luminosity and measure scattered electrons in collisions in the EIC,\nwhile the array of FF detectors is used to tag and reconstruct both charged and\nneutral particles that scatter at small angles. These detectors also enable a\nbroader physics program than was initially envisioned, enhancing the EIC's\nresearch potential. The expanded capabilities have been a prime focus for\nengaging the broader nuclear physics community to build a robust groundwork for\nthe EIC. In these proceedings, we will describe the FF/FB detectors and review\nthe advanced forward physics program facilitated by them at the EIC.",
+            "pdf_url": "http://arxiv.org/pdf/2409.02811v1",
+            "published": "2024-09-04 15:30:57+00:00",
+            "updated": "2024-09-04 15:30:57+00:00"
+        },
+        {
+            "title": "Understanding the puzzle of angular momentum conservation in beta decay and related processes",
+            "authors": "Gordon Baym, Jen-Chieh Peng, C. J. Pethick",
+            "summary": "We ask the question of how angular momentum is conserved in electroweak\ninteraction processes. To introduce the problem with a minimum of mathematics,\nwe first raise the same issue in elastic scattering of a circularly polarized\nphoton by an atom, where the scattered photon has a different spin direction\nthan the original photon, and note its presence in scattering of a fully\nrelativistic spin-1/2 particle by a central potential. We then consider inverse\nbeta decay in which an electron is emitted following the capture of a neutrino\non a nucleus. While both the incident neutrino and final electron spins are\nantiparallel to their momenta, the final spin is in a different direction than\nthat of the neutrino -- an apparent change of angular momentum. However, prior\nto measurement of the final particle, in all these cases angular momentum is\nindeed conserved, The apparent non-conservation of angular momentum arises in\nthe quantum measurement process in which the measuring apparatus does not have\nan initially well-defined angular momentum, but is localized in the outside\nworld. We generalize the discussion to massive neutrinos and electrons, and\nexamine nuclear beta decay and electron-positron annihilation processes through\nthe same lens, enabling physically transparent derivations of angular and\nhelicity distributions in these reactions.",
+            "pdf_url": "http://arxiv.org/pdf/2405.15011v2",
+            "published": "2024-05-23 19:34:32+00:00",
+            "updated": "2024-09-04 15:26:08+00:00"
+        },
+        {
+            "title": "Josephson diode effect in one-dimensional quantum wires connected to superconductors with mixed singlet-triplet pairing",
+            "authors": "Abhiram Soori",
+            "summary": "The Josephson diode effect (JDE), characterized by asymmetric critical\ncurrents in a Josephson junction, has drawn considerable attention in the field\nof condensed matter physics. We investigate the conditions under which JDE can\nmanifest in a one-dimensional Josephson junction composed of a\nspin-orbit-coupled quantum wire with an applied Zeeman field, connected between\ntwo superconductors. Our study reveals that while spin-orbit coupling (SOC) and\na Zeeman field in the quantum wire are not sufficient to induce JDE when the\nsuperconductors are purely singlet, the introduction of triplet pairing in the\nsuperconductors leads to the emergence of JDE. This finding highlights the\npotential of JDE as a probe for triplet superconductivity. We further\ndemonstrate that even in absence of SOC in the quantum wire, JDE can arise when\nthe directions of the triplet pairing and the Zeeman field are non-collinear,\nprovided the superconductors exhibit mixed singlet-triplet pairing.\nAdditionally, we identify specific conditions under which JDE is absent,\nnamely, when the pairing is purely triplet and the directions of the SOC and\nthe triplet pairing are perpendicular. Our findings indicate that JDE is always\naccompanied by the anomalous Josephson effect. The diode effect coefficient is\nfound to oscillate with variations in the chemical potential of the quantum\nwire, driven by Fabry-P\\'erot interference effects. Our results suggest that\nquantum wires in Josephson junctions could serve as effective platforms for\nprobing triplet superconductivity through the observation of JDE.",
+            "pdf_url": "http://arxiv.org/pdf/2409.02794v1",
+            "published": "2024-09-04 15:09:32+00:00",
+            "updated": "2024-09-04 15:09:32+00:00"
+        }
+    ],
+    "Diffusion": [
+        {
+            "title": "Masked Diffusion Models are Secretly Time-Agnostic Masked Models and Exploit Inaccurate Categorical Sampling",
+            "authors": "Kaiwen Zheng, Yongxin Chen, Hanzi Mao, Ming-Yu Liu, Jun Zhu, Qinsheng Zhang",
+            "summary": "Masked diffusion models (MDMs) have emerged as a popular research topic for\ngenerative modeling of discrete data, thanks to their superior performance over\nother discrete diffusion models, and are rivaling the auto-regressive models\n(ARMs) for language modeling tasks. The recent effort in simplifying the masked\ndiffusion framework further leads to alignment with continuous-space diffusion\nmodels and more principled training and sampling recipes. In this paper,\nhowever, we reveal that both training and sampling of MDMs are theoretically\nfree from the time variable, arguably the key signature of diffusion models,\nand are instead equivalent to masked models. The connection on the sampling\naspect is drawn by our proposed first-hitting sampler (FHS). Specifically, we\nshow that the FHS is theoretically equivalent to MDMs' original generation\nprocess while significantly alleviating the time-consuming categorical sampling\nand achieving a 20$\\times$ speedup. In addition, our investigation challenges\nprevious claims that MDMs can surpass ARMs in generative perplexity. We\nidentify, for the first time, an underlying numerical issue, even with the\n32-bit floating-point precision, which results in inaccurate categorical\nsampling. We show that the numerical issue lowers the effective temperature\nboth theoretically and empirically, leading to unfair assessments of MDMs'\ngeneration results in the previous literature.",
+            "pdf_url": "http://arxiv.org/pdf/2409.02908v1",
+            "published": "2024-09-04 17:48:19+00:00",
+            "updated": "2024-09-04 17:48:19+00:00"
+        },
+        {
+            "title": "GT-CausIn: a novel causal-based insight for traffic prediction",
+            "authors": "Ting Gao, Rodrigo Kappes Marques, Lei Yu",
+            "summary": "Traffic forecasting is an important application of spatiotemporal series\nprediction. Among different methods, graph neural networks have achieved so far\nthe most promising results, learning relations between graph nodes then becomes\na crucial task. However, improvement space is very limited when these relations\nare learned in a node-to-node manner. The challenge stems from (1) obscure\ntemporal dependencies between different stations, (2) difficulties in defining\nvariables beyond the node level, and (3) no ready-made method to validate the\nlearned relations. To confront these challenges, we define legitimate traffic\ncausal variables to discover the causal relation inside the traffic network,\nwhich is carefully checked with statistic tools and case analysis. We then\npresent a novel model named Graph Spatial-Temporal Network Based on Causal\nInsight (GT-CausIn), where prior learned causal information is integrated with\ngraph diffusion layers and temporal convolutional network (TCN) layers.\nExperiments are carried out on two real-world traffic datasets: PEMS-BAY and\nMETR-LA, which show that GT-CausIn significantly outperforms the\nstate-of-the-art models on mid-term and long-term prediction.",
+            "pdf_url": "http://arxiv.org/pdf/2212.05782v2",
+            "published": "2022-12-12 09:09:39+00:00",
+            "updated": "2024-09-04 13:06:58+00:00"
+        },
+        {
+            "title": "PoseTalk: Text-and-Audio-based Pose Control and Motion Refinement for One-Shot Talking Head Generation",
+            "authors": "Jun Ling, Yiwen Wang, Han Xue, Rong Xie, Li Song",
+            "summary": "While previous audio-driven talking head generation (THG) methods generate\nhead poses from driving audio, the generated poses or lips cannot match the\naudio well or are not editable. In this study, we propose \\textbf{PoseTalk}, a\nTHG system that can freely generate lip-synchronized talking head videos with\nfree head poses conditioned on text prompts and audio. The core insight of our\nmethod is using head pose to connect visual, linguistic, and audio signals.\nFirst, we propose to generate poses from both audio and text prompts, where the\naudio offers short-term variations and rhythm correspondence of the head\nmovements and the text prompts describe the long-term semantics of head\nmotions. To achieve this goal, we devise a Pose Latent Diffusion (PLD) model to\ngenerate motion latent from text prompts and audio cues in a pose latent space.\nSecond, we observe a loss-imbalance problem: the loss for the lip region\ncontributes less than 4\\% of the total reconstruction loss caused by both pose\nand lip, making optimization lean towards head movements rather than lip\nshapes. To address this issue, we propose a refinement-based learning strategy\nto synthesize natural talking videos using two cascaded networks, i.e.,\nCoarseNet, and RefineNet. The CoarseNet estimates coarse motions to produce\nanimated images in novel poses and the RefineNet focuses on learning finer lip\nmotions by progressively estimating lip motions from low-to-high resolutions,\nyielding improved lip-synchronization performance. Experiments demonstrate our\npose prediction strategy achieves better pose diversity and realness compared\nto text-only or audio-only, and our video generator model outperforms\nstate-of-the-art methods in synthesizing talking videos with natural head\nmotions. Project: https://junleen.github.io/projects/posetalk.",
+            "pdf_url": "http://arxiv.org/pdf/2409.02657v1",
+            "published": "2024-09-04 12:30:25+00:00",
+            "updated": "2024-09-04 12:30:25+00:00"
+        },
+        {
+            "title": "Solving Video Inverse Problems Using Image Diffusion Models",
+            "authors": "Taesung Kwon, Jong Chul Ye",
+            "summary": "Recently, diffusion model-based inverse problem solvers (DIS) have emerged as\nstate-of-the-art approaches for addressing inverse problems, including image\nsuper-resolution, deblurring, inpainting, etc. However, their application to\nvideo inverse problems arising from spatio-temporal degradation remains largely\nunexplored due to the challenges in training video diffusion models. To address\nthis issue, here we introduce an innovative video inverse solver that leverages\nonly image diffusion models. Specifically, by drawing inspiration from the\nsuccess of the recent decomposed diffusion sampler (DDS), our method treats the\ntime dimension of a video as the batch dimension of image diffusion models and\nsolves spatio-temporal optimization problems within denoised spatio-temporal\nbatches derived from each image diffusion model. Moreover, we introduce a\nbatch-consistent diffusion sampling strategy that encourages consistency across\nbatches by synchronizing the stochastic noise components in image diffusion\nmodels. Our approach synergistically combines batch-consistent sampling with\nsimultaneous optimization of denoised spatio-temporal batches at each reverse\ndiffusion step, resulting in a novel and efficient diffusion sampling strategy\nfor video inverse problems. Experimental results demonstrate that our method\neffectively addresses various spatio-temporal degradations in video inverse\nproblems, achieving state-of-the-art reconstructions. Project page:\nhttps://solving-video-inverse.github.io/main/",
+            "pdf_url": "http://arxiv.org/pdf/2409.02574v1",
+            "published": "2024-09-04 09:48:27+00:00",
+            "updated": "2024-09-04 09:48:27+00:00"
+        }
+    ]
+}

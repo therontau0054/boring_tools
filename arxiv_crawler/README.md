@@ -51,6 +51,30 @@ TODO:
 
 
 
+
+## Update on 2024-09-05
+
+### Physics
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2024-09-04|2024-09-04|Pseudospectral method for solving PDEs using Matrix Product States|Jorge Gidi|[2409.02916v1](http://arxiv.org/pdf/2409.02916v1)|
+|2023-09-01|2024-09-04|A New Solution to the Callan Rubakov Effect|T. Daniel Brennan|[2309.00680v5](http://arxiv.org/pdf/2309.00680v5)|
+|2024-02-16|2024-09-04|Kolmogorov n-Widths for Multitask Physics-Informed Machine Learning (PIML) Methods: Towards Robust Metrics|Michael Penwarden|[2402.11126v2](http://arxiv.org/pdf/2402.11126v2)|
+|2024-09-04|2024-09-04|The single ion of Vanadium in an individual Quantum Dot|Karolina Ewa Połczyńska|[2409.02900v1](http://arxiv.org/pdf/2409.02900v1)|
+|2024-09-04|2024-09-04|Physically constrained quantum clock-driven dynamics|Dario Cilluffo|[2409.02857v1](http://arxiv.org/pdf/2409.02857v1)|
+|2022-05-10|2024-09-04|Semiquantum private comparison based on Bell states without quantum measurements from the classical user|Mao-Jie Geng|[2205.04927v4](http://arxiv.org/pdf/2205.04927v4)|
+|2024-09-04|2024-09-04|Muon $g$$-$$2$: blinding for data-driven hadronic vacuum polarization|Alexander Keshavarzi|[2409.02827v1](http://arxiv.org/pdf/2409.02827v1)|
+|2024-09-04|2024-09-04|Physics Perspectives with the ePIC Far-Forward and Far-Backward detectors|Michael Pitt|[2409.02811v1](http://arxiv.org/pdf/2409.02811v1)|
+|2024-05-23|2024-09-04|Understanding the puzzle of angular momentum conservation in beta decay and related processes|Gordon Baym|[2405.15011v2](http://arxiv.org/pdf/2405.15011v2)|
+|2024-09-04|2024-09-04|Josephson diode effect in one-dimensional quantum wires connected to superconductors with mixed singlet-triplet pairing|Abhiram Soori|[2409.02794v1](http://arxiv.org/pdf/2409.02794v1)|
+
+### Diffusion
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2024-09-04|2024-09-04|Masked Diffusion Models are Secretly Time-Agnostic Masked Models and Exploit Inaccurate Categorical Sampling|Kaiwen Zheng|[2409.02908v1](http://arxiv.org/pdf/2409.02908v1)|
+|2022-12-12|2024-09-04|GT-CausIn: a novel causal-based insight for traffic prediction|Ting Gao|[2212.05782v2](http://arxiv.org/pdf/2212.05782v2)|
+|2024-09-04|2024-09-04|PoseTalk: Text-and-Audio-based Pose Control and Motion Refinement for One-Shot Talking Head Generation|Jun Ling|[2409.02657v1](http://arxiv.org/pdf/2409.02657v1)|
+|2024-09-04|2024-09-04|Solving Video Inverse Problems Using Image Diffusion Models|Taesung Kwon|[2409.02574v1](http://arxiv.org/pdf/2409.02574v1)|
 ## Update on 2024-09-03
 
 ### Physics
