@@ -52,6 +52,37 @@ TODO:
 
 
 
+
+## Update on 2024-09-07
+
+### Physics
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2024-09-05|2024-09-05|Hybrid Oscillator-Qubit Quantum Processors: Simulating Fermions, Bosons, and Gauge Fields|Eleanor Crane|[2409.03747v1](http://arxiv.org/pdf/2409.03747v1)|
+|2024-09-04|2024-09-05|Performance and tolerance study of the rectilinear cooling channel for a muon collider|Ruihu Zhu|[2409.02613v2](http://arxiv.org/pdf/2409.02613v2)|
+|2024-09-05|2024-09-05|Hardware-Assisted Parameterized Circuit Execution|Abhi D. Rajagopala|[2409.03725v1](http://arxiv.org/pdf/2409.03725v1)|
+|2024-08-26|2024-09-05|Investigating Quantum Spin-Textures Using Universal MJ Hamiltonians|Manish Kumar Mohanta|[2408.14571v2](http://arxiv.org/pdf/2408.14571v2)|
+|2024-09-05|2024-09-05|Physics case for quarkonium studies at the Electron Ion Collider|Daniël Boer|[2409.03691v1](http://arxiv.org/pdf/2409.03691v1)|
+|2024-09-05|2024-09-05|Experimental evidence that a photon can spend a negative amount of time in an atom cloud|Daniela Angulo|[2409.03680v1](http://arxiv.org/pdf/2409.03680v1)|
+|2020-12-10|2024-09-05|A Natural Introduction to Fine-Tuning|Julian De Vuyst|[2012.05617v2](http://arxiv.org/pdf/2012.05617v2)|
+|2024-09-05|2024-09-05|Quantum complexity and localization in random quantum circuits|Himanshu Sahu|[2409.03656v1](http://arxiv.org/pdf/2409.03656v1)|
+|2024-09-05|2024-09-05|Benchmarking the integration of hexagonal boron nitride crystals and thin films into graphene-based van der Waals heterostructures|Taoufiq Ouaj|[2409.03652v1](http://arxiv.org/pdf/2409.03652v1)|
+|2024-07-06|2024-09-05|QCD Masterclass Lectures on Jet Physics and Machine Learning|Andrew J. Larkoski|[2407.04897v2](http://arxiv.org/pdf/2407.04897v2)|
+
+### Diffusion
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2024-09-05|2024-09-05|Lexicon3D: Probing Visual Foundation Models for Complex 3D Scene Understanding|Yunze Man|[2409.03757v1](http://arxiv.org/pdf/2409.03757v1)|
+|2024-09-05|2024-09-05|Multimodal Laryngoscopic Video Analysis for Assisted Diagnosis of Vocal Cord Paralysis|Yucong Zhang|[2409.03597v1](http://arxiv.org/pdf/2409.03597v1)|
+|2024-09-05|2024-09-05|DKDM: Data-Free Knowledge Distillation for Diffusion Models with Any Architecture|Qianlong Xiang|[2409.03550v1](http://arxiv.org/pdf/2409.03550v1)|
+|2024-09-05|2024-09-05|KAN See In the Dark|Aoxiang Ning|[2409.03404v1](http://arxiv.org/pdf/2409.03404v1)|
+|2024-09-03|2024-09-05|LinFusion: 1 GPU, 1 Minute, 16K Image|Songhua Liu|[2409.02097v2](http://arxiv.org/pdf/2409.02097v2)|
+
+### Quantitative Finance
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2023-11-28|2024-09-05|Epistemic Limits of Empirical Finance: Causal Reductionism and Self-Reference|Daniel Polakow|[2311.16570v5](http://arxiv.org/pdf/2311.16570v5)|
+|2024-09-05|2024-09-05|Pricing American Options using Machine Learning Algorithms|Prudence Djagba|[2409.03204v1](http://arxiv.org/pdf/2409.03204v1)|
 ## Update on 2024-09-05
 
 ### Physics
