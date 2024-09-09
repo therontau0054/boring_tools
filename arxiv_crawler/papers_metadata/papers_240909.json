@@ -1,0 +1,126 @@
+{
+    "Physics": [
+        {
+            "title": "Progress in Trapped-Ion Quantum Simulation",
+            "authors": "Michael Foss-Feig, Guido Pagano, Andrew C. Potter, Norman Y. Yao",
+            "summary": "Trapped ions offer long coherence times and high fidelity, programmable\nquantum operations, making them a promising platform for quantum simulation of\ncondensed matter systems, quantum dynamics, and problems related to high-energy\nphysics. We review selected developments in trapped-ion qubits and\narchitectures and discuss quantum simulation applications that utilize these\nemerging capabilities. This review emphasizes developments in digital\n(gate-based) quantum simulations that exploit trapped-ion hardware\ncapabilities, such as flexible qubit connectivity, selective mid-circuit\nmeasurement, and classical feedback, to simulate models with long-range\ninteractions, explore non-unitary dynamics, compress simulations of states with\nlimited entanglement, and reduce the circuit depths required to prepare or\nsimulate long-range entangled states.",
+            "pdf_url": "http://arxiv.org/pdf/2409.02990v2",
+            "published": "2024-09-04 18:00:02+00:00",
+            "updated": "2024-09-06 17:13:17+00:00"
+        },
+        {
+            "title": "Using gravitational waves to see the first second of the Universe",
+            "authors": "Rishav Roshan, Graham White",
+            "summary": "Gravitational waves are a unique probe of the early Universe, as the Universe\nis transparent to gravitational radiation right back to the end of inflation.\nIn this article, we summarise detection prospects and the wide scope of\nprimordial events that could lead to a detectable stochastic gravitational wave\nbackground. Any such background would shed light on what lies beyond the\nStandard Model, sometimes at remarkably high scales. We overview the range of\nstrategies for detecting a stochastic gravitational wave background before\ndelving deep into three major primordial events that can source such a\nbackground. Finally, we summarize the landscape of other sources of primordial\nbackgrounds.",
+            "pdf_url": "http://arxiv.org/pdf/2401.04388v3",
+            "published": "2024-01-09 07:16:59+00:00",
+            "updated": "2024-09-06 16:54:18+00:00"
+        },
+        {
+            "title": "Stories in the two-state vector formalism",
+            "authors": "Patryk Michalski, Andrzej Dragan",
+            "summary": "The two-state vector formalism of quantum mechanics is a time-symmetrized\napproach to standard quantum theory. In our work, we aim to establish rigorous\nfoundations for the future investigation within this formalism. We introduce\nthe concept of a story - a compatible pair consisting of a two-state vector and\nan ideal measurement. Using this concept, we examine the structure of the space\ncomprising all two-state vectors. We conclude that some pairs of two-state\nvectors or their statistical mixtures cannot be physically distinguished. In\nparticular, we demonstrate that not every non-separable two-state vector is\ndistinguishable from a statistical mixture of separable two-state vectors. This\nleads us to formulate the definition of a strictly non-separable two-state\nvector as a genuine manifestation of entanglement between the past and the\nfuture.",
+            "pdf_url": "http://arxiv.org/pdf/2409.04396v1",
+            "published": "2024-09-06 16:37:57+00:00",
+            "updated": "2024-09-06 16:37:57+00:00"
+        },
+        {
+            "title": "Suppressing Gauge Drift in Quantum Simulations with Gauge Transformations",
+            "authors": "Carter Ball",
+            "summary": "The simulation of quantum lattice gauge theories faces the major challenge of\nmaintaining gauge invariance, as various errors in the simulation push the\nstate of the system out of the physical subspace of the system's exponentially\nlarger Hilbert space. This paper outlines a method, based off of previous work,\nthat uses gauge transformations in two ways. Firstly, the method exploits the\nZeno effect by conducting frequent projections to suppress gauge drift. These\nprojections utilize local gauge transformations to destructively interfere\nunphysical amplitudes via coupling to an ancillary qubit while the physical\namplitudes are left untouched, up to a less than unity normalization factor.\nSecondly, gauge transformations are conducted throughout the time evolution of\nthe system to hamper the speed of gauge drift. This paper demonstrates this\nmethod on a pure 1D SU$(2)$ toy model.",
+            "pdf_url": "http://arxiv.org/pdf/2409.04395v1",
+            "published": "2024-09-06 16:36:41+00:00",
+            "updated": "2024-09-06 16:36:41+00:00"
+        },
+        {
+            "title": "Anomalous universal quantum transport in 2D asymptotic quasiperiodic system",
+            "authors": "Ting-Fung Jeffrey Poon, Yuhao Wan, Yucheng Wang, Xiong-Jun Liu",
+            "summary": "Quasiperiodic systems extend the concept of the Anderson transition to\nquasi-random and low-dimensional realms and have garnered widespread attention.\nHere, we propose the asymptotic quasiperiodic two-dimensional systems\ncharacterized by a sequence of rational magnetic fluxes, which have an\nirrational limit, and predict exotic universal wave-packet dynamics and\ntransport phenomena associated with the asymptotic quasiperiodicity (AQP). The\npredictions unveil a class of multiple metal-insulator transitions driven by a\nnovel interplay effect between AQP, relaxation, and finite temperature, which\nfurther reveals a unified and profound mechanism. Specifically, all the\ntransport phenomena, including the wave-packet dynamics, the bulk and edge\ntransport, are unified in the universal scaling laws unveiled in the asymptotic\nquasiperiodic regime, which demonstrate a nontrivial asymptotic connection to\nquantum phases in the quasiperiodic limit. Our work enriches the universal\nquantum transport phenomena, adds to the basic mechanisms underlying\nmetal-insulator transitions, and opens up an avenue to study the exotic\ntransport physics with AQP in high dimensions.",
+            "pdf_url": "http://arxiv.org/pdf/2312.04349v3",
+            "published": "2023-12-07 15:10:25+00:00",
+            "updated": "2024-09-06 16:32:39+00:00"
+        },
+        {
+            "title": "Future singularity in an anisotropic universe",
+            "authors": "Taishi Katsuragawa, Shin'ichi Nojiri, Sergei D. Odintsov",
+            "summary": "We investigate future singularities originating from the anisotropy in the\nUniverse. We formulate a new class of singularities in the homogeneous and\nanisotropic universe, comparing them with the known singularities in the\nhomogeneous and isotropic universe. We also discuss the physical consequences\nof the new singularities. Moreover, we develop a novel reconstruction method\nfor the anisotropic universe by introducing four scalar fields to reconstruct\ncosmological models in which future singularities appear. We present an\nexplicit example where the anisotropy may grow in the future up to singularity.",
+            "pdf_url": "http://arxiv.org/pdf/2406.18368v2",
+            "published": "2024-06-26 14:12:57+00:00",
+            "updated": "2024-09-06 16:11:00+00:00"
+        },
+        {
+            "title": "Kohn-Sham inversion with mathematical guarantees",
+            "authors": "Michael F. Herbst, Vebj\u00f8rn H. Bakkestuen, Andre Laestadius",
+            "summary": "We use an exact Moreau-Yosida regularized formulation to obtain the\nexchange-correlation potential for periodic systems. We reveal a profound\nconnection between rigorous mathematical principles and efficient numerical\nimplementation, which marks the first computation of a Moreau-Yosida-based\ninversion for physical systems. We develop a mathematically rigorous inversion\nalgorithm including error bounds that are verified numerically in bulk silicon.\nThis unlocks a new pathway to analyze Kohn-Sham inversion methods, which we\nexpect in turn to foster mathematical approaches for developing approximate\nfunctionals.",
+            "pdf_url": "http://arxiv.org/pdf/2409.04372v1",
+            "published": "2024-09-06 16:08:00+00:00",
+            "updated": "2024-09-06 16:08:00+00:00"
+        },
+        {
+            "title": "A high-order procedure for computing globally optimal Wannier functions in one-dimensional crystalline insulators",
+            "authors": "Abinand Gopal, Hanwen Zhang",
+            "summary": "A standard task in solid state physics and quantum chemistry is the\ncomputation of localized molecular orbits known as Wannier functions. In this\nmanuscript, we propose a new procedure for computing Wannier functions in\none-dimensional crystalline materials. Our approach proceeds by first\nperforming parallel transport of the Bloch functions using numerical\nintegration. Then, using novel analysis, we show that a simple correction can\nbe analytically computed that yields the optimally localized Wannier function.\nThe resulting scheme is robust and capable of achieving high-order accuracy. We\nillustrate this in a number of numerical experiments.",
+            "pdf_url": "http://arxiv.org/pdf/2409.04369v1",
+            "published": "2024-09-06 16:03:56+00:00",
+            "updated": "2024-09-06 16:03:56+00:00"
+        },
+        {
+            "title": "The decoupling of moduli about the standard embedding",
+            "authors": "Beatrice Chisamanga, Jock McOrist, Sebastien Picard, Eirik Eik Svanes",
+            "summary": "We study the cohomology of an elliptic differential complex arising from the\ninfinitesimal moduli of heterotic string theory. We compute these cohomology\ngroups at the standard embedding, and show that they decompose into a direct\nsum of cohomologies. While this is often assumed in the literature, it had not\nbeen explicitly demonstrated. Given a stable gauge bundle over a complex\nthreefold with trivial canonical bundle and no holomorphic vector fields, we\nalso show that the Euler characteristic of this differential complex is zero.\nThis points towards a perfect obstruction theory for the heterotic moduli\nproblem, at least for the most physically relevant compactifications.",
+            "pdf_url": "http://arxiv.org/pdf/2409.04350v1",
+            "published": "2024-09-06 15:33:08+00:00",
+            "updated": "2024-09-06 15:33:08+00:00"
+        },
+        {
+            "title": "Simulation of open quantum systems via low-depth convex unitary evolutions",
+            "authors": "Joseph Peetz, Scott E. Smart, Spyros Tserkis, Prineha Narang",
+            "summary": "Simulating physical systems on quantum devices is one of the most promising\napplications of quantum technology. Current quantum approaches to simulating\nopen quantum systems are still practically challenging on NISQ-era devices,\nbecause they typically require ancilla qubits and extensive controlled\nsequences. In this work, we propose a hybrid quantum-classical approach for\nsimulating a class of open system dynamics called random-unitary channels.\nThese channels naturally decompose into a series of convex unitary evolutions,\nwhich can then be efficiently sampled and run as independent circuits. The\nmethod does not require deep ancilla frameworks and thus can be implemented\nwith lower noise costs. We implement simulations of open quantum systems up to\ndozens of qubits and with large channel ranks.",
+            "pdf_url": "http://arxiv.org/pdf/2307.14325v3",
+            "published": "2023-07-26 17:44:35+00:00",
+            "updated": "2024-09-06 14:54:46+00:00"
+        }
+    ],
+    "Diffusion": [
+        {
+            "title": "VILA-U: a Unified Foundation Model Integrating Visual Understanding and Generation",
+            "authors": "Yecheng Wu, Zhuoyang Zhang, Junyu Chen, Haotian Tang, Dacheng Li, Yunhao Fang, Ligeng Zhu, Enze Xie, Hongxu Yin, Li Yi, Song Han, Yao Lu",
+            "summary": "VILA-U is a Unified foundation model that integrates Video, Image, Language\nunderstanding and generation. Traditional visual language models (VLMs) use\nseparate modules for understanding and generating visual content, which can\nlead to misalignment and increased complexity. In contrast, VILA-U employs a\nsingle autoregressive next-token prediction framework for both tasks,\neliminating the need for additional components like diffusion models. This\napproach not only simplifies the model but also achieves near state-of-the-art\nperformance in visual language understanding and generation. The success of\nVILA-U is attributed to two main factors: the unified vision tower that aligns\ndiscrete visual tokens with textual inputs during pretraining, which enhances\nvisual perception, and autoregressive image generation can achieve similar\nquality as diffusion models with high-quality dataset. This allows VILA-U to\nperform comparably to more complex models using a fully token-based\nautoregressive framework.",
+            "pdf_url": "http://arxiv.org/pdf/2409.04429v1",
+            "published": "2024-09-06 17:49:56+00:00",
+            "updated": "2024-09-06 17:49:56+00:00"
+        },
+        {
+            "title": "GST: Precise 3D Human Body from a Single Image with Gaussian Splatting Transformers",
+            "authors": "Lorenza Prospero, Abdullah Hamdi, Joao F. Henriques, Christian Rupprecht",
+            "summary": "Reconstructing realistic 3D human models from monocular images has\nsignificant applications in creative industries, human-computer interfaces, and\nhealthcare. We base our work on 3D Gaussian Splatting (3DGS), a scene\nrepresentation composed of a mixture of Gaussians. Predicting such mixtures for\na human from a single input image is challenging, as it is a non-uniform\ndensity (with a many-to-one relationship with input pixels) with strict\nphysical constraints. At the same time, it needs to be flexible to accommodate\na variety of clothes and poses. Our key observation is that the vertices of\nstandardized human meshes (such as SMPL) can provide an adequate density and\napproximate initial position for Gaussians. We can then train a transformer\nmodel to jointly predict comparatively small adjustments to these positions, as\nwell as the other Gaussians' attributes and the SMPL parameters. We show\nempirically that this combination (using only multi-view supervision) can\nachieve fast inference of 3D human models from a single image without test-time\noptimization, expensive diffusion models, or 3D points supervision. We also\nshow that it can improve 3D pose estimation by better fitting human models that\naccount for clothes and other variations. The code is available on the project\nwebsite https://abdullahamdi.com/gst/ .",
+            "pdf_url": "http://arxiv.org/pdf/2409.04196v1",
+            "published": "2024-09-06 11:34:24+00:00",
+            "updated": "2024-09-06 11:34:24+00:00"
+        },
+        {
+            "title": "D4: Text-guided diffusion model-based domain adaptive data augmentation for vineyard shoot detection",
+            "authors": "Kentaro Hirahara, Chikahito Nakane, Hajime Ebisawa, Tsuyoshi Kuroda, Yohei Iwaki, Tomoyoshi Utsumi, Yuichiro Nomura, Makoto Koike, Hiroshi Mineno",
+            "summary": "In an agricultural field, plant phenotyping using object detection models is\ngaining attention. However, collecting the training data necessary to create\ngeneric and high-precision models is extremely challenging due to the\ndifficulty of annotation and the diversity of domains. Furthermore, it is\ndifficult to transfer training data across different crops, and although\nmachine learning models effective for specific environments, conditions, or\ncrops have been developed, they cannot be widely applied in actual fields. In\nthis study, we propose a generative data augmentation method (D4) for vineyard\nshoot detection. D4 uses a pre-trained text-guided diffusion model based on a\nlarge number of original images culled from video data collected by unmanned\nground vehicles or other means, and a small number of annotated datasets. The\nproposed method generates new annotated images with background information\nadapted to the target domain while retaining annotation information necessary\nfor object detection. In addition, D4 overcomes the lack of training data in\nagriculture, including the difficulty of annotation and diversity of domains.\nWe confirmed that this generative data augmentation method improved the mean\naverage precision by up to 28.65% for the BBox detection task and the average\nprecision by up to 13.73% for the keypoint detection task for vineyard shoot\ndetection. Our generative data augmentation method D4 is expected to\nsimultaneously solve the cost and domain diversity issues of training data\ngeneration in agriculture and improve the generalization performance of\ndetection models.",
+            "pdf_url": "http://arxiv.org/pdf/2409.04060v1",
+            "published": "2024-09-06 07:04:27+00:00",
+            "updated": "2024-09-06 07:04:27+00:00"
+        },
+        {
+            "title": "Goal-Reaching Policy Learning from Non-Expert Observations via Effective Subgoal Guidance",
+            "authors": "RenMing Huang, Shaochong Liu, Yunqiang Pei, Peng Wang, Guoqing Wang, Yang Yang, Hengtao Shen",
+            "summary": "In this work, we address the challenging problem of long-horizon\ngoal-reaching policy learning from non-expert, action-free observation data.\nUnlike fully labeled expert data, our data is more accessible and avoids the\ncostly process of action labeling. Additionally, compared to online learning,\nwhich often involves aimless exploration, our data provides useful guidance for\nmore efficient exploration. To achieve our goal, we propose a novel subgoal\nguidance learning strategy. The motivation behind this strategy is that\nlong-horizon goals offer limited guidance for efficient exploration and\naccurate state transition. We develop a diffusion strategy-based high-level\npolicy to generate reasonable subgoals as waypoints, preferring states that\nmore easily lead to the final goal. Additionally, we learn state-goal value\nfunctions to encourage efficient subgoal reaching. These two components\nnaturally integrate into the off-policy actor-critic framework, enabling\nefficient goal attainment through informative exploration. We evaluate our\nmethod on complex robotic navigation and manipulation tasks, demonstrating a\nsignificant performance advantage over existing methods. Our ablation study\nfurther shows that our method is robust to observation data with various\ncorruptions.",
+            "pdf_url": "http://arxiv.org/pdf/2409.03996v1",
+            "published": "2024-09-06 02:49:12+00:00",
+            "updated": "2024-09-06 02:49:12+00:00"
+        },
+        {
+            "title": "Generating High Dimensional User-Specific Wireless Channels using Diffusion Models",
+            "authors": "Taekyun Lee, Juseong Park, Hyeji Kim, Jeffrey G. Andrews",
+            "summary": "Deep neural network (DNN)-based algorithms are emerging as an important tool\nfor many physical and MAC layer functions in future wireless communication\nsystems, including for large multi-antenna channels. However, training such\nmodels typically requires a large dataset of high-dimensional channel\nmeasurements, which are very difficult and expensive to obtain. This paper\nintroduces a novel method for generating synthetic wireless channel data using\ndiffusion-based models to produce user-specific channels that accurately\nreflect real-world wireless environments. Our approach employs a conditional\ndenoising diffusion implicit models (cDDIM) framework, effectively capturing\nthe relationship between user location and multi-antenna channel\ncharacteristics. We generate synthetic high fidelity channel samples using user\npositions as conditional inputs, creating larger augmented datasets to overcome\nmeasurement scarcity. The utility of this method is demonstrated through its\nefficacy in training various downstream tasks such as channel compression and\nbeam alignment. Our approach significantly improves over prior methods, such as\nadding noise or using generative adversarial networks (GANs), especially in\nscenarios with limited initial measurements.",
+            "pdf_url": "http://arxiv.org/pdf/2409.03924v1",
+            "published": "2024-09-05 22:08:28+00:00",
+            "updated": "2024-09-05 22:08:28+00:00"
+        }
+    ]
+}

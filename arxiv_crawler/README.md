@@ -53,6 +53,31 @@ TODO:
 
 
 
+
+## Update on 2024-09-09
+
+### Physics
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2024-09-04|2024-09-06|Progress in Trapped-Ion Quantum Simulation|Michael Foss-Feig|[2409.02990v2](http://arxiv.org/pdf/2409.02990v2)|
+|2024-01-09|2024-09-06|Using gravitational waves to see the first second of the Universe|Rishav Roshan|[2401.04388v3](http://arxiv.org/pdf/2401.04388v3)|
+|2024-09-06|2024-09-06|Stories in the two-state vector formalism|Patryk Michalski|[2409.04396v1](http://arxiv.org/pdf/2409.04396v1)|
+|2024-09-06|2024-09-06|Suppressing Gauge Drift in Quantum Simulations with Gauge Transformations|Carter Ball|[2409.04395v1](http://arxiv.org/pdf/2409.04395v1)|
+|2023-12-07|2024-09-06|Anomalous universal quantum transport in 2D asymptotic quasiperiodic system|Ting-Fung Jeffrey Poon|[2312.04349v3](http://arxiv.org/pdf/2312.04349v3)|
+|2024-06-26|2024-09-06|Future singularity in an anisotropic universe|Taishi Katsuragawa|[2406.18368v2](http://arxiv.org/pdf/2406.18368v2)|
+|2024-09-06|2024-09-06|Kohn-Sham inversion with mathematical guarantees|Michael F. Herbst|[2409.04372v1](http://arxiv.org/pdf/2409.04372v1)|
+|2024-09-06|2024-09-06|A high-order procedure for computing globally optimal Wannier functions in one-dimensional crystalline insulators|Abinand Gopal|[2409.04369v1](http://arxiv.org/pdf/2409.04369v1)|
+|2024-09-06|2024-09-06|The decoupling of moduli about the standard embedding|Beatrice Chisamanga|[2409.04350v1](http://arxiv.org/pdf/2409.04350v1)|
+|2023-07-26|2024-09-06|Simulation of open quantum systems via low-depth convex unitary evolutions|Joseph Peetz|[2307.14325v3](http://arxiv.org/pdf/2307.14325v3)|
+
+### Diffusion
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2024-09-06|2024-09-06|VILA-U: a Unified Foundation Model Integrating Visual Understanding and Generation|Yecheng Wu|[2409.04429v1](http://arxiv.org/pdf/2409.04429v1)|
+|2024-09-06|2024-09-06|GST: Precise 3D Human Body from a Single Image with Gaussian Splatting Transformers|Lorenza Prospero|[2409.04196v1](http://arxiv.org/pdf/2409.04196v1)|
+|2024-09-06|2024-09-06|D4: Text-guided diffusion model-based domain adaptive data augmentation for vineyard shoot detection|Kentaro Hirahara|[2409.04060v1](http://arxiv.org/pdf/2409.04060v1)|
+|2024-09-06|2024-09-06|Goal-Reaching Policy Learning from Non-Expert Observations via Effective Subgoal Guidance|RenMing Huang|[2409.03996v1](http://arxiv.org/pdf/2409.03996v1)|
+|2024-09-05|2024-09-05|Generating High Dimensional User-Specific Wireless Channels using Diffusion Models|Taekyun Lee|[2409.03924v1](http://arxiv.org/pdf/2409.03924v1)|
 ## Update on 2024-09-07
 
 ### Physics
