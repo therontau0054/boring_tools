@@ -1,0 +1,126 @@
+{
+    "Physics": [
+        {
+            "title": "A Relationship Between Nonphysical Quasi-probabilities and Nonlocality Objectivity",
+            "authors": "Colm Kelleher",
+            "summary": "Density matrices are the most general descriptions of quantum states,\ncovering both pure and mixed states. Positive semidefiniteness is a physical\nrequirement of density matrices, imposing nonnegative probabilities of\nmeasuring physical values. Separately, nonlocality is a property shared by some\nbipartite quantum systems, indicating a correlation of the component parts that\ncannot be described by local classical variables. In this work, we show that\nbreaking the positive-semidefinite requirement and allowing states with a\nnegative minimal eigenvalue arbitrarily close to zero, allows for the\nconstruction of states that are nonlocal under one component labelling but\nlocal when the labelling is interchanged. This is an observer-dependent\nnonlocality, showing the connection between nonlocal objectivism and negative\nquasi-probabilities.",
+            "pdf_url": "http://arxiv.org/pdf/2407.19061v3",
+            "published": "2024-07-26 19:39:21+00:00",
+            "updated": "2024-09-10 17:48:46+00:00"
+        },
+        {
+            "title": "Social Physics of Bacteria: Avoidance of an Information Black Hole",
+            "authors": "Trung V. Phan, Shengkai Li, Domenic Ferreris, Ryan Morris, Julia Bos, Buming Guo, Stefano Martiniani, Paul Chaikin, Yannis G. Kevrekidis, Robert H. Austin",
+            "summary": "Social physics explores responses to information exchange in a social\nnetwork, and can be mapped down to bacterial collective signaling. Here, we\nexplore how social inter-bacterial communication includes coordination of\nresponse to communication loss, as opposed to solitary searching for food, with\ncollective response emergence at the population level. We present a\n2-dimensional enclosed microfluidic environment that utilizes concentric rings\nof funnel ratchets, which direct motile E.coli bacteria towards a sole exit\nhole, an information ``black hole'', passage into the black hole irreversibly\nsweeps the bacteria away via hydrodynamic flow. We show that the spatiotemporal\nevolution of entropy production reveals how bacteria avoid crossing the\nhydrodynamic black hole information horizon.",
+            "pdf_url": "http://arxiv.org/pdf/2401.16691v2",
+            "published": "2024-01-30 02:33:06+00:00",
+            "updated": "2024-09-10 17:36:36+00:00"
+        },
+        {
+            "title": "Preventing overfitting in infrared ellipsometry using temperature dependence: fused silica as a case study",
+            "authors": "Shenwei Yin, Jin-Woo Cho, Demeng Feng, Hongyan Mei, Tanuj Kumar, Chenghao Wan, Yeonghoon Jin, Minjeong Kim, Mikhail A. Kats",
+            "summary": "The dispersive linear optical properties of materials are frequently\ndescribed using oscillator models, where the oscillators represent interactions\nbetween light and various material resonances (vibrational, free-carrier,\ninterband, etc.). The state-of-the-art measurement of the complex refractive\nindex is variable-angle spectroscopic ellipsometry (VASE), where additional\nmeasurement angles and the measured depolarization of light provides much more\ninformation compared to simpler measurements such as single-angle reflectance\nand transmittance. Nevertheless, even state-of-the-art VASE data can be hard to\nuniquely fit using oscillator models, and the resulting models may be hard to\ninterpret physically. Here, we demonstrate the use of an additional degree of\nfreedom, temperature, to improve the accuracy, uniqueness, and physicality of\noscillator models of materials. Our approach relies on the well-understood\ntemperature dependence of material resonances, and in particular vibrational\nresonances in amorphous SiO2, which are expected to change monotonically from\nroom temperature to hundreds of degrees C. We performed VASE measurements at\ndifferent temperatures, independently fitted the data at each temperature, and\nthen confirmed that our models are unique and physical by monitoring the\ntemperature dependence of the resulting fitting parameters. Using this\ntechnique, we generated highly accurate and precise data sets and material\nmodels describing the mid-infrared complex refractive index of three different\ngrades of fused SiO2, which can then be used for modeling of mid-infrared\noptical components such as thermal emitters.",
+            "pdf_url": "http://arxiv.org/pdf/2409.05323v2",
+            "published": "2024-09-09 04:28:37+00:00",
+            "updated": "2024-09-10 17:34:03+00:00"
+        },
+        {
+            "title": "Memory and Personality in Ideological Polarization: The Politico-physics of Mnemomatter",
+            "authors": "Shengkai Li, Trung V. Phan, Luca Di Carlo, Gao Wang, Van H. Do, Elia Mikhail, Robert H. Austin, Liyu Liu",
+            "summary": "We used physical agents with deep memories of past events and left/right\nideologies but different fixed personalities to study what drives the\npolarization of the dynamic population ideology. We find that agents have a\ncritical memory depth below which complete ideology polarization of the\ncollective cannot occur and above which it is inevitable. However, depending on\nthe details of the personalities, the ideologies polarization can be static or\ndynamic in time, even chaotic. Thus, agents with different personalities and\nlevels of memory (mnemomatter) can serve as a physics analogue of the ideology\ndynamics among ideological beings, illuminating how decisions influenced by\nindividual memories of past interactions can shape and influence subsequent\nideology polarization. Each constituent agent harbors a private stack memory\nand an onboard microcomputer/controller which both measures and controls its\nphysical spin handedness, which is a proxy for ideology. The agent's decision\nto change or retain its current spin is determined by each agent's private\nalgorithm for decisions (the personality) and the time-weighted stack history\nof present and previous interactions. Depending on a given agent's personality\nfor evaluating its memory and experiences, an agent can act as a curmudgeon who\nnever changes its ideology, a pushover who always accepts change, a contrarian\nwho always does the opposite of what is expected, an opportunist who weighs\nrecent events more heavily than past events in making decisions, and a\ntraditionalist who weighs past events more heavily than recent events in\ndecision making. We develop a field theory which maps agent ideological\npolarization over into a dynamic potential landscape. Perhaps such applications\nof physics-based systems to political systems will help us to understand the\nideological instability observed in the world today.",
+            "pdf_url": "http://arxiv.org/pdf/2409.06660v1",
+            "published": "2024-09-10 17:25:16+00:00",
+            "updated": "2024-09-10 17:25:16+00:00"
+        },
+        {
+            "title": "Les Houches lecture notes on topological recursion",
+            "authors": "Vincent Bouchard",
+            "summary": "You may have seen the words \"topological recursion\" mentioned in papers on\nmatrix models, Hurwitz theory, Gromov-Witten theory, topological string theory,\nknot theory, topological field theory, JT gravity, cohomological field theory,\nfree probability theory, gauge theories, to name a few. The goal of these\nlecture notes is certainly not to explain all these applications of the\ntopological recursion framework. Rather, the intention is to provide a\ndown-to-earth (and hopefully accessible) introduction to topological recursion\nitself, so that when you see these words mentioned, you can understand what it\nis all about. These lecture notes accompanied a series of lectures at the Les\nHouches school \"Quantum Geometry (Mathematical Methods for Gravity, Gauge\nTheories and Non-Perturbative Physics)\" in Summer 2024.",
+            "pdf_url": "http://arxiv.org/pdf/2409.06657v1",
+            "published": "2024-09-10 17:20:43+00:00",
+            "updated": "2024-09-10 17:20:43+00:00"
+        },
+        {
+            "title": "Interference effects in resonant di-Higgs production at the LHC in the Higgs singlet extension",
+            "authors": "Finn Feuerstake, Elina Fuchs, Tania Robens, Daniel Winterbottom",
+            "summary": "Interference effects are well founded from the quantum mechanical viewpoint\nand in principle cannot be ignored in realistic studies of New Physics\nscenarios. In this work, we investigate the size of interference effects\nbetween resonant and non-resonant contributions to di-Higgs production in the\nsinglet extension of the Standard Model where the additional heavy scalar\nprovides a resonant channel of on-shell and off-shell di-Higgs production. We\nfind these interference contributions to have a non-negligible effect on the\ncross-sections and differential distributions. In order to allow for an\ncomputationally efficient treatment of these effects via reweighting, we\nintroduce a new tool utilizing a matrix-element reweighting method:\nHHReweighter. In addition to the broadly used invariant di-Higgs mass $m_{hh}$,\nwe analyze the sensitivity of other kinematic variables to the interference\nterm and propose to also use differential distributions in the Higgs transverse\nmomentum $p_T^h$. Furthermore, we provide updates on the latest experimental\nand theoretical limits on the parameter space of the real singlet extension of\nthe Standard Model Higgs sector.",
+            "pdf_url": "http://arxiv.org/pdf/2409.06651v1",
+            "published": "2024-09-10 17:14:09+00:00",
+            "updated": "2024-09-10 17:14:09+00:00"
+        },
+        {
+            "title": "KANtrol: A Physics-Informed Kolmogorov-Arnold Network Framework for Solving Multi-Dimensional and Fractional Optimal Control Problems",
+            "authors": "Alireza Afzal Aghaei",
+            "summary": "In this paper, we introduce the KANtrol framework, which utilizes\nKolmogorov-Arnold Networks (KANs) to solve optimal control problems involving\ncontinuous time variables. We explain how Gaussian quadrature can be employed\nto approximate the integral parts within the problem, particularly for\nintegro-differential state equations. We also demonstrate how automatic\ndifferentiation is utilized to compute exact derivatives for integer-order\ndynamics, while for fractional derivatives of non-integer order, we employ\nmatrix-vector product discretization within the KAN framework. We tackle\nmulti-dimensional problems, including the optimal control of a 2D heat partial\ndifferential equation. The results of our simulations, which cover both forward\nand parameter identification problems, show that the KANtrol framework\noutperforms classical MLPs in terms of accuracy and efficiency.",
+            "pdf_url": "http://arxiv.org/pdf/2409.06649v1",
+            "published": "2024-09-10 17:12:37+00:00",
+            "updated": "2024-09-10 17:12:37+00:00"
+        },
+        {
+            "title": "Duality via Sequential Quantum Circuit in the Topological Holography Formalism",
+            "authors": "Robijn Vanhove, Vibhu Ravindran, David T. Stephen, Xiao-Gang Wen, Xie Chen",
+            "summary": "Two quantum theories which look different but are secretly describing the\nsame low-energy physics are said to be dual to each other. When realized in the\nTopological Holography formalism, duality corresponds to changing the gapped\nboundary condition on the top boundary of a topological field theory, which\ndetermines the symmetry of the system, while not affecting the bottom boundary\nwhere all the dynamics take place. In this paper, we show that duality in the\nTopological Holography formalism can be realized with a Sequential Quantum\nCircuit applied to the top boundary. As a consequence, the Hamiltonians before\nand after the duality mapping have exactly the same spectrum in the\ncorresponding symmetry sectors, and the entanglement in the corresponding\nlow-energy eigenstates differs by at most an area law term.",
+            "pdf_url": "http://arxiv.org/pdf/2409.06647v1",
+            "published": "2024-09-10 17:05:40+00:00",
+            "updated": "2024-09-10 17:05:40+00:00"
+        },
+        {
+            "title": "One-Shot Imitation under Mismatched Execution",
+            "authors": "Kushal Kedia, Prithwish Dan, Sanjiban Choudhury",
+            "summary": "Human demonstrations as prompts are a powerful way to program robots to do\nlong-horizon manipulation tasks. However, directly translating such\ndemonstrations into robot-executable actions poses significant challenges due\nto execution mismatches, such as different movement styles and physical\ncapabilities. Existing methods either rely on robot-demonstrator paired data,\nwhich is infeasible to scale, or overly rely on frame-level visual\nsimilarities, which fail to hold. To address these challenges, we propose\nRHyME, a novel framework that automatically establishes task execution\ncorrespondences between the robot and the demonstrator by using optimal\ntransport costs. Given long-horizon robot demonstrations, RHyME synthesizes\nsemantically equivalent human demonstrations by retrieving and composing\nsimilar short-horizon human clips, facilitating effective policy training\nwithout the need for paired data. We show that RHyME outperforms a range of\nbaselines across various cross-embodiment datasets on all degrees of\nmismatches. Through detailed analysis, we uncover insights for learning and\nleveraging cross-embodiment visual representations.",
+            "pdf_url": "http://arxiv.org/pdf/2409.06615v1",
+            "published": "2024-09-10 16:11:57+00:00",
+            "updated": "2024-09-10 16:11:57+00:00"
+        },
+        {
+            "title": "Self-consistent prediction of gravitational waves from cosmological phase transitions",
+            "authors": "Xiao Wang, Chi Tian, Csaba Bal\u00e1zs",
+            "summary": "Gravitational waves from cosmological phase transitions are novel probes of\nfundamental physics, making their precise calculation essential for revealing\nvarious mysteries of the early Universe. In this work we propose a framework\nthat enables the consistent calculation of such gravitational waves sourced by\nsound waves. Starting from the Lagrangian, this framework integrates the\ncalculation of the dynamics of first-order phase transitions in a\nself-consistent manner, eliminating various approximations typically introduced\nby conventional methods. At the heart of our approach is the congruous\nevaluation of the phase transition hydrodynamics that, at every step, is\nconsistently informed by the Lagrangian. We demonstrate the application of our\nframework using the SM+$|H|^6$ model, deriving the corresponding gravitational\nwave spectrum. Our framework establishes a robust foundation for the precise\nprediction of gravitational waves from phase transitions.",
+            "pdf_url": "http://arxiv.org/pdf/2409.06599v1",
+            "published": "2024-09-10 15:44:59+00:00",
+            "updated": "2024-09-10 15:44:59+00:00"
+        }
+    ],
+    "Diffusion": [
+        {
+            "title": "Spectral Map for Slow Collective Variables, Markovian Dynamics, and Transition State Ensembles",
+            "authors": "Jakub Rydzewski",
+            "summary": "Understanding the behavior of complex molecular systems is a fundamental\nproblem in physical chemistry. To describe the long-time dynamics of such\nsystems, which is responsible for their most informative characteristics, we\ncan identify a few slow collective variables (CVs) while treating the remaining\nfast variables as thermal noise. This enables us to simplify the dynamics and\ntreat it as diffusion in a free-energy landscape spanned by slow CVs,\neffectively rendering the dynamics Markovian. Our recent statistical learning\ntechnique, spectral map [Rydzewski, J. Phys. Chem. Lett. 2023, 14, 22,\n5216-5220], explores this strategy to learn slow CVs by maximizing a spectral\ngap of a transition matrix. In this work, we introduce several advancements\ninto our framework, using a high-dimensional reversible folding process of a\nprotein as an example. We implement an algorithm for coarse-graining Markov\ntransition matrices to partition the reduced space of slow CVs kinetically and\nuse it to define a transition state ensemble. We show that slow CVs learned by\nspectral map closely approach the Markovian limit for an overdamped diffusion.\nWe demonstrate that coordinate-dependent diffusion coefficients only slightly\naffect the constructed free-energy landscapes. Finally, we present how spectral\nmap can be used to quantify the importance of features and compare slow CVs\nwith structural descriptors commonly used in protein folding. Overall, we\ndemonstrate that a single slow CV learned by spectral map can be used as a\nphysical reaction coordinate to capture essential characteristics of protein\nfolding.",
+            "pdf_url": "http://arxiv.org/pdf/2409.06428v1",
+            "published": "2024-09-10 11:20:36+00:00",
+            "updated": "2024-09-10 11:20:36+00:00"
+        },
+        {
+            "title": "Distilling Generative-Discriminative Representations for Very Low-Resolution Face Recognition",
+            "authors": "Junzheng Zhang, Weijia Guo, Bochao Liu, Ruixin Shi, Yong Li, Shiming Ge",
+            "summary": "Very low-resolution face recognition is challenging due to the serious loss\nof informative facial details in resolution degradation. In this paper, we\npropose a generative-discriminative representation distillation approach that\ncombines generative representation with cross-resolution aligned knowledge\ndistillation. This approach facilitates very low-resolution face recognition by\njointly distilling generative and discriminative models via two distillation\nmodules. Firstly, the generative representation distillation takes the encoder\nof a diffusion model pretrained for face super-resolution as the generative\nteacher to supervise the learning of the student backbone via feature\nregression, and then freezes the student backbone. After that, the\ndiscriminative representation distillation further considers a pretrained face\nrecognizer as the discriminative teacher to supervise the learning of the\nstudent head via cross-resolution relational contrastive distillation. In this\nway, the general backbone representation can be transformed into discriminative\nhead representation, leading to a robust and discriminative student model for\nvery low-resolution face recognition. Our approach improves the recovery of the\nmissing details in very low-resolution faces and achieves better knowledge\ntransfer. Extensive experiments on face datasets demonstrate that our approach\nenhances the recognition accuracy of very low-resolution faces, showcasing its\neffectiveness and adaptability.",
+            "pdf_url": "http://arxiv.org/pdf/2409.06371v1",
+            "published": "2024-09-10 09:53:06+00:00",
+            "updated": "2024-09-10 09:53:06+00:00"
+        },
+        {
+            "title": "What happens to diffusion model likelihood when your model is conditional?",
+            "authors": "Mattias Cross, Anton Ragni",
+            "summary": "Diffusion Models (DMs) iteratively denoise random samples to produce\nhigh-quality data. The iterative sampling process is derived from Stochastic\nDifferential Equations (SDEs), allowing a speed-quality trade-off chosen at\ninference. Another advantage of sampling with differential equations is exact\nlikelihood computation. These likelihoods have been used to rank unconditional\nDMs and for out-of-domain classification. Despite the many existing and\npossible uses of DM likelihoods, the distinct properties captured are unknown,\nespecially in conditional contexts such as Text-To-Image (TTI) or\nText-To-Speech synthesis (TTS). Surprisingly, we find that TTS DM likelihoods\nare agnostic to the text input. TTI likelihood is more expressive but cannot\ndiscern confounding prompts. Our results show that applying DMs to conditional\ntasks reveals inconsistencies and strengthens claims that the properties of DM\nlikelihood are unknown. This impact sheds light on the previously unknown\nnature of DM likelihoods. Although conditional DMs maximise likelihood, the\nlikelihood in question is not as sensitive to the conditioning input as one\nexpects. This investigation provides a new point-of-view on diffusion\nlikelihoods.",
+            "pdf_url": "http://arxiv.org/pdf/2409.06364v1",
+            "published": "2024-09-10 09:42:58+00:00",
+            "updated": "2024-09-10 09:42:58+00:00"
+        },
+        {
+            "title": "Targeting the partition function of chemically disordered materials with a generative approach based on inverse variational autoencoders",
+            "authors": "Maciej J. Karcz, Luca Messina, Eiji Kawasaki, Emeric Bourasseau",
+            "summary": "Computing atomic-scale properties of chemically disordered materials requires\nan efficient exploration of their vast configuration space. Traditional\napproaches such as Monte Carlo or Special Quasirandom Structures either entail\nsampling an excessive amount of configurations or do not ensure that the\nconfiguration space has been properly covered. In this work, we propose a novel\napproach where generative machine learning is used to yield a representative\nset of configurations for accurate property evaluation and provide accurate\nestimations of atomic-scale properties with minimal computational cost. Our\nmethod employs a specific type of variational autoencoder with inverse roles\nfor the encoder and decoder, enabling the application of an unsupervised active\nlearning scheme that does not require any initial training database. The model\niteratively generates configuration batches, whose properties are computed with\nconventional atomic-scale methods. These results are then fed back into the\nmodel to estimate the partition function, repeating the process until\nconvergence. We illustrate our approach by computing point-defect formation\nenergies and concentrations in (U, Pu)O2 mixed-oxide fuels. In addition, the ML\nmodel provides valuable insights into the physical factors influencing the\ntarget property. Our method is generally applicable to explore other\nproperties, such as atomic-scale diffusion coefficients, in ideally or\nnon-ideally disordered materials like high-entropy alloys.",
+            "pdf_url": "http://arxiv.org/pdf/2408.14928v2",
+            "published": "2024-08-27 10:05:37+00:00",
+            "updated": "2024-09-10 07:02:27+00:00"
+        },
+        {
+            "title": "Market Reaction to News Flows in Supply Chain Networks",
+            "authors": "Hiroyasu Inoue, Yasuyuki Todo",
+            "summary": "This study examines whether positive news about firms increases their stock\nprices and, moreover, whether it increases stock prices of the firms' suppliers\nand customers, using a large sample of publicly listed firms across the world\nand another of Japanese listed firms. The level of positiveness of each news\narticle is determined by FinBERT, a natural language processing model\nfine-tuned specifically for financial information. Supply chains of firms\nacross the world are identified mostly by financial statements, while those of\nJapanese firms are taken from large-scale firm-level surveys. We find that\npositive news increases the change rate of stock prices of firms mentioned in\nthe news before its disclosure, most likely because of diffusion of information\nthrough informal channels. Positive news also raises stock prices of the firms'\nsuppliers and customers before its disclosure, confirming propagation of market\nvalues through supply chains. In addition, we generally find a larger post-news\neffect on stock prices of the mentioned firms and their suppliers and customers\nthan the pre-news effect. The positive difference between the post- and\npre-news effects can be considered as the net effect of the disclosure of\npositive news, controlling for informal information diffusion. However, the\npost-news effect on suppliers and customers in Japan is smaller than the\npre-news effect, a result opposite to those from firms across the world. This\nnotable result is possibly because supply chain links of Japanese firms are\nstronger than global supply chains while such knowledge is restricted to\nselected investors.",
+            "pdf_url": "http://arxiv.org/pdf/2409.06255v1",
+            "published": "2024-09-10 06:55:17+00:00",
+            "updated": "2024-09-10 06:55:17+00:00"
+        }
+    ]
+}

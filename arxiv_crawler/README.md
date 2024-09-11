@@ -54,6 +54,31 @@ TODO:
 
 
 
+
+## Update on 2024-09-11
+
+### Physics
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2024-07-26|2024-09-10|A Relationship Between Nonphysical Quasi-probabilities and Nonlocality Objectivity|Colm Kelleher|[2407.19061v3](http://arxiv.org/pdf/2407.19061v3)|
+|2024-01-30|2024-09-10|Social Physics of Bacteria: Avoidance of an Information Black Hole|Trung V. Phan|[2401.16691v2](http://arxiv.org/pdf/2401.16691v2)|
+|2024-09-09|2024-09-10|Preventing overfitting in infrared ellipsometry using temperature dependence: fused silica as a case study|Shenwei Yin|[2409.05323v2](http://arxiv.org/pdf/2409.05323v2)|
+|2024-09-10|2024-09-10|Memory and Personality in Ideological Polarization: The Politico-physics of Mnemomatter|Shengkai Li|[2409.06660v1](http://arxiv.org/pdf/2409.06660v1)|
+|2024-09-10|2024-09-10|Les Houches lecture notes on topological recursion|Vincent Bouchard|[2409.06657v1](http://arxiv.org/pdf/2409.06657v1)|
+|2024-09-10|2024-09-10|Interference effects in resonant di-Higgs production at the LHC in the Higgs singlet extension|Finn Feuerstake|[2409.06651v1](http://arxiv.org/pdf/2409.06651v1)|
+|2024-09-10|2024-09-10|KANtrol: A Physics-Informed Kolmogorov-Arnold Network Framework for Solving Multi-Dimensional and Fractional Optimal Control Problems|Alireza Afzal Aghaei|[2409.06649v1](http://arxiv.org/pdf/2409.06649v1)|
+|2024-09-10|2024-09-10|Duality via Sequential Quantum Circuit in the Topological Holography Formalism|Robijn Vanhove|[2409.06647v1](http://arxiv.org/pdf/2409.06647v1)|
+|2024-09-10|2024-09-10|One-Shot Imitation under Mismatched Execution|Kushal Kedia|[2409.06615v1](http://arxiv.org/pdf/2409.06615v1)|
+|2024-09-10|2024-09-10|Self-consistent prediction of gravitational waves from cosmological phase transitions|Xiao Wang|[2409.06599v1](http://arxiv.org/pdf/2409.06599v1)|
+
+### Diffusion
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2024-09-10|2024-09-10|Spectral Map for Slow Collective Variables, Markovian Dynamics, and Transition State Ensembles|Jakub Rydzewski|[2409.06428v1](http://arxiv.org/pdf/2409.06428v1)|
+|2024-09-10|2024-09-10|Distilling Generative-Discriminative Representations for Very Low-Resolution Face Recognition|Junzheng Zhang|[2409.06371v1](http://arxiv.org/pdf/2409.06371v1)|
+|2024-09-10|2024-09-10|What happens to diffusion model likelihood when your model is conditional?|Mattias Cross|[2409.06364v1](http://arxiv.org/pdf/2409.06364v1)|
+|2024-08-27|2024-09-10|Targeting the partition function of chemically disordered materials with a generative approach based on inverse variational autoencoders|Maciej J. Karcz|[2408.14928v2](http://arxiv.org/pdf/2408.14928v2)|
+|2024-09-10|2024-09-10|Market Reaction to News Flows in Supply Chain Networks|Hiroyasu Inoue|[2409.06255v1](http://arxiv.org/pdf/2409.06255v1)|
 ## Update on 2024-09-09
 
 ### Physics
