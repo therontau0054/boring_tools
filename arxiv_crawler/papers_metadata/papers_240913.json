@@ -1,0 +1,126 @@
+{
+    "Physics": [
+        {
+            "title": "The Role of the Curvaton Post-Planck",
+            "authors": "Gongjun Choi, Wenqi Ke, Keith A. Olive",
+            "summary": "The expected improvements in the precision of inflationary physics\nobservables including the scalar spectral index $n_{s}$ and the\ntensor-to-scalar ratio $r$ will reveal more than just the viability of a\nparticular model of inflation. In the presence of a curvaton field $\\chi$,\nsupposedly dead models of inflation can be resurrected as these observables are\naffected by curvaton perturbations. For currently successful models, improved\nconstraints will enable us to constrain the properties of extra decaying scalar\ndegrees of freedom produced during inflation. In this work, we demonstrate\nthese diverse uses of a curvaton field with the most recent constraints on\n($n_{s},r$) and two exemplary inflation models, the Starobinsky model, and a\nmodel of new inflation. Our analysis invokes three free parameters: the\ncurvaton mass $m_{\\chi}$, its decay rate $\\Gamma_{\\chi}$ the reheating\ntemperature $T_{\\rm RH}$ produced by inflaton decays. We systematically analyze\npossible post-inflationary era scenarios of a curvaton field. By projecting the\nmost recent CMB data on ($n_{s},r$) into this parameter space, we can either\nset constraints on the curvaton parameters from successful models of inflation\n(so that the success is not spoiled) or determine the parameters which are able\nto save a model for which $n_{s}$ is predicted to be below the experimental\ndata. We emphasize that the initial value of $\\langle \\chi^2 \\rangle \\propto\nH^4/m_\\chi^2$ produced during inflation is determined from a stochastic\napproach and thus not a free parameter in our analysis. We also investigate the\nproduction of local non-Gaussianity $f_{NL}^{(\\rm loc)}$ and apply current CMB\nconstraints to the parameter space. Intriguingly, we find that a large value of\n$f_{NL}^{(\\rm loc)}$ of $\\mathcal{O}(1)$ can be produced for both of the two\nrepresentative inflation models.",
+            "pdf_url": "http://arxiv.org/pdf/2409.08279v1",
+            "published": "2024-09-12 17:59:59+00:00",
+            "updated": "2024-09-12 17:59:59+00:00"
+        },
+        {
+            "title": "Generalized Komar charges and Smarr formulas for black holes and boson stars",
+            "authors": "Romina Ballesteros, Tomas Ortin",
+            "summary": "The standard Komar charge is a $(d-2)$-form that can be defined in spacetimes\nadmitting a Killing vector and which is closed when the vacuum Einstein\nequations are satisfied. Its integral at spatial infinity (the Komar integral)\ngives the conserved charge associated to the Killing vector, and, due to its\non-shell closedness, the same value (expressed in terms of other physical\nvariables) is obtained integrating over the event horizon (if any). This\nequality is the basis of the Smarr formula. This charge can be generalized so\nthat it still is closed on-shell in presence of matter and its integrals give\ngeneralizations of the Smarr formula. We show how the Komar charge and other\nclosed $(d-2)$-form charges can be used to prove non-existence theorems for\ngravitational solitons and boson stars. In particular, we show how one can deal\nwith generalized symmetric fields (invariant under a combination of isometries\nand other global symmetries) and how the geralized symmetric ansatz permits to\nevade the non-existence theorems.",
+            "pdf_url": "http://arxiv.org/pdf/2409.08268v1",
+            "published": "2024-09-12 17:57:43+00:00",
+            "updated": "2024-09-12 17:57:43+00:00"
+        },
+        {
+            "title": "The precision measurement of the W boson mass and its impact on physics",
+            "authors": "Ashutosh Vijay Kotwal",
+            "summary": "As a mediator of the weak nuclear force, the W boson influences many\nproperties of fundamental particles and their interactions. Understanding the W\nboson as accurately as possible, including knowing its mass, has been a\npriority in particle physics for decades. In the past few years, in a\nsuccession of increasing-precision measurements by multiple experiments, a\nsignificant tension between the measured and predicted mass has been documented\nby the CDF Collaboration. Furthermore, smaller differences between different\nmeasurements exist. Because the W boson mass provides a window on new physics,\na comparison between different measurement techniques can inform the path to\nfurther investigations. This Perspective article overviews the role of the W\nboson mass in the Standard Model of Particle Physics and its extensions,\ncompares and contrasts its measurement techniques and discusses prospects and\nfuture directions.",
+            "pdf_url": "http://arxiv.org/pdf/2409.08244v1",
+            "published": "2024-09-12 17:43:53+00:00",
+            "updated": "2024-09-12 17:43:53+00:00"
+        },
+        {
+            "title": "Adaptive Manipulation using Behavior Trees",
+            "authors": "Jacques Cloete, Wolfgang Merkt, Ioannis Havoutis",
+            "summary": "Many manipulation tasks pose a challenge since they depend on non-visual\nenvironmental information that can only be determined after sustained physical\ninteraction has already begun. This is particularly relevant for\neffort-sensitive, dynamics-dependent tasks such as tightening a valve. To\nperform these tasks safely and reliably, robots must be able to quickly adapt\nin response to unexpected changes during task execution. Humans can intuitively\nrespond and adapt their manipulation strategy to suit such problems, but\nrepresenting and implementing such behaviors for robots remains an open\nquestion. We present the adaptive behavior tree, which enables a robot to\nquickly adapt to both visual and non-visual observations during task execution,\npreempting task failure or switching to a different strategy based on data from\nprevious attempts. We test our approach on a number of tasks commonly found in\nindustrial settings. Our results demonstrate safety, robustness (100% success\nrate for all but one experiment) and efficiency in task completion (eg, an\noverall task speedup of 46% on average for valve tightening), and would reduce\ndependency on human supervision and intervention.",
+            "pdf_url": "http://arxiv.org/pdf/2406.14634v2",
+            "published": "2024-06-20 18:01:36+00:00",
+            "updated": "2024-09-12 17:37:54+00:00"
+        },
+        {
+            "title": "Black Holes, Complex Curves, and Graph Theory: Revising a Conjecture by Kasner",
+            "authors": "Yen Chin Ong",
+            "summary": "The ratios $\\sqrt{8/9}=2\\sqrt{2}/3\\approx 0.9428$ and $\\sqrt{3}/2 \\approx\n0.866$ appear in various contexts of black hole physics, as values of the\ncharge-to-mass ratio $Q/M$ or the rotation parameter $a/M$ for\nReissner-Nordstr\\\"om and Kerr black holes, respectively. In this work, in the\nReissner-Nordstr\\\"om case, I relate these ratios with the quantization of the\nhorizon area, or equivalently of the entropy. Furthermore, these ratios are\nrelated to a century-old work of Kasner, in which he conjectured that certain\nsequences arising from complex analysis may have a quantum interpretation.\nThese numbers also appear in the case of Kerr black holes, but the explanation\nis not as straightforward. The Kasner ratio may also be relevant for\nunderstanding the random matrix and random graph approaches to black hole\nphysics, such as fast scrambling of quantum information, via a bound related to\nRamanujan graph. Intriguingly, some other pure mathematical problems in complex\nanalysis, notably complex interpolation in the unit disk, appear to share some\nmathematical expressions with the black hole problem and thus also involve the\nKasner ratio.",
+            "pdf_url": "http://arxiv.org/pdf/2409.08236v1",
+            "published": "2024-09-12 17:35:11+00:00",
+            "updated": "2024-09-12 17:35:11+00:00"
+        },
+        {
+            "title": "Design Optimization of Nuclear Fusion Reactor through Deep Reinforcement Learning",
+            "authors": "Jinsu Kim, Jaemin Seo",
+            "summary": "This research explores the application of Deep Reinforcement Learning (DRL)\nto optimize the design of a nuclear fusion reactor. DRL can efficiently address\nthe challenging issues attributed to multiple physics and engineering\nconstraints for steady-state operation. The fusion reactor design computation\nand the optimization code applicable to parallelization with DRL are developed.\nThe proposed framework enables finding the optimal reactor design that\nsatisfies the operational requirements while reducing building costs.\nMulti-objective design optimization for a fusion reactor is now simplified by\nDRL, indicating the high potential of the proposed framework for advancing the\nefficient and sustainable design of future reactors.",
+            "pdf_url": "http://arxiv.org/pdf/2409.08231v1",
+            "published": "2024-09-12 17:23:01+00:00",
+            "updated": "2024-09-12 17:23:01+00:00"
+        },
+        {
+            "title": "Investigating the Design--Science Connection in a multi-week Engineering Design (ED)-based introductory physics laboratory task",
+            "authors": "Ravishankar Chatta Subramaniam, Nikhil Borse, Amir Bralin, Jason W. Morphew, Carina M. Rebello, N. Sanjay Rebello",
+            "summary": "Reform documents advocate for innovative pedagogical strategies to enhance\nstudent learning. A key innovation is the integration of science and\nengineering practices through Engineering Design (ED)-based physics laboratory\ntasks, where students tackle engineering design problems by applying physics\nprinciples. While this approach has its benefits, research shows that students\ndo not always effectively apply scientific concepts, but instead rely on\ntrial-and-error approaches, and end up gadgeteering their way to a solution.\nThis leads to what is commonly referred to as the \"design-science gap\" -- that\nstudents do not always consciously apply science concepts while solving a\ndesign problem. However, as obvious as the notion of a `gap' may appear, there\nseems to exist no consensus on the definitions of `design' and `science',\nfurther complicating the understanding of this `gap'. This qualitative study\naddresses the notion of the design-science gap by examining student-groups'\ndiscussions and written lab reports from a multi-week ED-based undergraduate\nintroductory physics laboratory task. Building on our earlier studies, we\ndeveloped and employed a nuanced, multi-layered coding scheme inspired by the\nGioia Framework to characterize `design thinking' and `science thinking'. We\ndiscuss how student-groups engage in various aspects of design and how they\napply concepts physics principles to solve the problem. In the process, we\ndemonstrate the interconnectedness of students' design thinking and science\nthinking. We advocate for the usage of the term ``design--science connection''\nas opposed to ``design--science gap'' to deepen both design and scientific\nthinking. Our findings offer valuable insights for educators in design-based\nscience education.",
+            "pdf_url": "http://arxiv.org/pdf/2409.08224v1",
+            "published": "2024-09-12 17:07:39+00:00",
+            "updated": "2024-09-12 17:07:39+00:00"
+        },
+        {
+            "title": "Quantifying the breakdown scale of pionless effective field theory",
+            "authors": "Andreas Ekstr\u00f6m, Lucas Platter",
+            "summary": "We use Bayesian statistics to infer the breakdown scale of pionless effective\nfield theory in its standard power counting and with renormalization of\nobservables carried out using the power-divergence subtraction scheme and\ncutoff regularization. We condition our inference on predictions of the total\nneutron-proton scattering cross section up next-to-next-to leading order. We\nquantify a median breakdown scale of approximately 1.4$m_\\pi$. The 68% degree\nof belief interval is $[0.96,1.69]m_\\pi$. This result confirms the canonical\nexpectation that the pion mass is a relevant scale in low-energy nuclear\nphysics.",
+            "pdf_url": "http://arxiv.org/pdf/2409.08197v1",
+            "published": "2024-09-12 16:35:57+00:00",
+            "updated": "2024-09-12 16:35:57+00:00"
+        },
+        {
+            "title": "Acoustic higher-order topological insulator from momentum-space nonsymmorphic symmetries",
+            "authors": "Jinbing Hu, Kai Zhou, Tianle Song, Xuntao Jiang, Songlin Zhuang, Yi Yang",
+            "summary": "Momentum-space nonsymmorphic symmetries, stemming from the projective algebra\nof synthetic gauge fields, can modify the manifold of the Brillouin zone and\nlead to a variety of topological phenomena. We present an acoustic realization\nof higher-order topological insulators (HOTIs) protected by a pair of\nanticommutative momentum-space glide reflections. We confirm the presence of\nmomentum-space glide reflection from the measured momentum half translation of\nedge bands and their momentum-resolved probability distribution using a\ncylinder geometry made of acoustic resonator arrays. In particular, we observe\nboth intrinsic and extrinsic HOTI features in such a cylinder: hopping strength\nvariation along the open boundary leads to a bulk gap closure, while that along\nthe closed boundary results in an edge gap closure. In addition, we confirm the\npresence of quadrupole corner modes with transmission and field distribution\nmeasurements. Our observation enriches the study of topological physics of\nmomentum-space nonsymmorphic symmetries.",
+            "pdf_url": "http://arxiv.org/pdf/2409.08196v1",
+            "published": "2024-09-12 16:35:42+00:00",
+            "updated": "2024-09-12 16:35:42+00:00"
+        },
+        {
+            "title": "Converting sWeights to Probabilities with Density Ratios",
+            "authors": "D. I. Glazier, R. Tyson",
+            "summary": "The use of machine learning approaches continues to have many benefits in\nexperimental nuclear and particle physics. One common issue is generating\ntraining data which is sufficiently realistic to give reliable results. Here we\nadvocate using real experimental data as the source of training data and\ndemonstrate how one might subtract background contributions through the use of\nprobabilistic weights which can be readily applied to training data. The sPlot\nformalism is a common tool used to isolate distributions from different\nsources. However, negative sWeights produced by the sPlot technique can lead to\nissues in training and poor predictive power. This article demonstrates how\ndensity ratio estimation can be applied to convert sWeights to event\nprobabilities, which we call drWeights. The drWeights can then be applied to\nproduce the distributions of interest and are consistent with direct use of the\nsWeights. This article will also show how decision trees are particular well\nsuited to converting sWeights, with the benefit of fast prediction rates and\nadaptability to aspects of the experimental data such as data sample size and\nproportions of different event sources. We also show that a double density\nratio approach where the initial drWeights are reweighted by an additional\nclassifier gives substantially better results.",
+            "pdf_url": "http://arxiv.org/pdf/2409.08183v1",
+            "published": "2024-09-12 16:19:02+00:00",
+            "updated": "2024-09-12 16:19:02+00:00"
+        }
+    ],
+    "Diffusion": [
+        {
+            "title": "Click2Mask: Local Editing with Dynamic Mask Generation",
+            "authors": "Omer Regev, Omri Avrahami, Dani Lischinski",
+            "summary": "Recent advancements in generative models have revolutionized image generation\nand editing, making these tasks accessible to non-experts. This paper focuses\non local image editing, particularly the task of adding new content to a\nloosely specified area. Existing methods often require a precise mask or a\ndetailed description of the location, which can be cumbersome and prone to\nerrors. We propose Click2Mask, a novel approach that simplifies the local\nediting process by requiring only a single point of reference (in addition to\nthe content description). A mask is dynamically grown around this point during\na Blended Latent Diffusion (BLD) process, guided by a masked CLIP-based\nsemantic loss. Click2Mask surpasses the limitations of segmentation-based and\nfine-tuning dependent methods, offering a more user-friendly and contextually\naccurate solution. Our experiments demonstrate that Click2Mask not only\nminimizes user effort but also delivers competitive or superior local image\nmanipulation results compared to SoTA methods, according to both human\njudgement and automatic metrics. Key contributions include the simplification\nof user input, the ability to freely add objects unconstrained by existing\nsegments, and the integration potential of our dynamic mask approach within\nother editing methods.",
+            "pdf_url": "http://arxiv.org/pdf/2409.08272v1",
+            "published": "2024-09-12 17:59:04+00:00",
+            "updated": "2024-09-12 17:59:04+00:00"
+        },
+        {
+            "title": "DreamBeast: Distilling 3D Fantastical Animals with Part-Aware Knowledge Transfer",
+            "authors": "Runjia Li, Junlin Han, Luke Melas-Kyriazi, Chunyi Sun, Zhaochong An, Zhongrui Gui, Shuyang Sun, Philip Torr, Tomas Jakab",
+            "summary": "We present DreamBeast, a novel method based on score distillation sampling\n(SDS) for generating fantastical 3D animal assets composed of distinct parts.\nExisting SDS methods often struggle with this generation task due to a limited\nunderstanding of part-level semantics in text-to-image diffusion models. While\nrecent diffusion models, such as Stable Diffusion 3, demonstrate a better\npart-level understanding, they are prohibitively slow and exhibit other common\nproblems associated with single-view diffusion models. DreamBeast overcomes\nthis limitation through a novel part-aware knowledge transfer mechanism. For\neach generated asset, we efficiently extract part-level knowledge from the\nStable Diffusion 3 model into a 3D Part-Affinity implicit representation. This\nenables us to instantly generate Part-Affinity maps from arbitrary camera\nviews, which we then use to modulate the guidance of a multi-view diffusion\nmodel during SDS to create 3D assets of fantastical animals. DreamBeast\nsignificantly enhances the quality of generated 3D creatures with\nuser-specified part compositions while reducing computational overhead, as\ndemonstrated by extensive quantitative and qualitative evaluations.",
+            "pdf_url": "http://arxiv.org/pdf/2409.08271v1",
+            "published": "2024-09-12 17:58:31+00:00",
+            "updated": "2024-09-12 17:58:31+00:00"
+        },
+        {
+            "title": "LoRID: Low-Rank Iterative Diffusion for Adversarial Purification",
+            "authors": "Geigh Zollicoffer, Minh Vu, Ben Nebgen, Juan Castorena, Boian Alexandrov, Manish Bhattarai",
+            "summary": "This work presents an information-theoretic examination of diffusion-based\npurification methods, the state-of-the-art adversarial defenses that utilize\ndiffusion models to remove malicious perturbations in adversarial examples. By\ntheoretically characterizing the inherent purification errors associated with\nthe Markov-based diffusion purifications, we introduce LoRID, a novel Low-Rank\nIterative Diffusion purification method designed to remove adversarial\nperturbation with low intrinsic purification errors. LoRID centers around a\nmulti-stage purification process that leverages multiple rounds of\ndiffusion-denoising loops at the early time-steps of the diffusion models, and\nthe integration of Tucker decomposition, an extension of matrix factorization,\nto remove adversarial noise at high-noise regimes. Consequently, LoRID\nincreases the effective diffusion time-steps and overcomes strong adversarial\nattacks, achieving superior robustness performance in CIFAR-10/100, CelebA-HQ,\nand ImageNet datasets under both white-box and black-box settings.",
+            "pdf_url": "http://arxiv.org/pdf/2409.08255v1",
+            "published": "2024-09-12 17:51:25+00:00",
+            "updated": "2024-09-12 17:51:25+00:00"
+        },
+        {
+            "title": "IFAdapter: Instance Feature Control for Grounded Text-to-Image Generation",
+            "authors": "Yinwei Wu, Xianpan Zhou, Bing Ma, Xuefeng Su, Kai Ma, Xinchao Wang",
+            "summary": "While Text-to-Image (T2I) diffusion models excel at generating visually\nappealing images of individual instances, they struggle to accurately position\nand control the features generation of multiple instances. The Layout-to-Image\n(L2I) task was introduced to address the positioning challenges by\nincorporating bounding boxes as spatial control signals, but it still falls\nshort in generating precise instance features. In response, we propose the\nInstance Feature Generation (IFG) task, which aims to ensure both positional\naccuracy and feature fidelity in generated instances. To address the IFG task,\nwe introduce the Instance Feature Adapter (IFAdapter). The IFAdapter enhances\nfeature depiction by incorporating additional appearance tokens and utilizing\nan Instance Semantic Map to align instance-level features with spatial\nlocations. The IFAdapter guides the diffusion process as a plug-and-play\nmodule, making it adaptable to various community models. For evaluation, we\ncontribute an IFG benchmark and develop a verification pipeline to objectively\ncompare models' abilities to generate instances with accurate positioning and\nfeatures. Experimental results demonstrate that IFAdapter outperforms other\nmodels in both quantitative and qualitative evaluations.",
+            "pdf_url": "http://arxiv.org/pdf/2409.08240v1",
+            "published": "2024-09-12 17:39:23+00:00",
+            "updated": "2024-09-12 17:39:23+00:00"
+        },
+        {
+            "title": "LT3SD: Latent Trees for 3D Scene Diffusion",
+            "authors": "Quan Meng, Lei Li, Matthias Nie\u00dfner, Angela Dai",
+            "summary": "We present LT3SD, a novel latent diffusion model for large-scale 3D scene\ngeneration. Recent advances in diffusion models have shown impressive results\nin 3D object generation, but are limited in spatial extent and quality when\nextended to 3D scenes. To generate complex and diverse 3D scene structures, we\nintroduce a latent tree representation to effectively encode both\nlower-frequency geometry and higher-frequency detail in a coarse-to-fine\nhierarchy. We can then learn a generative diffusion process in this latent 3D\nscene space, modeling the latent components of a scene at each resolution\nlevel. To synthesize large-scale scenes with varying sizes, we train our\ndiffusion model on scene patches and synthesize arbitrary-sized output 3D\nscenes through shared diffusion generation across multiple scene patches.\nThrough extensive experiments, we demonstrate the efficacy and benefits of\nLT3SD for large-scale, high-quality unconditional 3D scene generation and for\nprobabilistic completion for partial scene observations.",
+            "pdf_url": "http://arxiv.org/pdf/2409.08215v1",
+            "published": "2024-09-12 16:55:51+00:00",
+            "updated": "2024-09-12 16:55:51+00:00"
+        }
+    ]
+}

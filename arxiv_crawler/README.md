@@ -55,6 +55,31 @@ TODO:
 
 
 
+
+## Update on 2024-09-13
+
+### Physics
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2024-09-12|2024-09-12|The Role of the Curvaton Post-Planck|Gongjun Choi|[2409.08279v1](http://arxiv.org/pdf/2409.08279v1)|
+|2024-09-12|2024-09-12|Generalized Komar charges and Smarr formulas for black holes and boson stars|Romina Ballesteros|[2409.08268v1](http://arxiv.org/pdf/2409.08268v1)|
+|2024-09-12|2024-09-12|The precision measurement of the W boson mass and its impact on physics|Ashutosh Vijay Kotwal|[2409.08244v1](http://arxiv.org/pdf/2409.08244v1)|
+|2024-06-20|2024-09-12|Adaptive Manipulation using Behavior Trees|Jacques Cloete|[2406.14634v2](http://arxiv.org/pdf/2406.14634v2)|
+|2024-09-12|2024-09-12|Black Holes, Complex Curves, and Graph Theory: Revising a Conjecture by Kasner|Yen Chin Ong|[2409.08236v1](http://arxiv.org/pdf/2409.08236v1)|
+|2024-09-12|2024-09-12|Design Optimization of Nuclear Fusion Reactor through Deep Reinforcement Learning|Jinsu Kim|[2409.08231v1](http://arxiv.org/pdf/2409.08231v1)|
+|2024-09-12|2024-09-12|Investigating the Design--Science Connection in a multi-week Engineering Design (ED)-based introductory physics laboratory task|Ravishankar Chatta Subramaniam|[2409.08224v1](http://arxiv.org/pdf/2409.08224v1)|
+|2024-09-12|2024-09-12|Quantifying the breakdown scale of pionless effective field theory|Andreas Ekström|[2409.08197v1](http://arxiv.org/pdf/2409.08197v1)|
+|2024-09-12|2024-09-12|Acoustic higher-order topological insulator from momentum-space nonsymmorphic symmetries|Jinbing Hu|[2409.08196v1](http://arxiv.org/pdf/2409.08196v1)|
+|2024-09-12|2024-09-12|Converting sWeights to Probabilities with Density Ratios|D. I. Glazier|[2409.08183v1](http://arxiv.org/pdf/2409.08183v1)|
+
+### Diffusion
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2024-09-12|2024-09-12|Click2Mask: Local Editing with Dynamic Mask Generation|Omer Regev|[2409.08272v1](http://arxiv.org/pdf/2409.08272v1)|
+|2024-09-12|2024-09-12|DreamBeast: Distilling 3D Fantastical Animals with Part-Aware Knowledge Transfer|Runjia Li|[2409.08271v1](http://arxiv.org/pdf/2409.08271v1)|
+|2024-09-12|2024-09-12|LoRID: Low-Rank Iterative Diffusion for Adversarial Purification|Geigh Zollicoffer|[2409.08255v1](http://arxiv.org/pdf/2409.08255v1)|
+|2024-09-12|2024-09-12|IFAdapter: Instance Feature Control for Grounded Text-to-Image Generation|Yinwei Wu|[2409.08240v1](http://arxiv.org/pdf/2409.08240v1)|
+|2024-09-12|2024-09-12|LT3SD: Latent Trees for 3D Scene Diffusion|Quan Meng|[2409.08215v1](http://arxiv.org/pdf/2409.08215v1)|
 ## Update on 2024-09-11
 
 ### Physics
