@@ -1,0 +1,126 @@
+{
+    "Physics": [
+        {
+            "title": "Self-similarity and the direct (enstrophy) cascade in two-dimensional fluid turbulence",
+            "authors": "Mateo Reynoso, Dmitriy Zhigunov, Roman O. Grigoriev",
+            "summary": "A widely used statistical theory of 2D turbulence developed by Kraichnan,\nLeith, and Batchelor (KLB) predicts a power-law scaling for the energy,\n$E(k)\\propto k^\\alpha$ with an integral exponent $\\alpha={-3}$, in the inertial\nrange associated with the direct cascade. In the presence of large-scale\ncoherent structures, a power-law scaling is observed, but the exponent often\ndiffers substantially from the value predicted by the KLB theory. Here we\npresent a dynamical theory which describes the key physical mechanism behind\nthe direct cascade and sheds new light on the relationship between the\nstructure of the large-scale flow and the scaling of the small-scale structures\nin the inertial range. This theory also goes a step beyond KLB, to predict the\nupper and lower bounds of the inertial range as well as the energy scaling in\nthe dissipation range.",
+            "pdf_url": "http://arxiv.org/pdf/2308.03007v2",
+            "published": "2023-08-06 03:35:54+00:00",
+            "updated": "2024-09-16 17:59:00+00:00"
+        },
+        {
+            "title": "Renormalization of the Einstein-Cartan Theory in First-Order Form",
+            "authors": "F. T. Brandt, J. Frenkel, S. Martins-Filho, D. G. C. McKeon",
+            "summary": "We examine the Einstein-Cartan (EC) theory in first-order form, which has a\ndiffeomorphism as well as a local Lorentz invariance. We study the\nrenormalizability of this theory in the framework of the Batalin-Vilkovisky\nformalism, which allows for a gauge invariant renormalization. Using the\nbackground field method, we discuss the gauge invariance of the background\neffective action and analyze the Ward identities which reflect the symmetries\nof the EC theory. As an application, we compute, in a general background gauge,\nthe self-energy of the tetrad field at one-loop order.",
+            "pdf_url": "http://arxiv.org/pdf/2409.10493v1",
+            "published": "2024-09-16 17:26:55+00:00",
+            "updated": "2024-09-16 17:26:55+00:00"
+        },
+        {
+            "title": "Do Pre-trained Vision-Language Models Encode Object States?",
+            "authors": "Kaleb Newman, Shijie Wang, Yuan Zang, David Heffren, Chen Sun",
+            "summary": "For a vision-language model (VLM) to understand the physical world, such as\ncause and effect, a first step is to capture the temporal dynamics of the\nvisual world, for example how the physical states of objects evolve over time\n(e.g. a whole apple into a sliced apple). Our paper aims to investigate if VLMs\npre-trained on web-scale data learn to encode object states, which can be\nextracted with zero-shot text prompts. We curate an object state recognition\ndataset ChangeIt-Frames, and evaluate nine open-source VLMs, including models\ntrained with contrastive and generative objectives. We observe that while these\nstate-of-the-art vision-language models can reliably perform object\nrecognition, they consistently fail to accurately distinguish the objects'\nphysical states. Through extensive experiments, we identify three areas for\nimprovements for VLMs to better encode object states, namely the quality of\nobject localization, the architecture to bind concepts to objects, and the\nobjective to learn discriminative visual and language encoders on object\nstates. Data and code are released.",
+            "pdf_url": "http://arxiv.org/pdf/2409.10488v1",
+            "published": "2024-09-16 17:22:18+00:00",
+            "updated": "2024-09-16 17:22:18+00:00"
+        },
+        {
+            "title": "Calculus and applications",
+            "authors": "Teo Banica",
+            "summary": "This is an introduction to calculus, and its applications to basic questions\nfrom physics. We first discuss the theory of functions $f:\\mathbb R\\to\\mathbb\nR$, with the notion of continuity, and the construction of the derivative\n$f'(x)$ and of the integral $\\int_a^bf(x)dx$. Then we investigate the case of\nthe complex functions $f:\\mathbb C\\to\\mathbb C$, and notably the holomorphic\nfunctions, and harmonic functions. Then, we discuss the multivariable\nfunctions, $f:\\mathbb R^N\\to\\mathbb R^M$ or $f:\\mathbb R^N\\to\\mathbb C^M$ or\n$f:\\mathbb C^N\\to\\mathbb C^M$, with general theory, integration results,\nmaximization questions, and basic applications to physics.",
+            "pdf_url": "http://arxiv.org/pdf/2401.00911v2",
+            "published": "2024-01-01 00:24:33+00:00",
+            "updated": "2024-09-16 17:21:49+00:00"
+        },
+        {
+            "title": "Hydrodynamic hovering of swimming bacteria above surfaces",
+            "authors": "Pyae Hein Htet, Debasish Das, Eric Lauga",
+            "summary": "Flagellated bacteria are hydrodynamically attracted to rigid walls, yet past\nwork shows a 'hovering' state where they swim stably at a finite height above\nsurfaces. We use numerics and theory to reveal the physical origin of hovering.\nSimulations first show that hovering requires an elongated cell body and\nresults from a tilt away from the wall. Theoretical models then identify two\nessential asymmetries: the response of width-asymmetric cells to active flows\ncreated by length-asymmetric cells. A minimal model reconciles near and\nfar-field hydrodynamics, capturing all key features of hovering.",
+            "pdf_url": "http://arxiv.org/pdf/2409.10447v1",
+            "published": "2024-09-16 16:36:04+00:00",
+            "updated": "2024-09-16 16:36:04+00:00"
+        },
+        {
+            "title": "Neutrino Mixing from a Fresh Perspective",
+            "authors": "Pralay Chakraborty, Manash Dey, Biswajit Karmakar, Subhankar Roy",
+            "summary": "We propose a neutrino mass matrix texture bearing a suitable correlation\n$m_{22}=-2\\,m_{13}$ and study its phenomenological implications. In light of\nboth normal and inverted hierarchies, the texture imposes specific bounds on\nsome observational parameters. As a potential application, the prediction of\neffective Majorana neutrino mass $m_{\\beta\\beta}$ is visualized for both\nhierarchies. To understand the proposed texture from the first principle, we\nincorporate the type-I+II seesaw mechanism in association with $A_4 \\times\nZ_{10} \\times Z_2$ group.",
+            "pdf_url": "http://arxiv.org/pdf/2405.10353v2",
+            "published": "2024-05-16 16:01:43+00:00",
+            "updated": "2024-09-16 16:34:47+00:00"
+        },
+        {
+            "title": "Thermal fluid closures and pressure anisotropies in numerical simulations of plasma wakefield acceleration",
+            "authors": "Daniele Simeoni, Andrea Renato Rossi, Gianmarco Parise, Fabio Guglietta, Mauro Sbragaglia",
+            "summary": "We investigate the dynamics of plasma-based acceleration processes with\ncollisionless particle dynamics and non negligible thermal effects. We aim at\nassessing the applicability of fluid-like models, obtained by suitable closure\nassumptions applied to the relativistic kinetic equations, thus not suffering\nof statistical noise, even in presence of a finite temperature. The work here\npresented focuses on the characterization of pressure anisotropies, which\ncrucially depend on the adopted closure scheme, and hence are useful to discern\nthe appropriate thermal fluid model. To this aim, simulation results of\nspatially resolved fluid models with different thermal closure assumptions are\ncompared with the results of particle-in-cell (PIC) simulations at changing\ntemperature and amplitude of plasma oscillations.",
+            "pdf_url": "http://arxiv.org/pdf/2404.19635v2",
+            "published": "2024-04-30 15:35:27+00:00",
+            "updated": "2024-09-16 16:25:41+00:00"
+        },
+        {
+            "title": "Fundamental physical constants set the observability and operation of phase and other transitions and increase entropy",
+            "authors": "K. Trachenko",
+            "summary": "Approaching the problem of understanding fundamental physical constants\n(FPCs) started with discussing the role these constants play in high-energy\nnuclear physics and astrophysics. Condensed matter physics was relatively\nunexplored in this regard. More recently, it was realised that FPCs set lower\nor upper bounds on key condensed matter properties. In this Perspective, we\ndiscuss a wider role played by FPCs in condensed matter physics: at given\nenvironmental conditions, FPCs set the observability and operation of entire\nphysical effects and phenomena. We discuss second-order phase transitions\nincluding structural and superconducting transitions and first-order\ntransitions including melting and boiling. We also discuss metastable states,\ntransitions between them, chemical reactions and their products. An interesting\nbyproduct of this discussion is that the order of magnitude of the transition\ntemperature can be calculated from FPCs. We show that the new states emerging\nas a result of various transitions increase the phase space and entropy. Were\nFPCs to take different values, these transitions would become inoperative at\nour environmental conditions and the new states due to these transitions would\nnot emerge. This suggests that the current values of FPCs, by enabling various\ntransitions and reactions which give rise to new states, promote entropy\nincrease. We propose that this is a general effect that applies to different\nlevels of structure in the Universe.",
+            "pdf_url": "http://arxiv.org/pdf/2408.03773v4",
+            "published": "2024-08-07 13:50:00+00:00",
+            "updated": "2024-09-16 16:17:58+00:00"
+        },
+        {
+            "title": "How Haag-tied is QFT, really?",
+            "authors": "Chris Mitsch, Marian Gilton, David Freeborn",
+            "summary": "Haag's theorem cries out for explanation and critical assessment: it sounds\nthe alarm that something is (perhaps) not right in one of the standard way of\nconstructing interacting fields to be used in generating predictions for\nscattering experiments. Viewpoints as to the precise nature of the problem, the\nappropriate solution, and subsequently-called-for developments in areas of\nphysics, mathematics, and philosophy differ widely. In this paper, we develop\nand deploy a conceptual framework for critically assessing these disparate\nresponses to Haag's theorem. Doing so reveals the driving force of more general\nquestions as to the nature and purpose of foundational work in physics.",
+            "pdf_url": "http://arxiv.org/pdf/2212.06977v4",
+            "published": "2022-12-14 01:55:40+00:00",
+            "updated": "2024-09-16 16:14:21+00:00"
+        },
+        {
+            "title": "Multidimensional Deconvolution with Profiling",
+            "authors": "Huanbiao Zhu, Krish Desai, Mikael Kuusela, Vinicius Mikuni, Benjamin Nachman, Larry Wasserman",
+            "summary": "In many experimental contexts, it is necessary to statistically remove the\nimpact of instrumental effects in order to physically interpret measurements.\nThis task has been extensively studied in particle physics, where the\ndeconvolution task is called unfolding. A number of recent methods have shown\nhow to perform high-dimensional, unbinned unfolding using machine learning.\nHowever, one of the assumptions in all of these methods is that the detector\nresponse is accurately modeled in the Monte Carlo simulation. In practice, the\ndetector response depends on a number of nuisance parameters that can be\nconstrained with data. We propose a new algorithm called Profile OmniFold\n(POF), which works in a similar iterative manner as the OmniFold (OF) algorithm\nwhile being able to simultaneously profile the nuisance parameters. We\nillustrate the method with a Gaussian example as a proof of concept\nhighlighting its promising capabilities.",
+            "pdf_url": "http://arxiv.org/pdf/2409.10421v1",
+            "published": "2024-09-16 15:52:28+00:00",
+            "updated": "2024-09-16 15:52:28+00:00"
+        }
+    ],
+    "Diffusion": [
+        {
+            "title": "MacDiff: Unified Skeleton Modeling with Masked Conditional Diffusion",
+            "authors": "Lehong Wu, Lilang Lin, Jiahang Zhang, Yiyang Ma, Jiaying Liu",
+            "summary": "Self-supervised learning has proved effective for skeleton-based human action\nunderstanding. However, previous works either rely on contrastive learning that\nsuffers false negative problems or are based on reconstruction that learns too\nmuch unessential low-level clues, leading to limited representations for\ndownstream tasks. Recently, great advances have been made in generative\nlearning, which is naturally a challenging yet meaningful pretext task to model\nthe general underlying data distributions. However, the representation learning\ncapacity of generative models is under-explored, especially for the skeletons\nwith spacial sparsity and temporal redundancy. To this end, we propose Masked\nConditional Diffusion (MacDiff) as a unified framework for human skeleton\nmodeling. For the first time, we leverage diffusion models as effective\nskeleton representation learners. Specifically, we train a diffusion decoder\nconditioned on the representations extracted by a semantic encoder. Random\nmasking is applied to encoder inputs to introduce a information bottleneck and\nremove redundancy of skeletons. Furthermore, we theoretically demonstrate that\nour generative objective involves the contrastive learning objective which\naligns the masked and noisy views. Meanwhile, it also enforces the\nrepresentation to complement for the noisy view, leading to better\ngeneralization performance. MacDiff achieves state-of-the-art performance on\nrepresentation learning benchmarks while maintaining the competence for\ngenerative tasks. Moreover, we leverage the diffusion model for data\naugmentation, significantly enhancing the fine-tuning performance in scenarios\nwith scarce labeled data. Our project is available at\nhttps://lehongwu.github.io/ECCV24MacDiff/.",
+            "pdf_url": "http://arxiv.org/pdf/2409.10473v1",
+            "published": "2024-09-16 17:06:10+00:00",
+            "updated": "2024-09-16 17:06:10+00:00"
+        },
+        {
+            "title": "On Synthetic Texture Datasets: Challenges, Creation, and Curation",
+            "authors": "Blaine Hoak, Patrick McDaniel",
+            "summary": "The influence of textures on machine learning models has been an ongoing\ninvestigation, specifically in texture bias/learning, interpretability, and\nrobustness. However, due to the lack of large and diverse texture data\navailable, the findings in these works have been limited, as more comprehensive\nevaluations have not been feasible. Image generative models are able to provide\ndata creation at scale, but utilizing these models for texture synthesis has\nbeen unexplored and poses additional challenges both in creating accurate\ntexture images and validating those images. In this work, we introduce an\nextensible methodology and corresponding new dataset for generating\nhigh-quality, diverse texture images capable of supporting a broad set of\ntexture-based tasks. Our pipeline consists of: (1) developing prompts from a\nrange of descriptors to serve as input to text-to-image models, (2) adopting\nand adapting Stable Diffusion pipelines to generate and filter the\ncorresponding images, and (3) further filtering down to the highest quality\nimages. Through this, we create the Prompted Textures Dataset (PTD), a dataset\nof 362,880 texture images that span 56 textures. During the process of\ngenerating images, we find that NSFW safety filters in image generation\npipelines are highly sensitive to texture (and flag up to 60\\% of our texture\nimages), uncovering a potential bias in these models and presenting unique\nchallenges when working with texture data. Through both standard metrics and a\nhuman evaluation, we find that our dataset is high quality and diverse.",
+            "pdf_url": "http://arxiv.org/pdf/2409.10297v1",
+            "published": "2024-09-16 14:02:18+00:00",
+            "updated": "2024-09-16 14:02:18+00:00"
+        },
+        {
+            "title": "ReflectDiffu: Reflect between Emotion-intent Contagion and Mimicry for Empathetic Response Generation via a RL-Diffusion Framework",
+            "authors": "Jiahao Yuan, Zixiang Di, Zhiqing Cui, Guisong Yang, Usman Naseem",
+            "summary": "Empathetic response generation necessitates the integration of emotional and\nintentional dynamics to foster meaningful interactions. Existing research\neither neglects the intricate interplay between emotion and intent, leading to\nsuboptimal controllability of empathy, or resorts to large language models\n(LLMs), which incur significant computational overhead. In this paper, we\nintroduce ReflectDiffu, a lightweight and comprehensive framework for\nempathetic response generation. This framework incorporates emotion contagion\nto augment emotional expressiveness and employs an emotion-reasoning mask to\npinpoint critical emotional elements. Additionally, it integrates intent\nmimicry within reinforcement learning for refinement during diffusion. By\nharnessing an intent twice reflect the mechanism of\nExploring-Sampling-Correcting, ReflectDiffu adeptly translates emotional\ndecision-making into precise intent actions, thereby addressing empathetic\nresponse misalignments stemming from emotional misrecognition. Through\nreflection, the framework maps emotional states to intents, markedly enhancing\nboth response empathy and flexibility. Comprehensive experiments reveal that\nReflectDiffu outperforms existing models regarding relevance, controllability,\nand informativeness, achieving state-of-the-art results in both automatic and\nhuman evaluations.",
+            "pdf_url": "http://arxiv.org/pdf/2409.10289v1",
+            "published": "2024-09-16 13:56:17+00:00",
+            "updated": "2024-09-16 13:56:17+00:00"
+        },
+        {
+            "title": "DreamHead: Learning Spatial-Temporal Correspondence via Hierarchical Diffusion for Audio-driven Talking Head Synthesis",
+            "authors": "Fa-Ting Hong, Yunfei Liu, Yu Li, Changyin Zhou, Fei Yu, Dan Xu",
+            "summary": "Audio-driven talking head synthesis strives to generate lifelike video\nportraits from provided audio. The diffusion model, recognized for its superior\nquality and robust generalization, has been explored for this task. However,\nestablishing a robust correspondence between temporal audio cues and\ncorresponding spatial facial expressions with diffusion models remains a\nsignificant challenge in talking head generation. To bridge this gap, we\npresent DreamHead, a hierarchical diffusion framework that learns\nspatial-temporal correspondences in talking head synthesis without compromising\nthe model's intrinsic quality and adaptability.~DreamHead learns to predict\ndense facial landmarks from audios as intermediate signals to model the spatial\nand temporal correspondences.~Specifically, a first hierarchy of\naudio-to-landmark diffusion is first designed to predict temporally smooth and\naccurate landmark sequences given audio sequence signals. Then, a second\nhierarchy of landmark-to-image diffusion is further proposed to produce\nspatially consistent facial portrait videos, by modeling spatial\ncorrespondences between the dense facial landmark and appearance. Extensive\nexperiments show that proposed DreamHead can effectively learn spatial-temporal\nconsistency with the designed hierarchical diffusion and produce high-fidelity\naudio-driven talking head videos for multiple identities.",
+            "pdf_url": "http://arxiv.org/pdf/2409.10281v1",
+            "published": "2024-09-16 13:44:20+00:00",
+            "updated": "2024-09-16 13:44:20+00:00"
+        },
+        {
+            "title": "A Survey on Statistical Theory of Deep Learning: Approximation, Training Dynamics, and Generative Models",
+            "authors": "Namjoon Suh, Guang Cheng",
+            "summary": "In this article, we review the literature on statistical theories of neural\nnetworks from three perspectives: approximation, training dynamics and\ngenerative models. In the first part, results on excess risks for neural\nnetworks are reviewed in the nonparametric framework of regression (and\nclassification in Appendix~{\\color{blue}B}). These results rely on explicit\nconstructions of neural networks, leading to fast convergence rates of excess\nrisks. Nonetheless, their underlying analysis only applies to the global\nminimizer in the highly non-convex landscape of deep neural networks. This\nmotivates us to review the training dynamics of neural networks in the second\npart. Specifically, we review papers that attempt to answer ``how the neural\nnetwork trained via gradient-based methods finds the solution that can\ngeneralize well on unseen data.'' In particular, two well-known paradigms are\nreviewed: the Neural Tangent Kernel (NTK) paradigm, and Mean-Field (MF)\nparadigm. Last but not least, we review the most recent theoretical\nadvancements in generative models including Generative Adversarial Networks\n(GANs), diffusion models, and in-context learning (ICL) in the Large Language\nModels (LLMs) from two perpsectives reviewed previously, i.e., approximation\nand training dynamics.",
+            "pdf_url": "http://arxiv.org/pdf/2401.07187v3",
+            "published": "2024-01-14 02:30:19+00:00",
+            "updated": "2024-09-16 09:57:35+00:00"
+        }
+    ]
+}

@@ -56,6 +56,31 @@ TODO:
 
 
 
+
+## Update on 2024-09-17
+
+### Physics
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2023-08-06|2024-09-16|Self-similarity and the direct (enstrophy) cascade in two-dimensional fluid turbulence|Mateo Reynoso|[2308.03007v2](http://arxiv.org/pdf/2308.03007v2)|
+|2024-09-16|2024-09-16|Renormalization of the Einstein-Cartan Theory in First-Order Form|F. T. Brandt|[2409.10493v1](http://arxiv.org/pdf/2409.10493v1)|
+|2024-09-16|2024-09-16|Do Pre-trained Vision-Language Models Encode Object States?|Kaleb Newman|[2409.10488v1](http://arxiv.org/pdf/2409.10488v1)|
+|2024-01-01|2024-09-16|Calculus and applications|Teo Banica|[2401.00911v2](http://arxiv.org/pdf/2401.00911v2)|
+|2024-09-16|2024-09-16|Hydrodynamic hovering of swimming bacteria above surfaces|Pyae Hein Htet|[2409.10447v1](http://arxiv.org/pdf/2409.10447v1)|
+|2024-05-16|2024-09-16|Neutrino Mixing from a Fresh Perspective|Pralay Chakraborty|[2405.10353v2](http://arxiv.org/pdf/2405.10353v2)|
+|2024-04-30|2024-09-16|Thermal fluid closures and pressure anisotropies in numerical simulations of plasma wakefield acceleration|Daniele Simeoni|[2404.19635v2](http://arxiv.org/pdf/2404.19635v2)|
+|2024-08-07|2024-09-16|Fundamental physical constants set the observability and operation of phase and other transitions and increase entropy|K. Trachenko|[2408.03773v4](http://arxiv.org/pdf/2408.03773v4)|
+|2022-12-14|2024-09-16|How Haag-tied is QFT, really?|Chris Mitsch|[2212.06977v4](http://arxiv.org/pdf/2212.06977v4)|
+|2024-09-16|2024-09-16|Multidimensional Deconvolution with Profiling|Huanbiao Zhu|[2409.10421v1](http://arxiv.org/pdf/2409.10421v1)|
+
+### Diffusion
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2024-09-16|2024-09-16|MacDiff: Unified Skeleton Modeling with Masked Conditional Diffusion|Lehong Wu|[2409.10473v1](http://arxiv.org/pdf/2409.10473v1)|
+|2024-09-16|2024-09-16|On Synthetic Texture Datasets: Challenges, Creation, and Curation|Blaine Hoak|[2409.10297v1](http://arxiv.org/pdf/2409.10297v1)|
+|2024-09-16|2024-09-16|ReflectDiffu: Reflect between Emotion-intent Contagion and Mimicry for Empathetic Response Generation via a RL-Diffusion Framework|Jiahao Yuan|[2409.10289v1](http://arxiv.org/pdf/2409.10289v1)|
+|2024-09-16|2024-09-16|DreamHead: Learning Spatial-Temporal Correspondence via Hierarchical Diffusion for Audio-driven Talking Head Synthesis|Fa-Ting Hong|[2409.10281v1](http://arxiv.org/pdf/2409.10281v1)|
+|2024-01-14|2024-09-16|A Survey on Statistical Theory of Deep Learning: Approximation, Training Dynamics, and Generative Models|Namjoon Suh|[2401.07187v3](http://arxiv.org/pdf/2401.07187v3)|
 ## Update on 2024-09-13
 
 ### Physics
