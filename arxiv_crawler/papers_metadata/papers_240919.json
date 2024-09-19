@@ -1,0 +1,126 @@
+{
+    "Physics": [
+        {
+            "title": "Quantum computational advantage with constant-temperature Gibbs sampling",
+            "authors": "Thiago Bergamaschi, Chi-Fang Chen, Yunchao Liu",
+            "summary": "A quantum system coupled to a bath at some fixed, finite temperature\nconverges to its Gibbs state. This thermalization process defines a natural,\nphysically-motivated model of quantum computation. However, whether quantum\ncomputational advantage can be achieved within this realistic physical setup\nhas remained open, due to the challenge of finding systems that thermalize\nquickly, but are classically intractable. Here we consider sampling from the\nmeasurement outcome distribution of quantum Gibbs states at constant\ntemperatures, and prove that this task demonstrates quantum computational\nadvantage. We design a family of commuting local Hamiltonians (parent\nHamiltonians of shallow quantum circuits) and prove that they rapidly converge\nto their Gibbs states under the standard physical model of thermalization (as a\ncontinuous-time quantum Markov chain). On the other hand, we show that no\npolynomial time classical algorithm can sample from the measurement outcome\ndistribution by reducing to the classical hardness of sampling from noiseless\nshallow quantum circuits. The key step in the reduction is constructing a\nfault-tolerance scheme for shallow IQP circuits against input noise.",
+            "pdf_url": "http://arxiv.org/pdf/2404.14639v2",
+            "published": "2024-04-23 00:29:21+00:00",
+            "updated": "2024-09-18 17:51:02+00:00"
+        },
+        {
+            "title": "AHKASH: a new Hybrid particle-in-cell code for simulations of astrophysical collisionless plasma",
+            "authors": "Radhika Achikanath Chirakkara, Christoph Federrath, Amit Seta",
+            "summary": "We introduce $\\texttt{A}$strophysical $\\texttt{H}$ybrid-$\\texttt{K}$inetic\nsimulations with the $\\texttt{flASH}$ code ($\\texttt{AHKASH}$) -- a new Hybrid\nparticle-in-cell (PIC) code developed within the framework of the multi-physics\ncode $\\texttt{FLASH}$. The new code uses a second-order accurate Boris\nintegrator and a predictor-predictor-corrector algorithm for advancing the\nHybrid-kinetic equations, using the constraint transport method to ensure that\nmagnetic fields are divergence-free. The code supports various interpolation\nschemes between the particles and grid cells, with post-interpolation smoothing\nto reduce finite particle noise. We further implement a $\\delta f$ method to\nstudy instabilities in weakly collisional plasmas. The new code is tested on\nstandard physical problems such as the motion of charged particles in uniform\nand spatially varying magnetic fields, the propagation of Alfv\\'en and whistler\nwaves, and Landau damping of ion acoustic waves. We test different\ninterpolation kernels and demonstrate the necessity of performing\npost-interpolation smoothing. We couple the $\\texttt{TurbGen}$ turbulence\ndriving module to the new Hybrid PIC code, allowing us to test the code on the\nhighly complex physical problem of the turbulent dynamo. To investigate\nsteady-state turbulence with a fixed sonic Mach number, it is important to\nmaintain isothermal plasma conditions. Therefore, we introduce a novel cooling\nmethod for Hybrid PIC codes and provide tests and calibrations of this method\nto keep the plasma isothermal. We describe and test the `hybrid precision'\nmethod, which significantly reduces (by a factor $\\sim1.5$) the computational\ncost, without compromising the accuracy of the numerical solutions. Finally, we\ntest the parallel scalability of the new code, showing excellent scaling up to\n10,000~cores.",
+            "pdf_url": "http://arxiv.org/pdf/2409.12151v1",
+            "published": "2024-09-18 17:15:10+00:00",
+            "updated": "2024-09-18 17:15:10+00:00"
+        },
+        {
+            "title": "Model-free quantification of completeness, uncertainties, and outliers in atomistic machine learning using information theory",
+            "authors": "Daniel Schwalbe-Koda, Sebastien Hamel, Babak Sadigh, Fei Zhou, Vincenzo Lordi",
+            "summary": "An accurate description of information is relevant for a range of problems in\natomistic machine learning (ML), such as crafting training sets, performing\nuncertainty quantification (UQ), or extracting physical insights from large\ndatasets. However, atomistic ML often relies on unsupervised learning or model\npredictions to analyze information contents from simulation or training data.\nHere, we introduce a theoretical framework that provides a rigorous, model-free\ntool to quantify information contents in atomistic simulations. We demonstrate\nthat the information entropy of a distribution of atom-centered environments\nexplains known heuristics in ML potential developments, from training set sizes\nto dataset optimality. Using this tool, we propose a model-free UQ method that\nreliably predicts epistemic uncertainty and detects out-of-distribution\nsamples, including rare events in systems such as nucleation. This method\nprovides a general tool for data-driven atomistic modeling and combines efforts\nin ML, simulations, and physical explainability.",
+            "pdf_url": "http://arxiv.org/pdf/2404.12367v2",
+            "published": "2024-04-18 17:50:15+00:00",
+            "updated": "2024-09-18 16:30:21+00:00"
+        },
+        {
+            "title": "IMRL: Integrating Visual, Physical, Temporal, and Geometric Representations for Enhanced Food Acquisition",
+            "authors": "Rui Liu, Zahiruddin Mahammad, Amisha Bhaskar, Pratap Tokekar",
+            "summary": "Robotic assistive feeding holds significant promise for improving the quality\nof life for individuals with eating disabilities. However, acquiring diverse\nfood items under varying conditions and generalizing to unseen food presents\nunique challenges. Existing methods that rely on surface-level geometric\ninformation (e.g., bounding box and pose) derived from visual cues (e.g.,\ncolor, shape, and texture) often lacks adaptability and robustness, especially\nwhen foods share similar physical properties but differ in visual appearance.\nWe employ imitation learning (IL) to learn a policy for food acquisition.\nExisting methods employ IL or Reinforcement Learning (RL) to learn a policy\nbased on off-the-shelf image encoders such as ResNet-50. However, such\nrepresentations are not robust and struggle to generalize across diverse\nacquisition scenarios. To address these limitations, we propose a novel\napproach, IMRL (Integrated Multi-Dimensional Representation Learning), which\nintegrates visual, physical, temporal, and geometric representations to enhance\nthe robustness and generalizability of IL for food acquisition. Our approach\ncaptures food types and physical properties (e.g., solid, semi-solid, granular,\nliquid, and mixture), models temporal dynamics of acquisition actions, and\nintroduces geometric information to determine optimal scooping points and\nassess bowl fullness. IMRL enables IL to adaptively adjust scooping strategies\nbased on context, improving the robot's capability to handle diverse food\nacquisition scenarios. Experiments on a real robot demonstrate our approach's\nrobustness and adaptability across various foods and bowl configurations,\nincluding zero-shot generalization to unseen settings. Our approach achieves\nimprovement up to $35\\%$ in success rate compared with the best-performing\nbaseline.",
+            "pdf_url": "http://arxiv.org/pdf/2409.12092v1",
+            "published": "2024-09-18 16:09:06+00:00",
+            "updated": "2024-09-18 16:09:06+00:00"
+        },
+        {
+            "title": "Uncovering liquid-substrate fluctuation effects on crystal growth and disordered hyperuniformity of two-dimensional materials",
+            "authors": "S. K. Mkhonta, Zhi-Feng Huang, K. R. Elder",
+            "summary": "We investigate the growth of two-dimensional (2D) crystals on fluctuating\nsurfaces using a phase field crystal model that is relevant on atomic length\nand diffusive time scales. Motivated by recent experiments which achieved\nunprecedented fast growth of large-size high-quality 2D crystals on liquid\nsubstrates, we uncover novel effects of liquid surfaces on microstructural\nordering. We find that substrate fluctuations generate short-ranged noise that\nspeeds up crystallization and grain growth of the overlayer, surpassing that of\nfree-standing system. Coupling to the liquid substrate fluctuations can also\nmodulate local randomness, leading to intriguing disordered structures with\nhidden spatial order, i.e., disordered hyperuniformity. These results reveal\nthe physical mechanisms underlying the fast growth of 2D crystals on liquid\nsurfaces and demonstrate a novel strategy for synthesizing disordered\nhyperuniform thin film structures.",
+            "pdf_url": "http://arxiv.org/pdf/2409.12090v1",
+            "published": "2024-09-18 16:04:11+00:00",
+            "updated": "2024-09-18 16:04:11+00:00"
+        },
+        {
+            "title": "Unveiling the Secrets of New Physics Through Top Quark Tagging",
+            "authors": "Rameswar Sahu, Saiyad Ashanujjaman, Kirtiman Ghosh",
+            "summary": "The ubiquity of top-rich final states in the context of beyond the Standard\nModel (BSM) searches has led to their status as extensively studied signatures\nat the LHC. Over the past decade, numerous endeavours have been undertaken in\nthe literature to develop methods for efficiently distinguishing boosted top\nquark jets from QCD jets. Although cut-based strategies for boosted top\ntagging, which rely on substructure information from fat jets resulting from\nthe hadronic decay of boosted top quarks, were introduced in the literature as\nearly as 2008, recent years have witnessed a surge in the utilization of\nmachine learning-based approaches for the classification of top-jets from QCD\njets. The review focuses on the present status of boosted top tagging and its\napplication for BSM searchers.",
+            "pdf_url": "http://arxiv.org/pdf/2409.12085v1",
+            "published": "2024-09-18 15:59:09+00:00",
+            "updated": "2024-09-18 15:59:09+00:00"
+        },
+        {
+            "title": "The $\u03b7_c$-meson leading-twist distribution amplitude",
+            "authors": "Beno\u00eet Blossier, Mariane Mangin-Brinet, Jos\u00e9 Manuel Morgado Ch\u00e1vez, Teseo San Jos\u00e9",
+            "summary": "In this project, we employ the short-distance factorization to compute the\ndistribution amplitude of the $\\eta_c$-meson from Lattice QCD at leading twist.\nWe employ a set of CLS $N_f=2$ ensembles at three lattice spacings and various\nquark masses to extrapolate the pseudo distribution to the physical point in\nthe isospin limit. We solve the inverse problem modeling the distribution\namplitude, and we match our results to the light-cone in the\n$\\overline{\\text{MS}}$-scheme. We include a complete error budget, and we\ncompare to two alternative approaches: non-relativistic QCD and Dyson-Schwinger\nequations, finding good agreement with the latter but not with the former.",
+            "pdf_url": "http://arxiv.org/pdf/2409.12084v1",
+            "published": "2024-09-18 15:58:53+00:00",
+            "updated": "2024-09-18 15:58:53+00:00"
+        },
+        {
+            "title": "First constraint on the dissipative tidal deformability of neutron stars",
+            "authors": "Justin L. Ripley, Abhishek Hegade K. R., Rohit S. Chandramouli, and Nicolas Yunes",
+            "summary": "The gravitational waves (GWs) emitted by neutron star binaries probe the\nphysics of matter at supra nuclear densities. During the late inspiral, tidal\ndeformations raised on each star by the gravitational field of its companion\ndepend crucially on the star's internal properties. The misalignment of a\nstar's tidal bulge with its companion's gravitational field encodes the\nstrength of internal dissipative processes, which imprint onto the phase of the\ngravitational waves emitted. We here analyze GW data from the GW170817 (binary\nneutron star) event detected by LIGO and Virgo and find the first constraint on\nthe dissipative tidal deformability of a neutron star. From this constraint,\n\\emph{assuming} a temperature profile for each star in the binary, we obtain an\norder of magnitude bound on the averaged bulk ($\\zeta$) and shear ($\\eta$)\nviscosity of each star during the inspiral.: $\\zeta \\lesssim 10^{31}\n\\mathrm{g}\\;\\mathrm{cm}^{-1}\\mathrm{s}^{-1}$ and $\\eta \\lesssim 10^{28}\n\\mathrm{g}\\;\\mathrm{cm}^{-1}\\mathrm{s}^{-1} $. We forecast that these bounds\ncould be improved by two orders of magnitude with third-generation detectors,\nlike Cosmic Explorer, using inspiral data. These constraints already inform\nnuclear physics models and motivate further theoretical work to better\nunderstand the interplay between viscosity and temperature in the late inspiral\nof neutron stars.",
+            "pdf_url": "http://arxiv.org/pdf/2312.11659v3",
+            "published": "2023-12-18 19:13:05+00:00",
+            "updated": "2024-09-18 15:34:40+00:00"
+        },
+        {
+            "title": "Optimal light cone for macroscopic particle transport in long-range systems: A quantum speed limit approach",
+            "authors": "Tan Van Vu, Tomotaka Kuwahara, Keiji Saito",
+            "summary": "Understanding the ultimate rate at which information propagates is a pivotal\nissue in nonequilibrium physics. Nevertheless, the task of elucidating the\npropagation speed inherent in quantum bosonic systems presents challenges due\nto the unbounded nature of their interactions. In this study, we tackle the\nproblem of macroscopic particle transport in a long-range generalization of the\nlattice Bose-Hubbard model through the lens of the quantum speed limit. By\ndeveloping a unified approach based on optimal transport theory, we rigorously\nprove that the minimum time required for macroscopic particle transport is\nalways bounded by the distance between the source and target regions, while\nretaining its significance even in the thermodynamic limit. Furthermore, we\nderive an upper bound for the probability of observing a specific number of\nbosons inside the target region, thereby providing additional insights into the\ndynamics of particle transport. Our results hold true for arbitrary initial\nstates under both long-range hopping and long-range interactions, thus\nresolving an open problem of particle transport in generic bosonic systems.",
+            "pdf_url": "http://arxiv.org/pdf/2307.01059v2",
+            "published": "2023-07-03 14:37:11+00:00",
+            "updated": "2024-09-18 14:48:03+00:00"
+        },
+        {
+            "title": "Doppler-free selective reflection spectroscopy of electric-quadrupole transitions",
+            "authors": "Eng Aik Chan, Syed Abdullah Aljunid, Athanasios Laliotis, David Wilkowski, Martial Ducloy",
+            "summary": "Electric-dipole-forbidden transitions play an important role as in quantum\nsensing, quantum information, and fundamental test in physics. As such, the\ndevelopment of novel and sensitive spectroscopic methods is of major interest.\nHere, we present a Doppler-free selective reflection experiment on the 6S1/2\n--> 5D5/2 electric-quadrupole transition of cesium vapor at the vicinity of a\nsapphire window. This is achieved by a precision experiment overcoming\nlimitations due to the small signal amplitude of forbidden transitions. Narrow\nsub-Doppler lines allow for a collisional broadening measurement on the\nelectric-quadrupole line. The interaction of cesium atoms with the sapphire\nsurface of the cell is evidenced, but, due to its weak contribution, a\nquantitative analysis remains challenging. Nevertheless, our experiment paves\nthe way for further studies of the Casimir-Polder interaction between exotic\nexcited-state atoms and dielectric surfaces.",
+            "pdf_url": "http://arxiv.org/pdf/2409.12017v1",
+            "published": "2024-09-18 14:29:52+00:00",
+            "updated": "2024-09-18 14:29:52+00:00"
+        }
+    ],
+    "Diffusion": [
+        {
+            "title": "Vista3D: Unravel the 3D Darkside of a Single Image",
+            "authors": "Qiuhong Shen, Xingyi Yang, Michael Bi Mi, Xinchao Wang",
+            "summary": "We embark on the age-old quest: unveiling the hidden dimensions of objects\nfrom mere glimpses of their visible parts. To address this, we present Vista3D,\na framework that realizes swift and consistent 3D generation within a mere 5\nminutes. At the heart of Vista3D lies a two-phase approach: the coarse phase\nand the fine phase. In the coarse phase, we rapidly generate initial geometry\nwith Gaussian Splatting from a single image. In the fine phase, we extract a\nSigned Distance Function (SDF) directly from learned Gaussian Splatting,\noptimizing it with a differentiable isosurface representation. Furthermore, it\nelevates the quality of generation by using a disentangled representation with\ntwo independent implicit functions to capture both visible and obscured aspects\nof objects. Additionally, it harmonizes gradients from 2D diffusion prior with\n3D-aware diffusion priors by angular diffusion prior composition. Through\nextensive evaluation, we demonstrate that Vista3D effectively sustains a\nbalance between the consistency and diversity of the generated 3D objects.\nDemos and code will be available at https://github.com/florinshen/Vista3D.",
+            "pdf_url": "http://arxiv.org/pdf/2409.12193v1",
+            "published": "2024-09-18 17:59:44+00:00",
+            "updated": "2024-09-18 17:59:44+00:00"
+        },
+        {
+            "title": "DynaMo: In-Domain Dynamics Pretraining for Visuo-Motor Control",
+            "authors": "Zichen Jeff Cui, Hengkai Pan, Aadhithya Iyer, Siddhant Haldar, Lerrel Pinto",
+            "summary": "Imitation learning has proven to be a powerful tool for training complex\nvisuomotor policies. However, current methods often require hundreds to\nthousands of expert demonstrations to handle high-dimensional visual\nobservations. A key reason for this poor data efficiency is that visual\nrepresentations are predominantly either pretrained on out-of-domain data or\ntrained directly through a behavior cloning objective. In this work, we present\nDynaMo, a new in-domain, self-supervised method for learning visual\nrepresentations. Given a set of expert demonstrations, we jointly learn a\nlatent inverse dynamics model and a forward dynamics model over a sequence of\nimage embeddings, predicting the next frame in latent space, without\naugmentations, contrastive sampling, or access to ground truth actions.\nImportantly, DynaMo does not require any out-of-domain data such as Internet\ndatasets or cross-embodied datasets. On a suite of six simulated and real\nenvironments, we show that representations learned with DynaMo significantly\nimprove downstream imitation learning performance over prior self-supervised\nlearning objectives, and pretrained representations. Gains from using DynaMo\nhold across policy classes such as Behavior Transformer, Diffusion Policy, MLP,\nand nearest neighbors. Finally, we ablate over key components of DynaMo and\nmeasure its impact on downstream policy performance. Robot videos are best\nviewed at https://dynamo-ssl.github.io",
+            "pdf_url": "http://arxiv.org/pdf/2409.12192v1",
+            "published": "2024-09-18 17:59:43+00:00",
+            "updated": "2024-09-18 17:59:43+00:00"
+        },
+        {
+            "title": "Massively Multi-Person 3D Human Motion Forecasting with Scene Context",
+            "authors": "Felix B Mueller, Julian Tanke, Juergen Gall",
+            "summary": "Forecasting long-term 3D human motion is challenging: the stochasticity of\nhuman behavior makes it hard to generate realistic human motion from the input\nsequence alone. Information on the scene environment and the motion of nearby\npeople can greatly aid the generation process. We propose a scene-aware social\ntransformer model (SAST) to forecast long-term (10s) human motion motion.\nUnlike previous models, our approach can model interactions between both widely\nvarying numbers of people and objects in a scene. We combine a temporal\nconvolutional encoder-decoder architecture with a Transformer-based bottleneck\nthat allows us to efficiently combine motion and scene information. We model\nthe conditional motion distribution using denoising diffusion models. We\nbenchmark our approach on the Humans in Kitchens dataset, which contains 1 to\n16 persons and 29 to 50 objects that are visible simultaneously. Our model\noutperforms other approaches in terms of realism and diversity on different\nmetrics and in a user study. Code is available at\nhttps://github.com/felixbmuller/SAST.",
+            "pdf_url": "http://arxiv.org/pdf/2409.12189v1",
+            "published": "2024-09-18 17:58:51+00:00",
+            "updated": "2024-09-18 17:58:51+00:00"
+        },
+        {
+            "title": "Denoising diffusion models for high-resolution microscopy image restoration",
+            "authors": "Pamela Osuna-Vargas, Maren H. Wehrheim, Lucas Zinz, Johanna Rahm, Ashwin Balakrishnan, Alexandra Kaminer, Mike Heilemann, Matthias Kaschube",
+            "summary": "Advances in microscopy imaging enable researchers to visualize structures at\nthe nanoscale level thereby unraveling intricate details of biological\norganization. However, challenges such as image noise, photobleaching of\nfluorophores, and low tolerability of biological samples to high light doses\nremain, restricting temporal resolutions and experiment durations. Reduced\nlaser doses enable longer measurements at the cost of lower resolution and\nincreased noise, which hinders accurate downstream analyses. Here we train a\ndenoising diffusion probabilistic model (DDPM) to predict high-resolution\nimages by conditioning the model on low-resolution information. Additionally,\nthe probabilistic aspect of the DDPM allows for repeated generation of images\nthat tend to further increase the signal-to-noise ratio. We show that our model\nachieves a performance that is better or similar to the previously\nbest-performing methods, across four highly diverse datasets. Importantly,\nwhile any of the previous methods show competitive performance for some, but\nnot all datasets, our method consistently achieves high performance across all\nfour data sets, suggesting high generalizability.",
+            "pdf_url": "http://arxiv.org/pdf/2409.12078v1",
+            "published": "2024-09-18 15:53:45+00:00",
+            "updated": "2024-09-18 15:53:45+00:00"
+        },
+        {
+            "title": "Neural Graph Generator: Feature-Conditioned Graph Generation using Latent Diffusion Models",
+            "authors": "Iakovos Evdaimon, Giannis Nikolentzos, Christos Xypolopoulos, Ahmed Kammoun, Michail Chatzianastasis, Hadi Abdine, Michalis Vazirgiannis",
+            "summary": "Graph generation has emerged as a crucial task in machine learning, with\nsignificant challenges in generating graphs that accurately reflect specific\nproperties. Existing methods often fall short in efficiently addressing this\nneed as they struggle with the high-dimensional complexity and varied nature of\ngraph properties. In this paper, we introduce the Neural Graph Generator (NGG),\na novel approach which utilizes conditioned latent diffusion models for graph\ngeneration. NGG demonstrates a remarkable capacity to model complex graph\npatterns, offering control over the graph generation process. NGG employs a\nvariational graph autoencoder for graph compression and a diffusion process in\nthe latent vector space, guided by vectors summarizing graph statistics. We\ndemonstrate NGG's versatility across various graph generation tasks, showing\nits capability to capture desired graph properties and generalize to unseen\ngraphs. We also compare our generator to the graph generation capabilities of\ndifferent LLMs. This work signifies a shift in graph generation methodologies,\noffering a more practical and efficient solution for generating diverse graphs\nwith specific characteristics.",
+            "pdf_url": "http://arxiv.org/pdf/2403.01535v3",
+            "published": "2024-03-03 15:28:47+00:00",
+            "updated": "2024-09-18 14:20:32+00:00"
+        }
+    ]
+}

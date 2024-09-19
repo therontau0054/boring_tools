@@ -57,6 +57,31 @@ TODO:
 
 
 
+
+## Update on 2024-09-19
+
+### Physics
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2024-04-23|2024-09-18|Quantum computational advantage with constant-temperature Gibbs sampling|Thiago Bergamaschi|[2404.14639v2](http://arxiv.org/pdf/2404.14639v2)|
+|2024-09-18|2024-09-18|AHKASH: a new Hybrid particle-in-cell code for simulations of astrophysical collisionless plasma|Radhika Achikanath Chirakkara|[2409.12151v1](http://arxiv.org/pdf/2409.12151v1)|
+|2024-04-18|2024-09-18|Model-free quantification of completeness, uncertainties, and outliers in atomistic machine learning using information theory|Daniel Schwalbe-Koda|[2404.12367v2](http://arxiv.org/pdf/2404.12367v2)|
+|2024-09-18|2024-09-18|IMRL: Integrating Visual, Physical, Temporal, and Geometric Representations for Enhanced Food Acquisition|Rui Liu|[2409.12092v1](http://arxiv.org/pdf/2409.12092v1)|
+|2024-09-18|2024-09-18|Uncovering liquid-substrate fluctuation effects on crystal growth and disordered hyperuniformity of two-dimensional materials|S. K. Mkhonta|[2409.12090v1](http://arxiv.org/pdf/2409.12090v1)|
+|2024-09-18|2024-09-18|Unveiling the Secrets of New Physics Through Top Quark Tagging|Rameswar Sahu|[2409.12085v1](http://arxiv.org/pdf/2409.12085v1)|
+|2024-09-18|2024-09-18|The $η_c$-meson leading-twist distribution amplitude|Benoît Blossier|[2409.12084v1](http://arxiv.org/pdf/2409.12084v1)|
+|2023-12-18|2024-09-18|First constraint on the dissipative tidal deformability of neutron stars|Justin L. Ripley|[2312.11659v3](http://arxiv.org/pdf/2312.11659v3)|
+|2023-07-03|2024-09-18|Optimal light cone for macroscopic particle transport in long-range systems: A quantum speed limit approach|Tan Van Vu|[2307.01059v2](http://arxiv.org/pdf/2307.01059v2)|
+|2024-09-18|2024-09-18|Doppler-free selective reflection spectroscopy of electric-quadrupole transitions|Eng Aik Chan|[2409.12017v1](http://arxiv.org/pdf/2409.12017v1)|
+
+### Diffusion
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2024-09-18|2024-09-18|Vista3D: Unravel the 3D Darkside of a Single Image|Qiuhong Shen|[2409.12193v1](http://arxiv.org/pdf/2409.12193v1)|
+|2024-09-18|2024-09-18|DynaMo: In-Domain Dynamics Pretraining for Visuo-Motor Control|Zichen Jeff Cui|[2409.12192v1](http://arxiv.org/pdf/2409.12192v1)|
+|2024-09-18|2024-09-18|Massively Multi-Person 3D Human Motion Forecasting with Scene Context|Felix B Mueller|[2409.12189v1](http://arxiv.org/pdf/2409.12189v1)|
+|2024-09-18|2024-09-18|Denoising diffusion models for high-resolution microscopy image restoration|Pamela Osuna-Vargas|[2409.12078v1](http://arxiv.org/pdf/2409.12078v1)|
+|2024-03-03|2024-09-18|Neural Graph Generator: Feature-Conditioned Graph Generation using Latent Diffusion Models|Iakovos Evdaimon|[2403.01535v3](http://arxiv.org/pdf/2403.01535v3)|
 ## Update on 2024-09-17
 
 ### Physics
