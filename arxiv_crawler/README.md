@@ -58,6 +58,36 @@ TODO:
 
 
 
+
+## Update on 2024-09-21
+
+### Physics
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2024-02-22|2024-09-19|Disjointness of inertial KMS states and the role of Lorentz symmetry in thermalization|Albert Georg Passegger|[2402.14794v2](http://arxiv.org/pdf/2402.14794v2)|
+|2024-09-19|2024-09-19|Rotationally Resolved Spectroscopy of a Single Polyatomic Molecule|Aaron Calvin|[2409.12955v1](http://arxiv.org/pdf/2409.12955v1)|
+|2024-09-19|2024-09-19|SModelS v3: Going Beyond Z2 Topologies|Mohammad Mahdi Altakach|[2409.12942v1](http://arxiv.org/pdf/2409.12942v1)|
+|2024-09-19|2024-09-19|Shaping Dark Photon Spectral Distortions|Giorgi Arsenadze|[2409.12940v1](http://arxiv.org/pdf/2409.12940v1)|
+|2024-03-20|2024-09-19|Corner and Edge States in Topological Sierpinski Carpet Systems|L. L. Lage|[2403.13774v3](http://arxiv.org/pdf/2403.13774v3)|
+|2024-08-24|2024-09-19|The Streda Formula for Floquet Systems: Topological Invariants and Quantized Anomalies from Cesaro Summation|Lucila Peralta Gavensky|[2408.13576v2](http://arxiv.org/pdf/2408.13576v2)|
+|2024-04-12|2024-09-19|Hard Thermal Loop -- theory and applications|Najmul Haque|[2404.08734v2](http://arxiv.org/pdf/2404.08734v2)|
+|2024-09-19|2024-09-19|Physics aware machine learning for micromagnetic energy minimization: recent algorithmic developments|Sebastian Schaffer|[2409.12877v1](http://arxiv.org/pdf/2409.12877v1)|
+|2024-09-19|2024-09-19|Flavor Hierarchy of Jet Energy Correlators inside the Quark-Gluon Plasma|Wen-Jing Xing|[2409.12843v1](http://arxiv.org/pdf/2409.12843v1)|
+|2024-02-20|2024-09-19|AC Josephson Signatures of the Superconducting Higgs/Amplitude Mode|Aritra Lahiri|[2402.13074v2](http://arxiv.org/pdf/2402.13074v2)|
+
+### Diffusion
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2024-02-28|2024-09-19|Exploring Privacy and Fairness Risks in Sharing Diffusion Models: An Adversarial Perspective|Xinjian Luo|[2402.18607v3](http://arxiv.org/pdf/2402.18607v3)|
+|2024-09-19|2024-09-19|ViolinDiff: Enhancing Expressive Violin Synthesis with Pitch Bend Conditioning|Daewoong Kim|[2409.12477v1](http://arxiv.org/pdf/2409.12477v1)|
+|2024-09-19|2024-09-19|Arena 4.0: A Comprehensive ROS2 Development and Benchmarking Platform for Human-centric Navigation Using Generative-Model-based Environment Generation|Volodymyr Shcherbyna1|[2409.12471v1](http://arxiv.org/pdf/2409.12471v1)|
+|2024-09-19|2024-09-19|FlexiTex: Enhancing Texture Generation with Visual Guidance|DaDong Jiang|[2409.12431v1](http://arxiv.org/pdf/2409.12431v1)|
+|2024-03-18|2024-09-19|SeisFusion: Constrained Diffusion Model with Input Guidance for 3D Seismic Data Interpolation and Reconstruction|Shuang Wang|[2403.11482v2](http://arxiv.org/pdf/2403.11482v2)|
+
+### Quantitative Finance
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2024-09-19|2024-09-19|A Multi-agent Market Model Can Explain the Impact of AI Traders in Financial Markets -- A New Microfoundations of GARCH model|Kei Nakagawa|[2409.12516v1](http://arxiv.org/pdf/2409.12516v1)|
 ## Update on 2024-09-19
 
 ### Physics

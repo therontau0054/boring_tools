@@ -1,0 +1,136 @@
+{
+    "Physics": [
+        {
+            "title": "Disjointness of inertial KMS states and the role of Lorentz symmetry in thermalization",
+            "authors": "Albert Georg Passegger, Rainer Verch",
+            "summary": "For any local, translation-covariant quantum field theory on Minkowski\nspacetime, we prove that two distinct states that are invariant under the\ninertial time evolutions in different inertial reference frames are disjoint,\ni.e. neither state is a perturbation of the other, if the states are primary,\nhave separating Gelfand-Naimark-Segal (GNS) vectors, and satisfy a timelike\ncluster property called the mixing property. These conditions are fulfilled by\nthe inertial Kubo-Martin-Schwinger (KMS) states of the free scalar field, thus\nshowing that a state satisfying the KMS condition relative to one inertial\nframe is far from thermal equilibrium relative to other inertial frames. We\nreview the property of return to equilibrium (RTE) in open quantum systems\ntheory and discuss the implications of disjointness on the asymptotic behavior\nof detector systems coupled to states of a free massless scalar field. We argue\nthat the coupled system of an Unruh-DeWitt detector moving with constant\nvelocity relative to the field in a KMS state, or an excitation thereof, cannot\nthermalize under generic conditions. This leads to an illustration of the\nphysical differences between heat baths in inertial systems and the alleged\n\"heat bath\" of the Unruh effect. This paper also sketches the construction and\nRTE property of the quantum dynamical system of an Unruh-DeWitt detector\ncoupled to a massless scalar field in a KMS state relative to the inertial rest\nframe of the detector.",
+            "pdf_url": "http://arxiv.org/pdf/2402.14794v2",
+            "published": "2024-02-22 18:54:04+00:00",
+            "updated": "2024-09-19 17:59:35+00:00"
+        },
+        {
+            "title": "Rotationally Resolved Spectroscopy of a Single Polyatomic Molecule",
+            "authors": "Aaron Calvin, Merrell Brzeczek, Samuel Kresch, Elijah Lane, Lincoln Satterthwaite, Desi Hawkins, David Patterson",
+            "summary": "We report the rotationally resolved spectrum of a single polyatomic molecular\nion in the gas phase. Building upon the recently developed inelastic recoil\nspectroscopy (IRS) technique, we have achieved a spectral resolution sufficient\nto observe resolved rotational-vibrational transitions of a trapped\ncyclopropenyl cation, c-C3H3+. The high precision of IRS shown in this work\npresents an attractive platform for astrochemistry, single molecule chiral\ndetection, and tests of fundamental physics.",
+            "pdf_url": "http://arxiv.org/pdf/2409.12955v1",
+            "published": "2024-09-19 17:58:53+00:00",
+            "updated": "2024-09-19 17:58:53+00:00"
+        },
+        {
+            "title": "SModelS v3: Going Beyond Z2 Topologies",
+            "authors": "Mohammad Mahdi Altakach, Sabine Kraml, Andre Lessa, Sahana Narasimha, Timoth\u00e9e Pascal, Camila Ramos, Yoxara Villamizar, Wolfgang Waltenberger",
+            "summary": "SModelS is a public tool for fast reinterpretation of LHC searches for new\nphysics based on a large database of simplified model results. While previous\nversions were limited to models with a Z2-type symmetry, such as R-parity\nconserving supersymmetry, version 3 can now handle arbitrary signal topologies.\nTo this end, the tool was fully restructured and now relies on a graph-based\ndescription of simplified model topologies. In this work, we present the main\nconceptual changes and novel features of SModelS v3, together with the\ninclusion of new experimental searches for resonant production of spin-1 and\nspin-0 mediators with decays to quarks or to dark matter. Applying these\nresults to a model containing two mediators, we discuss the interplay of\nresonance and missing energy searches, and the model's coverage by the\ncurrently available simplified model results.",
+            "pdf_url": "http://arxiv.org/pdf/2409.12942v1",
+            "published": "2024-09-19 17:52:12+00:00",
+            "updated": "2024-09-19 17:52:12+00:00"
+        },
+        {
+            "title": "Shaping Dark Photon Spectral Distortions",
+            "authors": "Giorgi Arsenadze, Andrea Caputo, Xucheng Gan, Hongwan Liu, Joshua T. Ruderman",
+            "summary": "The cosmic microwave background (CMB) spectrum is an extraordinary tool for\nexploring physics beyond the Standard Model. The exquisite precision of the\nmeasurement makes it particularly sensitive to small effects caused by hidden\nsector interactions. In particular, CMB spectral distortions can unveil the\nexistence of dark photons which are kinetically coupled to the standard photon.\nIn this work, we use the COBE-FIRAS dataset to derive accurate and robust\nlimits on photon-to-dark-photon oscillations for a large range of dark photon\nmasses, from $10^{-10}$ to $10^{-4}$ eV. We consider in detail the redshift\ndependence of the bounds, computing CMB distortions due to photon\ninjection/removal using a Green's function method. Our treatment improves on\nprevious results, which had set limits studying energy injection/removal into\nbaryons rather than photon injection/removal, or ignored the redshift evolution\nof distortions. The difference between our treatment and previous ones is\nparticularly noticeable in the predicted spectral shape of the distortions, a\nsmoking gun signature for photon-to-dark-photon oscillations. The\ncharacterization of the spectral shape is crucial for future CMB missions,\nwhich could improve the present sensitivity by orders of magnitude, exploring\nregions of the dark photon parameter space that are otherwise difficult to\naccess.",
+            "pdf_url": "http://arxiv.org/pdf/2409.12940v1",
+            "published": "2024-09-19 17:52:06+00:00",
+            "updated": "2024-09-19 17:52:06+00:00"
+        },
+        {
+            "title": "Corner and Edge States in Topological Sierpinski Carpet Systems",
+            "authors": "L. L. Lage, N. C. Rappe, A. Latg\u00e9",
+            "summary": "Fractal lattices, with their self-similar and intricate structures, offer\npotential platforms for engineering physical properties on the nanoscale and\nalso for realizing and manipulating high order topological insulator states in\nnovel ways. Here we present a theoretical study on localized corner and edge\nstates, emerging from topological phases in Sierpinski Carpet within a\n$\\pi$-flux regime. A topological phase diagram is presented correlating the\nquadrupole moment with different hopping parameters. Particular localized\nstates are identified following spatial signatures in distinct fractal\ngenerations. The specific geometry and scaling properties of the fractal\nsystems can guide the supported topological states types and their associated\nfunctionalities. A conductive device is proposed by coupling identical\nSierpinski Carpet units providing transport response through projected edge\nstates which carry on the details of the system's topology. Our findings\nsuggest that fractal lattices may also work as alternative routes to tune\nenergy channels in different devices.",
+            "pdf_url": "http://arxiv.org/pdf/2403.13774v3",
+            "published": "2024-03-20 17:34:38+00:00",
+            "updated": "2024-09-19 17:08:48+00:00"
+        },
+        {
+            "title": "The Streda Formula for Floquet Systems: Topological Invariants and Quantized Anomalies from Cesaro Summation",
+            "authors": "Lucila Peralta Gavensky, Gonzalo Usaj, Nathan Goldman",
+            "summary": "This work introduces a general theoretical framework, which expresses the\ntopological invariants of two-dimensional Floquet systems in terms of tractable\nresponse functions: Building on the Sambe representation of periodically-driven\nsystems, and inspired by the St\\v{r}eda formula for static systems, we evaluate\nthe flow of the unbounded Floquet density of states in response to a magnetic\nperturbation. This Floquet-St\\v{r}eda response, which is a priori\nmathematically ill-defined, is regularized by means of a Ces\\`aro summation\nmethod. As a key outcome of this approach, we relate all relevant Floquet\nwinding numbers to simple band properties of the Floquet-Bloch Hamiltonian.\nThese general relations indicate how the topological characterization of\nFloquet systems can be entirely deduced from the stroboscopic time-evolution of\nthe driven system. Importantly, we identify two physically distinguishable\ncontributions to the Floquet-St\\v{r}eda response: a quantized flow of charge\nbetween the edge and the bulk of the system, and an 'anomalous' quantized flow\nof energy between the system and the driving field, which provides new insight\non the physical origin of the anomalous edge states. As byproducts, our theory\nprovides: a general relation between Floquet winding numbers and the orbital\nmagnetization of Floquet-Bloch bands; a local marker for Floquet winding\nnumbers, which allows to access Floquet topology in inhomogeneous samples; an\nexperimental protocol to extract these Floquet winding numbers from\ndensity-measurements in the presence of an engineered bath; as well as general\nexpressions for these topological invariants in terms of the magnetic response\nof the Floquet density of states, opening a route for the topological\ncharacterization of interacting Floquet systems.",
+            "pdf_url": "http://arxiv.org/pdf/2408.13576v2",
+            "published": "2024-08-24 12:58:23+00:00",
+            "updated": "2024-09-19 17:04:45+00:00"
+        },
+        {
+            "title": "Hard Thermal Loop -- theory and applications",
+            "authors": "Najmul Haque, Munshi G. Mustafa",
+            "summary": "In this review, we present the key aspects of modern thermal perturbation\ntheory based on the hard thermal loop (HTL) approximation, including its\ntheoretical foundations and applications within quantum electrodynamics (QED)\nand quantum chromodynamics (QCD) plasmas. To maintain conciseness, we focus on\nscenarios in thermal equilibrium, examining a variety of physical quantities\nand settings. Specifically, we explore both bulk thermodynamic properties and\nreal-time observables in high-temperature domains relevant to heavy-ion\nphysics.",
+            "pdf_url": "http://arxiv.org/pdf/2404.08734v2",
+            "published": "2024-04-12 18:00:03+00:00",
+            "updated": "2024-09-19 16:29:44+00:00"
+        },
+        {
+            "title": "Physics aware machine learning for micromagnetic energy minimization: recent algorithmic developments",
+            "authors": "Sebastian Schaffer, Thomas Schrefl, Harald Oezelt, Norbert J Mauser, Lukas Exl",
+            "summary": "In this work, we explore advanced machine learning techniques for minimizing\nGibbs free energy in full 3D micromagnetic simulations. Building on Brown's\nbounds for magnetostatic self-energy, we revisit their application in the\ncontext of variational formulations of the transmission problems for the scalar\nand vector potential. To overcome the computational challenges posed by\nwhole-space integrals, we reformulate these bounds on a finite domain, making\nthe method more efficient and scalable for numerical simulation. Our approach\nutilizes an alternating optimization scheme for joint minimization of Brown's\nenergy bounds and the Gibbs free energy. The Cayley transform is employed to\nrigorously enforce the unit norm constraint, while R-functions are used to\nimpose essential boundary conditions in the computation of magnetostatic\nfields. Our results highlight the potential of mesh-free Physics-Informed\nNeural Networks (PINNs) and Extreme Learning Machines (ELMs) when integrated\nwith hard constraints, providing highly accurate approximations. These methods\nexhibit competitive performance compared to traditional numerical approaches,\nshowing significant promise in computing magnetostatic fields and the\napplication for energy minimization, such as the computation of hysteresis\ncurves. This work opens the path for future directions of research on more\ncomplex geometries, such as grain structure models, and the application to\nlarge scale problem settings which are intractable with traditional numerical\nmethods.",
+            "pdf_url": "http://arxiv.org/pdf/2409.12877v1",
+            "published": "2024-09-19 16:22:40+00:00",
+            "updated": "2024-09-19 16:22:40+00:00"
+        },
+        {
+            "title": "Flavor Hierarchy of Jet Energy Correlators inside the Quark-Gluon Plasma",
+            "authors": "Wen-Jing Xing, Shanshan Cao, Guang-You Qin, Xin-Nian Wang",
+            "summary": "Heavy flavor jets provide ideal tools to probe the mass effect on jet\nsubstructure in both vacuum and quark-gluon plasma (QGP). Energy-energy\ncorrelator (EEC) is an excellent jet substructure observable owning to its\nstrong sensitivity to jet physics at different scales. We perform a complete\nrealistic simulation on medium modification of heavy and light flavor jet EEC\nin heavy-ion collisions. A clear flavor hierarchy is observed for jet EEC in\nboth vacuum and QGP due to the mass effect. The medium modification of\ninclusive jet EEC at different angular scales exhibits very rich structure:\nsuppression at intermediate angles, and enhancement at small and large angles,\nwhich can be well explained by the interplay of mass effect, energy loss,\nmedium-induced radiation and medium response. These unique features of jet EEC\nare shown to probe the physics of jet-medium interaction at different scales,\nand can be readily validated by upcoming experiments.",
+            "pdf_url": "http://arxiv.org/pdf/2409.12843v1",
+            "published": "2024-09-19 15:41:34+00:00",
+            "updated": "2024-09-19 15:41:34+00:00"
+        },
+        {
+            "title": "AC Josephson Signatures of the Superconducting Higgs/Amplitude Mode",
+            "authors": "Aritra Lahiri, Sang-Jun Choi, Bj\u00f6rn Trauzettel",
+            "summary": "The Higgs mode in superconductors corresponds to oscillations of the\namplitude of the order parameter. While its detection typically entails\nresonant optical excitation, we present a purely transport-based setup wherein\nit is excited in a voltage biased Josephson junction. Demonstrating the\nimportance of order parameter dynamics, the interplay of Higgs resonance and\nJosephson physics enhances the second harmonic Josephson current oscillating at\ntwice the usual Josephson frequency in transparent junctions featuring\nsingle-band s-wave superconductors. If the leads have unequal equilibrium\nsuperconducting gaps, this second harmonic component may even eclipse its first\nharmonic counterpart, thus furnishing a unique hallmark of the Higgs\noscillations.",
+            "pdf_url": "http://arxiv.org/pdf/2402.13074v2",
+            "published": "2024-02-20 15:20:32+00:00",
+            "updated": "2024-09-19 15:16:45+00:00"
+        }
+    ],
+    "Diffusion": [
+        {
+            "title": "Exploring Privacy and Fairness Risks in Sharing Diffusion Models: An Adversarial Perspective",
+            "authors": "Xinjian Luo, Yangfan Jiang, Fei Wei, Yuncheng Wu, Xiaokui Xiao, Beng Chin Ooi",
+            "summary": "Diffusion models have recently gained significant attention in both academia\nand industry due to their impressive generative performance in terms of both\nsampling quality and distribution coverage. Accordingly, proposals are made for\nsharing pre-trained diffusion models across different organizations, as a way\nof improving data utilization while enhancing privacy protection by avoiding\nsharing private data directly. However, the potential risks associated with\nsuch an approach have not been comprehensively examined.\n  In this paper, we take an adversarial perspective to investigate the\npotential privacy and fairness risks associated with the sharing of diffusion\nmodels. Specifically, we investigate the circumstances in which one party (the\nsharer) trains a diffusion model using private data and provides another party\n(the receiver) black-box access to the pre-trained model for downstream tasks.\nWe demonstrate that the sharer can execute fairness poisoning attacks to\nundermine the receiver's downstream models by manipulating the training data\ndistribution of the diffusion model. Meanwhile, the receiver can perform\nproperty inference attacks to reveal the distribution of sensitive features in\nthe sharer's dataset. Our experiments conducted on real-world datasets\ndemonstrate remarkable attack performance on different types of diffusion\nmodels, which highlights the critical importance of robust data auditing and\nprivacy protection protocols in pertinent applications.",
+            "pdf_url": "http://arxiv.org/pdf/2402.18607v3",
+            "published": "2024-02-28 12:21:12+00:00",
+            "updated": "2024-09-19 08:00:56+00:00"
+        },
+        {
+            "title": "ViolinDiff: Enhancing Expressive Violin Synthesis with Pitch Bend Conditioning",
+            "authors": "Daewoong Kim, Hao-Wen Dong, Dasaem Jeong",
+            "summary": "Modeling the natural contour of fundamental frequency (F0) plays a critical\nrole in music audio synthesis. However, transcribing and managing multiple F0\ncontours in polyphonic music is challenging, and explicit F0 contour modeling\nhas not yet been explored for polyphonic instrumental synthesis. In this paper,\nwe present ViolinDiff, a two-stage diffusion-based synthesis framework. For a\ngiven violin MIDI file, the first stage estimates the F0 contour as pitch bend\ninformation, and the second stage generates mel spectrogram incorporating these\nexpressive details. The quantitative metrics and listening test results show\nthat the proposed model generates more realistic violin sounds than the model\nwithout explicit pitch bend modeling. Audio samples are available online:\ndaewoung.github.io/ViolinDiff-Demo.",
+            "pdf_url": "http://arxiv.org/pdf/2409.12477v1",
+            "published": "2024-09-19 05:39:19+00:00",
+            "updated": "2024-09-19 05:39:19+00:00"
+        },
+        {
+            "title": "Arena 4.0: A Comprehensive ROS2 Development and Benchmarking Platform for Human-centric Navigation Using Generative-Model-based Environment Generation",
+            "authors": "Volodymyr Shcherbyna1, Linh K\u00e4stner, Diego Diaz, Huu Giang Nguyen, Maximilian Ho-Kyoung Schreff, Tim Lenz, Jonas Kreutz, Ahmed Martban, Huajian Zeng, Harold Soh",
+            "summary": "Building on the foundations of our previous work, this paper introduces Arena\n4.0, a significant advancement over Arena 3.0, Arena-Bench, Arena 1.0, and\nArena 2.0. Arena 4.0 offers three key novel contributions: (1) a\ngenerative-model-based world and scenario generation approach that utilizes\nlarge language models (LLMs) and diffusion models to dynamically generate\ncomplex, human-centric environments from text prompts or 2D floorplans, useful\nfor the development and benchmarking of social navigation strategies; (2) a\ncomprehensive 3D model database, extendable with additional 3D assets that are\nsemantically linked and annotated for dynamic spawning and arrangement within\n3D worlds; and (3) a complete migration to ROS 2, enabling compatibility with\nmodern hardware and enhanced functionalities for improved navigation,\nusability, and easier deployment on real robots. We evaluated the platform's\nperformance through a comprehensive user study, demonstrating significant\nimprovements in usability and efficiency compared to previous versions. Arena\n4.0 is openly available at https://github.com/Arena-Rosnav.",
+            "pdf_url": "http://arxiv.org/pdf/2409.12471v1",
+            "published": "2024-09-19 05:20:13+00:00",
+            "updated": "2024-09-19 05:20:13+00:00"
+        },
+        {
+            "title": "FlexiTex: Enhancing Texture Generation with Visual Guidance",
+            "authors": "DaDong Jiang, Xianghui Yang, Zibo Zhao, Sheng Zhang, Jiaao Yu, Zeqiang Lai, Shaoxiong Yang, Chunchao Guo, Xiaobo Zhou, Zhihui Ke",
+            "summary": "Recent texture generation methods achieve impressive results due to the\npowerful generative prior they leverage from large-scale text-to-image\ndiffusion models. However, abstract textual prompts are limited in providing\nglobal textural or shape information, which results in the texture generation\nmethods producing blurry or inconsistent patterns. To tackle this, we present\nFlexiTex, embedding rich information via visual guidance to generate a\nhigh-quality texture. The core of FlexiTex is the Visual Guidance Enhancement\nmodule, which incorporates more specific information from visual guidance to\nreduce ambiguity in the text prompt and preserve high-frequency details. To\nfurther enhance the visual guidance, we introduce a Direction-Aware Adaptation\nmodule that automatically designs direction prompts based on different camera\nposes, avoiding the Janus problem and maintaining semantically global\nconsistency. Benefiting from the visual guidance, FlexiTex produces\nquantitatively and qualitatively sound results, demonstrating its potential to\nadvance texture generation for real-world applications.",
+            "pdf_url": "http://arxiv.org/pdf/2409.12431v1",
+            "published": "2024-09-19 03:24:22+00:00",
+            "updated": "2024-09-19 03:24:22+00:00"
+        },
+        {
+            "title": "SeisFusion: Constrained Diffusion Model with Input Guidance for 3D Seismic Data Interpolation and Reconstruction",
+            "authors": "Shuang Wang, Fei Deng, Peifan Jiang, Zishan Gong, Xiaolin Wei, Yuqing Wang",
+            "summary": "Geographical, physical, or economic constraints often result in missing\ntraces within seismic data, making the reconstruction of complete seismic data\na crucial step in seismic data processing. Traditional methods for seismic data\nreconstruction require the selection of multiple empirical parameters and\nstruggle to handle large-scale continuous missing data. With the development of\ndeep learning, various neural networks have demonstrated powerful\nreconstruction capabilities. However, these convolutional neural networks\nrepresent a point-to-point reconstruction approach that may not cover the\nentire distribution of the dataset. Consequently, when dealing with seismic\ndata featuring complex missing patterns, such networks may experience varying\ndegrees of performance degradation. In response to this challenge, we propose a\nnovel diffusion model reconstruction framework tailored for 3D seismic data. To\nconstrain the results generated by the diffusion model, we introduce\nconditional supervision constraints into the diffusion model, constraining the\ngenerated data of the diffusion model based on the input data to be\nreconstructed. We introduce a 3D neural network architecture into the diffusion\nmodel, successfully extending the 2D diffusion model to 3D space. Additionally,\nwe refine the model's generation process by incorporating missing data into the\ngeneration process, resulting in reconstructions with higher consistency.\nThrough ablation studies determining optimal parameter values, our method\nexhibits superior reconstruction accuracy when applied to both field datasets\nand synthetic datasets, effectively addressing a wide range of complex missing\npatterns. Our implementation is available at\nhttps://github.com/WAL-l/SeisFusion.",
+            "pdf_url": "http://arxiv.org/pdf/2403.11482v2",
+            "published": "2024-03-18 05:10:13+00:00",
+            "updated": "2024-09-19 01:28:10+00:00"
+        }
+    ],
+    "Quantitative Finance": [
+        {
+            "title": "A Multi-agent Market Model Can Explain the Impact of AI Traders in Financial Markets -- A New Microfoundations of GARCH model",
+            "authors": "Kei Nakagawa, Masanori Hirano, Kentaro Minami, Takanobu Mizuta",
+            "summary": "The AI traders in financial markets have sparked significant interest in\ntheir effects on price formation mechanisms and market volatility, raising\nimportant questions for market stability and regulation. Despite this interest,\na comprehensive model to quantitatively assess the specific impacts of AI\ntraders remains undeveloped. This study aims to address this gap by modeling\nthe influence of AI traders on market price formation and volatility within a\nmulti-agent framework, leveraging the concept of microfoundations.\nMicrofoundations involve understanding macroeconomic phenomena, such as market\nprice formation, through the decision-making and interactions of individual\neconomic agents. While widely acknowledged in macroeconomics, microfoundational\napproaches remain unexplored in empirical finance, particularly for models like\nthe GARCH model, which captures key financial statistical properties such as\nvolatility clustering and fat tails. This study proposes a multi-agent market\nmodel to derive the microfoundations of the GARCH model, incorporating three\ntypes of agents: noise traders, fundamental traders, and AI traders. By\nmathematically aggregating the micro-structure of these agents, we establish\nthe microfoundations of the GARCH model. We validate this model through\nmulti-agent simulations, confirming its ability to reproduce the stylized facts\nof financial markets. Finally, we analyze the impact of AI traders using\nparameters derived from these microfoundations, contributing to a deeper\nunderstanding of their role in market dynamics.",
+            "pdf_url": "http://arxiv.org/pdf/2409.12516v1",
+            "published": "2024-09-19 07:14:13+00:00",
+            "updated": "2024-09-19 07:14:13+00:00"
+        }
+    ]
+}
