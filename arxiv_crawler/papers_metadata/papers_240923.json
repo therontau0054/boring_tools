@@ -1,0 +1,126 @@
+{
+    "Physics": [
+        {
+            "title": "Chaos controlled and disorder driven phase transitions induced by breaking permutation symmetry",
+            "authors": "Manju C, Arul Lakshminarayan, Uma Divakaran",
+            "summary": "The effects of disorder and chaos on quantum many-body systems can be\nsuperficially similar, yet their interplay has not been sufficiently explored.\nThis work finds a continuous phase transition when disorder breaks permutation\nsymmetry, with details of the transition being controlled by the degree of\nchaos in the clean limit. The system changes from an area law entangled phase\nin the permutation symmetric subspace where collective variables exist to\nvolume law entanglement in the full Hilbert space, beyond a critical strength\nof the disorder. The critical strength tends to zero when the original disorder\nfree system is fully chaotic. We study this mainly via the scaling of the\ncollective spin of non-equilibrium states which transit to have properties of\nwhat has been dubbed \"deep Hilbert space\". This has potential implications for\ngeneral many body physics, as well as technologies such as transmon qubits.",
+            "pdf_url": "http://arxiv.org/pdf/2406.00521v2",
+            "published": "2024-06-01 18:02:38+00:00",
+            "updated": "2024-09-20 17:53:03+00:00"
+        },
+        {
+            "title": "A fault-tolerant pairwise measurement-based code on eight qubits",
+            "authors": "Linnea Grans-Samuelsson, David Aasen, Parsa Bonderson",
+            "summary": "We construct a pairwise measurement-based code on eight qubits that is error\ncorrecting for circuit noise, with fault distance 3. The code can be\nimplemented on a subset of a rectangular array of qubits with nearest neighbor\nconnectivity of pairwise Pauli measurements, with a syndrome extraction circuit\nof depth 28. We describe fault-tolerant logical operations on patches of this\neight-qubit code that generate the full Clifford group. We estimate the\nperformance under circuit noise both during logical idle and during a logical\ntwo-qubit measurement. We estimate the pseudo-threshold to be between $10^{-5}$\nand $2\\times 10^{-4}$, depending on the amount of noise on idle physical\nqubits. The use of post-selection in addition to error correction (correcting\nall degree one faults and rejecting a subset of the higher degree faults) can\nimprove the pseudo-threshold by up to an order of magnitude.",
+            "pdf_url": "http://arxiv.org/pdf/2409.13681v1",
+            "published": "2024-09-20 17:45:33+00:00",
+            "updated": "2024-09-20 17:45:33+00:00"
+        },
+        {
+            "title": "Physics-informed renormalisation group flows",
+            "authors": "Friederike Ihssen, Jan M. Pawlowski",
+            "summary": "The physics of strongly correlated systems offers some of the most intriguing\nphysics challenges such as competing orders or the emergence of dynamical\ncomposite degrees of freedom. Often, the resolution of these physics challenges\nis computationally hard, but can be simplified enormously by a formulation in\nterms of the dynamical degrees of freedom and within an expansion about the\nphysical ground state. Importantly, such a formulation does not only reduce or\nminimise the computational challenges, it also facilitates the access to the\nphysics mechanisms at play. The tasks of finding the dynamical degrees of\nfreedom and the physical ground state can be systematically addressed within\nthe functional renormalisation group approach with flowing fields which\naccommodates both, emergent composites as well as the physical ground state.\n  In the present work we use this approach to set up physics-informed\nrenormalisation group flows (PIRG flows): Scale-dependent coordinate\ntransformations in field space induce emergent composites, and the respective\nflows for the effective action generate a large set of target actions,\nformulated in these emergent composite fields. This novel perspective on RG\nflows bears a great potential both for conceptual as well as computational\napplications: to begin with, PIRG flows allow for a systematic search of the\ndynamical degrees of freedom and the respective ground state that leads to the\nmost rapid convergence of expansion schemes, thus minimising the computational\neffort. Secondly, the resolution of the remaining computational tasks within a\ngiven expansion scheme can be further reduced by optimising the physics content\nwithin a given approximation. Thirdly, the maximal variability of PIRG flows\ncan be used to reduce the analytic and numerical effort of solving the flows\nwithin a given approximation.",
+            "pdf_url": "http://arxiv.org/pdf/2409.13679v1",
+            "published": "2024-09-20 17:41:43+00:00",
+            "updated": "2024-09-20 17:41:43+00:00"
+        },
+        {
+            "title": "SoloParkour: Constrained Reinforcement Learning for Visual Locomotion from Privileged Experience",
+            "authors": "Elliot Chane-Sane, Joseph Amigo, Thomas Flayols, Ludovic Righetti, Nicolas Mansard",
+            "summary": "Parkour poses a significant challenge for legged robots, requiring navigation\nthrough complex environments with agility and precision based on limited\nsensory inputs. In this work, we introduce a novel method for training\nend-to-end visual policies, from depth pixels to robot control commands, to\nachieve agile and safe quadruped locomotion. We formulate robot parkour as a\nconstrained reinforcement learning (RL) problem designed to maximize the\nemergence of agile skills within the robot's physical limits while ensuring\nsafety. We first train a policy without vision using privileged information\nabout the robot's surroundings. We then generate experience from this\nprivileged policy to warm-start a sample efficient off-policy RL algorithm from\ndepth images. This allows the robot to adapt behaviors from this privileged\nexperience to visual locomotion while circumventing the high computational\ncosts of RL directly from pixels. We demonstrate the effectiveness of our\nmethod on a real Solo-12 robot, showcasing its capability to perform a variety\nof parkour skills such as walking, climbing, leaping, and crawling.",
+            "pdf_url": "http://arxiv.org/pdf/2409.13678v1",
+            "published": "2024-09-20 17:39:20+00:00",
+            "updated": "2024-09-20 17:39:20+00:00"
+        },
+        {
+            "title": "DiffFluid: Plain Diffusion Models are Effective Predictors of Flow Dynamics",
+            "authors": "Dongyu Luo, Jianyu Wu, Jing Wang, Hairun Xie, Xiangyu Yue, Shixiang Tang",
+            "summary": "We showcase the plain diffusion models with Transformers are effective\npredictors of fluid dynamics under various working conditions, e.g., Darcy flow\nand high Reynolds number. Unlike traditional fluid dynamical solvers that\ndepend on complex architectures to extract intricate correlations and learn\nunderlying physical states, our approach formulates the prediction of flow\ndynamics as the image translation problem and accordingly leverage the plain\ndiffusion model to tackle the problem. This reduction in model design\ncomplexity does not compromise its ability to capture complex physical states\nand geometric features of fluid dynamical equations, leading to high-precision\nsolutions. In preliminary tests on various fluid-related benchmarks, our\nDiffFluid achieves consistent state-of-the-art performance, particularly in\nsolving the Navier-Stokes equations in fluid dynamics, with a relative\nprecision improvement of +44.8%. In addition, we achieved relative improvements\nof +14.0% and +11.3% in the Darcy flow equation and the airfoil problem with\nEuler's equation, respectively. Code will be released at\nhttps://github.com/DongyuLUO/DiffFluid upon acceptance.",
+            "pdf_url": "http://arxiv.org/pdf/2409.13665v1",
+            "published": "2024-09-20 17:19:03+00:00",
+            "updated": "2024-09-20 17:19:03+00:00"
+        },
+        {
+            "title": "Influence of Aharonov-Bohm flux and dual gaps on electron scattering in graphene quantum dots",
+            "authors": "Fatima Belokda, Ahmed Bouhlal, Ahmed Jellal",
+            "summary": "We show how the Aharonov-Bohm flux (AB) $\\phi_i$ and the dual gaps\n$(\\Delta_1, \\Delta_2)$ can affect the electron scattering in graphene quantum\ndots (GQDs) of radius $r_0$ in the presence of an electrostatic potential $V$.\nAfter obtaining the solutions of the energy spectrum, we explicitly determine\nthe radial component of the reflected current $J_r^r$, the square modulus of\nthe scattering coefficients $|c_m|^2$, and the scattering efficiency $Q$.\nDifferent scattering regimes are identified based on physical parameters such\nas incident energy $E$, $V$, $r_0$, dual gaps, and $\\phi_i$. In particular, we\nshow that lower values of $E$ are associated with larger amplitudes of $Q$.\nFurthermore, it is found that $Q$ exhibits a damped oscillatory behavior with\nincreasing the AB flux. In addition, increasing the external gap $\\Delta_1$\nresulted in higher values of $Q$. By increasing $\\phi_i$, we show that the\noscillations in $|c_m|^2$ disappear for larger values of $r_0$ and are replaced\nby prominent peaks at certain values of $E$ and angular momentum $m$. Finally,\nwe show that $J_{r}^r$ displays periodic oscillations of constant amplitude,\nwhich are affected by the AB flux.",
+            "pdf_url": "http://arxiv.org/pdf/2409.13659v1",
+            "published": "2024-09-20 17:09:17+00:00",
+            "updated": "2024-09-20 17:09:17+00:00"
+        },
+        {
+            "title": "Frequency comb in a macroscopic mechano-magnetic artificial spin ice",
+            "authors": "Renju R. Peroor, Lawrence Scafuri, Dmytro A. Bozhko, Ezio Iacocca",
+            "summary": "Artificial spin ices are metamaterials composed of interacting nanomagnets\nexhibiting frustration. Their resonant magnetization dynamics have been broadly\ninvestigated from fundamental and applied points of view. In this work, we\nrealize a dynamically driven macroscopic mechano-magnetic artificial spin ice,\nor macro-ASI, where permanent magnets are allowed to rotate on specially\ndesigned hinges and exhibit natural resonance frequencies on the order of\nseveral Hertz. A nonlinear dynamical regime is achieved experimentally and well\nreproduced by numerical modelling. The modulation of the magnetic coupling\nleads to a frequency comb that manifests itself as an amplitude-phase\nmodulation of the magnets' motion due to a metastable condition, i.e., a Hopf\nbifurcation. Our results not only demonstrate a striking similarity across\ndifferent physical systems, but also suggest that the mechanism to enable\nnonlinear phenomena could be realized in nanoscale systems using\nmicroresonators decorated with magnetic materials to dynamically modulate their\ncoupling.",
+            "pdf_url": "http://arxiv.org/pdf/2409.13658v1",
+            "published": "2024-09-20 17:07:36+00:00",
+            "updated": "2024-09-20 17:07:36+00:00"
+        },
+        {
+            "title": "Neural filtering for Neural Network-based Models of Dynamic Systems",
+            "authors": "Parham Oveissi, Turibius Rozario, Ankit Goel",
+            "summary": "The application of neural networks in modeling dynamic systems has become\nprominent due to their ability to estimate complex nonlinear functions. Despite\ntheir effectiveness, neural networks face challenges in long-term predictions,\nwhere the prediction error diverges over time, thus degrading their accuracy.\nThis paper presents a neural filter to enhance the accuracy of long-term state\npredictions of neural network-based models of dynamic systems. Motivated by the\nextended Kalman filter, the neural filter combines the neural network state\npredictions with the measurements from the physical system to improve the\nestimated state's accuracy. The neural filter's improvements in prediction\naccuracy are demonstrated through applications to four nonlinear dynamical\nsystems. Numerical experiments show that the neural filter significantly\nimproves prediction accuracy and bounds the state estimate covariance,\noutperforming the neural network predictions.",
+            "pdf_url": "http://arxiv.org/pdf/2409.13654v1",
+            "published": "2024-09-20 17:03:04+00:00",
+            "updated": "2024-09-20 17:03:04+00:00"
+        },
+        {
+            "title": "Physical model of serum supplemented medium flow in organ-on-a-chip systems",
+            "authors": "Viesturs \u0160ints, J\u0101nis C\u012bmurs, Mihails Birjukovs, Ivars Dri\u0137is, Kar\u012bna Goluba, Kaspars J\u0113kabsons, Vadims Parfejevs, Una Rieksti\u0146a, Gatis Mozo\u013cevskis, Roberts Rim\u0161a, Guntars Kitenbergs",
+            "summary": "Creating a physiologically relevant shear stress in organ-on-a-chip (OOC)\ndevices requires careful tailoring of microfluidic flow parameters. It is\ncurrently fairly common to use a simple approximation assuming a constant\nviscosity, even for serum-based media. Here, we show that a popular nutrient\nsolution (Dulbecco's Modified Eagle Medium supplemented with Fetal Bovine\nSerum) requires a more complex treatment (i.e., is a non-Newtonian fluid), with\nobserved shear stress values significantly greater than reported in literature.\nWe measure the rheology of the solutions and combine it with a 3-dimensional\nflow field measurement to derive shear stress at the channel surface. We verify\nthe experiments with numerical simulations, finding good agreement and deriving\nflow properties. Finally, we provide relevant expressions for shear stress\napproximation, suitable for development of OOC devices with various geometries.",
+            "pdf_url": "http://arxiv.org/pdf/2409.13650v1",
+            "published": "2024-09-20 16:57:44+00:00",
+            "updated": "2024-09-20 16:57:44+00:00"
+        },
+        {
+            "title": "Non-overlapping, Schwarz-type Domain Decomposition Method for Physics and Equality Constrained Artificial Neural Networks",
+            "authors": "Qifeng Hu, Shamsulhaq Basir, Inanc Senocak",
+            "summary": "We introduce a non-overlapping, Schwarz-type domain decomposition method\nemploying a generalized interface condition, tailored for physics-informed\nmachine learning of partial differential equations (PDEs) in both forward and\ninverse scenarios. Our method utilizes physics and equality constrained\nartificial neural networks (PECANN) in each subdomain. Diverging from the\noriginal PECANN method, which uses initial and boundary conditions to constrain\nthe PDEs alone, our method jointly employs both the boundary conditions and\nPDEs to constrain a specially formulated generalized interface loss function\nfor each subdomain. This modification enhances the learning of\nsubdomain-specific interface parameters, while delaying information exchange\nbetween neighboring subdomains, and thereby significantly reduces communication\noverhead. By utilizing an augmented Lagrangian method with a conditionally\nadaptive update strategy, the constrained optimization problem in each\nsubdomain is transformed into a dual unconstrained problem. This approach\nenables neural network training without the need for ad-hoc tuning of model\nparameters. We demonstrate the generalization ability and robust parallel\nperformance of our method across a range of forward and inverse problems, with\nsolid parallel scaling performance up to 32 processes using the Message Passing\nInterface model. A key strength of our approach is its capability to solve both\nLaplace's and Helmholtz equations with multi-scale solutions within a unified\nframework, highlighting its broad applicability and efficiency.",
+            "pdf_url": "http://arxiv.org/pdf/2409.13644v1",
+            "published": "2024-09-20 16:48:55+00:00",
+            "updated": "2024-09-20 16:48:55+00:00"
+        }
+    ],
+    "Diffusion": [
+        {
+            "title": "HeadEvolver: Text to Head Avatars via Expressive and Attribute-Preserving Mesh Deformation",
+            "authors": "Duotun Wang, Hengyu Meng, Zeyu Cai, Zhijing Shao, Qianxi Liu, Lin Wang, Mingming Fan, Xiaohang Zhan, Zeyu Wang",
+            "summary": "Current text-to-avatar methods often rely on implicit representations (e.g.,\nNeRF, SDF, and DMTet), leading to 3D content that artists cannot easily edit\nand animate in graphics software. This paper introduces a novel framework for\ngenerating stylized head avatars from text guidance, which leverages locally\nlearnable mesh deformation and 2D diffusion priors to achieve high-quality\ndigital assets for attribute-preserving manipulation. Given a template mesh,\nour method represents mesh deformation with per-face Jacobians and adaptively\nmodulates local deformation using a learnable vector field. This vector field\nenables anisotropic scaling while preserving the rotation of vertices, which\ncan better express identity and geometric details. We employ landmark- and\ncontour-based regularization terms to balance the expressiveness and\nplausibility of generated avatars from multiple views without relying on any\nspecific shape prior. Our framework can generate realistic shapes and textures\nthat can be further edited via text, while supporting seamless editing using\nthe preserved attributes from the template mesh, such as 3DMM parameters,\nblendshapes, and UV coordinates. Extensive experiments demonstrate that our\nframework can generate diverse and expressive head avatars with high-quality\nmeshes that artists can easily manipulate in graphics software, facilitating\ndownstream applications such as efficient asset creation and animation with\npreserved attributes.",
+            "pdf_url": "http://arxiv.org/pdf/2403.09326v3",
+            "published": "2024-03-14 12:15:23+00:00",
+            "updated": "2024-09-20 17:59:03+00:00"
+        },
+        {
+            "title": "Trustworthy Hate Speech Detection Through Visual Augmentation",
+            "authors": "Ziyuan Yang, Ming Yan, Yingyu Chen, Hui Wang, Zexin Lu, Yi Zhang",
+            "summary": "The surge of hate speech on social media platforms poses a significant\nchallenge, with hate speech detection~(HSD) becoming increasingly critical.\nCurrent HSD methods focus on enriching contextual information to enhance\ndetection performance, but they overlook the inherent uncertainty of hate\nspeech. We propose a novel HSD method, named trustworthy hate speech detection\nmethod through visual augmentation (TrusV-HSD), which enhances semantic\ninformation through integration with diffused visual images and mitigates\nuncertainty with trustworthy loss. TrusV-HSD learns semantic representations by\neffectively extracting trustworthy information through multi-modal connections\nwithout paired data. Our experiments on public HSD datasets demonstrate the\neffectiveness of TrusV-HSD, showing remarkable improvements over conventional\nmethods.",
+            "pdf_url": "http://arxiv.org/pdf/2409.13557v1",
+            "published": "2024-09-20 14:57:34+00:00",
+            "updated": "2024-09-20 14:57:34+00:00"
+        },
+        {
+            "title": "Invertible ResNets for Inverse Imaging Problems: Competitive Performance with Provable Regularization Properties",
+            "authors": "Clemens Arndt, Judith Nickel",
+            "summary": "Learning-based methods have demonstrated remarkable performance in solving\ninverse problems, particularly in image reconstruction tasks. Despite their\nsuccess, these approaches often lack theoretical guarantees, which are crucial\nin sensitive applications such as medical imaging. Recent works by Arndt et al\n(2023 Inverse Problems 39 125018, 2024 Inverse Problems 40 045021) addressed\nthis gap by analyzing a data-driven reconstruction method based on invertible\nresidual networks (iResNets). They revealed that, under reasonable assumptions,\nthis approach constitutes a convergent regularization scheme. However, the\nperformance of the reconstruction method was only validated on academic toy\nproblems and small-scale iResNet architectures. In this work, we address this\ngap by evaluating the performance of iResNets on two real-world imaging tasks:\na linear blurring operator and a nonlinear diffusion operator. To do so, we\nextend some of the theoretical results from Arndt et al to encompass nonlinear\ninverse problems and offer insights for the design of large-scale performant\niResNet architectures. Through numerical experiments, we compare the\nperformance of our iResNet models against state-of-the-art neural networks,\nconfirming their efficacy. Additionally, we numerically investigate the\ntheoretical guarantees of this approach and demonstrate how the invertibility\nof the network enables a deeper analysis of the learned forward operator and\nits learned regularization.",
+            "pdf_url": "http://arxiv.org/pdf/2409.13482v1",
+            "published": "2024-09-20 13:15:26+00:00",
+            "updated": "2024-09-20 13:15:26+00:00"
+        },
+        {
+            "title": "High Perceptual Quality Wireless Image Delivery with Denoising Diffusion Models",
+            "authors": "Selim F. Yilmaz, Xueyan Niu, Bo Bai, Wei Han, Lei Deng, Deniz Gunduz",
+            "summary": "We consider the image transmission problem over a noisy wireless channel via\ndeep learning-based joint source-channel coding (DeepJSCC) along with a\ndenoising diffusion probabilistic model (DDPM) at the receiver. Specifically,\nwe are interested in the perception-distortion trade-off in the practical\nfinite block length regime, in which separate source and channel coding can be\nhighly suboptimal. We introduce a novel scheme, where the conventional DeepJSCC\nencoder targets transmitting a lower resolution version of the image, which\nlater can be refined thanks to the generative model available at the receiver.\nIn particular, we utilize the range-null space decomposition of the target\nimage; DeepJSCC transmits the range-space of the image, while DDPM\nprogressively refines its null space contents. Through extensive experiments,\nwe demonstrate significant improvements in distortion and perceptual quality of\nreconstructed images compared to standard DeepJSCC and the state-of-the-art\ngenerative learning-based method.",
+            "pdf_url": "http://arxiv.org/pdf/2309.15889v2",
+            "published": "2023-09-27 16:30:59+00:00",
+            "updated": "2024-09-20 11:48:51+00:00"
+        },
+        {
+            "title": "Hydrogen under Pressure as a Benchmark for Machine-Learning Interatomic Potentials",
+            "authors": "Thomas Bischoff, Bastian J\u00e4ckl, Matthias Rupp",
+            "summary": "Machine-learning interatomic potentials (MLPs) are fast, data-driven\nsurrogate models of atomistic systems' potential energy surfaces that can\naccelerate ab-initio molecular dynamics (MD) simulations by several orders of\nmagnitude. The performance of MLPs is commonly measured as the prediction error\nin energies and forces on data not used in their training. While low prediction\nerrors on a test set are necessary, they do not guarantee good performance in\nMD simulations. The latter requires physically motivated performance measures\nobtained from running accelerated simulations. However, the adoption of such\nmeasures has been limited by the effort and domain knowledge required to\ncalculate and interpret them.\n  To overcome this limitation, we present a benchmark that automatically\nquantifies the performance of MLPs in MD simulations of a liquid-liquid phase\ntransition in hydrogen under pressure, a challenging benchmark system. The\nbenchmark's h-llpt-24 dataset provides reference geometries, energies, forces,\nand stresses from density functional theory MD simulations at different\ntemperatures and mass densities. The benchmark's Python code automatically runs\nMLP-accelerated MD simulations and calculates, quantitatively compares and\nvisualizes pressures, stable molecular fractions, diffusion coefficients, and\nradial distribution functions. Employing this benchmark, we show that several\nstate-of-the-art MLPs fail to reproduce the liquid-liquid phase transition.",
+            "pdf_url": "http://arxiv.org/pdf/2409.13390v1",
+            "published": "2024-09-20 10:44:40+00:00",
+            "updated": "2024-09-20 10:44:40+00:00"
+        }
+    ]
+}

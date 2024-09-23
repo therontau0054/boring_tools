@@ -59,6 +59,31 @@ TODO:
 
 
 
+
+## Update on 2024-09-23
+
+### Physics
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2024-06-01|2024-09-20|Chaos controlled and disorder driven phase transitions induced by breaking permutation symmetry|Manju C|[2406.00521v2](http://arxiv.org/pdf/2406.00521v2)|
+|2024-09-20|2024-09-20|A fault-tolerant pairwise measurement-based code on eight qubits|Linnea Grans-Samuelsson|[2409.13681v1](http://arxiv.org/pdf/2409.13681v1)|
+|2024-09-20|2024-09-20|Physics-informed renormalisation group flows|Friederike Ihssen|[2409.13679v1](http://arxiv.org/pdf/2409.13679v1)|
+|2024-09-20|2024-09-20|SoloParkour: Constrained Reinforcement Learning for Visual Locomotion from Privileged Experience|Elliot Chane-Sane|[2409.13678v1](http://arxiv.org/pdf/2409.13678v1)|
+|2024-09-20|2024-09-20|DiffFluid: Plain Diffusion Models are Effective Predictors of Flow Dynamics|Dongyu Luo|[2409.13665v1](http://arxiv.org/pdf/2409.13665v1)|
+|2024-09-20|2024-09-20|Influence of Aharonov-Bohm flux and dual gaps on electron scattering in graphene quantum dots|Fatima Belokda|[2409.13659v1](http://arxiv.org/pdf/2409.13659v1)|
+|2024-09-20|2024-09-20|Frequency comb in a macroscopic mechano-magnetic artificial spin ice|Renju R. Peroor|[2409.13658v1](http://arxiv.org/pdf/2409.13658v1)|
+|2024-09-20|2024-09-20|Neural filtering for Neural Network-based Models of Dynamic Systems|Parham Oveissi|[2409.13654v1](http://arxiv.org/pdf/2409.13654v1)|
+|2024-09-20|2024-09-20|Physical model of serum supplemented medium flow in organ-on-a-chip systems|Viesturs Šints|[2409.13650v1](http://arxiv.org/pdf/2409.13650v1)|
+|2024-09-20|2024-09-20|Non-overlapping, Schwarz-type Domain Decomposition Method for Physics and Equality Constrained Artificial Neural Networks|Qifeng Hu|[2409.13644v1](http://arxiv.org/pdf/2409.13644v1)|
+
+### Diffusion
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2024-03-14|2024-09-20|HeadEvolver: Text to Head Avatars via Expressive and Attribute-Preserving Mesh Deformation|Duotun Wang|[2403.09326v3](http://arxiv.org/pdf/2403.09326v3)|
+|2024-09-20|2024-09-20|Trustworthy Hate Speech Detection Through Visual Augmentation|Ziyuan Yang|[2409.13557v1](http://arxiv.org/pdf/2409.13557v1)|
+|2024-09-20|2024-09-20|Invertible ResNets for Inverse Imaging Problems: Competitive Performance with Provable Regularization Properties|Clemens Arndt|[2409.13482v1](http://arxiv.org/pdf/2409.13482v1)|
+|2023-09-27|2024-09-20|High Perceptual Quality Wireless Image Delivery with Denoising Diffusion Models|Selim F. Yilmaz|[2309.15889v2](http://arxiv.org/pdf/2309.15889v2)|
+|2024-09-20|2024-09-20|Hydrogen under Pressure as a Benchmark for Machine-Learning Interatomic Potentials|Thomas Bischoff|[2409.13390v1](http://arxiv.org/pdf/2409.13390v1)|
 ## Update on 2024-09-21
 
 ### Physics
