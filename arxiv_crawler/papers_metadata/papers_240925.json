@@ -1,0 +1,136 @@
+{
+    "Physics": [
+        {
+            "title": "Deployment of a Transportable Yb Optical Lattice Clock",
+            "authors": "Tobias Bothwell, Wesley Brand, Robert Fasano, Thomas Akin, Joseph Whalen, Tanner Grogan, Yun-Jhih Chen, Marco Pomponio, Takuma Nakamura, Benjamin Rauf, Ignacio Baldoni, Michele Giunta, Ronald Holzwarth, Craig Nelson, Archita Hati, Franklyn Quinlan, Richard Fox, Steven Peil, Andrew Ludlow",
+            "summary": "We report on the first deployment of a ytterbium (Yb) transportable optical\nlattice clock (TOLC), commercially shipping the clock 3,000 km from Boulder,\nColorado to Washington DC. The system, composed of a rigidly mounted optical\nreference cavity, atomic physics package, and an optical frequency comb, fully\nrealizes an independent frequency standard for comparisons in the optical and\nmicrowave domains. The shipped Yb TOLC was fully operational within 2 days of\narrival, enabling frequency comparisons with rubidium (Rb) fountains at the\nUnited States Naval Observatory (USNO). To the best of our knowledge, this\nrepresents the first deployment of a fully independent TOLC, including the\nfrequency comb, coherently uniting the optical stability of the Yb TOLC to the\nmicrowave output of the Rb fountain.",
+            "pdf_url": "http://arxiv.org/pdf/2409.16264v1",
+            "published": "2024-09-24 17:33:49+00:00",
+            "updated": "2024-09-24 17:33:49+00:00"
+        },
+        {
+            "title": "PICL: Physics Informed Contrastive Learning for Partial Differential Equations",
+            "authors": "Cooper Lorsung, Amir Barati Farimani",
+            "summary": "Neural operators have recently grown in popularity as Partial Differential\nEquation (PDE) surrogate models. Learning solution functionals, rather than\nfunctions, has proven to be a powerful approach to calculate fast, accurate\nsolutions to complex PDEs. While much work has been done evaluating neural\noperator performance on a wide variety of surrogate modeling tasks, these works\nnormally evaluate performance on a single equation at a time. In this work, we\ndevelop a novel contrastive pretraining framework utilizing Generalized\nContrastive Loss that improves neural operator generalization across multiple\ngoverning equations simultaneously. Governing equation coefficients are used to\nmeasure ground-truth similarity between systems. A combination of\nphysics-informed system evolution and latent-space model output are anchored to\ninput data and used in our distance function. We find that physics-informed\ncontrastive pretraining improves accuracy for the Fourier Neural Operator in\nfixed-future and autoregressive rollout tasks for the 1D and 2D Heat, Burgers',\nand linear advection equations.",
+            "pdf_url": "http://arxiv.org/pdf/2401.16327v4",
+            "published": "2024-01-29 17:32:22+00:00",
+            "updated": "2024-09-24 17:31:32+00:00"
+        },
+        {
+            "title": "Learning To Help: Training Models to Assist Legacy Devices",
+            "authors": "Yu Wu, Anand Sarwate",
+            "summary": "Machine learning models implemented in hardware on physical devices may be\ndeployed for a long time. The computational abilities of the device may be\nlimited and become outdated with respect to newer improvements. Because of the\nsize of ML models, offloading some computation (e.g. to an edge cloud) can help\nsuch legacy devices. We cast this problem in the framework of learning with\nabstention (LWA) in which the expert (edge) must be trained to assist the\nclient (device). Prior work on LWA trains the client assuming the edge is\neither an oracle or a human expert. In this work, we formalize the reverse\nproblem of training the expert for a fixed (legacy) client. As in LWA, the\nclient uses a rejection rule to decide when to offload inference to the expert\n(at a cost). We find the Bayes-optimal rule, prove a generalization bound, and\nfind a consistent surrogate loss function. Empirical results show that our\nframework outperforms confidence-based rejection rules.",
+            "pdf_url": "http://arxiv.org/pdf/2409.16253v1",
+            "published": "2024-09-24 17:21:25+00:00",
+            "updated": "2024-09-24 17:21:25+00:00"
+        },
+        {
+            "title": "A scaffolded curriculum to foster experimental skills acquisition in an introductory physics lab course",
+            "authors": "M. Alemani",
+            "summary": "This article outlines a comprehensive redesign of an introductory physics\nlaboratory course aimed at promoting active student engagement, enhancing\nscientific experimental skills and the development of expert-like attitudes.\nThe redesign process involved redefining specific and measurable learning goals\nand the development of tailored activities and assessment rubrics to reach and\nassess those goals. In order to implement course scaffolding, we made\nsignificant modifications to the previously existing course format, space,\nphysics topics contexts, and assessment. Instructors` roles evolved from\nimparting knowledge to promoting student decision-making and fostering a\ncollaborative learning environment. To guide the laboratory transformation we\nused the results of a research-based survey. This work offers practical\ninsights for educators seeking to redesign laboratory courses, emphasizing\nauthentic scientific practices and student-driven learning experiences in\nphysics education.",
+            "pdf_url": "http://arxiv.org/pdf/2409.16237v1",
+            "published": "2024-09-24 16:53:16+00:00",
+            "updated": "2024-09-24 16:53:16+00:00"
+        },
+        {
+            "title": "Nearly degenerate ground states of a checkerboard antiferromagnet and their bosonic interpretation",
+            "authors": "Haiyuan Zou, Fan Yang, Wei Ku",
+            "summary": "The spin-$1/2$ model system with antiferromagnetic (AF) couplings on a\n$J_1$-$J_2$ checkerboard lattice, known as the planar pyrochlore model, is\nstrongly frustrated and associated with a two-to-one dimensional crossover.\nUsing the Projected Entangled Simplex States tensor network ansatz, we identify\na large number of nearly degenerate states in the frustrated region\n($J_1<J_2$). Specifically, we find the long-sought crossed-dimer valence bond\nsolid (VBS) state to be the ground state at $J_1\\lesssim J_2$, while various 1D\nAF correlated states take over the rest. We verify the stability of the VBS\nstate against nematic perturbation. The corresponding bosonic picture provides\nan intuitive understanding of the low-energy physics. Particularly, it predicts\nweaker VBS states in the easy-plane limit, which we confirm numerically. Our\nresults clarify the most essential ground state properties of this interesting\nsystem and demonstrate the usefulness of bosonic picture in dealing with\nfrustrated magnetism.",
+            "pdf_url": "http://arxiv.org/pdf/2011.06520v2",
+            "published": "2020-11-12 17:33:41+00:00",
+            "updated": "2024-09-24 16:37:17+00:00"
+        },
+        {
+            "title": "Loop-level double-copy for massive fermions in the fundamental",
+            "authors": "John Joseph M. Carrasco, Aslan Seifi",
+            "summary": "We find that unitarity cuts and the duality between color and kinematics are\nsufficient constraints to bootstrap $D$-dimensional QCD scattering amplitudes\nstarting from three-particle tree-level. Specifically, we calculate tree level\namplitudes through six-points, as well as the four-point one-loop correction\nfor massive fermions in the fundamental representation of the gauge group --\nconstructing a color-dual representation of the latter for the first time. To\ndo so we clarify a prescription for functional kinematic ansatze involving\nfermionic matter. The advantages of color-dual calculation, familiar from\nparticles in the adjoint, also apply here: only a small number of basis\ntopologies must be constrained via physical information of the theory, and\nalgebraic relations propagate this to a full solution. As all the QCD\namplitudes we construct here are color-dual, they trivially generate\n$D$-dimensional amplitudes in gravitational theories via double-copy\nconstruction.",
+            "pdf_url": "http://arxiv.org/pdf/2302.14861v3",
+            "published": "2023-02-28 18:58:35+00:00",
+            "updated": "2024-09-24 16:24:23+00:00"
+        },
+        {
+            "title": "Triggering Dark Showers with Conditional Dual Auto-Encoders",
+            "authors": "Luca Anzalone, Simranjit Singh Chhibra, Benedikt Maier, Nadezda Chernyavskaya, Maurizio Pierini",
+            "summary": "We present a family of conditional dual auto-encoders (CoDAEs) for generic\nand model-independent new physics searches at colliders. New physics signals,\nwhich arise from new types of particles and interactions, are considered in our\nstudy as anomalies causing deviations in data with respect to expected\nbackground events. In this work, we perform a normal-only anomaly detection,\nwhich employs only background samples, to search for manifestations of a dark\nversion of strong force applying (variational) auto-encoders on raw detector\nimages, which are large and highly sparse, without leveraging any physics-based\npre-processing or strong assumption on the signals. The proposed CoDAE has a\ndual-encoder design, which is general and can learn an auxiliary yet compact\nlatent space through spatial conditioning, showing a neat improvement over\ncompetitive physics-based baselines and related approaches, therefore also\nreducing the gap with fully supervised models. It is the first time an\nunsupervised model is shown to exhibit excellent discrimination against\nmultiple dark shower models, illustrating the suitability of this method as an\naccurate, fast, model-independent algorithm to deploy, e.g., in the real-time\nevent triggering systems of Large Hadron Collider experiments such as ATLAS and\nCMS.",
+            "pdf_url": "http://arxiv.org/pdf/2306.12955v2",
+            "published": "2023-06-22 15:13:18+00:00",
+            "updated": "2024-09-24 16:05:46+00:00"
+        },
+        {
+            "title": "Localized spatiotemporal dynamics in active fluids",
+            "authors": "Luca Barberi, Karsten Kruse",
+            "summary": "From cytoskeletal networks to tissues, many biological systems behave as\nactive materials. Their composition and stress-generation is affected by\nchemical reaction networks. In such systems, the coupling between mechanics and\nchemistry enables self-organization, for example, into waves. Recently,\ncontractile mechanochemical systems were shown to be able to spontaneously\ndevelop localized spatial patterns. Here, we show that these localized patterns\ncan present intrinsic spatiotemporal dynamics, including oscillations and\nchaotic-like dynamics. We discuss their physical origin and bifurcation\nstructure.",
+            "pdf_url": "http://arxiv.org/pdf/2312.15708v3",
+            "published": "2023-12-25 12:15:32+00:00",
+            "updated": "2024-09-24 15:57:13+00:00"
+        },
+        {
+            "title": "Preparing Ground and Excited States Using Adiabatic CoVaR",
+            "authors": "Wooseop Hwang, and B\u00e1lint Koczor",
+            "summary": "CoVarince Root finding with classical shadows (CoVaR) was recently introduced\nas a new paradigm for training variational quantum circuits. Common approaches,\nsuch as variants of the Variational Quantum Eigensolver, aim to optimise a\nnon-linear classical cost function and thus suffer from, e.g., poor local\nminima, high shot requirements and barren plateaus. In contrast, CoVaR fully\nexploits powerful classical shadows and finds joint roots of a very large\nnumber of covariances using only a logarithmic number of shots and linearly\nscaling classical HPC compute resources. As a result, CoVaR has been\ndemonstrated to be particularly robust against local traps, however, its main\nlimitation has been that it requires a sufficiently good initial state. We\naddress this limitation by introducing an adiabatic morphing of the target\nHamiltonian and demonstrate in a broad range of application examples that CoVaR\ncan successfully prepare eigenstates of the target Hamiltonian when no initial\nwarm start is known. CoVaR succeeds even when Hamiltonian energy gaps are very\nsmall -- this is in stark contrast to adiabatic evolution and phase estimation\nalgorithms where circuit depths scale inversely with the Hamiltonian energy\ngaps. On the other hand, when the energy gaps are relatively small then\nadiabatic CoVaR may converge to higher excited states as opposed to a targeted\nspecific low-lying state. Nevertheless, we exploit this feature of adiabatic\nCoVaR and demonstrate that it can be used to map out the low lying spectrum of\na Hamiltonian which can be useful in practical applications, such as estimating\nthermal properties or in high-energy physics.",
+            "pdf_url": "http://arxiv.org/pdf/2409.16194v1",
+            "published": "2024-09-24 15:38:38+00:00",
+            "updated": "2024-09-24 15:38:38+00:00"
+        },
+        {
+            "title": "Cyber Knowledge Completion Using Large Language Models",
+            "authors": "Braden K Webb, Sumit Purohit, Rounak Meyur",
+            "summary": "The integration of the Internet of Things (IoT) into Cyber-Physical Systems\n(CPSs) has expanded their cyber-attack surface, introducing new and\nsophisticated threats with potential to exploit emerging vulnerabilities.\nAssessing the risks of CPSs is increasingly difficult due to incomplete and\noutdated cybersecurity knowledge. This highlights the urgent need for\nbetter-informed risk assessments and mitigation strategies. While previous\nefforts have relied on rule-based natural language processing (NLP) tools to\nmap vulnerabilities, weaknesses, and attack patterns, recent advancements in\nLarge Language Models (LLMs) present a unique opportunity to enhance\ncyber-attack knowledge completion through improved reasoning, inference, and\nsummarization capabilities. We apply embedding models to encapsulate\ninformation on attack patterns and adversarial techniques, generating mappings\nbetween them using vector embeddings. Additionally, we propose a\nRetrieval-Augmented Generation (RAG)-based approach that leverages pre-trained\nmodels to create structured mappings between different taxonomies of threat\npatterns. Further, we use a small hand-labeled dataset to compare the proposed\nRAG-based approach to a baseline standard binary classification model. Thus,\nthe proposed approach provides a comprehensive framework to address the\nchallenge of cyber-attack knowledge graph completion.",
+            "pdf_url": "http://arxiv.org/pdf/2409.16176v1",
+            "published": "2024-09-24 15:20:39+00:00",
+            "updated": "2024-09-24 15:20:39+00:00"
+        }
+    ],
+    "Diffusion": [
+        {
+            "title": "MaskBit: Embedding-free Image Generation via Bit Tokens",
+            "authors": "Mark Weber, Lijun Yu, Qihang Yu, Xueqing Deng, Xiaohui Shen, Daniel Cremers, Liang-Chieh Chen",
+            "summary": "Masked transformer models for class-conditional image generation have become\na compelling alternative to diffusion models. Typically comprising two stages -\nan initial VQGAN model for transitioning between latent space and image space,\nand a subsequent Transformer model for image generation within latent space -\nthese frameworks offer promising avenues for image synthesis. In this study, we\npresent two primary contributions: Firstly, an empirical and systematic\nexamination of VQGANs, leading to a modernized VQGAN. Secondly, a novel\nembedding-free generation network operating directly on bit tokens - a binary\nquantized representation of tokens with rich semantics. The first contribution\nfurnishes a transparent, reproducible, and high-performing VQGAN model,\nenhancing accessibility and matching the performance of current\nstate-of-the-art methods while revealing previously undisclosed details. The\nsecond contribution demonstrates that embedding-free image generation using bit\ntokens achieves a new state-of-the-art FID of 1.52 on the ImageNet 256x256\nbenchmark, with a compact generator model of mere 305M parameters.",
+            "pdf_url": "http://arxiv.org/pdf/2409.16211v1",
+            "published": "2024-09-24 16:12:12+00:00",
+            "updated": "2024-09-24 16:12:12+00:00"
+        },
+        {
+            "title": "Reliability in Semantic Segmentation: Can We Use Synthetic Data?",
+            "authors": "Thibaut Loiseau, Tuan-Hung Vu, Mickael Chen, Patrick P\u00e9rez, Matthieu Cord",
+            "summary": "Assessing the robustness of perception models to covariate shifts and their\nability to detect out-of-distribution (OOD) inputs is crucial for\nsafety-critical applications such as autonomous vehicles. By nature of such\napplications, however, the relevant data is difficult to collect and annotate.\nIn this paper, we show for the first time how synthetic data can be\nspecifically generated to assess comprehensively the real-world reliability of\nsemantic segmentation models. By fine-tuning Stable Diffusion with only\nin-domain data, we perform zero-shot generation of visual scenes in OOD domains\nor inpainted with OOD objects. This synthetic data is employed to evaluate the\nrobustness of pretrained segmenters, thereby offering insights into their\nperformance when confronted with real edge cases. Through extensive\nexperiments, we demonstrate a high correlation between the performance of\nmodels when evaluated on our synthetic OOD data and when evaluated on real OOD\ninputs, showing the relevance of such virtual testing. Furthermore, we\ndemonstrate how our approach can be utilized to enhance the calibration and OOD\ndetection capabilities of segmenters. Code and data are made public.",
+            "pdf_url": "http://arxiv.org/pdf/2312.09231v2",
+            "published": "2023-12-14 18:56:07+00:00",
+            "updated": "2024-09-24 13:05:28+00:00"
+        },
+        {
+            "title": "Improvements to SDXL in NovelAI Diffusion V3",
+            "authors": "Juan Ossa, Eren Do\u011fan, Alex Birch, F. Johnson",
+            "summary": "In this technical report, we document the changes we made to SDXL in the\nprocess of training NovelAI Diffusion V3, our state of the art anime image\ngeneration model.",
+            "pdf_url": "http://arxiv.org/pdf/2409.15997v1",
+            "published": "2024-09-24 11:57:12+00:00",
+            "updated": "2024-09-24 11:57:12+00:00"
+        },
+        {
+            "title": "ASD-Diffusion: Anomalous Sound Detection with Diffusion Models",
+            "authors": "Fengrun Zhang, Xiang Xie, Kai Guo",
+            "summary": "Unsupervised Anomalous Sound Detection (ASD) aims to design a generalizable\nmethod that can be used to detect anomalies when only normal sounds are given.\nIn this paper, Anomalous Sound Detection based on Diffusion Models\n(ASD-Diffusion) is proposed for ASD in real-world factories. In our pipeline,\nthe anomalies in acoustic features are reconstructed from their noisy corrupted\nfeatures into their approximate normal pattern. Secondly, a post-processing\nanomalies filter algorithm is proposed to detect anomalies that exhibit\nsignificant deviation from the original input after reconstruction.\nFurthermore, denoising diffusion implicit model is introduced to accelerate the\ninference speed by a longer sampling interval of the denoising process. The\nproposed method is innovative in the application of diffusion models as a new\nscheme. Experimental results on the development set of DCASE 2023 challenge\ntask 2 outperform the baseline by 7.75%, demonstrating the effectiveness of the\nproposed method.",
+            "pdf_url": "http://arxiv.org/pdf/2409.15957v1",
+            "published": "2024-09-24 10:42:23+00:00",
+            "updated": "2024-09-24 10:42:23+00:00"
+        },
+        {
+            "title": "Protein Conformation Generation via Force-Guided SE(3) Diffusion Models",
+            "authors": "Yan Wang, Lihao Wang, Yuning Shen, Yiqun Wang, Huizhuo Yuan, Yue Wu, Quanquan Gu",
+            "summary": "The conformational landscape of proteins is crucial to understanding their\nfunctionality in complex biological processes. Traditional physics-based\ncomputational methods, such as molecular dynamics (MD) simulations, suffer from\nrare event sampling and long equilibration time problems, hindering their\napplications in general protein systems. Recently, deep generative modeling\ntechniques, especially diffusion models, have been employed to generate novel\nprotein conformations. However, existing score-based diffusion methods cannot\nproperly incorporate important physical prior knowledge to guide the generation\nprocess, causing large deviations in the sampled protein conformations from the\nequilibrium distribution. In this paper, to overcome these limitations, we\npropose a force-guided SE(3) diffusion model, ConfDiff, for protein\nconformation generation. By incorporating a force-guided network with a mixture\nof data-based score models, ConfDiff can generate protein conformations with\nrich diversity while preserving high fidelity. Experiments on a variety of\nprotein conformation prediction tasks, including 12 fast-folding proteins and\nthe Bovine Pancreatic Trypsin Inhibitor (BPTI), demonstrate that our method\nsurpasses the state-of-the-art method.",
+            "pdf_url": "http://arxiv.org/pdf/2403.14088v2",
+            "published": "2024-03-21 02:44:08+00:00",
+            "updated": "2024-09-24 09:37:16+00:00"
+        }
+    ],
+    "Quantitative Finance": [
+        {
+            "title": "Towards a Realistic Long-Term Benchmark for Open-Web Research Agents",
+            "authors": "Peter M\u00fchlbacher, Nikos I. Bosse, Lawrence Phillips",
+            "summary": "We present initial results of a forthcoming benchmark for evaluating LLM\nagents on white-collar tasks of economic value. We evaluate eight realistic and\n``messy'' tasks that are routine in finance and consulting, drawn from\nreal-world cases from our customers. We lay the groundwork for an LLM agent\nevaluation suite where good performance directly corresponds to a large\neconomic and societal impact. This fills a gap in existing benchmarks with\ntasks like ``order a pizza to the following address'' that do not constitute\nreal-human work of economic value. Our evaluations assign credit to agents for\npartially solving tasks. By doing that, this initial evaluation, and the\nforthcoming benchmark, allow us to more accurately extrapolate performance of\nLLM-based agents on economically valuable tasks.\n  We built and tested several architectures with GPT-4o, Claude-3.5 Sonnet,\nLlama 3.1 (405b), and GPT-4o-mini, ensuring that failure to solve a task was\ndue to failures of reasoning and planning, rather than due to common failures\nlike e.g. the inability to parse a website. On average, LLM agents powered by\nClaude-3.5 Sonnet substantially outperformed agents using GPT-4o, with agents\nbased on Llama 3.1 (405b) and GPT-4o-mini lagging noticeably behind. Across\nLLMs, a ReAct architecture with the ability to delegate subtasks to subagents\nperformed best. In addition to quantitative evaluations, we qualitatively\nassessed the performance of the LLM agents by inspecting their traces and\nreflecting on their observations.",
+            "pdf_url": "http://arxiv.org/pdf/2409.14913v1",
+            "published": "2024-09-23 11:08:04+00:00",
+            "updated": "2024-09-23 11:08:04+00:00"
+        }
+    ]
+}

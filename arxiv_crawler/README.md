@@ -60,6 +60,36 @@ TODO:
 
 
 
+
+## Update on 2024-09-25
+
+### Physics
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2024-09-24|2024-09-24|Deployment of a Transportable Yb Optical Lattice Clock|Tobias Bothwell|[2409.16264v1](http://arxiv.org/pdf/2409.16264v1)|
+|2024-01-29|2024-09-24|PICL: Physics Informed Contrastive Learning for Partial Differential Equations|Cooper Lorsung|[2401.16327v4](http://arxiv.org/pdf/2401.16327v4)|
+|2024-09-24|2024-09-24|Learning To Help: Training Models to Assist Legacy Devices|Yu Wu|[2409.16253v1](http://arxiv.org/pdf/2409.16253v1)|
+|2024-09-24|2024-09-24|A scaffolded curriculum to foster experimental skills acquisition in an introductory physics lab course|M. Alemani|[2409.16237v1](http://arxiv.org/pdf/2409.16237v1)|
+|2020-11-12|2024-09-24|Nearly degenerate ground states of a checkerboard antiferromagnet and their bosonic interpretation|Haiyuan Zou|[2011.06520v2](http://arxiv.org/pdf/2011.06520v2)|
+|2023-02-28|2024-09-24|Loop-level double-copy for massive fermions in the fundamental|John Joseph M. Carrasco|[2302.14861v3](http://arxiv.org/pdf/2302.14861v3)|
+|2023-06-22|2024-09-24|Triggering Dark Showers with Conditional Dual Auto-Encoders|Luca Anzalone|[2306.12955v2](http://arxiv.org/pdf/2306.12955v2)|
+|2023-12-25|2024-09-24|Localized spatiotemporal dynamics in active fluids|Luca Barberi|[2312.15708v3](http://arxiv.org/pdf/2312.15708v3)|
+|2024-09-24|2024-09-24|Preparing Ground and Excited States Using Adiabatic CoVaR|Wooseop Hwang|[2409.16194v1](http://arxiv.org/pdf/2409.16194v1)|
+|2024-09-24|2024-09-24|Cyber Knowledge Completion Using Large Language Models|Braden K Webb|[2409.16176v1](http://arxiv.org/pdf/2409.16176v1)|
+
+### Diffusion
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2024-09-24|2024-09-24|MaskBit: Embedding-free Image Generation via Bit Tokens|Mark Weber|[2409.16211v1](http://arxiv.org/pdf/2409.16211v1)|
+|2023-12-14|2024-09-24|Reliability in Semantic Segmentation: Can We Use Synthetic Data?|Thibaut Loiseau|[2312.09231v2](http://arxiv.org/pdf/2312.09231v2)|
+|2024-09-24|2024-09-24|Improvements to SDXL in NovelAI Diffusion V3|Juan Ossa|[2409.15997v1](http://arxiv.org/pdf/2409.15997v1)|
+|2024-09-24|2024-09-24|ASD-Diffusion: Anomalous Sound Detection with Diffusion Models|Fengrun Zhang|[2409.15957v1](http://arxiv.org/pdf/2409.15957v1)|
+|2024-03-21|2024-09-24|Protein Conformation Generation via Force-Guided SE(3) Diffusion Models|Yan Wang|[2403.14088v2](http://arxiv.org/pdf/2403.14088v2)|
+
+### Quantitative Finance
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2024-09-23|2024-09-23|Towards a Realistic Long-Term Benchmark for Open-Web Research Agents|Peter Mühlbacher|[2409.14913v1](http://arxiv.org/pdf/2409.14913v1)|
 ## Update on 2024-09-23
 
 ### Physics
