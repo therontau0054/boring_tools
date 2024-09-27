@@ -61,6 +61,31 @@ TODO:
 
 
 
+
+## Update on 2024-09-27
+
+### Physics
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2024-09-26|2024-09-26|Two-dopant origin of competing stripe and pair formation in Hubbard and $t$-$J$ models|Tizian Blatz|[2409.18131v1](http://arxiv.org/pdf/2409.18131v1)|
+|2024-09-26|2024-09-26|Intruding the sealed land: Unique forbidden beta decays at zero momentum transfer|Chien-Yeah Seng|[2409.18115v1](http://arxiv.org/pdf/2409.18115v1)|
+|2024-09-26|2024-09-26|Optimal Protocols for Continual Learning via Statistical Physics and Control Theory|Francesco Mori|[2409.18061v1](http://arxiv.org/pdf/2409.18061v1)|
+|2024-09-26|2024-09-26|Efficacy of a hybrid take home and in class summative assessment for the postsecondary physics classroom|Paul Stonaha|[2409.18058v1](http://arxiv.org/pdf/2409.18058v1)|
+|2024-09-09|2024-09-26|Mixmasters in Wonderland: Chaotic dynamics from Carroll limits of gravity|Gerben Oling|[2409.05836v2](http://arxiv.org/pdf/2409.05836v2)|
+|2024-09-26|2024-09-26|FlowBench: A Large Scale Benchmark for Flow Simulation over Complex Geometries|Ronak Tali|[2409.18032v1](http://arxiv.org/pdf/2409.18032v1)|
+|2024-08-27|2024-09-26|Force-Guided Bridge Matching for Full-Atom Time-Coarsened Dynamics of Peptides|Ziyang Yu|[2408.15126v5](http://arxiv.org/pdf/2408.15126v5)|
+|2024-03-29|2024-09-26|Structure and Dynamics of Magneto-Inertial, Differentially Rotating Laboratory Plasmas|V. Valenzuela-Villaseca|[2403.20321v2](http://arxiv.org/pdf/2403.20321v2)|
+|2024-09-26|2024-09-26|Spatiotemporal Learning on Cell-embedded Graphs|Yuan Mi|[2409.18013v1](http://arxiv.org/pdf/2409.18013v1)|
+|2024-09-26|2024-09-26|A neural network study of the phase transitions of the two-dimensional antiferromagnetic $q$-state Potts models on the square lattice|Yuan-Heng Tseng|[2409.17984v1](http://arxiv.org/pdf/2409.17984v1)|
+
+### Diffusion
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2024-09-26|2024-09-26|DiffSSC: Semantic LiDAR Scan Completion using Denoising Diffusion Probabilistic Models|Helin Cao|[2409.18092v1](http://arxiv.org/pdf/2409.18092v1)|
+|2024-09-26|2024-09-26|PhoCoLens: Photorealistic and Consistent Reconstruction in Lensless Imaging|Xin Cai|[2409.17996v1](http://arxiv.org/pdf/2409.17996v1)|
+|2024-09-26|2024-09-26|Joint Localization and Planning using Diffusion|L. Lao Beyer|[2409.17995v1](http://arxiv.org/pdf/2409.17995v1)|
+|2023-07-03|2024-09-26|Transport meets Variational Inference: Controlled Monte Carlo Diffusions|Francisco Vargas|[2307.01050v10](http://arxiv.org/pdf/2307.01050v10)|
+|2024-09-26|2024-09-26|Pioneering Reliable Assessment in Text-to-Image Knowledge Editing: Leveraging a Fine-Grained Dataset and an Innovative Criterion|Hengrui Gu|[2409.17928v1](http://arxiv.org/pdf/2409.17928v1)|
 ## Update on 2024-09-25
 
 ### Physics

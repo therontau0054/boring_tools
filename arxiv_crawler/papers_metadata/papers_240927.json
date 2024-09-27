@@ -1,0 +1,126 @@
+{
+    "Physics": [
+        {
+            "title": "Two-dopant origin of competing stripe and pair formation in Hubbard and $t$-$J$ models",
+            "authors": "Tizian Blatz, Ulrich Schollw\u00f6ck, Fabian Grusdt, Annabelle Bohrdt",
+            "summary": "Understanding the physics of the two-dimensional Hubbard model is widely\nbelieved to be a key step in achieving a full understanding of\nhigh-$T_\\mathrm{c}$ cuprate superconductors. In recent years, progress has been\nmade by large-scale numerical simulations at finite doping and, on the other\nhand, by microscopic theories able to capture the physics of individual charge\ncarriers. In this work, we study single pairs of dopants in a cylindrical\nsystem using the density-matrix renormalization group algorithm. We identify\ntwo coexisting charge configurations that couple to the spin environment in\ndifferent ways: A tightly bound configuration featuring (next-)nearest-neighbor\npairs and a stripe-like configuration of dopants on opposite sides of the\ncylinder, accompanied by a spin domain wall. Thus, we establish that the\ninterplay between stripe order and uniform pairing, central to the models'\nphases at finite doping, has its origin at the single-pair level. By\ninterpolating between the Hubbard and the related $t$-$J$ model, we are able to\nquantitatively understand discrepancies in the pairing properties of the two\nmodels through the three-site hopping term usually omitted from the $t$-$J$\nHamiltonian. This term is closely related to a next-nearest-neighbor tunneling\n$t'$, which we observe to upset the balance between the competing stripe and\npair states on the two-dopant level.",
+            "pdf_url": "http://arxiv.org/pdf/2409.18131v1",
+            "published": "2024-09-26 17:59:57+00:00",
+            "updated": "2024-09-26 17:59:57+00:00"
+        },
+        {
+            "title": "Intruding the sealed land: Unique forbidden beta decays at zero momentum transfer",
+            "authors": "Chien-Yeah Seng, Ayala Glick-Magid, Vincenzo Cirigliano",
+            "summary": "We report the first study of the $\\mathcal{O}(\\alpha)$ structure-dependent\nelectromagnetic radiative corrections to unique first-forbidden nuclear beta\ndecays. We show that the insertion of angular momentum into the nuclear matrix\nelement by the virtual/real photon exchange opens up the decay at vanishing\nnuclear recoil momentum which was forbidden at tree level, leading to a\ndramatic change in the decay spectrum not anticipated in existing studies. We\ndiscuss its implications for precision tests on the Standard Model and searches\nfor new physics.",
+            "pdf_url": "http://arxiv.org/pdf/2409.18115v1",
+            "published": "2024-09-26 17:55:15+00:00",
+            "updated": "2024-09-26 17:55:15+00:00"
+        },
+        {
+            "title": "Optimal Protocols for Continual Learning via Statistical Physics and Control Theory",
+            "authors": "Francesco Mori, Stefano Sarao Mannelli, Francesca Mignacco",
+            "summary": "Artificial neural networks often struggle with catastrophic forgetting when\nlearning multiple tasks sequentially, as training on new tasks degrades the\nperformance on previously learned ones. Recent theoretical work has addressed\nthis issue by analysing learning curves in synthetic frameworks under\npredefined training protocols. However, these protocols relied on heuristics\nand lacked a solid theoretical foundation assessing their optimality. In this\npaper, we fill this gap combining exact equations for training dynamics,\nderived using statistical physics techniques, with optimal control methods. We\napply this approach to teacher-student models for continual learning and\nmulti-task problems, obtaining a theory for task-selection protocols maximising\nperformance while minimising forgetting. Our theoretical analysis offers\nnon-trivial yet interpretable strategies for mitigating catastrophic\nforgetting, shedding light on how optimal learning protocols can modulate\nestablished effects, such as the influence of task similarity on forgetting.\nFinally, we validate our theoretical findings on real-world data.",
+            "pdf_url": "http://arxiv.org/pdf/2409.18061v1",
+            "published": "2024-09-26 17:01:41+00:00",
+            "updated": "2024-09-26 17:01:41+00:00"
+        },
+        {
+            "title": "Efficacy of a hybrid take home and in class summative assessment for the postsecondary physics classroom",
+            "authors": "Paul Stonaha, Stephanie Douglas",
+            "summary": "Assigning course grades to students requires obtaining accurate measures of\nthe students' understanding and knowledge of the topic. The induced stress from\na traditional summative assessment is known to negatively impact student\ngrades, confounding the connection between knowledge and test grades.\nDocumented approaches to reduce stress during examinations can lead to a\ndistracting testing environment (two-stage tests) or are subject to cheating\n(take-home tests). We have developed a hybrid take-home/in-class exam that\navoids such difficulties. We present herein the responses from student surveys\nconducted after each exam. The results of the surveys indicate that the hybrid\nexam method reduces test anxiety while improving students' self-reported\nmastery of physics, as compared to traditional in-class summative assessments.\nThese findings are significant at the p < 0.05 level. Lastly, we discuss the\ndifficulties encountered in applying this test approach.",
+            "pdf_url": "http://arxiv.org/pdf/2409.18058v1",
+            "published": "2024-09-26 17:00:28+00:00",
+            "updated": "2024-09-26 17:00:28+00:00"
+        },
+        {
+            "title": "Mixmasters in Wonderland: Chaotic dynamics from Carroll limits of gravity",
+            "authors": "Gerben Oling, Juan F. Pedraza",
+            "summary": "We demonstrate that the Carroll limit of general relativity coupled to matter\ncaptures the chaotic mixmaster dynamics of near-singularity limits. Zooming in\non the behavior of general relativity close to spacelike singularities reveals\nrich and solvable ultra-local Belinski-Khalatnikov-Lifshitz (BKL) dynamics,\nwhich we show to be captured by a Carroll limit. Specifically, building on\nrecent work on geometric Carroll expansions of general relativity, we establish\nthat leading-order Carroll gravity, with suitable matter coupling, accurately\ndescribes well-known cosmological billiards behavior. Since the Carroll limit\nimplements the ultra-local limit off shell, this opens up the door to a wide\nrange of possible tractable applications, including spatially inhomogeneous\nsetups and the emergence of spikes at late times. This further suggests that\nCarroll gravity, along with its subleading corrections, could serve as a\nvaluable tool for studying deep infrared physics in AdS/CFT.",
+            "pdf_url": "http://arxiv.org/pdf/2409.05836v2",
+            "published": "2024-09-09 17:42:50+00:00",
+            "updated": "2024-09-26 16:43:00+00:00"
+        },
+        {
+            "title": "FlowBench: A Large Scale Benchmark for Flow Simulation over Complex Geometries",
+            "authors": "Ronak Tali, Ali Rabeh, Cheng-Hau Yang, Mehdi Shadkhah, Samundra Karki, Abhisek Upadhyaya, Suriya Dhakshinamoorthy, Marjan Saadati, Soumik Sarkar, Adarsh Krishnamurthy, Chinmay Hegde, Aditya Balu, Baskar Ganapathysubramanian",
+            "summary": "Simulating fluid flow around arbitrary shapes is key to solving various\nengineering problems. However, simulating flow physics across complex\ngeometries remains numerically challenging and computationally\nresource-intensive, particularly when using conventional PDE solvers. Machine\nlearning methods offer attractive opportunities to create fast and adaptable\nPDE solvers. However, benchmark datasets to measure the performance of such\nmethods are scarce, especially for flow physics across complex geometries. We\nintroduce FlowBench, a dataset for neural simulators with over 10K samples,\nwhich is currently larger than any publicly available flow physics dataset.\nFlowBench contains flow simulation data across complex geometries\n(\\textit{parametric vs. non-parametric}), spanning a range of flow conditions\n(\\textit{Reynolds number and Grashoff number}), capturing a diverse array of\nflow phenomena (\\textit{steady vs. transient; forced vs. free convection}), and\nfor both 2D and 3D. FlowBench contains over 10K data samples, with each sample\nthe outcome of a fully resolved, direct numerical simulation using a\nwell-validated simulator framework designed for modeling transport phenomena in\ncomplex geometries. For each sample, we include velocity, pressure, and\ntemperature field data at 3 different resolutions and several summary\nstatistics features of engineering relevance (such as coefficients of lift and\ndrag, and Nusselt numbers). %Additionally, we include masks and signed distance\nfields for each shape. We envision that FlowBench will enable evaluating the\ninterplay between complex geometry, coupled flow phenomena, and data\nsufficiency on the performance of current, and future, neural PDE solvers. We\nenumerate several evaluation metrics to help rank order the performance of\nneural PDE solvers. We benchmark the performance of several baseline methods\nincluding FNO, CNO, WNO, and DeepONet.",
+            "pdf_url": "http://arxiv.org/pdf/2409.18032v1",
+            "published": "2024-09-26 16:38:48+00:00",
+            "updated": "2024-09-26 16:38:48+00:00"
+        },
+        {
+            "title": "Force-Guided Bridge Matching for Full-Atom Time-Coarsened Dynamics of Peptides",
+            "authors": "Ziyang Yu, Wenbing Huang, Yang Liu",
+            "summary": "Molecular Dynamics (MD) is crucial in various fields such as materials\nscience, chemistry, and pharmacology to name a few. Conventional MD software\nstruggles with the balance between time cost and prediction accuracy, which\nrestricts its wider application. Recently, data-driven approaches based on deep\ngenerative models have been devised for time-coarsened dynamics, which aim at\nlearning dynamics of diverse molecular systems over a long timestep, enjoying\nboth universality and efficiency. Nevertheless, most current methods are\ndesigned solely to learn from the data distribution regardless of the\nunderlying Boltzmann distribution, and the physics priors such as energies and\nforces are constantly overlooked. In this work, we propose a conditional\ngenerative model called Force-guided Bridge Matching (FBM), which learns\nfull-atom time-coarsened dynamics and targets the Boltzmann-constrained\ndistribution. With the guidance of our delicately-designed intermediate force\nfield, FBM leverages favourable physics priors into the generation process,\ngiving rise to enhanced simulations. Experiments on two datasets consisting of\npeptides verify our superiority in terms of comprehensive metrics and\ndemonstrate transferability to unseen systems.",
+            "pdf_url": "http://arxiv.org/pdf/2408.15126v5",
+            "published": "2024-08-27 15:07:27+00:00",
+            "updated": "2024-09-26 16:38:32+00:00"
+        },
+        {
+            "title": "Structure and Dynamics of Magneto-Inertial, Differentially Rotating Laboratory Plasmas",
+            "authors": "V. Valenzuela-Villaseca, L. G. Suttle, F. Suzuki-Vidal, J. W. D. Halliday, D. R. Russell, S. Merlini, E. R. Tubman, J. D. Hare, J. P. Chittenden, M. E. Koepke, E. G. Blackman, S. V. Lebedev",
+            "summary": "We present a detailed characterization of the structure and evolution of\ndifferentially rotating plasmas driven on the MAGPIE pulsed-power generator\n(1.4 MA peak current, 240 ns rise-time). The experiments were designed to\nsimulate physics relevant to accretion discs and jets on laboratory scales. A\ncylindrical aluminium wire array Z pinch enclosed by return posts with an\noverall azimuthal off-set angle was driven to produce ablation plasma flows\nthat propagate inwards in a slightly off-radial trajectory, injecting mass,\nangular momentum, and confining ram pressure to a rotating plasma column on the\naxis. However, the plasma is free to expand axially, forming a collimated,\ndifferentially rotating axial jet that propagates at $\\approx 100$ km/s. The\ndensity profile of the jet corresponds to a dense shell surrounding a\nlow-density core, which is consistent with the centrifugal barrier effect being\nsustained along the jet's propagation. We show analytically that, as the\nrotating plasma accretes mass, conservation of mass and momentum implies plasma\nradial growth scaling as $r \\propto t^{1/3}$. As the characteristic moment of\ninertia increases, the rotation velocity is predicted to decrease and settle on\na characteristic value $\\approx 20$ km/s. We find that both predictions are in\nagreement with Thomson scattering and optical self-emission imaging\nmeasurements.",
+            "pdf_url": "http://arxiv.org/pdf/2403.20321v2",
+            "published": "2024-03-29 17:44:25+00:00",
+            "updated": "2024-09-26 16:24:20+00:00"
+        },
+        {
+            "title": "Spatiotemporal Learning on Cell-embedded Graphs",
+            "authors": "Yuan Mi, Hao Sun",
+            "summary": "Data-driven simulation of physical systems has recently kindled significant\nattention, where many neural models have been developed. In particular,\nmesh-based graph neural networks (GNNs) have demonstrated significant potential\nin predicting spatiotemporal dynamics across arbitrary geometric domains.\nHowever, the existing node-edge message passing mechanism in GNNs limits the\nmodel's representation learning ability. In this paper, we proposed a\ncell-embedded GNN model (aka CeGNN) to learn spatiotemporal dynamics with\nlifted performance. Specifically, we introduce a learnable cell attribution to\nthe node-edge message passing process, which better captures the spatial\ndependency of regional features. Such a strategy essentially upgrades the local\naggregation scheme from the first order (e.g., from edge to node) to a higher\norder (e.g., from volume to edge and then to node), which takes advantage of\nvolumetric information in message passing. Meanwhile, a novel feature-enhanced\nblock is designed to further improve the performance of CeGNN and relieve the\nover-smoothness problem, via treating the latent features as basis functions.\nThe extensive experiments on various PDE systems and one real-world dataset\ndemonstrate that CeGNN achieves superior performance compared with other\nbaseline models, particularly reducing the prediction error with up to 1 orders\nof magnitude on several PDE systems.",
+            "pdf_url": "http://arxiv.org/pdf/2409.18013v1",
+            "published": "2024-09-26 16:22:08+00:00",
+            "updated": "2024-09-26 16:22:08+00:00"
+        },
+        {
+            "title": "A neural network study of the phase transitions of the two-dimensional antiferromagnetic $q$-state Potts models on the square lattice",
+            "authors": "Yuan-Heng Tseng, Fu-Jiun Jiang",
+            "summary": "The critical phenomena of the two-dimensional antiferromagnetic $q$-state\nPotts model on the square lattice with $q=2,3,4$ are investigated using the\ntechniques of neural networks (NN). In particular, an unconventional supervised\nNN which is trained using no information about the physics of the considered\nsystems is employed. In addition, conventional unsupervised autoencoders (AECs)\nare used in our study as well. Remarkably, while the conventional AECs fail to\nuncover the critical phenomena of the systems investigated here, our\nunconventional supervised NN correctly identifies the critical behaviors of all\nthree considered antiferromagnetic $q$-state models. The results obtained in\nthis study suggest convincingly that the applicability of our unconventional\nsupervised NN is broader than one anticipates. In particular, when a new system\nis studied with our NN, it is likely that it is not necessary to conduct any\ntraining, and one only needs to examine whether an appropriate reduced\nrepresentation of the original raw configurations exists, so that the same\nalready trained NN can be employed to explore the related phase transition\nefficiently.",
+            "pdf_url": "http://arxiv.org/pdf/2409.17984v1",
+            "published": "2024-09-26 15:55:44+00:00",
+            "updated": "2024-09-26 15:55:44+00:00"
+        }
+    ],
+    "Diffusion": [
+        {
+            "title": "DiffSSC: Semantic LiDAR Scan Completion using Denoising Diffusion Probabilistic Models",
+            "authors": "Helin Cao, Sven Behnke",
+            "summary": "Perception systems play a crucial role in autonomous driving, incorporating\nmultiple sensors and corresponding computer vision algorithms. 3D LiDAR sensors\nare widely used to capture sparse point clouds of the vehicle's surroundings.\nHowever, such systems struggle to perceive occluded areas and gaps in the scene\ndue to the sparsity of these point clouds and their lack of semantics. To\naddress these challenges, Semantic Scene Completion (SSC) jointly predicts\nunobserved geometry and semantics in the scene given raw LiDAR measurements,\naiming for a more complete scene representation. Building on promising results\nof diffusion models in image generation and super-resolution tasks, we propose\ntheir extension to SSC by implementing the noising and denoising diffusion\nprocesses in the point and semantic spaces individually. To control the\ngeneration, we employ semantic LiDAR point clouds as conditional input and\ndesign local and global regularization losses to stabilize the denoising\nprocess. We evaluate our approach on autonomous driving datasets and our\napproach outperforms the state-of-the-art for SSC.",
+            "pdf_url": "http://arxiv.org/pdf/2409.18092v1",
+            "published": "2024-09-26 17:39:05+00:00",
+            "updated": "2024-09-26 17:39:05+00:00"
+        },
+        {
+            "title": "PhoCoLens: Photorealistic and Consistent Reconstruction in Lensless Imaging",
+            "authors": "Xin Cai, Zhiyuan You, Hailong Zhang, Wentao Liu, Jinwei Gu, Tianfan Xue",
+            "summary": "Lensless cameras offer significant advantages in size, weight, and cost\ncompared to traditional lens-based systems. Without a focusing lens, lensless\ncameras rely on computational algorithms to recover the scenes from multiplexed\nmeasurements. However, current algorithms struggle with inaccurate forward\nimaging models and insufficient priors to reconstruct high-quality images. To\novercome these limitations, we introduce a novel two-stage approach for\nconsistent and photorealistic lensless image reconstruction. The first stage of\nour approach ensures data consistency by focusing on accurately reconstructing\nthe low-frequency content with a spatially varying deconvolution method that\nadjusts to changes in the Point Spread Function (PSF) across the camera's field\nof view. The second stage enhances photorealism by incorporating a generative\nprior from pre-trained diffusion models. By conditioning on the low-frequency\ncontent retrieved in the first stage, the diffusion model effectively\nreconstructs the high-frequency details that are typically lost in the lensless\nimaging process, while also maintaining image fidelity. Our method achieves a\nsuperior balance between data fidelity and visual quality compared to existing\nmethods, as demonstrated with two popular lensless systems, PhlatCam and\nDiffuserCam. Project website: https://phocolens.github.io/.",
+            "pdf_url": "http://arxiv.org/pdf/2409.17996v1",
+            "published": "2024-09-26 16:07:24+00:00",
+            "updated": "2024-09-26 16:07:24+00:00"
+        },
+        {
+            "title": "Joint Localization and Planning using Diffusion",
+            "authors": "L. Lao Beyer, S. Karaman",
+            "summary": "Diffusion models have been successfully applied to robotics problems such as\nmanipulation and vehicle path planning. In this work, we explore their\napplication to end-to-end navigation -- including both perception and planning\n-- by considering the problem of jointly performing global localization and\npath planning in known but arbitrary 2D environments. In particular, we\nintroduce a diffusion model which produces collision-free paths in a global\nreference frame given an egocentric LIDAR scan, an arbitrary map, and a desired\ngoal position. To this end, we implement diffusion in the space of paths in\nSE(2), and describe how to condition the denoising process on both obstacles\nand sensor observations. In our evaluation, we show that the proposed\nconditioning techniques enable generalization to realistic maps of considerably\ndifferent appearance than the training environment, demonstrate our model's\nability to accurately describe ambiguous solutions, and run extensive\nsimulation experiments showcasing our model's use as a real-time, end-to-end\nlocalization and planning stack.",
+            "pdf_url": "http://arxiv.org/pdf/2409.17995v1",
+            "published": "2024-09-26 16:07:20+00:00",
+            "updated": "2024-09-26 16:07:20+00:00"
+        },
+        {
+            "title": "Transport meets Variational Inference: Controlled Monte Carlo Diffusions",
+            "authors": "Francisco Vargas, Shreyas Padhy, Denis Blessing, Nikolas N\u00fcsken",
+            "summary": "Connecting optimal transport and variational inference, we present a\nprincipled and systematic framework for sampling and generative modelling\ncentred around divergences on path space. Our work culminates in the\ndevelopment of the \\emph{Controlled Monte Carlo Diffusion} sampler (CMCD) for\nBayesian computation, a score-based annealing technique that crucially adapts\nboth forward and backward dynamics in a diffusion model. On the way, we clarify\nthe relationship between the EM-algorithm and iterative proportional fitting\n(IPF) for Schr{\\\"o}dinger bridges, deriving as well a regularised objective\nthat bypasses the iterative bottleneck of standard IPF-updates. Finally, we\nshow that CMCD has a strong foundation in the Jarzinsky and Crooks identities\nfrom statistical physics, and that it convincingly outperforms competing\napproaches across a wide array of experiments.",
+            "pdf_url": "http://arxiv.org/pdf/2307.01050v10",
+            "published": "2023-07-03 14:28:36+00:00",
+            "updated": "2024-09-26 15:27:18+00:00"
+        },
+        {
+            "title": "Pioneering Reliable Assessment in Text-to-Image Knowledge Editing: Leveraging a Fine-Grained Dataset and an Innovative Criterion",
+            "authors": "Hengrui Gu, Kaixiong Zhou, Yili Wang, Ruobing Wang, Xin Wang",
+            "summary": "During pre-training, the Text-to-Image (T2I) diffusion models encode factual\nknowledge into their parameters. These parameterized facts enable realistic\nimage generation, but they may become obsolete over time, thereby\nmisrepresenting the current state of the world. Knowledge editing techniques\naim to update model knowledge in a targeted way. However, facing the dual\nchallenges posed by inadequate editing datasets and unreliable evaluation\ncriterion, the development of T2I knowledge editing encounter difficulties in\neffectively generalizing injected knowledge. In this work, we design a T2I\nknowledge editing framework by comprehensively spanning on three phases: First,\nwe curate a dataset \\textbf{CAKE}, comprising paraphrase and multi-object test,\nto enable more fine-grained assessment on knowledge generalization. Second, we\npropose a novel criterion, \\textbf{adaptive CLIP threshold}, to effectively\nfilter out false successful images under the current criterion and achieve\nreliable editing evaluation. Finally, we introduce \\textbf{MPE}, a simple but\neffective approach for T2I knowledge editing. Instead of tuning parameters, MPE\nprecisely recognizes and edits the outdated part of the conditioning\ntext-prompt to accommodate the up-to-date knowledge. A straightforward\nimplementation of MPE (Based on in-context learning) exhibits better overall\nperformance than previous model editors. We hope these efforts can further\npromote faithful evaluation of T2I knowledge editing methods.",
+            "pdf_url": "http://arxiv.org/pdf/2409.17928v1",
+            "published": "2024-09-26 15:07:30+00:00",
+            "updated": "2024-09-26 15:07:30+00:00"
+        }
+    ]
+}
