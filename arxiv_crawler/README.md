@@ -62,6 +62,31 @@ TODO:
 
 
 
+
+## Update on 2024-10-01
+
+### Physics
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2024-09-30|2024-09-30|Doping a fractional quantum anomalous Hall insulator|Zhengyan Darius Shi|[2409.20567v1](http://arxiv.org/pdf/2409.20567v1)|
+|2024-09-30|2024-09-30|Annealing Flow Generative Model Towards Sampling High-Dimensional and Multi-Modal Distributions|Dongze Wu|[2409.20547v1](http://arxiv.org/pdf/2409.20547v1)|
+|2024-09-30|2024-09-30|Formally Verified Physics-Informed Neural Control Lyapunov Functions|Jun Liu|[2409.20528v1](http://arxiv.org/pdf/2409.20528v1)|
+|2024-09-30|2024-09-30|On Mixed Quantum/Classical Theory for Rotationally Inelastic Scattering of Identical Collision Partners|Dulat Bostan|[2409.20525v1](http://arxiv.org/pdf/2409.20525v1)|
+|2024-09-30|2024-09-30|JUTRACK: a Julia package for auto-differentiable accelerator modeling and particle tracking|Jinyu Wan|[2409.20522v1](http://arxiv.org/pdf/2409.20522v1)|
+|2024-09-30|2024-09-30|A physics-compliant diagonal representation for wireless channels parametrized by beyond-diagonal reconfigurable intelligent surfaces|Philipp del Hougne|[2409.20509v1](http://arxiv.org/pdf/2409.20509v1)|
+|2024-09-30|2024-09-30|Nanosecond hardware regression trees in FPGA at the LHC|Pavel Serhiayenka|[2409.20506v1](http://arxiv.org/pdf/2409.20506v1)|
+|2024-09-27|2024-09-30|Maximal device-independent randomness in every dimension|Máté Farkas|[2409.18916v2](http://arxiv.org/pdf/2409.18916v2)|
+|2024-04-09|2024-09-30|Sparse space-time resolvent analysis for statistically-stationary and time-varying flows|Barbara Lopez-Doriga|[2404.06331v2](http://arxiv.org/pdf/2404.06331v2)|
+|2024-09-30|2024-09-30|Uncovering Hidden Patterns: Approximate Resurgent Resummation from Truncated Series|Alessio Maiezza|[2409.20458v1](http://arxiv.org/pdf/2409.20458v1)|
+
+### Diffusion
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2024-09-30|2024-09-30|COLLAGE: Collaborative Human-Agent Interaction Generation using Hierarchical Latent Diffusion and Language Models|Divyanshu Daiya|[2409.20502v1](http://arxiv.org/pdf/2409.20502v1)|
+|2024-09-30|2024-09-30|POMONAG: Pareto-Optimal Many-Objective Neural Architecture Generator|Eugenio Lomurno|[2409.20447v1](http://arxiv.org/pdf/2409.20447v1)|
+|2024-09-16|2024-09-30|Manifold-Constrained Nucleus-Level Denoising Diffusion Model for Structure-Based Drug Design|Shengchao Liu|[2409.10584v2](http://arxiv.org/pdf/2409.10584v2)|
+|2024-09-30|2024-09-30|Enhancing GANs with Contrastive Learning-Based Multistage Progressive Finetuning SNN and RL-Based External Optimization|Osama Mustafa|[2409.20340v1](http://arxiv.org/pdf/2409.20340v1)|
+|2023-12-16|2024-09-30|Continuous Diffusion for Mixed-Type Tabular Data|Markus Mueller|[2312.10431v3](http://arxiv.org/pdf/2312.10431v3)|
 ## Update on 2024-09-27
 
 ### Physics
