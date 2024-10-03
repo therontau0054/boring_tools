@@ -63,6 +63,30 @@ TODO:
 
 
 
+
+## Update on 2024-10-03
+
+### Physics
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2024-10-02|2024-10-02|FabricDiffusion: High-Fidelity Texture Transfer for 3D Garments Generation from In-The-Wild Clothing Images|Cheng Zhang|[2410.01801v1](http://arxiv.org/pdf/2410.01801v1)|
+|2024-10-02|2024-10-02|Thermodynamic Bayesian Inference|Maxwell Aifer|[2410.01793v1](http://arxiv.org/pdf/2410.01793v1)|
+|2024-10-02|2024-10-02|Dynamical-generative downscaling of climate model ensembles|Ignacio Lopez-Gomez|[2410.01776v1](http://arxiv.org/pdf/2410.01776v1)|
+|2024-10-02|2024-10-02|$^{229}\mathrm{ThF}_4$ thin films for solid-state nuclear clocks|Chuankun Zhang|[2410.01753v1](http://arxiv.org/pdf/2410.01753v1)|
+|2024-10-02|2024-10-02|TorchSISSO: A PyTorch-Based Implementation of the Sure Independence Screening and Sparsifying Operator for Efficient and Interpretable Model Discovery|Madhav Muthyala|[2410.01752v1](http://arxiv.org/pdf/2410.01752v1)|
+|2024-06-12|2024-10-02|Strategies for Pretraining Neural Operators|Anthony Zhou|[2406.08473v2](http://arxiv.org/pdf/2406.08473v2)|
+|2023-11-13|2024-10-02|Observation of quantum entanglement in top-quark pairs using the ATLAS detector|ATLAS Collaboration|[2311.07288v3](http://arxiv.org/pdf/2311.07288v3)|
+|2024-10-02|2024-10-02|Mind Scramble: Unveiling Large Language Model Psychology Via Typoglycemia|Miao Yu|[2410.01677v1](http://arxiv.org/pdf/2410.01677v1)|
+|2024-10-02|2024-10-02|Path integral treatment of coherence effects in charmonium production in nuclear ultra-peripheral collisions|J. Óbertová|[2410.01668v1](http://arxiv.org/pdf/2410.01668v1)|
+|2024-10-02|2024-10-02|The Resonance Condition for Slow Wave Antennas: a Lagrangian Approach|Robert Nevels|[2410.01662v1](http://arxiv.org/pdf/2410.01662v1)|
+
+### Diffusion
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2024-10-02|2024-10-02|Bellman Diffusion: Generative Modeling as Learning a Linear Operator in the Distribution Space|Yangming Li|[2410.01796v1](http://arxiv.org/pdf/2410.01796v1)|
+|2024-10-02|2024-10-02|VitaGlyph: Vitalizing Artistic Typography with Flexible Dual-branch Diffusion Models|Kailai Feng|[2410.01738v1](http://arxiv.org/pdf/2410.01738v1)|
+|2024-09-15|2024-10-02|Latent Diffusion Models for Controllable RNA Sequence Generation|Kaixuan Huang|[2409.09828v2](http://arxiv.org/pdf/2409.09828v2)|
+|2024-10-02|2024-10-02|Data Extrapolation for Text-to-image Generation on Small Datasets|Senmao Ye|[2410.01638v1](http://arxiv.org/pdf/2410.01638v1)|
 ## Update on 2024-10-01
 
 ### Physics
