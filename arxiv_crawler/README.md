@@ -64,6 +64,31 @@ TODO:
 
 
 
+
+## Update on 2024-10-05
+
+### Physics
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2024-10-03|2024-10-03|Transverse Energy-Energy Correlator for Vector Boson-Tagged Hadron Production in $pp$ and $pA$ collisions|Zhong-Bo Kang|[2410.02747v1](http://arxiv.org/pdf/2410.02747v1)|
+|2024-10-03|2024-10-03|Grounding Large Language Models In Embodied Environment With Imperfect World Models|Haolan Liu|[2410.02742v1](http://arxiv.org/pdf/2410.02742v1)|
+|2024-10-03|2024-10-03|Duality between string and computational order in symmetry-enriched topological phases|Paul Herringer|[2410.02716v1](http://arxiv.org/pdf/2410.02716v1)|
+|2024-06-05|2024-10-03|VideoPhy: Evaluating Physical Commonsense for Video Generation|Hritik Bansal|[2406.03520v2](http://arxiv.org/pdf/2406.03520v2)|
+|2024-10-03|2024-10-03|Lie Algebra Canonicalization: Equivariant Neural Operators under arbitrary Lie Groups|Zakhar Shumaylov|[2410.02698v1](http://arxiv.org/pdf/2410.02698v1)|
+|2024-10-03|2024-10-03|Prospects of phase-adaptive cooling of levitated magnetic particles in a hollow-core photonic-crystal fibre|P. Kumar|[2410.02697v1](http://arxiv.org/pdf/2410.02697v1)|
+|2024-06-19|2024-10-03|Supergeometric Quantum Effective Action|Viola Gattus|[2406.13594v2](http://arxiv.org/pdf/2406.13594v2)|
+|2024-10-03|2024-10-03|GUD: Generation with Unified Diffusion|Mathis Gerdes|[2410.02667v1](http://arxiv.org/pdf/2410.02667v1)|
+|2024-10-03|2024-10-03|CAX: Cellular Automata Accelerated in JAX|Maxence Faldor|[2410.02651v1](http://arxiv.org/pdf/2410.02651v1)|
+|2024-10-03|2024-10-03|Quantum many-body solver using artificial neural networks and its applications to strongly correlated electron systems|Yusuke Nomura|[2410.02633v1](http://arxiv.org/pdf/2410.02633v1)|
+
+### Diffusion
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2024-10-03|2024-10-03|Revisit Large-Scale Image-Caption Data in Pre-training Multimodal Foundation Models|Zhengfeng Lai|[2410.02740v1](http://arxiv.org/pdf/2410.02740v1)|
+|2024-10-03|2024-10-03|NETS: A Non-Equilibrium Transport Sampler|Michael S. Albergo|[2410.02711v1](http://arxiv.org/pdf/2410.02711v1)|
+|2024-10-03|2024-10-03|SteerDiff: Steering towards Safe Text-to-Image Diffusion Models|Hongxiang Zhang|[2410.02710v1](http://arxiv.org/pdf/2410.02710v1)|
+|2024-10-03|2024-10-03|Undesirable Memorization in Large Language Models: A Survey|Ali Satvaty|[2410.02650v1](http://arxiv.org/pdf/2410.02650v1)|
+|2024-10-01|2024-10-03|NECOMIMI: Neural-Cognitive Multimodal EEG-informed Image Generation with Diffusion Models|Chi-Sheng Chen|[2410.00712v2](http://arxiv.org/pdf/2410.00712v2)|
 ## Update on 2024-10-03
 
 ### Physics
