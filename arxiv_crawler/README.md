@@ -65,6 +65,31 @@ TODO:
 
 
 
+
+## Update on 2024-10-07
+
+### Physics
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2023-06-29|2024-10-04|Scattering Spectra Models for Physics|Sihao Cheng|[2306.17210v2](http://arxiv.org/pdf/2306.17210v2)|
+|2022-12-28|2024-10-04|Quasilinear wave equations on asymptotically flat spacetimes with applications to Kerr black holes|Mihalis Dafermos|[2212.14093v2](http://arxiv.org/pdf/2212.14093v2)|
+|2024-10-04|2024-10-04|Quasilinear wave equations on Kerr black holes in the full subextremal range $|a|<M$|Mihalis Dafermos|[2410.03639v1](http://arxiv.org/pdf/2410.03639v1)|
+|2024-10-04|2024-10-04|Physically Agnostic Quasinormal Mode Expansion in Time Dispersive Structures:from Mechanical Vibrations to Nanophotonic Resonances|André Nicolet|[2410.03631v1](http://arxiv.org/pdf/2410.03631v1)|
+|2024-10-04|2024-10-04|The fine structure of the peaks of the correlation function in acoustic black holes: a complete analytical model|Paul R. Anderson|[2410.03629v1](http://arxiv.org/pdf/2410.03629v1)|
+|2023-11-26|2024-10-04|A concept of a para-hydrogen-based cold neutron source for simultaneous high flux and high brightness|Alexander Ioffe|[2311.15389v7](http://arxiv.org/pdf/2311.15389v7)|
+|2024-05-31|2024-10-04|LInK: Learning Joint Representations of Design and Performance Spaces through Contrastive Learning for Mechanism Synthesis|Amin Heyrani Nobari|[2405.20592v2](http://arxiv.org/pdf/2405.20592v2)|
+|2024-08-24|2024-10-04|Language Model Empowered Spatio-Temporal Forecasting via Physics-Aware Reprogramming|Hao Wang|[2408.14505v2](http://arxiv.org/pdf/2408.14505v2)|
+|2024-05-29|2024-10-04|BRST Covariant Phase Space and Holographic Ward Identities|Laurent Baulieu|[2405.18898v3](http://arxiv.org/pdf/2405.18898v3)|
+|2024-10-04|2024-10-04|HyResPINNs: Adaptive Hybrid Residual Networks for Learning Optimal Combinations of Neural and RBF Components for Physics-Informed Modeling|Madison Cooley|[2410.03573v1](http://arxiv.org/pdf/2410.03573v1)|
+
+### Diffusion
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2024-10-04|2024-10-04|Estimating Body and Hand Motion in an Ego-sensed World|Brent Yi|[2410.03665v1](http://arxiv.org/pdf/2410.03665v1)|
+|2024-10-04|2024-10-04|Geometric Representation Condition Improves Equivariant Molecule Generation|Zian Li|[2410.03655v1](http://arxiv.org/pdf/2410.03655v1)|
+|2024-10-04|2024-10-04|Real-World Benchmarks Make Membership Inference Attacks Fail on Diffusion Models|Chumeng Liang|[2410.03640v1](http://arxiv.org/pdf/2410.03640v1)|
+|2024-03-26|2024-10-04|AID: Attention Interpolation of Text-to-Image Diffusion|Qiyuan He|[2403.17924v3](http://arxiv.org/pdf/2403.17924v3)|
+|2024-10-04|2024-10-04|How Discrete and Continuous Diffusion Meet: Comprehensive Analysis of Discrete Diffusion Models via a Stochastic Integral Framework|Yinuo Ren|[2410.03601v1](http://arxiv.org/pdf/2410.03601v1)|
 ## Update on 2024-10-05
 
 ### Physics
