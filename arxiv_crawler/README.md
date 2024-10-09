@@ -66,6 +66,36 @@ TODO:
 
 
 
+
+## Update on 2024-10-09
+
+### Physics
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2024-10-07|2024-10-07|Simulation of the high Mach number asymptote for bubble collapse in a compressible Euler fluid|Daniels Krimans|[2410.05244v1](http://arxiv.org/pdf/2410.05244v1)|
+|2024-10-07|2024-10-07|How charming can the Higgs be?|Artemis Sofia Giannakopoulou|[2410.05236v1](http://arxiv.org/pdf/2410.05236v1)|
+|2024-02-23|2024-10-07|Resisting high-energy impact events through gap engineering in superconducting qubit arrays|Matt McEwen|[2402.15644v2](http://arxiv.org/pdf/2402.15644v2)|
+|2024-07-06|2024-10-07|Integrable Cosmological Models with an Arbitrary Number of Scalar Fields|V. R. Ivanov|[2407.05002v2](http://arxiv.org/pdf/2407.05002v2)|
+|2024-10-07|2024-10-07|Update of the Brazilian Participation in the Next-Generation Collider Experiments|W. L. Aldá Júnior|[2410.05205v1](http://arxiv.org/pdf/2410.05205v1)|
+|2024-10-07|2024-10-07|Provably Positivity-Preserving Constrained Transport (PPCT) Second-Order Scheme for Ideal Magnetohydrodynamics|Dongwen Pang|[2410.05173v1](http://arxiv.org/pdf/2410.05173v1)|
+|2024-10-07|2024-10-07|Hybrid optical sensor for combined thermal and dimensional monitoring in laser processing|Simone Donadello|[2410.05144v1](http://arxiv.org/pdf/2410.05144v1)|
+|2024-04-18|2024-10-07|Investigating Guiding Information for Adaptive Collocation Point Sampling in PINNs|Jose Florido|[2404.12282v2](http://arxiv.org/pdf/2404.12282v2)|
+|2024-10-07|2024-10-07|Solvability of MHS equations with Grad-Rubin boundary conditions in general domains|Daniel Sánchez-Simón del Pino|[2410.05119v1](http://arxiv.org/pdf/2410.05119v1)|
+|2024-10-07|2024-10-07|Analyzing the $D^*D^*D^*$ system: Hexaquark states and the Efimov effect|Pablo G. Ortega|[2410.05118v1](http://arxiv.org/pdf/2410.05118v1)|
+
+### Diffusion
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2024-10-07|2024-10-07|SePPO: Semi-Policy Preference Optimization for Diffusion Alignment|Daoan Zhang|[2410.05255v1](http://arxiv.org/pdf/2410.05255v1)|
+|2024-10-07|2024-10-07|Presto! Distilling Steps and Layers for Accelerating Music Generation|Zachary Novack|[2410.05167v1](http://arxiv.org/pdf/2410.05167v1)|
+|2024-10-07|2024-10-07|A Simulation-Free Deep Learning Approach to Stochastic Optimal Control|Mengjian Hua|[2410.05163v1](http://arxiv.org/pdf/2410.05163v1)|
+|2024-10-07|2024-10-07|Human-Feedback Efficient Reinforcement Learning for Online Diffusion Model Finetuning|Ayano Hiranaka|[2410.05116v1](http://arxiv.org/pdf/2410.05116v1)|
+|2024-05-23|2024-10-07|Autoregressive Image Diffusion: Generation of Image Sequence and Application in MRI|Guanxiong Luo|[2405.14327v4](http://arxiv.org/pdf/2405.14327v4)|
+
+### Quantitative Finance
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2024-10-06|2024-10-06|The Fourier Cosine Method for Discrete Probability Distributions|Xiaoyu Shen|[2410.04487v1](http://arxiv.org/pdf/2410.04487v1)|
 ## Update on 2024-10-07
 
 ### Physics
