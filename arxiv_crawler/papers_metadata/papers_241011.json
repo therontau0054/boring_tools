@@ -1,0 +1,144 @@
+{
+    "Physics": [
+        {
+            "title": "A universal speed limit for spreading of quantum coherence",
+            "authors": "Gevorg Martirosyan, Martin Gazo, Ji\u0159\u00ed Etrych, Simon M. Fischer, Sebastian J. Morris, Christopher J. Ho, Christoph Eigen, Zoran Hadzibabic",
+            "summary": "Discoveries of fundamental limits for the rates of physical processes, from\nthe speed of light to the Lieb-Robinson bound for information propagation, are\nconceptual breakthroughs that often challenge our understanding of the\nunderlying physics. Here we observe such a limit for a paradigmatic many-body\nphenomenon, the spreading of coherence during formation of a weakly interacting\nBose-Einstein condensate. We study condensate formation in an isolated\nhomogeneous atomic gas that is initially far from equilibrium, in an incoherent\nlow-energy state, and condenses as it relaxes towards equilibrium. Tuning the\ninter-atomic interactions that drive condensation, we show that the spreading\nof coherence through the system is initially slower for weaker interactions,\nand faster for stronger ones, but always eventually reaches the same limit,\nwhere the square of the coherence length grows at a universal rate given by the\nratio of Planck's constant and the particle mass. These observations are robust\nto changes in the initial state, the gas density, and the system size. Our\nexperiments provide benchmarks for theories of universality far from\nequilibrium and invite similar measurements in other quantum systems.",
+            "pdf_url": "http://arxiv.org/pdf/2410.08204v1",
+            "published": "2024-10-10 17:59:41+00:00",
+            "updated": "2024-10-10 17:59:41+00:00"
+        },
+        {
+            "title": "Synthesis of single-cycle pulses based on a Yb:KGW laser amplifier",
+            "authors": "Zekun Pi, Hee-Yong Kim, Eleftherios Goulielmakis",
+            "summary": "Yb:KGW lasers have been gaining increasing importance in ultrafast and\nstrong-field physics, but their compression to the single- and sub- cycle\nregime remains a challenge. Here, we utilized a dual hollow-core fiber module\nfor the spectral broadening of Yb:KGW pulses to more than 3.5 optical octaves,\nfrom the short-wave infrared (~1900 nm) to vacuum ultraviolet (~170 nm). A\nlight-field-synthesizer compressed a large portion of this bandwidth (380-1000\nnm) to single-cycle pulses for the first time, based on Yb:KGW technology. Our\nwork opens the door to attaining new regimes of control and temporal\ncompression of light pulses and their advanced applications in ultrafast\nspectroscopy.",
+            "pdf_url": "http://arxiv.org/pdf/2410.08183v1",
+            "published": "2024-10-10 17:55:05+00:00",
+            "updated": "2024-10-10 17:55:05+00:00"
+        },
+        {
+            "title": "Local superconformal algebras",
+            "authors": "Fabian Hahner, Surya Raghavendran, Ingmar Saberi, Brian R. Williams",
+            "summary": "Given a supermanifold equipped with an odd distribution of maximal dimension\nand constant symbol, we construct the formal moduli problem of deformations of\nthe distribution. This moduli problem is described by a local super dg Lie\nalgebra that provides both a resolution of the structure-preserving vector\nfields on superspace and a derived enhancement of superconformal symmetry.\nApplying our construction in standard physical examples returns the conformal\nsupergravity multiplet in every known example, in any dimension and with any\namount of supersymmetry$\\unicode{x2014}$whether or not a superconformal algebra\nexists. We discuss new examples related to twisted supergravity, higher\nVirasoro algebras, and exceptional super Lie algebras. The compatibility of our\ntechniques with twisting also leads to a computation of every twist of the\nstress tensor multiplet of a superconformal theory, including universal\noperator product expansions. Our approach uses a derived model for the space of\nfunctions constant along the distribution, which is applicable even when the\ndistribution is non-involutive; we construct other natural multiplets, such as\nK\\\"ahler differentials, that appear naturally through this lens on superspace\ngeometry.",
+            "pdf_url": "http://arxiv.org/pdf/2410.08176v1",
+            "published": "2024-10-10 17:51:47+00:00",
+            "updated": "2024-10-10 17:51:47+00:00"
+        },
+        {
+            "title": "Field structures and singularities in subwavelength optics",
+            "authors": "M. I. Tribelsky, B. S. Luk'yanchuk",
+            "summary": "A brief overview of the current state of the problem of electromagnetic field\nsingularities arising from the refraction and scattering of light by material\nobjects is given. The discussion begins with caustics arising from ray tracing\nin geometric optics and consistently moves toward increasing the accuracy of\nconsideration and decreasing the scale, ending with a description of\nsingularities in light scattering by subwavelength particles. Common and\ndistinctive features of various types of singularities, the role of the\nsymmetry of the problem and the law of conservation of energy are revealed.\nPhysical foundations and methods for overcoming the diffraction limit are\ndiscussed. The theoretical description is illustrated by experimental examples.\nVarious practical applications of the effects under consideration are\nindicated.",
+            "pdf_url": "http://arxiv.org/pdf/2410.08166v1",
+            "published": "2024-10-10 17:44:46+00:00",
+            "updated": "2024-10-10 17:44:46+00:00"
+        },
+        {
+            "title": "6DGS: Enhanced Direction-Aware Gaussian Splatting for Volumetric Rendering",
+            "authors": "Zhongpai Gao, Benjamin Planche, Meng Zheng, Anwesa Choudhuri, Terrence Chen, Ziyan Wu",
+            "summary": "Novel view synthesis has advanced significantly with the development of\nneural radiance fields (NeRF) and 3D Gaussian splatting (3DGS). However,\nachieving high quality without compromising real-time rendering remains\nchallenging, particularly for physically-based ray tracing with view-dependent\neffects. Recently, N-dimensional Gaussians (N-DG) introduced a 6D\nspatial-angular representation to better incorporate view-dependent effects,\nbut the Gaussian representation and control scheme are sub-optimal. In this\npaper, we revisit 6D Gaussians and introduce 6D Gaussian Splatting (6DGS),\nwhich enhances color and opacity representations and leverages the additional\ndirectional information in the 6D space for optimized Gaussian control. Our\napproach is fully compatible with the 3DGS framework and significantly improves\nreal-time radiance field rendering by better modeling view-dependent effects\nand fine details. Experiments demonstrate that 6DGS significantly outperforms\n3DGS and N-DG, achieving up to a 15.73 dB improvement in PSNR with a reduction\nof 66.5% Gaussian points compared to 3DGS. The project page is:\nhttps://gaozhongpai.github.io/6dgs/",
+            "pdf_url": "http://arxiv.org/pdf/2410.04974v2",
+            "published": "2024-10-07 12:16:36+00:00",
+            "updated": "2024-10-10 17:25:35+00:00"
+        },
+        {
+            "title": "No-hair and almost-no-hair results for static axisymmetric black holes and ultracompact objects in astrophysical environments",
+            "authors": "Carlos Barcel\u00f3, Ra\u00fal Carballo-Rubio, Luis J. Garay, Gerardo Garc\u00eda-Moreno",
+            "summary": "No-hair theorems are uniqueness results constraining the form of the metric\nof black holes in general relativity. These theorems are typically formulated\nunder idealized assumptions, involving a mixture of local (regularity of the\nhorizon) and global aspects (vacuum spacetime and asymptotic flatness). This\nlimits their applicability to astrophysical scenarios of interest such as\nbinary black holes and accreting systems, as well as their extension to\nhorizonless objects. A previous result due to G\\\"urlebeck constrains the\nasymptotic multipolar structure of static spacetimes containing black holes\nsurrounded by matter although not revealing the possible structure of the\nmetric itself. In this work, we disentangle some of these assumptions in the\nstatic and axisymmetric case. Specifically: i) we show that only a\none-parameter family of black-hole geometries is compatible with a given\nexternal gravitational field, ii) we also analyze the case in which the central\nobject is close to forming an event horizon but is still horizonless and show\nthat the deviations from the natural black-hole shape have to die off as one\napproaches the black hole limit under the physical principle that curvatures\nare bounded.",
+            "pdf_url": "http://arxiv.org/pdf/2410.08128v1",
+            "published": "2024-10-10 17:12:59+00:00",
+            "updated": "2024-10-10 17:12:59+00:00"
+        },
+        {
+            "title": "MSPINN: Multiple scale method integrated physics-informed neural networks for reconstructing transient natural convection",
+            "authors": "Nagahiro Ohashi, Nam Phuong Nguyen, Leslie K. Hwang, Beomjin Kwon",
+            "summary": "This study employs physics-informed neural networks (PINNs) to reconstruct\nmultiple flow fields in a transient natural convection system solely based on\ninstantaneous temperature data at an arbitrary moment. Transient convection\nproblems present reconstruction challenges due to the temporal variability of\nfields across different flow phases. In general, large reconstruction errors\nare observed during the incipient phase, while the quasi-steady phase exhibits\nrelatively smaller errors, reduced by a factor of 2 to 4. We hypothesize that\nreconstruction errors vary across different flow phases due to the changing\nsolution space of a PINN, inferred from the temporal gradients of the fields.\nFurthermore, we find that reconstruction errors tend to accumulate in regions\nwhere the spatial gradients are smaller than the order of $10^{-6}$, likely due\nto the vanishing gradient phenomenon. In convection phenomena, field variations\noften manifest across multiple scales in space. However, PINN-based\nreconstruction tends to preserve larger-scale variations, while smaller-scale\nvariations become less pronounced due to the vanishing gradient problem. To\nmitigate the errors associated with vanishing gradients, we introduce a\nmulti-scale approach that determines scaling constants for the PINN inputs and\nreformulates inputs across multiple scales. This approach improves the maximum\nand mean errors by 72.2% and 6.4%, respectively. Our research provides insights\ninto the behavior of PINNs when applied to transient convection problems with\nlarge solution space and field variations across multiple scales.",
+            "pdf_url": "http://arxiv.org/pdf/2410.05515v2",
+            "published": "2024-10-07 21:41:24+00:00",
+            "updated": "2024-10-10 17:11:52+00:00"
+        },
+        {
+            "title": "Chaotic motion of particles in the spacetime of a Kerr black hole immersed in swirling universes",
+            "authors": "Deshui Cao, Lina Zhang, Songbai Chen, Qiyuan Pan, Jiliang Jing",
+            "summary": "We investigate the motion of particles in the spacetime of a Kerr black hole\nimmersed in swirling universes. Using the Poincar\\'{e} section, fast Lyapunov\nexponent indicator, bifurcation diagram and basins of attraction, we present\nthe effects of the swirling parameter and the spin parameter on the dynamical\nbehaviors of the motion of particles, and confirm the presence of chaos in the\nmotion of particles in this background spacetime. We find that the swirling\nparameter can change the range of the spin parameter where the chaos occurs,\nand vice versa. Moreover, we observe clearly that, regardless of the spin\nparameter, there exist some self-similar fractal fine structures in the basins\nboundaries of attractors for the spacetime of a black hole immersed in swirling\nuniverses. The combination the swirling parameter and the spin parameter\nprovides richer physics in the motion of particles.",
+            "pdf_url": "http://arxiv.org/pdf/2410.03214v2",
+            "published": "2024-10-04 08:00:42+00:00",
+            "updated": "2024-10-10 17:09:13+00:00"
+        },
+        {
+            "title": "On cat-human interaction from the viewpoint of physics: an equation of motion",
+            "authors": "Anxo Biasi",
+            "summary": "This paper provides an enjoyable example through which several concepts of\nclassical mechanics can be understood. We introduce an equation that models the\nmotion of a cat in the presence of a person. The cat is considered as a point\nparticle moving in a potential induced by the person. We demonstrate that this\napproach to the problem reproduces characteristic behaviors of these curious\nanimals. For instance, the fact that cats do not typically come when they are\ncalled, or that they remain longer on the lap of their favorite person; even\n\"zoomies\" are reproduced (cats randomly run back and forth across the house).\nWe use this model problem to explore topics of current research such as\nstochastic equations and periodically driven systems. The pedagogical value of\nthis work and its potential use in teaching are discussed.",
+            "pdf_url": "http://arxiv.org/pdf/2409.05400v2",
+            "published": "2024-09-09 07:57:26+00:00",
+            "updated": "2024-10-10 17:08:23+00:00"
+        },
+        {
+            "title": "Four-loop splitting functions in QCD -- The gluon-gluon case --",
+            "authors": "G. Falcioni, F. Herzog, S. Moch, A. Pelloni, A. Vogt",
+            "summary": "We have computed the even-N moments N =< 20 of the gluon-gluon splitting\nfunction P_{gg} at the fourth order of perturbative QCD via the renormalization\nof off-shell operator matrix elements. Our results, derived analytically for a\ngeneral compact simple gauge group, agree with all results obtained for this\nfunction so far, in particular with the lowest five moments obtained via\nstructure functions in deep-inelastic scattering. Using our new moments and all\navailable endpoint constraints, we construct improved approximations for the\nfour-loop P_{gg}(x) that should be sufficient for a wide range of\ncollider-physics applications. The N^3LO contributions to the scale derivative\nof the gluon distribution, resulting from these and the corresponding\nquark-to-gluon splitting functions, amount to 1% or less at x >~ 10^{-4} at a\nstandard reference scale with alpha_s = 0.2.",
+            "pdf_url": "http://arxiv.org/pdf/2410.08089v1",
+            "published": "2024-10-10 16:31:51+00:00",
+            "updated": "2024-10-10 16:31:51+00:00"
+        }
+    ],
+    "Diffusion": [
+        {
+            "title": "Emerging Pixel Grounding in Large Multimodal Models Without Grounding Supervision",
+            "authors": "Shengcao Cao, Liang-Yan Gui, Yu-Xiong Wang",
+            "summary": "Current large multimodal models (LMMs) face challenges in grounding, which\nrequires the model to relate language components to visual entities. Contrary\nto the common practice that fine-tunes LMMs with additional grounding\nsupervision, we find that the grounding ability can in fact emerge in LMMs\ntrained without explicit grounding supervision. To reveal this emerging\ngrounding, we introduce an \"attend-and-segment\" method which leverages\nattention maps from standard LMMs to perform pixel-level segmentation.\nFurthermore, to enhance the grounding ability, we propose DIFFLMM, an LMM\nutilizing a diffusion-based visual encoder, as opposed to the standard CLIP\nvisual encoder, and trained with the same weak supervision. Without being\nconstrained by the biases and limited scale of grounding-specific supervision\ndata, our approach is more generalizable and scalable. We achieve competitive\nperformance on both grounding-specific and general visual question answering\nbenchmarks, compared with grounding LMMs and generalist LMMs, respectively.\nNotably, we achieve a 44.2 grounding mask recall on grounded conversation\ngeneration without any grounding supervision, outperforming the extensively\nsupervised model GLaMM. Project page: https://groundLMM.github.io.",
+            "pdf_url": "http://arxiv.org/pdf/2410.08209v1",
+            "published": "2024-10-10 17:59:55+00:00",
+            "updated": "2024-10-10 17:59:55+00:00"
+        },
+        {
+            "title": "DICE: Discrete Inversion Enabling Controllable Editing for Multinomial Diffusion and Masked Generative Models",
+            "authors": "Xiaoxiao He, Ligong Han, Quan Dao, Song Wen, Minhao Bai, Di Liu, Han Zhang, Martin Renqiang Min, Felix Juefei-Xu, Chaowei Tan, Bo Liu, Kang Li, Hongdong Li, Junzhou Huang, Faez Ahmed, Akash Srivastava, Dimitris Metaxas",
+            "summary": "Discrete diffusion models have achieved success in tasks like image\ngeneration and masked language modeling but face limitations in controlled\ncontent editing. We introduce DICE (Discrete Inversion for Controllable\nEditing), the first approach to enable precise inversion for discrete diffusion\nmodels, including multinomial diffusion and masked generative models. By\nrecording noise sequences and masking patterns during the reverse diffusion\nprocess, DICE enables accurate reconstruction and flexible editing of discrete\ndata without the need for predefined masks or attention manipulation. We\ndemonstrate the effectiveness of DICE across both image and text domains,\nevaluating it on models such as VQ-Diffusion, Paella, and RoBERTa. Our results\nshow that DICE preserves high data fidelity while enhancing editing\ncapabilities, offering new opportunities for fine-grained content manipulation\nin discrete spaces. For project webpage, see\nhttps://hexiaoxiao-cs.github.io/DICE/.",
+            "pdf_url": "http://arxiv.org/pdf/2410.08207v1",
+            "published": "2024-10-10 17:59:48+00:00",
+            "updated": "2024-10-10 17:59:48+00:00"
+        },
+        {
+            "title": "Sparse Repellency for Shielded Generation in Text-to-image Diffusion Models",
+            "authors": "Michael Kirchhof, James Thornton, Pierre Ablin, Louis B\u00e9thune, Eugene Ndiaye, Marco Cuturi",
+            "summary": "The increased adoption of diffusion models in text-to-image generation has\ntriggered concerns on their reliability. Such models are now closely\nscrutinized under the lens of various metrics, notably calibration, fairness,\nor compute efficiency. We focus in this work on two issues that arise when\ndeploying these models: a lack of diversity when prompting images, and a\ntendency to recreate images from the training set. To solve both problems, we\npropose a method that coaxes the sampled trajectories of pretrained diffusion\nmodels to land on images that fall outside of a reference set. We achieve this\nby adding repellency terms to the diffusion SDE throughout the generation\ntrajectory, which are triggered whenever the path is expected to land too\nclosely to an image in the shielded reference set. Our method is sparse in the\nsense that these repellency terms are zero and inactive most of the time, and\neven more so towards the end of the generation trajectory. Our method, named\nSPELL for sparse repellency, can be used either with a static reference set\nthat contains protected images, or dynamically, by updating the set at each\ntimestep with the expected images concurrently generated within a batch. We\nshow that adding SPELL to popular diffusion models improves their diversity\nwhile impacting their FID only marginally, and performs comparatively better\nthan other recent training-free diversity methods. We also demonstrate how\nSPELL can ensure a shielded generation away from a very large set of protected\nimages by considering all 1.2M images from ImageNet as the protected set.",
+            "pdf_url": "http://arxiv.org/pdf/2410.06025v2",
+            "published": "2024-10-08 13:26:32+00:00",
+            "updated": "2024-10-10 17:59:16+00:00"
+        },
+        {
+            "title": "DifFRelight: Diffusion-Based Facial Performance Relighting",
+            "authors": "Mingming He, Pascal Clausen, Ahmet Levent Ta\u015fel, Li Ma, Oliver Pilarski, Wenqi Xian, Laszlo Rikker, Xueming Yu, Ryan Burgert, Ning Yu, Paul Debevec",
+            "summary": "We present a novel framework for free-viewpoint facial performance relighting\nusing diffusion-based image-to-image translation. Leveraging a subject-specific\ndataset containing diverse facial expressions captured under various lighting\nconditions, including flat-lit and one-light-at-a-time (OLAT) scenarios, we\ntrain a diffusion model for precise lighting control, enabling high-fidelity\nrelit facial images from flat-lit inputs. Our framework includes\nspatially-aligned conditioning of flat-lit captures and random noise, along\nwith integrated lighting information for global control, utilizing prior\nknowledge from the pre-trained Stable Diffusion model. This model is then\napplied to dynamic facial performances captured in a consistent flat-lit\nenvironment and reconstructed for novel-view synthesis using a scalable dynamic\n3D Gaussian Splatting method to maintain quality and consistency in the relit\nresults. In addition, we introduce unified lighting control by integrating a\nnovel area lighting representation with directional lighting, allowing for\njoint adjustments in light size and direction. We also enable high dynamic\nrange imaging (HDRI) composition using multiple directional lights to produce\ndynamic sequences under complex lighting conditions. Our evaluations\ndemonstrate the models efficiency in achieving precise lighting control and\ngeneralizing across various facial expressions while preserving detailed\nfeatures such as skintexture andhair. The model accurately reproduces complex\nlighting effects like eye reflections, subsurface scattering, self-shadowing,\nand translucency, advancing photorealism within our framework.",
+            "pdf_url": "http://arxiv.org/pdf/2410.08188v1",
+            "published": "2024-10-10 17:56:44+00:00",
+            "updated": "2024-10-10 17:56:44+00:00"
+        },
+        {
+            "title": "DART: Denoising Autoregressive Transformer for Scalable Text-to-Image Generation",
+            "authors": "Jiatao Gu, Yuyang Wang, Yizhe Zhang, Qihang Zhang, Dinghuai Zhang, Navdeep Jaitly, Josh Susskind, Shuangfei Zhai",
+            "summary": "Diffusion models have become the dominant approach for visual generation.\nThey are trained by denoising a Markovian process that gradually adds noise to\nthe input. We argue that the Markovian property limits the models ability to\nfully utilize the generation trajectory, leading to inefficiencies during\ntraining and inference. In this paper, we propose DART, a transformer-based\nmodel that unifies autoregressive (AR) and diffusion within a non-Markovian\nframework. DART iteratively denoises image patches spatially and spectrally\nusing an AR model with the same architecture as standard language models. DART\ndoes not rely on image quantization, enabling more effective image modeling\nwhile maintaining flexibility. Furthermore, DART seamlessly trains with both\ntext and image data in a unified model. Our approach demonstrates competitive\nperformance on class-conditioned and text-to-image generation tasks, offering a\nscalable, efficient alternative to traditional diffusion models. Through this\nunified framework, DART sets a new benchmark for scalable, high-quality image\nsynthesis.",
+            "pdf_url": "http://arxiv.org/pdf/2410.08159v1",
+            "published": "2024-10-10 17:41:54+00:00",
+            "updated": "2024-10-10 17:41:54+00:00"
+        }
+    ],
+    "Quantitative Finance": [
+        {
+            "title": "Optimal hedging with variational preferences under convex risk measures",
+            "authors": "Marcelo Righi",
+            "summary": "We expose a theoretical hedging optimization framework with variational\npreferences under convex risk measures. We explore a general dual\nrepresentation for the composition between risk measures and utilities. We\nstudy the properties of the optimization problem as a convex and monotone map\nper se. We also derive results for optimality and indifference pricing\nconditions. We also explore particular examples inside our setup.",
+            "pdf_url": "http://arxiv.org/pdf/2407.03431v2",
+            "published": "2024-07-03 18:17:10+00:00",
+            "updated": "2024-10-10 14:10:00+00:00"
+        },
+        {
+            "title": "Coherent risk measures and uniform integrability",
+            "authors": "Muqiao Huang, Ruodu Wang",
+            "summary": "We establish a profound connection between coherent risk measures, a\nprominent object in quantitative finance, and uniform integrability, a\nfundamental concept in probability theory. Instead of working with absolute\nvalues of random variables, which is convenient in studying integrability, we\nwork directly with random loses and gains, which have clear financial\ninterpretation. We introduce a technical tool called the folding score of\ndistortion risk measures. The analysis of the folding score allows us to\nconvert some conditions on absolute values to those on gains and losses. As our\nmain results, we obtain three sets of equivalent conditions for uniform\nintegrability. In particular, a set is uniformly integrable if and only if one\ncan find a coherent distortion risk measure that is bounded on the set, but not\nfinite on $L^1$.",
+            "pdf_url": "http://arxiv.org/pdf/2404.03783v2",
+            "published": "2024-04-04 19:54:37+00:00",
+            "updated": "2024-10-07 19:30:33+00:00"
+        }
+    ]
+}

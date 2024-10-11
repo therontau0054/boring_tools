@@ -67,6 +67,37 @@ TODO:
 
 
 
+
+## Update on 2024-10-11
+
+### Physics
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2024-10-10|2024-10-10|A universal speed limit for spreading of quantum coherence|Gevorg Martirosyan|[2410.08204v1](http://arxiv.org/pdf/2410.08204v1)|
+|2024-10-10|2024-10-10|Synthesis of single-cycle pulses based on a Yb:KGW laser amplifier|Zekun Pi|[2410.08183v1](http://arxiv.org/pdf/2410.08183v1)|
+|2024-10-10|2024-10-10|Local superconformal algebras|Fabian Hahner|[2410.08176v1](http://arxiv.org/pdf/2410.08176v1)|
+|2024-10-10|2024-10-10|Field structures and singularities in subwavelength optics|M. I. Tribelsky|[2410.08166v1](http://arxiv.org/pdf/2410.08166v1)|
+|2024-10-07|2024-10-10|6DGS: Enhanced Direction-Aware Gaussian Splatting for Volumetric Rendering|Zhongpai Gao|[2410.04974v2](http://arxiv.org/pdf/2410.04974v2)|
+|2024-10-10|2024-10-10|No-hair and almost-no-hair results for static axisymmetric black holes and ultracompact objects in astrophysical environments|Carlos Barceló|[2410.08128v1](http://arxiv.org/pdf/2410.08128v1)|
+|2024-10-07|2024-10-10|MSPINN: Multiple scale method integrated physics-informed neural networks for reconstructing transient natural convection|Nagahiro Ohashi|[2410.05515v2](http://arxiv.org/pdf/2410.05515v2)|
+|2024-10-04|2024-10-10|Chaotic motion of particles in the spacetime of a Kerr black hole immersed in swirling universes|Deshui Cao|[2410.03214v2](http://arxiv.org/pdf/2410.03214v2)|
+|2024-09-09|2024-10-10|On cat-human interaction from the viewpoint of physics: an equation of motion|Anxo Biasi|[2409.05400v2](http://arxiv.org/pdf/2409.05400v2)|
+|2024-10-10|2024-10-10|Four-loop splitting functions in QCD -- The gluon-gluon case --|G. Falcioni|[2410.08089v1](http://arxiv.org/pdf/2410.08089v1)|
+
+### Diffusion
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2024-10-10|2024-10-10|Emerging Pixel Grounding in Large Multimodal Models Without Grounding Supervision|Shengcao Cao|[2410.08209v1](http://arxiv.org/pdf/2410.08209v1)|
+|2024-10-10|2024-10-10|DICE: Discrete Inversion Enabling Controllable Editing for Multinomial Diffusion and Masked Generative Models|Xiaoxiao He|[2410.08207v1](http://arxiv.org/pdf/2410.08207v1)|
+|2024-10-08|2024-10-10|Sparse Repellency for Shielded Generation in Text-to-image Diffusion Models|Michael Kirchhof|[2410.06025v2](http://arxiv.org/pdf/2410.06025v2)|
+|2024-10-10|2024-10-10|DifFRelight: Diffusion-Based Facial Performance Relighting|Mingming He|[2410.08188v1](http://arxiv.org/pdf/2410.08188v1)|
+|2024-10-10|2024-10-10|DART: Denoising Autoregressive Transformer for Scalable Text-to-Image Generation|Jiatao Gu|[2410.08159v1](http://arxiv.org/pdf/2410.08159v1)|
+
+### Quantitative Finance
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2024-07-03|2024-10-10|Optimal hedging with variational preferences under convex risk measures|Marcelo Righi|[2407.03431v2](http://arxiv.org/pdf/2407.03431v2)|
+|2024-04-04|2024-10-07|Coherent risk measures and uniform integrability|Muqiao Huang|[2404.03783v2](http://arxiv.org/pdf/2404.03783v2)|
 ## Update on 2024-10-09
 
 ### Physics
