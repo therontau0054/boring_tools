@@ -68,6 +68,37 @@ TODO:
 
 
 
+
+## Update on 2024-10-15
+
+### Physics
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2024-10-14|2024-10-14|General Signals for Charged Lepton Flavor Violating Decays|Spencer Chang|[2410.10778v1](http://arxiv.org/pdf/2410.10778v1)|
+|2024-10-14|2024-10-14|Adaptive Diffusion Terrain Generator for Autonomous Uneven Terrain Navigation|Youwei Yu|[2410.10766v1](http://arxiv.org/pdf/2410.10766v1)|
+|2024-10-14|2024-10-14|Probing topological phases in a perturbed Kane-Mele model via RKKY interaction: Application to monolayer jacutingaite Pt$_2$HgSe$_3$|Mohsen Yarmohammadi|[2410.10764v1](http://arxiv.org/pdf/2410.10764v1)|
+|2024-04-30|2024-10-14|Towards Generalist Robot Learning from Internet Video: A Survey|Robert McCarthy|[2404.19664v3](http://arxiv.org/pdf/2404.19664v3)|
+|2024-10-14|2024-10-14|SensorBench: Benchmarking LLMs in Coding-Based Sensor Processing|Pengrui Quan|[2410.10741v1](http://arxiv.org/pdf/2410.10741v1)|
+|2024-10-14|2024-10-14|DrivingDojo Dataset: Advancing Interactive and Knowledge-Enriched Driving World Model|Yuqi Wang|[2410.10738v1](http://arxiv.org/pdf/2410.10738v1)|
+|2024-10-14|2024-10-14|High sensitivity pressure and temperature quantum sensing in organic crystals|Harpreet Singh|[2410.10705v1](http://arxiv.org/pdf/2410.10705v1)|
+|2024-10-14|2024-10-14|Spontaneous emergence of phonon angular momentum through hybridization with magnons|Honglie Ning|[2410.10693v1](http://arxiv.org/pdf/2410.10693v1)|
+|2024-08-15|2024-10-14|Enhanced Quantum Energy Teleportation using a 3-Qubit System|Md Shoyib Hassan|[2408.07997v5](http://arxiv.org/pdf/2408.07997v5)|
+|2024-08-01|2024-10-14|Petz map recovery for long-range entangled quantum many-body states|Yangrui Hu|[2408.00857v3](http://arxiv.org/pdf/2408.00857v3)|
+
+### Diffusion
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2024-10-14|2024-10-14|Depth Any Video with Scalable Synthetic Data|Honghui Yang|[2410.10815v1](http://arxiv.org/pdf/2410.10815v1)|
+|2024-10-14|2024-10-14|HART: Efficient Visual Generation with Hybrid Autoregressive Transformer|Haotian Tang|[2410.10812v1](http://arxiv.org/pdf/2410.10812v1)|
+|2024-10-14|2024-10-14|TrajDiffuse: A Conditional Diffusion Model for Environment-Aware Trajectory Prediction|Qingze|[2410.10804v1](http://arxiv.org/pdf/2410.10804v1)|
+|2024-10-14|2024-10-14|Generalizable Humanoid Manipulation with Improved 3D Diffusion Policies|Yanjie Ze|[2410.10803v1](http://arxiv.org/pdf/2410.10803v1)|
+|2024-10-14|2024-10-14|Boosting Camera Motion Control for Video Diffusion Transformers|Soon Yau Cheong|[2410.10802v1](http://arxiv.org/pdf/2410.10802v1)|
+
+### Quantitative Finance
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2024-10-13|2024-10-13|Backtesting Framework for Concentrated Liquidity Market Makers on Uniswap V3 Decentralized Exchange|Andrey Urusov|[2410.09983v1](http://arxiv.org/pdf/2410.09983v1)|
+|2024-10-11|2024-10-11|Scalable Signature-Based Distribution Regression via Reference Sets|Andrew Alden|[2410.09196v1](http://arxiv.org/pdf/2410.09196v1)|
 ## Update on 2024-10-11
 
 ### Physics
