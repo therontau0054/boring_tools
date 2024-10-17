@@ -69,6 +69,31 @@ TODO:
 
 
 
+
+## Update on 2024-10-17
+
+### Physics
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2024-09-17|2024-10-16|Non-Universality from Conserved Superoperators in Unitary Circuits|Marco Lastres|[2409.11407v2](http://arxiv.org/pdf/2409.11407v2)|
+|2024-10-16|2024-10-16|Optomechanical self-organization in a mesoscopic atom array|Jacquelyn Ho|[2410.12754v1](http://arxiv.org/pdf/2410.12754v1)|
+|2024-10-11|2024-10-16|A transformational approach to collective behavior|Michael E. Glinsky|[2410.08558v2](http://arxiv.org/pdf/2410.08558v2)|
+|2024-10-16|2024-10-16|Quantum Embedding of Non-local Quantum Many-body Interactions in Prototypal Anti-tumor Vaccine Metalloprotein on Near Term Quantum Computing Hardware|Elena Chachkarova|[2410.12733v1](http://arxiv.org/pdf/2410.12733v1)|
+|2024-07-25|2024-10-16|Measurement of muon flux behind the beam dump of the J-PARC Hadron Experimental Facility|T. Matsumura|[2407.17868v2](http://arxiv.org/pdf/2407.17868v2)|
+|2024-10-16|2024-10-16|The bulk one-arm exponent for the CLE$_{κ'}$ percolations|Haoyu Liu|[2410.12724v1](http://arxiv.org/pdf/2410.12724v1)|
+|2024-07-29|2024-10-16|Extreme time extrapolation capabilities and thermodynamic consistency of physics-inspired Neural Networks for the 3D microstructure evolution of materials via Cahn-Hilliard flow|Daniele Lanzoni|[2407.20126v2](http://arxiv.org/pdf/2407.20126v2)|
+|2024-10-16|2024-10-16|Phase vs coin vs position disorder as a probe for the resilience and revival of single particle entanglement in cyclic quantum walks|Dinesh Kumar Panda|[2410.12710v1](http://arxiv.org/pdf/2410.12710v1)|
+|2024-10-16|2024-10-16|QPUF 2.0: Exploring Quantum Physical Unclonable Functions for Security-by-Design of Energy Cyber-Physical Systems|Venkata K. V. V. Bathalapalli|[2410.12702v1](http://arxiv.org/pdf/2410.12702v1)|
+|2024-10-16|2024-10-16|Area measures and branched polymers in supercritical Liouville quantum gravity|Manan Bhatia|[2410.12693v1](http://arxiv.org/pdf/2410.12693v1)|
+
+### Diffusion
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2024-10-16|2024-10-16|Meta-Unlearning on Diffusion Models: Preventing Relearning Unlearned Concepts|Hongcheng Gao|[2410.12777v1](http://arxiv.org/pdf/2410.12777v1)|
+|2024-10-16|2024-10-16|SAFREE: Training-Free and Adaptive Guard for Safe Text-to-Image And Video Generation|Jaehong Yoon|[2410.12761v1](http://arxiv.org/pdf/2410.12761v1)|
+|2024-02-28|2024-10-16|Diffusion Language Models Are Versatile Protein Learners|Xinyou Wang|[2402.18567v2](http://arxiv.org/pdf/2402.18567v2)|
+|2024-10-16|2024-10-16|Embedding an Ethical Mind: Aligning Text-to-Image Synthesis via Lightweight Value Optimization|Xingqi Wang|[2410.12700v1](http://arxiv.org/pdf/2410.12700v1)|
+|2024-10-16|2024-10-16|Hamiltonian bridge: A physics-driven generative framework for targeted pattern control|Vishaal Krishnan|[2410.12665v1](http://arxiv.org/pdf/2410.12665v1)|
 ## Update on 2024-10-15
 
 ### Physics
