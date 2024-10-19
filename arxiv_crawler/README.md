@@ -70,6 +70,31 @@ TODO:
 
 
 
+
+## Update on 2024-10-19
+
+### Physics
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2024-10-17|2024-10-17|Particle creation from non-geodesic trajectories in multifield inflation|Nicolás Parra|[2410.13843v1](http://arxiv.org/pdf/2410.13843v1)|
+|2024-10-17|2024-10-17|Analyzing Atomic Interactions in Molecules as Learned by Neural Networks|Malte Esders|[2410.13833v1](http://arxiv.org/pdf/2410.13833v1)|
+|2024-10-17|2024-10-17|Enhancing universal machine learning potentials with polarizable long-range interactions|Rongzhi Gao|[2410.13820v1](http://arxiv.org/pdf/2410.13820v1)|
+|2024-10-17|2024-10-17|Moderate Physical Perspectivalism|Emily Adlam|[2410.13819v1](http://arxiv.org/pdf/2410.13819v1)|
+|2024-10-17|2024-10-17|Observation of string-breaking dynamics in a quantum simulator|Arinjoy De|[2410.13815v1](http://arxiv.org/pdf/2410.13815v1)|
+|2024-10-17|2024-10-17|A Pattern to Align Them All: Integrating Different Modalities to Define Multi-Modal Entities|Gianluca Apriceno|[2410.13803v1](http://arxiv.org/pdf/2410.13803v1)|
+|2024-10-17|2024-10-17|Enabling a multifunctional telecommunications fiber optic network: Ultrastable optical frequency transfer and attosecond timing in deployed multicore fiber|Nazanin Hoghooghi|[2410.13801v1](http://arxiv.org/pdf/2410.13801v1)|
+|2024-10-17|2024-10-17|Machine-Learning Analysis of Radiative Decays to Dark Matter at the LHC|Ernesto Arganda|[2410.13799v1](http://arxiv.org/pdf/2410.13799v1)|
+|2024-10-17|2024-10-17|Arbitrarily-Conditioned Multi-Functional Diffusion for Multi-Physics Emulation|Da Long|[2410.13794v1](http://arxiv.org/pdf/2410.13794v1)|
+|2024-06-24|2024-10-17|Enhancement of Opto-Electro-Mechanical Entanglement through Three-Level Atoms|Abebe Senbeto Kussia|[2406.16682v2](http://arxiv.org/pdf/2406.16682v2)|
+
+### Diffusion
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2024-10-17|2024-10-17|Diffusing States and Matching Scores: A New Framework for Imitation Learning|Runzhe Wu|[2410.13855v1](http://arxiv.org/pdf/2410.13855v1)|
+|2024-10-17|2024-10-17|Influence Functions for Scalable Data Attribution in Diffusion Models|Bruno Mlodozeniec|[2410.13850v1](http://arxiv.org/pdf/2410.13850v1)|
+|2024-10-17|2024-10-17|DPLM-2: A Multimodal Diffusion Protein Language Model|Xinyou Wang|[2410.13782v1](http://arxiv.org/pdf/2410.13782v1)|
+|2024-10-17|2024-10-17|Probing the Latent Hierarchical Structure of Data via Diffusion Models|Antonio Sclocchi|[2410.13770v1](http://arxiv.org/pdf/2410.13770v1)|
+|2024-05-20|2024-10-17|Guided Multi-objective Generative AI to Enhance Structure-based Drug Design|Amit Kadan|[2405.11785v2](http://arxiv.org/pdf/2405.11785v2)|
 ## Update on 2024-10-17
 
 ### Physics
