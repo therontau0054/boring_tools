@@ -1,0 +1,126 @@
+{
+    "Physics": [
+        {
+            "title": "Generalization Error in Quantum Machine Learning in the Presence of Sampling Noise",
+            "authors": "Fangjun Hu, Xun Gao",
+            "summary": "Tackling sampling noise due to finite shots of quantum measurement is an\nunavoidable challenge when extracting information in machine learning with\nphysical systems. Eigentask Learning was developed in recent work as a\nframework for learning in the presence of sampling noise. In that work,\nnumerical evidence was presented that extracting low-noise contributions of\nfeatures can improve performance for machine learning tasks, displaying\nrobustness to overfitting, and increasing generalization accuracy. The issue of\ncharacterizing generalization errors in situations where the training dataset\nis finite remains unresolved in the previous work. In this study, we use\nmethodologies from statistical mechanics to calculate the training and\ngeneralization errors of a generic quantum machine learning system when the\ninput training dataset and output measurement sampling shots are both finite.\nOur analytical findings, supported by numerical validation, offer solid\njustification that Eigentask Learning provides optimal learning in the sense of\nminimizing generalization errors.",
+            "pdf_url": "http://arxiv.org/pdf/2410.14654v1",
+            "published": "2024-10-18 17:48:24+00:00",
+            "updated": "2024-10-18 17:48:24+00:00"
+        },
+        {
+            "title": "Bootstrapping Ground State Correlators in Matrix Theory, Part I",
+            "authors": "Henry W. Lin, Zechuan Zheng",
+            "summary": "The D0-brane/Banks-Fischler-Shenker-Susskind matrix theory is a strongly\ncoupled quantum system with an interesting gravity dual. We develop a scheme to\nderive bootstrap bounds on simple correlators in the matrix theory at infinite\n$N$ at zero energy by imposing the supercharge equations of motion. By\nexploiting SO(9) symmetry, we are able to consider single-trace operators\ninvolving words of length up to 9 using very modest computational resources. We\ninterpret our initial results as strong evidence that the bootstrap method can\nefficiently access physics in the strongly coupled, infinite $N$ regime.",
+            "pdf_url": "http://arxiv.org/pdf/2410.14647v1",
+            "published": "2024-10-18 17:46:21+00:00",
+            "updated": "2024-10-18 17:46:21+00:00"
+        },
+        {
+            "title": "Displaced vertex signals of low temperature baryogenesis",
+            "authors": "Pedro Bittar, Gustavo Burdman",
+            "summary": "We explore the connection of baryogenesis at temperatures below the\nelectroweak scale and signals for long-lived particles at the LHC. The model\nfeatures new SM singlets, with a long-lived fermion decaying to quarks to\ngenerate the baryon asymmetry. The model avoids strong flavor physics bounds\nwhile predicting a rich diquark phenomenology, monojet signals, and displaced\nvertices. We show how the displaced vertex signals can be probed at the HL-LHC.\nThe large transverse production makes a strong physics case for constructing\nfar detector experiments such as MATHUSLA, ANUBIS, and CODEX-b, complementary\nto the central and forward long-lived particle program.",
+            "pdf_url": "http://arxiv.org/pdf/2410.00957v2",
+            "published": "2024-10-01 18:00:00+00:00",
+            "updated": "2024-10-18 17:37:03+00:00"
+        },
+        {
+            "title": "Asymptotically Optimal Change Detection for Unnormalized Pre- and Post-Change Distributions",
+            "authors": "Arman Adibi, Sanjeev Kulkarni, H. Vincent Poor, Taposh Banerjee, Vahid Tarokh",
+            "summary": "This paper addresses the problem of detecting changes when only unnormalized\npre- and post-change distributions are accessible. This situation happens in\nmany scenarios in physics such as in ferromagnetism, crystallography,\nmagneto-hydrodynamics, and thermodynamics, where the energy models are\ndifficult to normalize.\n  Our approach is based on the estimation of the Cumulative Sum (CUSUM)\nstatistics, which is known to produce optimal performance. We first present an\nintuitively appealing approximation method. Unfortunately, this produces a\nbiased estimator of the CUSUM statistics and may cause performance degradation.\nWe then propose the Log-Partition Approximation Cumulative Sum (LPA-CUSUM)\nalgorithm based on thermodynamic integration (TI) in order to estimate the\nlog-ratio of normalizing constants of pre- and post-change distributions. It is\nproved that this approach gives an unbiased estimate of the log-partition\nfunction and the CUSUM statistics, and leads to an asymptotically optimal\nperformance. Moreover, we derive a relationship between the required sample\nsize for thermodynamic integration and the desired detection delay performance,\noffering guidelines for practical parameter selection. Numerical studies are\nprovided demonstrating the efficacy of our approach.",
+            "pdf_url": "http://arxiv.org/pdf/2410.14615v1",
+            "published": "2024-10-18 17:13:29+00:00",
+            "updated": "2024-10-18 17:13:29+00:00"
+        },
+        {
+            "title": "Bayesian Multi-wavelength Imaging of the LMC SN1987A with SRG/eROSITA",
+            "authors": "Vincent Eberle, Matteo Guardiani, Margret Westerkamp, Philipp Frank, Michael Freyberg, Mara Salvato, Torsten En\u00dflin",
+            "summary": "The EDR and eRASS1 data have already revealed a remarkable number of\nundiscovered X-ray sources. Using Bayesian inference and generative modeling\ntechniques for X-ray imaging, we aim to increase the sensitivity and scientific\nvalue of these observations by denoising, deconvolving, and decomposing the\nX-ray sky. Leveraging information field theory, we can exploit the spatial and\nspectral correlation structures of the different physical components of the sky\nwith non-parametric priors to enhance the image reconstruction. By\nincorporating instrumental effects into the forward model, we develop a\ncomprehensive Bayesian imaging algorithm for eROSITA pointing observations.\nFinally, we apply the developed algorithm to EDR data of the LMC SN1987A,\nfusing data sets from observations made by five different telescope modules.\nThe final result is a denoised, deconvolved, and decomposed view of the LMC,\nwhich enables the analysis of its fine-scale structures, the creation of point\nsource catalogues of this region, and enhanced calibration for future work.",
+            "pdf_url": "http://arxiv.org/pdf/2410.14599v1",
+            "published": "2024-10-18 16:53:49+00:00",
+            "updated": "2024-10-18 16:53:49+00:00"
+        },
+        {
+            "title": "Circuit QED theory of direct and dual Shapiro steps with finite-size transmission line resonators",
+            "authors": "Federico Borletto, Luca Giacomelli, Cristiano Ciuti",
+            "summary": "We investigate the occurrence of direct and dual Shapiro steps for a\nJosephson junction coupled to a finite-size transmission line resonator. We\ntreat both problems through a circuit QED approach with a large, but finite\nnumber of photon modes. For the dual case, we do not assume the (approximate)\ncharge-phase duality, but include the full multi-band dynamics for the\nJosephson junction. Mean-field equations within such Hamiltonian approach\nreproduce the result obtained through a dissipative classical equation when the\nnumber of transmission line modes is large enough. To account for quantum and\nthermal fluctuations, we go beyond the mean-field treatment within a truncated\nWigner approach. The fluctuations are shown to modify both the direct and the\ndual steps. We show how the dual steps are very sensitive to these fluctuations\nand identify the key physical parameters for the junction and the transmission\nline controlling their robustness, which is essential for applications to close\nthe quantum metrological triangle.",
+            "pdf_url": "http://arxiv.org/pdf/2405.12935v2",
+            "published": "2024-05-21 17:06:06+00:00",
+            "updated": "2024-10-18 16:33:29+00:00"
+        },
+        {
+            "title": "Fully charmed tetraquarks from LHC to FCC: Natural stability from fragmentation",
+            "authors": "Francesco Giovanni Celiberto, Gabriele Gatto, Alessandro papa",
+            "summary": "We investigate the inclusive production of fully charmed tetraquarks,\n$T_{4c}(0^{++})$ or $T_{4c}(2^{++})$ radial excitations, in high-energy proton\ncollisions. We build our study upon the collinear fragmentation of a single\nparton in a variable-flavor number scheme, suited to describe the tetraquark\nformation mechanism from moderate to large transverse-momentum regimes. To this\nextent, we derive a novel set of DGLAP-evolving collinear fragmentation\nfunctions, named TQ4Q1.0 determinations. They encode initial-scale inputs\ncorresponding to both gluon and heavy-quark fragmentation channels, defined\nwithin the context of quark-potential and spin-physics inspired models,\nrespectively. We work within the NLL/NLO$^+$ hybrid factorization and make use\nof the JETHAD numeric interface along with the symJETHAD symbolic calculation\nplugin. With these tools, we provide predictions for high-energy observables\nsensitive to $T_{4c}$ plus jet emissions at center-of-mass energies ranging\nfrom 14 TeV at the LHC to the 100 TeV nominal energy of the FCC.",
+            "pdf_url": "http://arxiv.org/pdf/2405.14773v2",
+            "published": "2024-05-23 16:42:34+00:00",
+            "updated": "2024-10-18 16:10:43+00:00"
+        },
+        {
+            "title": "Quantum Brownian motion induced by a scalar field in Einstein universe under Dirichlet and Neumann boundary conditions",
+            "authors": "E. J. B. Ferreira, H. F. Santana Mota",
+            "summary": "In this paper, the Quantum Brownian motion of a point particle induced by the\nquantum vacuum fluctuations of a real massless scalar field in Einstein\nuniverse under Dirichlet and Neumann boundary conditions is studied. Using the\nWightman functions, general expressions for the renormalized dispersion of the\nphysical momentum are derived. Distinct expressions are found for the\ndispersion associated with each component of the particle physical momentum,\nindicating that the global properties of homogeneity and isotropy of space are\nlost, as a consequence of the introduced boundary conditions. Divergences also\narise and are related to the compact nature of Einstein universe and the\nintroduced boundary conditions.",
+            "pdf_url": "http://arxiv.org/pdf/2410.14560v1",
+            "published": "2024-10-18 16:05:18+00:00",
+            "updated": "2024-10-18 16:05:18+00:00"
+        },
+        {
+            "title": "Local Thermal Operations and Classical Communication",
+            "authors": "Rafa\u0142 Bistro\u0144, Jakub Czartowski",
+            "summary": "Quantum mechanics and thermodynamics are foundational to modern physics. This\npaper introduces a novel framework, based on local operations with classical\ncommunication, fundamental paradigm in quantum information, incorporating the\npreservation of thermal equilibrium: local thermal operations and classical\ncommunication (LTOCC). We introduce a hierarchy of LTOCC, ordered according to\nthe amount of control and communication. Next, we provide a detailed analysis\nof symmetric local thermal operations and classical communication\n($\\mathcal{S}$LTOCC), including majorization-based bounds on possible\ntransitions and properties such as generation of strong correlations from Gibbs\nstates.",
+            "pdf_url": "http://arxiv.org/pdf/2410.14550v1",
+            "published": "2024-10-18 15:47:02+00:00",
+            "updated": "2024-10-18 15:47:02+00:00"
+        },
+        {
+            "title": "Responding to objections made by Sorin Co\u015fofre\u0163 concerning kinetic molecular theory: an illustration of how to teach physics students to evaluate pseudoscientific work",
+            "authors": "Marc Mel\u00e9ndez",
+            "summary": "Sorin Co\\c{s}ofre\\c{t} has argued that kinetic molecular theory does not\ncorrectly describe thermal equilibrium in ideal gases and has provided some\nexamples that purportedly show that the standard laws imply consequences that\ncontradict experimental results. This paper considers a few of the examples in\ndetail and concludes that Co\\c{s}ofre\\c{t}'s analysis is erroneous.\nFurthermore, although it does not disprove any of the other claims made by\nCo\\c{s}ofre\\c{t} in criticising thermodynamics and many other fields of\nphysics, it does call his whole project into question, as Co\\c{s}ofre\\c{t}\nexhibits a lack of relevant training, limited knowledge of key facts and\nprevious research, and a disposition to favour his own intuitions above\ntheoretical and experimental checks. The exercise below illustrates some of the\nproblems commonly encountered in pseudoscientific approaches, and provides a\nfew tips on how to teach aspiring scientists about how to evaluate such works\nfor themselves.",
+            "pdf_url": "http://arxiv.org/pdf/2410.14534v1",
+            "published": "2024-10-18 15:17:16+00:00",
+            "updated": "2024-10-18 15:17:16+00:00"
+        }
+    ],
+    "Diffusion": [
+        {
+            "title": "Learning diffusion at lightspeed",
+            "authors": "Antonio Terpin, Nicolas Lanzetti, Martin Gadea, Florian D\u00f6rfler",
+            "summary": "Diffusion regulates numerous natural processes and the dynamics of many\nsuccessful generative models. Existing models to learn the diffusion terms from\nobservational data rely on complex bilevel optimization problems and model only\nthe drift of the system. We propose a new simple model, JKOnet*, which bypasses\nthe complexity of existing architectures while presenting significantly\nenhanced representational capabilities: JKOnet* recovers the potential,\ninteraction, and internal energy components of the underlying diffusion\nprocess. JKOnet* minimizes a simple quadratic loss and outperforms other\nbaselines in terms of sample efficiency, computational complexity, and\naccuracy. Additionally, JKOnet* provides a closed-form optimal solution for\nlinearly parametrized functionals, and, when applied to predict the evolution\nof cellular processes from real-world data, it achieves state-of-the-art\naccuracy at a fraction of the computational cost of all existing methods. Our\nmethodology is based on the interpretation of diffusion processes as\nenergy-minimizing trajectories in the probability space via the so-called JKO\nscheme, which we study via its first-order optimality conditions.",
+            "pdf_url": "http://arxiv.org/pdf/2406.12616v2",
+            "published": "2024-06-18 13:44:07+00:00",
+            "updated": "2024-10-18 16:09:52+00:00"
+        },
+        {
+            "title": "Diffusion-based Semi-supervised Spectral Algorithm for Regression on Manifolds",
+            "authors": "Weichun Xia, Jiaxin Jiang, Lei Shi",
+            "summary": "We introduce a novel diffusion-based spectral algorithm to tackle regression\nanalysis on high-dimensional data, particularly data embedded within\nlower-dimensional manifolds. Traditional spectral algorithms often fall short\nin such contexts, primarily due to the reliance on predetermined kernel\nfunctions, which inadequately address the complex structures inherent in\nmanifold-based data. By employing graph Laplacian approximation, our method\nuses the local estimation property of heat kernel, offering an adaptive,\ndata-driven approach to overcome this obstacle. Another distinct advantage of\nour algorithm lies in its semi-supervised learning framework, enabling it to\nfully use the additional unlabeled data. This ability enhances the performance\nby allowing the algorithm to dig the spectrum and curvature of the data\nmanifold, providing a more comprehensive understanding of the dataset.\nMoreover, our algorithm performs in an entirely data-driven manner, operating\ndirectly within the intrinsic manifold structure of the data, without requiring\nany predefined manifold information. We provide a convergence analysis of our\nalgorithm. Our findings reveal that the algorithm achieves a convergence rate\nthat depends solely on the intrinsic dimension of the underlying manifold,\nthereby avoiding the curse of dimensionality associated with the higher ambient\ndimension.",
+            "pdf_url": "http://arxiv.org/pdf/2410.14539v1",
+            "published": "2024-10-18 15:29:04+00:00",
+            "updated": "2024-10-18 15:29:04+00:00"
+        },
+        {
+            "title": "LEAD: Latent Realignment for Human Motion Diffusion",
+            "authors": "Nefeli Andreou, Xi Wang, Victoria Fern\u00e1ndez Abrevaya, Marie-Paule Cani, Yiorgos Chrysanthou, Vicky Kalogeiton",
+            "summary": "Our goal is to generate realistic human motion from natural language. Modern\nmethods often face a trade-off between model expressiveness and text-to-motion\nalignment. Some align text and motion latent spaces but sacrifice\nexpressiveness; others rely on diffusion models producing impressive motions,\nbut lacking semantic meaning in their latent space. This may compromise\nrealism, diversity, and applicability. Here, we address this by combining\nlatent diffusion with a realignment mechanism, producing a novel, semantically\nstructured space that encodes the semantics of language. Leveraging this\ncapability, we introduce the task of textual motion inversion to capture novel\nmotion concepts from a few examples. For motion synthesis, we evaluate LEAD on\nHumanML3D and KIT-ML and show comparable performance to the state-of-the-art in\nterms of realism, diversity, and text-motion consistency. Our qualitative\nanalysis and user study reveal that our synthesized motions are sharper, more\nhuman-like and comply better with the text compared to modern methods. For\nmotion textual inversion, our method demonstrates improved capacity in\ncapturing out-of-distribution characteristics in comparison to traditional\nVAEs.",
+            "pdf_url": "http://arxiv.org/pdf/2410.14508v1",
+            "published": "2024-10-18 14:43:05+00:00",
+            "updated": "2024-10-18 14:43:05+00:00"
+        },
+        {
+            "title": "ANT: Adaptive Noise Schedule for Time Series Diffusion Models",
+            "authors": "Seunghan Lee, Kibok Lee, Taeyoung Park",
+            "summary": "Advances in diffusion models for generative artificial intelligence have\nrecently propagated to the time series (TS) domain, demonstrating\nstate-of-the-art performance on various tasks. However, prior works on TS\ndiffusion models often borrow the framework of existing works proposed in other\ndomains without considering the characteristics of TS data, leading to\nsuboptimal performance. In this work, we propose Adaptive Noise schedule for\nTime series diffusion models (ANT), which automatically predetermines proper\nnoise schedules for given TS datasets based on their statistics representing\nnon-stationarity. Our intuition is that an optimal noise schedule should\nsatisfy the following desiderata: 1) It linearly reduces the non-stationarity\nof TS data so that all diffusion steps are equally meaningful, 2) the data is\ncorrupted to the random noise at the final step, and 3) the number of steps is\nsufficiently large. The proposed method is practical for use in that it\neliminates the necessity of finding the optimal noise schedule with a small\nadditional cost to compute the statistics for given datasets, which can be done\noffline before training. We validate the effectiveness of our method across\nvarious tasks, including TS forecasting, refinement, and generation, on\ndatasets from diverse domains. Code is available at this repository:\nhttps://github.com/seunghan96/ANT.",
+            "pdf_url": "http://arxiv.org/pdf/2410.14488v1",
+            "published": "2024-10-18 14:16:54+00:00",
+            "updated": "2024-10-18 14:16:54+00:00"
+        },
+        {
+            "title": "DRL Optimization Trajectory Generation via Wireless Network Intent-Guided Diffusion Models for Optimizing Resource Allocation",
+            "authors": "Junjie Wu, Xuming Fang, Dusit Niyato, Jiacheng Wang, Jingyu Wang",
+            "summary": "With the rapid advancements in wireless communication fields, including\nlow-altitude economies, 6G, and Wi-Fi, the scale of wireless networks continues\nto expand, accompanied by increasing service quality demands. Traditional deep\nreinforcement learning (DRL)-based optimization models can improve network\nperformance by solving non-convex optimization problems intelligently. However,\nthey heavily rely on online deployment and often require extensive initial\ntraining. Online DRL optimization models typically make accurate decisions\nbased on current channel state distributions. When these distributions change,\ntheir generalization capability diminishes, which hinders the responsiveness\nessential for real-time and high-reliability wireless communication networks.\nFurthermore, different users have varying quality of service (QoS) requirements\nacross diverse scenarios, and conventional online DRL methods struggle to\naccommodate this variability. Consequently, exploring flexible and customized\nAI strategies is critical. We propose a wireless network intent (WNI)-guided\ntrajectory generation model based on a generative diffusion model (GDM). This\nmodel can be generated and fine-tuned in real time to achieve the objective and\nmeet the constraints of target intent networks, significantly reducing state\ninformation exposure during wireless communication. Moreover, The WNI-guided\noptimization trajectory generation can be customized to address differentiated\nQoS requirements, enhancing the overall quality of communication in future\nintelligent networks. Extensive simulation results demonstrate that our\napproach achieves greater stability in spectral efficiency variations and\noutperforms traditional DRL optimization models in dynamic communication\nsystems.",
+            "pdf_url": "http://arxiv.org/pdf/2410.14481v1",
+            "published": "2024-10-18 14:04:38+00:00",
+            "updated": "2024-10-18 14:04:38+00:00"
+        }
+    ]
+}

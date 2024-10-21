@@ -71,6 +71,31 @@ TODO:
 
 
 
+
+## Update on 2024-10-21
+
+### Physics
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2024-10-18|2024-10-18|Generalization Error in Quantum Machine Learning in the Presence of Sampling Noise|Fangjun Hu|[2410.14654v1](http://arxiv.org/pdf/2410.14654v1)|
+|2024-10-18|2024-10-18|Bootstrapping Ground State Correlators in Matrix Theory, Part I|Henry W. Lin|[2410.14647v1](http://arxiv.org/pdf/2410.14647v1)|
+|2024-10-01|2024-10-18|Displaced vertex signals of low temperature baryogenesis|Pedro Bittar|[2410.00957v2](http://arxiv.org/pdf/2410.00957v2)|
+|2024-10-18|2024-10-18|Asymptotically Optimal Change Detection for Unnormalized Pre- and Post-Change Distributions|Arman Adibi|[2410.14615v1](http://arxiv.org/pdf/2410.14615v1)|
+|2024-10-18|2024-10-18|Bayesian Multi-wavelength Imaging of the LMC SN1987A with SRG/eROSITA|Vincent Eberle|[2410.14599v1](http://arxiv.org/pdf/2410.14599v1)|
+|2024-05-21|2024-10-18|Circuit QED theory of direct and dual Shapiro steps with finite-size transmission line resonators|Federico Borletto|[2405.12935v2](http://arxiv.org/pdf/2405.12935v2)|
+|2024-05-23|2024-10-18|Fully charmed tetraquarks from LHC to FCC: Natural stability from fragmentation|Francesco Giovanni Celiberto|[2405.14773v2](http://arxiv.org/pdf/2405.14773v2)|
+|2024-10-18|2024-10-18|Quantum Brownian motion induced by a scalar field in Einstein universe under Dirichlet and Neumann boundary conditions|E. J. B. Ferreira|[2410.14560v1](http://arxiv.org/pdf/2410.14560v1)|
+|2024-10-18|2024-10-18|Local Thermal Operations and Classical Communication|Rafał Bistroń|[2410.14550v1](http://arxiv.org/pdf/2410.14550v1)|
+|2024-10-18|2024-10-18|Responding to objections made by Sorin Coşofreţ concerning kinetic molecular theory: an illustration of how to teach physics students to evaluate pseudoscientific work|Marc Meléndez|[2410.14534v1](http://arxiv.org/pdf/2410.14534v1)|
+
+### Diffusion
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2024-06-18|2024-10-18|Learning diffusion at lightspeed|Antonio Terpin|[2406.12616v2](http://arxiv.org/pdf/2406.12616v2)|
+|2024-10-18|2024-10-18|Diffusion-based Semi-supervised Spectral Algorithm for Regression on Manifolds|Weichun Xia|[2410.14539v1](http://arxiv.org/pdf/2410.14539v1)|
+|2024-10-18|2024-10-18|LEAD: Latent Realignment for Human Motion Diffusion|Nefeli Andreou|[2410.14508v1](http://arxiv.org/pdf/2410.14508v1)|
+|2024-10-18|2024-10-18|ANT: Adaptive Noise Schedule for Time Series Diffusion Models|Seunghan Lee|[2410.14488v1](http://arxiv.org/pdf/2410.14488v1)|
+|2024-10-18|2024-10-18|DRL Optimization Trajectory Generation via Wireless Network Intent-Guided Diffusion Models for Optimizing Resource Allocation|Junjie Wu|[2410.14481v1](http://arxiv.org/pdf/2410.14481v1)|
 ## Update on 2024-10-19
 
 ### Physics
