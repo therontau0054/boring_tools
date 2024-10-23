@@ -72,6 +72,31 @@ TODO:
 
 
 
+
+## Update on 2024-10-23
+
+### Physics
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2024-10-22|2024-10-22|Learning Precise, Contact-Rich Manipulation through Uncalibrated Tactile Skins|Venkatesh Pattabiraman|[2410.17246v1](http://arxiv.org/pdf/2410.17246v1)|
+|2024-10-22|2024-10-22|Floquetifying stabiliser codes with distance-preserving rewrites|Benjamin Rodatz|[2410.17240v1](http://arxiv.org/pdf/2410.17240v1)|
+|2024-10-21|2024-10-22|Direct Measurements of Synchrotron-Emitting Electrons at Near-Sun Shocks|I. C. Jebaraj|[2410.15933v2](http://arxiv.org/pdf/2410.15933v2)|
+|2023-06-12|2024-10-22|Non-Stationary Long-Term Dynamics via Selected Incomplete Dual Bases|Hsiao-Han Chuang|[2306.07407v2](http://arxiv.org/pdf/2306.07407v2)|
+|2024-10-22|2024-10-22|Achievable Entanglement-Assisted Communication Rate using Phase-Modulated Two-Mode Squeezed Vacuum|Shang-Jen Su|[2410.17181v1](http://arxiv.org/pdf/2410.17181v1)|
+|2024-10-22|2024-10-22|Evidence for a Lattice Supersolid of Subradiant Dipolar Excitons|Camille Lagoin|[2410.17162v1](http://arxiv.org/pdf/2410.17162v1)|
+|2024-10-22|2024-10-22|Dynamical interiors of Black-Bounce spacetimes|Kunal Pal|[2410.17150v1](http://arxiv.org/pdf/2410.17150v1)|
+|2024-10-22|2024-10-22|The XLZD Design Book: Towards the Next-Generation Liquid Xenon Observatory for Dark Matter and Neutrino Physics|XLZD Collaboration|[2410.17137v1](http://arxiv.org/pdf/2410.17137v1)|
+|2024-10-22|2024-10-22|Learning Load Balancing with GNN in MPTCP-Enabled Heterogeneous Networks|Han Ji|[2410.17118v1](http://arxiv.org/pdf/2410.17118v1)|
+|2024-04-02|2024-10-22|PhysORD: A Neuro-Symbolic Approach for Physics-infused Motion Prediction in Off-road Driving|Zhipeng Zhao|[2404.01596v3](http://arxiv.org/pdf/2404.01596v3)|
+
+### Diffusion
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2024-10-22|2024-10-22|Reinforcement learning on structure-conditioned categorical diffusion for protein inverse folding|Yasha Ektefaie|[2410.17173v1](http://arxiv.org/pdf/2410.17173v1)|
+|2024-05-23|2024-10-22|RectifID: Personalizing Rectified Flow with Anchored Classifier Guidance|Zhicheng Sun|[2405.14677v2](http://arxiv.org/pdf/2405.14677v2)|
+|2024-05-24|2024-10-22|Towards Understanding the Working Mechanism of Text-to-Image Diffusion Model|Mingyang Yi|[2405.15330v2](http://arxiv.org/pdf/2405.15330v2)|
+|2024-10-22|2024-10-22|MBD: Multi b-value Denoising of Diffusion Magnetic Resonance Images|Jakub Jurek|[2410.16898v1](http://arxiv.org/pdf/2410.16898v1)|
+|2024-10-22|2024-10-22|Test-time Adversarial Defense with Opposite Adversarial Path and High Attack Time Cost|Cheng-Han Yeh|[2410.16805v1](http://arxiv.org/pdf/2410.16805v1)|
 ## Update on 2024-10-21
 
 ### Physics
