@@ -73,6 +73,31 @@ TODO:
 
 
 
+
+## Update on 2024-10-25
+
+### Physics
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2024-10-24|2024-10-24|Initial PIP-II Beam Current Monitor Fault Case Analyses & Beam Position Monitor Linearity Studies in CST Studio Suite|A. Rouzky|[2410.18951v1](http://arxiv.org/pdf/2410.18951v1)|
+|2024-10-24|2024-10-24|Internal structure of gauge-invariant Projected Entangled Pair States|David Blanik|[2410.18947v1](http://arxiv.org/pdf/2410.18947v1)|
+|2024-10-24|2024-10-24|Exact solutions for topological surface states of three-dimensional lattice models|Matias Mustonen|[2410.18934v1](http://arxiv.org/pdf/2410.18934v1)|
+|2024-10-24|2024-10-24|Using Parametric PINNs for Predicting Internal and External Turbulent Flows|Shinjan Ghosh|[2410.18917v1](http://arxiv.org/pdf/2410.18917v1)|
+|2024-10-24|2024-10-24|Quantum Many-Body Scars beyond the PXP model in Rydberg simulators|Aron Kerschbaumer|[2410.18913v1](http://arxiv.org/pdf/2410.18913v1)|
+|2024-10-24|2024-10-24|Modulated Adaptive Fourier Neural Operators for Temporal Interpolation of Weather Forecasts|Jussi Leinonen|[2410.18904v1](http://arxiv.org/pdf/2410.18904v1)|
+|2024-10-24|2024-10-24|Finite-Time Processes In Quantum Thermodynamics: The Limits Of Irreversibility|Alberto Rolandi|[2410.18903v1](http://arxiv.org/pdf/2410.18903v1)|
+|2023-10-18|2024-10-24|Simulating 2D lattice gauge theories on a qudit quantum computer|Michael Meth|[2310.12110v3](http://arxiv.org/pdf/2310.12110v3)|
+|2021-04-06|2024-10-24|Exactly solvable models for 2+1D topological phases derived from crossed modules of semisimple Hopf algebras|Vincent Koppen|[2104.02766v3](http://arxiv.org/pdf/2104.02766v3)|
+|2024-10-24|2024-10-24|Phase-space integrals through Mellin-Barnes representation|Taushif Ahmed|[2410.18886v1](http://arxiv.org/pdf/2410.18886v1)|
+
+### Diffusion
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2024-10-24|2024-10-24|3D-Adapter: Geometry-Consistent Multi-View Diffusion for High-Quality 3D Generation|Hansheng Chen|[2410.18974v1](http://arxiv.org/pdf/2410.18974v1)|
+|2024-10-24|2024-10-24|On the Crucial Role of Initialization for Matrix Factorization|Bingcong Li|[2410.18965v1](http://arxiv.org/pdf/2410.18965v1)|
+|2024-10-24|2024-10-24|Stable Consistency Tuning: Understanding and Improving Consistency Models|Fu-Yun Wang|[2410.18958v1](http://arxiv.org/pdf/2410.18958v1)|
+|2024-10-24|2024-10-24|Diff-Instruct++: Training One-step Text-to-image Generator Model to Align with Human Preferences|Weijian Luo|[2410.18881v1](http://arxiv.org/pdf/2410.18881v1)|
+|2024-10-24|2024-10-24|The Cat and Mouse Game: The Ongoing Arms Race Between Diffusion Models and Detection Methods|Linda Laurier|[2410.18866v1](http://arxiv.org/pdf/2410.18866v1)|
 ## Update on 2024-10-23
 
 ### Physics
