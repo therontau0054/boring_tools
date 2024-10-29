@@ -74,6 +74,31 @@ TODO:
 
 
 
+
+## Update on 2024-10-29
+
+### Physics
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2024-06-17|2024-10-28|Flux Quantization on M5-branes|Grigorios Giotopoulos|[2406.11304v3](http://arxiv.org/pdf/2406.11304v3)|
+|2024-10-20|2024-10-28|Spin One Matter Fields|Daniel O. R. Azevedo|[2410.15407v2](http://arxiv.org/pdf/2410.15407v2)|
+|2024-10-28|2024-10-28|Efficient time dependent Wannier functions for ultrafast dynamics|Cristian M. Le|[2410.21230v1](http://arxiv.org/pdf/2410.21230v1)|
+|2024-10-11|2024-10-28|Learning to Walk from Three Minutes of Real-World Data with Semi-structured Dynamics Models|Jacob Levy|[2410.09163v2](http://arxiv.org/pdf/2410.09163v2)|
+|2024-10-28|2024-10-28|Noise robustness and threshold of many-body quantum magic|Fuchuan Wei|[2410.21215v1](http://arxiv.org/pdf/2410.21215v1)|
+|2024-07-16|2024-10-28|Fermionic Casimir Energy in Horava-Lifshitz Scenario|E. R. Bezerra de Mello|[2407.11749v2](http://arxiv.org/pdf/2407.11749v2)|
+|2024-10-18|2024-10-28|$D^0\overline{D^0}$ mixing from nonlocal condensate contributions|Lovro Dulibić|[2410.14382v2](http://arxiv.org/pdf/2410.14382v2)|
+|2024-09-05|2024-10-28|The pathway to chirality in elemental tellurium|Yuxing Zhou|[2409.03860v2](http://arxiv.org/pdf/2409.03860v2)|
+|2024-10-19|2024-10-28|Degrees of Freedom of New General Relativity: Type 2, Type 3, Type 5, and Type 8|Kyosuke Tomonari|[2410.15056v2](http://arxiv.org/pdf/2410.15056v2)|
+|2024-10-28|2024-10-28|Molecular sorting on a fluctuating membrane|Damiano Andreghetti|[2410.21186v1](http://arxiv.org/pdf/2410.21186v1)|
+
+### Diffusion
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2024-10-28|2024-10-28|One-Step Diffusion Policy: Fast Visuomotor Policies via Diffusion Distillation|Zhendong Wang|[2410.21257v1](http://arxiv.org/pdf/2410.21257v1)|
+|2024-05-02|2024-10-28|Customizing Text-to-Image Models with a Single Image Pair|Maxwell Jones|[2405.01536v2](http://arxiv.org/pdf/2405.01536v2)|
+|2024-10-28|2024-10-28|On learning higher-order cumulants in diffusion models|Gert Aarts|[2410.21212v1](http://arxiv.org/pdf/2410.21212v1)|
+|2023-10-05|2024-10-28|Aligning Text-to-Image Diffusion Models with Reward Backpropagation|Mihir Prabhudesai|[2310.03739v3](http://arxiv.org/pdf/2310.03739v3)|
+|2024-10-28|2024-10-28|Trajectory Flow Matching with Applications to Clinical Time Series Modeling|Xi Zhang|[2410.21154v1](http://arxiv.org/pdf/2410.21154v1)|
 ## Update on 2024-10-25
 
 ### Physics

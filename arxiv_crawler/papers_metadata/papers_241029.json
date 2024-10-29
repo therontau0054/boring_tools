@@ -1,0 +1,126 @@
+{
+    "Physics": [
+        {
+            "title": "Flux Quantization on M5-branes",
+            "authors": "Grigorios Giotopoulos, Hisham Sati, Urs Schreiber",
+            "summary": "We highlight the need for global completion of the field content in the\nM5-brane sigma-model analogous to Dirac's charge/flux quantization, and we\npoint out that the superspace Bianchi identities on the worldvolume and on its\nambient supergravity background constrain the M5's flux-quantization law to be\nin a non-abelian cohomology theory rationally equivalent to a twisted form of\nco-Homotopy. In order to clearly bring out this subtle point we give a\nstreamlined re-derivation of the worldvolume 3-flux via M5 \"super-embeddings\".\nFinally, assuming the flux-quantization law to actually be in co-Homotopy\n(\"Hypothesis H\") we show how this implies Skyrmion-like solitons on general\nM5-worldvolumes and (abelian) anyonic solitons on the boundaries of \"open\nM5-branes\" in heterotic M-theory.",
+            "pdf_url": "http://arxiv.org/pdf/2406.11304v3",
+            "published": "2024-06-17 08:10:57+00:00",
+            "updated": "2024-10-28 17:59:51+00:00"
+        },
+        {
+            "title": "Spin One Matter Fields",
+            "authors": "Daniel O. R. Azevedo, Oswaldo Del Cima, Thadeu D. S. Dias, Daniel H. T. Franco, Em\u00edlio D. Pereira, Olivier Piguet",
+            "summary": "It is shown how spin one vector matter fields can be coupled to a Yang-Mills\ntheory. Such matter fields are defined as belonging to a representation $R$ of\nthe Yang-Mills gauge algebra $\\mathfrak{g}$. It is also demanded that these\nfields together with the original gauge fields be the gauge fields of an\nembedding total gauge algebra $\\mathfrak{g}_{\\rm tot}$. The existence of a\nphysically consistent Yang-Mills action for the total algebra is finally\nrequired. These conditions are rather restrictive, as shown in some examples:\nnon-trivial solutions may or may not exist depending on the choice of the\noriginal algebra $\\mathfrak{g}$ and of the representation $R$. The case of the\ninitial algebra $\\mathfrak{g}$ = $\\mathfrak{u}(1)\\oplus\\mathfrak{su}(2)$ is\ntreated in more detail.",
+            "pdf_url": "http://arxiv.org/pdf/2410.15407v2",
+            "published": "2024-10-20 14:39:54+00:00",
+            "updated": "2024-10-28 17:41:05+00:00"
+        },
+        {
+            "title": "Efficient time dependent Wannier functions for ultrafast dynamics",
+            "authors": "Cristian M. Le, Hannes H\u00fcbener, Ofer Neufeld, Angel Rubio",
+            "summary": "Time-dependent Wannier functions were initially proposed as a means for\ncalculating the polarization current in crystals driven by external fields. In\nthis work, we present a simple gauge where Wannier states are defined based on\nthe maximally localized functions at the initial time, and are propagated using\nthe time-dependent Bloch states obtained from established first-principles\ncalculations, avoiding the costly Wannierization at ech time step. We show that\nthis basis efficiently describes the time-dependent polarization of the laser\ndriven system through the analysis of the motion of Wannier centers. We use\nthis technique to analyze highly nonlinear and non-perturbative responses such\nas high harmonic generation in solids, using the hexagonal boron nitride as an\nillustrative example, and we show how it provides an intuitive picture for the\nphysical mechanisms.",
+            "pdf_url": "http://arxiv.org/pdf/2410.21230v1",
+            "published": "2024-10-28 17:15:34+00:00",
+            "updated": "2024-10-28 17:15:34+00:00"
+        },
+        {
+            "title": "Learning to Walk from Three Minutes of Real-World Data with Semi-structured Dynamics Models",
+            "authors": "Jacob Levy, Tyler Westenbroek, David Fridovich-Keil",
+            "summary": "Traditionally, model-based reinforcement learning (MBRL) methods exploit\nneural networks as flexible function approximators to represent $\\textit{a\npriori}$ unknown environment dynamics. However, training data are typically\nscarce in practice, and these black-box models often fail to generalize.\nModeling architectures that leverage known physics can substantially reduce the\ncomplexity of system-identification, but break down in the face of complex\nphenomena such as contact. We introduce a novel framework for learning\nsemi-structured dynamics models for contact-rich systems which seamlessly\nintegrates structured first principles modeling techniques with black-box\nauto-regressive models. Specifically, we develop an ensemble of probabilistic\nmodels to estimate external forces, conditioned on historical observations and\nactions, and integrate these predictions using known Lagrangian dynamics. With\nthis semi-structured approach, we can make accurate long-horizon predictions\nwith substantially less data than prior methods. We leverage this capability\nand propose Semi-Structured Reinforcement Learning ($\\texttt{SSRL}$) a simple\nmodel-based learning framework which pushes the sample complexity boundary for\nreal-world learning. We validate our approach on a real-world Unitree Go1\nquadruped robot, learning dynamic gaits -- from scratch -- on both hard and\nsoft surfaces with just a few minutes of real-world data. Video and code are\navailable at: https://sites.google.com/utexas.edu/ssrl",
+            "pdf_url": "http://arxiv.org/pdf/2410.09163v2",
+            "published": "2024-10-11 18:11:21+00:00",
+            "updated": "2024-10-28 17:13:05+00:00"
+        },
+        {
+            "title": "Noise robustness and threshold of many-body quantum magic",
+            "authors": "Fuchuan Wei, Zi-Wen Liu",
+            "summary": "Understanding quantum magic (i.e., nonstabilizerness) in many-body quantum\nsystems is challenging but essential to the study of quantum computation and\nmany-body physics. We investigate how noise affects magic properties in\nentangled many-body quantum states by quantitatively examining the magic decay\nunder noise, with a primary aim being to understand the stability of magic\nassociated with different kinds of entanglement structures. As a standard\nmodel, we study hypergraph states, a representative class of many-body magic\nstates, subject to depolarizing noise. First, we show that interactions\nfacilitated by high-degree gates are fragile to noise. In particular, the\n$\\mathrm{C}^{n-1}Z$ state family exhibits a vanishing magic threshold of\n$\\Theta(1/n)$. Furthermore, we demonstrate efficiently preparable families of\nhypergraph states without local magic but with a non-vanishing magic threshold\nwhich signifies robust magic that is entirely embedded in global entanglement.\nWe also discuss the qudit case based on the discrete Wigner formalism.",
+            "pdf_url": "http://arxiv.org/pdf/2410.21215v1",
+            "published": "2024-10-28 17:01:47+00:00",
+            "updated": "2024-10-28 17:01:47+00:00"
+        },
+        {
+            "title": "Fermionic Casimir Energy in Horava-Lifshitz Scenario",
+            "authors": "E. R. Bezerra de Mello, M. B. Cruz",
+            "summary": "In this work, we investigate the violation of Lorentz symmetry through the\nCasimir effect. The Casimir effect is one of the most intriguing aspects of\nmodern physics, representing a macroscopic quantum-origin force between two\nneutral conducting surfaces, and it stands as a triumph of Quantum Field\nTheory. Here, we examine the Casimir effects associated with a massive\nfermionic quantum field confined in the region between two large and parallel\nplates within the Horava-Lifshitz framework of Lorentz symmetry violation. To\ncalculate the Casimir energy and consequently the Casimir pressure, we impose a\nMIT bag boundary condition on two plates, compatible with the higher-order\nderivative term in the modified Dirac equation. Our results indicate a strong\ninfluence of Lorentz violation on the Casimir effect. We observe that the\nCasimir energy is affected, both in intensity and sign, potentially exhibiting\nrepulsive or attractive force between the plates, depending on the critical\nexponent associated with the Horava-Lifshitz formalism.",
+            "pdf_url": "http://arxiv.org/pdf/2407.11749v2",
+            "published": "2024-07-16 14:16:06+00:00",
+            "updated": "2024-10-28 16:54:43+00:00"
+        },
+        {
+            "title": "$D^0\\overline{D^0}$ mixing from nonlocal condensate contributions",
+            "authors": "Lovro Dulibi\u0107, Bla\u017eenka Meli\u0107, Alexey A. Petrov",
+            "summary": "A significant discrepancy, spanning multiple orders of magnitude, exists\nbetween the leading order contribution to the $D^0\\overline{D^0}$ mixing\nparameters and experimental values. This is largely due to the\nGlashow-Iliopoulos-Maiani (GIM) mechanism, which results in substantial\nsuppression of the theoretical predictions. To bridge this gap, various efforts\nhave been made to account for higher-order terms and nonperturbative effects,\nwhich, although suppressed in the operator product expansion (OPE), could\npotentially lead to a larger contribution by weakening the GIM cancellation\nthrough flavour SU(3) symmetry breaking. In this work, we compute the\nlong-distance contributions of nonlocal QCD condensates within different models\nand, for the first time, determine the impact of the mixed condensate. Although\nour results still fall short of the experimental value, they represent an\nimprovement over current theoretical estimates by an order of magnitude.",
+            "pdf_url": "http://arxiv.org/pdf/2410.14382v2",
+            "published": "2024-10-18 11:08:58+00:00",
+            "updated": "2024-10-28 16:42:35+00:00"
+        },
+        {
+            "title": "The pathway to chirality in elemental tellurium",
+            "authors": "Yuxing Zhou, Stephen R. Elliott, Daniel F. Thomas du Toit, Wei Zhang, Volker L. Deringer",
+            "summary": "Chiral crystals, like chiral molecules, cannot be superimposed onto their\nmirror images -- a fundamental property that has been linked to interesting\nphysical behavior and exploited in functional devices. Among the simplest\ninorganic systems with crystallographic chirality, elemental tellurium adopts\ncrystal structures with right- or left-handed chains. However, understanding\nthe formation mechanisms of those structures has been difficult due to the\nrapid crystallization of Te, which reaches the spatial and temporal resolution\nlimits of even the most advanced experiments. Here, we report\nultra-large-scale, quantum-mechanically accurate simulations that reveal\nmechanisms of crystallization and the origin of crystallographic chirality in\nsolid Te. We identify a characteristic, disordered cube-like structural motif\n-- a transient bonding environment with only nanosecond lifetime -- that\nenables both the rapid crystallization of Te and mediates chirality transfer.\nBased on the resulting microscopic understanding, we are able to explain the\nswitching behavior of Te-based electrical devices.",
+            "pdf_url": "http://arxiv.org/pdf/2409.03860v2",
+            "published": "2024-09-05 18:43:37+00:00",
+            "updated": "2024-10-28 16:37:49+00:00"
+        },
+        {
+            "title": "Degrees of Freedom of New General Relativity: Type 2, Type 3, Type 5, and Type 8",
+            "authors": "Kyosuke Tomonari, Daniel Blixt",
+            "summary": "We investigate the degrees of freedom of new general relativity. This theory\nis a three-parameter theory and is classified into nine irreducible types\naccording to the rotation symmetry of $SO(3)$ on each leaf of ADM-foliation. In\nthis work, we focus on unveiling the degrees of freedom of the physically\ninteresting types of NGR: Type 2, Type 3, Type 5, and Type 8, which contain the\ngravitational propagating degrees of freedom. First, we revisit the theory\nbased on the gauge approach to gravity and reformulate the Lagrangian of the\ntheory. Second, we review the irreducible decomposition of the theory while\nfocusing on the Hamiltonian and the primary constraints in each type. Third, we\nperform the Dirac-Bergmann analysis to unveil the degrees of freedom of the\ntheory in the case of Type 2, Type 3, Type 5, and Type 8. We find a novel new\nbehavior of constraints in Type 8, which is classified as second-class but not\nto determine any Lagrange multipliers and to provide the gauge invariance of\nthe theory under the satisfaction of a specific condition of the multipliers.\nThe degrees of freedom of Type 2, Type 3, and Type 5 are unveiled as six, five,\nand seven, respectively. The degrees of freedom of Type 8 is either four under\na specific condition to the Lagrange multipliers or six in the generic case.\nFinally, we conclude this work with several future perspectives.",
+            "pdf_url": "http://arxiv.org/pdf/2410.15056v2",
+            "published": "2024-10-19 10:20:35+00:00",
+            "updated": "2024-10-28 16:33:50+00:00"
+        },
+        {
+            "title": "Molecular sorting on a fluctuating membrane",
+            "authors": "Damiano Andreghetti, Luca Dall'Asta, Andrea Gamba, Igor Kolokolov, Vladimir Lebedev",
+            "summary": "Molecular sorting in biological membranes is essential for proper cellular\nfunction. It also plays a crucial role in the budding of enveloped viruses from\nhost cells. We recently proposed that this process is driven by phase\nseparation, where the formation and growth of sorting domains depend primarily\non short-range intermolecular interactions. In addition to these, Casimir-like\nforces -- arising from entropic effects in fluctuating membranes and acting on\nlonger ranges -- may also play a significant role in the molecular distillation\nprocess. Here, using a combination of theoretical analysis and numerical\nsimulations, we explore how these forces contribute to sorting, particularly in\nthe biologically relevant regime where short-range intermolecular interactions\nare weak. Our results show that Casimir-like forces enhance molecular\ndistillation by reducing the critical radius for the formation of new sorting\ndomains and facilitating the capture of molecules within these domains. We\nidentify the relative rigidity of the membrane and supermolecular domains as a\nkey parameter controlling molecular sorting efficiency, offering new insights\ninto the physical principles underlying molecular sorting in biological\nsystems.",
+            "pdf_url": "http://arxiv.org/pdf/2410.21186v1",
+            "published": "2024-10-28 16:25:57+00:00",
+            "updated": "2024-10-28 16:25:57+00:00"
+        }
+    ],
+    "Diffusion": [
+        {
+            "title": "One-Step Diffusion Policy: Fast Visuomotor Policies via Diffusion Distillation",
+            "authors": "Zhendong Wang, Zhaoshuo Li, Ajay Mandlekar, Zhenjia Xu, Jiaojiao Fan, Yashraj Narang, Linxi Fan, Yuke Zhu, Yogesh Balaji, Mingyuan Zhou, Ming-Yu Liu, Yu Zeng",
+            "summary": "Diffusion models, praised for their success in generative tasks, are\nincreasingly being applied to robotics, demonstrating exceptional performance\nin behavior cloning. However, their slow generation process stemming from\niterative denoising steps poses a challenge for real-time applications in\nresource-constrained robotics setups and dynamically changing environments. In\nthis paper, we introduce the One-Step Diffusion Policy (OneDP), a novel\napproach that distills knowledge from pre-trained diffusion policies into a\nsingle-step action generator, significantly accelerating response times for\nrobotic control tasks. We ensure the distilled generator closely aligns with\nthe original policy distribution by minimizing the Kullback-Leibler (KL)\ndivergence along the diffusion chain, requiring only $2\\%$-$10\\%$ additional\npre-training cost for convergence. We evaluated OneDP on 6 challenging\nsimulation tasks as well as 4 self-designed real-world tasks using the Franka\nrobot. The results demonstrate that OneDP not only achieves state-of-the-art\nsuccess rates but also delivers an order-of-magnitude improvement in inference\nspeed, boosting action prediction frequency from 1.5 Hz to 62 Hz, establishing\nits potential for dynamic and computationally constrained robotic applications.\nWe share the project page at https://research.nvidia.com/labs/dir/onedp/.",
+            "pdf_url": "http://arxiv.org/pdf/2410.21257v1",
+            "published": "2024-10-28 17:54:31+00:00",
+            "updated": "2024-10-28 17:54:31+00:00"
+        },
+        {
+            "title": "Customizing Text-to-Image Models with a Single Image Pair",
+            "authors": "Maxwell Jones, Sheng-Yu Wang, Nupur Kumari, David Bau, Jun-Yan Zhu",
+            "summary": "Art reinterpretation is the practice of creating a variation of a reference\nwork, making a paired artwork that exhibits a distinct artistic style. We ask\nif such an image pair can be used to customize a generative model to capture\nthe demonstrated stylistic difference. We propose Pair Customization, a new\ncustomization method that learns stylistic difference from a single image pair\nand then applies the acquired style to the generation process. Unlike existing\nmethods that learn to mimic a single concept from a collection of images, our\nmethod captures the stylistic difference between paired images. This allows us\nto apply a stylistic change without overfitting to the specific image content\nin the examples. To address this new task, we employ a joint optimization\nmethod that explicitly separates the style and content into distinct LoRA\nweight spaces. We optimize these style and content weights to reproduce the\nstyle and content images while encouraging their orthogonality. During\ninference, we modify the diffusion process via a new style guidance based on\nour learned weights. Both qualitative and quantitative experiments show that\nour method can effectively learn style while avoiding overfitting to image\ncontent, highlighting the potential of modeling such stylistic differences from\na single image pair.",
+            "pdf_url": "http://arxiv.org/pdf/2405.01536v2",
+            "published": "2024-05-02 17:59:52+00:00",
+            "updated": "2024-10-28 17:02:28+00:00"
+        },
+        {
+            "title": "On learning higher-order cumulants in diffusion models",
+            "authors": "Gert Aarts, Diaa E. Habibi, Lingxiao Wang, Kai Zhou",
+            "summary": "To analyse how diffusion models learn correlations beyond Gaussian ones, we\nstudy the behaviour of higher-order cumulants, or connected n-point functions,\nunder both the forward and backward process. We derive explicit expressions for\nthe moment- and cumulant-generating functionals, in terms of the distribution\nof the initial data and properties of forward process. It is shown analytically\nthat during the forward process higher-order cumulants are conserved in models\nwithout a drift, such as the variance-expanding scheme, and that therefore the\nendpoint of the forward process maintains nontrivial correlations. We\ndemonstrate that since these correlations are encoded in the score function,\nhigher-order cumulants are learnt in the backward process, also when starting\nfrom a normal prior. We confirm our analytical results in an exactly solvable\ntoy model with nonzero cumulants and in scalar lattice field theory.",
+            "pdf_url": "http://arxiv.org/pdf/2410.21212v1",
+            "published": "2024-10-28 16:57:02+00:00",
+            "updated": "2024-10-28 16:57:02+00:00"
+        },
+        {
+            "title": "Aligning Text-to-Image Diffusion Models with Reward Backpropagation",
+            "authors": "Mihir Prabhudesai, Anirudh Goyal, Deepak Pathak, Katerina Fragkiadaki",
+            "summary": "Text-to-image diffusion models have recently emerged at the forefront of\nimage generation, powered by very large-scale unsupervised or weakly supervised\ntext-to-image training datasets. Due to their unsupervised training,\ncontrolling their behavior in downstream tasks, such as maximizing\nhuman-perceived image quality, image-text alignment, or ethical image\ngeneration, is difficult. Recent works finetune diffusion models to downstream\nreward functions using vanilla reinforcement learning, notorious for the high\nvariance of the gradient estimators. In this paper, we propose AlignProp, a\nmethod that aligns diffusion models to downstream reward functions using\nend-to-end backpropagation of the reward gradient through the denoising\nprocess. While naive implementation of such backpropagation would require\nprohibitive memory resources for storing the partial derivatives of modern\ntext-to-image models, AlignProp finetunes low-rank adapter weight modules and\nuses gradient checkpointing, to render its memory usage viable. We test\nAlignProp in finetuning diffusion models to various objectives, such as\nimage-text semantic alignment, aesthetics, compressibility and controllability\nof the number of objects present, as well as their combinations. We show\nAlignProp achieves higher rewards in fewer training steps than alternatives,\nwhile being conceptually simpler, making it a straightforward choice for\noptimizing diffusion models for differentiable reward functions of interest.\nCode and Visualization results are available at https://align-prop.github.io/.",
+            "pdf_url": "http://arxiv.org/pdf/2310.03739v3",
+            "published": "2023-10-05 17:59:18+00:00",
+            "updated": "2024-10-28 16:25:10+00:00"
+        },
+        {
+            "title": "Trajectory Flow Matching with Applications to Clinical Time Series Modeling",
+            "authors": "Xi Zhang, Yuan Pu, Yuki Kawamura, Andrew Loza, Yoshua Bengio, Dennis L. Shung, Alexander Tong",
+            "summary": "Modeling stochastic and irregularly sampled time series is a challenging\nproblem found in a wide range of applications, especially in medicine. Neural\nstochastic differential equations (Neural SDEs) are an attractive modeling\ntechnique for this problem, which parameterize the drift and diffusion terms of\nan SDE with neural networks. However, current algorithms for training Neural\nSDEs require backpropagation through the SDE dynamics, greatly limiting their\nscalability and stability. To address this, we propose Trajectory Flow Matching\n(TFM), which trains a Neural SDE in a simulation-free manner, bypassing\nbackpropagation through the dynamics. TFM leverages the flow matching technique\nfrom generative modeling to model time series. In this work we first establish\nnecessary conditions for TFM to learn time series data. Next, we present a\nreparameterization trick which improves training stability. Finally, we adapt\nTFM to the clinical time series setting, demonstrating improved performance on\nthree clinical time series datasets both in terms of absolute performance and\nuncertainty prediction.",
+            "pdf_url": "http://arxiv.org/pdf/2410.21154v1",
+            "published": "2024-10-28 15:54:50+00:00",
+            "updated": "2024-10-28 15:54:50+00:00"
+        }
+    ]
+}
