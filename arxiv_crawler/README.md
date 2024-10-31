@@ -75,6 +75,36 @@ TODO:
 
 
 
+
+## Update on 2024-10-31
+
+### Physics
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2024-10-30|2024-10-30|Exact overlaps for "all" integrable matrix product states of rational spin chains|Tamas Gombor|[2410.23282v1](http://arxiv.org/pdf/2410.23282v1)|
+|2024-10-30|2024-10-30|Slow Relaxation in a Glassy Quantum Circuit|Richard D. Barney|[2410.23281v1](http://arxiv.org/pdf/2410.23281v1)|
+|2024-10-30|2024-10-30|A little less conversation, a little more action, please: Investigating the physical common-sense of LLMs in a 3D embodied environment|Matteo G. Mecattaf|[2410.23242v1](http://arxiv.org/pdf/2410.23242v1)|
+|2024-10-28|2024-10-30|Super-resolution in disordered media using neural networks|Alexander Christie|[2410.21556v2](http://arxiv.org/pdf/2410.21556v2)|
+|2024-10-30|2024-10-30|HGPflow: Extending Hypergraph Particle Flow to Collider Event Reconstruction|Nilotpal Kakati|[2410.23236v1](http://arxiv.org/pdf/2410.23236v1)|
+|2024-10-30|2024-10-30|Kinetix: Investigating the Training of General Agents through Open-Ended Physics-Based Control Tasks|Michael Matthews|[2410.23208v1](http://arxiv.org/pdf/2410.23208v1)|
+|2024-10-30|2024-10-30|Classically studied coherent structures only paint a partial picture of wall-bounded turbulence|Andrés Cremades|[2410.23189v1](http://arxiv.org/pdf/2410.23189v1)|
+|2024-10-30|2024-10-30|Double BFV quantisation of 3d Gravity|Giovanni Canepa|[2410.23184v1](http://arxiv.org/pdf/2410.23184v1)|
+|2024-10-30|2024-10-30|A Low-Cost, Low-Power Media Converter Solution for Next-Generation Detector Readout Systems|Alberto Perro|[2410.23173v1](http://arxiv.org/pdf/2410.23173v1)|
+|2024-10-30|2024-10-30|When can classical neural networks represent quantum states?|Tai-Hsuan Yang|[2410.23152v1](http://arxiv.org/pdf/2410.23152v1)|
+
+### Diffusion
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2024-10-30|2024-10-30|Provable acceleration for diffusion models under minimal assumptions|Gen Li|[2410.23285v1](http://arxiv.org/pdf/2410.23285v1)|
+|2024-10-30|2024-10-30|SlowFast-VGen: Slow-Fast Learning for Action-Driven Long Video Generation|Yining Hong|[2410.23277v1](http://arxiv.org/pdf/2410.23277v1)|
+|2024-10-30|2024-10-30|Multi-student Diffusion Distillation for Better One-step Generators|Yanke Song|[2410.23274v1](http://arxiv.org/pdf/2410.23274v1)|
+|2024-06-20|2024-10-30|Optimal deep learning of holomorphic operators between Banach spaces|Ben Adcock|[2406.13928v2](http://arxiv.org/pdf/2406.13928v2)|
+|2024-05-29|2024-10-30|MemControl: Mitigating Memorization in Diffusion Models via Automated Parameter Selection|Raman Dutt|[2405.19458v2](http://arxiv.org/pdf/2405.19458v2)|
+
+### Quantitative Finance
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2024-10-28|2024-10-28|FinTeamExperts: Role Specialized MOEs For Financial Analysis|Yue Yu|[2410.21338v1](http://arxiv.org/pdf/2410.21338v1)|
 ## Update on 2024-10-29
 
 ### Physics

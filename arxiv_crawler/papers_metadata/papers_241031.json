@@ -1,0 +1,136 @@
+{
+    "Physics": [
+        {
+            "title": "Exact overlaps for \"all\" integrable matrix product states of rational spin chains",
+            "authors": "Tamas Gombor",
+            "summary": "The overlaps between integrable matrix product states (MPS) and Bethe states\nare important in both the non-equilibrium statistical physics and the AdS/CFT\nduality. We present the general MPS overlap formula. The result is a product of\na ratio of Gaudin determinants and a prefactor. The Gaudin determinants depend\non the spin chain but not on the MPS. The MPS dependent prefactor is given for\nall integrable MPS of the $\\mathfrak{gl}_{N}$, $\\mathfrak{o}_{N}$ and\n$\\mathfrak{sp}_{N}$ symmetric spin chains with arbitrary representations.",
+            "pdf_url": "http://arxiv.org/pdf/2410.23282v1",
+            "published": "2024-10-30 17:58:23+00:00",
+            "updated": "2024-10-30 17:58:23+00:00"
+        },
+        {
+            "title": "Slow Relaxation in a Glassy Quantum Circuit",
+            "authors": "Richard D. Barney, Yunxiang Liao, Victor Galitski",
+            "summary": "Quantum circuits have become a powerful tool in the study of many-body\nquantum physics, providing insights into both fast-thermalizing chaotic and\nnon-thermalizing integrable many-body dynamics. In this work, we explore a\ndistinct intermediate class - glassy quantum systems - where thermalization\noccurs, but over very long timescales. We introduce and analyze a Floquet\nrandom quantum circuit that can be tuned between glassy and fully ergodic\nbehavior through a single adjustable parameter. This circuit can be understood\nas the unitary analog of the block Rosenzweig-Porter model, which is defined by\na Hamiltonian. Using an effective field theory for random quantum circuits, we\nanalyze the correlations between quasienergy eigenstates and thereby determine\nthe time evolution of the disorder-averaged density matrix. In the intermediate\nregime the circuit displays a two-step thermalization process: an initial\nrelaxation within weakly coupled sectors followed by a later, global\nthermalization. We also show that the ramp of the spectral form factor is\nenhanced by a factor of the number of sectors in the glassy regime, and at\nearly times in the intermediate regime. These results indicate that quantum\ncircuits provide an ideal platform for the exploration of nontrivial\nthermalization dynamics in many-body quantum systems, offering deeper insights\ninto quantum thermalization.",
+            "pdf_url": "http://arxiv.org/pdf/2410.23281v1",
+            "published": "2024-10-30 17:58:08+00:00",
+            "updated": "2024-10-30 17:58:08+00:00"
+        },
+        {
+            "title": "A little less conversation, a little more action, please: Investigating the physical common-sense of LLMs in a 3D embodied environment",
+            "authors": "Matteo G. Mecattaf, Ben Slater, Marko Te\u0161i\u0107, Jonathan Prunty, Konstantinos Voudouris, Lucy G. Cheke",
+            "summary": "As general-purpose tools, Large Language Models (LLMs) must often reason\nabout everyday physical environments. In a question-and-answer capacity,\nunderstanding the interactions of physical objects may be necessary to give\nappropriate responses. Moreover, LLMs are increasingly used as reasoning\nengines in agentic systems, designing and controlling their action sequences.\nThe vast majority of research has tackled this issue using static benchmarks,\ncomprised of text or image-based questions about the physical world. However,\nthese benchmarks do not capture the complexity and nuance of real-life physical\nprocesses. Here we advocate for a second, relatively unexplored, approach:\n'embodying' the LLMs by granting them control of an agent within a 3D\nenvironment. We present the first embodied and cognitively meaningful\nevaluation of physical common-sense reasoning in LLMs. Our framework allows\ndirect comparison of LLMs with other embodied agents, such as those based on\nDeep Reinforcement Learning, and human and non-human animals. We employ the\nAnimal-AI (AAI) environment, a simulated 3D virtual laboratory, to study\nphysical common-sense reasoning in LLMs. For this, we use the AAI Testbed, a\nsuite of experiments that replicate laboratory studies with non-human animals,\nto study physical reasoning capabilities including distance estimation,\ntracking out-of-sight objects, and tool use. We demonstrate that\nstate-of-the-art multi-modal models with no finetuning can complete this style\nof task, allowing meaningful comparison to the entrants of the 2019 Animal-AI\nOlympics competition and to human children. Our results show that LLMs are\ncurrently outperformed by human children on these tasks. We argue that this\napproach allows the study of physical reasoning using ecologically valid\nexperiments drawn directly from cognitive science, improving the predictability\nand reliability of LLMs.",
+            "pdf_url": "http://arxiv.org/pdf/2410.23242v1",
+            "published": "2024-10-30 17:28:28+00:00",
+            "updated": "2024-10-30 17:28:28+00:00"
+        },
+        {
+            "title": "Super-resolution in disordered media using neural networks",
+            "authors": "Alexander Christie, Matan Leibovich, Miguel Moscoso, Alexei Novikov, George Papanicolaou, Chrysoula Tsogka",
+            "summary": "We propose a methodology that exploits large and diverse data sets to\naccurately estimate the ambient medium's Green's functions in strongly\nscattering media. Given these estimates, obtained with and without the use of\nneural networks, excellent imaging results are achieved, with a resolution that\nis better than that of a homogeneous medium. This phenomenon, also known as\nsuper-resolution, occurs because the ambient scattering medium effectively\nenhances the physical imaging aperture.",
+            "pdf_url": "http://arxiv.org/pdf/2410.21556v2",
+            "published": "2024-10-28 21:35:08+00:00",
+            "updated": "2024-10-30 17:27:58+00:00"
+        },
+        {
+            "title": "HGPflow: Extending Hypergraph Particle Flow to Collider Event Reconstruction",
+            "authors": "Nilotpal Kakati, Etienne Dreyer, Anna Ivina, Francesco Armando Di Bello, Lukas Heinrich, Marumi Kado, Eilam Gross",
+            "summary": "In high energy physics, the ability to reconstruct particles based on their\ndetector signatures is essential for downstream data analyses. A particle\nreconstruction algorithm based on learning hypergraphs (HGPflow) has previously\nbeen explored in the context of single jets. In this paper, we expand the scope\nto full proton-proton and electron-positron collision events and study\nreconstruction quality using metrics at the particle, jet, and event levels.\nRather than operating on the entire event in a single pass, we train HGPflow on\nsmaller partitions to avoid potentially learning long-range correlations\nrelated to the physics process. We demonstrate that this approach is feasible\nand that on most metrics, HGPflow outperforms both traditional particle flow\nalgorithms and a machine learning-based benchmark model.",
+            "pdf_url": "http://arxiv.org/pdf/2410.23236v1",
+            "published": "2024-10-30 17:25:16+00:00",
+            "updated": "2024-10-30 17:25:16+00:00"
+        },
+        {
+            "title": "Kinetix: Investigating the Training of General Agents through Open-Ended Physics-Based Control Tasks",
+            "authors": "Michael Matthews, Michael Beukman, Chris Lu, Jakob Foerster",
+            "summary": "While large models trained with self-supervised learning on offline datasets\nhave shown remarkable capabilities in text and image domains, achieving the\nsame generalisation for agents that act in sequential decision problems remains\nan open challenge. In this work, we take a step towards this goal by\nprocedurally generating tens of millions of 2D physics-based tasks and using\nthese to train a general reinforcement learning (RL) agent for physical\ncontrol. To this end, we introduce Kinetix: an open-ended space of\nphysics-based RL environments that can represent tasks ranging from robotic\nlocomotion and grasping to video games and classic RL environments, all within\na unified framework. Kinetix makes use of our novel hardware-accelerated\nphysics engine Jax2D that allows us to cheaply simulate billions of environment\nsteps during training. Our trained agent exhibits strong physical reasoning\ncapabilities, being able to zero-shot solve unseen human-designed environments.\nFurthermore, fine-tuning this general agent on tasks of interest shows\nsignificantly stronger performance than training an RL agent *tabula rasa*.\nThis includes solving some environments that standard RL training completely\nfails at. We believe this demonstrates the feasibility of large scale,\nmixed-quality pre-training for online RL and we hope that Kinetix will serve as\na useful framework to investigate this further.",
+            "pdf_url": "http://arxiv.org/pdf/2410.23208v1",
+            "published": "2024-10-30 16:59:41+00:00",
+            "updated": "2024-10-30 16:59:41+00:00"
+        },
+        {
+            "title": "Classically studied coherent structures only paint a partial picture of wall-bounded turbulence",
+            "authors": "Andr\u00e9s Cremades, Sergio Hoyas, Ricardo Vinuesa",
+            "summary": "For the last 140 years, the mechanisms of transport and dissipation of energy\nin a turbulent flow have not been completely understood due to the complexity\nof this phenomenon. The dissipation of energy due to turbulence is\nsignificative, and understanding turbulence physics is crucial for fighting the\npresent climate emergency. Previous research has focused on analyzing the\nso-called coherent structures of the flow (Q events, streaks, and vortices),\nwhich are regions of high turbulence transport, high/low streamwise\nfluctuation, and rotation, respectively. However, the connection between these\nclassically studied structures and the flow development is still uncertain. To\nfill this gap, here we show a data-driven methodology for objectively\nidentifying high-importance regions in a turbulent flow. A deep-learning model\nis trained to predict a future state of a turbulent channel flow and the\ngradient-SHAP explainability algorithm is used to calculate the importance of\neach grid point for such a prediction. Finally, high-importance regions are\ncomputed using the SHAP data, analyzing and comparing their characteristics\nwith those of the other coherent structures. The SHAP analysis provides an\nobjective way to identify the regions of highest importance in the turbulent\nflow, which exhibit different levels of agreement with the classically studied\nstructures.",
+            "pdf_url": "http://arxiv.org/pdf/2410.23189v1",
+            "published": "2024-10-30 16:45:22+00:00",
+            "updated": "2024-10-30 16:45:22+00:00"
+        },
+        {
+            "title": "Double BFV quantisation of 3d Gravity",
+            "authors": "Giovanni Canepa, Michele Schiavina",
+            "summary": "We extend the cohomological setting developed by Batalin, Fradkin and\nVilkovisky to the case of a nested coisotropic embedding $C\\hookrightarrow\nC_\\circ \\hookrightarrow F$ inside a symplectic manifold $F$.\n  To this, we naturally assign the coisotropic reductions $\\pi\\colon C\\to\n\\underline{C}$, as well as $\\pi_\\circ\\colon C_\\circ\\to\\underline{C_\\circ}$ and\nthe residual reduction $\\pi_{\\mathrm{res}}\\colon C_{\\mathrm{res}}\\to\n\\underline{C_{\\mathrm{res}}}$, where\n$C_{\\mathrm{res}}=\\pi_\\circ(C)\\hookrightarrow \\underline{C_\\circ}$ is the\nresidual coisotropic embedding such that $\\underline{C_{\\mathrm{res}}}\\simeq\n\\underline{C}$.\n  We show that there is a relation between the BFV resolutions of\n$\\underline{C_\\circ}$ and $\\underline{C}$, in terms of a graded coisotropic\nembedding, which can further be resolved via BFV.\n  We call this construction \\emph{double BFV resolution}, and we use it to\nprove that \"resolution commutes with reduction\". We then deduce a quantisation\nof $\\underline{C}\\simeq\\underline{C_{\\mathrm{res}}}$, from a quantisation of\nthe double BFV Hamiltonian dg manifold following the quantum BFV prescription\n(when it exists). As an application, we provide a well defined candidate space\nof (physical) quantum states of three-dimensional Einstein--Hilbert theory,\nwhich is thought of as a partial reduction of the Palatini--Cartan model for\ngravity.",
+            "pdf_url": "http://arxiv.org/pdf/2410.23184v1",
+            "published": "2024-10-30 16:39:41+00:00",
+            "updated": "2024-10-30 16:39:41+00:00"
+        },
+        {
+            "title": "A Low-Cost, Low-Power Media Converter Solution for Next-Generation Detector Readout Systems",
+            "authors": "Alberto Perro, Mitja Vodnik, Paolo Durante",
+            "summary": "High Energy Physics (HEP) data acquisition systems are often built from\nhigh-end FPGAs. As such systems scale in the HL-LHC era, severe\nunder-utilization of FPGA transceivers can occur because front-end links\nprioritize radiation hardness and power consumption over raw data bandwidth.\nThis work evaluates recently introduced low-power, low-cost FPGA devices as an\nalternative building block for future readout architectures. This study\npresents the implementation of a readout back-End on FPGA where the front-end\nprotocol is based on the Low-Power GigaBit Transceiver (lpGBT) and the readout\nprotocol is based on 10 Gigabit Ethernet, using the LHCb Run 4 RICH detector as\na practical case study.",
+            "pdf_url": "http://arxiv.org/pdf/2410.23173v1",
+            "published": "2024-10-30 16:29:46+00:00",
+            "updated": "2024-10-30 16:29:46+00:00"
+        },
+        {
+            "title": "When can classical neural networks represent quantum states?",
+            "authors": "Tai-Hsuan Yang, Mehdi Soleimanifar, Thiago Bergamaschi, John Preskill",
+            "summary": "A naive classical representation of an n-qubit state requires specifying\nexponentially many amplitudes in the computational basis. Past works have\ndemonstrated that classical neural networks can succinctly express these\namplitudes for many physically relevant states, leading to computationally\npowerful representations known as neural quantum states. What underpins the\nefficacy of such representations? We show that conditional correlations present\nin the measurement distribution of quantum states control the performance of\ntheir neural representations. Such conditional correlations are basis\ndependent, arise due to measurement-induced entanglement, and reveal features\nnot accessible through conventional few-body correlations often examined in\nstudies of phases of matter. By combining theoretical and numerical analysis,\nwe demonstrate how the state's entanglement and sign structure, along with the\nchoice of measurement basis, give rise to distinct patterns of short- or\nlong-range conditional correlations. Our findings provide a rigorous framework\nfor exploring the expressive power of neural quantum states.",
+            "pdf_url": "http://arxiv.org/pdf/2410.23152v1",
+            "published": "2024-10-30 16:06:53+00:00",
+            "updated": "2024-10-30 16:06:53+00:00"
+        }
+    ],
+    "Diffusion": [
+        {
+            "title": "Provable acceleration for diffusion models under minimal assumptions",
+            "authors": "Gen Li, Changxiao Cai",
+            "summary": "While score-based diffusion models have achieved exceptional sampling\nquality, their sampling speeds are often limited by the high computational\nburden of score function evaluations. Despite the recent remarkable empirical\nadvances in speeding up the score-based samplers, theoretical understanding of\nacceleration techniques remains largely limited. To bridge this gap, we propose\na novel training-free acceleration scheme for stochastic samplers. Under\nminimal assumptions -- namely, $L^2$-accurate score estimates and a finite\nsecond-moment condition on the target distribution -- our accelerated sampler\nprovably achieves $\\varepsilon$-accuracy in total variation within\n$\\widetilde{O}(d^{5/4}/\\sqrt{\\varepsilon})$ iterations, thereby significantly\nimproving upon the $\\widetilde{O}(d/\\varepsilon)$ iteration complexity of\nstandard score-based samplers. Notably, our convergence theory does not rely on\nrestrictive assumptions on the target distribution or higher-order score\nestimation guarantees.",
+            "pdf_url": "http://arxiv.org/pdf/2410.23285v1",
+            "published": "2024-10-30 17:59:06+00:00",
+            "updated": "2024-10-30 17:59:06+00:00"
+        },
+        {
+            "title": "SlowFast-VGen: Slow-Fast Learning for Action-Driven Long Video Generation",
+            "authors": "Yining Hong, Beide Liu, Maxine Wu, Yuanhao Zhai, Kai-Wei Chang, Lingjie Li, Kevin Lin, Chung-Ching Lin, Jianfeng Wang, Zhengyuan Yang, Yingnian Wu, Lijuan Wang",
+            "summary": "Human beings are endowed with a complementary learning system, which bridges\nthe slow learning of general world dynamics with fast storage of episodic\nmemory from a new experience. Previous video generation models, however,\nprimarily focus on slow learning by pre-training on vast amounts of data,\noverlooking the fast learning phase crucial for episodic memory storage. This\noversight leads to inconsistencies across temporally distant frames when\ngenerating longer videos, as these frames fall beyond the model's context\nwindow. To this end, we introduce SlowFast-VGen, a novel dual-speed learning\nsystem for action-driven long video generation. Our approach incorporates a\nmasked conditional video diffusion model for the slow learning of world\ndynamics, alongside an inference-time fast learning strategy based on a\ntemporal LoRA module. Specifically, the fast learning process updates its\ntemporal LoRA parameters based on local inputs and outputs, thereby efficiently\nstoring episodic memory in its parameters. We further propose a slow-fast\nlearning loop algorithm that seamlessly integrates the inner fast learning loop\ninto the outer slow learning loop, enabling the recall of prior multi-episode\nexperiences for context-aware skill learning. To facilitate the slow learning\nof an approximate world model, we collect a large-scale dataset of 200k videos\nwith language action annotations, covering a wide range of scenarios. Extensive\nexperiments show that SlowFast-VGen outperforms baselines across various\nmetrics for action-driven video generation, achieving an FVD score of 514\ncompared to 782, and maintaining consistency in longer videos, with an average\nof 0.37 scene cuts versus 0.89. The slow-fast learning loop algorithm\nsignificantly enhances performances on long-horizon planning tasks as well.\nProject Website: https://slowfast-vgen.github.io",
+            "pdf_url": "http://arxiv.org/pdf/2410.23277v1",
+            "published": "2024-10-30 17:55:52+00:00",
+            "updated": "2024-10-30 17:55:52+00:00"
+        },
+        {
+            "title": "Multi-student Diffusion Distillation for Better One-step Generators",
+            "authors": "Yanke Song, Jonathan Lorraine, Weili Nie, Karsten Kreis, James Lucas",
+            "summary": "Diffusion models achieve high-quality sample generation at the cost of a\nlengthy multistep inference procedure. To overcome this, diffusion distillation\ntechniques produce student generators capable of matching or surpassing the\nteacher in a single step. However, the student model's inference speed is\nlimited by the size of the teacher architecture, preventing real-time\ngeneration for computationally heavy applications. In this work, we introduce\nMulti-Student Distillation (MSD), a framework to distill a conditional teacher\ndiffusion model into multiple single-step generators. Each student generator is\nresponsible for a subset of the conditioning data, thereby obtaining higher\ngeneration quality for the same capacity. MSD trains multiple distilled\nstudents, allowing smaller sizes and, therefore, faster inference. Also, MSD\noffers a lightweight quality boost over single-student distillation with the\nsame architecture. We demonstrate MSD is effective by training multiple\nsame-sized or smaller students on single-step distillation using distribution\nmatching and adversarial distillation techniques. With smaller students, MSD\ngets competitive results with faster inference for single-step generation.\nUsing 4 same-sized students, MSD sets a new state-of-the-art for one-step image\ngeneration: FID 1.20 on ImageNet-64x64 and 8.20 on zero-shot COCO2014.",
+            "pdf_url": "http://arxiv.org/pdf/2410.23274v1",
+            "published": "2024-10-30 17:54:56+00:00",
+            "updated": "2024-10-30 17:54:56+00:00"
+        },
+        {
+            "title": "Optimal deep learning of holomorphic operators between Banach spaces",
+            "authors": "Ben Adcock, Nick Dexter, Sebastian Moraga",
+            "summary": "Operator learning problems arise in many key areas of scientific computing\nwhere Partial Differential Equations (PDEs) are used to model physical systems.\nIn such scenarios, the operators map between Banach or Hilbert spaces. In this\nwork, we tackle the problem of learning operators between Banach spaces, in\ncontrast to the vast majority of past works considering only Hilbert spaces. We\nfocus on learning holomorphic operators - an important class of problems with\nmany applications. We combine arbitrary approximate encoders and decoders with\nstandard feedforward Deep Neural Network (DNN) architectures - specifically,\nthose with constant width exceeding the depth - under standard $\\ell^2$-loss\nminimization. We first identify a family of DNNs such that the resulting Deep\nLearning (DL) procedure achieves optimal generalization bounds for such\noperators. For standard fully-connected architectures, we then show that there\nare uncountably many minimizers of the training problem that yield equivalent\noptimal performance. The DNN architectures we consider are `problem agnostic',\nwith width and depth only depending on the amount of training data $m$ and not\non regularity assumptions of the target operator. Next, we show that DL is\noptimal for this problem: no recovery procedure can surpass these\ngeneralization bounds up to log terms. Finally, we present numerical results\ndemonstrating the practical performance on challenging problems including the\nparametric diffusion, Navier-Stokes-Brinkman and Boussinesq PDEs.",
+            "pdf_url": "http://arxiv.org/pdf/2406.13928v2",
+            "published": "2024-06-20 01:49:42+00:00",
+            "updated": "2024-10-30 15:34:22+00:00"
+        },
+        {
+            "title": "MemControl: Mitigating Memorization in Diffusion Models via Automated Parameter Selection",
+            "authors": "Raman Dutt, Ondrej Bohdal, Pedro Sanchez, Sotirios A. Tsaftaris, Timothy Hospedales",
+            "summary": "Diffusion models excel in generating images that closely resemble their\ntraining data but are also susceptible to data memorization, raising privacy,\nethical, and legal concerns, particularly in sensitive domains such as medical\nimaging. We hypothesize that this memorization stems from the\noverparameterization of deep models and propose that regularizing model\ncapacity during fine-tuning can mitigate this issue. Firstly, we empirically\nshow that regulating the model capacity via Parameter-efficient fine-tuning\n(PEFT) mitigates memorization to some extent, however, it further requires the\nidentification of the exact parameter subsets to be fine-tuned for high-quality\ngeneration. To identify these subsets, we introduce a bi-level optimization\nframework, MemControl, that automates parameter selection using memorization\nand generation quality metrics as rewards during fine-tuning. The parameter\nsubsets discovered through MemControl achieve a superior tradeoff between\ngeneration quality and memorization. For the task of medical image generation,\nour approach outperforms existing state-of-the-art memorization mitigation\nstrategies by fine-tuning as few as 0.019% of model parameters. Moreover, we\ndemonstrate that the discovered parameter subsets are transferable to\nnon-medical domains. Our framework is scalable to large datasets, agnostic to\nreward functions, and can be integrated with existing approaches for further\nmemorization mitigation. To the best of our knowledge, this is the first study\nto empirically evaluate memorization in medical images and propose a targeted\nyet universal mitigation strategy. The code is available at\nhttps://github.com/Raman1121/Diffusion_Memorization_HPO",
+            "pdf_url": "http://arxiv.org/pdf/2405.19458v2",
+            "published": "2024-05-29 19:12:08+00:00",
+            "updated": "2024-10-30 15:02:54+00:00"
+        }
+    ],
+    "Quantitative Finance": [
+        {
+            "title": "FinTeamExperts: Role Specialized MOEs For Financial Analysis",
+            "authors": "Yue Yu, Prayag Tiwari",
+            "summary": "Large Language Models (LLMs), such as ChatGPT, Phi3 and Llama-3, are leading\na significant leap in AI, as they can generalize knowledge from their training\nto new tasks without fine-tuning. However, their application in the financial\ndomain remains relatively limited. The financial field is inherently complex,\nrequiring a deep understanding across various perspectives, from macro, micro\neconomic trend to quantitative analysis. Motivated by this complexity, a\nmixture of expert LLMs tailored to specific financial domains could offer a\nmore comprehensive understanding for intricate financial tasks. In this paper,\nwe present the FinTeamExperts, a role-specialized LLM framework structured as a\nMixture of Experts (MOEs) for financial analysis. The framework simulates a\ncollaborative team setting by training each model to specialize in distinct\nroles: Macro Analysts, Micro analysts, and Quantitative Analysts. This\nrole-specific specialization enhances the model's ability to integrate their\ndomain-specific expertise. We achieve this by training three 8-billion\nparameter models on different corpus, each dedicated to excelling in specific\nfinance-related roles. We then instruct-tune FinTeamExperts on downstream tasks\nto align with practical financial tasks. The experimental results show that\nFinTeamExperts outperform all models of the same size and larger on three out\nof four datasets. On the fourth dataset, which presents a more complex task,\nFinTeamExperts still surpass all models of the same size. This highlights the\nsuccess of our role-based specialization approach and the continued training\napproach for FinTeamExperts.",
+            "pdf_url": "http://arxiv.org/pdf/2410.21338v1",
+            "published": "2024-10-28 00:40:55+00:00",
+            "updated": "2024-10-28 00:40:55+00:00"
+        }
+    ]
+}
