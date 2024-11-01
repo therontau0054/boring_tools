@@ -76,6 +76,31 @@ TODO:
 
 
 
+
+## Update on 2024-11-01
+
+### Physics
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2024-07-02|2024-10-31|Thouless pumping in a driven-dissipative Kerr resonator array|S. Ravets|[2407.02627v2](http://arxiv.org/pdf/2407.02627v2)|
+|2024-10-31|2024-10-31|The time-dependent bivariational principle: Theoretical foundation for real-time propagation methods of coupled-cluster type|Simen Kvaal|[2410.24192v1](http://arxiv.org/pdf/2410.24192v1)|
+|2024-07-05|2024-10-31|Neutrino quantum kinetics in two spatial dimensions|Marie Cornelius|[2407.04769v2](http://arxiv.org/pdf/2407.04769v2)|
+|2024-10-31|2024-10-31|The Importance of Being Scalable: Improving the Speed and Accuracy of Neural Network Interatomic Potentials Across Chemical Domains|Eric Qu|[2410.24169v1](http://arxiv.org/pdf/2410.24169v1)|
+|2024-05-02|2024-10-31|Arrows of time in bouncing cosmologies|Marco de Cesare|[2405.01380v2](http://arxiv.org/pdf/2405.01380v2)|
+|2024-10-31|2024-10-31|2D magnetic stability|Douglas Lundholm|[2410.24156v1](http://arxiv.org/pdf/2410.24156v1)|
+|2024-10-31|2024-10-31|Modeling Brownian Motion as a Timelapse of the Physical, Persistent, Trajectory|Ludovico Cademartiri|[2410.24137v1](http://arxiv.org/pdf/2410.24137v1)|
+|2024-10-31|2024-10-31|Optics tuning simulations for FCC-ee using Python Accelerator Toolbox|Elaf Musa|[2410.24129v1](http://arxiv.org/pdf/2410.24129v1)|
+|2024-10-31|2024-10-31|More global randomness from less random local gates|Ryotaro Suzuki|[2410.24127v1](http://arxiv.org/pdf/2410.24127v1)|
+|2024-10-31|2024-10-31|gSeaGen code by KM3NeT: an efficient tool to propagate muons simulated with CORSIKA|S. Aiello|[2410.24115v1](http://arxiv.org/pdf/2410.24115v1)|
+
+### Diffusion
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2024-10-31|2024-10-31|Bridging Geometric States via Geometric Diffusion Bridge|Shengjie Luo|[2410.24220v1](http://arxiv.org/pdf/2410.24220v1)|
+|2024-10-31|2024-10-31|DiffPano: Scalable and Consistent Text to Panorama Generation with Spherical Epipolar-Aware Diffusion|Weicai Ye|[2410.24203v1](http://arxiv.org/pdf/2410.24203v1)|
+|2023-06-02|2024-10-31|Invisible Image Watermarks Are Provably Removable Using Generative AI|Xuandong Zhao|[2306.01953v3](http://arxiv.org/pdf/2306.01953v3)|
+|2024-10-31|2024-10-31|AR-Pro: Counterfactual Explanations for Anomaly Repair with Formal Properties|Xiayan Ji|[2410.24178v1](http://arxiv.org/pdf/2410.24178v1)|
+|2024-06-16|2024-10-31|Ab Initio Structure Solutions from Nanocrystalline Powder Diffraction Data|Gabe Guo|[2406.10796v2](http://arxiv.org/pdf/2406.10796v2)|
 ## Update on 2024-10-31
 
 ### Physics
