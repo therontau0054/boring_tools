@@ -77,6 +77,31 @@ TODO:
 
 
 
+
+## Update on 2024-11-05
+
+### Physics
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2023-12-22|2024-11-04|Data augmentation for the POD formulation of the parametric laminar incompressible Navier-Stokes equations|Alba Muixí|[2312.14756v2](http://arxiv.org/pdf/2312.14756v2)|
+|2024-11-04|2024-11-04|How Far is Video Generation from World Model: A Physical Law Perspective|Bingyi Kang|[2411.02385v1](http://arxiv.org/pdf/2411.02385v1)|
+|2024-11-04|2024-11-04|LDPC stabilizer codes as gapped quantum phases: stability under graph-local perturbations|Wojciech De Roeck|[2411.02384v1](http://arxiv.org/pdf/2411.02384v1)|
+|2023-06-30|2024-11-04|Amplitudes and Renormalization Group Techniques: A Case Study|Diego Buccio|[2307.00055v3](http://arxiv.org/pdf/2307.00055v3)|
+|2024-11-04|2024-11-04|Neural optical flow for planar and stereo PIV|Andrew I. Masker|[2411.02373v1](http://arxiv.org/pdf/2411.02373v1)|
+|2024-11-04|2024-11-04|Physically Based Neural Bidirectional Reflectance Distribution Function|Chenliang Zhou|[2411.02347v1](http://arxiv.org/pdf/2411.02347v1)|
+|2024-11-04|2024-11-04|IR and UV limits of CDT and their relations to FRG|Jan Ambjorn|[2411.02330v1](http://arxiv.org/pdf/2411.02330v1)|
+|2024-11-04|2024-11-04|Defining and Evaluating Physical Safety for Large Language Models|Yung-Chen Tang|[2411.02317v1](http://arxiv.org/pdf/2411.02317v1)|
+|2024-11-04|2024-11-04|Enhanced non-macrorealism: Extreme violations of Leggett-Garg inequalities for a system evolving under superposition of unitaries|Arijit Chatterjee|[2411.02301v1](http://arxiv.org/pdf/2411.02301v1)|
+|2024-11-04|2024-11-04|ControlSynth Neural ODEs: Modeling Dynamical Systems with Guaranteed Convergence|Wenjie Mei|[2411.02292v1](http://arxiv.org/pdf/2411.02292v1)|
+
+### Diffusion
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2024-07-23|2024-11-04|From Imitation to Refinement -- Residual RL for Precise Assembly|Lars Ankile|[2407.16677v2](http://arxiv.org/pdf/2407.16677v2)|
+|2024-11-04|2024-11-04|LayerDAG: A Layerwise Autoregressive Diffusion Model for Directed Acyclic Graph Generation|Mufei Li|[2411.02322v1](http://arxiv.org/pdf/2411.02322v1)|
+|2024-11-04|2024-11-04|Grouped Discrete Representation for Object-Centric Learning|Rongzhen Zhao|[2411.02299v1](http://arxiv.org/pdf/2411.02299v1)|
+|2024-11-04|2024-11-04|Hunyuan3D-1.0: A Unified Framework for Text-to-3D and Image-to-3D Generation|Xianghui Yang|[2411.02293v1](http://arxiv.org/pdf/2411.02293v1)|
+|2024-06-03|2024-11-04|DEFT: Efficient Fine-Tuning of Diffusion Models by Learning the Generalised $h$-transform|Alexander Denker|[2406.01781v2](http://arxiv.org/pdf/2406.01781v2)|
 ## Update on 2024-11-01
 
 ### Physics
