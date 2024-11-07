@@ -78,6 +78,31 @@ TODO:
 
 
 
+
+## Update on 2024-11-07
+
+### Physics
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2024-11-06|2024-11-06|Second order cone relaxations for quantum Max Cut|Felix Huber|[2411.04120v1](http://arxiv.org/pdf/2411.04120v1)|
+|2024-11-06|2024-11-06|Problem Space Transformations for Generalisation in Behavioural Cloning|Kiran Doshi|[2411.04056v1](http://arxiv.org/pdf/2411.04056v1)|
+|2024-05-16|2024-11-06|Corrections to adiabatic behavior for long paths|Thomas D. Cohen|[2405.10294v3](http://arxiv.org/pdf/2405.10294v3)|
+|2024-05-12|2024-11-06|The Quenched $g_A$ in Nuclei and Infrared Fixed-Point in QCD|Mannque Rho|[2405.07339v4](http://arxiv.org/pdf/2405.07339v4)|
+|2024-05-13|2024-11-06|Gain-induced group delay in spontaneous parametric down-conversion|Guillaume Thekkadath|[2405.07909v2](http://arxiv.org/pdf/2405.07909v2)|
+|2024-11-06|2024-11-06|Photon production in top quark events at ATLAS and CMS|Beatriz Ribeiro Lopes|[2411.03981v1](http://arxiv.org/pdf/2411.03981v1)|
+|2024-11-06|2024-11-06|Search for a heavy charged Higgs boson decaying into a $W$ boson and a Higgs boson in final states with leptons and $b$-jets in $\sqrt{s} = 13$ TeV $pp$ collisions with the ATLAS detector|ATLAS Collaboration|[2411.03969v1](http://arxiv.org/pdf/2411.03969v1)|
+|2024-08-29|2024-11-06|Reconciling Kubo and Keldysh Approaches to Fermi-Sea-Dependent Nonequilibrium Observables: Application to Spin Hall Current and Spin-Orbit Torque in Spintronics|Simao M. Joao|[2408.16611v2](http://arxiv.org/pdf/2408.16611v2)|
+|2024-11-06|2024-11-06|Generalized exchange operators for a system of spin-1 particles|Charlie Jeudy|[2411.03952v1](http://arxiv.org/pdf/2411.03952v1)|
+|2024-09-24|2024-11-06|TabEBM: A Tabular Data Augmentation Method with Distinct Class-Specific Energy-Based Models|Andrei Margeloiu|[2409.16118v3](http://arxiv.org/pdf/2409.16118v3)|
+
+### Diffusion
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2024-05-27|2024-11-06|DMPlug: A Plug-in Method for Solving Inverse Problems with Diffusion Models|Hengkang Wang|[2405.16749v2](http://arxiv.org/pdf/2405.16749v2)|
+|2024-02-05|2024-11-06|DexDiffuser: Generating Dexterous Grasps with Diffusion Models|Zehang Weng|[2402.02989v3](http://arxiv.org/pdf/2402.02989v3)|
+|2024-11-06|2024-11-06|ET-SEED: Efficient Trajectory-Level SE(3) Equivariant Diffusion Policy|Chenrui Tie|[2411.03990v1](http://arxiv.org/pdf/2411.03990v1)|
+|2024-04-11|2024-11-06|Applying Guidance in a Limited Interval Improves Sample and Distribution Quality in Diffusion Models|Tuomas Kynkäänniemi|[2404.07724v2](http://arxiv.org/pdf/2404.07724v2)|
+|2024-10-26|2024-11-06|Copyright-Aware Incentive Scheme for Generative Art Models Using Hierarchical Reinforcement Learning|Zhuan Shi|[2410.20180v2](http://arxiv.org/pdf/2410.20180v2)|
 ## Update on 2024-11-05
 
 ### Physics
