@@ -79,6 +79,31 @@ TODO:
 
 
 
+
+## Update on 2024-11-09
+
+### Physics
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2024-11-07|2024-11-07|Efficient Preparation of Solvable Anyons with Adaptive Quantum Circuits|Yuanjie Ren|[2411.04985v1](http://arxiv.org/pdf/2411.04985v1)|
+|2024-11-07|2024-11-07|DINO-WM: World Models on Pre-trained Visual Features enable Zero-shot Planning|Gaoyue Zhou|[2411.04983v1](http://arxiv.org/pdf/2411.04983v1)|
+|2024-02-20|2024-11-07|Kinetic Theory of Stellar Systems: A Tutorial|Chris Hamilton|[2402.13322v2](http://arxiv.org/pdf/2402.13322v2)|
+|2024-11-07|2024-11-07|Optimization of experimental quantum randomness expansion|Amelie Piveteau|[2411.04934v1](http://arxiv.org/pdf/2411.04934v1)|
+|2024-11-07|2024-11-07|Concurrence speed limit and its connection with bounds in many body physics|Shrobona Bagchi|[2411.04930v1](http://arxiv.org/pdf/2411.04930v1)|
+|2024-11-07|2024-11-07|Existence and Uniqueness of Solutions to the Generalized Hydrodynamics Equation|Friedrich Hübner|[2411.04922v1](http://arxiv.org/pdf/2411.04922v1)|
+|2024-11-07|2024-11-07|Efficient quantum pseudorandomness under conservation laws|Zimu Li|[2411.04893v1](http://arxiv.org/pdf/2411.04893v1)|
+|2024-11-07|2024-11-07|Machine learning and optimization-based approaches to duality in statistical physics|Andrea E. V. Ferrari|[2411.04838v1](http://arxiv.org/pdf/2411.04838v1)|
+|2024-05-10|2024-11-07|Collisionless conduction in a high-beta plasma: a collision operator for whistler turbulence|Evan L. Yerger|[2405.06481v2](http://arxiv.org/pdf/2405.06481v2)|
+|2024-11-07|2024-11-07|Si/SiO$_\text{2}$ MOSFET Reliability Physics: From Four-State Model to All-State Model|Xinjing Guo|[2411.04823v1](http://arxiv.org/pdf/2411.04823v1)|
+
+### Diffusion
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2024-11-07|2024-11-07|SVDQunat: Absorbing Outliers by Low-Rank Components for 4-Bit Diffusion Models|Muyang Li|[2411.05007v1](http://arxiv.org/pdf/2411.05007v1)|
+|2024-11-07|2024-11-07|Diff-2-in-1: Bridging Generation and Dense Perception with Diffusion Models|Shuhong Zheng|[2411.05005v1](http://arxiv.org/pdf/2411.05005v1)|
+|2024-11-07|2024-11-07|ReCapture: Generative Video Camera Controls for User-Provided Videos using Masked Video Fine-Tuning|David Junhao Zhang|[2411.05003v1](http://arxiv.org/pdf/2411.05003v1)|
+|2024-11-07|2024-11-07|SG-I2V: Self-Guided Trajectory Control in Image-to-Video Generation|Koichi Namekata|[2411.04989v1](http://arxiv.org/pdf/2411.04989v1)|
+|2024-11-07|2024-11-07|Uncovering Hidden Subspaces in Video Diffusion Models Using Re-Identification|Mischa Dombrowski|[2411.04956v1](http://arxiv.org/pdf/2411.04956v1)|
 ## Update on 2024-11-07
 
 ### Physics
