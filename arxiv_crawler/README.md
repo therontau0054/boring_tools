@@ -80,6 +80,31 @@ TODO:
 
 
 
+
+## Update on 2024-11-11
+
+### Physics
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2024-11-08|2024-11-08|A nonstabilizerness monotone from stabilizerness asymmetry|Poetri Sonya Tarabunga|[2411.05766v1](http://arxiv.org/pdf/2411.05766v1)|
+|2024-08-19|2024-11-08|Physics-Aware Combinatorial Assembly Sequence Planning using Data-free Action Masking|Ruixuan Liu|[2408.10162v2](http://arxiv.org/pdf/2408.10162v2)|
+|2024-11-08|2024-11-08|Advantages of the adoption of a generalized flame displacement velocity as a central element of flamelet theory|Hernan Olguin|[2411.05756v1](http://arxiv.org/pdf/2411.05756v1)|
+|2024-11-08|2024-11-08|Magnetic monopoles -- theory overview|Arttu Rajantie|[2411.05753v1](http://arxiv.org/pdf/2411.05753v1)|
+|2024-11-08|2024-11-08|Latest progress on the reduced-order particle-in-cell scheme: I. refining the underlying formulation|Maryam Reza|[2411.05751v1](http://arxiv.org/pdf/2411.05751v1)|
+|2024-11-08|2024-11-08|Multi-Dimensional Reconfigurable, Physically Composable Hybrid Diffractive Optical Neural Network|Ziang Yin|[2411.05748v1](http://arxiv.org/pdf/2411.05748v1)|
+|2024-11-08|2024-11-08|Learning Subsystem Dynamics in Nonlinear Systems via Port-Hamiltonian Neural Networks|G. J. E. van Otterdijk|[2411.05730v1](http://arxiv.org/pdf/2411.05730v1)|
+|2024-11-08|2024-11-08|Quantum hyperspins: Highly nonclassical collective behavior in quantum optical parametric oscillators|Marcello Calvanese Strinati|[2411.05728v1](http://arxiv.org/pdf/2411.05728v1)|
+|2024-07-22|2024-11-08|Process tensor distinguishability measures|Guilherme Zambon|[2407.15712v2](http://arxiv.org/pdf/2407.15712v2)|
+|2024-03-26|2024-11-08|Data-driven Energy Consumption Modelling for Electric Micromobility using an Open Dataset|Yue Ding|[2403.17632v3](http://arxiv.org/pdf/2403.17632v3)|
+
+### Diffusion
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2024-11-08|2024-11-08|Tract-RLFormer: A Tract-Specific RL policy based Decoder-only Transformer Network|Ankita Joshi|[2411.05757v1](http://arxiv.org/pdf/2411.05757v1)|
+|2024-11-08|2024-11-08|Improving Molecular Graph Generation with Flow Matching and Optimal Transport|Xiaoyang Hou|[2411.05676v1](http://arxiv.org/pdf/2411.05676v1)|
+|2024-10-31|2024-11-08|DiffBatt: A Diffusion Model for Battery Degradation Prediction and Synthesis|Hamidreza Eivazi|[2410.23893v3](http://arxiv.org/pdf/2410.23893v3)|
+|2023-10-26|2024-11-08|A Wireless AI-Generated Content (AIGC) Provisioning Framework Empowered by Semantic Communication|Runze Cheng|[2310.17705v3](http://arxiv.org/pdf/2310.17705v3)|
+|2024-11-08|2024-11-08|Towards Lifelong Few-Shot Customization of Text-to-Image Diffusion|Nan Song|[2411.05544v1](http://arxiv.org/pdf/2411.05544v1)|
 ## Update on 2024-11-09
 
 ### Physics
