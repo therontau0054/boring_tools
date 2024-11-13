@@ -81,6 +81,36 @@ TODO:
 
 
 
+
+## Update on 2024-11-13
+
+### Physics
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2024-11-12|2024-11-12|LLMPhy: Complex Physical Reasoning Using Large Language Models and World Models|Anoop Cherian|[2411.08027v1](http://arxiv.org/pdf/2411.08027v1)|
+|2024-11-12|2024-11-12|Commissioning of the 2.6 m tall two-phase xenon time projection chamber of Xenoscope|M. Adrover|[2411.08022v1](http://arxiv.org/pdf/2411.08022v1)|
+|2024-11-12|2024-11-12|Last passage percolation in hierarchical environments|Shirshendu Ganguly|[2411.08018v1](http://arxiv.org/pdf/2411.08018v1)|
+|2024-11-12|2024-11-12|New Physics effects with right-handed neutrinos in semileptonic decay $B_c^+ \to B_s μ^+ ν_μ$|Priyanka Boora|[2411.07987v1](http://arxiv.org/pdf/2411.07987v1)|
+|2024-11-12|2024-11-12|Transparent and Electrically Switchable Thin Film Tactile Actuators Based on Molecular Orientation|Abigail Nolin|[2411.07968v1](http://arxiv.org/pdf/2411.07968v1)|
+|2024-11-12|2024-11-12|Composite fermions and parton wavefunctions in twisted graphene on hexagonal boron nitride|J. Salvador-Sánchez|[2411.07958v1](http://arxiv.org/pdf/2411.07958v1)|
+|2024-11-12|2024-11-12|NLO QCD effects on angular observables in single Higgs production at electron-proton collider|Pramod Sharma|[2411.07950v1](http://arxiv.org/pdf/2411.07950v1)|
+|2024-07-22|2024-11-12|Larmor radius effect on the control of chaotic transport in tokamaks|L. A. Osorio-Quiroga|[2407.15963v2](http://arxiv.org/pdf/2407.15963v2)|
+|2024-11-12|2024-11-12|Improving quantum metrology protocols with programmable photonic circuits|A. Muñoz de las Heras|[2411.07929v1](http://arxiv.org/pdf/2411.07929v1)|
+|2024-11-12|2024-11-12|Isometric Transformations for Image Augmentation in Mueller Matrix Polarimetry|Christopher Hahne|[2411.07918v1](http://arxiv.org/pdf/2411.07918v1)|
+
+### Diffusion
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2024-11-12|2024-11-12|Scaling Properties of Diffusion Models for Perceptual Tasks|Rahul Ravishankar|[2411.08034v1](http://arxiv.org/pdf/2411.08034v1)|
+|2024-11-12|2024-11-12|GaussianAnything: Interactive Point Cloud Latent Diffusion for 3D Generation|Yushi Lan|[2411.08033v1](http://arxiv.org/pdf/2411.08033v1)|
+|2024-11-12|2024-11-12|Wavelet Latent Diffusion (Wala): Billion-Parameter 3D Generative Model with Compact Wavelet Encodings|Aditya Sanghi|[2411.08017v1](http://arxiv.org/pdf/2411.08017v1)|
+|2024-11-12|2024-11-12|Diverse capability and scaling of diffusion and auto-regressive models when learning abstract rules|Binxu Wang|[2411.07873v1](http://arxiv.org/pdf/2411.07873v1)|
+|2023-10-10|2024-11-12|Stochastic Super-resolution of Cosmological Simulations with Denoising Diffusion Models|Andreas Schanz|[2310.06929v2](http://arxiv.org/pdf/2310.06929v2)|
+
+### Quantitative Finance
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2024-11-11|2024-11-11|Evaluating Large Language Models on Financial Report Summarization: An Empirical Study|Xinqi Yang|[2411.06852v1](http://arxiv.org/pdf/2411.06852v1)|
 ## Update on 2024-11-11
 
 ### Physics
