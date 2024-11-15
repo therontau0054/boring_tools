@@ -82,6 +82,29 @@ TODO:
 
 
 
+
+## Update on 2024-11-15
+
+### Physics
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2024-11-14|2024-11-14|Cubic Dirac Semimetals: General Theory and Application to Rare-Earth Magnets|Shouvik Sur|[2411.09699v1](http://arxiv.org/pdf/2411.09699v1)|
+|2024-11-14|2024-11-14|A Universal Circuit Set Using the $S_3$ Quantum Double|Liyuan Chen|[2411.09697v1](http://arxiv.org/pdf/2411.09697v1)|
+|2024-11-14|2024-11-14|A physical basis for cosmological correlators from cuts|Shounak De|[2411.09695v1](http://arxiv.org/pdf/2411.09695v1)|
+|2024-11-14|2024-11-14|NeuralDEM - Real-time Simulation of Industrial Particulate Flows|Benedikt Alkin|[2411.09678v1](http://arxiv.org/pdf/2411.09678v1)|
+|2024-11-11|2024-11-14|Commentary on Peierls's "In defence of measurement" in Physics World, January 1991|Tuck C Choy|[2411.07359v2](http://arxiv.org/pdf/2411.07359v2)|
+|2024-11-14|2024-11-14|Inclusive top cross sections in ATLAS|Charlie Chen|[2411.09663v1](http://arxiv.org/pdf/2411.09663v1)|
+|2024-11-14|2024-11-14|Differentiable Land Model Reveals Global Environmental Controls on Ecological Parameters|Jianing Fang|[2411.09654v1](http://arxiv.org/pdf/2411.09654v1)|
+|2024-07-22|2024-11-14|Unitarization of electron scattering with an external potential at NLO in QED|J. A. Oller|[2407.15382v2](http://arxiv.org/pdf/2407.15382v2)|
+|2024-11-14|2024-11-14|The lowest-radiation environments in the Solar System: new opportunities for underground rare-event searches|Xilin Zhang|[2411.09634v1](http://arxiv.org/pdf/2411.09634v1)|
+|2024-11-14|2024-11-14|Study of large extra dimension and neutrino decay at P2SO experiment|Papia Panda|[2411.09628v1](http://arxiv.org/pdf/2411.09628v1)|
+
+### Diffusion
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2024-11-14|2024-11-14|MICCAI-CDMRI 2023 QuantConn Challenge Findings on Achieving Robust Quantitative Connectivity through Harmonized Preprocessing of Diffusion MRI|Nancy R. Newlin|[2411.09618v1](http://arxiv.org/pdf/2411.09618v1)|
+|2024-11-10|2024-11-14|Diffusion Sampling Correction via Approximately 10 Parameters|Guangyi Wang|[2411.06503v2](http://arxiv.org/pdf/2411.06503v2)|
+|2024-11-14|2024-11-14|Golden Noise for Diffusion Models: A Learning Framework|Zikai Zhou|[2411.09502v1](http://arxiv.org/pdf/2411.09502v1)|
 ## Update on 2024-11-13
 
 ### Physics
