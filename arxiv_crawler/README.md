@@ -83,6 +83,36 @@ TODO:
 
 
 
+
+## Update on 2024-11-19
+
+### Physics
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2024-10-21|2024-11-18|A Localized Burst of Relativistic Electrons in Earth's Plasma Sheet: Low- and High-Altitude Signatures During a Substorm|M. Shumko|[2410.16412v2](http://arxiv.org/pdf/2410.16412v2)|
+|2024-11-18|2024-11-18|Logical computation demonstrated with a neutral atom quantum processor|Ben W. Reichardt|[2411.11822v1](http://arxiv.org/pdf/2411.11822v1)|
+|2024-11-18|2024-11-18|Angular analysis of the B$^0$ $\to$ K$^*$(892)$^0μ^+μ^-$ decay in proton-proton collisions at $\sqrt{s}$ = 13 TeV|CMS Collaboration|[2411.11820v1](http://arxiv.org/pdf/2411.11820v1)|
+|2024-11-08|2024-11-18|In-Silico Analysis of Curve Fitting in Angiographic Parametric Imaging in Intracranial Aneurysms|Parmita Mondal|[2411.05287v2](http://arxiv.org/pdf/2411.05287v2)|
+|2024-11-18|2024-11-18|KAN/MultKAN with Physics-Informed Spline fitting (KAN-PISF) for ordinary/partial differential equation discovery of nonlinear dynamic systems|Ashish Pal|[2411.11801v1](http://arxiv.org/pdf/2411.11801v1)|
+|2024-11-18|2024-11-18|A Multi-Component, Multi-Physics Computational Model for Solving Coupled Cardiac Electromechanics and Vascular Haemodynamics|Sharp C. Y. Lo|[2411.11797v1](http://arxiv.org/pdf/2411.11797v1)|
+|2024-07-12|2024-11-18|Lorentz covariant physical Brownian motion: Classical and quantum|Henryk Gzyl|[2407.08905v2](http://arxiv.org/pdf/2407.08905v2)|
+|2024-05-06|2024-11-18|A Puzzle About General Covariance and Gauge|Eleanor March|[2405.03906v2](http://arxiv.org/pdf/2405.03906v2)|
+|2024-11-18|2024-11-18|Bounds on new neutrino interactions from the first CE$ν$NS data at direct detection experiments|Valentina De Romeri|[2411.11749v1](http://arxiv.org/pdf/2411.11749v1)|
+|2023-05-08|2024-11-18|Lattice calculation of the $π^0$, $η$ and $η^{\prime}$ transition form factors and the hadronic light-by-light contribution to the muon $g-2$|Antoine Gérardin|[2305.04570v2](http://arxiv.org/pdf/2305.04570v2)|
+
+### Diffusion
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2024-10-31|2024-11-18|Understanding Generalizability of Diffusion Models Requires Rethinking the Hidden Gaussian Structure|Xiang Li|[2410.24060v3](http://arxiv.org/pdf/2410.24060v3)|
+|2024-11-18|2024-11-18|Aligning Few-Step Diffusion Models with Dense Reward Difference Learning|Ziyi Zhang|[2411.11727v1](http://arxiv.org/pdf/2411.11727v1)|
+|2024-11-18|2024-11-18|Robust Reinforcement Learning under Diffusion Models for Data with Jumps|Chenyang Jiang|[2411.11697v1](http://arxiv.org/pdf/2411.11697v1)|
+|2024-11-18|2024-11-18|Conceptwm: A Diffusion Model Watermark for Concept Protection|Liangqi Lei|[2411.11688v1](http://arxiv.org/pdf/2411.11688v1)|
+|2024-02-03|2024-11-18|Hierarchical Structure Enhances the Convergence and Generalizability of Linear Molecular Representation|Juan-Ni Wu|[2402.02164v4](http://arxiv.org/pdf/2402.02164v4)|
+
+### Quantitative Finance
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2024-11-15|2024-11-15|Portfolio Optimization with Feedback Strategies Based on Artificial Neural Networks|Yaacov Kopeliovich|[2411.09899v1](http://arxiv.org/pdf/2411.09899v1)|
 ## Update on 2024-11-15
 
 ### Physics
