@@ -1,0 +1,126 @@
+{
+    "Physics": [
+        {
+            "title": "Quantum Attention for Vision Transformers in High Energy Physics",
+            "authors": "Alessandro Tesi, Gopal Ramesh Dahale, Sergei Gleyzer, Kyoungchul Kong, Tom Magorsch, Konstantin T. Matchev, Katia Matcheva",
+            "summary": "We present a novel hybrid quantum-classical vision transformer architecture\nincorporating quantum orthogonal neural networks (QONNs) to enhance performance\nand computational efficiency in high-energy physics applications. Building on\nadvancements in quantum vision transformers, our approach addresses limitations\nof prior models by leveraging the inherent advantages of QONNs, including\nstability and efficient parameterization in high-dimensional spaces. We\nevaluate the proposed architecture using multi-detector jet images from CMS\nOpen Data, focusing on the task of distinguishing quark-initiated from\ngluon-initiated jets. The results indicate that embedding quantum orthogonal\ntransformations within the attention mechanism can provide robust performance\nwhile offering promising scalability for machine learning challenges associated\nwith the upcoming High Luminosity Large Hadron Collider. This work highlights\nthe potential of quantum-enhanced models to address the computational demands\nof next-generation particle physics experiments.",
+            "pdf_url": "http://arxiv.org/pdf/2411.13520v1",
+            "published": "2024-11-20 18:11:17+00:00",
+            "updated": "2024-11-20 18:11:17+00:00"
+        },
+        {
+            "title": "Optimization of Second-Order Transport Models for Transition-Continuum Flows",
+            "authors": "Mikolaj Kryger, Jonathan F. MacArt",
+            "summary": "Modeling transition-continuum hypersonic flows poses significant challenges\ndue to thermodynamic nonequilibrium and the associated breakdown of the\ncontinuum assumption. Standard continuum models such as the Navier-Stokes\nequations are inaccurate for these flows, and molecular models can be\ninefficient due to the large number of computational particles required at\nmoderately high densities. We explore computational modeling of\ntransition-continuum flows using a second-order constitutive theory that\nprovides closures for the terms representing the molecular transport of\nmomentum and energy. We optimize the second-order model parameters for\none-dimensional viscous shocks using an adjoint-based optimization method, with\nthe objective function comprising the primitive flow variables. Target data is\nobtained from moments of distribution functions obtained by solving the\nBoltzmann equation. We compare results using optimized second-order models, the\nunoptimized second-order model, and the first-order Navier-Stokes model for\nMach numbers $M\\in[1.1,10]$ and observe improvements to the shock profiles and\nshock thickness calculations. We validate the optimized models by comparing the\npredicted viscous stress and heat flux, which are not included in the objective\nfunction, to those obtained by integrating the distribution function. The close\nmatch to these moments indicates that the satisfactory performance of the\noptimized second-order models is consistent with the nonequilibrium flow\nphysics.",
+            "pdf_url": "http://arxiv.org/pdf/2411.13515v1",
+            "published": "2024-11-20 18:07:48+00:00",
+            "updated": "2024-11-20 18:07:48+00:00"
+        },
+        {
+            "title": "Degenerate quantum erasure decoding",
+            "authors": "Kao-Yueh Kuo, Yingkai Ouyang",
+            "summary": "Erasures are the primary type of errors in physical systems dominated by\nleakage errors. While quantum error correction (QEC) using stabilizer codes can\ncombat these error, the question of achieving near-capacity performance with\nexplicit codes and efficient decoders remains a challenge. Quantum decoding is\na classical computational problem that decides what the recovery operation\nshould be based on the measured syndromes. For QEC, using an accurate decoder\nwith the shortest possible runtime will minimize the degradation of quantum\ninformation while awaiting the decoder's decision. We examine the quantum\nerasure decoding problem for general stabilizer codes and present decoders that\nnot only run in linear-time but are also accurate. We achieve this by\nexploiting the symmetry of degenerate errors. Numerical evaluations show near\nmaximum-likelihood decoding for various codes, achieving capacity performance\nwith topological codes and near-capacity performance with non-topological\ncodes. We furthermore explore the potential of our decoders to handle other\nerror models, such as mixed erasure and depolarizing errors, and also local\ndeletion errors via concatenation with permutation invariant codes.",
+            "pdf_url": "http://arxiv.org/pdf/2411.13509v1",
+            "published": "2024-11-20 18:02:05+00:00",
+            "updated": "2024-11-20 18:02:05+00:00"
+        },
+        {
+            "title": "Diffraction theories for off-Bragg replay: J.T. Sheridan's seminal work and consequences",
+            "authors": "Martin Fally",
+            "summary": "Based on the seminal work by John T. Sheridan [1] we discuss the usefulness\nand validity of simple diffraction theories frequently used to determine and\ncharacterize optical holographic gratings. Experimental investigations obtained\nin recent years highlight the correctness of his analysis which favours an\nalternative approach over the most widely used Kogelnik theory.",
+            "pdf_url": "http://arxiv.org/pdf/2411.13495v1",
+            "published": "2024-11-20 17:44:20+00:00",
+            "updated": "2024-11-20 17:44:20+00:00"
+        },
+        {
+            "title": "Noisy intermediate-scale quantum simulation of the one-dimensional wave equation",
+            "authors": "Lewis Wright, Conor Mc Keever, Jeremy T. First, Rory Johnston, Jeremy Tillay, Skylar Chaney, Matthias Rosenkranz, Michael Lubasch",
+            "summary": "We design and implement quantum circuits for the simulation of the\none-dimensional wave equation on the Quantinuum H1-1 quantum computer. The\ncircuit depth of our approach scales as $O(n^{2})$ for $n$ qubits representing\nthe solution on $2^{n}$ grid points, and leads to infidelities of $O(2^{-4n}\nt^{2})$ for simulation time $t$ assuming smooth initial conditions. By varying\nthe qubit count we study the interplay between the algorithmic and physical\ngate errors to identify the optimal working point of minimum total error. Our\napproach to simulating the wave equation can be used with appropriate state\npreparation algorithms across different quantum processors and serve as an\napplication-oriented benchmark.",
+            "pdf_url": "http://arxiv.org/pdf/2402.19247v2",
+            "published": "2024-02-29 15:21:41+00:00",
+            "updated": "2024-11-20 17:41:08+00:00"
+        },
+        {
+            "title": "Measurement in Quantum Field Theory",
+            "authors": "Christopher J. Fewster, Rainer Verch",
+            "summary": "The topic of measurement in relativistic quantum field theory is addressed in\nthis article. Some of the long standing problems of this subject are\nhighlighted, including the incompatibility of an instantaneous ``collapse of\nthe wavefunction'' with relativity of simultaneity, and the difficulty of\nmaintaining causality in the rules for measurement highlighted by ``impossible\nmeasurement'' scenarios. Thereafter, the issue is considered from the\nperspective of mathematical physics. To this end, quantum field theory is\ndescribed in a model-independent, operator algebraic setting, on generic\nLorentzian spacetime manifolds. The process of measurement is modelled by a\nlocalized dynamical coupling between a quantum field called the ``system'', and\nanother quantum field, called the ``probe''. The result of the dynamical\ncoupling is a scattering map, whereby measurements carried out on the probe can\nbe interpreted as measurements of induced observables on the system. The\nlocalization of the dynamical coupling allows it to derive causal relations for\nthe induced observables. It will be discussed how this approach leads to the\nconcept of selective or non-selective system state updates conditioned on the\nresult of probe measurements, which in turn allows it to obtain conditional\nprobabilities for consecutive probe measurements consistent with relativistic\ncausality and general covariance, without the need for a physical collapse of\nthe wavefunction. In particular, the problem of impossible measurements is\nresolved. Finally, there is a brief discussion of accelerated detectors and\nother related work.",
+            "pdf_url": "http://arxiv.org/pdf/2304.13356v2",
+            "published": "2023-04-26 07:55:43+00:00",
+            "updated": "2024-11-20 17:28:16+00:00"
+        },
+        {
+            "title": "The two-loop fully differential soft function for $Q\\bar{Q}V$ production at lepton colliders",
+            "authors": "Ze Long Liu, Pier Francesco Monni",
+            "summary": "We consider the production of a pair of heavy quarks $Q\\bar{Q}$ in\nassociation with a generic colour singlet system $V$ at lepton colliders, and\npresent the first analytic calculation of the two-loop soft function\ndifferential in the total momentum of the real radiation. The calculation is\nperformed by reducing the relevant Feynman integrals into a canonical basis of\nmaster integrals by means of integration-by-parts identities. The resulting\nintegrals are then evaluated by solving a system of differential equations in\nthe kinematic invariants, whose boundary conditions are determined analytically\nwith some care due to the presence of Coulomb singularities. The fully\ndifferential soft function is expressed in terms of Goncharov polylogarithms.\nThis result is an essential ingredient for a range of N$^3$LL resummations for\nkey collider observables at lepton colliders, such as the $Q\\bar{Q}V$\nproduction cross section at threshold and observables sensitive to the total\ntransverse momentum of the radiation in heavy-quark final states. Moreover, it\nconstitutes the complete final-final dipole contribution to the fully\ndifferential soft function needed for the description of $Q\\bar{Q}V$ production\nat hadron colliders, which plays an important role in the LHC physics\nprogramme.",
+            "pdf_url": "http://arxiv.org/pdf/2411.13466v1",
+            "published": "2024-11-20 17:15:20+00:00",
+            "updated": "2024-11-20 17:15:20+00:00"
+        },
+        {
+            "title": "Summary of the 16th Applied Antineutrino Physics Workshop 2023",
+            "authors": "Liz Kneale, Viacheslav Li",
+            "summary": "Summary of the 16th Applied Antineutrino Physics Workshop 2023, held in the\nhistoric Guildhall in York in the UK from the 18th - 21st September 2023.",
+            "pdf_url": "http://arxiv.org/pdf/2411.13461v1",
+            "published": "2024-11-20 17:09:14+00:00",
+            "updated": "2024-11-20 17:09:14+00:00"
+        },
+        {
+            "title": "From {\\tt Ferminet} to PINN. Connections between neural network-based algorithms for high-dimensional Schr\u00f6dinger Hamiltonian",
+            "authors": "Mashhood Khan, Emmanuel Lorin",
+            "summary": "In this note, we establish some connections between standard (data-driven)\nneural network-based solvers for PDE and eigenvalue problems developed on one\nside in the applied mathematics and engineering communities (e.g. Deep-Ritz and\nPhysics Informed Neural Networks (PINN)), and on the other side in quantum\nchemistry (e.g. Variational Monte Carlo algorithms, {\\tt Ferminet} or {\\tt\nPaulinet} following the pioneer work of {\\it Carleo et. al}. In particular, we\nre-formulate a PINN algorithm as a {\\it fitting} problem with data\ncorresponding to the solution to a standard Diffusion Monte Carlo algorithm\ninitialized thanks to neural network-based Variational Monte Carlo. Connections\nat the level of the optimization algorithms are also established.",
+            "pdf_url": "http://arxiv.org/pdf/2410.09177v2",
+            "published": "2024-10-11 18:27:58+00:00",
+            "updated": "2024-11-20 16:54:12+00:00"
+        },
+        {
+            "title": "Elucidating chirality transfer in liquid crystals of viruses",
+            "authors": "Eric Grelet, Maxime Tortora",
+            "summary": "Chirality is ubiquitous in nature across all length scales, with major\nimplications spanning the fields of biology, chemistry and physics to materials\nscience. How chirality propagates from nanoscale building blocks to meso- and\nmacroscopic helical structures remains an open issue. Here, working with a\ncanonical system of filamentous viruses, we demonstrate that their\nself-assembly into chiral liquid crystal phases quantitatively results from the\ninterplay between two main mechanisms of chirality transfer: electrostatic\ninteractions from the helical charge patterns on the virus surface, and\nfluctuation-based helical deformations leading to viral backbone helicity. Our\nexperimental and theoretical approach provides a comprehensive framework for\ndeciphering how chirality is hierarchically and quantitatively propagated\nacross spatial scales. Our work highlights the ways in which supramolecular\nhelicity may arise from subtle chiral contributions of opposite handedness\nwhich either act cooperatively or competitively, thus accounting for the\nmultiplicity of chiral behaviors observed for nearly identical molecular\nsystems.",
+            "pdf_url": "http://arxiv.org/pdf/2411.13445v1",
+            "published": "2024-11-20 16:35:56+00:00",
+            "updated": "2024-11-20 16:35:56+00:00"
+        }
+    ],
+    "Diffusion": [
+        {
+            "title": "HF-Diff: High-Frequency Perceptual Loss and Distribution Matching for One-Step Diffusion-Based Image Super-Resolution",
+            "authors": "Shoaib Meraj Sami, Md Mahedi Hasan, Jeremy Dawson, Nasser Nasrabadi",
+            "summary": "Although recent diffusion-based single-step super-resolution methods achieve\nbetter performance as compared to SinSR, they are computationally complex. To\nimprove the performance of SinSR, we investigate preserving the high-frequency\ndetail features during super-resolution (SR) because the downgraded images lack\ndetailed information. For this purpose, we introduce a high-frequency\nperceptual loss by utilizing an invertible neural network (INN) pretrained on\nthe ImageNet dataset. Different feature maps of pretrained INN produce\ndifferent high-frequency aspects of an image. During the training phase, we\nimpose to preserve the high-frequency features of super-resolved and ground\ntruth (GT) images that improve the SR image quality during inference.\nFurthermore, we also utilize the Jenson-Shannon divergence between GT and SR\nimages in the pretrained DINO-v2 embedding space to match their distribution.\nBy introducing the $\\textbf{h}igh$- $\\textbf{f}requency$ preserving loss and\ndistribution matching constraint in the single-step $\\textbf{diff}usion-based$\nSR ($\\textbf{HF-Diff}$), we achieve a state-of-the-art CLIPIQA score in the\nbenchmark RealSR, RealSet65, DIV2K-Val, and ImageNet datasets. Furthermore, the\nexperimental results in several datasets demonstrate that our high-frequency\nperceptual loss yields better SR image quality than LPIPS and VGG-based\nperceptual losses. Our code will be released at\nhttps://github.com/shoaib-sami/HF-Diff.",
+            "pdf_url": "http://arxiv.org/pdf/2411.13548v1",
+            "published": "2024-11-20 18:56:24+00:00",
+            "updated": "2024-11-20 18:56:24+00:00"
+        },
+        {
+            "title": "Identity Preserving 3D Head Stylization with Multiview Score Distillation",
+            "authors": "Bahri Batuhan Bilecen, Ahmet Berke Gokmen, Furkan Guzelant, Aysegul Dundar",
+            "summary": "3D head stylization transforms realistic facial features into artistic\nrepresentations, enhancing user engagement across gaming and virtual reality\napplications. While 3D-aware generators have made significant advancements,\nmany 3D stylization methods primarily provide near-frontal views and struggle\nto preserve the unique identities of original subjects, often resulting in\noutputs that lack diversity and individuality. This paper addresses these\nchallenges by leveraging the PanoHead model, synthesizing images from a\ncomprehensive 360-degree perspective. We propose a novel framework that employs\nnegative log-likelihood distillation (LD) to enhance identity preservation and\nimprove stylization quality. By integrating multi-view grid score and mirror\ngradients within the 3D GAN architecture and introducing a score rank weighing\ntechnique, our approach achieves substantial qualitative and quantitative\nimprovements. Our findings not only advance the state of 3D head stylization\nbut also provide valuable insights into effective distillation processes\nbetween diffusion models and GANs, focusing on the critical issue of identity\npreservation. Please visit the https://three-bee.github.io/head_stylization for\nmore visuals.",
+            "pdf_url": "http://arxiv.org/pdf/2411.13536v1",
+            "published": "2024-11-20 18:37:58+00:00",
+            "updated": "2024-11-20 18:37:58+00:00"
+        },
+        {
+            "title": "Adversarial Score identity Distillation: Rapidly Surpassing the Teacher in One Step",
+            "authors": "Mingyuan Zhou, Huangjie Zheng, Yi Gu, Zhendong Wang, Hai Huang",
+            "summary": "Score identity Distillation (SiD) is a data-free method that has achieved\nSOTA performance in image generation by leveraging only a pretrained diffusion\nmodel, without requiring any training data. However, its ultimate performance\nis constrained by how accurate the pretrained model captures the true data\nscores at different stages of the diffusion process. In this paper, we\nintroduce SiDA (SiD with Adversarial Loss), which not only enhances generation\nquality but also improves distillation efficiency by incorporating real images\nand adversarial loss. SiDA utilizes the encoder from the generator's score\nnetwork as a discriminator, boosting its ability to distinguish between real\nimages and those generated by SiD. The adversarial loss is batch-normalized\nwithin each GPU and then combined with the original SiD loss. This integration\neffectively incorporates the average \"fakeness\" per GPU batch into the\npixel-based SiD loss, enabling SiDA to distill a single-step generator either\nfrom scratch or by fine-tuning an existing one. SiDA converges significantly\nfaster than its predecessor when trained from scratch, and swiftly improves\nupon the original model's performance after an initial warmup period during\nfine-tuning from a pre-distilled SiD generator. This one-step adversarial\ndistillation method establishes new benchmarks in generation performance when\ndistilling EDM diffusion models pretrained on CIFAR-10 (32x32) and ImageNet\n(64x64), achieving FID score of 1.110 on ImageNet 64x64. It sets record-low FID\nscores when distilling EDM2 models trained on ImageNet (512x512), surpassing\neven the largest teacher model, EDM2-XXL. Our SiDA's results record FID scores\nof 2.156 for EDM2-XS, 1.669 for S, 1.488 for M, 1.413 for L, 1.379 for XL, and\n1.366 for XXL, demonstrating significant improvements across all model sizes.\nOur open-source code will be integrated into the SiD codebase.",
+            "pdf_url": "http://arxiv.org/pdf/2410.14919v3",
+            "published": "2024-10-19 00:33:51+00:00",
+            "updated": "2024-11-20 17:20:00+00:00"
+        },
+        {
+            "title": "Sampling and Integration of Logconcave Functions by Algorithmic Diffusion",
+            "authors": "Yunbum Kook, Santosh S. Vempala",
+            "summary": "We study the complexity of sampling, rounding, and integrating arbitrary\nlogconcave functions. Our new approach provides the first complexity\nimprovements in nearly two decades for general logconcave functions for all\nthree problems, and matches the best-known complexities for the special case of\nuniform distributions on convex bodies. For the sampling problem, our output\nguarantees are significantly stronger than previously known, and lead to a\nstreamlined analysis of statistical estimation based on dependent random\nsamples.",
+            "pdf_url": "http://arxiv.org/pdf/2411.13462v1",
+            "published": "2024-11-20 17:10:24+00:00",
+            "updated": "2024-11-20 17:10:24+00:00"
+        },
+        {
+            "title": "Heuristically Adaptive Diffusion-Model Evolutionary Strategy",
+            "authors": "Benedikt Hartl, Yanbo Zhang, Hananel Hazan, Michael Levin",
+            "summary": "Diffusion Models represent a significant advancement in generative modeling,\nemploying a dual-phase process that first degrades domain-specific information\nvia Gaussian noise and restores it through a trainable model. This framework\nenables pure noise-to-data generation and modular reconstruction of, images or\nvideos. Concurrently, evolutionary algorithms employ optimization methods\ninspired by biological principles to refine sets of numerical parameters\nencoding potential solutions to rugged objective functions. Our research\nreveals a fundamental connection between diffusion models and evolutionary\nalgorithms through their shared underlying generative mechanisms: both methods\ngenerate high-quality samples via iterative refinement on random initial\ndistributions. By employing deep learning-based diffusion models as generative\nmodels across diverse evolutionary tasks and iteratively refining diffusion\nmodels with heuristically acquired databases, we can iteratively sample\npotentially better-adapted offspring parameters, integrating them into\nsuccessive generations of the diffusion model. This approach achieves efficient\nconvergence toward high-fitness parameters while maintaining explorative\ndiversity. Diffusion models introduce enhanced memory capabilities into\nevolutionary algorithms, retaining historical information across generations\nand leveraging subtle data correlations to generate refined samples. We elevate\nevolutionary algorithms from procedures with shallow heuristics to frameworks\nwith deep memory. By deploying classifier-free guidance for conditional\nsampling at the parameter level, we achieve precise control over evolutionary\nsearch dynamics to further specific genotypical, phenotypical, or\npopulation-wide traits. Our framework marks a major heuristic and algorithmic\ntransition, offering increased flexibility, precision, and control in\nevolutionary optimization processes.",
+            "pdf_url": "http://arxiv.org/pdf/2411.13420v1",
+            "published": "2024-11-20 16:06:28+00:00",
+            "updated": "2024-11-20 16:06:28+00:00"
+        }
+    ]
+}

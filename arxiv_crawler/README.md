@@ -84,6 +84,31 @@ TODO:
 
 
 
+
+## Update on 2024-11-21
+
+### Physics
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2024-11-20|2024-11-20|Quantum Attention for Vision Transformers in High Energy Physics|Alessandro Tesi|[2411.13520v1](http://arxiv.org/pdf/2411.13520v1)|
+|2024-11-20|2024-11-20|Optimization of Second-Order Transport Models for Transition-Continuum Flows|Mikolaj Kryger|[2411.13515v1](http://arxiv.org/pdf/2411.13515v1)|
+|2024-11-20|2024-11-20|Degenerate quantum erasure decoding|Kao-Yueh Kuo|[2411.13509v1](http://arxiv.org/pdf/2411.13509v1)|
+|2024-11-20|2024-11-20|Diffraction theories for off-Bragg replay: J.T. Sheridan's seminal work and consequences|Martin Fally|[2411.13495v1](http://arxiv.org/pdf/2411.13495v1)|
+|2024-02-29|2024-11-20|Noisy intermediate-scale quantum simulation of the one-dimensional wave equation|Lewis Wright|[2402.19247v2](http://arxiv.org/pdf/2402.19247v2)|
+|2023-04-26|2024-11-20|Measurement in Quantum Field Theory|Christopher J. Fewster|[2304.13356v2](http://arxiv.org/pdf/2304.13356v2)|
+|2024-11-20|2024-11-20|The two-loop fully differential soft function for $Q\bar{Q}V$ production at lepton colliders|Ze Long Liu|[2411.13466v1](http://arxiv.org/pdf/2411.13466v1)|
+|2024-11-20|2024-11-20|Summary of the 16th Applied Antineutrino Physics Workshop 2023|Liz Kneale|[2411.13461v1](http://arxiv.org/pdf/2411.13461v1)|
+|2024-10-11|2024-11-20|From {\tt Ferminet} to PINN. Connections between neural network-based algorithms for high-dimensional Schrödinger Hamiltonian|Mashhood Khan|[2410.09177v2](http://arxiv.org/pdf/2410.09177v2)|
+|2024-11-20|2024-11-20|Elucidating chirality transfer in liquid crystals of viruses|Eric Grelet|[2411.13445v1](http://arxiv.org/pdf/2411.13445v1)|
+
+### Diffusion
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2024-11-20|2024-11-20|HF-Diff: High-Frequency Perceptual Loss and Distribution Matching for One-Step Diffusion-Based Image Super-Resolution|Shoaib Meraj Sami|[2411.13548v1](http://arxiv.org/pdf/2411.13548v1)|
+|2024-11-20|2024-11-20|Identity Preserving 3D Head Stylization with Multiview Score Distillation|Bahri Batuhan Bilecen|[2411.13536v1](http://arxiv.org/pdf/2411.13536v1)|
+|2024-10-19|2024-11-20|Adversarial Score identity Distillation: Rapidly Surpassing the Teacher in One Step|Mingyuan Zhou|[2410.14919v3](http://arxiv.org/pdf/2410.14919v3)|
+|2024-11-20|2024-11-20|Sampling and Integration of Logconcave Functions by Algorithmic Diffusion|Yunbum Kook|[2411.13462v1](http://arxiv.org/pdf/2411.13462v1)|
+|2024-11-20|2024-11-20|Heuristically Adaptive Diffusion-Model Evolutionary Strategy|Benedikt Hartl|[2411.13420v1](http://arxiv.org/pdf/2411.13420v1)|
 ## Update on 2024-11-19
 
 ### Physics
