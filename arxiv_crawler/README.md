@@ -85,6 +85,31 @@ TODO:
 
 
 
+
+## Update on 2024-11-23
+
+### Physics
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2024-11-21|2024-11-21|Engineering spectro-temporal light states with physics-trained deep learning|Shilong Liu|[2411.14410v1](http://arxiv.org/pdf/2411.14410v1)|
+|2022-12-07|2024-11-21|Multiple Landau level filling for a mean field limit of 2D fermions|Denis Périce|[2212.03780v2](http://arxiv.org/pdf/2212.03780v2)|
+|2024-11-21|2024-11-21|Full counting statistics after quantum quenches as hydrodynamic fluctuations|David X. Horvath|[2411.14406v1](http://arxiv.org/pdf/2411.14406v1)|
+|2024-11-21|2024-11-21|Resolving Multiple-Dynamic Model Uncertainty in Hypothesis-Driven Belief-MDPs|Ofer Dagan|[2411.14404v1](http://arxiv.org/pdf/2411.14404v1)|
+|2024-08-22|2024-11-21|High-distance codes with transversal Clifford and T-gates|Shubham P. Jain|[2408.12752v2](http://arxiv.org/pdf/2408.12752v2)|
+|2024-06-04|2024-11-21|Integrating Physics of the Problem into Data-Driven Methods to Enhance Elastic Full-Waveform Inversion with Uncertainty Quantification|Vahid Negahdari|[2406.05153v2](http://arxiv.org/pdf/2406.05153v2)|
+|2024-05-01|2024-11-21|Quantum cryptographic protocols with dual messaging system via 2D alternate quantum walk of a genuine single-photon entangled state|Dinesh Kumar Panda|[2405.00663v3](http://arxiv.org/pdf/2405.00663v3)|
+|2023-11-16|2024-11-21|Top quark flavor changing couplings at a muon collider|Daniel Ake|[2311.09488v2](http://arxiv.org/pdf/2311.09488v2)|
+|2023-09-28|2024-11-21|Aspects of $T\bar{T}+J\bar{T }$ deformed Schwarzian: From gravity partition function to late-time spectral form factor|Arpan Bhattacharyya|[2309.16658v4](http://arxiv.org/pdf/2309.16658v4)|
+|2024-11-21|2024-11-21|Platinum Black for stray-light mitigation on high-aspect-ratio micromechanical cantilever|Gautam Venugopalan|[2411.14324v1](http://arxiv.org/pdf/2411.14324v1)|
+
+### Diffusion
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2024-11-21|2024-11-21|Stable Flow: Vital Layers for Training-Free Image Editing|Omri Avrahami|[2411.14430v1](http://arxiv.org/pdf/2411.14430v1)|
+|2024-11-21|2024-11-21|CoNFiLD-inlet: Synthetic Turbulence Inflow Using Generative Latent Diffusion Models with Neural Fields|Xin-Yang Liu|[2411.14378v1](http://arxiv.org/pdf/2411.14378v1)|
+|2024-11-21|2024-11-21|Enhancing Medical Image Segmentation with Deep Learning and Diffusion Models|Houze Liu|[2411.14353v1](http://arxiv.org/pdf/2411.14353v1)|
+|2024-08-06|2024-11-21|A TVD neural network closure and application to turbulent combustion|Seung Won Suh|[2408.03413v2](http://arxiv.org/pdf/2408.03413v2)|
+|2024-11-21|2024-11-21|SPARKLE: A Unified Single-Loop Primal-Dual Framework for Decentralized Bilevel Optimization|Shuchen Zhu|[2411.14166v1](http://arxiv.org/pdf/2411.14166v1)|
 ## Update on 2024-11-21
 
 ### Physics

@@ -1,0 +1,126 @@
+{
+    "Physics": [
+        {
+            "title": "Engineering spectro-temporal light states with physics-trained deep learning",
+            "authors": "Shilong Liu, St\u00e9phane Virally, Gabriel Demontigny, Patrick Cusson, Denis V. Seletskiy",
+            "summary": "Frequency synthesis and spectro-temporal control of optical wave packets are\ncentral to ultrafast science, with supercontinuum (SC) generation standing as\none remarkable example. Through passive manipulation, femtosecond (fs) pulses\nfrom nJ-level lasers can be transformed into octave-spanning spectra,\nsupporting few-cycle pulse outputs when coupled with external pulse\ncompressors. While strategies such as machine learning have been applied to\ncontrol the SC's central wavelength and bandwidth, their success has been\nlimited by the nonlinearities and strong sensitivity to measurement noise.\nHere, we propose and demonstrate how a physics-trained convolutional neural\nnetwork (P-CNN) can circumvent such challenges, showing few-fold speedups over\nthe direct approaches. We highlight three key advancements enabled by the P-CNN\napproach: (i) on-demand control over spectral features of SC, (ii) direct\ngeneration of sub-3-cycle pulses from the highly nonlinear fiber, and (iii) the\nproduction of high-order solitons, capturing distinct \"breather\" dynamics in\nboth spectral and temporal domains. This approach heralds a new era of\narbitrary spectro-temporal state engineering, with transformative implications\nfor ultrafast and quantum science.",
+            "pdf_url": "http://arxiv.org/pdf/2411.14410v1",
+            "published": "2024-11-21 18:45:03+00:00",
+            "updated": "2024-11-21 18:45:03+00:00"
+        },
+        {
+            "title": "Multiple Landau level filling for a mean field limit of 2D fermions",
+            "authors": "Denis P\u00e9rice",
+            "summary": "Motivated by the quantum hall effect, we study N two dimensional interacting\nfermions in a large magnetic field limit. We work in a bounded domain, ensuring\nfinite degeneracy of the Landau levels. In our regime, several levels are fully\nfilled and inert: the density in these levels is constant. We derive a limiting\nmean-field and semi classical description of the physics in the last, partially\nfilled Landau level.",
+            "pdf_url": "http://arxiv.org/pdf/2212.03780v2",
+            "published": "2022-12-07 17:00:36+00:00",
+            "updated": "2024-11-21 18:40:45+00:00"
+        },
+        {
+            "title": "Full counting statistics after quantum quenches as hydrodynamic fluctuations",
+            "authors": "David X. Horvath, Benjamin Doyon, Paola Ruggiero",
+            "summary": "The statistics of fluctuations on large regions of space encodes universal\nproperties of many-body systems. At equilibrium, it is described by\nthermodynamics. However, away from equilibrium such as after quantum quenches,\nthe fundamental principles are more nebulous. In particular, although exact\nresults have been conjectured in integrable models, a correct understanding of\nthe physics is largely missing. In this letter, we explain these principles,\ntaking the example of the number of particles lying on a large interval in\none-dimensional interacting systems. These are based on simple hydrodynamic\narguments from the theory of ballistically transported fluctuations, and in\nparticular the Euler-scale transport of long-range correlations. Using these\nprinciples, we obtain the full counting statistics (FCS) in terms of\nthermodynamic and hydrodynamic quantities, whose validity depends on the\nstructure of hydrodynamic modes. In fermionic-statistics interacting integrable\nmodels with a continuum of hydrodynamic modes, such as the Lieb-Liniger model\nfor cold atomic gases, the formula reproduces previous conjectures, but is in\nfact not exact: it gives the correct cumulants up to, including, order 5, while\nlong-range correlations modify higher cumulants. In integrable and\nnon-integrable models with two or less hydrodynamic modes, the formula is\nexpected to give all cumulants.",
+            "pdf_url": "http://arxiv.org/pdf/2411.14406v1",
+            "published": "2024-11-21 18:38:40+00:00",
+            "updated": "2024-11-21 18:38:40+00:00"
+        },
+        {
+            "title": "Resolving Multiple-Dynamic Model Uncertainty in Hypothesis-Driven Belief-MDPs",
+            "authors": "Ofer Dagan, Tyler Becker, Zachary N. Sunberg",
+            "summary": "When human operators of cyber-physical systems encounter surprising behavior,\nthey often consider multiple hypotheses that might explain it. In some cases,\ntaking information-gathering actions such as additional measurements or control\ninputs given to the system can help resolve uncertainty and determine the most\naccurate hypothesis. The task of optimizing these actions can be formulated as\na belief-space Markov decision process that we call a hypothesis-driven belief\nMDP. Unfortunately, this problem suffers from the curse of history similar to a\npartially observable Markov decision process (POMDP). To plan in continuous\ndomains, an agent needs to reason over countlessly many possible\naction-observation histories, each resulting in a different belief over the\nunknown state. The problem is exacerbated in the hypothesis-driven context\nbecause each action-observation pair spawns a different belief for each\nhypothesis, leading to additional branching. This paper considers the case in\nwhich each hypothesis corresponds to a different dynamic model in an underlying\nPOMDP. We present a new belief MDP formulation that: (i) enables reasoning over\nmultiple hypotheses, (ii) balances the goals of determining the (most likely)\ncorrect hypothesis and performing well in the underlying POMDP, and (iii) can\nbe solved with sparse tree search.",
+            "pdf_url": "http://arxiv.org/pdf/2411.14404v1",
+            "published": "2024-11-21 18:36:19+00:00",
+            "updated": "2024-11-21 18:36:19+00:00"
+        },
+        {
+            "title": "High-distance codes with transversal Clifford and T-gates",
+            "authors": "Shubham P. Jain, Victor V. Albert",
+            "summary": "The non-local interactions in several quantum devices allow for the\nrealization of more compact quantum encodings while retaining the same degree\nof protection against noise. Anticipating that short to medium-length codes\nwill soon be realizable, it is important to construct stabilizer codes that,\nfor a given code distance, admit fault-tolerant implementations of logical\ngates with the fewest number of physical qubits. We extract high-distance\ndoubly even codes from the quantum quadratic-residue code family that admit a\ntransversal implementation of the single-qubit Clifford group and block\ntransversal implementation of the full Clifford group. Applying a doubling\nprocedure [arXiv:1509.03239] to such codes yields a family of high-distance\nweak triply even codes which admit a transversal implementation of the logical\n$\\texttt{T}$-gate. Relaxing the triply even property, we also obtain a family\nof triorthogonal codes which requires an even lower overhead at the cost of\nadditional Clifford gates to achieve the same logical operation. To our\nknowledge, our doubly even and triorthogonal families are the shortest qubit\nstabilizer codes of the same distance that can realize their respective gates.",
+            "pdf_url": "http://arxiv.org/pdf/2408.12752v2",
+            "published": "2024-08-22 22:45:47+00:00",
+            "updated": "2024-11-21 18:23:33+00:00"
+        },
+        {
+            "title": "Integrating Physics of the Problem into Data-Driven Methods to Enhance Elastic Full-Waveform Inversion with Uncertainty Quantification",
+            "authors": "Vahid Negahdari, Seyed Reza Moghadasi, Mohammad Reza Razvan",
+            "summary": "Full-Waveform Inversion (FWI) is a nonlinear iterative seismic imaging\ntechnique that, by reducing the misfit between recorded and predicted seismic\nwaveforms, can produce detailed estimates of subsurface geophysical properties.\nNevertheless, the strong nonlinearity of FWI can trap the optimization in local\nminima. This issue arises due to factors such as improper initial values, the\nabsence of low frequencies in the measurements, noise, and other related\nconsiderations. To address this challenge and with the advent of advanced\nmachine-learning techniques, data-driven methods, such as deep learning, have\nattracted significantly increasing attention in the geophysical community.\nFurthermore, the elastic wave equation should be included in FWI to represent\nelastic effects accurately. The intersection of data-driven techniques and\nelastic scattering theories presents opportunities and challenges. In this\npaper, by using the knowledge of elastic scattering (physics of the problem)\nand integrating it with machine learning techniques, we propose methods for the\nsolution of time-harmonic FWI to enhance accuracy compared to pure data-driven\nand physics-based approaches. Moreover, to address uncertainty quantification,\nby modifying the structure of the Variational Autoencoder, we introduce a\nprobabilistic deep learning method based on the physics of the problem that\nenables us to explore the uncertainties of the solution. According to the\nlimited availability of datasets in this field and to assess the performance\nand accuracy of the proposed methods, we create a comprehensive dataset close\nto reality and conduct a comparative analysis of the presented approaches to\nit.",
+            "pdf_url": "http://arxiv.org/pdf/2406.05153v2",
+            "published": "2024-06-04 11:30:40+00:00",
+            "updated": "2024-11-21 18:08:26+00:00"
+        },
+        {
+            "title": "Quantum cryptographic protocols with dual messaging system via 2D alternate quantum walk of a genuine single-photon entangled state",
+            "authors": "Dinesh Kumar Panda, Colin Benjamin",
+            "summary": "A single-photon entangled state (or single-particle entangled state (SPES) in\ngeneral) can offer a more secure way of encoding and processing quantum\ninformation than their multi-photon (or multi-particle) counterparts. The SPES\ngenerated via a 2D alternate quantum-walk setup from initially separable states\ncan be either 3-way or 2-way entangled. This letter shows that the generated\ngenuine three-way and nonlocal two-way SPES can be used as cryptographic keys\nto securely encode two distinct messages simultaneously. We detail the message\nencryption-decryption steps and show the resilience of the 3-way and 2-way\nSPES-based cryptographic protocols against eavesdropper attacks like\nintercept-and-resend and man-in-the-middle. We also detail the experimental\nrealization of these protocols using a single photon, with the three degrees of\nfreedom being OAM, path, and polarization. We have proved that the protocols\nhave unconditional security for quantum communication tasks. The ability to\nsimultaneously encode two distinct messages using the generated SPES showcases\nthe versatility and efficiency of the proposed cryptographic protocol. This\ncapability could significantly improve the throughput of quantum communication\nsystems.",
+            "pdf_url": "http://arxiv.org/pdf/2405.00663v3",
+            "published": "2024-05-01 17:50:36+00:00",
+            "updated": "2024-11-21 17:59:37+00:00"
+        },
+        {
+            "title": "Top quark flavor changing couplings at a muon collider",
+            "authors": "Daniel Ake, Antonio O. Bouzas, F. Larios",
+            "summary": "There is growing interest in the development of a muon collider that would\nmake it possible to produce lepton collisions at energies of several TeV. Among\nothers, there can be significant contributions to electroweak gauge boson,\nHiggs boson and top quark physics. In this work we pay attention to the latter,\nin particular, effective flavor-changing (FC) top-quark interactions. We\ndiscuss the flavor changing $t \\bar q$ ($q=u,c$) production processes that can\nbe a good probe of the dimension-six top quark four-fermion and fermion-boson\noperators in the SMEFT. We consider all sixteen operators that can generate\nflavor-changing top quark couplings. After comparing with the current LHC\nbounds, we find potential limits three or four orders of magnitude stronger for\nfour-fermion operators. Concerning fermion-boson couplings, for the tensor\noperators $Q_{uW}$ and $Q_{uB}$ we obtain the highest sensitivity. We also\nobserve that the effective $W$ approximation (EWA) does not apply with\n$Q_{uB}$.",
+            "pdf_url": "http://arxiv.org/pdf/2311.09488v2",
+            "published": "2023-11-16 01:20:38+00:00",
+            "updated": "2024-11-21 17:42:26+00:00"
+        },
+        {
+            "title": "Aspects of $T\\bar{T}+J\\bar{T }$ deformed Schwarzian: From gravity partition function to late-time spectral form factor",
+            "authors": "Arpan Bhattacharyya, Saptaswa Ghosh, Sounak Pal",
+            "summary": "In this paper, we investigate different thermodynamic properties of\n$T\\bar{T}+J\\bar{T}$ deformed Schwarzian theory and its different gravitational\nperspectives. First, we compute the partition function of $U(1)$ coupled\n2D-gravity with fixed chemical potential, obtained from the dimensional\nreduction of the four-dimensional Einstein-Maxwell theory. Then, we compute the\npartition function of the gravity theory which is the dual to the deformed\nSchwarzian living on its boundary and study the genus expansion of the one and\ntwo-point correlation function of the partition function of the theory.\nSubsequently, we use the one-point function to compute the \"Annealed\" and\n\"Quenched\" free energy in low-temperature limits and make a qualitative\ncomparison with the undeformed theory. Then, using the two-point function, we\ncompute the Spectral Form Factor of the deformed theory in early and late time.\nWe find a dip and ramp structure in early and late time, respectively. We also\nget a plateau structure in the $\\tau$-scaling limit. Last but not least, we\ncomment on the late-time topology change to give a physical interpretation of\nthe ramp of the Spectral Form Factor for our theory.",
+            "pdf_url": "http://arxiv.org/pdf/2309.16658v4",
+            "published": "2023-09-28 17:57:10+00:00",
+            "updated": "2024-11-21 17:31:44+00:00"
+        },
+        {
+            "title": "Platinum Black for stray-light mitigation on high-aspect-ratio micromechanical cantilever",
+            "authors": "Gautam Venugopalan, Giorgio Gratta",
+            "summary": "Microscopic devices are widely used in optomechanical experiments at the\ncutting-edge of precision experimental physics. Such devices often need to have\nhigh electrical conductivity but low reflectivity at optical wavelengths, which\ncan be competing requirements for many commonly available coatings. In this\nmanuscript, we present a technique to electroplate platinum with a highly\nconvoluted surface on a $475\\,\\mathrm{\\mu m } \\, \\times 500\\,\\mathrm{\\mu m } \\,\n\\times 10\\,\\mathrm{\\mu m }$ Silicon/Gold cantilever, preserving its electrical\nconductivity but reducing its reflectivity in the $0.3 - 1\\,\\mathrm{\\mu m}$\nrange by a factor of $100$ or greater. The fact that the deposition can be done\npost-fabrication without damaging delicate structures makes this technique of\ninterest to a potentially large range of experimental applications.",
+            "pdf_url": "http://arxiv.org/pdf/2411.14324v1",
+            "published": "2024-11-21 17:14:43+00:00",
+            "updated": "2024-11-21 17:14:43+00:00"
+        }
+    ],
+    "Diffusion": [
+        {
+            "title": "Stable Flow: Vital Layers for Training-Free Image Editing",
+            "authors": "Omri Avrahami, Or Patashnik, Ohad Fried, Egor Nemchinov, Kfir Aberman, Dani Lischinski, Daniel Cohen-Or",
+            "summary": "Diffusion models have revolutionized the field of content synthesis and\nediting. Recent models have replaced the traditional UNet architecture with the\nDiffusion Transformer (DiT), and employed flow-matching for improved training\nand sampling. However, they exhibit limited generation diversity. In this work,\nwe leverage this limitation to perform consistent image edits via selective\ninjection of attention features. The main challenge is that, unlike the\nUNet-based models, DiT lacks a coarse-to-fine synthesis structure, making it\nunclear in which layers to perform the injection. Therefore, we propose an\nautomatic method to identify \"vital layers\" within DiT, crucial for image\nformation, and demonstrate how these layers facilitate a range of controlled\nstable edits, from non-rigid modifications to object addition, using the same\nmechanism. Next, to enable real-image editing, we introduce an improved image\ninversion method for flow models. Finally, we evaluate our approach through\nqualitative and quantitative comparisons, along with a user study, and\ndemonstrate its effectiveness across multiple applications. The project page is\navailable at https://omriavrahami.com/stable-flow",
+            "pdf_url": "http://arxiv.org/pdf/2411.14430v1",
+            "published": "2024-11-21 18:59:51+00:00",
+            "updated": "2024-11-21 18:59:51+00:00"
+        },
+        {
+            "title": "CoNFiLD-inlet: Synthetic Turbulence Inflow Using Generative Latent Diffusion Models with Neural Fields",
+            "authors": "Xin-Yang Liu, Meet Hemant Parikh, Xiantao Fan, Pan Du, Qing Wang, Yi-Fan Chen, Jian-Xun Wang",
+            "summary": "Eddy-resolving turbulence simulations require stochastic inflow conditions\nthat accurately replicate the complex, multi-scale structures of turbulence.\nTraditional recycling-based methods rely on computationally expensive precursor\nsimulations, while existing synthetic inflow generators often fail to reproduce\nrealistic coherent structures of turbulence. Recent advances in deep learning\n(DL) have opened new possibilities for inflow turbulence generation, yet many\nDL-based methods rely on deterministic, autoregressive frameworks prone to\nerror accumulation, resulting in poor robustness for long-term predictions. In\nthis work, we present CoNFiLD-inlet, a novel DL-based inflow turbulence\ngenerator that integrates diffusion models with a conditional neural field\n(CNF)-encoded latent space to produce realistic, stochastic inflow turbulence.\nBy parameterizing inflow conditions using Reynolds numbers, CoNFiLD-inlet\ngeneralizes effectively across a wide range of Reynolds numbers ($Re_\\tau$\nbetween $10^3$ and $10^4$) without requiring retraining or parameter tuning.\nComprehensive validation through a priori and a posteriori tests in Direct\nNumerical Simulation (DNS) and Wall-Modeled Large Eddy Simulation (WMLES)\ndemonstrates its high fidelity, robustness, and scalability, positioning it as\nan efficient and versatile solution for inflow turbulence synthesis.",
+            "pdf_url": "http://arxiv.org/pdf/2411.14378v1",
+            "published": "2024-11-21 18:13:03+00:00",
+            "updated": "2024-11-21 18:13:03+00:00"
+        },
+        {
+            "title": "Enhancing Medical Image Segmentation with Deep Learning and Diffusion Models",
+            "authors": "Houze Liu, Tong Zhou, Yanlin Xiang, Aoran Shen, Jiacheng Hu, Junliang Du",
+            "summary": "Medical image segmentation is crucial for accurate clinical diagnoses, yet it\nfaces challenges such as low contrast between lesions and normal tissues,\nunclear boundaries, and high variability across patients. Deep learning has\nimproved segmentation accuracy and efficiency, but it still relies heavily on\nexpert annotations and struggles with the complexities of medical images. The\nsmall size of medical image datasets and the high cost of data acquisition\nfurther limit the performance of segmentation networks. Diffusion models, with\ntheir iterative denoising process, offer a promising alternative for better\ndetail capture in segmentation. However, they face difficulties in accurately\nsegmenting small targets and maintaining the precision of boundary details.\nThis article discusses the importance of medical image segmentation, the\nlimitations of current deep learning approaches, and the potential of diffusion\nmodels to address these challenges.",
+            "pdf_url": "http://arxiv.org/pdf/2411.14353v1",
+            "published": "2024-11-21 17:49:15+00:00",
+            "updated": "2024-11-21 17:49:15+00:00"
+        },
+        {
+            "title": "A TVD neural network closure and application to turbulent combustion",
+            "authors": "Seung Won Suh, Jonathan F MacArt, Luke N Olson, Jonathan B Freund",
+            "summary": "Trained neural networks (NN) have attractive features for closing governing\nequations. There are many methods that are showing promise, but all can fail in\ncases when small errors consequentially violate physical reality, such as a\nsolution boundedness condition. A NN formulation is introduced to preclude\nspurious oscillations that violate solution boundedness or positivity. It is\nembedded in the discretized equations as a machine learning closure and\nstrictly constrained, inspired by total variation diminishing (TVD) methods for\nhyperbolic conservation laws. The constraint is exactly enforced during\ngradient-descent training by rescaling the NN parameters, which maps them onto\nan explicit feasible set. Demonstrations show that the constrained NN closure\nmodel usefully recovers linear and nonlinear hyperbolic phenomena and\nanti-diffusion while enforcing the non-oscillatory property. Finally, the model\nis applied to subgrid-scale (SGS) modeling of a turbulent reacting flow, for\nwhich it suppresses spurious oscillations in scalar fields that otherwise\nviolate the solution boundedness. It outperforms a simple penalization of\noscillations in the loss function.",
+            "pdf_url": "http://arxiv.org/pdf/2408.03413v2",
+            "published": "2024-08-06 19:22:13+00:00",
+            "updated": "2024-11-21 16:52:11+00:00"
+        },
+        {
+            "title": "SPARKLE: A Unified Single-Loop Primal-Dual Framework for Decentralized Bilevel Optimization",
+            "authors": "Shuchen Zhu, Boao Kong, Songtao Lu, Xinmeng Huang, Kun Yuan",
+            "summary": "This paper studies decentralized bilevel optimization, in which multiple\nagents collaborate to solve problems involving nested optimization structures\nwith neighborhood communications. Most existing literature primarily utilizes\ngradient tracking to mitigate the influence of data heterogeneity, without\nexploring other well-known heterogeneity-correction techniques such as EXTRA or\nExact Diffusion. Additionally, these studies often employ identical\ndecentralized strategies for both upper- and lower-level problems, neglecting\nto leverage distinct mechanisms across different levels. To address these\nlimitations, this paper proposes SPARKLE, a unified Single-loop Primal-dual\nAlgoRithm frameworK for decentraLized bilEvel optimization. SPARKLE offers the\nflexibility to incorporate various heterogeneitycorrection strategies into the\nalgorithm. Moreover, SPARKLE allows for different strategies to solve upper-\nand lower-level problems. We present a unified convergence analysis for\nSPARKLE, applicable to all its variants, with state-of-the-art convergence\nrates compared to existing decentralized bilevel algorithms. Our results\nfurther reveal that EXTRA and Exact Diffusion are more suitable for\ndecentralized bilevel optimization, and using mixed strategies in bilevel\nalgorithms brings more benefits than relying solely on gradient tracking.",
+            "pdf_url": "http://arxiv.org/pdf/2411.14166v1",
+            "published": "2024-11-21 14:23:06+00:00",
+            "updated": "2024-11-21 14:23:06+00:00"
+        }
+    ]
+}
