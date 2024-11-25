@@ -86,6 +86,36 @@ TODO:
 
 
 
+
+## Update on 2024-11-25
+
+### Physics
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2023-08-07|2024-11-22|Constructions and performance of hyperbolic and semi-hyperbolic Floquet codes|Oscar Higgott|[2308.03750v2](http://arxiv.org/pdf/2308.03750v2)|
+|2024-11-22|2024-11-22|Learnable Activation Functions in Physics-Informed Neural Networks for Solving Partial Differential Equations|Afrah Fareaa|[2411.15111v1](http://arxiv.org/pdf/2411.15111v1)|
+|2023-12-08|2024-11-22|Anomalous Dimensions via on-shell Methods: Operator Mixing and Leading Mass Effects|L. C. Bresciani|[2312.05206v2](http://arxiv.org/pdf/2312.05206v2)|
+|2024-08-07|2024-11-22|Investigation of pion-nucleon contributions to nucleon matrix elements|Constantia Alexandrou|[2408.03893v2](http://arxiv.org/pdf/2408.03893v2)|
+|2024-11-22|2024-11-22|What You See is Not What You Get: Neural Partial Differential Equations and The Illusion of Learning|Arvind Mohan|[2411.15101v1](http://arxiv.org/pdf/2411.15101v1)|
+|2024-11-22|2024-11-22|Towards quantum simulation of lower-dimensional supersymmetric lattice models|Emanuele Mendicelli|[2411.15083v1](http://arxiv.org/pdf/2411.15083v1)|
+|2024-06-12|2024-11-22|Simulation of the Dissipative Dynamics of Strongly Interacting NV Centers with Tensor Networks|Jirawat Saiphet|[2406.08108v2](http://arxiv.org/pdf/2406.08108v2)|
+|2024-11-22|2024-11-22|One-loop integrability with shifting masses|Matheus Fabri|[2411.15080v1](http://arxiv.org/pdf/2411.15080v1)|
+|2024-05-22|2024-11-22|Single color digital H&E staining with In-and-Out Net|Mengkun Chen|[2405.13278v2](http://arxiv.org/pdf/2405.13278v2)|
+|2024-11-22|2024-11-22|Geometric phase and holonomy in the space of 2-by-2 symmetric operators|Jakub Rondomanski|[2411.15038v1](http://arxiv.org/pdf/2411.15038v1)|
+
+### Diffusion
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2024-11-22|2024-11-22|VideoRepair: Improving Text-to-Video Generation via Misalignment Evaluation and Localized Refinement|Daeun Lee|[2411.15115v1](http://arxiv.org/pdf/2411.15115v1)|
+|2024-11-22|2024-11-22|Efficient Pruning of Text-to-Image Models: Insights from Pruning Stable Diffusion|Samarth N Ramesh|[2411.15113v1](http://arxiv.org/pdf/2411.15113v1)|
+|2024-02-06|2024-11-22|AdaFlow: Imitation Learning with Variance-Adaptive Flow-Based Policies|Xixi Hu|[2402.04292v2](http://arxiv.org/pdf/2402.04292v2)|
+|2024-11-22|2024-11-22|OminiControl: Minimal and Universal Control for Diffusion Transformer|Zhenxiong Tan|[2411.15098v1](http://arxiv.org/pdf/2411.15098v1)|
+|2024-11-22|2024-11-22|Leapfrog Latent Consistency Model (LLCM) for Medical Images Generation|Lakshmikar R. Polamreddy|[2411.15084v1](http://arxiv.org/pdf/2411.15084v1)|
+
+### Quantitative Finance
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2024-11-22|2024-11-22|A New Way: Kronecker-Factored Approximate Curvature Deep Hedging and its Benefits|Tsogt-Ochir Enkhbayar|[2411.15002v1](http://arxiv.org/pdf/2411.15002v1)|
 ## Update on 2024-11-23
 
 ### Physics
