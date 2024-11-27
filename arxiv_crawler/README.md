@@ -87,6 +87,31 @@ TODO:
 
 
 
+
+## Update on 2024-11-27
+
+### Physics
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2024-01-26|2024-11-26|A Multi-Grained Symmetric Differential Equation Model for Learning Protein-Ligand Binding Dynamics|Shengchao Liu|[2401.15122v3](http://arxiv.org/pdf/2401.15122v3)|
+|2024-11-26|2024-11-26|Uma proposta para o uso de RPG no Ensino de Física: A Vingança de Newton|Maria Rita Vasconcelos Brandão Souza|[2411.17642v1](http://arxiv.org/pdf/2411.17642v1)|
+|2024-11-05|2024-11-26|Tutorial: Classifying Photonic Topology Using the Spectral Localizer and Numerical $K$-Theory|Alexander Cerjan|[2411.03515v2](http://arxiv.org/pdf/2411.03515v2)|
+|2024-11-26|2024-11-26|Broadband coherent XUV light from $e^-/e^+$ microbunching in an intense laser pulse|Michael J. Quin|[2411.17631v1](http://arxiv.org/pdf/2411.17631v1)|
+|2024-05-22|2024-11-26|Equivariant neural networks for robust $\textit{CP}$ observables|Sergio Sánchez Cruz|[2405.13524v2](http://arxiv.org/pdf/2405.13524v2)|
+|2024-11-26|2024-11-26|Flame-wall interaction of thermodiffusively unstable hydrogen/air flames -- Part I: Characterization of governing physical phenomena|Max Schneider|[2411.17590v1](http://arxiv.org/pdf/2411.17590v1)|
+|2024-11-26|2024-11-26|Multi-IMPT: a biologically equivalent approach to proton ARC therapy|Nimita Shinde|[2411.17578v1](http://arxiv.org/pdf/2411.17578v1)|
+|2024-08-23|2024-11-26|Observation and characterisation of trapped electron modes in Wendelstein 7-X|A. Krämer-Flecken|[2408.12900v3](http://arxiv.org/pdf/2408.12900v3)|
+|2024-11-26|2024-11-26|Variational Quantum Simulation of the Fokker-Planck Equation applied to Quantum Radiation Reaction|Óscar Amaro|[2411.17517v1](http://arxiv.org/pdf/2411.17517v1)|
+|2024-11-15|2024-11-26|Scalar and tensor meson dominance and gravitational form factors of the pion|Enrique Ruiz Arriola|[2411.10354v2](http://arxiv.org/pdf/2411.10354v2)|
+
+### Diffusion
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2024-11-26|2024-11-26|StableAnimator: High-Quality Identity-Preserving Human Image Animation|Shuyuan Tu|[2411.17697v1](http://arxiv.org/pdf/2411.17697v1)|
+|2024-11-26|2024-11-26|Mixed-State Quantum Denoising Diffusion Probabilistic Model|Gino Kwun|[2411.17608v1](http://arxiv.org/pdf/2411.17608v1)|
+|2024-11-26|2024-11-26|On Statistical Rates of Conditional Diffusion Transformers: Approximation, Estimation and Minimax Optimality|Jerry Yao-Chieh Hu|[2411.17522v1](http://arxiv.org/pdf/2411.17522v1)|
+|2024-11-26|2024-11-26|WF-VAE: Enhancing Video VAE by Wavelet-Driven Energy Flow for Latent Video Diffusion Model|Zongjian Li|[2411.17459v1](http://arxiv.org/pdf/2411.17459v1)|
+|2024-11-22|2024-11-26|Efficient Long Video Tokenization via Coordinate-based Patch Reconstruction|Huiwon Jang|[2411.14762v2](http://arxiv.org/pdf/2411.14762v2)|
 ## Update on 2024-11-25
 
 ### Physics
