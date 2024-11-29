@@ -88,6 +88,30 @@ TODO:
 
 
 
+
+## Update on 2024-11-29
+
+### Physics
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2024-11-27|2024-11-27|Bit symmetry entails the symmetry of the quantum transition probability|Gerd Niestegge|[2411.18589v1](http://arxiv.org/pdf/2411.18589v1)|
+|2024-11-27|2024-11-27|DexDiffuser: Interaction-aware Diffusion Planning for Adaptive Dexterous Manipulation|Zhixuan Liang|[2411.18562v1](http://arxiv.org/pdf/2411.18562v1)|
+|2024-11-27|2024-11-27|A tale of Bethe logarithms: leptonic widths of $χ_{cJ}$ and Lamb shift|Yu Jia|[2411.18560v1](http://arxiv.org/pdf/2411.18560v1)|
+|2024-11-11|2024-11-27|Bilayer construction for mixed state phenomena with strong, weak symmetries and symmetry breakings|Shuangyuan Lu|[2411.07174v2](http://arxiv.org/pdf/2411.07174v2)|
+|2024-02-13|2024-11-27|Shape Switching and Tunable Oscillations of Adaptive Droplets|Tim Dullweber|[2402.08664v3](http://arxiv.org/pdf/2402.08664v3)|
+|2024-08-26|2024-11-27|Complexity of Quantum-Mechanical Evolutions from Probability Amplitudes|Carlo Cafaro|[2408.14241v2](http://arxiv.org/pdf/2408.14241v2)|
+|2024-11-27|2024-11-27|The Solvay Councils, de Broglie's brothers, and the development of wave-particle duality|Alessio Rocci|[2411.18524v1](http://arxiv.org/pdf/2411.18524v1)|
+|2024-11-27|2024-11-27|Scaling SU(2) to 1000 GPUs using HiRep|Sofie Martins|[2411.18511v1](http://arxiv.org/pdf/2411.18511v1)|
+|2023-10-25|2024-11-27|Quantifying the Chirality of Vibrational Modes in Helical Molecular Chains|Ethan Abraham|[2310.16352v5](http://arxiv.org/pdf/2310.16352v5)|
+|2024-05-07|2024-11-27|Unveiling the optimization process of Physics Informed Neural Networks: How accurate and competitive can PINNs be?|Jorge F. Urbán|[2405.04230v2](http://arxiv.org/pdf/2405.04230v2)|
+
+### Diffusion
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2024-11-27|2024-11-27|Diffusion Self-Distillation for Zero-Shot Customized Image Generation|Shengqu Cai|[2411.18616v1](http://arxiv.org/pdf/2411.18616v1)|
+|2024-11-27|2024-11-27|Synthetic ECG Generation for Data Augmentation and Transfer Learning in Arrhythmia Classification|José Fernando Núñez|[2411.18456v1](http://arxiv.org/pdf/2411.18456v1)|
+|2023-11-17|2024-11-27|Multiscale Hodge Scattering Networks for Data Analysis|Naoki Saito|[2311.10270v5](http://arxiv.org/pdf/2311.10270v5)|
+|2024-11-27|2024-11-27|G3Flow: Generative 3D Semantic Flow for Pose-aware and Generalizable Object Manipulation|Tianxing Chen|[2411.18369v1](http://arxiv.org/pdf/2411.18369v1)|
 ## Update on 2024-11-27
 
 ### Physics
