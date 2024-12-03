@@ -89,6 +89,35 @@ TODO:
 
 
 
+
+## Update on 2024-12-03
+
+### Physics
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2024-12-02|2024-12-02|Suppression of the collisionless tearing mode by flow shear: implications for reconnection onset in the Alfvénic solar wind|A. Mallet|[2412.01796v1](http://arxiv.org/pdf/2412.01796v1)|
+|2024-12-02|2024-12-02|Hard Constraint Guided Flow Matching for Gradient-Free Generation of PDE Solutions|Chaoran Cheng|[2412.01786v1](http://arxiv.org/pdf/2412.01786v1)|
+|2024-02-18|2024-12-02|Bulk and boundary entanglement transitions in the projective gauge-Higgs model|Hiroki Sukeno|[2402.11738v2](http://arxiv.org/pdf/2402.11738v2)|
+|2024-11-22|2024-12-02|Quantum dynamics of photophysical aggregates in conjugated polymers|Henry J. Kantrow|[2411.14675v3](http://arxiv.org/pdf/2411.14675v3)|
+|2024-11-20|2024-12-02|Closed-form solutions of the nonlinear Schrödinger equation with arbitrary dispersion and potential|Andrei D. Polyanin|[2411.13713v2](http://arxiv.org/pdf/2411.13713v2)|
+|2024-12-02|2024-12-02|Linear Standard Model extensions in the SMEFT at one loop and Tera-Z|John Gargalionis|[2412.01759v1](http://arxiv.org/pdf/2412.01759v1)|
+|2024-12-02|2024-12-02|Efficient Compression of Sparse Accelerator Data Using Implicit Neural Representations and Importance Sampling|Xihaier Luo|[2412.01754v1](http://arxiv.org/pdf/2412.01754v1)|
+|2019-09-14|2024-12-02|Counterfactual restrictions and Bell's theorem|Jonte R. Hance|[1909.06608v6](http://arxiv.org/pdf/1909.06608v6)|
+|2024-12-02|2024-12-02|Ab initio study of Proximity-Induced Superconductivity in PbTe/Pb heterostructures|R. Reho|[2412.01749v1](http://arxiv.org/pdf/2412.01749v1)|
+|2024-12-02|2024-12-02|The matter/life nexus in biological cells|Vishal S. Sivasankar|[2412.01743v1](http://arxiv.org/pdf/2412.01743v1)|
+
+### Diffusion
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2024-12-02|2024-12-02|GETAE: Graph information Enhanced deep neural NeTwork ensemble ArchitecturE for fake news detection|Ciprian-Octavian Truică|[2412.01825v1](http://arxiv.org/pdf/2412.01825v1)|
+|2024-12-02|2024-12-02|IQA-Adapter: Exploring Knowledge Transfer from Image Quality Assessment to Diffusion-based Generative Models|Khaled Abud|[2412.01794v1](http://arxiv.org/pdf/2412.01794v1)|
+|2024-11-07|2024-12-02|Brain Tumour Removing and Missing Modality Generation using 3D WDM|André Ferreira|[2411.04630v2](http://arxiv.org/pdf/2411.04630v2)|
+|2024-06-27|2024-12-02|Latent Diffusion for Neural Spiking Data|Jaivardhan Kapoor|[2407.08751v2](http://arxiv.org/pdf/2407.08751v2)|
+
+### Quantitative Finance
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2024-11-28|2024-11-28|Deep learning interpretability for rough volatility|Bo Yuan|[2411.19317v1](http://arxiv.org/pdf/2411.19317v1)|
 ## Update on 2024-11-29
 
 ### Physics

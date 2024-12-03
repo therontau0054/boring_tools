@@ -1,0 +1,128 @@
+{
+    "Physics": [
+        {
+            "title": "Suppression of the collisionless tearing mode by flow shear: implications for reconnection onset in the Alfv\u00e9nic solar wind",
+            "authors": "A. Mallet, S. Eriksson, M. Swisdak, J. Juno",
+            "summary": "We analyse the collisionless tearing mode instability of a current sheet with\na strong shear flow across the layer. The growth rate decreases with increasing\nshear flow, and is completely stabilized as the shear flow becomes Alfv\\'enic.\nWe also show that in the presence of strong flow shear, the tearing mode growth\nrate decreases with increasing background ion-to-electron temperature ratio,\nthe opposite behaviour to the tearing mode without flow shear. We find that\neven a relatively small flow shear is enough to dramatically alter the scaling\nbehaviour of the mode, because the growth rate is small compared to the shear\nflow across the ion scales (but large compared to shear flow across the\nelectron scales). Our results may explain the relative absence of reconnection\nevents in the near-Sun Alfv\\'enic solar wind observed recently by NASA's Parker\nSolar Probe.",
+            "pdf_url": "http://arxiv.org/pdf/2412.01796v1",
+            "published": "2024-12-02 18:41:30+00:00",
+            "updated": "2024-12-02 18:41:30+00:00"
+        },
+        {
+            "title": "Hard Constraint Guided Flow Matching for Gradient-Free Generation of PDE Solutions",
+            "authors": "Chaoran Cheng, Boran Han, Danielle C. Maddix, Abdul Fatir Ansari, Andrew Stuart, Michael W. Mahoney, Yuyang Wang",
+            "summary": "Generative models that satisfy hard constraints are crucial in many\nscientific and engineering applications where physical laws or system\nrequirements must be strictly respected. However, many existing constrained\ngenerative models, especially those developed for computer vision, rely heavily\non gradient information, often sparse or computationally expensive in fields\nlike partial differential equations (PDEs). In this work, we introduce a novel\nframework for adapting pre-trained, unconstrained flow-matching models to\nsatisfy constraints exactly in a zero-shot manner without requiring expensive\ngradient computations or fine-tuning. Our framework, ECI sampling, alternates\nbetween extrapolation (E), correction (C), and interpolation (I) stages during\neach iterative sampling step of flow matching sampling to ensure accurate\nintegration of constraint information while preserving the validity of the\ngeneration. We demonstrate the effectiveness of our approach across various PDE\nsystems, showing that ECI-guided generation strictly adheres to physical\nconstraints and accurately captures complex distribution shifts induced by\nthese constraints. Empirical results demonstrate that our framework\nconsistently outperforms baseline approaches in various zero-shot constrained\ngeneration tasks and also achieves competitive results in the regression tasks\nwithout additional fine-tuning.",
+            "pdf_url": "http://arxiv.org/pdf/2412.01786v1",
+            "published": "2024-12-02 18:36:26+00:00",
+            "updated": "2024-12-02 18:36:26+00:00"
+        },
+        {
+            "title": "Bulk and boundary entanglement transitions in the projective gauge-Higgs model",
+            "authors": "Hiroki Sukeno, Kazuki Ikeda, Tzu-Chieh Wei",
+            "summary": "In quantum many-body spin systems, the interplay between the entangling\neffect of multi-qubit Pauli measurements and the disentangling effect of\nsingle-qubit Pauli measurements may give rise to two competing effects. By\nintroducing a randomized measurement pattern with such bases, a phase\ntransition can be induced by altering the ratio between them. In this work, we\nnumerically investigate a measurement-based model associated with the $(2+1)$d\n$\\mathbb{Z}_2$ Fradkin-Shenker Hamiltonian model, encompassing the deconfining,\nconfining, and Higgs phases. We determine the phase diagram in our\nmeasurement-only model by employing entanglement measures. For the bulk\ntopological order, we use the topological entanglement entropy. We also use the\nmutual information between separated boundary regions to diagnose the boundary\nphase transition associated with the Higgs or the bulk SPT phase. We observe\nthe structural similarity between our phase diagram and the one in the standard\nquantum Hamiltonian formulation of the Fradkin-Shenker model with the open\nrough boundary. First, a deconfining phase is detected by nonzero and constant\ntopological entanglement entropy. Second, we find a (boundary) phase transition\ncurve separating the Higgs=SPT phase from the rest. In certain limits, the\ntopological phase transitions reside at the critical point of the formation of\ngiant homological cycles in the bulk 3d spacetime lattice, as well as the bond\npercolation threshold of the boundary 2d spacetime lattice when it is\neffectively decoupled from the bulk. Additionally, there are analogous\nmixed-phase properties at a certain region of the phase diagram, emerging from\nhow we terminate the measurement-based procedure. Our findings pave an\nalternative pathway to study the physics of Higgs=SPT phases on quantum devices\nin the near future.",
+            "pdf_url": "http://arxiv.org/pdf/2402.11738v2",
+            "published": "2024-02-18 23:44:51+00:00",
+            "updated": "2024-12-02 18:24:59+00:00"
+        },
+        {
+            "title": "Quantum dynamics of photophysical aggregates in conjugated polymers",
+            "authors": "Henry J. Kantrow, Elizabeth Guti\u00e9rrez-Meza, Hongmo Li, Qiao He, Martin Heeney, Natalie Stingelin, Eric R. Bittner, Carlos Silva-Acu\u00f1a, Hao Li, F\u00e9lix Thouin",
+            "summary": "Photophysical aggregates are ubiquitous in many solid-state microstructures\nadopted by conjugated polymers, in which $\\pi$ electrons interact with those in\nother polymer chains or those in other chromophores along the chain. These\ninteractions fundamentally define the electronic and optical properties of the\npolymer film. While valuable insight can be gained from linear excitation and\nphotoluminescence spectra, nonlinear coherent excitation spectral lineshapes\nprovide intricate understanding on the electronic couplings that define the\naggregate and their fluctuations. Here, we discuss the coherent two-dimensional\nexcitation lineshape of a model hairy-rod conjugated polymer. At zero\npopulation waiting time, we find a $\\pi/2$ phase shift between the 0-0 and 0-1\nvibronic peaks in the real and imaginary components of the complex coherent\nspectrum, as well as a dynamic phase rotation with population waiting time over\ntimescales that are longer than the optical dephasing time. We conjecture that\nthese are markers of relaxation of the photophysical aggregate down the tight\nmanifold of the exciton band. These results highlight the potential for\ncoherent spectroscopy via analysis of the complex spectral lineshape to become\na key tool to develop structure-property relationships in complex functional\nmaterials.",
+            "pdf_url": "http://arxiv.org/pdf/2411.14675v3",
+            "published": "2024-11-22 02:16:52+00:00",
+            "updated": "2024-12-02 18:14:56+00:00"
+        },
+        {
+            "title": "Closed-form solutions of the nonlinear Schr\u00f6dinger equation with arbitrary dispersion and potential",
+            "authors": "Andrei D. Polyanin, Nikolay A. Kudryashov",
+            "summary": "For the first time, the general nonlinear Schr\\\"odinger equation is\ninvestigated, in which the chromatic dispersion and potential are specified by\ntwo arbitrary functions. The equation in question is a natural generalization\nof a wide class of related nonlinear partial differential equations that are\noften used in various areas of theoretical physics, including nonlinear optics,\nsuperconductivity and plasma physics. To construct exact solutions, a\ncombination of the method of functional constraints and methods of generalized\nseparation of variables is used. Exact closed-form solutions of the general\nnonlinear Schr\\\"odinger equation, which are expressed in quadratures or\nelementary functions, are found. One-dimensional non-symmetry reductions are\ndescribed, which lead the considered nonlinear partial differential equation to\na simpler ordinary differential equation or a system of such equations. The\nexact solutions obtained in this work can be used as test problems intended to\nassess the accuracy of numerical and approximate analytical methods for\nintegrating nonlinear equations of mathematical physics.",
+            "pdf_url": "http://arxiv.org/pdf/2411.13713v2",
+            "published": "2024-11-20 21:17:23+00:00",
+            "updated": "2024-12-02 18:11:18+00:00"
+        },
+        {
+            "title": "Linear Standard Model extensions in the SMEFT at one loop and Tera-Z",
+            "authors": "John Gargalionis, J\u00e9r\u00e9mie Quevillon, Pham Ngoc Hoa Vuong, Tevong You",
+            "summary": "Linear Standard Model (SM) extensions, defined as new particles that can\ncouple linearly to SM fields, form a motivated and finite set of simplified\nmodels for exploring phenomenology Beyond the SM (BSM). Heavy BSM particles may\nbe integrated out to obtain their low-energy effects in the SM Effective Field\nTheory (SMEFT) parametrised by the Wilson coefficients of higher-dimensional\noperators. We compute and map the dimension-6 SMEFT operator structure of all\nscalar and fermion linear SM extensions up to one-loop order, thus extending\nthe existing tree-level dictionary of results. Explicit analytic matching\nexpressions for the Wilson coefficients are provided as both Python and\nMathematica code in a GitHub repository accessible through links embedded in\nour main table for each coefficient and within a Python package. We apply our\nmap to highlight the sensitivity to heavy new physics of a $Z$-pole run at a\nfuture Tera-$Z$ factory; at one loop, with unit couplings, all linear SM\nextensions can be indirectly probed by electroweak precision measurements up to\n$\\mathcal{O}(10)$ TeV.",
+            "pdf_url": "http://arxiv.org/pdf/2412.01759v1",
+            "published": "2024-12-02 17:55:31+00:00",
+            "updated": "2024-12-02 17:55:31+00:00"
+        },
+        {
+            "title": "Efficient Compression of Sparse Accelerator Data Using Implicit Neural Representations and Importance Sampling",
+            "authors": "Xihaier Luo, Samuel Lurvey, Yi Huang, Yihui Ren, Jin Huang, Byung-Jun Yoon",
+            "summary": "High-energy, large-scale particle colliders in nuclear and high-energy\nphysics generate data at extraordinary rates, reaching up to $1$ terabyte and\nseveral petabytes per second, respectively. The development of real-time,\nhigh-throughput data compression algorithms capable of reducing this data to\nmanageable sizes for permanent storage is of paramount importance. A unique\ncharacteristic of the tracking detector data is the extreme sparsity of\nparticle trajectories in space, with an occupancy rate ranging from\napproximately $10^{-6}$ to $10\\%$. Furthermore, for downstream tasks, a\ncontinuous representation of this data is often more useful than a voxel-based,\ndiscrete representation due to the inherently continuous nature of the signals\ninvolved. To address these challenges, we propose a novel approach using\nimplicit neural representations for data learning and compression. We also\nintroduce an importance sampling technique to accelerate the network training\nprocess. Our method is competitive with traditional compression algorithms,\nsuch as MGARD, SZ, and ZFP, while offering significant speed-ups and\nmaintaining negligible accuracy loss through our importance sampling strategy.",
+            "pdf_url": "http://arxiv.org/pdf/2412.01754v1",
+            "published": "2024-12-02 17:50:49+00:00",
+            "updated": "2024-12-02 17:50:49+00:00"
+        },
+        {
+            "title": "Counterfactual restrictions and Bell's theorem",
+            "authors": "Jonte R. Hance",
+            "summary": "We show that the ability to consider counterfactual situations is a necessary\nassumption of Bell's theorem, and that, to allow Bell inequality violations\nwhile maintaining all other assumptions, we just require certain measurement\nchoices be counterfactually restricted, rather than the full removal of\ncounterfactual definiteness. We illustrate how the counterfactual definiteness\nassumption formally arises from the statistical independence assumption.\nCounterfactual restriction therefore provides a way to interpret statistical\nindependence violation different to what is typically assumed (i.e. that\nstatistical independence violation means either retrocausality or\nsuperdeterminism). We tie counterfactual restriction to contextuality, and show\nthe similarities to that approach.",
+            "pdf_url": "http://arxiv.org/pdf/1909.06608v6",
+            "published": "2019-09-14 15:11:17+00:00",
+            "updated": "2024-12-02 17:49:18+00:00"
+        },
+        {
+            "title": "Ab initio study of Proximity-Induced Superconductivity in PbTe/Pb heterostructures",
+            "authors": "R. Reho, A. R. Botello-M\u00e9ndez, Zeila Zanolli",
+            "summary": "Semiconductor-superconductor hybrid devices have been proposed as promising\nplatforms for detecting and analyzing Majorana zero modes, which find\napplications in topological quantum computing. In this work, we solve the\nKohn-Sham Density Functional Theory and Bogoliubov-de Gennes equations to\ndescribe the normal and superconducting properties of a PbTe/Pb\nheterostructure. We resolve a proximity-induced superconducting gap on the PbTe\nside. The hybridization between PbTe and Pb causes the emergence of a soft\nBardeen-Cooper-Schrieffer-like superconducting gap. We compute the anomalous\ncharge density in real space, estimating its decay length and showing that the\npairing potential is anisotropic, which is a necessary condition for\nunconventional superconductivity. Contrary to the models that predict Majorana\nzero modes in these interfaces, we find a significantly large Schottky barrier\nin the normal state preventing the emergence of zero modes. Our findings\nstrengthen the understanding of the physics governing PbTe/Pb hybrid devices\nand their viability for Majorana zero modes applications.",
+            "pdf_url": "http://arxiv.org/pdf/2412.01749v1",
+            "published": "2024-12-02 17:45:11+00:00",
+            "updated": "2024-12-02 17:45:11+00:00"
+        },
+        {
+            "title": "The matter/life nexus in biological cells",
+            "authors": "Vishal S. Sivasankar, Roseanna N. Zia",
+            "summary": "Physical motion has long been at the heart of what humans identify as life.\nEarly thinkers about what differentiates life from inanimate matter connected\nagency to autonomous motion, a line of thinking that continued until Robert\nBrown's experiments showed decisively that autonomous motion, and many other\nphysical behaviors and organizational principles, belong to inanimate matter.\nAn incredible trajectory of inquiry for the next 100 years showed that life is\ncharacterized by the ability to reproduce, to inherit, to adapt. But throughout\nthis arc, a persistent search continued for that fundamental process, that gain\nin function from matter to life. Subsequent decades showed that genetic\nsequence is not enough. The leap occurs somewhere in cells' watery milieu -\nphysicochemical functions unique to life. In this Review, we explore how\nadvances in the last decade have embraced the deep coupling of physics and\ncellular biochemistry to shed light on the matter/life nexus. Brownian flow\nphysics are more than implicated but rather help instantiate life. The reader\nwill observe in this review many references to works in cell biology - as many\nor more than in biophysics or fluid mechanics. This is perhaps not as\nintentional as it is unavoidable in the effort to see how matter becomes life\ninside the watery compartment of the cell.",
+            "pdf_url": "http://arxiv.org/pdf/2412.01743v1",
+            "published": "2024-12-02 17:39:58+00:00",
+            "updated": "2024-12-02 17:39:58+00:00"
+        }
+    ],
+    "Diffusion": [
+        {
+            "title": "GETAE: Graph information Enhanced deep neural NeTwork ensemble ArchitecturE for fake news detection",
+            "authors": "Ciprian-Octavian Truic\u0103, Elena-Simona Apostol, Marius Marogel, Adrian Paschke",
+            "summary": "In today's digital age, fake news has become a major problem that has serious\nconsequences, ranging from social unrest to political upheaval. To address this\nissue, new methods for detecting and mitigating fake news are required. In this\nwork, we propose to incorporate contextual and network-aware features into the\ndetection process. This involves analyzing not only the content of a news\narticle but also the context in which it was shared and the network of users\nwho shared it, i.e., the information diffusion. Thus, we propose GETAE,\n\\underline{G}raph Information \\underline{E}nhanced Deep Neural\nNe\\underline{t}work Ensemble \\underline{A}rchitectur\\underline{E} for Fake News\nDetection, a novel ensemble architecture that uses textual content together\nwith the social interactions to improve fake news detection. GETAE contains two\nBranches: the Text Branch and the Propagation Branch. The Text Branch uses Word\nand Transformer Embeddings and a Deep Neural Network based on feed-forward and\nbidirectional Recurrent Neural Networks (\\textsc{[Bi]RNN}) for learning novel\ncontextual features and creating a novel Text Content Embedding. The\nPropagation Branch considers the information propagation within the graph\nnetwork and proposes a Deep Learning architecture that employs Node Embeddings\nto create novel Propagation Embedding. GETAE Ensemble combines the two novel\nembeddings, i.e., Text Content Embedding and Propagation Embedding, to create a\nnovel \\textit{Propagation-Enhanced Content Embedding} which is afterward used\nfor classification. The experimental results obtained on two real-world\npublicly available datasets, i.e., Twitter15 and Twitter16, prove that using\nthis approach improves fake news detection and outperforms state-of-the-art\nmodels.",
+            "pdf_url": "http://arxiv.org/pdf/2412.01825v1",
+            "published": "2024-12-02 18:59:50+00:00",
+            "updated": "2024-12-02 18:59:50+00:00"
+        },
+        {
+            "title": "IQA-Adapter: Exploring Knowledge Transfer from Image Quality Assessment to Diffusion-based Generative Models",
+            "authors": "Khaled Abud, Sergey Lavrushkin, Alexey Kirillov, Dmitriy Vatolin",
+            "summary": "Diffusion-based models have recently transformed conditional image\ngeneration, achieving unprecedented fidelity in generating photorealistic and\nsemantically accurate images. However, consistently generating high-quality\nimages remains challenging, partly due to the lack of mechanisms for\nconditioning outputs on perceptual quality. In this work, we propose methods to\nintegrate image quality assessment (IQA) models into diffusion-based\ngenerators, enabling quality-aware image generation. First, we experiment with\ngradient-based guidance to optimize image quality directly and show this\napproach has limited generalizability. To address this, we introduce\nIQA-Adapter, a novel architecture that conditions generation on target quality\nlevels by learning the relationship between images and quality scores. When\nconditioned on high target quality, IQA-Adapter shifts the distribution of\ngenerated images towards a higher-quality subdomain. This approach achieves up\nto a 10% improvement across multiple objective metrics, as confirmed by a\nsubjective study, while preserving generative diversity and content.\nAdditionally, IQA-Adapter can be used inversely as a degradation model,\ngenerating progressively more distorted images when conditioned on lower\nquality scores. Our quality-aware methods also provide insights into the\nadversarial robustness of IQA models, underscoring the potential of quality\nconditioning in generative modeling and the importance of robust IQA methods.",
+            "pdf_url": "http://arxiv.org/pdf/2412.01794v1",
+            "published": "2024-12-02 18:40:19+00:00",
+            "updated": "2024-12-02 18:40:19+00:00"
+        },
+        {
+            "title": "Brain Tumour Removing and Missing Modality Generation using 3D WDM",
+            "authors": "Andr\u00e9 Ferreira, Gijs Luijten, Behrus Puladi, Jens Kleesiek, Victor Alves, Jan Egger",
+            "summary": "This paper presents the second-placed solution for task 8 and the\nparticipation solution for task 7 of BraTS 2024. The adoption of automated\nbrain analysis algorithms to support clinical practice is increasing. However,\nmany of these algorithms struggle with the presence of brain lesions or the\nabsence of certain MRI modalities. The alterations in the brain's morphology\nleads to high variability and thus poor performance of predictive models that\nwere trained only on healthy brains. The lack of information that is usually\nprovided by some of the missing MRI modalities also reduces the reliability of\nthe prediction models trained with all modalities. In order to improve the\nperformance of these models, we propose the use of conditional 3D wavelet\ndiffusion models. The wavelet transform enabled full-resolution image training\nand prediction on a GPU with 48 GB VRAM, without patching or downsampling,\npreserving all information for prediction. The code for these tasks is\navailable at https://github.com/ShadowTwin41/BraTS_2023_2024_solutions.",
+            "pdf_url": "http://arxiv.org/pdf/2411.04630v2",
+            "published": "2024-11-07 11:29:55+00:00",
+            "updated": "2024-12-02 15:47:17+00:00"
+        },
+        {
+            "title": "Latent Diffusion for Neural Spiking Data",
+            "authors": "Jaivardhan Kapoor, Auguste Schulz, Julius Vetter, Felix Pei, Richard Gao, Jakob H. Macke",
+            "summary": "Modern datasets in neuroscience enable unprecedented inquiries into the\nrelationship between complex behaviors and the activity of many simultaneously\nrecorded neurons. While latent variable models can successfully extract\nlow-dimensional embeddings from such recordings, using them to generate\nrealistic spiking data, especially in a behavior-dependent manner, still poses\na challenge. Here, we present Latent Diffusion for Neural Spiking data (LDNS),\na diffusion-based generative model with a low-dimensional latent space: LDNS\nemploys an autoencoder with structured state-space (S4) layers to project\ndiscrete high-dimensional spiking data into continuous time-aligned latents. On\nthese inferred latents, we train expressive (conditional) diffusion models,\nenabling us to sample neural activity with realistic single-neuron and\npopulation spiking statistics. We validate LDNS on synthetic data, accurately\nrecovering latent structure, firing rates, and spiking statistics. Next, we\ndemonstrate its flexibility by generating variable-length data that mimics\nhuman cortical activity during attempted speech. We show how to equip LDNS with\nan expressive observation model that accounts for single-neuron dynamics not\nmediated by the latent state, further increasing the realism of generated\nsamples. Finally, conditional LDNS trained on motor cortical activity during\ndiverse reaching behaviors can generate realistic spiking data given reach\ndirection or unseen reach trajectories. In summary, LDNS simultaneously enables\ninference of low-dimensional latents and realistic conditional generation of\nneural spiking datasets, opening up further possibilities for simulating\nexperimentally testable hypotheses.",
+            "pdf_url": "http://arxiv.org/pdf/2407.08751v2",
+            "published": "2024-06-27 13:47:06+00:00",
+            "updated": "2024-12-02 15:16:03+00:00"
+        }
+    ],
+    "Quantitative Finance": [
+        {
+            "title": "Deep learning interpretability for rough volatility",
+            "authors": "Bo Yuan, Damiano Brigo, Antoine Jacquier, Nicola Pede",
+            "summary": "Deep learning methods have become a widespread toolbox for pricing and\ncalibration of financial models. While they often provide new directions and\nresearch results, their `black box' nature also results in a lack of\ninterpretability. We provide a detailed interpretability analysis of these\nmethods in the context of rough volatility - a new class of volatility models\nfor Equity and FX markets. Our work sheds light on the neural network learned\ninverse map between the rough volatility model parameters, seen as mathematical\nmodel inputs and network outputs, and the resulting implied volatility across\nstrikes and maturities, seen as mathematical model outputs and network inputs.\nThis contributes to building a solid framework for a safer use of neural\nnetworks in this context and in quantitative finance more generally.",
+            "pdf_url": "http://arxiv.org/pdf/2411.19317v1",
+            "published": "2024-11-28 18:42:44+00:00",
+            "updated": "2024-11-28 18:42:44+00:00"
+        }
+    ]
+}
