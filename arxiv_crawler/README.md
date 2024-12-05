@@ -90,6 +90,31 @@ TODO:
 
 
 
+
+## Update on 2024-12-05
+
+### Physics
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2024-12-04|2024-12-04|Revisiting the impact of neutrino mass hierarchies on neutrino mass constraints in light of recent DESI data|Laura Herold|[2412.03546v1](http://arxiv.org/pdf/2412.03546v1)|
+|2024-12-04|2024-12-04|Vacuum Metastability from Axion-Higgs Criticality|Maximilian Detering|[2412.03542v1](http://arxiv.org/pdf/2412.03542v1)|
+|2024-05-17|2024-12-04|Symplectic duality via log topological recursion|Alexander Alexandrov|[2405.10720v2](http://arxiv.org/pdf/2405.10720v2)|
+|2024-12-04|2024-12-04|Near-optimal shattering in the Ising pure p-spin and rarity of solutions returned by stable algorithms|Ahmed El Alaoui|[2412.03511v1](http://arxiv.org/pdf/2412.03511v1)|
+|2024-07-15|2024-12-04|A Nuclear Interferometer for Ultra-Light Dark Matter Detection|Hannah Banks|[2407.11112v2](http://arxiv.org/pdf/2407.11112v2)|
+|2024-12-04|2024-12-04|Soft Checksums to Flag Untrustworthy Machine Learning Surrogate Predictions and Application to Atomic Physics Simulations|Casey Lauer|[2412.03497v1](http://arxiv.org/pdf/2412.03497v1)|
+|2022-05-23|2024-12-04|Towards Size-Independent Generalization Bounds for Deep Operator Nets|Pulkit Gopalani|[2205.11359v3](http://arxiv.org/pdf/2205.11359v3)|
+|2024-12-04|2024-12-04|TRENDy: Temporal Regression of Effective Non-linear Dynamics|Matthew Ricci|[2412.03496v1](http://arxiv.org/pdf/2412.03496v1)|
+|2024-04-25|2024-12-04|Bootstrap for Finite N Lattice Yang-Mills Theory|Vladimir Kazakov|[2404.16925v4](http://arxiv.org/pdf/2404.16925v4)|
+|2024-12-04|2024-12-04|Spectral theory of effective transport for discrete uniaxial polycrystalline materials|N. Benjamin Murphy|[2412.03447v1](http://arxiv.org/pdf/2412.03447v1)|
+
+### Diffusion
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2024-12-04|2024-12-04|Navigation World Models|Amir Bar|[2412.03572v1](http://arxiv.org/pdf/2412.03572v1)|
+|2024-12-04|2024-12-04|Flow Matching with General Discrete Paths: A Kinetic-Optimal Perspective|Neta Shaul|[2412.03487v1](http://arxiv.org/pdf/2412.03487v1)|
+|2024-09-02|2024-12-04|Affordance-based Robot Manipulation with Flow Matching|Fan Zhang|[2409.01083v3](http://arxiv.org/pdf/2409.01083v3)|
+|2024-12-04|2024-12-04|SINGER: Vivid Audio-driven Singing Video Generation with Multi-scale Spectral Diffusion Model|Yan Li|[2412.03430v1](http://arxiv.org/pdf/2412.03430v1)|
+|2024-12-04|2024-12-04|DiffStyleTTS: Diffusion-based Hierarchical Prosody Modeling for Text-to-Speech with Diverse and Controllable Styles|Jiaxuan Liu|[2412.03388v1](http://arxiv.org/pdf/2412.03388v1)|
 ## Update on 2024-12-03
 
 ### Physics

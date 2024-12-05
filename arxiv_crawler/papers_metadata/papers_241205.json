@@ -1,0 +1,126 @@
+{
+    "Physics": [
+        {
+            "title": "Revisiting the impact of neutrino mass hierarchies on neutrino mass constraints in light of recent DESI data",
+            "authors": "Laura Herold, Marc Kamionkowski",
+            "summary": "Recent results from DESI combined with cosmic microwave background data give\nthe tightest constraints on the sum of neutrino masses to date. However, these\nanalyses approximate the neutrino mass hierarchy by three degenerate-mass (DM)\nneutrinos, instead of the normal (NH) and inverted hierarchies (IH) informed by\nterrestrial neutrino oscillation experiments. Given the stringency of the upper\nlimits from DESI data, we test explicitly whether the inferred neutrino\nconstraints are robust to the choice of neutrino mass ordering using both\nBayesian and frequentist methods. For Planck data alone, we find that the DM\nhierarchy presents a good approximation to the physically motivated hierarchies\nwhile showing a strong dependence on the assumed lower bound of the prior,\nconfirming previous studies. For the combined Planck and DESI baryon acoustic\noscillation data, we find that assuming NH ($M_\\mathrm{tot} <\n0.13\\,\\mathrm{eV}$) or IH ($M_\\mathrm{tot} < 0.16\\,\\mathrm{eV}$) loosens the\nBayesian upper limits compared to the DM approximation ($M_\\mathrm{tot} <\n0.086\\,\\mathrm{eV}$). The frequentist analysis shows that the different\nneutrino models fit the data equally well and the loosening of the constraints\ncan thus be attributed to the lower bounds induced by NH and IH. Overall, we\nfind that the DM hierarchy presents a good approximation to the physically\nmotivated hierarchies also for Planck+DESI data as long as the corresponding\nlower neutrino mass bounds are imposed.",
+            "pdf_url": "http://arxiv.org/pdf/2412.03546v1",
+            "published": "2024-12-04 18:45:01+00:00",
+            "updated": "2024-12-04 18:45:01+00:00"
+        },
+        {
+            "title": "Vacuum Metastability from Axion-Higgs Criticality",
+            "authors": "Maximilian Detering, Tevong You",
+            "summary": "Self-organised criticality, realised through cosmological dynamics in the\nearly universe, is an alternative paradigm for addressing the electroweak\nhierarchy problem. In this scenario, an unnaturally light Higgs boson is the\nresult of dynamics driving the electroweak vacuum towards a near-critical\nmetastable point where the Higgs mass is bounded from above by the vacuum\ninstability scale. To lower the vacuum instability scale close to the weak\nscale, previous realisations of this mechanism introduced new vector-like\nfermions coupled to the Higgs. Here we show that an Axion-Like Particle (ALP)\ncoupling to the Higgs is an alternative possibility for achieving criticality\nwith another well-motivated and naturally light candidate for new physics, thus\nleading to an entirely different set of testable phenomenological signatures.\nOur Axion-Higgs criticality model predicts an ALP in the MeV to\n$\\mathcal{O}(10)$ GeV range. The entire natural region of parameter space can\nbe thoroughly explored by a combination of future colliders, flavour\nexperiments, and cosmological observatories.",
+            "pdf_url": "http://arxiv.org/pdf/2412.03542v1",
+            "published": "2024-12-04 18:38:02+00:00",
+            "updated": "2024-12-04 18:38:02+00:00"
+        },
+        {
+            "title": "Symplectic duality via log topological recursion",
+            "authors": "Alexander Alexandrov, Boris Bychkov, Petr Dunin-Barkowski, Maxim Kazarian, Sergey Shadrin",
+            "summary": "We review the notion of symplectic duality earlier introduced in the context\nof topological recursion. We show that the transformation of symplectic duality\ncan be expressed as a composition of $x-y$ dualities in a broader context of\nlog topological recursion. As a corollary, we establish nice properties of\nsymplectic duality: various convenient explicit formulas, invertibility, group\nproperty, compatibility with topological recursion and KP integrability. As an\napplication of these properties, we get a new and uniform proof of topological\nrecursion for large families of weighted double Hurwitz numbers; this\nencompasses and significantly extends all previously known results on this\nmatter.",
+            "pdf_url": "http://arxiv.org/pdf/2405.10720v2",
+            "published": "2024-05-17 12:08:11+00:00",
+            "updated": "2024-12-04 17:57:14+00:00"
+        },
+        {
+            "title": "Near-optimal shattering in the Ising pure p-spin and rarity of solutions returned by stable algorithms",
+            "authors": "Ahmed El Alaoui",
+            "summary": "We show that in the Ising pure $p$-spin model of spin glasses, shattering\ntakes place at all inverse temperatures $\\beta \\in (\\sqrt{(2 \\log p)/p},\n\\sqrt{2\\log 2})$ when $p$ is sufficiently large as a function of $\\beta$. Of\nspecial interest is the lower boundary of this interval which matches the large\n$p$ asymptotics of the inverse temperature marking the hypothetical dynamical\ntransition predicted in statistical physics. We show this as a consequence of a\n`soft' version of the overlap gap property which asserts the existence of a\ndistance gap of points of typical energy from a typical sample from the Gibbs\nmeasure. We further show that this latter property implies that stable\nalgorithms seeking to return a point of at least typical energy are confined to\nan exponentially rare subset of that super-level set, provided that their\nsuccess probability is not vanishingly small.",
+            "pdf_url": "http://arxiv.org/pdf/2412.03511v1",
+            "published": "2024-12-04 17:53:54+00:00",
+            "updated": "2024-12-04 17:53:54+00:00"
+        },
+        {
+            "title": "A Nuclear Interferometer for Ultra-Light Dark Matter Detection",
+            "authors": "Hannah Banks, Elina Fuchs, Matthew McCullough",
+            "summary": "We propose the nuclear interferometer - a single-photon interferometry\nexperiment based upon the thorium-229 nuclear clock transition - as a novel\ndetector for ultra-light dark matter (ULDM). Thanks to the enhanced sensitivity\nof this transition to the variation of fundamental constants, we find that\npossible realisations of such an experiment deploying either single ions or\nclouds of atoms have the potential to complement advanced very-long-baseline\nterrestrial clock atom interferometers in the search for ultra-light dark\nmatter with scalar couplings to photons in the future. Nuclear interferometry\nmay also offer an unparalleled window to new physics coupling to the QCD sector\nvia quarks or gluons, with a discovery reach that could enhance existing and\nproposed experiments over a range of frequencies in the direction of\nwell-motivated parameter space.",
+            "pdf_url": "http://arxiv.org/pdf/2407.11112v2",
+            "published": "2024-07-15 18:00:00+00:00",
+            "updated": "2024-12-04 17:50:12+00:00"
+        },
+        {
+            "title": "Soft Checksums to Flag Untrustworthy Machine Learning Surrogate Predictions and Application to Atomic Physics Simulations",
+            "authors": "Casey Lauer, Robert C. Blake, Jonathan B. Freund",
+            "summary": "Trained neural networks (NN) are attractive as surrogate models to replace\ncostly calculations in physical simulations, but are often unknowingly applied\nto states not adequately represented in the training dataset. We present the\nnovel technique of soft checksums for scientific machine learning, a\ngeneral-purpose method to differentiate between trustworthy predictions with\nsmall errors on in-distribution (ID) data points, and untrustworthy predictions\nwith large errors on out-of-distribution (OOD) data points. By adding a check\nnode to the existing output layer, we train the model to learn the chosen\nchecksum function encoded within the NN predictions and show that violations of\nthis function correlate with high prediction errors. As the checksum function\ndepends only on the NN predictions, we can calculate the checksum error for any\nprediction with a single forward pass, incurring negligible time and memory\ncosts. Additionally, we find that incorporating the checksum function into the\nloss function and exposing the NN to OOD data points during the training\nprocess improves separation between ID and OOD predictions. By applying soft\nchecksums to a physically complex and high-dimensional non-local thermodynamic\nequilibrium atomic physics dataset, we show that a well-chosen threshold\nchecksum error can effectively separate ID and OOD predictions.",
+            "pdf_url": "http://arxiv.org/pdf/2412.03497v1",
+            "published": "2024-12-04 17:39:01+00:00",
+            "updated": "2024-12-04 17:39:01+00:00"
+        },
+        {
+            "title": "Towards Size-Independent Generalization Bounds for Deep Operator Nets",
+            "authors": "Pulkit Gopalani, Sayar Karmakar, Dibyakanti Kumar, Anirbit Mukherjee",
+            "summary": "In recent times machine learning methods have made significant advances in\nbecoming a useful tool for analyzing physical systems. A particularly active\narea in this theme has been \"physics-informed machine learning\" which focuses\non using neural nets for numerically solving differential equations. In this\nwork, we aim to advance the theory of measuring out-of-sample error while\ntraining DeepONets - which is among the most versatile ways to solve P.D.E\nsystems in one-shot. Firstly, for a class of DeepONets, we prove a bound on\ntheir Rademacher complexity which does not explicitly scale with the width of\nthe nets involved. Secondly, we use this to show how the Huber loss can be\nchosen so that for these DeepONet classes generalization error bounds can be\nobtained that have no explicit dependence on the size of the nets. The\neffective capacity measure for DeepONets that we thus derive is also shown to\ncorrelate with the behavior of generalization error in experiments.",
+            "pdf_url": "http://arxiv.org/pdf/2205.11359v3",
+            "published": "2022-05-23 14:45:34+00:00",
+            "updated": "2024-12-04 17:37:38+00:00"
+        },
+        {
+            "title": "TRENDy: Temporal Regression of Effective Non-linear Dynamics",
+            "authors": "Matthew Ricci, Guy Pelc, Zoe Piran, Noa Moriel, Mor Nitzan",
+            "summary": "Spatiotemporal dynamics pervade the natural sciences, from the morphogen\ndynamics underlying patterning in animal pigmentation to the protein waves\ncontrolling cell division. A central challenge lies in understanding how\ncontrollable parameters induce qualitative changes in system behavior called\nbifurcations. This endeavor is made particularly difficult in realistic\nsettings where governing partial differential equations (PDEs) are unknown and\ndata is limited and noisy. To address this challenge, we propose TRENDy\n(Temporal Regression of Effective Nonlinear Dynamics), an equation-free\napproach to learning low-dimensional, predictive models of spatiotemporal\ndynamics. Following classical work in spatial coarse-graining, TRENDy first\nmaps input data to a low-dimensional space of effective dynamics via a cascade\nof multiscale filtering operations. Our key insight is the recognition that\nthese effective dynamics can be fit by a neural ordinary differential equation\n(NODE) having the same parameter space as the input PDE. The preceding\nfiltering operations strongly regularize the phase space of the NODE, making\nTRENDy significantly more robust to noise compared to existing methods. We\ntrain TRENDy to predict the effective dynamics of synthetic and real data\nrepresenting dynamics from across the physical and life sciences. We then\ndemonstrate how our framework can automatically locate both Turing and Hopf\nbifurcations in unseen regions of parameter space. We finally apply our method\nto the analysis of spatial patterning of the ocellated lizard through\ndevelopment. We found that TRENDy's effective state not only accurately\npredicts spatial changes over time but also identifies distinct pattern\nfeatures unique to different anatomical regions, highlighting the potential\ninfluence of surface geometry on reaction-diffusion mechanisms and their role\nin driving spatially varying pattern dynamics.",
+            "pdf_url": "http://arxiv.org/pdf/2412.03496v1",
+            "published": "2024-12-04 17:36:47+00:00",
+            "updated": "2024-12-04 17:36:47+00:00"
+        },
+        {
+            "title": "Bootstrap for Finite N Lattice Yang-Mills Theory",
+            "authors": "Vladimir Kazakov, Zechuan Zheng",
+            "summary": "We introduce a comprehensive framework for analyzing finite $N$ lattice\nYang-Mills theory and finite $N$ matrix models. Utilizing this framework, we\nexamine the bootstrap approach to SU(2) Lattice Yang-Mills Theory in 2,3 and 4\ndimensions. The SU(2) Makeenko-Migdal loop equations on the lattice are linear\nand closed exclusively on single-trace Wilson loops. This inherent linearity\nsignificantly enhances the efficiency of the bootstrap approach due to the\nconvex nature of the problem, permitting the inclusion of Wilson loops up to\nlength 24. The exact upper and lower margins for the free energy per plaquette,\nderived from our bootstrap method, demonstrate good agreement with Monte Carlo\ndata, achieving precision within $0.1\\%$ for the physically relevant range of\ncouplings in both three and four dimensions. Additionally, our bootstrap data\nprovides estimates of the string tension, in qualitative agreement with\nexisting Monte Carlo computations.",
+            "pdf_url": "http://arxiv.org/pdf/2404.16925v4",
+            "published": "2024-04-25 18:00:00+00:00",
+            "updated": "2024-12-04 17:26:44+00:00"
+        },
+        {
+            "title": "Spectral theory of effective transport for discrete uniaxial polycrystalline materials",
+            "authors": "N. Benjamin Murphy, Daniel Hallman, Elena Cherkaev, Kenneth M. Golden",
+            "summary": "We previously demonstrated that the bulk transport coefficients of uniaxial\npolycrystalline materials, including electrical and thermal conductivity,\ndiffusivity, complex permittivity, and magnetic permeability, have Stieltjes\nintegral representations involving spectral measures of self-adjoint random\noperators. The integral representations follow from resolvent representations\nof physical fields involving these self-adjoint operators, such as the electric\nfield $\\boldsymbol{E}$ and current density $\\boldsymbol{J}$ associated with\nconductive media with local conductivity $\\boldsymbol{\\sigma}$ and resistivity\n$\\boldsymbol{\\rho}$ matrices. In this article, we provide a discrete matrix\nanalysis of this mathematical framework which parallels the continuum theory.\nWe show that discretizations of the operators yield real-symmetric random\nmatrices which are composed of projection matrices. We derive discrete\nresolvent representations for $\\boldsymbol{E}$ and $\\boldsymbol{J}$ involving\nthe matrices which lead to eigenvector expansions of $\\boldsymbol{E}$ and\n$\\boldsymbol{J}$. We derive discrete Stieltjes integral representations for the\ncomponents of the effective conductivity and resistivity matrices,\n$\\boldsymbol{\\sigma}^*$ and $\\boldsymbol{\\rho}^*$, involving spectral measures\nfor the real-symmetric random matrices, which are given explicitly in terms of\ntheir real eigenvalues and orthonormal eigenvectors. We provide a projection\nmethod that uses properties of the projection matrices to show that the\nspectral measure can be computed by much smaller matrices, which leads to a\nmore efficient and stable numerical algorithm for the computation of bulk\ntransport coefficients and physical fields. We demonstrate this algorithm by\nnumerically computing the spectral measure and current density for model 2D and\n3D isotropic polycrystalline media with checkerboard microgeometry.",
+            "pdf_url": "http://arxiv.org/pdf/2412.03447v1",
+            "published": "2024-12-04 16:36:35+00:00",
+            "updated": "2024-12-04 16:36:35+00:00"
+        }
+    ],
+    "Diffusion": [
+        {
+            "title": "Navigation World Models",
+            "authors": "Amir Bar, Gaoyue Zhou, Danny Tran, Trevor Darrell, Yann LeCun",
+            "summary": "Navigation is a fundamental skill of agents with visual-motor capabilities.\nWe introduce a Navigation World Model (NWM), a controllable video generation\nmodel that predicts future visual observations based on past observations and\nnavigation actions. To capture complex environment dynamics, NWM employs a\nConditional Diffusion Transformer (CDiT), trained on a diverse collection of\negocentric videos of both human and robotic agents, and scaled up to 1 billion\nparameters. In familiar environments, NWM can plan navigation trajectories by\nsimulating them and evaluating whether they achieve the desired goal. Unlike\nsupervised navigation policies with fixed behavior, NWM can dynamically\nincorporate constraints during planning. Experiments demonstrate its\neffectiveness in planning trajectories from scratch or by ranking trajectories\nsampled from an external policy. Furthermore, NWM leverages its learned visual\npriors to imagine trajectories in unfamiliar environments from a single input\nimage, making it a flexible and powerful tool for next-generation navigation\nsystems.",
+            "pdf_url": "http://arxiv.org/pdf/2412.03572v1",
+            "published": "2024-12-04 18:59:45+00:00",
+            "updated": "2024-12-04 18:59:45+00:00"
+        },
+        {
+            "title": "Flow Matching with General Discrete Paths: A Kinetic-Optimal Perspective",
+            "authors": "Neta Shaul, Itai Gat, Marton Havasi, Daniel Severo, Anuroop Sriram, Peter Holderrieth, Brian Karrer, Yaron Lipman, Ricky T. Q. Chen",
+            "summary": "The design space of discrete-space diffusion or flow generative models are\nsignificantly less well-understood than their continuous-space counterparts,\nwith many works focusing only on a simple masked construction. In this work, we\naim to take a holistic approach to the construction of discrete generative\nmodels based on continuous-time Markov chains, and for the first time, allow\nthe use of arbitrary discrete probability paths, or colloquially, corruption\nprocesses. Through the lens of optimizing the symmetric kinetic energy, we\npropose velocity formulas that can be applied to any given probability path,\ncompletely decoupling the probability and velocity, and giving the user the\nfreedom to specify any desirable probability path based on expert knowledge\nspecific to the data domain. Furthermore, we find that a special construction\nof mixture probability paths optimizes the symmetric kinetic energy for the\ndiscrete case. We empirically validate the usefulness of this new design space\nacross multiple modalities: text generation, inorganic material generation, and\nimage generation. We find that we can outperform the mask construction even in\ntext with kinetic-optimal mixture paths, while we can make use of\ndomain-specific constructions of the probability path over the visual domain.",
+            "pdf_url": "http://arxiv.org/pdf/2412.03487v1",
+            "published": "2024-12-04 17:24:35+00:00",
+            "updated": "2024-12-04 17:24:35+00:00"
+        },
+        {
+            "title": "Affordance-based Robot Manipulation with Flow Matching",
+            "authors": "Fan Zhang, Michael Gienger",
+            "summary": "We present a framework for assistive robot manipulation, which focuses on two\nfundamental challenges: first, efficiently adapting large-scale models to\ndownstream scene affordance understanding tasks, especially in daily living\nscenarios where gathering multi-task data involving humans requires strenuous\neffort; second, effectively learning robot trajectories by grounding the visual\naffordance model. We tackle the first challenge by employing a\nparameter-efficient prompt tuning method that prepends learnable text prompts\nto the frozen vision model to predict manipulation affordances in multi-task\nscenarios. Then we propose to learn robot trajectories guided by affordances in\na supervised Flow Matching method. Flow matching represents a robot visuomotor\npolicy as a conditional process of flowing random waypoints to desired robot\ntrajectories. Finally, we introduce a real-world dataset with 10 tasks across\nActivities of Daily Living to test our framework. Our extensive evaluation\nhighlights that the proposed prompt tuning method for learning manipulation\naffordance with language prompter achieves competitive performance and even\noutperforms other finetuning protocols across data scales, while satisfying\nparameter efficiency. Learning multi-task robot trajectories with flow matching\npolicy also leads to consistently better results than alternative behavior\ncloning methods, including marginally better generalization performance and\nprominently faster inference than diffusion policy with DDPM. Our framework\nseamlessly unifies affordance model learning and trajectory generation with\nflow matching for robot manipulation.",
+            "pdf_url": "http://arxiv.org/pdf/2409.01083v3",
+            "published": "2024-09-02 09:11:28+00:00",
+            "updated": "2024-12-04 16:39:07+00:00"
+        },
+        {
+            "title": "SINGER: Vivid Audio-driven Singing Video Generation with Multi-scale Spectral Diffusion Model",
+            "authors": "Yan Li, Ziya Zhou, Zhiqiang Wang, Wei Xue, Wenhan Luo, Yike Guo",
+            "summary": "Recent advancements in generative models have significantly enhanced talking\nface video generation, yet singing video generation remains underexplored. The\ndifferences between human talking and singing limit the performance of existing\ntalking face video generation models when applied to singing. The fundamental\ndifferences between talking and singing-specifically in audio characteristics\nand behavioral expressions-limit the effectiveness of existing models. We\nobserve that the differences between singing and talking audios manifest in\nterms of frequency and amplitude. To address this, we have designed a\nmulti-scale spectral module to help the model learn singing patterns in the\nspectral domain. Additionally, we develop a spectral-filtering module that aids\nthe model in learning the human behaviors associated with singing audio. These\ntwo modules are integrated into the diffusion model to enhance singing video\ngeneration performance, resulting in our proposed model, SINGER. Furthermore,\nthe lack of high-quality real-world singing face videos has hindered the\ndevelopment of the singing video generation community. To address this gap, we\nhave collected an in-the-wild audio-visual singing dataset to facilitate\nresearch in this area. Our experiments demonstrate that SINGER is capable of\ngenerating vivid singing videos and outperforms state-of-the-art methods in\nboth objective and subjective evaluations.",
+            "pdf_url": "http://arxiv.org/pdf/2412.03430v1",
+            "published": "2024-12-04 16:19:47+00:00",
+            "updated": "2024-12-04 16:19:47+00:00"
+        },
+        {
+            "title": "DiffStyleTTS: Diffusion-based Hierarchical Prosody Modeling for Text-to-Speech with Diverse and Controllable Styles",
+            "authors": "Jiaxuan Liu, Zhaoci Liu, Yajun Hu, Yingying Gao, Shilei Zhang, Zhenhua Ling",
+            "summary": "Human speech exhibits rich and flexible prosodic variations. To address the\none-to-many mapping problem from text to prosody in a reasonable and flexible\nmanner, we propose DiffStyleTTS, a multi-speaker acoustic model based on a\nconditional diffusion module and an improved classifier-free guidance, which\nhierarchically models speech prosodic features, and controls different prosodic\nstyles to guide prosody prediction. Experiments show that our method\noutperforms all baselines in naturalness and achieves superior synthesis speed\ncompared to three diffusion-based baselines. Additionally, by adjusting the\nguiding scale, DiffStyleTTS effectively controls the guidance intensity of the\nsynthetic prosody.",
+            "pdf_url": "http://arxiv.org/pdf/2412.03388v1",
+            "published": "2024-12-04 15:17:25+00:00",
+            "updated": "2024-12-04 15:17:25+00:00"
+        }
+    ]
+}
