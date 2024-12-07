@@ -91,6 +91,36 @@ TODO:
 
 
 
+
+## Update on 2024-12-07
+
+### Physics
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2024-12-05|2024-12-05|Block Lanczos for lattice QCD spectroscopy and matrix elements|Daniel C. Hackett|[2412.04444v1](http://arxiv.org/pdf/2412.04444v1)|
+|2024-12-05|2024-12-05|PDMD: Potential-free Data-driven Molecular Dynamics for Variable-sized Water Clusters|Hongyu Yan|[2412.04442v1](http://arxiv.org/pdf/2412.04442v1)|
+|2024-03-26|2024-12-05|Masked Autoencoders are PDE Learners|Anthony Zhou|[2403.17728v3](http://arxiv.org/pdf/2403.17728v3)|
+|2024-10-02|2024-12-05|Black Hole Solutions in Non-Minimally Coupled Weyl Connection Gravity|M. Margarida Lima|[2410.01856v2](http://arxiv.org/pdf/2410.01856v2)|
+|2024-12-05|2024-12-05|ACE2-SOM: Coupling to a slab ocean and learning the sensitivity of climate to changes in CO$_2$|Spencer K. Clark|[2412.04418v1](http://arxiv.org/pdf/2412.04418v1)|
+|2024-12-05|2024-12-05|Emergent unitary designs for encoded qubits from coherent errors and syndrome measurements|Zihan Cheng|[2412.04414v1](http://arxiv.org/pdf/2412.04414v1)|
+|2024-12-05|2024-12-05|Providing Differential Privacy for Federated Learning Over Wireless: A Cross-layer Framework|Jiayu Mao|[2412.04408v1](http://arxiv.org/pdf/2412.04408v1)|
+|2024-09-06|2024-12-05|Demonstration of quantum computation and error correction with a tesseract code|Ben W. Reichardt|[2409.04628v2](http://arxiv.org/pdf/2409.04628v2)|
+|2024-12-05|2024-12-05|Enhanced Sampling of Protein Conformational Changes via True Reaction Coordinates from Energy Relaxation|Huiyu Li|[2412.04400v1](http://arxiv.org/pdf/2412.04400v1)|
+|2024-07-10|2024-12-05|Studies of Cherenkov Photon Production in PbF$_2$ Crystals using Proton Beams at Fermilab|Thomas Anderson|[2407.08033v2](http://arxiv.org/pdf/2407.08033v2)|
+
+### Diffusion
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2024-12-05|2024-12-05|PaintScene4D: Consistent 4D Scene Generation from Text Prompts|Vinayak Gupta|[2412.04471v1](http://arxiv.org/pdf/2412.04471v1)|
+|2024-12-02|2024-12-05|Negative Token Merging: Image-based Adversarial Feature Guidance|Jaskirat Singh|[2412.01339v2](http://arxiv.org/pdf/2412.01339v2)|
+|2023-11-16|2024-12-05|Learning to Reconstruct Accelerated MRI Through K-space Cold Diffusion without Noise|Guoyao Shen|[2311.10162v3](http://arxiv.org/pdf/2311.10162v3)|
+|2024-01-03|2024-12-05|GeoPos: A Minimal Positional Encoding for Enhanced Fine-Grained Details in Image Synthesis Using Convolutional Neural Networks|Mehran Hosseini|[2401.01951v2](http://arxiv.org/pdf/2401.01951v2)|
+|2024-12-05|2024-12-05|ActFusion: a Unified Diffusion Model for Action Segmentation and Anticipation|Dayoung Gong|[2412.04353v1](http://arxiv.org/pdf/2412.04353v1)|
+
+### Quantitative Finance
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2024-12-05|2024-12-05|A Unified Framework for Evaluating the Effectiveness and Enhancing the Transparency of Explainable AI Methods in Real-World Applications|Md. Ariful Islam|[2412.03884v1](http://arxiv.org/pdf/2412.03884v1)|
 ## Update on 2024-12-05
 
 ### Physics
