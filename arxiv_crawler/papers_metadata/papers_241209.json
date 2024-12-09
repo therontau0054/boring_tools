@@ -1,0 +1,126 @@
+{
+    "Physics": [
+        {
+            "title": "A tweezer array with 6100 highly coherent atomic qubits",
+            "authors": "Hannah J. Manetsch, Gyohei Nomura, Elie Bataille, Kon H. Leung, Xudong Lv, Manuel Endres",
+            "summary": "Optical tweezer arrays have had a transformative impact on atomic and\nmolecular physics over the past years, and they now form the backbone for a\nwide range of leading experiments in quantum computing, simulation, and\nmetrology. Typical experiments trap tens to hundreds of atomic qubits, and very\nrecently systems with around one thousand atoms were realized without\ndemonstrating coherent control. However, scaling to thousands of atomic qubits\nwith long coherence times and low-loss, high-fidelity imaging is an outstanding\nchallenge and critical for progress in quantum computing, simulation, and\nmetrology, in particular, towards applications with quantum error correction.\nHere, we experimentally realize an array of optical tweezers trapping over\n6,100 neutral atoms in around 12,000 sites while simultaneously surpassing\nstate-of-the-art performance for several critical metrics that underpin the\nsuccess of the platform. Specifically, while scaling to such a large number of\natoms, we also demonstrate a coherence time of 12.6(1) seconds, a record for\nhyperfine qubits in an optical tweezer array. Further, we show trapping\nlifetimes close to 23 minutes in a room-temperature apparatus, enabling\nrecord-high imaging survival of 99.98952(1)% in combination with an imaging\nfidelity of over 99.99%. We lay out a detailed, near-term plan to enable\nzone-based quantum computing with $\\sim$6,000 atoms, and demonstrate a crucial\ningredient thereof: coherent moves of up to 610 $\\mu$m with a fidelity of\n$\\sim$99.95%, as characterized through interleaved randomized benchmarking. Our\nresults, together with other recent developments, indicate that universal\nquantum computing with ten thousand atomic qubits could be a near-term\nprospect. Furthermore, our work could pave the way for quantum simulation and\nmetrology experiments with inherent single particle readout and positioning\ncapabilities at a similar scale.",
+            "pdf_url": "http://arxiv.org/pdf/2403.12021v3",
+            "published": "2024-03-18 17:55:14+00:00",
+            "updated": "2024-12-06 18:56:25+00:00"
+        },
+        {
+            "title": "Amplitudes for Hawking Radiation",
+            "authors": "Rafael Aoude, Donal O'Connell, Matteo Sergola",
+            "summary": "We obtain the Hawking spectrum by exponentiating a series of Feynman diagrams\ndescribing a scalar field scattering through a collapse background. Our\napproach is rooted in semiclassical methods of scattering amplitudes which have\nrecently been developed for application to gravitational-wave physics. The\ndiagrams we encounter do not compute a standard amplitude, but rather an in-in\ngeneralisation of an amplitude which is closely connected to the Bogoliubov\ncoefficients. We also compute the subdominant one-loop correction in our\nperturbative approach, analogous to the triangle correction to Schwarzschild\nscattering. This term can be interpreted as a finite-size correction sensitive\nto the radius of the black hole.",
+            "pdf_url": "http://arxiv.org/pdf/2412.05267v1",
+            "published": "2024-12-06 18:54:21+00:00",
+            "updated": "2024-12-06 18:54:21+00:00"
+        },
+        {
+            "title": "Penetrative rotating magnetoconvection subject to lateral variations in temperature gradients",
+            "authors": "Tirtharaj Barman, Swarandeep Sahoo",
+            "summary": "Convection-driven flows in planetary interiors exhibit rich dynamics owing to\nmultiple spatio-temporally varying forcing conditions and physical constraints.\nIn particular, the churning of liquid metals in the Earth's outer core,\nresponsible for the dynamic geomagnetic field, is subjected to lower mantle\nthermal heterogeneity. Besides, the plausible existence of a stable\nstratification layer below the mantle influences the columnar convection. These\nadditional symmetry-breaking constraints, motivated from geophysical scenario\nof the Earth's thermal core--mantle interaction, modulate the otherwise\nperiodic and axially invariant convection flow patterns. Thus, the present\nstudy focuses on qualitative characterization and parametric quantification of\nrotating penetrative convection in the presence of magnetic induction effects\nwith an aim to understand the role of the lower mantle on core convection\nthermally. Using complementing computational and theoretical calculations, the\npresent study estimates the depth of penetration in bounded and unbounded fluid\ndomains. Apart from qualitative differences in convective flow patterns from\nthe reference homogeneous configurations, the additional constraints spatially\nmodulate the extent of penetration into stable regions. Confinement effects,\nadding to the damping of penetrative convection, arising out of boundary\nconstraints are quantified for bounded geometry. Appropriate normalizations,\nimplemented to eliminate such effects, result in amended penetration depth\nestimates that align with the qualitative characteristics obtained for\nunbounded domains. Exact closed-form expressions for the depth of penetration\nare obtained, providing insights into the role of individual contributions of\nmultiple physical constraints. Implications are speculated for realistic, yet\nunreachable, regimes of geophysical conditions of planetary cores.",
+            "pdf_url": "http://arxiv.org/pdf/2412.05235v1",
+            "published": "2024-12-06 18:10:09+00:00",
+            "updated": "2024-12-06 18:10:09+00:00"
+        },
+        {
+            "title": "Physics-informed reduced order model with conditional neural fields",
+            "authors": "Minji Kim, Tianshu Wen, Kookjin Lee, Youngsoo Choi",
+            "summary": "This study presents the conditional neural fields for reduced-order modeling\n(CNF-ROM) framework to approximate solutions of parametrized partial\ndifferential equations (PDEs). The approach combines a parametric neural ODE\n(PNODE) for modeling latent dynamics over time with a decoder that reconstructs\nPDE solutions from the corresponding latent states. We introduce a\nphysics-informed learning objective for CNF-ROM, which includes two key\ncomponents. First, the framework uses coordinate-based neural networks to\ncalculate and minimize PDE residuals by computing spatial derivatives via\nautomatic differentiation and applying the chain rule for time derivatives.\nSecond, exact initial and boundary conditions (IC/BC) are imposed using\napproximate distance functions (ADFs) [Sukumar and Srivastava, CMAME, 2022].\nHowever, ADFs introduce a trade-off as their second- or higher-order\nderivatives become unstable at the joining points of boundaries. To address\nthis, we introduce an auxiliary network inspired by [Gladstone et al., NeurIPS\nML4PS workshop, 2022]. Our method is validated through parameter extrapolation\nand interpolation, temporal extrapolation, and comparisons with analytical\nsolutions.",
+            "pdf_url": "http://arxiv.org/pdf/2412.05233v1",
+            "published": "2024-12-06 18:04:33+00:00",
+            "updated": "2024-12-06 18:04:33+00:00"
+        },
+        {
+            "title": "A simple non-parametric reconstruction of parton distributions from limited Fourier information",
+            "authors": "Herv\u00e9 Dutrieux, Joseph Karpie, Kostas Orginos, Savvas Zafeiropoulos",
+            "summary": "Some calculations of parton distributions from first principles only give\naccess to a limited range of Fourier modes of the function to reconstruct. We\npresent a physically motivated procedure to regularize the inverse integral\nproblem using a Gaussian process as a Bayesian prior. We propose to fix the\nhyperparameters of the prior in a meaningful physical fashion, offering a\nsimple implementation, great numerical efficiency, and allowing us to\nunderstand and keep control easily of the uncertainty of the reconstruction.",
+            "pdf_url": "http://arxiv.org/pdf/2412.05227v1",
+            "published": "2024-12-06 17:58:54+00:00",
+            "updated": "2024-12-06 17:58:54+00:00"
+        },
+        {
+            "title": "Interplay of intrinsic motion of partons and soft gluon emissions in Drell-Yan production studied with PYTHIA",
+            "authors": "I. Bubanja, H. Jung, N. Raicevic, S. Taheri Monfared",
+            "summary": "Understanding the intrinsic transverse momentum (intrinsic-$k_T$) of partons\nwithin colliding hadrons, typically modeled with a Gaussian distribution\ncharacterized by a specific width (the intrinsic-$k_T$ width), has been an\nextremely challenging issue. This difficulty arises because event generators\nlike Pythia require an intrinsic-$k_T$ width that unexpectedly varies with\ncollision energy, reaching unphysical values at high energies. This paper\ninvestigates the underlying physics behind this energy dependence in Pythia,\nrevealing that it arises from an interplay between two non-perturbative\nprocesses: the internal transverse motion of partons and non-perturbative soft\ngluon emissions. These contributions are most constrained in the production of\nDrell-Yan pairs with very low transverse momentum, where soft gluon effects\nbecome increasingly prominent with rising collision energy-contrary to initial\nexpectations. Through a detailed analysis of the non-perturbative Sudakov form\nfactor and its influence on intrinsic-$k_T$ width, we clarify the observed\nenergy scaling behavior in Pythia, providing insight into a longstanding issue\nin parton shower modeling.",
+            "pdf_url": "http://arxiv.org/pdf/2412.05221v1",
+            "published": "2024-12-06 17:53:13+00:00",
+            "updated": "2024-12-06 17:53:13+00:00"
+        },
+        {
+            "title": "Inflation in a scalar-vector gravity theory",
+            "authors": "Manuel Gonzalez-Espinoza, Ramon Herrera",
+            "summary": "We study the possibility that inflation is driven by a scalar field together\nwith a vector field minimally coupled to gravity. By assuming an effective\npotential that incorporates both fields into the action, we explore two\ndistinct scenarios: one where the fields interact and another where they do\nnot. In this context, we find different analytical solutions to the background\nscalar-vector fields dynamics during the inflationary scenario considering the\nslow-roll approximation. Besides, general conditions required for these models\nof two fields to be realizable are determined and discussed. From the\ncosmological perturbations, we consider a local field rotation, and then we\ndetermine these perturbations (scalar and tensor) during inflation, and we also\nutilize recent cosmological observations for constraining the parameter-space\nin these scalar-vector inflationary models.",
+            "pdf_url": "http://arxiv.org/pdf/2405.14653v2",
+            "published": "2024-05-23 14:53:40+00:00",
+            "updated": "2024-12-06 17:08:46+00:00"
+        },
+        {
+            "title": "Variational Encoder-Decoders for Learning Latent Representations of Physical Systems",
+            "authors": "Subashree Venkatasubramanian, David A. Barajas-Solano",
+            "summary": "We present a deep-learning Variational Encoder-Decoder (VED) framework for\nlearning data-driven low-dimensional representations of the relationship\nbetween high-dimensional parameters of a physical system and the system's\nhigh-dimensional observable response. The framework consists of two deep\nlearning-based probabilistic transformations: An encoder mapping parameters to\nlatent codes and a decoder mapping latent codes to the observable response. The\nhyperparameters of these transformations are identified by maximizing a\nvariational lower bound on the log-conditional distribution of the observable\nresponse given parameters. To promote the disentanglement of latent codes, we\nequip this variational loss with a penalty on the off-diagonal entries of the\naggregate distribution covariance of codes. This regularization penalty\nencourages the pushforward of a standard Gaussian distribution of latent codes\nto approximate the marginal distribution of the observable response.\n  Using the proposed framework we successfully model the hydraulic pressure\nresponse at observation wells of a groundwater flow model as a function of its\ndiscrete log-hydraulic transmissivity field. Compared to the canonical\ncorrelation analysis encoding, the VED model achieves a lower-dimensional\nlatent representation, with as low as $r = 50$ latent dimensions without a\nsignificant loss of reconstruction accuracy. We explore the impact of\nregularization on model performance, finding that KL-divergence and covariance\nregularization improve feature disentanglement in latent space while\nmaintaining reconstruction accuracy. Furthermore, we evaluate the generative\ncapabilities of the regularized model by decoding random Gaussian noise,\nrevealing that tuning both $\\beta$ and $\\lambda$ parameters enhances the\nquality of the generated observable response data.",
+            "pdf_url": "http://arxiv.org/pdf/2412.05175v1",
+            "published": "2024-12-06 16:46:48+00:00",
+            "updated": "2024-12-06 16:46:48+00:00"
+        },
+        {
+            "title": "Fast Laplace transforms on quantum computers",
+            "authors": "Julien Zylberman",
+            "summary": "While many classical algorithms rely on Laplace transforms, it has remained\nan open question whether these operations could be implemented efficiently on\nquantum computers. In this work, we introduce the Quantum Laplace Transform\n(QLT), which enables the implementation of $N\\times N$ discrete Laplace\ntransforms on quantum states encoded in $\\lceil \\log_2(N)\\rceil$-qubits. In\nmany cases, the associated quantum circuits have a depth that scales with $N$\nas $O(\\log(\\log(N)))$ and a size that scales as $O(\\log(N))$, requiring\nexponentially fewer operations and double-exponentially less computational time\nthan their classical counterparts. These efficient scalings open the\npossibility of developing a new class of quantum algorithms based on Laplace\ntransforms, with potential applications in physics, engineering, chemistry,\nmachine learning, and finance.",
+            "pdf_url": "http://arxiv.org/pdf/2412.05173v1",
+            "published": "2024-12-06 16:44:00+00:00",
+            "updated": "2024-12-06 16:44:00+00:00"
+        },
+        {
+            "title": "Optimal control of a Bose-Eintein Condensate in an optical lattice: The non-linear and the two-dimensional cases",
+            "authors": "E. Dionis, B. Peaudecerf, S. Gu\u00e9rin, D. Gu\u00e9ry-Odelin, D. Sugny",
+            "summary": "We numerically study the optimal control of an atomic Bose-Einstein\ncondensate in an optical lattice. We present two generalizations of the\ngradient-based algorithm, GRAPE, in the non-linear case and for a\ntwo-dimensional lattice. We show how to construct such algorithms from\nPontryagin's maximum principle. A wide variety of target states can be achieved\nwith high precision by varying only the laser phases setting the lattice\nposition. We discuss the physical relevance of the different results and the\nfuture directions of this work.",
+            "pdf_url": "http://arxiv.org/pdf/2412.05170v1",
+            "published": "2024-12-06 16:42:18+00:00",
+            "updated": "2024-12-06 16:42:18+00:00"
+        }
+    ],
+    "Diffusion": [
+        {
+            "title": "MotionFlow: Attention-Driven Motion Transfer in Video Diffusion Models",
+            "authors": "Tuna Han Salih Meral, Hidir Yesiltepe, Connor Dunlop, Pinar Yanardag",
+            "summary": "Text-to-video models have demonstrated impressive capabilities in producing\ndiverse and captivating video content, showcasing a notable advancement in\ngenerative AI. However, these models generally lack fine-grained control over\nmotion patterns, limiting their practical applicability. We introduce\nMotionFlow, a novel framework designed for motion transfer in video diffusion\nmodels. Our method utilizes cross-attention maps to accurately capture and\nmanipulate spatial and temporal dynamics, enabling seamless motion transfers\nacross various contexts. Our approach does not require training and works on\ntest-time by leveraging the inherent capabilities of pre-trained video\ndiffusion models. In contrast to traditional approaches, which struggle with\ncomprehensive scene changes while maintaining consistent motion, MotionFlow\nsuccessfully handles such complex transformations through its attention-based\nmechanism. Our qualitative and quantitative experiments demonstrate that\nMotionFlow significantly outperforms existing models in both fidelity and\nversatility even during drastic scene alterations.",
+            "pdf_url": "http://arxiv.org/pdf/2412.05275v1",
+            "published": "2024-12-06 18:59:12+00:00",
+            "updated": "2024-12-06 18:59:12+00:00"
+        },
+        {
+            "title": "Extrapolated Urban View Synthesis Benchmark",
+            "authors": "Xiangyu Han, Zhen Jia, Boyi Li, Yan Wang, Boris Ivanovic, Yurong You, Lingjie Liu, Yue Wang, Marco Pavone, Chen Feng, Yiming Li",
+            "summary": "Photorealistic simulators are essential for the training and evaluation of\nvision-centric autonomous vehicles (AVs). At their core is Novel View Synthesis\n(NVS), a crucial capability that generates diverse unseen viewpoints to\naccommodate the broad and continuous pose distribution of AVs. Recent advances\nin radiance fields, such as 3D Gaussian Splatting, achieve photorealistic\nrendering at real-time speeds and have been widely used in modeling large-scale\ndriving scenes. However, their performance is commonly evaluated using an\ninterpolated setup with highly correlated training and test views. In contrast,\nextrapolation, where test views largely deviate from training views, remains\nunderexplored, limiting progress in generalizable simulation technology. To\naddress this gap, we leverage publicly available AV datasets with multiple\ntraversals, multiple vehicles, and multiple cameras to build the first\nExtrapolated Urban View Synthesis (EUVS) benchmark. Meanwhile, we conduct\nquantitative and qualitative evaluations of state-of-the-art Gaussian Splatting\nmethods across different difficulty levels. Our results show that Gaussian\nSplatting is prone to overfitting to training views. Besides, incorporating\ndiffusion priors and improving geometry cannot fundamentally improve NVS under\nlarge view changes, highlighting the need for more robust approaches and\nlarge-scale training. We have released our data to help advance self-driving\nand urban robotics simulation technology.",
+            "pdf_url": "http://arxiv.org/pdf/2412.05256v1",
+            "published": "2024-12-06 18:41:39+00:00",
+            "updated": "2024-12-06 18:41:39+00:00"
+        },
+        {
+            "title": "PAC Privacy Preserving Diffusion Models",
+            "authors": "Qipan Xu, Youlong Ding, Xinxi Zhang, Jie Gao, Hao Wang",
+            "summary": "Data privacy protection is garnering increased attention among researchers.\nDiffusion models (DMs), particularly with strict differential privacy, can\npotentially produce images with both high privacy and visual quality. However,\nchallenges arise such as in ensuring robust protection in privatizing specific\ndata attributes, areas where current models often fall short. To address these\nchallenges, we introduce the PAC Privacy Preserving Diffusion Model, a model\nleverages diffusion principles and ensure Probably Approximately Correct (PAC)\nprivacy. We enhance privacy protection by integrating a private classifier\nguidance into the Langevin Sampling Process. Additionally, recognizing the gap\nin measuring the privacy of models, we have developed a novel metric to gauge\nprivacy levels. Our model, assessed with this new metric and supported by\nGaussian matrix computations for the PAC bound, has shown superior performance\nin privacy protection over existing leading private generative models according\nto benchmark tests.",
+            "pdf_url": "http://arxiv.org/pdf/2312.01201v5",
+            "published": "2023-12-02 18:42:52+00:00",
+            "updated": "2024-12-06 17:16:54+00:00"
+        },
+        {
+            "title": "DNF: Unconditional 4D Generation with Dictionary-based Neural Fields",
+            "authors": "Xinyi Zhang, Naiqi Li, Angela Dai",
+            "summary": "While remarkable success has been achieved through diffusion-based 3D\ngenerative models for shapes, 4D generative modeling remains challenging due to\nthe complexity of object deformations over time. We propose DNF, a new 4D\nrepresentation for unconditional generative modeling that efficiently models\ndeformable shapes with disentangled shape and motion while capturing\nhigh-fidelity details in the deforming objects. To achieve this, we propose a\ndictionary learning approach to disentangle 4D motion from shape as neural\nfields. Both shape and motion are represented as learned latent spaces, where\neach deformable shape is represented by its shape and motion global latent\ncodes, shape-specific coefficient vectors, and shared dictionary information.\nThis captures both shape-specific detail and global shared information in the\nlearned dictionary. Our dictionary-based representation well balances fidelity,\ncontiguity and compression -- combined with a transformer-based diffusion\nmodel, our method is able to generate effective, high-fidelity 4D animations.",
+            "pdf_url": "http://arxiv.org/pdf/2412.05161v1",
+            "published": "2024-12-06 16:25:57+00:00",
+            "updated": "2024-12-06 16:25:57+00:00"
+        },
+        {
+            "title": "The Score-Difference Flow for Implicit Generative Modeling",
+            "authors": "Romann M. Weber",
+            "summary": "Implicit generative modeling (IGM) aims to produce samples of synthetic data\nmatching the characteristics of a target data distribution. Recent work (e.g.\nscore-matching networks, diffusion models) has approached the IGM problem from\nthe perspective of pushing synthetic source data toward the target distribution\nvia dynamical perturbations or flows in the ambient space. In this direction,\nwe present the score difference (SD) between arbitrary target and source\ndistributions as a flow that optimally reduces the Kullback-Leibler divergence\nbetween them. We apply the SD flow to convenient proxy distributions, which are\naligned if and only if the original distributions are aligned. We demonstrate\nthe formal equivalence of this formulation to denoising diffusion models under\ncertain conditions. We also show that the training of generative adversarial\nnetworks includes a hidden data-optimization sub-problem, which induces the SD\nflow under certain choices of loss function when the discriminator is optimal.\nAs a result, the SD flow provides a theoretical link between model classes that\nindividually address the three challenges of the \"generative modeling trilemma\"\n-- high sample quality, mode coverage, and fast sampling -- thereby setting the\nstage for a unified approach.",
+            "pdf_url": "http://arxiv.org/pdf/2304.12906v3",
+            "published": "2023-04-25 15:21:12+00:00",
+            "updated": "2024-12-06 16:02:25+00:00"
+        }
+    ]
+}

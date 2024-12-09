@@ -92,6 +92,31 @@ TODO:
 
 
 
+
+## Update on 2024-12-09
+
+### Physics
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2024-03-18|2024-12-06|A tweezer array with 6100 highly coherent atomic qubits|Hannah J. Manetsch|[2403.12021v3](http://arxiv.org/pdf/2403.12021v3)|
+|2024-12-06|2024-12-06|Amplitudes for Hawking Radiation|Rafael Aoude|[2412.05267v1](http://arxiv.org/pdf/2412.05267v1)|
+|2024-12-06|2024-12-06|Penetrative rotating magnetoconvection subject to lateral variations in temperature gradients|Tirtharaj Barman|[2412.05235v1](http://arxiv.org/pdf/2412.05235v1)|
+|2024-12-06|2024-12-06|Physics-informed reduced order model with conditional neural fields|Minji Kim|[2412.05233v1](http://arxiv.org/pdf/2412.05233v1)|
+|2024-12-06|2024-12-06|A simple non-parametric reconstruction of parton distributions from limited Fourier information|Hervé Dutrieux|[2412.05227v1](http://arxiv.org/pdf/2412.05227v1)|
+|2024-12-06|2024-12-06|Interplay of intrinsic motion of partons and soft gluon emissions in Drell-Yan production studied with PYTHIA|I. Bubanja|[2412.05221v1](http://arxiv.org/pdf/2412.05221v1)|
+|2024-05-23|2024-12-06|Inflation in a scalar-vector gravity theory|Manuel Gonzalez-Espinoza|[2405.14653v2](http://arxiv.org/pdf/2405.14653v2)|
+|2024-12-06|2024-12-06|Variational Encoder-Decoders for Learning Latent Representations of Physical Systems|Subashree Venkatasubramanian|[2412.05175v1](http://arxiv.org/pdf/2412.05175v1)|
+|2024-12-06|2024-12-06|Fast Laplace transforms on quantum computers|Julien Zylberman|[2412.05173v1](http://arxiv.org/pdf/2412.05173v1)|
+|2024-12-06|2024-12-06|Optimal control of a Bose-Eintein Condensate in an optical lattice: The non-linear and the two-dimensional cases|E. Dionis|[2412.05170v1](http://arxiv.org/pdf/2412.05170v1)|
+
+### Diffusion
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2024-12-06|2024-12-06|MotionFlow: Attention-Driven Motion Transfer in Video Diffusion Models|Tuna Han Salih Meral|[2412.05275v1](http://arxiv.org/pdf/2412.05275v1)|
+|2024-12-06|2024-12-06|Extrapolated Urban View Synthesis Benchmark|Xiangyu Han|[2412.05256v1](http://arxiv.org/pdf/2412.05256v1)|
+|2023-12-02|2024-12-06|PAC Privacy Preserving Diffusion Models|Qipan Xu|[2312.01201v5](http://arxiv.org/pdf/2312.01201v5)|
+|2024-12-06|2024-12-06|DNF: Unconditional 4D Generation with Dictionary-based Neural Fields|Xinyi Zhang|[2412.05161v1](http://arxiv.org/pdf/2412.05161v1)|
+|2023-04-25|2024-12-06|The Score-Difference Flow for Implicit Generative Modeling|Romann M. Weber|[2304.12906v3](http://arxiv.org/pdf/2304.12906v3)|
 ## Update on 2024-12-07
 
 ### Physics
