@@ -93,6 +93,31 @@ TODO:
 
 
 
+
+## Update on 2024-12-11
+
+### Physics
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2024-12-10|2024-12-10|SAT: Spatial Aptitude Training for Multimodal Language Models|Arijit Ray|[2412.07755v1](http://arxiv.org/pdf/2412.07755v1)|
+|2024-07-16|2024-12-10|Emergence of Light Cones in Long-range Interacting Spin Chains due to Destructive Interference|Peyman Azodi|[2407.11639v3](http://arxiv.org/pdf/2407.11639v3)|
+|2024-09-01|2024-12-10|Latent Space Dynamics Learning for Stiff Collisional-radiative Models|Xuping Xie|[2409.05893v2](http://arxiv.org/pdf/2409.05893v2)|
+|2024-12-10|2024-12-10|Probing nonperturbative transverse momentum dependent PDFs with chiral perturbation theory: the $\bar{d}-\bar{u}$ asymmetry|Marston Copeland|[2412.07717v1](http://arxiv.org/pdf/2412.07717v1)|
+|2024-12-10|2024-12-10|New calculation of the geo-neutrino energy spectrum and its implication|Yu-Feng Li|[2412.07711v1](http://arxiv.org/pdf/2412.07711v1)|
+|2024-12-10|2024-12-10|Phenomenological Aspects of Models with Low Scale Seesaw|Juan Marchant González|[2412.07695v1](http://arxiv.org/pdf/2412.07695v1)|
+|2024-03-14|2024-12-10|Parametric tuning of quantum phase transitions in ultracold reactions|Vijay Ganesh Sadhasivam|[2403.09291v2](http://arxiv.org/pdf/2403.09291v2)|
+|2024-12-10|2024-12-10|Optimizing Sensor Redundancy in Sequential Decision-Making Problems|Jonas Nüßlein|[2412.07686v1](http://arxiv.org/pdf/2412.07686v1)|
+|2024-01-26|2024-12-10|Experimental Liouvillian exceptional points in a quantum system without Hamiltonian singularities|Shilan Abo|[2401.14993v2](http://arxiv.org/pdf/2401.14993v2)|
+|2024-12-10|2024-12-10|BPS Dendroscopy on Local $\mathbb{P}^1\times \mathbb{P}^1$|Bruno Le Floch|[2412.07680v1](http://arxiv.org/pdf/2412.07680v1)|
+
+### Diffusion
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2024-12-10|2024-12-10|Video Motion Transfer with Diffusion Transformers|Alexander Pondaven|[2412.07776v1](http://arxiv.org/pdf/2412.07776v1)|
+|2024-12-10|2024-12-10|Efficient Diversity-Preserving Diffusion Alignment via Gradient-Informed GFlowNets|Zhen Liu|[2412.07775v1](http://arxiv.org/pdf/2412.07775v1)|
+|2024-12-10|2024-12-10|From an Image to a Scene: Learning to Imagine the World from a Million 360 Videos|Matthew Wallingford|[2412.07770v1](http://arxiv.org/pdf/2412.07770v1)|
+|2024-12-10|2024-12-10|PortraitTalk: Towards Customizable One-Shot Audio-to-Talking Face Generation|Fatemeh Nazarieh|[2412.07754v1](http://arxiv.org/pdf/2412.07754v1)|
+|2024-12-10|2024-12-10|STIV: Scalable Text and Image Conditioned Video Generation|Zongyu Lin|[2412.07730v1](http://arxiv.org/pdf/2412.07730v1)|
 ## Update on 2024-12-09
 
 ### Physics

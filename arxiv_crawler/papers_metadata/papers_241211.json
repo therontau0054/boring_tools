@@ -1,0 +1,126 @@
+{
+    "Physics": [
+        {
+            "title": "SAT: Spatial Aptitude Training for Multimodal Language Models",
+            "authors": "Arijit Ray, Jiafei Duan, Reuben Tan, Dina Bashkirova, Rose Hendrix, Kiana Ehsani, Aniruddha Kembhavi, Bryan A. Plummer, Ranjay Krishna, Kuo-Hao Zeng, Kate Saenko",
+            "summary": "Spatial perception is a fundamental component of intelligence. While many\nstudies highlight that large multimodal language models (MLMs) struggle to\nreason about space, they only test for static spatial reasoning, such as\ncategorizing the relative positions of objects. Meanwhile, real-world\ndeployment requires dynamic capabilities like perspective-taking and egocentric\naction recognition. As a roadmap to improving spatial intelligence, we\nintroduce SAT, Spatial Aptitude Training, which goes beyond static relative\nobject position questions to the more dynamic tasks. SAT contains 218K\nquestion-answer pairs for 22K synthetic scenes across a training and testing\nset. Generated using a photo-realistic physics engine, our dataset can be\narbitrarily scaled and easily extended to new actions, scenes, and 3D assets.\nWe find that even MLMs that perform relatively well on static questions\nstruggle to accurately answer dynamic spatial questions. Further, we show that\nSAT instruction-tuning data improves not only dynamic spatial reasoning on SAT,\nbut also zero-shot performance on existing real-image spatial benchmarks:\n$23\\%$ on CVBench, $8\\%$ on the harder BLINK benchmark, and $18\\%$ on VSR. When\ninstruction-tuned on SAT, our 13B model matches larger proprietary MLMs like\nGPT4-V and Gemini-3-1.0 in spatial reasoning. Our data/code is available at\nhttp://arijitray1993.github.io/SAT/ .",
+            "pdf_url": "http://arxiv.org/pdf/2412.07755v1",
+            "published": "2024-12-10 18:52:45+00:00",
+            "updated": "2024-12-10 18:52:45+00:00"
+        },
+        {
+            "title": "Emergence of Light Cones in Long-range Interacting Spin Chains due to Destructive Interference",
+            "authors": "Peyman Azodi, Herschel A. Rabitz",
+            "summary": "We identify a mechanism in long-range Heisenberg spin chains at low\ntemperatures that results in the emergence of effective entanglement light\ncones. This mechanism arises from destructive interference among quantum\neffects entangling spins outside an identified light cone. As a result,\nentanglement is suppressed in this region, enabling the formation of effective\nlight cones. The analysis shows that truncating the range of interactions\ndiminishes the destructive interference, leading to an unexpected acceleration\nof entanglement transport along the chain and offering new opportunities to\nexperimentally demonstrate the destructive interference phenomenon. This work\nprovides a fresh perspective on the physical mechanism underlying the emergence\nof light cones in long-range interacting quantum systems",
+            "pdf_url": "http://arxiv.org/pdf/2407.11639v3",
+            "published": "2024-07-16 11:59:19+00:00",
+            "updated": "2024-12-10 18:21:37+00:00"
+        },
+        {
+            "title": "Latent Space Dynamics Learning for Stiff Collisional-radiative Models",
+            "authors": "Xuping Xie, Qi Tang, Xianzhu Tang",
+            "summary": "In this work, we propose a data-driven method to discover the latent space\nand learn the corresponding latent dynamics for a collisional-radiative (CR)\nmodel in radiative plasma simulations. The CR model, consisting of\nhigh-dimensional stiff ordinary differential equations (ODEs), must be solved\nat each grid point in the configuration space, leading to significant\ncomputational costs in plasma simulations. Our method employs a\nphysics-assisted autoencoder to extract a low-dimensional latent representation\nof the original CR system. A flow map neural network is then used to learn the\nlatent dynamics. Once trained, the reduced surrogate model predicts the entire\nlatent dynamics given only the initial condition by iteratively applying the\nflow map. The radiative power loss is then reconstructed using a decoder.\nNumerical experiments demonstrate that the proposed architecture can accurately\npredict both the full-order CR dynamics and the radiative power loss rate.",
+            "pdf_url": "http://arxiv.org/pdf/2409.05893v2",
+            "published": "2024-09-01 18:33:41+00:00",
+            "updated": "2024-12-10 18:12:19+00:00"
+        },
+        {
+            "title": "Probing nonperturbative transverse momentum dependent PDFs with chiral perturbation theory: the $\\bar{d}-\\bar{u}$ asymmetry",
+            "authors": "Marston Copeland, Thomas Mehen",
+            "summary": "We use chiral perturbation theory to study the long distance regime of\ntransverse momentum dependent parton distribution functions (TMD PDFs). Chiral\ncorrections to the TMD PDFs are computed from proton to pion/baryon splittings.\nFor consistent power counting, we find that the fraction of the proton's\nmomentum that a pion may carry must be kept small. We make predictions for a\n$\\bar{d}-\\bar{u}$ asymmetry in the proton's TMD PDFs and find that the\neffective theory gives a natural exponential suppression of the TMD PDF at long\ndistances. We then explore the effects that additional nonperturbative physics\nmay have on the TMD $\\bar{d}-\\bar{u}$ asymmetry.",
+            "pdf_url": "http://arxiv.org/pdf/2412.07717v1",
+            "published": "2024-12-10 18:10:37+00:00",
+            "updated": "2024-12-10 18:10:37+00:00"
+        },
+        {
+            "title": "New calculation of the geo-neutrino energy spectrum and its implication",
+            "authors": "Yu-Feng Li, Zhao Xin",
+            "summary": "The energy spectrum of geo-neutrinos plays a vital role in the experimental\nmeasurement of geo-neutrinos that have profound implications for both particle\nphysics and earth sciences. In this letter, we present a state-of-the-art\ncalculation of the energy spectrum of geo-neutrinos originating from the beta\ndecay of Uranium-238 and Thorium-232. Our calculation is underpinned by the\nlatest updates in the nuclear database, accounts for previously overlooked\nforbidden transitions, and incorporates advanced corrections for the beta\ndecay. This brand new geo-neutrino flux model, compared to the widely-used\nestimates from Enomoto~\\cite{Enomoto}, reveals notable distinction in the\nenergy spectrum shape because of our comprehensive approach. When considering\nthe inverse beta decay (IBD) detection process, our findings show a significant\ndeviation in the predicted IBD yield of around 4\\% for Uranium-238 and 9\\% for\nThorium-232 decay chains. The implications of using the new geo-neutrino flux\nmodel for the experimental analysis are substantial, potentially affecting the\nanalysis results of geo-neutrino measurements of KamLAND and Borexino by around\n10\\% to 20\\%.",
+            "pdf_url": "http://arxiv.org/pdf/2412.07711v1",
+            "published": "2024-12-10 18:00:14+00:00",
+            "updated": "2024-12-10 18:00:14+00:00"
+        },
+        {
+            "title": "Phenomenological Aspects of Models with Low Scale Seesaw",
+            "authors": "Juan Marchant Gonz\u00e1lez",
+            "summary": "Various phenomenological consequences of seesaw theories for the generation\nof the fermion mass hierarchy of the Standard Model have been analyzed, with an\nemphasis on models in which the light-active neutrino masses are derived from\nlow-scale seesaw mechanisms. In particular, fermion masses and lepton\nflavor-violating decay processes, the flavor-changing neutral current, have\nbeen studied, and the implications of these theories for the observed dark\nmatter relic density in the Universe have been determined. From the analysis of\nthese phenomenological aspects, it was possible to determine the allowed\nparameter spaces of these theories and to obtain a parameter fit consistent\nwith the currently measured experimental values. In this way, correlations\nbetween the different observables of the fermionic sector could be obtained,\nwhere all values were within the experimental ranges at $3\\sigma$. Predictions\nfor new physics consistent with cosmological limits were also obtained.",
+            "pdf_url": "http://arxiv.org/pdf/2412.07695v1",
+            "published": "2024-12-10 17:33:23+00:00",
+            "updated": "2024-12-10 17:33:23+00:00"
+        },
+        {
+            "title": "Parametric tuning of quantum phase transitions in ultracold reactions",
+            "authors": "Vijay Ganesh Sadhasivam, Fumika Suzuki, Bin Yan, Nikolai A. Sinitsyn",
+            "summary": "Advances in atomic physics have led to the possibility of a coherent\ntransformation between ultra-cold atoms and molecules including between\ncompletely bosonic condensates. Such transformations are enabled by the\nmagneto-association of atoms at a Feshbach resonance which results in a passage\nthrough a quantum critical point. In this study, we show that the presence of\ngeneric interaction between the constituent atoms and molecules can\nfundamentally alter the nature of the critical point, change the yield of the\nreaction and the order of the consequent phase transition. We find that the\ncorrelations introduced by this interaction induce nontrivial many-body physics\nsuch as coherent oscillations between atoms and molecules, and a selective\nformation of squeezed molecular quantum states and quantum cat states. We\nprovide analytical and numerical descriptions of these effects, along with\nscaling laws for the reaction yield in non-adiabatic regimes.",
+            "pdf_url": "http://arxiv.org/pdf/2403.09291v2",
+            "published": "2024-03-14 11:24:32+00:00",
+            "updated": "2024-12-10 17:30:29+00:00"
+        },
+        {
+            "title": "Optimizing Sensor Redundancy in Sequential Decision-Making Problems",
+            "authors": "Jonas N\u00fc\u00dflein, Maximilian Zorn, Fabian Ritz, Jonas Stein, Gerhard Stenzel, Julian Sch\u00f6nberger, Thomas Gabor, Claudia Linnhoff-Popien",
+            "summary": "Reinforcement Learning (RL) policies are designed to predict actions based on\ncurrent observations to maximize cumulative future rewards. In real-world\napplications (i.e., non-simulated environments), sensors are essential for\nmeasuring the current state and providing the observations on which RL policies\nrely to make decisions. A significant challenge in deploying RL policies in\nreal-world scenarios is handling sensor dropouts, which can result from\nhardware malfunctions, physical damage, or environmental factors like dust on a\ncamera lens. A common strategy to mitigate this issue is the use of backup\nsensors, though this comes with added costs. This paper explores the\noptimization of backup sensor configurations to maximize expected returns while\nkeeping costs below a specified threshold, C. Our approach uses a second-order\napproximation of expected returns and includes penalties for exceeding cost\nconstraints. We then optimize this quadratic program using Tabu Search, a\nmeta-heuristic algorithm. The approach is evaluated across eight OpenAI Gym\nenvironments and a custom Unity-based robotic environment (RobotArmGrasping).\nEmpirical results demonstrate that our quadratic program effectively\napproximates real expected returns, facilitating the identification of optimal\nsensor configurations.",
+            "pdf_url": "http://arxiv.org/pdf/2412.07686v1",
+            "published": "2024-12-10 17:20:44+00:00",
+            "updated": "2024-12-10 17:20:44+00:00"
+        },
+        {
+            "title": "Experimental Liouvillian exceptional points in a quantum system without Hamiltonian singularities",
+            "authors": "Shilan Abo, Patrycja Tulewicz, Karol Bartkiewicz, \u015eahin K. \u00d6zdemir, Adam Miranowicz",
+            "summary": "Hamiltonian exceptional points (HEPs) are spectral degeneracies of\nnon-Hermitian Hamiltonians describing classical and semiclassical open systems\nwith losses and/or gain. However, this definition overlooks the occurrence of\nquantum jumps in the evolution of open quantum systems. These quantum effects\nare properly accounted for by considering quantum Liouvillians and their\nexceptional points (LEPs). Specifically, an LEP corresponds to the coalescence\nof two or more eigenvalues and the corresponding eigenmatrices of a given\nLiouvillian at critical values of external parameters [Minganti \\emph{et al.},\nPhys. Rev. A {\\bf 100}, 062131 (2019)]. Here, we explicitly describe how\nstandard quantum process tomography, which reveals the dynamics of a quantum\nsystem, can be readily applied to detect and characterize quantum LEPs of\nquantum non-Hermitian systems. We conducted experiments on an IBM quantum\nprocessor to implement a prototype model with one-, two-, and three qubits\nsimulating the decay of a single qubit through competing channels, resulting in\nLEPs but not HEPs. Subsequently, we performed tomographic reconstruction of the\ncorresponding experimental Liouvillian and its LEPs using both single- and\ntwo-qubit operations. This example underscores the efficacy of process\ntomography in tuning and observing LEPs even in the absence of HEPs.",
+            "pdf_url": "http://arxiv.org/pdf/2401.14993v2",
+            "published": "2024-01-26 16:47:26+00:00",
+            "updated": "2024-12-10 17:18:51+00:00"
+        },
+        {
+            "title": "BPS Dendroscopy on Local $\\mathbb{P}^1\\times \\mathbb{P}^1$",
+            "authors": "Bruno Le Floch, Boris Pioline, Rishi Raj",
+            "summary": "BPS states in type II string compactified on a Calabi-Yau threefold can\ntypically be decomposed as moduli-dependent bound states of absolutely stable\nconstituents, with a hierarchical structure labelled by attractor flow trees.\nThis decomposition is best understood from the scattering diagram, an\narrangement of real codimension-one loci (or rays) in the space of stability\nconditions where BPS states of given electromagnetic charge and fixed phase of\nthe central charge exist. The consistency of the diagram when rays intersect\ndetermines all BPS indices in terms of the `attractor indices' carried by the\ninitial rays. In this work we study the scattering diagram for a non-compact\ntoric CY threefold known as local $\\mathbb{F}_0$, namely the total space of the\ncanonical bundle over $\\mathbb{P}^1\\times \\mathbb{P}^1$. We first construct the\nscattering diagram for the quiver, valid near the orbifold point, and for the\nlarge volume slice, valid when both $\\mathbb{P}^1$'s have large (and nearly\nequal) area. We then combine the insights gained from these simple limits to\nconstruct the scattering diagram along the physical slice of $\\Pi$-stability\nconditions, which carries an action of a $\\mathbb{Z}^4$ extension of the\nmodular group $\\Gamma_0(4)$. We sketch a proof of the Split Attractor Flow Tree\nConjecture in this example, albeit for a restricted range of the central charge\nphase. Most arguments are similar to our early study of local $\\mathbb{P}^2$\n[arXiv:2210.10712], but complicated by the occurence of an extra mass parameter\nand ramification points on the $\\Pi$-stability slice.",
+            "pdf_url": "http://arxiv.org/pdf/2412.07680v1",
+            "published": "2024-12-10 17:10:20+00:00",
+            "updated": "2024-12-10 17:10:20+00:00"
+        }
+    ],
+    "Diffusion": [
+        {
+            "title": "Video Motion Transfer with Diffusion Transformers",
+            "authors": "Alexander Pondaven, Aliaksandr Siarohin, Sergey Tulyakov, Philip Torr, Fabio Pizzati",
+            "summary": "We propose DiTFlow, a method for transferring the motion of a reference video\nto a newly synthesized one, designed specifically for Diffusion Transformers\n(DiT). We first process the reference video with a pre-trained DiT to analyze\ncross-frame attention maps and extract a patch-wise motion signal called the\nAttention Motion Flow (AMF). We guide the latent denoising process in an\noptimization-based, training-free, manner by optimizing latents with our AMF\nloss to generate videos reproducing the motion of the reference one. We also\napply our optimization strategy to transformer positional embeddings, granting\nus a boost in zero-shot motion transfer capabilities. We evaluate DiTFlow\nagainst recently published methods, outperforming all across multiple metrics\nand human evaluation.",
+            "pdf_url": "http://arxiv.org/pdf/2412.07776v1",
+            "published": "2024-12-10 18:59:58+00:00",
+            "updated": "2024-12-10 18:59:58+00:00"
+        },
+        {
+            "title": "Efficient Diversity-Preserving Diffusion Alignment via Gradient-Informed GFlowNets",
+            "authors": "Zhen Liu, Tim Z. Xiao, Weiyang Liu, Yoshua Bengio, Dinghuai Zhang",
+            "summary": "While one commonly trains large diffusion models by collecting datasets on\ntarget downstream tasks, it is often desired to align and finetune pretrained\ndiffusion models on some reward functions that are either designed by experts\nor learned from small-scale datasets. Existing methods for finetuning diffusion\nmodels typically suffer from lack of diversity in generated samples, lack of\nprior preservation, and/or slow convergence in finetuning. Inspired by recent\nsuccesses in generative flow networks (GFlowNets), a class of probabilistic\nmodels that sample with the unnormalized density of a reward function, we\npropose a novel GFlowNet method dubbed Nabla-GFlowNet (abbreviated as\n$\\nabla$-GFlowNet), the first GFlowNet method that leverages the rich signal in\nreward gradients, together with an objective called $\\nabla$-DB plus its\nvariant residual $\\nabla$-DB designed for prior-preserving diffusion alignment.\nWe show that our proposed method achieves fast yet diversity- and\nprior-preserving alignment of Stable Diffusion, a large-scale text-conditioned\nimage diffusion model, on different realistic reward functions.",
+            "pdf_url": "http://arxiv.org/pdf/2412.07775v1",
+            "published": "2024-12-10 18:59:58+00:00",
+            "updated": "2024-12-10 18:59:58+00:00"
+        },
+        {
+            "title": "From an Image to a Scene: Learning to Imagine the World from a Million 360 Videos",
+            "authors": "Matthew Wallingford, Anand Bhattad, Aditya Kusupati, Vivek Ramanujan, Matt Deitke, Sham Kakade, Aniruddha Kembhavi, Roozbeh Mottaghi, Wei-Chiu Ma, Ali Farhadi",
+            "summary": "Three-dimensional (3D) understanding of objects and scenes play a key role in\nhumans' ability to interact with the world and has been an active area of\nresearch in computer vision, graphics, and robotics. Large scale synthetic and\nobject-centric 3D datasets have shown to be effective in training models that\nhave 3D understanding of objects. However, applying a similar approach to\nreal-world objects and scenes is difficult due to a lack of large-scale data.\nVideos are a potential source for real-world 3D data, but finding diverse yet\ncorresponding views of the same content has shown to be difficult at scale.\nFurthermore, standard videos come with fixed viewpoints, determined at the time\nof capture. This restricts the ability to access scenes from a variety of more\ndiverse and potentially useful perspectives. We argue that large scale 360\nvideos can address these limitations to provide: scalable corresponding frames\nfrom diverse views. In this paper, we introduce 360-1M, a 360 video dataset,\nand a process for efficiently finding corresponding frames from diverse\nviewpoints at scale. We train our diffusion-based model, Odin, on 360-1M.\nEmpowered by the largest real-world, multi-view dataset to date, Odin is able\nto freely generate novel views of real-world scenes. Unlike previous methods,\nOdin can move the camera through the environment, enabling the model to infer\nthe geometry and layout of the scene. Additionally, we show improved\nperformance on standard novel view synthesis and 3D reconstruction benchmarks.",
+            "pdf_url": "http://arxiv.org/pdf/2412.07770v1",
+            "published": "2024-12-10 18:59:44+00:00",
+            "updated": "2024-12-10 18:59:44+00:00"
+        },
+        {
+            "title": "PortraitTalk: Towards Customizable One-Shot Audio-to-Talking Face Generation",
+            "authors": "Fatemeh Nazarieh, Zhenhua Feng, Diptesh Kanojia, Muhammad Awais, Josef Kittler",
+            "summary": "Audio-driven talking face generation is a challenging task in digital\ncommunication. Despite significant progress in the area, most existing methods\nconcentrate on audio-lip synchronization, often overlooking aspects such as\nvisual quality, customization, and generalization that are crucial to producing\nrealistic talking faces. To address these limitations, we introduce a novel,\ncustomizable one-shot audio-driven talking face generation framework, named\nPortraitTalk. Our proposed method utilizes a latent diffusion framework\nconsisting of two main components: IdentityNet and AnimateNet. IdentityNet is\ndesigned to preserve identity features consistently across the generated video\nframes, while AnimateNet aims to enhance temporal coherence and motion\nconsistency. This framework also integrates an audio input with the reference\nimages, thereby reducing the reliance on reference-style videos prevalent in\nexisting approaches. A key innovation of PortraitTalk is the incorporation of\ntext prompts through decoupled cross-attention mechanisms, which significantly\nexpands creative control over the generated videos. Through extensive\nexperiments, including a newly developed evaluation metric, our model\ndemonstrates superior performance over the state-of-the-art methods, setting a\nnew standard for the generation of customizable realistic talking faces\nsuitable for real-world applications.",
+            "pdf_url": "http://arxiv.org/pdf/2412.07754v1",
+            "published": "2024-12-10 18:51:31+00:00",
+            "updated": "2024-12-10 18:51:31+00:00"
+        },
+        {
+            "title": "STIV: Scalable Text and Image Conditioned Video Generation",
+            "authors": "Zongyu Lin, Wei Liu, Chen Chen, Jiasen Lu, Wenze Hu, Tsu-Jui Fu, Jesse Allardice, Zhengfeng Lai, Liangchen Song, Bowen Zhang, Cha Chen, Yiran Fei, Yifan Jiang, Lezhi Li, Yizhou Sun, Kai-Wei Chang, Yinfei Yang",
+            "summary": "The field of video generation has made remarkable advancements, yet there\nremains a pressing need for a clear, systematic recipe that can guide the\ndevelopment of robust and scalable models. In this work, we present a\ncomprehensive study that systematically explores the interplay of model\narchitectures, training recipes, and data curation strategies, culminating in a\nsimple and scalable text-image-conditioned video generation method, named STIV.\nOur framework integrates image condition into a Diffusion Transformer (DiT)\nthrough frame replacement, while incorporating text conditioning via a joint\nimage-text conditional classifier-free guidance. This design enables STIV to\nperform both text-to-video (T2V) and text-image-to-video (TI2V) tasks\nsimultaneously. Additionally, STIV can be easily extended to various\napplications, such as video prediction, frame interpolation, multi-view\ngeneration, and long video generation, etc. With comprehensive ablation studies\non T2I, T2V, and TI2V, STIV demonstrate strong performance, despite its simple\ndesign. An 8.7B model with 512 resolution achieves 83.1 on VBench T2V,\nsurpassing both leading open and closed-source models like CogVideoX-5B, Pika,\nKling, and Gen-3. The same-sized model also achieves a state-of-the-art result\nof 90.1 on VBench I2V task at 512 resolution. By providing a transparent and\nextensible recipe for building cutting-edge video generation models, we aim to\nempower future research and accelerate progress toward more versatile and\nreliable video generation solutions.",
+            "pdf_url": "http://arxiv.org/pdf/2412.07730v1",
+            "published": "2024-12-10 18:27:06+00:00",
+            "updated": "2024-12-10 18:27:06+00:00"
+        }
+    ]
+}
