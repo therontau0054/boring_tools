@@ -94,6 +94,31 @@ TODO:
 
 
 
+
+## Update on 2024-12-13
+
+### Physics
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2024-12-12|2024-12-12|Axionic quantum criticality of generalized Weyl semimetals|Gabriel Malave|[2412.09609v1](http://arxiv.org/pdf/2412.09609v1)|
+|2024-12-12|2024-12-12|Next-to-leading order evolution of structure functions without PDFs|Tuomas Lappi|[2412.09589v1](http://arxiv.org/pdf/2412.09589v1)|
+|2024-12-12|2024-12-12|SimAvatar: Simulation-Ready Avatars with Layered Hair and Clothing|Xueting Li|[2412.09545v1](http://arxiv.org/pdf/2412.09545v1)|
+|2024-12-12|2024-12-12|Les Houches lectures on two-dimensional gravity and holography|Gustavo J. Turiaci|[2412.09537v1](http://arxiv.org/pdf/2412.09537v1)|
+|2024-12-12|2024-12-12|Interpolating amplitudes|Víctor Bresó|[2412.09534v1](http://arxiv.org/pdf/2412.09534v1)|
+|2024-12-12|2024-12-12|High Precision Binding Energies from Physics Informed Machine Learning|Ian Bentley|[2412.09504v1](http://arxiv.org/pdf/2412.09504v1)|
+|2024-12-12|2024-12-12|Loss function to optimise signal significance in particle physics|Jai Bardhan|[2412.09500v1](http://arxiv.org/pdf/2412.09500v1)|
+|2024-12-12|2024-12-12|Framework for the Forced Soliton Equation: Regularization, Numerical Solutions, and Perturbation Theory|Zachary J. Allamon|[2412.09487v1](http://arxiv.org/pdf/2412.09487v1)|
+|2024-12-12|2024-12-12|Realization of strongly-interacting Meissner phases in large bosonic flux ladders|Alexander Impertro|[2412.09481v1](http://arxiv.org/pdf/2412.09481v1)|
+|2024-12-12|2024-12-12|Finite-PINN: A Physics-Informed Neural Network Architecture for Solving Solid Mechanics Problems with General Geometries|Haolin Li|[2412.09453v1](http://arxiv.org/pdf/2412.09453v1)|
+
+### Diffusion
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2024-10-23|2024-12-12|Training Free Guided Flow Matching with Optimal Control|Luran Wang|[2410.18070v2](http://arxiv.org/pdf/2410.18070v2)|
+|2024-12-12|2024-12-12|Learned Compression for Compressed Learning|Dan Jacobellis|[2412.09405v1](http://arxiv.org/pdf/2412.09405v1)|
+|2024-12-12|2024-12-12|UFO: Enhancing Diffusion-Based Video Generation with a Uniform Frame Organizer|Delong Liu|[2412.09389v1](http://arxiv.org/pdf/2412.09389v1)|
+|2024-12-12|2024-12-12|Diffusion Model with Representation Alignment for Protein Inverse Folding|Chenglin Wang|[2412.09380v1](http://arxiv.org/pdf/2412.09380v1)|
+|2024-12-12|2024-12-12|Diffusion Predictive Control with Constraints|Ralf Römer|[2412.09342v1](http://arxiv.org/pdf/2412.09342v1)|
 ## Update on 2024-12-11
 
 ### Physics
