@@ -95,6 +95,31 @@ TODO:
 
 
 
+
+## Update on 2024-12-17
+
+### Physics
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2023-12-28|2024-12-16|QGP Physics from Attractor Perturbations|Xin An|[2312.17237v2](http://arxiv.org/pdf/2312.17237v2)|
+|2024-12-16|2024-12-16|Extrapolating Jet Radiation with Autoregressive Transformers|Anja Butter|[2412.12074v1](http://arxiv.org/pdf/2412.12074v1)|
+|2024-12-16|2024-12-16|Accurate Surrogate Amplitudes with Calibrated Uncertainties|Henning Bahl|[2412.12069v1](http://arxiv.org/pdf/2412.12069v1)|
+|2024-12-16|2024-12-16|Quasinormal coupled-mode analysis of dynamic gain in exceptional-point lasers|Hao He|[2412.12066v1](http://arxiv.org/pdf/2412.12066v1)|
+|2024-07-09|2024-12-16|Quantum Frequency Mixing using an N-$V$ Diamond Microscope|Samuel J. Karlson|[2407.07025v2](http://arxiv.org/pdf/2407.07025v2)|
+|2024-12-16|2024-12-16|Geometrically constrained localized configurations engendering non-topological profile|D. Bazeia|[2412.12044v1](http://arxiv.org/pdf/2412.12044v1)|
+|2024-12-16|2024-12-16|Thermodynamics-informed graph neural networks for real-time simulation of digital human twins|Lucas Tesán|[2412.12034v1](http://arxiv.org/pdf/2412.12034v1)|
+|2024-12-16|2024-12-16|The causal structure of the quark propagator|Jan M. Pawlowski|[2412.12033v1](http://arxiv.org/pdf/2412.12033v1)|
+|2024-12-16|2024-12-16|Heterogeneous Freeform Metasurfaces: A Platform for Advanced Broadband Dispersion Engineering|Zhaoyi Li|[2412.12028v1](http://arxiv.org/pdf/2412.12028v1)|
+|2024-08-28|2024-12-16|Modelling the underlying event in photon-initiated processes|J. M. Butterworth|[2408.15842v2](http://arxiv.org/pdf/2408.15842v2)|
+
+### Diffusion
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2024-12-16|2024-12-16|FSFM: A Generalizable Face Security Foundation Model via Self-Supervised Facial Representation Learning|Gaojian Wang|[2412.12032v1](http://arxiv.org/pdf/2412.12032v1)|
+|2024-12-13|2024-12-16|BrushEdit: All-In-One Image Inpainting and Editing|Yaowei Li|[2412.10316v2](http://arxiv.org/pdf/2412.10316v2)|
+|2024-11-23|2024-12-16|EmotiveTalk: Expressive Talking Head Generation through Audio Information Decoupling and Emotional Video Diffusion|Haotian Wang|[2411.16726v2](http://arxiv.org/pdf/2411.16726v2)|
+|2024-05-25|2024-12-16|Diffusion-based Reinforcement Learning via Q-weighted Variational Policy Optimization|Shutong Ding|[2405.16173v3](http://arxiv.org/pdf/2405.16173v3)|
+|2024-12-16|2024-12-16|No More Adam: Learning Rate Scaling at Initialization is All You Need|Minghao Xu|[2412.11768v1](http://arxiv.org/pdf/2412.11768v1)|
 ## Update on 2024-12-13
 
 ### Physics
