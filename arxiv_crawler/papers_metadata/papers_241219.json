@@ -1,0 +1,136 @@
+{
+    "Physics": [
+        {
+            "title": "On the EFT validity for Drell-Yan tails at the LHC",
+            "authors": "Lukas Allwicher, Darius A. Faroughy, Matheus Martines, Olcyr Sumensari, Felix Wilsch",
+            "summary": "In this article, we examine the validity range of the Effective Field Theory\n(EFT) description of high-energy Drell-Yan processes at the LHC. To this\npurpose, we consider explicit mediators that contribute to these processes in\nthe $s$- and $t$-channels, comparing their effects in Drell-Yan distributions\nwith the ones obtained by matching onto the corresponding EFT. We determine the\nconditions for the EFT results to accurately describe these scenarios. In\nparticular, we explore the impact of including dimension-eight $(d=8)$\noperators in the faster convergence of the EFT series, at the analytical and\nnumerical level, considering contributions to the cross section up to the\nsquare of $d=8$ EFT operator insertions. Moreover, we discuss the possible\nimplications of clipping LHC data and illustrate results for a specific\nNew-Physics scenario motivated by low-energy flavor data.",
+            "pdf_url": "http://arxiv.org/pdf/2412.14162v1",
+            "published": "2024-12-18 18:56:13+00:00",
+            "updated": "2024-12-18 18:56:13+00:00"
+        },
+        {
+            "title": "$2\u03bd\u03b2\u03b2$ Spectrum in Chiral Effective Field Theory",
+            "authors": "Saad el Morabit, Ryan Bouabid, Vincenzo Cirigliano, Jordy de Vries, Luk\u00e1\u0161 Gr\u00e1f, Emanuele Mereghetti",
+            "summary": "We investigate two-neutrino double beta decay ($2\\nu\\beta\\beta$) in chiral\neffective field theory. We find contributions from weak magnetism and\ndouble-weak pion-exchange at next-to-leading-order in the chiral power\ncounting. We discuss the impact of the chiral corrections on the electron\nspectra and find that they should be included in analyses of $2\\nu\\beta\\beta$\ndecay that aim to uncover new physics signatures in the electron spectrum. We\nillustrate this point by revisiting the effect of sterile neutrinos and\nnon-standard charged interactions. We also find that the pion-exchange\ncontributions involve nuclear matrix elements that are related to those\nappearing in neutrinoless double beta decay ($0\\nu \\beta \\beta$). We\ninvestigate whether the $0\\nu \\beta \\beta$ nuclear matrix elements can be\nobtained from detailed measurements of the energy spectrum of the outgoing\nelectrons in $2\\nu\\beta\\beta$ transitions.",
+            "pdf_url": "http://arxiv.org/pdf/2412.14160v1",
+            "published": "2024-12-18 18:53:38+00:00",
+            "updated": "2024-12-18 18:53:38+00:00"
+        },
+        {
+            "title": "FAIR Universe HiggsML Uncertainty Challenge Competition",
+            "authors": "Wahid Bhimji, Paolo Calafiura, Ragansu Chakkappai, Po-Wen Chang, Yuan-Tang Chou, Sascha Diefenbacher, Jordan Dudley, Steven Farrell, Aishik Ghosh, Isabelle Guyon, Chris Harris, Shih-Chieh Hsu, Elham E Khoda, R\u00e9my Lyscar, Alexandre Michon, Benjamin Nachman, Peter Nugent, Mathis Reymond, David Rousseau, Benjamin Sluijter, Benjamin Thorne, Ihsan Ullah, Yulei Zhang",
+            "summary": "The FAIR Universe -- HiggsML Uncertainty Challenge focuses on measuring the\nphysics properties of elementary particles with imperfect simulators due to\ndifferences in modelling systematic errors. Additionally, the challenge is\nleveraging a large-compute-scale AI platform for sharing datasets, training\nmodels, and hosting machine learning competitions. Our challenge brings\ntogether the physics and machine learning communities to advance our\nunderstanding and methodologies in handling systematic (epistemic)\nuncertainties within AI techniques.",
+            "pdf_url": "http://arxiv.org/pdf/2410.02867v2",
+            "published": "2024-10-03 18:01:12+00:00",
+            "updated": "2024-12-18 18:49:32+00:00"
+        },
+        {
+            "title": "$B_c \\to \u03b7_c$ form factors at large recoil: Interplay of soft-quark and soft-gluon dynamics",
+            "authors": "Guido Bell, Philipp B\u00f6er, Thorsten Feldmann, Dennis Horstmann, Vladyslav Shtabovenko",
+            "summary": "We perform an all-order analysis of double-logarithmic corrections to the\nso-called soft-overlap contribution to heavy-to-light transition form factors\nat large hadronic recoil. Specifically, we study $B_c \\to \\eta_c$ transitions\nwithin a perturbative non-relativistic framework, treating both the bottom and\ncharm quarks as heavy with the hierarchy $m_b \\gg m_c \\gg\\Lambda_{\\rm QCD}$.\nOur diagrammatic analysis shows that double-logarithmic corrections arise from\ntwo distinct sources: Exponentiated soft-gluon effects described by standard\nSudakov factors, and rapidity-ordered soft-quark configurations, leading to\nimplicit integral equations, which so far have only been studied in the context\nof energetic muon-electron backward scattering. We find that the all-order\nstructure of the double logarithms is governed by a novel type of coupled\nintegral equations, which encode the non-trivial interplay between these two\neffects. Whereas a closed-form solution to these equations is currently\nunknown, we present useful iteration formulas, and derive the asymptotic\nbehaviour of the soft-overlap form factor for infinitely large recoil energies,\nshowing that the Sudakov suppression is somewhat weakened by the intertwined\nsoft-quark and soft-gluon corrections. In a broader context, our findings shed\nlight onto the physical origin and mathematical structure of endpoint\ndivergences arising from soft-collinear factorization and the related Feynman\nmechanism for power-suppressed hard exclusive processes.",
+            "pdf_url": "http://arxiv.org/pdf/2412.14149v1",
+            "published": "2024-12-18 18:45:35+00:00",
+            "updated": "2024-12-18 18:45:35+00:00"
+        },
+        {
+            "title": "Quantum fluid dimers of hyperbolic exciton-polariton condensates",
+            "authors": "Ioannis Georgakilas, Antonio Gianfrate, Dimitrios Trypogeorgos, Helgi Sigur\u00f0sson, Fabrizio Riminucci, Kirk W. Baldwin, Loren N. Pfeiffer, Milena De Giorgi, Dario Ballarini, Daniele Sanvitto",
+            "summary": "Coupled many-body quantum systems give rise to rich emergent physics and\nabundance of both stationary and dynamical behaviours. Designing platforms with\ntunable and distinct forms of coupling gives new insight into the collective\nbehaviour of the dimerised quantum systems. Fundamentally, two systems can\nexchange particles through either forbidden or allowed channels, underpinning\nevanescent and ballistic coupling mechanisms, respectively. Based on proximity,\nthe former leads to large spectral splitting that defines, for instance,\nchemical binding energies, whereas the latter pushes for stringent\nphase-matching and synchronicity between oscillating degrees-of-freedom,\nanalogous to phase-coupled harmonic oscillators, with a significantly smaller\nimpact on the energy landscape. Here, we demonstrate an all-optically tunable\nevanescent-ballistic quantum fluid dimer based on hyperbolic exciton-polariton\ncondensates in a photonic crystal waveguide. By changing the angle of the\npolariton dimer relative to the grating, the system transitions from an\nevanescently-coupled molecule with large mode-splitting to a ballistic\ncondensate dimer with strict phase-matching conditions and rich interference\npatterns. We directly measure the condensate spectral features and mass flow\nsubject to a saddle dispersion relation, and connect our results to mean field\ntheory. These results showcase the potential of photonic crystals to study\ncondensed matter phenomena lying at the interface between delay-coupled\nnonlinear oscillators and tight binding physics.",
+            "pdf_url": "http://arxiv.org/pdf/2412.14147v1",
+            "published": "2024-12-18 18:44:55+00:00",
+            "updated": "2024-12-18 18:44:55+00:00"
+        },
+        {
+            "title": "jinns: a JAX Library for Physics-Informed Neural Networks",
+            "authors": "Hugo Gangloff, Nicolas Jouvin",
+            "summary": "jinns is an open-source Python library for physics-informed neural networks,\nbuilt to tackle both forward and inverse problems, as well as meta-model\nlearning. Rooted in the JAX ecosystem, it provides a versatile framework for\nefficiently prototyping real-problems, while easily allowing extensions to\nspecific needs. Furthermore, the implementation leverages existing popular JAX\nlibraries such as equinox and optax for model definition and optimisation,\nbringing a sense of familiarity to the user. Many models are available as\nbaselines, and the documentation provides reference implementations of\ndifferent use-cases along with step-by-step tutorials for extensions to\nspecific needs. The code is available on Gitlab\nhttps://gitlab.com/mia_jinns/jinns.",
+            "pdf_url": "http://arxiv.org/pdf/2412.14132v1",
+            "published": "2024-12-18 18:21:41+00:00",
+            "updated": "2024-12-18 18:21:41+00:00"
+        },
+        {
+            "title": "The Neutrino Slice at Muon Colliders",
+            "authors": "Luc Bojorquez-Lopez, Matheus Hostert, Carlos A. Arg\u00fcelles, Zhen Liu",
+            "summary": "Muon colliders provide an exciting new path pushing forward the energy\nfrontier of particle physics. We point out a new use of these facilities for\nneutrino physics and beyond the Standard Model physics \\emph{using their main\ndetectors}. Muon decays along the main accelerator rings induce an intense,\nhighly collimated beam of neutrinos. As this beam crosses a thin slice of the\nkt-scale detector, it would induce unprecedented numbers of neutrino\ninteractions, with $\\mathcal{O}(10^4)$ events per second for a 10 TeV\n$\\mu^+\\mu^-$ collider. We characterize these events, showing that they are\nhighly energetic and possess a distinct timing signature with a large\ntransverse displacement. We discuss promising applications of these events for\ninstrumentation, electroweak, and beyond-the-Standard Model physics. For\ninstance, we show that a sub-percent measurement of the neutrino-electron\nscattering rate enables new precision measurements of the Weak angle and a\nnovel detection of the neutrino charge radius.",
+            "pdf_url": "http://arxiv.org/pdf/2412.14115v1",
+            "published": "2024-12-18 18:02:02+00:00",
+            "updated": "2024-12-18 18:02:02+00:00"
+        },
+        {
+            "title": "Gluon Unpolarized, Polarized, and Transversity GPDs from Lattice QCD: Lorentz-Covariant Parametrization (Part I)",
+            "authors": "Jakob Schoenleber, Raza Sabbir Sufian, Taku Izubuchi, Yi-Bo Yang",
+            "summary": "We identify the matrix elements necessary to determine the chiral-even\n$H_g,~E_g,~\\widetilde{H}_g,~\\widetilde{E}_g$ and chiral-odd $H^T_g,~E^T_g,\n\\widetilde{H}^T_g ,~\\widetilde{E}^T_g$ gluon generalized parton distributions\n(GPDs) in lattice QCD calculations. We present a method to achieve a\nLorentz-covariant parameterization of the matrix elements in terms of a\nlinearly independent basis of tensor structures. This parameterization is\ncrucial for projecting lattice QCD matrix elements onto lightcone\ndistributions. For the first time, we determine the corresponding components\nthat project onto the linear combinations of invariant amplitudes, which reduce\nto the different gluon GPDs in the lightcone limit and enable their separation\nin a lattice QCD calculation for spin-$0$ and spin-$\\frac{1}{2}$ hadrons.\nHence, this work lays the foundation for the numerical determination of the\ngluon GPDs from first-principle lattice QCD calculations, directly advancing\nour understanding of the mass and spin structures, and mechanical properties of\nthe nucleon, as well as the physics underlying deeply virtual Compton\nscattering and deeply virtual meson production in a range of experimental\nprocesses.",
+            "pdf_url": "http://arxiv.org/pdf/2412.14110v1",
+            "published": "2024-12-18 17:57:36+00:00",
+            "updated": "2024-12-18 17:57:36+00:00"
+        },
+        {
+            "title": "Path integral measure and RG equations for gravity",
+            "authors": "C. Branchina, V. Branchina, F. Contino, A. Pernace",
+            "summary": "Considering the Einstein-Hilbert truncation for the running action in\n(euclidean) quantum gravity, we derive the renormalization group equations for\nthe cosmological and Newton constant. We find that these equations admit only\nthe Gaussian fixed point with a UV-attractive and a UV-repulsive\neigendirection, and that there is no sign of the non-trivial UV-attractive\nfixed point of the asymptotic safety scenario. Crucial to our analysis is a\ncareful treatment of the measure in the path integral that defines the running\naction and a proper introduction of the physical running scale $k$. We also\nshow why and how in usual implementations of the RG equations the\naforementioned UV-attractive fixed point is generated.",
+            "pdf_url": "http://arxiv.org/pdf/2412.14108v1",
+            "published": "2024-12-18 17:52:01+00:00",
+            "updated": "2024-12-18 17:52:01+00:00"
+        },
+        {
+            "title": "Hyperbolic Quantum Processor",
+            "authors": "Evgenii E. Narimanov, Eugene A. Demler",
+            "summary": "Achieving strong coherent interaction between qubits separated by large\ndistances holds the key to many important developments in quantum technology,\nincluding new designs of quantum computers, new platforms for quantum\nsimulations and implementation of large scale quantum optical networks.\nHowever, the inherent mismatch between the spatial dimensions of a quantum\nemitter and the photon wavelength fundamentally limits the transmission of\nquantum entanglement over long distances. Here we demonstrate, that long-range\nqubit entanglement can be readily achieved when qubit interactions are mediated\nby optical polariton waves in a hyperbolic material, due to the phenomenon of\nthe Hyperbolic Super-Resonance. We show that in this regime the resulting\nquantum gate fidelity that exceeds 99%, can be achieved with the use of qubits\nbased on well known deep donors in silicon when their interactions are mediated\nby polariton fields in the substrate formed by a hyperbolic material (such as\ne.g. hexagonal boron nitride. At the physical level the proposed system is\nessentially a silicon-based optoelectronic chip, and it's readily accessible to\nthe existing methods of semiconductor nanofabrication, leading to the\nintegration densities of well over 10^8. qubits/cm^2, and therefore opening the\nway to scalable and fault-tolerant error correction in quantum computation.\nFurthermore, we demonstrate that, due to the optical time scales that define\nthe duration of the gate operation in the proposed system, and sub-nanosecond\ntime of the decoherence in deep donors in silicon at the liquid nitrogen\ntemperatures, the proposed Hyperbolic Quantum Processor does not require\ndilution refrigeration and therefore offers a pathway to bring quantum\ncomputation to the realm of conventional engineering.",
+            "pdf_url": "http://arxiv.org/pdf/2412.14098v1",
+            "published": "2024-12-18 17:48:21+00:00",
+            "updated": "2024-12-18 17:48:21+00:00"
+        }
+    ],
+    "Diffusion": [
+        {
+            "title": "E-CAR: Efficient Continuous Autoregressive Image Generation via Multistage Modeling",
+            "authors": "Zhihang Yuan, Yuzhang Shang, Hanling Zhang, Tongcheng Fang, Rui Xie, Bingxin Xu, Yan Yan, Shengen Yan, Guohao Dai, Yu Wang",
+            "summary": "Recent advances in autoregressive (AR) models with continuous tokens for\nimage generation show promising results by eliminating the need for discrete\ntokenization. However, these models face efficiency challenges due to their\nsequential token generation nature and reliance on computationally intensive\ndiffusion-based sampling. We present ECAR (Efficient Continuous Auto-Regressive\nImage Generation via Multistage Modeling), an approach that addresses these\nlimitations through two intertwined innovations: (1) a stage-wise continuous\ntoken generation strategy that reduces computational complexity and provides\nprogressively refined token maps as hierarchical conditions, and (2) a\nmultistage flow-based distribution modeling method that transforms only\npartial-denoised distributions at each stage comparing to complete denoising in\nnormal diffusion models. Holistically, ECAR operates by generating tokens at\nincreasing resolutions while simultaneously denoising the image at each stage.\nThis design not only reduces token-to-image transformation cost by a factor of\nthe stage number but also enables parallel processing at the token level. Our\napproach not only enhances computational efficiency but also aligns naturally\nwith image generation principles by operating in continuous token space and\nfollowing a hierarchical generation process from coarse to fine details.\nExperimental results demonstrate that ECAR achieves comparable image quality to\nDiT Peebles & Xie [2023] while requiring 10$\\times$ FLOPs reduction and\n5$\\times$ speedup to generate a 256$\\times$256 image.",
+            "pdf_url": "http://arxiv.org/pdf/2412.14170v1",
+            "published": "2024-12-18 18:59:53+00:00",
+            "updated": "2024-12-18 18:59:53+00:00"
+        },
+        {
+            "title": "VideoDPO: Omni-Preference Alignment for Video Diffusion Generation",
+            "authors": "Runtao Liu, Haoyu Wu, Zheng Ziqiang, Chen Wei, Yingqing He, Renjie Pi, Qifeng Chen",
+            "summary": "Recent progress in generative diffusion models has greatly advanced\ntext-to-video generation. While text-to-video models trained on large-scale,\ndiverse datasets can produce varied outputs, these generations often deviate\nfrom user preferences, highlighting the need for preference alignment on\npre-trained models. Although Direct Preference Optimization (DPO) has\ndemonstrated significant improvements in language and image generation, we\npioneer its adaptation to video diffusion models and propose a VideoDPO\npipeline by making several key adjustments. Unlike previous image alignment\nmethods that focus solely on either (i) visual quality or (ii) semantic\nalignment between text and videos, we comprehensively consider both dimensions\nand construct a preference score accordingly, which we term the OmniScore. We\ndesign a pipeline to automatically collect preference pair data based on the\nproposed OmniScore and discover that re-weighting these pairs based on the\nscore significantly impacts overall preference alignment. Our experiments\ndemonstrate substantial improvements in both visual quality and semantic\nalignment, ensuring that no preference aspect is neglected. Code and data will\nbe shared at https://videodpo.github.io/.",
+            "pdf_url": "http://arxiv.org/pdf/2412.14167v1",
+            "published": "2024-12-18 18:59:49+00:00",
+            "updated": "2024-12-18 18:59:49+00:00"
+        },
+        {
+            "title": "AKiRa: Augmentation Kit on Rays for optical video generation",
+            "authors": "Xi Wang, Robin Courant, Marc Christie, Vicky Kalogeiton",
+            "summary": "Recent advances in text-conditioned video diffusion have greatly improved\nvideo quality. However, these methods offer limited or sometimes no control to\nusers on camera aspects, including dynamic camera motion, zoom, distorted lens\nand focus shifts. These motion and optical aspects are crucial for adding\ncontrollability and cinematic elements to generation frameworks, ultimately\nresulting in visual content that draws focus, enhances mood, and guides\nemotions according to filmmakers' controls. In this paper, we aim to close the\ngap between controllable video generation and camera optics. To achieve this,\nwe propose AKiRa (Augmentation Kit on Rays), a novel augmentation framework\nthat builds and trains a camera adapter with a complex camera model over an\nexisting video generation backbone. It enables fine-tuned control over camera\nmotion as well as complex optical parameters (focal length, distortion,\naperture) to achieve cinematic effects such as zoom, fisheye effect, and bokeh.\nExtensive experiments demonstrate AKiRa's effectiveness in combining and\ncomposing camera optics while outperforming all state-of-the-art methods. This\nwork sets a new landmark in controlled and optically enhanced video generation,\npaving the way for future optical video generation methods.",
+            "pdf_url": "http://arxiv.org/pdf/2412.14158v1",
+            "published": "2024-12-18 18:53:22+00:00",
+            "updated": "2024-12-18 18:53:22+00:00"
+        },
+        {
+            "title": "Go With the Flow: Fast Diffusion for Gaussian Mixture Models",
+            "authors": "George Rapakoulias, Ali Reza Pedram, Panagiotis Tsiotras",
+            "summary": "Schr\\\"{o}dinger Bridges (SB) are diffusion processes that steer, in finite\ntime, a given initial distribution to another final one while minimizing a\nsuitable cost functional. Although various methods for computing SBs have\nrecently been proposed in the literature, most of these approaches require\ncomputationally expensive training schemes, even for solving low-dimensional\nproblems. In this work, we propose an analytic parametrization of a set of\nfeasible policies for steering the distribution of a dynamical system from one\nGaussian Mixture Model (GMM) to another. Instead of relying on standard\nnon-convex optimization techniques, the optimal policy within the set can be\napproximated as the solution of a low-dimensional linear program whose\ndimension scales linearly with the number of components in each mixture.\nFurthermore, our method generalizes naturally to more general classes of\ndynamical systems such as controllable Linear Time-Varying systems that cannot\ncurrently be solved using traditional neural SB approaches. We showcase the\npotential of this approach in low-to-moderate dimensional problems such as\nimage-to-image translation in the latent space of an autoencoder, and various\nother examples. We also benchmark our approach on an Entropic Optimal Transport\n(EOT) problem and show that it outperforms state-of-the-art methods in cases\nwhere the boundary distributions are mixture models while requiring virtually\nno training.",
+            "pdf_url": "http://arxiv.org/pdf/2412.09059v2",
+            "published": "2024-12-12 08:40:22+00:00",
+            "updated": "2024-12-18 18:20:14+00:00"
+        },
+        {
+            "title": "SwiftTry: Fast and Consistent Video Virtual Try-On with Diffusion Models",
+            "authors": "Hung Nguyen, Quang Qui-Vinh Nguyen, Khoi Nguyen, Rang Nguyen",
+            "summary": "Given an input video of a person and a new garment, the objective of this\npaper is to synthesize a new video where the person is wearing the specified\ngarment while maintaining spatiotemporal consistency. Although significant\nadvances have been made in image-based virtual try-on, extending these\nsuccesses to video often leads to frame-to-frame inconsistencies. Some\napproaches have attempted to address this by increasing the overlap of frames\nacross multiple video chunks, but this comes at a steep computational cost due\nto the repeated processing of the same frames, especially for long video\nsequences. To tackle these challenges, we reconceptualize video virtual try-on\nas a conditional video inpainting task, with garments serving as input\nconditions. Specifically, our approach enhances image diffusion models by\nincorporating temporal attention layers to improve temporal coherence. To\nreduce computational overhead, we propose ShiftCaching, a novel technique that\nmaintains temporal consistency while minimizing redundant computations.\nFurthermore, we introduce the TikTokDress dataset, a new video try-on dataset\nfeaturing more complex backgrounds, challenging movements, and higher\nresolution compared to existing public datasets. Extensive experiments\ndemonstrate that our approach outperforms current baselines, particularly in\nterms of video consistency and inference speed. The project page is available\nat https://swift-try.github.io/.",
+            "pdf_url": "http://arxiv.org/pdf/2412.10178v2",
+            "published": "2024-12-13 14:50:26+00:00",
+            "updated": "2024-12-18 18:05:43+00:00"
+        }
+    ],
+    "Quantitative Finance": [
+        {
+            "title": "Interpretable LLM-based Table Question Answering",
+            "authors": "Giang, Nguyen, Ivan Brugere, Shubham Sharma, Sanjay Kariyappa, Anh Totti Nguyen, Freddy Lecue",
+            "summary": "Interpretability for Table Question Answering (Table QA) is critical,\nparticularly in high-stakes industries like finance or healthcare. Although\nrecent approaches using Large Language Models (LLMs) have significantly\nimproved Table QA performance, their explanations for how the answers are\ngenerated are ambiguous. To fill this gap, we introduce Plan-of-SQLs ( or POS),\nan interpretable, effective, and efficient approach to Table QA that answers an\ninput query solely with SQL executions. Through qualitative and quantitative\nevaluations with human and LLM judges, we show that POS is most preferred among\nexplanation methods, helps human users understand model decision boundaries,\nand facilitates model success and error identification. Furthermore, when\nevaluated in standard benchmarks (TabFact, WikiTQ, and FetaQA), POS achieves\ncompetitive or superior accuracy compared to existing methods, while\nmaintaining greater efficiency by requiring significantly fewer LLM calls and\ndatabase queries.",
+            "pdf_url": "http://arxiv.org/pdf/2412.12386v1",
+            "published": "2024-12-16 22:44:31+00:00",
+            "updated": "2024-12-16 22:44:31+00:00"
+        }
+    ]
+}

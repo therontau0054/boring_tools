@@ -96,6 +96,36 @@ TODO:
 
 
 
+
+## Update on 2024-12-19
+
+### Physics
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2024-12-18|2024-12-18|On the EFT validity for Drell-Yan tails at the LHC|Lukas Allwicher|[2412.14162v1](http://arxiv.org/pdf/2412.14162v1)|
+|2024-12-18|2024-12-18|$2νββ$ Spectrum in Chiral Effective Field Theory|Saad el Morabit|[2412.14160v1](http://arxiv.org/pdf/2412.14160v1)|
+|2024-10-03|2024-12-18|FAIR Universe HiggsML Uncertainty Challenge Competition|Wahid Bhimji|[2410.02867v2](http://arxiv.org/pdf/2410.02867v2)|
+|2024-12-18|2024-12-18|$B_c \to η_c$ form factors at large recoil: Interplay of soft-quark and soft-gluon dynamics|Guido Bell|[2412.14149v1](http://arxiv.org/pdf/2412.14149v1)|
+|2024-12-18|2024-12-18|Quantum fluid dimers of hyperbolic exciton-polariton condensates|Ioannis Georgakilas|[2412.14147v1](http://arxiv.org/pdf/2412.14147v1)|
+|2024-12-18|2024-12-18|jinns: a JAX Library for Physics-Informed Neural Networks|Hugo Gangloff|[2412.14132v1](http://arxiv.org/pdf/2412.14132v1)|
+|2024-12-18|2024-12-18|The Neutrino Slice at Muon Colliders|Luc Bojorquez-Lopez|[2412.14115v1](http://arxiv.org/pdf/2412.14115v1)|
+|2024-12-18|2024-12-18|Gluon Unpolarized, Polarized, and Transversity GPDs from Lattice QCD: Lorentz-Covariant Parametrization (Part I)|Jakob Schoenleber|[2412.14110v1](http://arxiv.org/pdf/2412.14110v1)|
+|2024-12-18|2024-12-18|Path integral measure and RG equations for gravity|C. Branchina|[2412.14108v1](http://arxiv.org/pdf/2412.14108v1)|
+|2024-12-18|2024-12-18|Hyperbolic Quantum Processor|Evgenii E. Narimanov|[2412.14098v1](http://arxiv.org/pdf/2412.14098v1)|
+
+### Diffusion
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2024-12-18|2024-12-18|E-CAR: Efficient Continuous Autoregressive Image Generation via Multistage Modeling|Zhihang Yuan|[2412.14170v1](http://arxiv.org/pdf/2412.14170v1)|
+|2024-12-18|2024-12-18|VideoDPO: Omni-Preference Alignment for Video Diffusion Generation|Runtao Liu|[2412.14167v1](http://arxiv.org/pdf/2412.14167v1)|
+|2024-12-18|2024-12-18|AKiRa: Augmentation Kit on Rays for optical video generation|Xi Wang|[2412.14158v1](http://arxiv.org/pdf/2412.14158v1)|
+|2024-12-12|2024-12-18|Go With the Flow: Fast Diffusion for Gaussian Mixture Models|George Rapakoulias|[2412.09059v2](http://arxiv.org/pdf/2412.09059v2)|
+|2024-12-13|2024-12-18|SwiftTry: Fast and Consistent Video Virtual Try-On with Diffusion Models|Hung Nguyen|[2412.10178v2](http://arxiv.org/pdf/2412.10178v2)|
+
+### Quantitative Finance
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2024-12-16|2024-12-16|Interpretable LLM-based Table Question Answering|Giang|[2412.12386v1](http://arxiv.org/pdf/2412.12386v1)|
 ## Update on 2024-12-17
 
 ### Physics
