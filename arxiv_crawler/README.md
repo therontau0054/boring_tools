@@ -97,6 +97,31 @@ TODO:
 
 
 
+
+## Update on 2024-12-21
+
+### Physics
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2024-12-19|2024-12-19|LiDAR-RT: Gaussian-based Ray Tracing for Dynamic LiDAR Re-simulation|Chenxu Zhou|[2412.15199v1](http://arxiv.org/pdf/2412.15199v1)|
+|2024-12-19|2024-12-19|Flavor at FASER: Discovering Light Scalars Beyond Minimal Flavor Violation|Reuven Balkin|[2412.15197v1](http://arxiv.org/pdf/2412.15197v1)|
+|2024-12-19|2024-12-19|Capturing the Page Curve and Entanglement Dynamics of Black Holes in Quantum Computers|Talal Ahmed Chowdhury|[2412.15180v1](http://arxiv.org/pdf/2412.15180v1)|
+|2024-12-19|2024-12-19|Experimental Demonstration of Logical Magic State Distillation|Pedro Sales Rodriguez|[2412.15165v1](http://arxiv.org/pdf/2412.15165v1)|
+|2024-12-19|2024-12-19|Primordial Gravitational Wave Probes of Non-Standard Thermal Histories|Annet Konings|[2412.15144v1](http://arxiv.org/pdf/2412.15144v1)|
+|2024-12-19|2024-12-19|On the perturbed Friedmann equations in Newtonian Gauge|Jaume de Haro|[2412.15139v1](http://arxiv.org/pdf/2412.15139v1)|
+|2024-12-19|2024-12-19|Observation of $VVZ$ production at $\sqrt{s}=13$ TeV with the ATLAS detector|ATLAS Collaboration|[2412.15123v1](http://arxiv.org/pdf/2412.15123v1)|
+|2024-12-19|2024-12-19|Exploiting sparse structures and synergy designs to advance situational awareness of electrical power grid|Shimiao Li|[2412.15105v1](http://arxiv.org/pdf/2412.15105v1)|
+|2024-12-19|2024-12-19|Expected Tracking Performance of the ATLAS Inner Tracker at the High-Luminosity LHC|ATLAS Collaboration|[2412.15090v1](http://arxiv.org/pdf/2412.15090v1)|
+|2024-12-19|2024-12-19|DroughtSet: Understanding Drought Through Spatial-Temporal Learning|Xuwei Tan|[2412.15075v1](http://arxiv.org/pdf/2412.15075v1)|
+
+### Diffusion
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2024-12-19|2024-12-19|DI-PCG: Diffusion-based Efficient Inverse Procedural Content Generation for High-quality 3D Asset Creation|Wang Zhao|[2412.15200v1](http://arxiv.org/pdf/2412.15200v1)|
+|2024-12-19|2024-12-19|AV-Link: Temporally-Aligned Diffusion Features for Cross-Modal Audio-Video Generation|Moayed Haji-Ali|[2412.15191v1](http://arxiv.org/pdf/2412.15191v1)|
+|2024-12-19|2024-12-19|LlamaFusion: Adapting Pretrained Language Models for Multimodal Generation|Weijia Shi|[2412.15188v1](http://arxiv.org/pdf/2412.15188v1)|
+|2024-12-19|2024-12-19|Tiled Diffusion|Or Madar|[2412.15185v1](http://arxiv.org/pdf/2412.15185v1)|
+|2024-12-19|2024-12-19|Jet: A Modern Transformer-Based Normalizing Flow|Alexander Kolesnikov|[2412.15129v1](http://arxiv.org/pdf/2412.15129v1)|
 ## Update on 2024-12-19
 
 ### Physics
