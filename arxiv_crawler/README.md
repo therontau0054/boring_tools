@@ -98,6 +98,36 @@ TODO:
 
 
 
+
+## Update on 2024-12-23
+
+### Physics
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2024-12-06|2024-12-20|The Status of Neutrino Cosmology: Standard $Λ$CDM, Extensions, and Tensions|Helena García Escudero|[2412.05451v2](http://arxiv.org/pdf/2412.05451v2)|
+|2024-06-17|2024-12-20|Realizability-Informed Machine Learning for Turbulence Anisotropy Mappings|Ryley McConkey|[2406.11603v2](http://arxiv.org/pdf/2406.11603v2)|
+|2024-12-20|2024-12-20|Cross-sectional Topology Optimization of Slender Soft Pneumatic Actuators using Genetic Algorithms and Geometrically Exact Beam Models|Leon Schindler|[2412.16138v1](http://arxiv.org/pdf/2412.16138v1)|
+|2023-07-04|2024-12-20|Learning ECG Signal Features Without Backpropagation Using Linear Laws|Péter Pósfay|[2307.01930v2](http://arxiv.org/pdf/2307.01930v2)|
+|2024-12-20|2024-12-20|Convolutional Deep Operator Networks for Learning Nonlinear Focused Ultrasound Wave Propagation in Heterogeneous Spinal Cord Anatomy|Avisha Kumar|[2412.16118v1](http://arxiv.org/pdf/2412.16118v1)|
+|2024-12-20|2024-12-20|Explainable AI for Multivariate Time Series Pattern Exploration: Latent Space Visual Analytics with Time Fusion Transformer and Variational Autoencoders in Power Grid Event Diagnosis|Haowen Xu|[2412.16098v1](http://arxiv.org/pdf/2412.16098v1)|
+|2024-06-12|2024-12-20|Robust gap closing and reopening in topological-insulator Josephson junctions|Jakob Schluck|[2406.08265v2](http://arxiv.org/pdf/2406.08265v2)|
+|2024-12-20|2024-12-20|Electroweak corrections in the SMEFT: four-fermion operators at high energies|Hesham El Faham|[2412.16076v1](http://arxiv.org/pdf/2412.16076v1)|
+|2023-08-28|2024-12-20|Pinning down electron correlations in RaF via spectroscopy of excited states and high-accuracy relativistic quantum chemistry|M. Athanasakis-Kaklamanakis|[2308.14862v2](http://arxiv.org/pdf/2308.14862v2)|
+|2024-12-01|2024-12-20|Thunderscapes: Simulating the Dynamics of Mesoscale Convective System|Tianchen Hao|[2412.00703v3](http://arxiv.org/pdf/2412.00703v3)|
+
+### Diffusion
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2024-12-20|2024-12-20|Personalized Representation from Personalized Generation|Shobhita Sundaram|[2412.16156v1](http://arxiv.org/pdf/2412.16156v1)|
+|2024-01-19|2024-12-20|Synthesizing Moving People with 3D Control|Boyi Li|[2401.10889v2](http://arxiv.org/pdf/2401.10889v2)|
+|2024-12-20|2024-12-20|Differentially Private Federated Learning of Diffusion Models for Synthetic Tabular Data Generation|Timur Sattarov|[2412.16083v1](http://arxiv.org/pdf/2412.16083v1)|
+|2024-12-20|2024-12-20|Label-Efficient Data Augmentation with Video Diffusion Models for Guidewire Segmentation in Cardiac Fluoroscopy|Shaoyan Pan|[2412.16050v1](http://arxiv.org/pdf/2412.16050v1)|
+|2024-06-06|2024-12-20|Single Exposure Quantitative Phase Imaging with a Conventional Microscope using Diffusion Models|Gabriel della Maggiora|[2406.04388v2](http://arxiv.org/pdf/2406.04388v2)|
+
+### Quantitative Finance
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2024-12-20|2024-12-20|Correct implied volatility shapes and reliable pricing in the rough Heston model|Svetlana Boyarchenko|[2412.16067v1](http://arxiv.org/pdf/2412.16067v1)|
 ## Update on 2024-12-21
 
 ### Physics
