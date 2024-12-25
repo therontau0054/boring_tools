@@ -99,6 +99,31 @@ TODO:
 
 
 
+
+## Update on 2024-12-25
+
+### Physics
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2024-12-24|2024-12-24|Crosscap Quenches and Entanglement Evolution|Zixia Wei|[2412.18610v1](http://arxiv.org/pdf/2412.18610v1)|
+|2024-12-24|2024-12-24|A Paragraph is All It Takes: Rich Robot Behaviors from Interacting, Trusted LLMs|OpenMind|[2412.18588v1](http://arxiv.org/pdf/2412.18588v1)|
+|2024-12-24|2024-12-24|ReducedLUT: Table Decomposition with "Don't Care" Conditions|Oliver Cassidy|[2412.18579v1](http://arxiv.org/pdf/2412.18579v1)|
+|2024-12-24|2024-12-24|Randomized Benchmarking with Synthetic Quantum Circuits|Yale Fan|[2412.18578v1](http://arxiv.org/pdf/2412.18578v1)|
+|2024-12-24|2024-12-24|Scalable Quantum-Inspired Optimization through Dynamic Qubit Compression|Co Tran|[2412.18571v1](http://arxiv.org/pdf/2412.18571v1)|
+|2024-12-24|2024-12-24|Efficient Aircraft Design Optimization Using Multi-Fidelity Models and Multi-fidelity Physics Informed Neural Networks|Apurba Sarker|[2412.18564v1](http://arxiv.org/pdf/2412.18564v1)|
+|2024-06-11|2024-12-24|Spread Complexity of High Energy Neutrino Propagation over Astrophysical Distances|Khushboo Dixit|[2406.07491v2](http://arxiv.org/pdf/2406.07491v2)|
+|2024-12-24|2024-12-24|Fano physics behind the N-resonance in graphene|R. O. Kuzian|[2412.18561v1](http://arxiv.org/pdf/2412.18561v1)|
+|2024-12-13|2024-12-24|Born-Oppenheimer Renormalization group for High Energy Scattering: the Modified BFKL, or where did it all go?|Haowu Duan|[2412.10560v2](http://arxiv.org/pdf/2412.10560v2)|
+|2024-12-24|2024-12-24|Post-pandemic social contacts in Italy: implications for social distancing measures on in-person school and work attendance|Lorenzo Lucchini|[2412.18549v1](http://arxiv.org/pdf/2412.18549v1)|
+
+### Diffusion
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2024-12-24|2024-12-24|DiTCtrl: Exploring Attention Control in Multi-Modal Diffusion Transformer for Tuning-Free Multi-Prompt Longer Video Generation|Minghong Cai|[2412.18597v1](http://arxiv.org/pdf/2412.18597v1)|
+|2024-12-24|2024-12-24|Resolution-Robust 3D MRI Reconstruction with 2D Diffusion Priors: Diverse-Resolution Training Outperforms Interpolation|Anselm Krainovic|[2412.18584v1](http://arxiv.org/pdf/2412.18584v1)|
+|2024-12-13|2024-12-24|CognitionCapturer: Decoding Visual Stimuli From Human EEG Signal With Multimodal Information|Kaifan Zhang|[2412.10489v2](http://arxiv.org/pdf/2412.10489v2)|
+|2024-12-24|2024-12-24|Discovery of 2D Materials via Symmetry-Constrained Diffusion Model|Shihang Xu|[2412.18414v1](http://arxiv.org/pdf/2412.18414v1)|
+|2024-12-24|2024-12-24|RDPM: Solve Diffusion Probabilistic Models via Recurrent Token Prediction|Wu Xiaoping|[2412.18390v1](http://arxiv.org/pdf/2412.18390v1)|
 ## Update on 2024-12-23
 
 ### Physics
