@@ -100,6 +100,37 @@ TODO:
 
 
 
+
+## Update on 2024-12-31
+
+### Physics
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2024-05-02|2024-12-30|Optimal-order Trotter-Suzuki decomposition for quantum simulation on noisy quantum computers|A. A. Avtandilyan|[2405.01131v3](http://arxiv.org/pdf/2405.01131v3)|
+|2024-12-30|2024-12-30|Cut-Out Wedges in $H_{3}$ and the Borel-Resurgent Chern-Simons Matrix Integrals|Tuo Jia|[2412.21190v1](http://arxiv.org/pdf/2412.21190v1)|
+|2024-12-30|2024-12-30|Quantum algorithms for the simulation of QCD processes in the perturbative regime|Herschel A. Chawdhry|[2412.21177v1](http://arxiv.org/pdf/2412.21177v1)|
+|2024-12-30|2024-12-30|Hint at an axion-like particle from GRB 221009A|Giorgio Galanti|[2412.21175v1](http://arxiv.org/pdf/2412.21175v1)|
+|2024-12-30|2024-12-30|Quantum Error Correction near the Coding Theoretical Bound|Daiki Komoto|[2412.21171v1](http://arxiv.org/pdf/2412.21171v1)|
+|2024-12-30|2024-12-30|Causality and Stability from Acoustic Geometry|Ignacy Sawicki|[2412.21169v1](http://arxiv.org/pdf/2412.21169v1)|
+|2024-12-30|2024-12-30|Measuring Quantum Discord at the LHC|Tao Han|[2412.21158v1](http://arxiv.org/pdf/2412.21158v1)|
+|2024-12-30|2024-12-30|Systematic Benchmarking of Macrosegregation: The Performance of a Modified Hybrid Model|Ali Moeinirad|[2412.21143v1](http://arxiv.org/pdf/2412.21143v1)|
+|2024-12-30|2024-12-30|DeepF-fNet: a physics-informed neural network for vibration isolation optimization|A. Tollardo|[2412.21132v1](http://arxiv.org/pdf/2412.21132v1)|
+|2024-12-24|2024-12-30|High-Rank Irreducible Cartesian Tensor Decomposition and Bases of Equivariant Spaces|Shihao Shao|[2412.18263v2](http://arxiv.org/pdf/2412.18263v2)|
+
+### Diffusion
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2024-12-30|2024-12-30|Sparse chaos in cortical circuits|Rainer Engelken|[2412.21188v1](http://arxiv.org/pdf/2412.21188v1)|
+|2024-12-30|2024-12-30|Quantum Diffusion Model for Quark and Gluon Jet Generation|Mariia Baidachna|[2412.21082v1](http://arxiv.org/pdf/2412.21082v1)|
+|2024-12-23|2024-12-30|PepTune: De Novo Generation of Therapeutic Peptides with Multi-Objective-Guided Discrete Diffusion|Sophia Tang|[2412.17780v2](http://arxiv.org/pdf/2412.17780v2)|
+|2024-12-30|2024-12-30|BridgePure: Revealing the Fragility of Black-box Data Protection|Yihan Wang|[2412.21061v1](http://arxiv.org/pdf/2412.21061v1)|
+|2024-12-30|2024-12-30|AlignAb: Pareto-Optimal Energy Alignment for Designing Nature-Like Antibodies|Yibo Wen|[2412.20984v1](http://arxiv.org/pdf/2412.20984v1)|
+
+### Quantitative Finance
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2024-09-24|2024-12-30|GISExplainer: On Explainability of Graph Neural Networks via Game-theoretic Interaction Subgraphs|Xingping Xian|[2409.15698v2](http://arxiv.org/pdf/2409.15698v2)|
+|2024-12-13|2024-12-13|Digital transformation: A systematic review and bibliometric analysis from the corporate finance perspective|Ping Zhang|[2412.19817v1](http://arxiv.org/pdf/2412.19817v1)|
 ## Update on 2024-12-25
 
 ### Physics
