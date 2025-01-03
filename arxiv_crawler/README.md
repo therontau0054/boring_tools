@@ -101,6 +101,31 @@ TODO:
 
 
 
+
+## Update on 2025-01-03
+
+### Physics
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2024-08-21|2025-01-02|Neutrino Nonstandard Interactions and Lepton Flavor Universality violation at SND@LHC via charm production|Bhubanjyoti Bhattacharya|[2408.11897v3](http://arxiv.org/pdf/2408.11897v3)|
+|2024-08-07|2025-01-02|Design, Construction, and Test of Compact, Distributed-Charge, X-Band Accelerator Systems that Enable Image-Guided, VHEE FLASH Radiotherapy|Christopher P. J. Barty|[2408.04082v2](http://arxiv.org/pdf/2408.04082v2)|
+|2024-12-24|2025-01-02|PyAtoms: An interactive tool for rapidly simulating atomic scanning tunneling microscopy images of 2D materials, moiré systems and superlattices|Christopher Gutiérrez|[2412.18332v2](http://arxiv.org/pdf/2412.18332v2)|
+|2024-06-19|2025-01-02|Landau Level Single-Electron Pumping|E. Pyurbeeva|[2406.13615v3](http://arxiv.org/pdf/2406.13615v3)|
+|2024-12-17|2025-01-02|A family of instanton-invariants for four-manifolds and their relation to Khovanov homology|Michael Bleher|[2412.13285v2](http://arxiv.org/pdf/2412.13285v2)|
+|2024-10-14|2025-01-02|Variational autoencoders with latent high-dimensional steady geometric flows for dynamics|Andrew Gracyk|[2410.10137v4](http://arxiv.org/pdf/2410.10137v4)|
+|2025-01-02|2025-01-02|Harnessing Hardware Acceleration in High-Energy Physics through High-Level Synthesis Techniques|Pelayo Leguina López|[2501.01338v1](http://arxiv.org/pdf/2501.01338v1)|
+|2020-12-10|2025-01-02|Commutative Evolution Laws in Holographic Cellular Automata: AdS/CFT, Near-Extremal D3-Branes, and a Deep Learning Approach|Hyunju Go|[2012.06441v8](http://arxiv.org/pdf/2012.06441v8)|
+|2025-01-02|2025-01-02|Gravitational waves from color restoration in a leptoquark model of radiative neutrino masses|Mårten Bertenstam|[2501.01286v1](http://arxiv.org/pdf/2501.01286v1)|
+|2024-12-12|2025-01-02|DeWitt wave functions for de Sitter JT gravity|Wilfried Buchmuller|[2412.09211v2](http://arxiv.org/pdf/2412.09211v2)|
+
+### Diffusion
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-01-02|2025-01-02|Object-level Visual Prompts for Compositional Image Generation|Gaurav Parmar|[2501.01424v1](http://arxiv.org/pdf/2501.01424v1)|
+|2025-01-02|2025-01-02|Reconstruction vs. Generation: Taming Optimization Dilemma in Latent Diffusion Models|Jingfeng Yao|[2501.01423v1](http://arxiv.org/pdf/2501.01423v1)|
+|2024-02-08|2025-01-02|Text2Data: Low-Resource Data Generation with Textual Control|Shiyu Wang|[2402.10941v2](http://arxiv.org/pdf/2402.10941v2)|
+|2024-12-19|2025-01-02|Stable-V2A: Synthesis of Synchronized Sound Effects with Temporal and Semantic Controls|Riccardo Fosco Gramaccioni|[2412.15023v2](http://arxiv.org/pdf/2412.15023v2)|
+|2024-04-19|2025-01-02|Generative Modelling with High-Order Langevin Dynamics|Ziqiang Shi|[2404.12814v3](http://arxiv.org/pdf/2404.12814v3)|
 ## Update on 2024-12-31
 
 ### Physics
