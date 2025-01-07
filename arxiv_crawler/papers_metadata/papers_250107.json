@@ -1,0 +1,110 @@
+{
+    "Physics": [
+        {
+            "title": "Quantum Error Correction Without Encoding via the Circulant Structure of Pauli Noise and the Fast Fourier Transform",
+            "authors": "Alvin Gonzales",
+            "summary": "This work introduces a method for correcting the output distribution of a\nquantum computer that does not require encoding of the logical qubits into more\nphysical qubits. Thus, it avoids the encoding overhead of standard quantum\nerror correction codes. If the noise affecting the circuit is a Pauli channel\n(we can bias the noise with twirling), the ideal output distribution and noisy\ndistribution in the standard basis are related by a stochastic matrix. We prove\nthat this matrix has a circulant block structure. Thus, the ideal distribution\ncan be retrieved from the noisy output distribution by applying the Fast\nFourier Transform. Moreover, due to its circulant structure, characterization\nof this matrix can be achieved by sampling a single circuit. The results are\ncorroborated with quantum hardware executions consisting of 20-qubit and\n30-qubit GHZ state preparation, 5-qubit Grover, 6-qubit and 10-qubit quantum\nphase estimation, and 10-qubit and 20-qubit Dicke state preparation circuits.\nThe correction process dramatically improves the accuracies of the output\ndistributions. For 30-qubit GHZ state preparation, a corrected distribution\nfidelity of 97.7% is achieved from an initial raw fidelity of 23.2%.",
+            "pdf_url": "http://arxiv.org/pdf/2501.01953v2",
+            "published": "2025-01-03 18:58:19+00:00",
+            "updated": "2025-01-06 18:55:10+00:00"
+        },
+        {
+            "title": "Positive geometries and canonical forms via mixed Hodge theory",
+            "authors": "Francis Brown, Cl\u00e9ment Dupont",
+            "summary": "''Positive geometries'' are a class of semi-algebraic domains which admit a\nunique ''canonical form'': a logarithmic form whose residues match the boundary\nstructure of the domain. The study of such geometries is motivated by recent\nprogress in particle physics, where the corresponding canonical forms are\ninterpreted as the integrands of scattering amplitudes. We recast these\nconcepts in the language of mixed Hodge theory, and identify ''genus zero\npairs'' of complex algebraic varieties as a natural and general framework for\nthe study of positive geometries and their canonical forms. In this framework,\nwe prove some basic properties of canonical forms which have previously been\nproved or conjectured in the literature. We give many examples and study in\ndetail the case of arrangements of hyperplanes and convex polytopes.",
+            "pdf_url": "http://arxiv.org/pdf/2501.03202v1",
+            "published": "2025-01-06 18:29:44+00:00",
+            "updated": "2025-01-06 18:29:44+00:00"
+        },
+        {
+            "title": "Visualizing quantum entanglement in Bose-Einstein condensates without state vectors",
+            "authors": "Russell B. Thompson",
+            "summary": "Ring polymer self-consistent field theory is used to calculate the critical\ntemperatures and heat capacities of an ideal Bose gas for an order of magnitude\nmore particles than previously reported. A lambda-transition indicative of\nBose-Einstein condensation is observed as expected. Using a known proof of\nspatial mode entanglement in Bose-Einstein condensates, a relationship between\nboson exchange and quantum entanglement is established. This is done without\nthe use of state vectors, since ring polymer quantum theory uses instead a\nthermal degree of freedom, sometimes called the \"imaginary time\", to map\nclassical statistical mechanics onto non-relativistic quantum mechanics through\nthe theorems of density functional theory. It is shown that quantum phenomena,\nsuch as Bose-Einstein condensation, boson exchange, entanglement and\ncontextuality, can be visualized in terms of merging and separating ring\npolymer threads in thermal-space. A possible extension to fermions is\nmentioned.",
+            "pdf_url": "http://arxiv.org/pdf/2501.03199v1",
+            "published": "2025-01-06 18:27:46+00:00",
+            "updated": "2025-01-06 18:27:46+00:00"
+        },
+        {
+            "title": "An Open-source Sim2Real Approach for Sensor-independent Robot Navigation in a Grid",
+            "authors": "Murad Mehrab Abrar, Souryadeep Mondal, Michelle Hickner",
+            "summary": "This paper presents a Sim2Real (Simulation to Reality) approach to bridge the\ngap between a trained agent in a simulated environment and its real-world\nimplementation in navigating a robot in a similar setting. Specifically, we\nfocus on navigating a quadruped robot in a real-world grid-like environment\ninspired by the Gymnasium Frozen Lake -- a highly user-friendly and free\nApplication Programming Interface (API) to develop and test Reinforcement\nLearning (RL) algorithms. We detail the development of a pipeline to transfer\nmotion policies learned in the Frozen Lake simulation to a physical quadruped\nrobot, thus enabling autonomous navigation and obstacle avoidance in a grid\nwithout relying on expensive localization and mapping sensors. The work\ninvolves training an RL agent in the Frozen Lake environment and utilizing the\nresulting Q-table to control a 12 Degrees-of-Freedom (DOF) quadruped robot. In\naddition to detailing the RL implementation, inverse kinematics-based quadruped\ngaits, and the transfer policy pipeline, we open-source the project on GitHub\nand include a demonstration video of our Sim2Real transfer approach. This work\nprovides an accessible, straightforward, and low-cost framework for\nresearchers, students, and hobbyists to explore and implement RL-based robot\nnavigation in real-world grid environments.",
+            "pdf_url": "http://arxiv.org/pdf/2411.03494v2",
+            "published": "2024-11-05 20:18:29+00:00",
+            "updated": "2025-01-06 18:21:47+00:00"
+        },
+        {
+            "title": "Universality in quantum critical flow of charge and heat in ultra-clean graphene",
+            "authors": "Aniket Majumdar, Nisarg Chadha, Pritam Pal, Akash Gugnani, Bhaskar Ghawri, Kenji Watanabe, Takashi Taniguchi, Subroto Mukerjee, Arindam Ghosh",
+            "summary": "Close to the Dirac point, graphene is expected to exist in quantum critical\nDirac fluid state, where the flow of both charge and heat can be described with\na dc electrical conductivity $\\sigma_\\mathrm{Q}$, and thermodynamic variables\nsuch as the entropy and enthalpy densities. Although the fluid-like viscous\nflow of charge is frequently reported in state-of-the-art graphene devices, the\nvalue of $\\sigma_\\mathrm{Q}$, predicted to be quantized and determined only by\nthe universality class of the critical point, has not been established\nexperimentally so far. Here we have discerned the quantum critical universality\nin graphene transport by combining the electrical ($\\sigma$) and thermal\n($\\kappa_\\mathrm{e}$) conductivities in very high-quality devices close to the\nDirac point. We find that $\\sigma$ and $\\kappa_\\mathrm{e}$ are inversely\nrelated, as expected from relativistic hydrodynamics, and $\\sigma_\\mathrm{Q}$\nconverges to $\\approx (4\\pm 1)\\times e^2/h$ for multiple devices, where $e$ and\n$h$ are the electronic charge and the Planck's constant, respectively. We also\nobserve, (1) a giant violation of the Wiedemann-Franz law where the effective\nLorentz number exceeds the semiclassical value by more than 200 times close to\nthe Dirac point at low temperatures, and (2) the effective dynamic viscosity\n($\\eta_\\mathrm{th}$) in the thermal regime approaches the holographic limit\n$\\eta_\\mathrm{th}/s_\\mathrm{th} \\rightarrow \\hbar/4\\pi k_\\mathrm{B}$ within a\nfactor of four in the cleanest devices close to the room temperature, where\n$s_\\mathrm{th}$ and $k_\\mathrm{B}$ are the thermal entropy density and the\nBoltzmann constant, respectively. Our experiment addresses the missing piece in\nthe potential of high-quality graphene as a testing bed for some of the\nunifying concepts in physics.",
+            "pdf_url": "http://arxiv.org/pdf/2501.03193v1",
+            "published": "2025-01-06 18:11:10+00:00",
+            "updated": "2025-01-06 18:11:10+00:00"
+        },
+        {
+            "title": "Attention to the strengths of physical interactions: Transformer and graph-based event classification for particle physics experiments",
+            "authors": "Luc Builtjes, Sascha Caron, Polina Moskvitina, Clara Nellist, Roberto Ruiz de Austri, Rob Verheyen, Zhongyi Zhang",
+            "summary": "A major task in particle physics is the measurement of rare signal processes.\nEven modest improvements in background rejection, at a fixed signal efficiency,\ncan significantly enhance the measurement sensitivity. Building on prior\nresearch by others that incorporated physical symmetries into neural networks,\nthis work extends those ideas to include additional physics-motivated features.\nSpecifically, we introduce energy-dependent particle interaction strengths,\nderived from leading-order SM predictions, into modern deep learning\narchitectures, including Transformer Architectures (Particle Transformer), and\nGraph Neural Networks (Particle Net). These interaction strengths, represented\nas the SM interaction matrix, are incorporated into the attention matrix\n(transformers) and edges (graphs). Our results in event classification show\nthat the integration of all physics-motivated features improves background\nrejection by $10\\%-40\\%$ over baseline models, with an additional gain of\napproximately $10\\%$ (absolute) due to the SM interaction matrix. This study\nalso provides one of the broadest comparisons of event classifiers to date,\ndemonstrating how various architectures perform across this task. A simplified\nstatistical analysis demonstrates that these enhanced architectures yield\nsignificant improvements in signal significance compared to a graph network\nbaseline.",
+            "pdf_url": "http://arxiv.org/pdf/2211.05143v3",
+            "published": "2022-11-09 19:00:03+00:00",
+            "updated": "2025-01-06 18:10:28+00:00"
+        },
+        {
+            "title": "Nonequilibrium thermodynamics of populations of weakly-coupled low-temperature-differential Stirling engines with synchronous and asynchronous transitions",
+            "authors": "Songhao Yin, Hiroshi Kori, Yuki Izumida",
+            "summary": "This study developed the theory of nonequilibrium thermodynamics for\npopulations of low-temperature-differential (LTD) Stirling engines\nweakly-coupled in a general class of networks to clarify the effects of\nsynchronous and asynchronous transitions on the power and thermal efficiency.\nWe first show that synchronous (asynchronous) transitions increase (decrease)\nthe power and thermal efficiency of weakly-coupled LTD Stirling engines based\non quasilinear response relations between formally defined thermodynamic fluxes\nand forces. After that, we construct a conceptual model satisfying the\nquasilinear response relations to give a physical interpretation of the changes\nin power and thermal efficiency due to synchronous and asynchronous\ntransitions, and justify the use of this conceptual model. We then show that\nthe conceptual model, rather than the quasilinear response relations, preserves\nthe irreversible nature in the relative motion of the original model and thus\nshows more accurate results than the analysis using the quasilinear response\nrelations. Finally, we compare the dynamics between the original and the\nconceptual models for two-engine systems and show that the conceptual model\nroughly preserves the dynamical characteristics leading up to the synchronous\ntransitions, while some detailed dynamical structures are lost.",
+            "pdf_url": "http://arxiv.org/pdf/2501.03185v1",
+            "published": "2025-01-06 18:04:04+00:00",
+            "updated": "2025-01-06 18:04:04+00:00"
+        },
+        {
+            "title": "Cost-effective time-stretch terahertz recorders using 1550 nm probes",
+            "authors": "Christelle Hanoun, El\u00e9onore Roussel, Christophe Szwaj, Cl\u00e9ment Evain, Marc Le Parquier, Jean-Blaise Brubach, Nicolas Hubert, Marie Labat, Pascale Roy, Marie-Agn\u00e8s Tordeux, Serge Bielawski",
+            "summary": "Time-stretch electro-optic detection allows THz waveforms to be recorded in\nsingle-shot, up to Megahertz acquisition rates. This capability is required in\naccelerator physics, and also opens new applications in table-top THz\ntime-domain spectroscopy. However, the technique has also been notoriously\nknown for the need of high speed -- and high cost -- ADCs or oscilloscopes for\nthe readout. Furthermore, the resulting cost considerably increases with the\nnumber of samples that is needed per THz waveform, an issue that has severely\nlimited the widespread of the technique so far. In this article, we show that\nparticularly cost-effective designs can be obtained by using 1550~nm probes. We\npresent the performances of an experimental design, that uses only standard\ncomponents (including dispersive devices), and a standard commercial probe\nlaser without additional pulse broadening. In these conditions, our\ntime-stretch system could already record coherent THz pulses at the SOLEIL\nsynchrotron radiation facility, over an unprecedented number of samples, using\noscilloscopes and ADC boards with only 1-3 GHz bandwidth.",
+            "pdf_url": "http://arxiv.org/pdf/2501.03180v1",
+            "published": "2025-01-06 17:56:37+00:00",
+            "updated": "2025-01-06 17:56:37+00:00"
+        },
+        {
+            "title": "The Sign of Gauge-Higgs Couplings at Future Lepton Colliders",
+            "authors": "Carlos Henrique de Lima, Douglas Tuckler",
+            "summary": "This work investigates the capability of future lepton colliders to determine\nthe sign of the gauge-Higgs coupling through the vector boson fusion (VBF) $Zh$\nprocess. This channel offers a model-independent way to probe the sign of the\ngauge-Higgs coupling. Its sensitivity to interference effects and universal\ncoupling with new physics makes it particularly effective. We show that a\nhigh-energy lepton collider such as CLIC can fully determine the sign of the\ngauge-Higgs coupling in a model-independent way and with high confidence.",
+            "pdf_url": "http://arxiv.org/pdf/2408.14536v2",
+            "published": "2024-08-26 18:00:02+00:00",
+            "updated": "2025-01-06 17:54:01+00:00"
+        },
+        {
+            "title": "Low-Rank Variational Quantum Algorithm for the Dynamics of Open Quantum Systems",
+            "authors": "Sara Santos, Xinyu Song, Vincenzo Savona",
+            "summary": "The simulation of many-body open quantum systems is key to solving numerous\noutstanding problems in physics, chemistry, material science, and in the\ndevelopment of quantum technologies. Near-term quantum computers may bring\nconsiderable advantage for the efficient simulation of their static and\ndynamical properties, thanks to hybrid quantum-classical variational algorithms\nto approximate the dynamics of the density matrix describing the quantum state\nin terms of an ensemble average. Here, a variational quantum algorithm is\ndeveloped to simulate the real-time evolution of the density matrix governed by\nthe Lindblad master equation, under the assumption that the quantum state has a\nbounded entropy along the dynamics, entailing a low-rank representation of its\ndensity matrix. The algorithm encodes each pure state of the statistical\nmixture as a parametrized quantum circuit, and the associated probabilities as\nadditional variational parameters stored classically, thereby requiring a\nsignificantly lower number of qubits than algorithms where the full density\nmatrix is encoded in the quantum memory. Two variational Ans\\\"atze are\nproposed, and their effectiveness is assessed in the simulation of the dynamics\nof a 2D dissipative transverse field Ising model. The results underscore the\nalgorithm's efficiency in simulating the dynamics of open quantum systems in\nthe low-rank regime with limited quantum resources on a near-term quantum\ndevice.",
+            "pdf_url": "http://arxiv.org/pdf/2403.05908v2",
+            "published": "2024-03-09 13:23:14+00:00",
+            "updated": "2025-01-06 17:37:52+00:00"
+        }
+    ],
+    "Diffusion": [
+        {
+            "title": "Deep-Relative-Trust-Based Diffusion for Decentralized Deep Learning",
+            "authors": "Muyun Li, Aaron Fainman, Stefan Vlaski",
+            "summary": "Decentralized learning strategies allow a collection of agents to learn\nefficiently from local data sets without the need for central aggregation or\norchestration. Current decentralized learning paradigms typically rely on an\naveraging mechanism to encourage agreement in the parameter space. We argue\nthat in the context of deep neural networks, which are often\nover-parameterized, encouraging consensus of the neural network outputs, as\nopposed to their parameters can be more appropriate. This motivates the\ndevelopment of a new decentralized learning algorithm, termed DRT diffusion,\nbased on deep relative trust (DRT), a recently introduced similarity measure\nfor neural networks. We provide convergence analysis for the proposed strategy,\nand numerically establish its benefit to generalization, especially with sparse\ntopologies, in an image classification task.",
+            "pdf_url": "http://arxiv.org/pdf/2501.03162v1",
+            "published": "2025-01-06 17:31:36+00:00",
+            "updated": "2025-01-06 17:31:36+00:00"
+        },
+        {
+            "title": "Large language models for artificial general intelligence (AGI): A survey of foundational principles and approaches",
+            "authors": "Alhassan Mumuni, Fuseini Mumuni",
+            "summary": "Generative artificial intelligence (AI) systems based on large-scale\npretrained foundation models (PFMs) such as vision-language models, large\nlanguage models (LLMs), diffusion models and vision-language-action (VLA)\nmodels have demonstrated the ability to solve complex and truly non-trivial AI\nproblems in a wide variety of domains and contexts. Multimodal large language\nmodels (MLLMs), in particular, learn from vast and diverse data sources,\nallowing rich and nuanced representations of the world and, thereby, providing\nextensive capabilities, including the ability to reason, engage in meaningful\ndialog; collaborate with humans and other agents to jointly solve complex\nproblems; and understand social and emotional aspects of humans. Despite this\nimpressive feat, the cognitive abilities of state-of-the-art LLMs trained on\nlarge-scale datasets are still superficial and brittle. Consequently, generic\nLLMs are severely limited in their generalist capabilities. A number of\nfoundational problems -- embodiment, symbol grounding, causality and memory --\nare required to be addressed for LLMs to attain human-level general\nintelligence. These concepts are more aligned with human cognition and provide\nLLMs with inherent human-like cognitive properties that support the realization\nof physically-plausible, semantically meaningful, flexible and more\ngeneralizable knowledge and intelligence. In this work, we discuss the\naforementioned foundational issues and survey state-of-the art approaches for\nimplementing these concepts in LLMs. Specifically, we discuss how the\nprinciples of embodiment, symbol grounding, causality and memory can be\nleveraged toward the attainment of artificial general intelligence (AGI) in an\norganic manner.",
+            "pdf_url": "http://arxiv.org/pdf/2501.03151v1",
+            "published": "2025-01-06 17:18:47+00:00",
+            "updated": "2025-01-06 17:18:47+00:00"
+        },
+        {
+            "title": "Generating Counterfactual Trajectories with Latent Diffusion Models for Concept Discovery",
+            "authors": "Payal Varshney, Adriano Lucieri, Christoph Balada, Andreas Dengel, Sheraz Ahmed",
+            "summary": "Trustworthiness is a major prerequisite for the safe application of opaque\ndeep learning models in high-stakes domains like medicine. Understanding the\ndecision-making process not only contributes to fostering trust but might also\nreveal previously unknown decision criteria of complex models that could\nadvance the state of medical research. The discovery of decision-relevant\nconcepts from black box models is a particularly challenging task. This study\nproposes Concept Discovery through Latent Diffusion-based Counterfactual\nTrajectories (CDCT), a novel three-step framework for concept discovery\nleveraging the superior image synthesis capabilities of diffusion models. In\nthe first step, CDCT uses a Latent Diffusion Model (LDM) to generate a\ncounterfactual trajectory dataset. This dataset is used to derive a\ndisentangled representation of classification-relevant concepts using a\nVariational Autoencoder (VAE). Finally, a search algorithm is applied to\nidentify relevant concepts in the disentangled latent space. The application of\nCDCT to a classifier trained on the largest public skin lesion dataset revealed\nnot only the presence of several biases but also meaningful biomarkers.\nMoreover, the counterfactuals generated within CDCT show better FID scores than\nthose produced by a previously established state-of-the-art method, while being\n12 times more resource-efficient. Unsupervised concept discovery holds great\npotential for the application of trustworthy AI and the further development of\nhuman knowledge in various domains. CDCT represents a further step in this\ndirection.",
+            "pdf_url": "http://arxiv.org/pdf/2404.10356v2",
+            "published": "2024-04-16 07:44:08+00:00",
+            "updated": "2025-01-06 14:47:53+00:00"
+        }
+    ]
+}

@@ -102,6 +102,29 @@ TODO:
 
 
 
+
+## Update on 2025-01-07
+
+### Physics
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-01-03|2025-01-06|Quantum Error Correction Without Encoding via the Circulant Structure of Pauli Noise and the Fast Fourier Transform|Alvin Gonzales|[2501.01953v2](http://arxiv.org/pdf/2501.01953v2)|
+|2025-01-06|2025-01-06|Positive geometries and canonical forms via mixed Hodge theory|Francis Brown|[2501.03202v1](http://arxiv.org/pdf/2501.03202v1)|
+|2025-01-06|2025-01-06|Visualizing quantum entanglement in Bose-Einstein condensates without state vectors|Russell B. Thompson|[2501.03199v1](http://arxiv.org/pdf/2501.03199v1)|
+|2024-11-05|2025-01-06|An Open-source Sim2Real Approach for Sensor-independent Robot Navigation in a Grid|Murad Mehrab Abrar|[2411.03494v2](http://arxiv.org/pdf/2411.03494v2)|
+|2025-01-06|2025-01-06|Universality in quantum critical flow of charge and heat in ultra-clean graphene|Aniket Majumdar|[2501.03193v1](http://arxiv.org/pdf/2501.03193v1)|
+|2022-11-09|2025-01-06|Attention to the strengths of physical interactions: Transformer and graph-based event classification for particle physics experiments|Luc Builtjes|[2211.05143v3](http://arxiv.org/pdf/2211.05143v3)|
+|2025-01-06|2025-01-06|Nonequilibrium thermodynamics of populations of weakly-coupled low-temperature-differential Stirling engines with synchronous and asynchronous transitions|Songhao Yin|[2501.03185v1](http://arxiv.org/pdf/2501.03185v1)|
+|2025-01-06|2025-01-06|Cost-effective time-stretch terahertz recorders using 1550 nm probes|Christelle Hanoun|[2501.03180v1](http://arxiv.org/pdf/2501.03180v1)|
+|2024-08-26|2025-01-06|The Sign of Gauge-Higgs Couplings at Future Lepton Colliders|Carlos Henrique de Lima|[2408.14536v2](http://arxiv.org/pdf/2408.14536v2)|
+|2024-03-09|2025-01-06|Low-Rank Variational Quantum Algorithm for the Dynamics of Open Quantum Systems|Sara Santos|[2403.05908v2](http://arxiv.org/pdf/2403.05908v2)|
+
+### Diffusion
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-01-06|2025-01-06|Deep-Relative-Trust-Based Diffusion for Decentralized Deep Learning|Muyun Li|[2501.03162v1](http://arxiv.org/pdf/2501.03162v1)|
+|2025-01-06|2025-01-06|Large language models for artificial general intelligence (AGI): A survey of foundational principles and approaches|Alhassan Mumuni|[2501.03151v1](http://arxiv.org/pdf/2501.03151v1)|
+|2024-04-16|2025-01-06|Generating Counterfactual Trajectories with Latent Diffusion Models for Concept Discovery|Payal Varshney|[2404.10356v2](http://arxiv.org/pdf/2404.10356v2)|
 ## Update on 2025-01-03
 
 ### Physics
