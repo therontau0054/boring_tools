@@ -103,6 +103,30 @@ TODO:
 
 
 
+
+## Update on 2025-01-09
+
+### Physics
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-01-08|2025-01-08|Exploring nontrivial topology at quantum criticality in a superconducting processor|Ziqi Tan|[2501.04679v1](http://arxiv.org/pdf/2501.04679v1)|
+|2025-01-08|2025-01-08|Lattice Boltzmann simulation reveals supercritical bifurcation in flow mode transitions of power-law fluids in the four-roll mill|Yuan Yu|[2501.04655v1](http://arxiv.org/pdf/2501.04655v1)|
+|2024-10-02|2025-01-08|Semileptonic decay of the triply heavy $Ω_{ccb}$ to the observed $Ξ^{++}_{cc}$ state|Z. Rajabi Najjar|[2410.01602v3](http://arxiv.org/pdf/2410.01602v3)|
+|2024-09-17|2025-01-08|Geometric Formula for 2d Ising Zeros: Examples & Numerics|Iñaki Garay|[2409.11109v3](http://arxiv.org/pdf/2409.11109v3)|
+|2025-01-08|2025-01-08|Fast physics-based launcher optimization for electron cyclotron current drive|N A Lopez|[2501.04619v1](http://arxiv.org/pdf/2501.04619v1)|
+|2024-10-08|2025-01-08|Manifolds, Random Matrices and Spectral Gaps: The geometric phases of generative diffusion|Enrico Ventura|[2410.05898v5](http://arxiv.org/pdf/2410.05898v5)|
+|2025-01-08|2025-01-08|Motion and hydrodynamic resistance of an elastic bead confined in a square microchannel|Charles Paul Moore|[2501.04592v1](http://arxiv.org/pdf/2501.04592v1)|
+|2025-01-06|2025-01-08|Mixture-of-Experts Graph Transformers for Interpretable Particle Collision Detection|Donatella Genovese|[2501.03432v2](http://arxiv.org/pdf/2501.03432v2)|
+|2024-05-11|2025-01-08|Revolutionizing Quantum Mechanics: The Birth and Evolution of the Many-Worlds Interpretation|Arnub Ghosh|[2405.06924v3](http://arxiv.org/pdf/2405.06924v3)|
+|2025-01-08|2025-01-08|Monotonicity of the Relative Entropy and the Two-sided Bogoliubov Inequality in von Neumann Algebras|Benedikt M. Reible|[2501.04564v1](http://arxiv.org/pdf/2501.04564v1)|
+
+### Diffusion
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-01-08|2025-01-08|Beyond Sight: Finetuning Generalist Robot Policies with Heterogeneous Sensors via Language Grounding|Joshua Jones|[2501.04693v1](http://arxiv.org/pdf/2501.04693v1)|
+|2025-01-08|2025-01-08|A Statistical Theory of Contrastive Pre-training and Multimodal Generative AI|Kazusato Oko|[2501.04641v1](http://arxiv.org/pdf/2501.04641v1)|
+|2024-09-05|2025-01-08|Diffusion Map Autoencoder|Julio Candanedo|[2409.05901v2](http://arxiv.org/pdf/2409.05901v2)|
+|2025-01-08|2025-01-08|MedCoDi-M: A Multi-Prompt Foundation Model for Multimodal Medical Data Generation|Daniele Molino|[2501.04614v1](http://arxiv.org/pdf/2501.04614v1)|
 ## Update on 2025-01-07
 
 ### Physics
