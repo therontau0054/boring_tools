@@ -104,6 +104,31 @@ TODO:
 
 
 
+
+## Update on 2025-01-11
+
+### Physics
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2024-12-24|2025-01-09|Modern Approach to 2D Conformal Field Theory|Yuya Kusuki|[2412.18307v2](http://arxiv.org/pdf/2412.18307v2)|
+|2025-01-09|2025-01-09|Winter Noctilucent Clouds Following Sudden Stratospheric Warming: First Observations|Oleg S. Ugolnikov|[2501.05432v1](http://arxiv.org/pdf/2501.05432v1)|
+|2024-12-16|2025-01-09|Probabilities-Informed Machine Learning|Mohsen Rashki|[2412.11526v3](http://arxiv.org/pdf/2412.11526v3)|
+|2024-08-01|2025-01-09|Quasilocal Newtonian limit of general relativity and galactic dynamics|Marco Galoppo|[2408.00358v2](http://arxiv.org/pdf/2408.00358v2)|
+|2023-12-19|2025-01-09|Optimal New Physics estimation in presence of Standard Model backgrounds|Subhaditya Bhattacharya|[2312.12514v2](http://arxiv.org/pdf/2312.12514v2)|
+|2025-01-09|2025-01-09|Incoherent Diffraction Imaging with a Pseudo-Thermal Light Source|Pablo San Miguel Claveria|[2501.05417v1](http://arxiv.org/pdf/2501.05417v1)|
+|2024-12-12|2025-01-09|Observation as Physication. A single-world unitary no-conspiracy interpretation of quantum mechanics|Ovidiu Cristinel Stoica|[2412.09669v2](http://arxiv.org/pdf/2412.09669v2)|
+|2025-01-09|2025-01-09|Data-driven methods to discover stable linear models of the helicity injectors on HIT-SIU|Zachary L. Daniel|[2501.05405v1](http://arxiv.org/pdf/2501.05405v1)|
+|2025-01-09|2025-01-09|Aspects of Propagator Sparsening in Lattice QCD|Sam Christian|[2501.05404v1](http://arxiv.org/pdf/2501.05404v1)|
+|2025-01-09|2025-01-09|A New Approach to the Representation Theory of Lorentzian Pseudo-Tensors|Craig McRae|[2501.05400v1](http://arxiv.org/pdf/2501.05400v1)|
+
+### Diffusion
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-01-09|2025-01-09|Decentralized Diffusion Models|David McAllister|[2501.05450v1](http://arxiv.org/pdf/2501.05450v1)|
+|2025-01-09|2025-01-09|Consistent Flow Distillation for Text-to-3D Generation|Runjie Yan|[2501.05445v1](http://arxiv.org/pdf/2501.05445v1)|
+|2025-01-09|2025-01-09|Progressive Growing of Video Tokenizers for Highly Compressed Latent Spaces|Aniruddha Mahapatra|[2501.05442v1](http://arxiv.org/pdf/2501.05442v1)|
+|2025-01-09|2025-01-09|The GAN is dead; long live the GAN! A Modern GAN Baseline|Yiwen Huang|[2501.05441v1](http://arxiv.org/pdf/2501.05441v1)|
+|2025-01-09|2025-01-09|TimeDP: Learning to Generate Multi-Domain Time Series with Domain Prompts|Yu-Hao Huang|[2501.05403v1](http://arxiv.org/pdf/2501.05403v1)|
 ## Update on 2025-01-09
 
 ### Physics

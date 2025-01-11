@@ -1,0 +1,126 @@
+{
+    "Physics": [
+        {
+            "title": "Modern Approach to 2D Conformal Field Theory",
+            "authors": "Yuya Kusuki",
+            "summary": "The primary aim of these lecture notes is to introduce the modern approach to\ntwo-dimensional conformal field theory (2D CFT). The study of analytical\nmethods in two-dimensional conformal field theory has developed over several\ndecades, starting with BPZ. The development of analytical methods, particularly\nin rational conformal field theory (RCFT), has been remarkable, with complete\nclassifications achieved for certain model groups. One motivation for studying\nCFT comes from its ability to describe quantum critical systems. Given that\nrealistic quantum critical systems are fundamentally RCFTs, it is somewhat\nnatural that the analytical methods of RCFT have evolved significantly.\n  CFTs other than RCFTs are called irrational conformal field theories (ICFTs).\nCompared to RCFTs, the study of ICFTs has not progressed as much. Leaving aside\nwhether there is physical motivation or not, ICFTs inherently possess a\ndifficulty that makes them challenging to approach. However, with the\ndevelopment of quantum gravity, the advancement of analytical methods for ICFTs\nhas become essential. The reason lies in the AdS/CFT correspondence. AdS/CFT\nrefers to the relationship between $d+1$ dimensional quantum gravity and $d$\ndimensional CFT. Within this correspondence, the CFT appears as a\nnon-perturbative formulation of quantum gravity. Except in special cases, this\nCFT belongs to ICFT. Against this backdrop, the methods for ICFTs have\ndeveloped rapidly in recent years. Many of these ICFT methods are indispensable\nfor modern quantum gravity research. Unfortunately, these cannot be learned\nfrom textbooks on 2D CFTs, such as Yellow book. These lecture notes aim to fill\nthis gap. Specifically, we will cover techniques that have already been applied\nin many studies, such as HHLL block and monodromy method, and significant\nresults that have become proper nouns, such as Hellerman bound and HKS bound.",
+            "pdf_url": "http://arxiv.org/pdf/2412.18307v2",
+            "published": "2024-12-24 09:45:00+00:00",
+            "updated": "2025-01-09 18:47:22+00:00"
+        },
+        {
+            "title": "Winter Noctilucent Clouds Following Sudden Stratospheric Warming: First Observations",
+            "authors": "Oleg S. Ugolnikov",
+            "summary": "Mesospheric structures identical to summer noctilucent clouds were observed\nduring the evening and the morning twilight of the night of December 17-18,\n2024 in Siberian Russia. Basing on the available photo data, the mean altitude\nof the clouds 70.1+-1.5 km was measured by umbral colorimetric method. This\ncoincided spatially and temporary with deep temperature minimum below 160K in\nmesosphere, followed the polar vortex displacement and warming of stratosphere\nbelow the clouds. The satellite data on temperature and water vapor is used to\nstudy the nature of this unexpected event.",
+            "pdf_url": "http://arxiv.org/pdf/2501.05432v1",
+            "published": "2025-01-09 18:45:30+00:00",
+            "updated": "2025-01-09 18:45:30+00:00"
+        },
+        {
+            "title": "Probabilities-Informed Machine Learning",
+            "authors": "Mohsen Rashki",
+            "summary": "Machine learning (ML) has emerged as a powerful tool for tackling complex\nregression and classification tasks, yet its success often hinges on the\nquality of training data. This study introduces an ML paradigm inspired by\ndomain knowledge of the structure of output function, akin to physics-informed\nML, but rooted in probabilistic principles rather than physical laws. The\nproposed approach integrates the probabilistic structure of the target variable\n(such as its cumulative distribution function) into the training process. This\nprobabilistic information is obtained from historical data or estimated using\nstructural reliability methods during experimental design. By embedding\ndomain-specific probabilistic insights into the learning process, the technique\nenhances model accuracy and mitigates risks of overfitting and underfitting.\nApplications in regression, image denoising, and classification demonstrate the\napproach's effectiveness in addressing real-world problems.",
+            "pdf_url": "http://arxiv.org/pdf/2412.11526v3",
+            "published": "2024-12-16 08:01:22+00:00",
+            "updated": "2025-01-09 18:44:52+00:00"
+        },
+        {
+            "title": "Quasilocal Newtonian limit of general relativity and galactic dynamics",
+            "authors": "Marco Galoppo, Federico Re, David L. Wiltshire",
+            "summary": "A new Newtonian limit of general relativity is established for stationary\naxisymmetric gravitationally bound differentially rotating matter distributions\nwith internal pressure. The self-consistent coupling of quasilocal\ngravitational energy and angular momentum leads to a modified Poisson equation.\nThe coupled equations of motion of the effective fluid elements are also\nmodified, with quasilocal angular momentum and frame-dragging leading to novel\ndynamics. The solutions of the full system reproduce the phenonomenology of\ncollisionless dark matter for disc galaxies. The demonstration that general\nrelativity possesses a new alternative low-energy limit different from the\nconventional post-Newtonian limit may have major consequences for all\ngravitational physics on galactic and cosmological scales.",
+            "pdf_url": "http://arxiv.org/pdf/2408.00358v2",
+            "published": "2024-08-01 07:57:03+00:00",
+            "updated": "2025-01-09 18:35:24+00:00"
+        },
+        {
+            "title": "Optimal New Physics estimation in presence of Standard Model backgrounds",
+            "authors": "Subhaditya Bhattacharya, Sahabub Jahedi, Jayita Lahiri, Jose Wudka",
+            "summary": "In this work, we develop a numerical technique for the optimal estimation of\nthe new physics (NP) couplings applicable to any collider process without any\nsimplifying assumptions. This approach also provides a way to measure the\nquality of the NP estimates derived using standard $\\chi^2$ analysis and can be\nused to gauge the advantages of various modalities of collider design. We\nillustrate the techniques and arguments by considering the pair production of\nheavy charged fermions at an $e^+e^-$ collider.",
+            "pdf_url": "http://arxiv.org/pdf/2312.12514v2",
+            "published": "2023-12-19 19:00:04+00:00",
+            "updated": "2025-01-09 18:29:09+00:00"
+        },
+        {
+            "title": "Incoherent Diffraction Imaging with a Pseudo-Thermal Light Source",
+            "authors": "Pablo San Miguel Claveria, Sesbasti\u00e3o Antunes, Peer Biesterfeld, Matilde Fernandes, Matilde Garcia, Matilde Nunes, Lucas Ansia Fernandez, Gareth O. Williams, Sven Froehlich, David Theidel, Philip Mosel, Ihsan Fsaifes, Andrea Trabattoni, Marco Piccardo, Jean-Christophe Chanteloup, Milutin Kovacev, Hamed Merdji, Marta Fajardo",
+            "summary": "Incoherent Diffraction Imaging - IDI - is a diffraction-based imaging\ntechnique that has been recently proposed to exploit the partial coherence of\nincoherently scattered light to retrieve structural information from the\nscattering centers. Similar to the stellar intensity interferometry of Hanbury\nBrown and Twiss, the signal builds up on the second-order spatial correlations\nof the emitted light. The complex spatial distribution of the target is thereby\nencoded in the spatial intensity fluctuations of the scattered light. The first\nexperimental realisations of this imaging technique have been realised using\nthe fluorescence excited by an ultra-short X-ray pulse at Free Electron Laser\n(FEL) facilities. Here, we propose an alternative set-up based on a table-top\nPseudo-Thermal Light Source. This set-up allows us to explore IDI under a wide\nrange of physically relevant conditions as well as to benchmark numerical and\nanalytical models currently used to determine the imaging capabilities of this\ntechnique.",
+            "pdf_url": "http://arxiv.org/pdf/2501.05417v1",
+            "published": "2025-01-09 18:20:47+00:00",
+            "updated": "2025-01-09 18:20:47+00:00"
+        },
+        {
+            "title": "Observation as Physication. A single-world unitary no-conspiracy interpretation of quantum mechanics",
+            "authors": "Ovidiu Cristinel Stoica",
+            "summary": "The physical meaning of the operators is not reducible to the intrinsic\nrelations of the quantum system, since unitary transformations can find other\noperators satisfying the exact same relations. The physical meaning is\ndetermined empirically. I propose that the assignment of physical meaning to\noperators spreads through observation, along with the values of the\nobservables, from the already observed degrees of freedom to the newly observed\nones. I call this process \"physication\". I propose that quantum observations\nare nothing more than this assignment, which can be done unitarily. This\napproach doesn't require collapse, many-worlds, or a conspiratorial fine tuning\nof the initial conditions.",
+            "pdf_url": "http://arxiv.org/pdf/2412.09669v2",
+            "published": "2024-12-12 18:54:05+00:00",
+            "updated": "2025-01-09 18:02:32+00:00"
+        },
+        {
+            "title": "Data-driven methods to discover stable linear models of the helicity injectors on HIT-SIU",
+            "authors": "Zachary L. Daniel, Alan A. Kaptanoglu, Christopher J. Hansen, Kyle D. Morgan, Steven L. Brunton, J. Nathan Kutz",
+            "summary": "Accurate and efficient circuit models are necessary to control the power\nelectronic circuits found on plasma physics experiments. Tuning and controlling\nthe behavior of these circuits is inextricably linked to plasma performance.\nLinear models are greatly preferred for control applications due to their\nwell-established performance guarantees, but they typically fail to capture\nnonlinear dynamics and changes in experimental parameters. Data-driven system\nidentification can help mitigate these shortcomings by learning interpretable\nand accurate reduced-order models of a complex system, in this case the\ninjector circuits of the Helicity Injected Torus - Steady Inductive Upgrade\n(HIT-SIU) experiment. Specifically, the Bagging Optimized Dynamic Mode\nDecomposition (BOP-DMD), is leveraged to learn stable, reduced order models of\nthe interaction between the spheromak plasma formed in the confinement volume,\nand the injector circuits of the device. BOP-DMD is trained and evaluated on an\nanalytic model of the vacuum dynamics of the injector circuits of HIT-SIU, as\nwell as an analytic linear reduced-order model for the injector dynamics when a\nplasma is present. BOP-DMD is then fit on experimental data, both on shots with\nand without a plasma in the confinement volume. In doing so, we demonstrate the\ncapability of data-driven methods to produce stable, linear models for control\nand uncertainty quantification in plasma experiments.",
+            "pdf_url": "http://arxiv.org/pdf/2501.05405v1",
+            "published": "2025-01-09 17:58:37+00:00",
+            "updated": "2025-01-09 17:58:37+00:00"
+        },
+        {
+            "title": "Aspects of Propagator Sparsening in Lattice QCD",
+            "authors": "Sam Christian, William Detmold",
+            "summary": "In lattice field theory, field sparsening aims to replace quantum fields, or\nobjects constructed from them, with approximations that preserve the\nappropriate symmetries and maintain many aspects of the physics that the fields\ndetermine. For example, an effective sparsening of a quark propagator provides\nan efficient map from a quark propagator on a fine lattice geometry to a quark\npropagator defined on a coarser geometry in order to reduce storage and\ncomputational costs of subsequent calculational stages while maintaining\nlong-distance correlations and corresponding low-energy physical information.\nPrevious studies have focused on decimating lattice sites or randomly sampling\nlattice sites to reduce the size of the propagator and subsequent costs of Wick\ncontractions. Here, we extend the study of sparsening to incorporate covariant\naveraging of spatial sites and examine the effects on two-point and three-point\ncorrelation functions involving various hadrons. We find that sparsening is\nmost effective in reproducing the unsparsened versions of these correlation\nfunctions when weighted covariant-averaging is sequentially applied many times.",
+            "pdf_url": "http://arxiv.org/pdf/2501.05404v1",
+            "published": "2025-01-09 17:58:11+00:00",
+            "updated": "2025-01-09 17:58:11+00:00"
+        },
+        {
+            "title": "A New Approach to the Representation Theory of Lorentzian Pseudo-Tensors",
+            "authors": "Craig McRae",
+            "summary": "A novel approach to the finite dimensional representation theory of the\nentire Lorentz group $\\operatorname{O}(1,3)$ is presented. It is shown that the\nentire Lorentz group may be understood as a semi-direct product between the\nidentity component of the entire Lorentz group, and the Klein four group of\nreflections: $\\operatorname{O}(1,3) = \\operatorname{SO}^+(1,3) \\rtimes\n\\operatorname{K}_4$. The discussion concludes with the convenient\nrepresentation theory of generic tensor representations of\n$\\operatorname{O}(1,3)$, namely that there are four physically meaningful\nrepresentations of $\\operatorname{O}(1,3)$ for each representation of\n$\\operatorname{SO}^+(1,3)$. There is a brief discussion of the time reversal of\nthe electromagnetic field, concluding in agreement with standard texts such as\nJackson, and works by Malament.",
+            "pdf_url": "http://arxiv.org/pdf/2501.05400v1",
+            "published": "2025-01-09 17:50:20+00:00",
+            "updated": "2025-01-09 17:50:20+00:00"
+        }
+    ],
+    "Diffusion": [
+        {
+            "title": "Decentralized Diffusion Models",
+            "authors": "David McAllister, Matthew Tancik, Jiaming Song, Angjoo Kanazawa",
+            "summary": "Large-scale AI model training divides work across thousands of GPUs, then\nsynchronizes gradients across them at each step. This incurs a significant\nnetwork burden that only centralized, monolithic clusters can support, driving\nup infrastructure costs and straining power systems. We propose Decentralized\nDiffusion Models, a scalable framework for distributing diffusion model\ntraining across independent clusters or datacenters by eliminating the\ndependence on a centralized, high-bandwidth networking fabric. Our method\ntrains a set of expert diffusion models over partitions of the dataset, each in\nfull isolation from one another. At inference time, the experts ensemble\nthrough a lightweight router. We show that the ensemble collectively optimizes\nthe same objective as a single model trained over the whole dataset. This means\nwe can divide the training burden among a number of \"compute islands,\" lowering\ninfrastructure costs and improving resilience to localized GPU failures.\nDecentralized diffusion models empower researchers to take advantage of\nsmaller, more cost-effective and more readily available compute like on-demand\nGPU nodes rather than central integrated systems. We conduct extensive\nexperiments on ImageNet and LAION Aesthetics, showing that decentralized\ndiffusion models FLOP-for-FLOP outperform standard diffusion models. We finally\nscale our approach to 24 billion parameters, demonstrating that high-quality\ndiffusion models can now be trained with just eight individual GPU nodes in\nless than a week.",
+            "pdf_url": "http://arxiv.org/pdf/2501.05450v1",
+            "published": "2025-01-09 18:59:56+00:00",
+            "updated": "2025-01-09 18:59:56+00:00"
+        },
+        {
+            "title": "Consistent Flow Distillation for Text-to-3D Generation",
+            "authors": "Runjie Yan, Yinbo Chen, Xiaolong Wang",
+            "summary": "Score Distillation Sampling (SDS) has made significant strides in distilling\nimage-generative models for 3D generation. However, its\nmaximum-likelihood-seeking behavior often leads to degraded visual quality and\ndiversity, limiting its effectiveness in 3D applications. In this work, we\npropose Consistent Flow Distillation (CFD), which addresses these limitations.\nWe begin by leveraging the gradient of the diffusion ODE or SDE sampling\nprocess to guide the 3D generation. From the gradient-based sampling\nperspective, we find that the consistency of 2D image flows across different\nviewpoints is important for high-quality 3D generation. To achieve this, we\nintroduce multi-view consistent Gaussian noise on the 3D object, which can be\nrendered from various viewpoints to compute the flow gradient. Our experiments\ndemonstrate that CFD, through consistent flows, significantly outperforms\nprevious methods in text-to-3D generation.",
+            "pdf_url": "http://arxiv.org/pdf/2501.05445v1",
+            "published": "2025-01-09 18:56:05+00:00",
+            "updated": "2025-01-09 18:56:05+00:00"
+        },
+        {
+            "title": "Progressive Growing of Video Tokenizers for Highly Compressed Latent Spaces",
+            "authors": "Aniruddha Mahapatra, Long Mai, Yitian Zhang, David Bourgin, Feng Liu",
+            "summary": "Video tokenizers are essential for latent video diffusion models, converting\nraw video data into spatiotemporally compressed latent spaces for efficient\ntraining. However, extending state-of-the-art video tokenizers to achieve a\ntemporal compression ratio beyond 4x without increasing channel capacity poses\nsignificant challenges. In this work, we propose an alternative approach to\nenhance temporal compression. We find that the reconstruction quality of\ntemporally subsampled videos from a low-compression encoder surpasses that of\nhigh-compression encoders applied to original videos. This indicates that\nhigh-compression models can leverage representations from lower-compression\nmodels. Building on this insight, we develop a bootstrapped\nhigh-temporal-compression model that progressively trains high-compression\nblocks atop well-trained lower-compression models. Our method includes a\ncross-level feature-mixing module to retain information from the pretrained\nlow-compression model and guide higher-compression blocks to capture the\nremaining details from the full video sequence. Evaluation of video benchmarks\nshows that our method significantly improves reconstruction quality while\nincreasing temporal compression compared to direct extensions of existing video\ntokenizers. Furthermore, the resulting compact latent space effectively trains\na video diffusion model for high-quality video generation with a reduced token\nbudget.",
+            "pdf_url": "http://arxiv.org/pdf/2501.05442v1",
+            "published": "2025-01-09 18:55:15+00:00",
+            "updated": "2025-01-09 18:55:15+00:00"
+        },
+        {
+            "title": "The GAN is dead; long live the GAN! A Modern GAN Baseline",
+            "authors": "Yiwen Huang, Aaron Gokaslan, Volodymyr Kuleshov, James Tompkin",
+            "summary": "There is a widely-spread claim that GANs are difficult to train, and GAN\narchitectures in the literature are littered with empirical tricks. We provide\nevidence against this claim and build a modern GAN baseline in a more\nprincipled manner. First, we derive a well-behaved regularized relativistic GAN\nloss that addresses issues of mode dropping and non-convergence that were\npreviously tackled via a bag of ad-hoc tricks. We analyze our loss\nmathematically and prove that it admits local convergence guarantees, unlike\nmost existing relativistic losses. Second, our new loss allows us to discard\nall ad-hoc tricks and replace outdated backbones used in common GANs with\nmodern architectures. Using StyleGAN2 as an example, we present a roadmap of\nsimplification and modernization that results in a new minimalist baseline --\nR3GAN. Despite being simple, our approach surpasses StyleGAN2 on FFHQ,\nImageNet, CIFAR, and Stacked MNIST datasets, and compares favorably against\nstate-of-the-art GANs and diffusion models.",
+            "pdf_url": "http://arxiv.org/pdf/2501.05441v1",
+            "published": "2025-01-09 18:53:06+00:00",
+            "updated": "2025-01-09 18:53:06+00:00"
+        },
+        {
+            "title": "TimeDP: Learning to Generate Multi-Domain Time Series with Domain Prompts",
+            "authors": "Yu-Hao Huang, Chang Xu, Yueying Wu, Wu-Jun Li, Jiang Bian",
+            "summary": "Time series generation models are crucial for applications like data\naugmentation and privacy preservation. Most existing time series generation\nmodels are typically designed to generate data from one specified domain. While\nleveraging data from other domain for better generalization is proved to work\nin other application areas, this approach remains challenging for time series\nmodeling due to the large divergence in patterns among different real world\ntime series categories. In this paper, we propose a multi-domain time series\ndiffusion model with domain prompts, named TimeDP. In TimeDP, we utilize a time\nseries semantic prototype module which defines time series prototypes to\nrepresent time series basis, each prototype vector serving as \"word\"\nrepresenting some elementary time series feature. A prototype assignment module\nis applied to extract the extract domain specific prototype weights, for\nlearning domain prompts as generation condition. During sampling, we extract\n\"domain prompt\" with few-shot samples from the target domain and use the domain\nprompts as condition to generate time series samples. Experiments demonstrate\nthat our method outperforms baselines to provide the state-of-the-art in-domain\ngeneration quality and strong unseen domain generation capability.",
+            "pdf_url": "http://arxiv.org/pdf/2501.05403v1",
+            "published": "2025-01-09 17:57:56+00:00",
+            "updated": "2025-01-09 17:57:56+00:00"
+        }
+    ]
+}
