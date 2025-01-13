@@ -105,6 +105,31 @@ TODO:
 
 
 
+
+## Update on 2025-01-13
+
+### Physics
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2024-01-19|2025-01-10|Sub-2 Kelvin characterization of nitrogen-vacancy centers in silicon carbide nanopillars|Victoria A. Norman|[2401.10509v3](http://arxiv.org/pdf/2401.10509v3)|
+|2025-01-10|2025-01-10|Meta-Learning for Physically-Constrained Neural System Identification|Ankush Chakrabarty|[2501.06167v1](http://arxiv.org/pdf/2501.06167v1)|
+|2025-01-10|2025-01-10|Supercharging Single-Atom Traps by Collisional Blockade|Mark IJspeert|[2501.06162v1](http://arxiv.org/pdf/2501.06162v1)|
+|2025-01-10|2025-01-10|Multilingual Performance of a Multimodal Artificial Intelligence System on Multisubject Physics Concept Inventories|Gerd Kortemeyer|[2501.06143v1](http://arxiv.org/pdf/2501.06143v1)|
+|2025-01-10|2025-01-10|Detecting LHC Neutrinos at Surface Level|Akitaka Ariga|[2501.06142v1](http://arxiv.org/pdf/2501.06142v1)|
+|2025-01-10|2025-01-10|Theory for the Rydberg states of helium: Comparison with experiment for the $1s24p\;^1P_1$ state ($n=24$)|Aaron T. Bondy|[2501.06096v1](http://arxiv.org/pdf/2501.06096v1)|
+|2025-01-10|2025-01-10|The Spectre of Underdetermination in Modern Cosmology|Pedro G. Ferreira|[2501.06095v1](http://arxiv.org/pdf/2501.06095v1)|
+|2025-01-10|2025-01-10|Averaged Adam accelerates stochastic optimization in the training of deep neural network approximations for partial differential equation and optimal control problems|Steffen Dereich|[2501.06081v1](http://arxiv.org/pdf/2501.06081v1)|
+|2025-01-10|2025-01-10|Searches for Top-associated Dark Matter Production at the LHC|Dominic Stafford|[2501.06072v1](http://arxiv.org/pdf/2501.06072v1)|
+|2024-08-30|2025-01-10|Precision determination of the track-position resolution of beam telescopes|M. Antonello|[2408.17215v2](http://arxiv.org/pdf/2408.17215v2)|
+
+### Diffusion
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-01-10|2025-01-10|GenMol: A Drug Discovery Generalist with Discrete Diffusion|Seul Lee|[2501.06158v1](http://arxiv.org/pdf/2501.06158v1)|
+|2025-01-10|2025-01-10|From discrete-time policies to continuous-time diffusion samplers: Asymptotic equivalences and faster training|Julius Berner|[2501.06148v1](http://arxiv.org/pdf/2501.06148v1)|
+|2024-09-17|2025-01-10|Guess What I Think: Streamlined EEG-to-Image Generation with Latent Diffusion Models|Eleonora Lopez|[2410.02780v2](http://arxiv.org/pdf/2410.02780v2)|
+|2024-07-04|2025-01-10|Advances in Diffusion Models for Image Data Augmentation: A Review of Methods, Models, Evaluation Metrics and Future Research Directions|Panagiotis Alimisis|[2407.04103v2](http://arxiv.org/pdf/2407.04103v2)|
+|2025-01-08|2025-01-10|A Steerable Deep Network for Model-Free Diffusion MRI Registration|Gianfranco Cortes|[2501.04794v2](http://arxiv.org/pdf/2501.04794v2)|
 ## Update on 2025-01-11
 
 ### Physics
