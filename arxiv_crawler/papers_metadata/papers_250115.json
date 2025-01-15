@@ -1,0 +1,126 @@
+{
+    "Physics": [
+        {
+            "title": "Parallel Electric Fields And Electron Heating Observed In The Young Solar Wind",
+            "authors": "Forrest Mozer, Oleksiy Agapitov, Kyung-Eu Choi, Richard Sydora",
+            "summary": "The largest electric fields between 18 and 30 solar radii are in narrow band\nwaves simultaneously observed at a few Hz (somewhat above the local proton\ngyrofrequency) and a few hundred Hz (far below the lower hybrid frequency),\nwith the higher frequency wave triggered at specific phases of the lower\nfrequency wave. This wave pair, called triggered ion acoustic waves (TIAW), has\nbeen shown to both be physical and to occur at times of electron heating. A\ntheory of electron heating and acceleration by the low frequency wave has been\npresented. While this theory and the TIAW results strongly suggest the presence\nof low frequency electric fields that are parallel to the local magnetic field,\nsuch fields have not been directly observed. In this paper, such parallel\nelectric field observations are reported and TIAW are further described to\nconclude that they occur during about 75 percent of the Parker Solar Probe\npasses through 18 to 30 solar radii and, when present, they are the dominant\nwave signal, lasting for hours. In the presence of these parallel electric\nfields, electrons are heated while, in their absence, there is no electron\nheating. That there is no heating between 18 and 30 solar radii in the absence\nof TIAW is a most significant result because it invalidates other proposed\nmechanisms that predict heating in this radial range all of the time.",
+            "pdf_url": "http://arxiv.org/pdf/2501.08311v1",
+            "published": "2025-01-14 18:49:39+00:00",
+            "updated": "2025-01-14 18:49:39+00:00"
+        },
+        {
+            "title": "Coiling instability in the kitchen",
+            "authors": "Andrzej Herczy\u0144ski, Maciej Lisicki",
+            "summary": "Manipulation of viscous liquids is an essential kitchen activity - from\npouring golden syrup onto a pancake to decorating a cake with whipped cream\nfrosting, from streaming ketchup on top of French fries to dispensing molten\nchocolate onto a strawberry. Typical viscosities in these and many other\nkitchen flows, and the heights from which the streams are dispensed, make such\njets susceptible to the coiling instability. Indeed, the coiling of a thin\nthread of poured maple syrup is a source of fascination for children and adults\nalike, whereas the folding of the stream of ketchup squeezed out from a plastic\nbottle is a phenomenon familiar to all. In this paper, we review the fluid\ndynamics of such kitchen flows and discuss separately the case when the\nsubstrate is stationary (honey on a toast), and when it translates (cookies on\na conveyor belt) or rotates (a pancake on a spinning hot plate). It is hoped\nthat this may encourage experimentation and enjoyment of physics in the\nkitchen, and perhaps even lead to more elegant if not more tasty culinary\nresults.",
+            "pdf_url": "http://arxiv.org/pdf/2501.08307v1",
+            "published": "2025-01-14 18:45:03+00:00",
+            "updated": "2025-01-14 18:45:03+00:00"
+        },
+        {
+            "title": "Path Loss Prediction Using Machine Learning with Extended Features",
+            "authors": "Jonathan Ethier, Mathieu Chateauvert, Ryan G. Dempsey, Alexis Bose",
+            "summary": "Wireless communications rely on path loss modeling, which is most effective\nwhen it includes the physical details of the propagation environment. Acquiring\nthis data has historically been challenging, but geographic information system\ndata is becoming increasingly available with higher resolution and accuracy.\nAccess to such details enables propagation models to more accurately predict\ncoverage and minimize interference in wireless deployments. Machine\nlearning-based modeling can significantly support this effort, with\nfeature-based approaches allowing for accurate, efficient, and scalable\npropagation modeling. Building on previous work, we introduce an extended set\nof features that improves prediction accuracy while, most importantly,\nmaintaining model generalization across a broad range of environments.",
+            "pdf_url": "http://arxiv.org/pdf/2501.08306v1",
+            "published": "2025-01-14 18:44:35+00:00",
+            "updated": "2025-01-14 18:44:35+00:00"
+        },
+        {
+            "title": "The neutron spectral moments method in the time-of-flight domain",
+            "authors": "Brian D. Appelbe, Aidan J. Crilly",
+            "summary": "An analysis methodology is developed for the time-of-flight (TOF) signals\nrecorded by two or more collinear neutron detectors located at different\ndistances from a pulsed neutron source. It is based on taking central moments\nof the TOF signals and relating these to a set of co-moments of the\ndistribution of production times and velocities of neutrons emitted towards the\ndetectors. Given n detectors, we can obtain all such co-moments of order n-1\nand lower. Co-moments contain information on the time-varying behaviour of the\nneutron source. A physical interpretation is provided for several co-moments of\ninterest.",
+            "pdf_url": "http://arxiv.org/pdf/2411.12414v2",
+            "published": "2024-11-19 11:01:12+00:00",
+            "updated": "2025-01-14 18:33:05+00:00"
+        },
+        {
+            "title": "Refining Coarse-Grained Molecular Topologies: A Bayesian Optimization Approach",
+            "authors": "Pranoy Ray, Adam P. Generale, Nikhith Vankireddy, Yuichiro Asoma, Masataka Nakauchi, Haein Lee, Katsuhisa Yoshida, Yoshishige Okuno, Surya R. Kalidindi",
+            "summary": "Molecular Dynamics (MD) simulations are essential for accurately predicting\nthe physical and chemical properties of large molecular systems across various\npressure and temperature ensembles. However, the high computational costs\nassociated with All-Atom (AA) MD simulations have led to the development of\nCoarse-Grained Molecular Dynamics (CGMD), providing a lower-dimensional\ncompression of the AA structure into representative CG beads, offering reduced\ncomputational expense at the cost of predictive accuracy. Existing CGMD\nmethods, such as CG-Martini (calibrated against experimental data), aim to\ngenerate an embedding of a topology that sufficiently generalizes across a\nrange of structures. Detrimentally, in attempting to specify parameterization\nwith applicability across molecular classes, it is unable to specialize to\ndomain-specific applications, where sufficient accuracy and computational speed\nare critical. This work presents a novel approach to optimize derived results\nfrom CGMD simulations by refining the general-purpose Martini3 topologies for\ndomain-specific applications using Bayesian Optimization methodologies. We have\ndeveloped and validated a CG potential applicable to any degree of\npolymerization, representing a significant advancement in the field. Our\noptimized CG potential, based on the Martini3 framework, aims to achieve\naccuracy comparable to AAMD while maintaining the computational efficiency of\nCGMD. This approach bridges the gap between efficiency and accuracy in\nmultiscale molecular simulations, potentially enabling more rapid and\ncost-effective molecular discovery across various scientific and technological\ndomains.",
+            "pdf_url": "http://arxiv.org/pdf/2501.02707v3",
+            "published": "2025-01-06 01:18:47+00:00",
+            "updated": "2025-01-14 18:32:12+00:00"
+        },
+        {
+            "title": "On the first test of the Weak Equivalence Principle in low Earth orbit",
+            "authors": "Anna M. Nobili, Alberto Anselmi",
+            "summary": "The Weak Equivalence Principle is the founding pillar of General Relativity\nand as such it should be verified as precisely as possible. The Microscope\nexperiment tested it in low Earth orbit, finding that Pt and Ti test masses\nfall toward Earth with the same acceleration to about 1e-15, an improvement of\nabout two orders of magnitude over ground tests. Space missions, even if small,\nare expensive and hard to replicate; yet, the essence of physics is\nrepeatability. This work is an assessment of the Microscope results based on\nthe laws of physics and knowledge from previous experiments, focusing on the\nlimiting thermal noise and the treatment of acceleration outliers. Thermal\nnoise reveals anomalies that we explain by stray sub-microVolt potentials\ncaused by patch charges, giving rise to an unstable zero. The measurements were\naffected by numerous acceleration spikes occurring at the synodic frequencies\nrelative to the Earth (the signal frequency) and the Sun, which we interpret as\nevidence of a thermal origin. In Microscope authors' analysis, the spikes were\nremoved and the resulting gaps replaced with artificial data (up to 35, 40 per\ncent of the sessions data), which retain memory of the gaps and may simulate or\ncancel an effect (signal or systematic). An alternative approach based\nexclusively on real measured data would avoid any ambiguity. The lessons of\nMicroscope are crucial to any futures improved mission.",
+            "pdf_url": "http://arxiv.org/pdf/2302.06400v6",
+            "published": "2023-02-13 14:37:46+00:00",
+            "updated": "2025-01-14 17:56:51+00:00"
+        },
+        {
+            "title": "Lake- and Surface-Based Detectors for Forward Neutrino Physics",
+            "authors": "Nicholas W. Kamp, Carlos A. Arg\u00fcelles, Albrecht Karle, Jennifer Thomas, Tianlu Yuan",
+            "summary": "We propose two medium-baseline, kiloton-scale neutrino experiments to study\nneutrinos from LHC proton-proton collisions: SINE, a surface-based scintillator\npanel detector observing muon neutrinos from the CMS interaction point, and\nUNDINE, a water Cherenkov detector submerged in lake Geneva observing\nall-flavor neutrinos from LHCb. Using a Monte Carlo simulation, we estimate\nmillions of neutrino interactions during the high-luminosity LHC era. We show\nthat these datasets can constrain neutrino cross sections, charm production in\n$pp$ collisions, and strangeness enhancement as a solution to the cosmic-ray\nmuon puzzle. SINE and UNDINE thus offer a cost-effective medium-baseline\ncomplement to the proposed short-baseline forward physics facility.",
+            "pdf_url": "http://arxiv.org/pdf/2501.08278v1",
+            "published": "2025-01-14 17:54:35+00:00",
+            "updated": "2025-01-14 17:54:35+00:00"
+        },
+        {
+            "title": "Direct Observation of Strongly Tilted Dirac Points at General Positions in the Reciprocal Space",
+            "authors": "Yangsong Ye, Shijie Kang, Jiusi Yu, Aoning Luo, Xiexuan Zhang, Yiyi Yao, Ken Qin, Bo Hou, Haitao Li, Xiaoxiao Wu",
+            "summary": "Type-II Dirac points (DPs), which occur at the intersection of strongly\ntilted and touching energy bands, exhibit many intriguing physical phenomena\nfundamentally different from the non-tilted type-I counterparts. Over the past\ndecade, their discovery has spurred extensive research into electronic systems\nand other Bloch-wave systems, such as photonic and phononic crystals. However,\ncurrent studies typically focus on type-II DPs along high-symmetry directions\nin the first Brillouin zone (FBZ) under mirror symmetry conditions, which are\nhighly restrictive and limit further investigations and applications. To\novercome the stringent constraint, here we identify and demonstrate the\nemergence of type-II DPs at general positions inside the FBZ without requiring\nthe mirror symmetry. The type-II DPs, being accidental degeneracies, are\nexperimentally realized on a metacrystal slab with H-shaped metallic patterns.\nOur findings indicate that even in the absence of mirror symmetry, type-II DPs\ncan emerge at designated locations inside the FBZ by simply rotating the\nH-shaped patterns and adjusting geometrical and physical parameters.\nFurthermore, based on the rotated type-II DPs, off-axis conical diffractions\nhave been both realized and experimentally observed. Meanwhile, we discovered\nthat during the rotation process, the type-II DPs transform into off-axis\ntype-I DPs, but still strongly tilted, resulting in the emergence of negative\nrefractions. Hence, the generic method we propose for inducing type-II or\nstrongly tilted type-I DPs without the high-symmetry limitations opens\npotential avenues for related research. For example, the observed off-axis\nconical diffraction and negative refraction could inspire future development\nand applications in photonics and other Bloch-wave systems.",
+            "pdf_url": "http://arxiv.org/pdf/2501.08275v1",
+            "published": "2025-01-14 17:48:05+00:00",
+            "updated": "2025-01-14 17:48:05+00:00"
+        },
+        {
+            "title": "Integer Quantum Hall Effect: Disorder, temperature, floating, and plateau width",
+            "authors": "Stuart Yi-Thomas, Yi Huang, Jay D. Sau, Sankar Das Sarma",
+            "summary": "We theoretically consider disorder and temperature effects on the integer\nquantum Hall effect (IQHE) using a variety of distinct and complementary\nanalytical and numerical techniques. In particular, we address simple,\nphysical, and experimentally relevant questions: How does disorder and/or\ntemperature affect the IQHE plateau width? Does the plateau width increase or\ndecrease with disorder and/or temperature? What happens to the peak in the\nlongitudinal conductance with increasing disorder/temperature? Does the\nlongitudinal conductance obey any universal scaling property? Is there\n\"floating\" with increasing disorder and/or decreasing magnetic field? Can\ndisorder destroy the IQHE? Is there an IQHE to localization transition? What is\nthe Landau level dependence of the plateau width? Our detailed theory provides\nanswers to these and other related experimentally relevant questions. We\ndiscuss our results in the context of existing experimental results and suggest\nfuture experiments arising from our work. A key finding is that disorder and\ntemperature are intrinsically connected in affecting IQHE, and there is an\nintricate interplay between them leading to nonmonotonicity in how the IQHE\nplateau width behaves as a function of increasing disorder. Both must be\nconsidered on an equal footing in understanding IQHE experiments.",
+            "pdf_url": "http://arxiv.org/pdf/2501.08273v1",
+            "published": "2025-01-14 17:43:36+00:00",
+            "updated": "2025-01-14 17:43:36+00:00"
+        },
+        {
+            "title": "Fluctuating Ensemble Averages and the BTZ Threshold",
+            "authors": "R. Sammani, E. H Saidi, R. Ahl Laamara, L. B Drissi",
+            "summary": "Recent work shows fascinating links between ensemble averaging and the\nSwampland program. In order to break the emerging global symmetries of the\nensemble averaging as dictated by the no global symmetries conjecture, one may\nconsider fluctuations away from the average given by deviations in the\nSiegel-Weil formula. In this work, we investigate the physical interpretation\nof these fluctuations in the bulk physics and pinpoint the states giving rise\nto them. For this purpose, we explore an ensemble of generalised Narain CFTs\nand build the AdS$_{3}$ gravitational dual in the Chern-Simons (CS) framework.\nWe study the associated charged BTZ black hole solution and assess its\nstability. Using the Swampland weak gravity conjecture, we show that the\nfluctuations of the ensemble average are below the BTZ threshold and correspond\nto a sublattice of superextremal states emitted by the black hole. We exploit\nthe logarithmic density of states to derive bounds on the charged vectors of\nthe abelian CS symmetry and introduce a novel formulation of the density\nfunction to ensure consistency with the sublattice WGC. We establish bounds\nthat allows to distinguish heavy states contributing to the average from light\nstates generating fluctuations around it.",
+            "pdf_url": "http://arxiv.org/pdf/2501.08257v1",
+            "published": "2025-01-14 17:06:02+00:00",
+            "updated": "2025-01-14 17:06:02+00:00"
+        }
+    ],
+    "Diffusion": [
+        {
+            "title": "Diffusion Adversarial Post-Training for One-Step Video Generation",
+            "authors": "Shanchuan Lin, Xin Xia, Yuxi Ren, Ceyuan Yang, Xuefeng Xiao, Lu Jiang",
+            "summary": "The diffusion models are widely used for image and video generation, but\ntheir iterative generation process is slow and expansive. While existing\ndistillation approaches have demonstrated the potential for one-step generation\nin the image domain, they still suffer from significant quality degradation. In\nthis work, we propose Adversarial Post-Training (APT) against real data\nfollowing diffusion pre-training for one-step video generation. To improve the\ntraining stability and quality, we introduce several improvements to the model\narchitecture and training procedures, along with an approximated R1\nregularization objective. Empirically, our experiments show that our\nadversarial post-trained model, Seaweed-APT, can generate 2-second, 1280x720,\n24fps videos in real time using a single forward evaluation step. Additionally,\nour model is capable of generating 1024px images in a single step, achieving\nquality comparable to state-of-the-art methods.",
+            "pdf_url": "http://arxiv.org/pdf/2501.08316v1",
+            "published": "2025-01-14 18:51:48+00:00",
+            "updated": "2025-01-14 18:51:48+00:00"
+        },
+        {
+            "title": "FDPP: Fine-tune Diffusion Policy with Human Preference",
+            "authors": "Yuxin Chen, Devesh K. Jha, Masayoshi Tomizuka, Diego Romeres",
+            "summary": "Imitation learning from human demonstrations enables robots to perform\ncomplex manipulation tasks and has recently witnessed huge success. However,\nthese techniques often struggle to adapt behavior to new preferences or changes\nin the environment. To address these limitations, we propose Fine-tuning\nDiffusion Policy with Human Preference (FDPP). FDPP learns a reward function\nthrough preference-based learning. This reward is then used to fine-tune the\npre-trained policy with reinforcement learning (RL), resulting in alignment of\npre-trained policy with new human preferences while still solving the original\ntask. Our experiments across various robotic tasks and preferences demonstrate\nthat FDPP effectively customizes policy behavior without compromising\nperformance. Additionally, we show that incorporating Kullback-Leibler (KL)\nregularization during fine-tuning prevents over-fitting and helps maintain the\ncompetencies of the initial policy.",
+            "pdf_url": "http://arxiv.org/pdf/2501.08259v1",
+            "published": "2025-01-14 17:15:27+00:00",
+            "updated": "2025-01-14 17:15:27+00:00"
+        },
+        {
+            "title": "Deep Compression Autoencoder for Efficient High-Resolution Diffusion Models",
+            "authors": "Junyu Chen, Han Cai, Junsong Chen, Enze Xie, Shang Yang, Haotian Tang, Muyang Li, Yao Lu, Song Han",
+            "summary": "We present Deep Compression Autoencoder (DC-AE), a new family of autoencoder\nmodels for accelerating high-resolution diffusion models. Existing autoencoder\nmodels have demonstrated impressive results at a moderate spatial compression\nratio (e.g., 8x), but fail to maintain satisfactory reconstruction accuracy for\nhigh spatial compression ratios (e.g., 64x). We address this challenge by\nintroducing two key techniques: (1) Residual Autoencoding, where we design our\nmodels to learn residuals based on the space-to-channel transformed features to\nalleviate the optimization difficulty of high spatial-compression autoencoders;\n(2) Decoupled High-Resolution Adaptation, an efficient decoupled three-phases\ntraining strategy for mitigating the generalization penalty of high\nspatial-compression autoencoders. With these designs, we improve the\nautoencoder's spatial compression ratio up to 128 while maintaining the\nreconstruction quality. Applying our DC-AE to latent diffusion models, we\nachieve significant speedup without accuracy drop. For example, on ImageNet\n512x512, our DC-AE provides 19.1x inference speedup and 17.9x training speedup\non H100 GPU for UViT-H while achieving a better FID, compared with the widely\nused SD-VAE-f8 autoencoder. Our code is available at\nhttps://github.com/mit-han-lab/efficientvit.",
+            "pdf_url": "http://arxiv.org/pdf/2410.10733v4",
+            "published": "2024-10-14 17:15:07+00:00",
+            "updated": "2025-01-14 16:47:44+00:00"
+        },
+        {
+            "title": "Text-Diffusion Red-Teaming of Large Language Models: Unveiling Harmful Behaviors with Proximity Constraints",
+            "authors": "Jonathan N\u00f6ther, Adish Singla, Goran Radanovi\u0107",
+            "summary": "Recent work has proposed automated red-teaming methods for testing the\nvulnerabilities of a given target large language model (LLM). These methods use\nred-teaming LLMs to uncover inputs that induce harmful behavior in a target\nLLM. In this paper, we study red-teaming strategies that enable a targeted\nsecurity assessment. We propose an optimization framework for red-teaming with\nproximity constraints, where the discovered prompts must be similar to\nreference prompts from a given dataset. This dataset serves as a template for\nthe discovered prompts, anchoring the search for test-cases to specific topics,\nwriting styles, or types of harmful behavior. We show that established\nauto-regressive model architectures do not perform well in this setting. We\ntherefore introduce a black-box red-teaming method inspired by text-diffusion\nmodels: Diffusion for Auditing and Red-Teaming (DART). DART modifies the\nreference prompt by perturbing it in the embedding space, directly controlling\nthe amount of change introduced. We systematically evaluate our method by\ncomparing its effectiveness with established methods based on model fine-tuning\nand zero- and few-shot prompting. Our results show that DART is significantly\nmore effective at discovering harmful inputs in close proximity to the\nreference prompt.",
+            "pdf_url": "http://arxiv.org/pdf/2501.08246v1",
+            "published": "2025-01-14 16:32:01+00:00",
+            "updated": "2025-01-14 16:32:01+00:00"
+        },
+        {
+            "title": "D$^2$-DPM: Dual Denoising for Quantized Diffusion Probabilistic Models",
+            "authors": "Qian Zeng, Jie Song, Han Zheng, Hao Jiang, Mingli Song",
+            "summary": "Diffusion models have achieved cutting-edge performance in image generation.\nHowever, their lengthy denoising process and computationally intensive score\nestimation network impede their scalability in low-latency and\nresource-constrained scenarios. Post-training quantization (PTQ) compresses and\naccelerates diffusion models without retraining, but it inevitably introduces\nadditional quantization noise, resulting in mean and variance deviations. In\nthis work, we propose D2-DPM, a dual denoising mechanism aimed at precisely\nmitigating the adverse effects of quantization noise on the noise estimation\nnetwork. Specifically, we first unravel the impact of quantization noise on the\nsampling equation into two components: the mean deviation and the variance\ndeviation. The mean deviation alters the drift coefficient of the sampling\nequation, influencing the trajectory trend, while the variance deviation\nmagnifies the diffusion coefficient, impacting the convergence of the sampling\ntrajectory. The proposed D2-DPM is thus devised to denoise the quantization\nnoise at each time step, and then denoise the noisy sample through the inverse\ndiffusion iterations. Experimental results demonstrate that D2-DPM achieves\nsuperior generation quality, yielding a 1.42 lower FID than the full-precision\nmodel while achieving 3.99x compression and 11.67x bit-operation acceleration.",
+            "pdf_url": "http://arxiv.org/pdf/2501.08180v1",
+            "published": "2025-01-14 15:03:53+00:00",
+            "updated": "2025-01-14 15:03:53+00:00"
+        }
+    ]
+}

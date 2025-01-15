@@ -106,6 +106,31 @@ TODO:
 
 
 
+
+## Update on 2025-01-15
+
+### Physics
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-01-14|2025-01-14|Parallel Electric Fields And Electron Heating Observed In The Young Solar Wind|Forrest Mozer|[2501.08311v1](http://arxiv.org/pdf/2501.08311v1)|
+|2025-01-14|2025-01-14|Coiling instability in the kitchen|Andrzej Herczyński|[2501.08307v1](http://arxiv.org/pdf/2501.08307v1)|
+|2025-01-14|2025-01-14|Path Loss Prediction Using Machine Learning with Extended Features|Jonathan Ethier|[2501.08306v1](http://arxiv.org/pdf/2501.08306v1)|
+|2024-11-19|2025-01-14|The neutron spectral moments method in the time-of-flight domain|Brian D. Appelbe|[2411.12414v2](http://arxiv.org/pdf/2411.12414v2)|
+|2025-01-06|2025-01-14|Refining Coarse-Grained Molecular Topologies: A Bayesian Optimization Approach|Pranoy Ray|[2501.02707v3](http://arxiv.org/pdf/2501.02707v3)|
+|2023-02-13|2025-01-14|On the first test of the Weak Equivalence Principle in low Earth orbit|Anna M. Nobili|[2302.06400v6](http://arxiv.org/pdf/2302.06400v6)|
+|2025-01-14|2025-01-14|Lake- and Surface-Based Detectors for Forward Neutrino Physics|Nicholas W. Kamp|[2501.08278v1](http://arxiv.org/pdf/2501.08278v1)|
+|2025-01-14|2025-01-14|Direct Observation of Strongly Tilted Dirac Points at General Positions in the Reciprocal Space|Yangsong Ye|[2501.08275v1](http://arxiv.org/pdf/2501.08275v1)|
+|2025-01-14|2025-01-14|Integer Quantum Hall Effect: Disorder, temperature, floating, and plateau width|Stuart Yi-Thomas|[2501.08273v1](http://arxiv.org/pdf/2501.08273v1)|
+|2025-01-14|2025-01-14|Fluctuating Ensemble Averages and the BTZ Threshold|R. Sammani|[2501.08257v1](http://arxiv.org/pdf/2501.08257v1)|
+
+### Diffusion
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-01-14|2025-01-14|Diffusion Adversarial Post-Training for One-Step Video Generation|Shanchuan Lin|[2501.08316v1](http://arxiv.org/pdf/2501.08316v1)|
+|2025-01-14|2025-01-14|FDPP: Fine-tune Diffusion Policy with Human Preference|Yuxin Chen|[2501.08259v1](http://arxiv.org/pdf/2501.08259v1)|
+|2024-10-14|2025-01-14|Deep Compression Autoencoder for Efficient High-Resolution Diffusion Models|Junyu Chen|[2410.10733v4](http://arxiv.org/pdf/2410.10733v4)|
+|2025-01-14|2025-01-14|Text-Diffusion Red-Teaming of Large Language Models: Unveiling Harmful Behaviors with Proximity Constraints|Jonathan Nöther|[2501.08246v1](http://arxiv.org/pdf/2501.08246v1)|
+|2025-01-14|2025-01-14|D$^2$-DPM: Dual Denoising for Quantized Diffusion Probabilistic Models|Qian Zeng|[2501.08180v1](http://arxiv.org/pdf/2501.08180v1)|
 ## Update on 2025-01-13
 
 ### Physics
