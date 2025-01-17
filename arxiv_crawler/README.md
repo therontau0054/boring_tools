@@ -107,6 +107,31 @@ TODO:
 
 
 
+
+## Update on 2025-01-17
+
+### Physics
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-01-16|2025-01-16|Coming full circle -- A unified framework for Kochen-Specker contextuality|Markus Frembs|[2501.09750v1](http://arxiv.org/pdf/2501.09750v1)|
+|2025-01-16|2025-01-16|KU AIGEN ICL EDI@BC8 Track 3: Advancing Phenotype Named Entity Recognition and Normalization for Dysmorphology Physical Examination Reports|Hajung Kim|[2501.09744v1](http://arxiv.org/pdf/2501.09744v1)|
+|2024-12-06|2025-01-16|Using Machine Learning to Discover Parsimonious and Physically-Interpretable Representations of Catchment-Scale Rainfall-Runoff Dynamics|Yuan-Heng Wang|[2412.04845v2](http://arxiv.org/pdf/2412.04845v2)|
+|2024-03-13|2025-01-16|Evidence of enhanced thermopower from emergent local moments in flatbands of magic-angle twisted bilayer graphene|Ayan Ghosh|[2403.08686v2](http://arxiv.org/pdf/2403.08686v2)|
+|2025-01-16|2025-01-16|Generating particle physics Lagrangians with transformers|Yong Sheng Koay|[2501.09729v1](http://arxiv.org/pdf/2501.09729v1)|
+|2024-08-16|2025-01-16|Multimessenger study of baryon-charged QCD matter in heavy-ion collisions|Lipei Du|[2408.08501v2](http://arxiv.org/pdf/2408.08501v2)|
+|2025-01-06|2025-01-16|Lindblad estimation with fast and precise quantum control|James W. Gardner|[2501.03364v2](http://arxiv.org/pdf/2501.03364v2)|
+|2025-01-16|2025-01-16|Sample-based Krylov Quantum Diagonalization|Jeffery Yu|[2501.09702v1](http://arxiv.org/pdf/2501.09702v1)|
+|2025-01-16|2025-01-16|Mixed anion control of enhanced negative thermal expansion in the oxysulfide of PbTiO3|Zhao Pan|[2501.09701v1](http://arxiv.org/pdf/2501.09701v1)|
+|2024-06-14|2025-01-16|Insights into Dark Matter Direct Detection Experiments: Decision Trees versus Deep Learning|Daniel E. Lopez-Fogliani|[2406.10372v2](http://arxiv.org/pdf/2406.10372v2)|
+
+### Diffusion
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-01-16|2025-01-16|Learnings from Scaling Visual Tokenizers for Reconstruction and Generation|Philippe Hansen-Estruch|[2501.09755v1](http://arxiv.org/pdf/2501.09755v1)|
+|2025-01-16|2025-01-16|FAST: Efficient Action Tokenization for Vision-Language-Action Models|Karl Pertsch|[2501.09747v1](http://arxiv.org/pdf/2501.09747v1)|
+|2025-01-16|2025-01-16|Reward-Guided Controlled Generation for Inference-Time Alignment in Diffusion Models: Tutorial and Review|Masatoshi Uehara|[2501.09685v1](http://arxiv.org/pdf/2501.09685v1)|
+|2022-09-10|2025-01-16|Diffusion Models in Vision: A Survey|Florinel-Alin Croitoru|[2209.04747v6](http://arxiv.org/pdf/2209.04747v6)|
+|2025-01-16|2025-01-16|Pruning for Sparse Diffusion Models based on Gradient Flow|Ben Wan|[2501.09464v1](http://arxiv.org/pdf/2501.09464v1)|
 ## Update on 2025-01-15
 
 ### Physics
