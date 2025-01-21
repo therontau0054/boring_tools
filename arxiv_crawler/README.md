@@ -108,6 +108,31 @@ TODO:
 
 
 
+
+## Update on 2025-01-21
+
+### Physics
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-01-17|2025-01-17|Parton distributions confront LHC Run II data: a quantitative appraisal|Amedeo Chiefa|[2501.10359v1](http://arxiv.org/pdf/2501.10359v1)|
+|2025-01-17|2025-01-17|Exploring the Standard Model and Beyond from the Evidence of CE$ν$NS with Reactor Antineutrinos in CONUS+|M. Alpízar-Venegas|[2501.10355v1](http://arxiv.org/pdf/2501.10355v1)|
+|2025-01-17|2025-01-17|Resolving discrepancies in bang-time predictions for ICF experiments on the NIF: Insights from the Build-A-Hohlraum Campaign|G. F. Swadling|[2501.10350v1](http://arxiv.org/pdf/2501.10350v1)|
+|2024-12-09|2025-01-17|Top observables as precise probes of the ALP|Anh Vu Phan|[2412.06506v2](http://arxiv.org/pdf/2412.06506v2)|
+|2023-11-15|2025-01-17|Mass and wind luminosity of young Galactic open clusters in Gaia DR2|Silvia Celli|[2311.09089v3](http://arxiv.org/pdf/2311.09089v3)|
+|2025-01-17|2025-01-17|Elucidating the high compliance mechanism by which the urinary bladder fills under low pressures|Fatemeh Azari|[2501.10312v1](http://arxiv.org/pdf/2501.10312v1)|
+|2024-10-30|2025-01-17|The Auger-Meitner Radioisotope Microscope: an instrument for characterization of Auger electron multiplicities and energy distributions|Patrick R. Stollenwerk|[2410.23103v2](http://arxiv.org/pdf/2410.23103v2)|
+|2016-06-02|2025-01-17|Matrix Product Density Operators: Renormalization Fixed Points and Boundary Theories|J. I. Cirac|[1606.00608v4](http://arxiv.org/pdf/1606.00608v4)|
+|2025-01-17|2025-01-17|Intense Laser-Driven Phenomena In Weyl Semimetals|Amar Bharti|[2501.10293v1](http://arxiv.org/pdf/2501.10293v1)|
+|2025-01-17|2025-01-17|A precise study of the SU(3) Yang-Mills theory across the deconfinement transition|Leonardo Giusti|[2501.10284v1](http://arxiv.org/pdf/2501.10284v1)|
+
+### Diffusion
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2024-08-18|2025-01-17|Moonshine: Distilling Game Content Generators into Steerable Generative Models|Yuhe Nie|[2408.09594v2](http://arxiv.org/pdf/2408.09594v2)|
+|2024-11-03|2025-01-17|DPCL-Diff: The Temporal Knowledge Graph Reasoning Based on Graph Node Diffusion Model with Dual-Domain Periodic Contrastive Learning|Yukun Cao|[2411.01477v2](http://arxiv.org/pdf/2411.01477v2)|
+|2023-12-20|2025-01-17|Generate E-commerce Product Background by Integrating Category Commonality and Personalized Style|Haohan Wang|[2312.13309v2](http://arxiv.org/pdf/2312.13309v2)|
+|2024-04-04|2025-01-17|Mitigating analytical variability in fMRI results with style transfer|Elodie Germani|[2404.03703v3](http://arxiv.org/pdf/2404.03703v3)|
+|2025-01-17|2025-01-17|Enhancing Crash Frequency Modeling Based on Augmented Multi-Type Data by Hybrid VAE-Diffusion-Based Generative Neural Networks|Junlan Chen|[2501.10017v1](http://arxiv.org/pdf/2501.10017v1)|
 ## Update on 2025-01-17
 
 ### Physics
