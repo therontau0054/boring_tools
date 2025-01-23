@@ -109,6 +109,36 @@ TODO:
 
 
 
+
+## Update on 2025-01-23
+
+### Physics
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-01-17|2025-01-22|The role of the chiral anomaly in polarized deeply inelastic scattering III: Wess-Zumino-Witten contributions and chiral Ward identities for finite quark mass|Andrey Tarasov|[2501.10519v2](http://arxiv.org/pdf/2501.10519v2)|
+|2025-01-22|2025-01-22|A Non-linear Massive Gravity Theory of Geometric Origin|Thibault Damour|[2501.13077v1](http://arxiv.org/pdf/2501.13077v1)|
+|2025-01-22|2025-01-22|Real-time Terahertz Compressive Optical-Digital Neural Network Imaging|Shao-Hsuan Wu|[2501.13065v1](http://arxiv.org/pdf/2501.13065v1)|
+|2025-01-21|2025-01-22|Universal programmable and self-configuring optical filter|David A. B. Miller|[2501.11811v2](http://arxiv.org/pdf/2501.11811v2)|
+|2024-04-03|2025-01-22|Quantum thermodynamics of nonequilibrium processes in lattice gauge theories|Zohreh Davoudi|[2404.02965v2](http://arxiv.org/pdf/2404.02965v2)|
+|2018-12-20|2025-01-22|Quantifying the particle aspect of quantum systems|Sreetama Das|[1812.08656v4](http://arxiv.org/pdf/1812.08656v4)|
+|2024-11-28|2025-01-22|Search for non-standard neutrino interactions with the first six detection units of KM3NeT/ORCA|S. Aiello|[2411.19078v2](http://arxiv.org/pdf/2411.19078v2)|
+|2025-01-09|2025-01-22|Bifurcations in Bosonic Stars: chains and rings from spherical solutions|Chen Liang|[2501.05342v2](http://arxiv.org/pdf/2501.05342v2)|
+|2025-01-22|2025-01-22|Is fixed-node diffusion quantum Monte Carlo reproducible?|Flaviano Della Pia|[2501.12950v1](http://arxiv.org/pdf/2501.12950v1)|
+|2024-11-05|2025-01-22|Absorptive Effects in Black Hole Scattering|Yilber Fabian Bautista|[2411.03382v2](http://arxiv.org/pdf/2411.03382v2)|
+
+### Diffusion
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-01-22|2025-01-22|Robust Representation Consistency Model via Contrastive Denoising|Jiachen Lei|[2501.13094v1](http://arxiv.org/pdf/2501.13094v1)|
+|2025-01-22|2025-01-22|Orchid: Image Latent Diffusion for Joint Appearance and Geometry Generation|Akshay Krishnan|[2501.13087v1](http://arxiv.org/pdf/2501.13087v1)|
+|2024-06-09|2025-01-22|An Efficient Framework for Crediting Data Contributors of Diffusion Models|Chris Lin|[2407.03153v2](http://arxiv.org/pdf/2407.03153v2)|
+|2024-09-27|2025-01-22|O(d/T) Convergence Theory for Diffusion Probabilistic Models under Minimal Assumptions|Gen Li|[2409.18959v2](http://arxiv.org/pdf/2409.18959v2)|
+|2025-01-22|2025-01-22|Low-dimensional adaptation of diffusion models: Convergence in total variation|Jiadong Liang|[2501.12982v1](http://arxiv.org/pdf/2501.12982v1)|
+
+### Quantitative Finance
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2024-03-05|2025-01-19|Quasi-Monte Carlo with Domain Transformation for Efficient Fourier Pricing of Multi-Asset Options|Christian Bayer|[2403.02832v2](http://arxiv.org/pdf/2403.02832v2)|
 ## Update on 2025-01-21
 
 ### Physics
