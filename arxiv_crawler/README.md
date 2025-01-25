@@ -110,6 +110,35 @@ TODO:
 
 
 
+
+## Update on 2025-01-25
+
+### Physics
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-01-23|2025-01-23|IMAGINE-E: Image Generation Intelligence Evaluation of State-of-the-art Text-to-Image Models|Jiayi Lei|[2501.13920v1](http://arxiv.org/pdf/2501.13920v1)|
+|2025-01-23|2025-01-23|The simplest 2D quantum walk detects chaoticity|C. Alonso-Lobo|[2501.13900v1](http://arxiv.org/pdf/2501.13900v1)|
+|2025-01-23|2025-01-23|Scalar field source Teleparallel Robertson-Walker F(T)-gravity solutions|Alexandre Landry|[2501.13895v1](http://arxiv.org/pdf/2501.13895v1)|
+|2025-01-23|2025-01-23|Multimodal Sensor Dataset for Monitoring Older Adults Post Lower-Limb Fractures in Community Settings|Ali Abedi|[2501.13888v1](http://arxiv.org/pdf/2501.13888v1)|
+|2025-01-23|2025-01-23|Quantum model reduction for continuous-time quantum filters|Tommaso Grigoletto|[2501.13885v1](http://arxiv.org/pdf/2501.13885v1)|
+|2025-01-23|2025-01-23|Can effective descriptions of bosonic systems be considered complete?|Francesco Arzani|[2501.13857v1](http://arxiv.org/pdf/2501.13857v1)|
+|2025-01-23|2025-01-23|Dark Photon Polarimetry|Fiesta Ting Yan Leung|[2501.13849v1](http://arxiv.org/pdf/2501.13849v1)|
+|2024-06-17|2025-01-23|A search for the fine-structure constant evolution from fast radio bursts and type Ia supernovae data|Thais Lemos|[2406.11691v2](http://arxiv.org/pdf/2406.11691v2)|
+|2024-11-13|2025-01-23|The Lense-Thirring effect at work in M87$^\ast$|Lorenzo Iorio|[2411.08686v4](http://arxiv.org/pdf/2411.08686v4)|
+|2025-01-23|2025-01-23|Free-Streaming Neutrinos and Their Phase Shift in Current and Future CMB Power Spectra|Gabriele Montefalcone|[2501.13788v1](http://arxiv.org/pdf/2501.13788v1)|
+
+### Diffusion
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-01-23|2025-01-23|Can We Generate Images with CoT? Let's Verify and Reinforce Image Generation Step by Step|Ziyu Guo|[2501.13926v1](http://arxiv.org/pdf/2501.13926v1)|
+|2024-10-18|2025-01-23|Truncated Consistency Models|Sangyun Lee|[2410.14895v2](http://arxiv.org/pdf/2410.14895v2)|
+|2025-01-23|2025-01-23|Improving Video Generation with Human Feedback|Jie Liu|[2501.13918v1](http://arxiv.org/pdf/2501.13918v1)|
+|2025-01-23|2025-01-23|Unveiling the Power of Noise Priors: Enhancing Diffusion Models for Mobile Traffic Prediction|Zhi Sheng|[2501.13794v1](http://arxiv.org/pdf/2501.13794v1)|
+
+### Quantitative Finance
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-01-23|2025-01-23|Time Series Embedding Methods for Classification Tasks: A Review|Yasamin Ghahremani|[2501.13392v1](http://arxiv.org/pdf/2501.13392v1)|
 ## Update on 2025-01-23
 
 ### Physics
