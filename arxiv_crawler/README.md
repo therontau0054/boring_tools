@@ -111,6 +111,31 @@ TODO:
 
 
 
+
+## Update on 2025-01-27
+
+### Physics
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-01-24|2025-01-24|Scintillating Fibre Detector for the Mu3e Experiment|Robert Mihai Amarinei|[2501.14692v1](http://arxiv.org/pdf/2501.14692v1)|
+|2025-01-24|2025-01-24|Upgrades and maintenance of the CRYRING@ESR electron cooler for improved internal electron target operation|Athanasios Koutsostathis|[2501.14690v1](http://arxiv.org/pdf/2501.14690v1)|
+|2025-01-24|2025-01-24|Artificial Intelligence Could Have Predicted All Space Weather Events Associated with the May 2024 Superstorm|Sabrina Guastavino|[2501.14684v1](http://arxiv.org/pdf/2501.14684v1)|
+|2025-01-24|2025-01-24|How deep is the dip and how tall are the wiggles in inflationary power spectra?|Vadim Briaud|[2501.14681v1](http://arxiv.org/pdf/2501.14681v1)|
+|2025-01-24|2025-01-24|The Mu3e Experiment: Status and Short-Term Plans|Robert Mihai Amarinei|[2501.14667v1](http://arxiv.org/pdf/2501.14667v1)|
+|2024-12-29|2025-01-24|Emittance Minimization for Aberration Correction II: Physics-informed Bayesian Optimization of an Electron Microscope|Desheng Ma|[2412.20356v2](http://arxiv.org/pdf/2412.20356v2)|
+|2024-12-12|2025-01-24|Nonlinear Hall Effect in Two-dimensional Materials|Shuo Wang|[2412.09298v2](http://arxiv.org/pdf/2412.09298v2)|
+|2025-01-24|2025-01-24|Single-neuron deep generative model uncovers underlying physics of neuronal activity in Ca imaging data|Jordi Abante|[2501.14615v1](http://arxiv.org/pdf/2501.14615v1)|
+|2024-09-11|2025-01-24|Unmixing sub-leading Regge trajectories of $\mathcal{N} = 4$ Super-Yang-Mills|Julius Julius|[2409.07529v2](http://arxiv.org/pdf/2409.07529v2)|
+|2023-11-30|2025-01-24|The standard no-signalling constraints in Bell scenarios are neither sufficient nor necessary for preventing superluminal signalling with general interventions|V. Vilasini|[2311.18465v2](http://arxiv.org/pdf/2311.18465v2)|
+
+### Diffusion
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2022-11-10|2025-01-24|Controlling Moments with Kernel Stein Discrepancies|Heishiro Kanagawa|[2211.05408v6](http://arxiv.org/pdf/2211.05408v6)|
+|2025-01-23|2025-01-24|One-Prompt-One-Story: Free-Lunch Consistent Text-to-Image Generation Using a Single Prompt|Tao Liu|[2501.13554v2](http://arxiv.org/pdf/2501.13554v2)|
+|2025-01-24|2025-01-24|Handling Heterophily in Recommender Systems with Wavelet Hypergraph Diffusion|Darnbi Sakong|[2501.14399v1](http://arxiv.org/pdf/2501.14399v1)|
+|2025-01-20|2025-01-24|A Survey on Diffusion Models for Anomaly Detection|Jing Liu|[2501.11430v3](http://arxiv.org/pdf/2501.11430v3)|
+|2025-01-24|2025-01-24|TFG-Flow: Training-free Guidance in Multimodal Generative Flow|Haowei Lin|[2501.14216v1](http://arxiv.org/pdf/2501.14216v1)|
 ## Update on 2025-01-25
 
 ### Physics
