@@ -1,0 +1,126 @@
+{
+    "Physics": [
+        {
+            "title": "Useful trick to compute correlation functions of composite operators",
+            "authors": "Giovani Peruzzo",
+            "summary": "In general, in gauge field theories, physical observables are represented by\ngauge-invariant composite operators, such as the electromagnetic current. As we\nrecently demonstrated in the context of the $U\\left(1\\right)$ and\n$SU\\left(2\\right)$ Higgs models\n\\cite{Dudal:2019pyg,Dudal:2020uwb,Maas:2020kda}, correlation functions of\ngauge-invariant operators exhibit very nice properties. Besides the well-known\ngauge independence, they do not present unphysical cuts, and their\nK\\\"{a}ll\\'{e}n-Lehmann representations are positive, at least perturbatively.\nDespite all these interesting features, they are not employed as much as\nelementary fields, mainly due to the additional complexities involved in their\ncomputation and renormalization. In this article, we present a useful trick to\ncompute loop corrections to correlation functions of composite operators. This\ntrick consists of introducing an additional field with no dynamics, coupled to\nthe composite operator of interest. By using this approach, we can employ the\ntraditional algorithms used to compute correlation functions of elementary\nfields.",
+            "pdf_url": "http://arxiv.org/pdf/2501.17138v1",
+            "published": "2025-01-28 18:38:43+00:00",
+            "updated": "2025-01-28 18:38:43+00:00"
+        },
+        {
+            "title": "One-loop Renormalization Group Equations in Generic Effective Field Theories. Part I: Bosonic Operators",
+            "authors": "Miko\u0142aj Misiak, Ignacy Na\u0142\u0119cz",
+            "summary": "We consider a generic class of effective quantum field theories with\narbitrary gauge groups and scalar matter fields. In such theories, we derive\nthe one-loop Renormalization Group Equations (RGEs) for the physical\ndimension-six operators. The present paper is the first one in a series that is\ngoing to cover theories with spin-$\\frac12$ matter fields, too, including the\nphenomenologically most relevant SMEFT and LEFT cases. Our present approach\nprovides tools for deriving the yet unknown two-loop RGEs in the SMEFT.",
+            "pdf_url": "http://arxiv.org/pdf/2501.17134v1",
+            "published": "2025-01-28 18:32:26+00:00",
+            "updated": "2025-01-28 18:32:26+00:00"
+        },
+        {
+            "title": "Solving Roughly Forced Nonlinear PDEs via Misspecified Kernel Methods and Neural Networks",
+            "authors": "Matthieu Darcy, Edoardo Calvello, Ricardo Baptista, Houman Owhadi, Andrew M. Stuart, Xianjin Yang",
+            "summary": "We consider the use of Gaussian Processes (GPs) or Neural Networks (NNs) to\nnumerically approximate the solutions to nonlinear partial differential\nequations (PDEs) with rough forcing or source terms, which commonly arise as\npathwise solutions to stochastic PDEs. Kernel methods have recently been\ngeneralized to solve nonlinear PDEs by approximating their solutions as the\nmaximum a posteriori estimator of GPs that are conditioned to satisfy the PDE\nat a finite set of collocation points. The convergence and error guarantees of\nthese methods, however, rely on the PDE being defined in a classical sense and\nits solution possessing sufficient regularity to belong to the associated\nreproducing kernel Hilbert space. We propose a generalization of these methods\nto handle roughly forced nonlinear PDEs while preserving convergence guarantees\nwith an oversmoothing GP kernel that is misspecified relative to the true\nsolution's regularity. This is achieved by conditioning a regular GP to satisfy\nthe PDE with a modified source term in a weak sense (when integrated against a\nfinite number of test functions). This is equivalent to replacing the empirical\n$L^2$-loss on the PDE constraint by an empirical negative-Sobolev norm. We\nfurther show that this loss function can be used to extend physics-informed\nneural networks (PINNs) to stochastic equations, thereby resulting in a new\nNN-based variant termed Negative Sobolev Norm-PINN (NeS-PINN).",
+            "pdf_url": "http://arxiv.org/pdf/2501.17110v1",
+            "published": "2025-01-28 17:58:01+00:00",
+            "updated": "2025-01-28 17:58:01+00:00"
+        },
+        {
+            "title": "Elastic Neutrino-electron Scattering at the One-loop Level in the Standard Model",
+            "authors": "Jihong Huang, Shun Zhou",
+            "summary": "In this paper, we perform a complete calculation of the differential cross\nsection for elastic neutrino-electron scattering at the one-loop level in the\nStandard Model (SM), by using up-to-date values of relevant input parameters in\nthe on-shell renormalization scheme. A careful comparison with the calculation\ndone by Sarantakos, Sirlin and Marciano more than forty years ago in the same\nscheme is carried out, and an excellent agreement is found if the same values\nof input parameters are taken. Then we apply our results to compute the event\nrates for the detection of reactor antineutrinos in both JUNO and TAO\nexperiments, which are now under construction and will soon be in operation. It\nshould be emphasized that one-loop radiative corrections in the SM must be\ntaken into account in the first place when searching for possible new-physics\neffects in the coming era of precision neutrino physics.",
+            "pdf_url": "http://arxiv.org/pdf/2412.17047v2",
+            "published": "2024-12-22 14:58:47+00:00",
+            "updated": "2025-01-28 17:48:40+00:00"
+        },
+        {
+            "title": "The physical basis of teleological evolutions",
+            "authors": "Giuseppe Castagnoli",
+            "summary": "We show that the sheer existence of a quantum computational speedup logically\nimplies the mutually exclusive or of well-defined causal loops. In each of\nthem, it is as if the problem-solver knew in advance one of the possible halves\nof the information about the solution she will produce and measure in the\nfuture and could use this knowledge to produce the solution with fewer\ncomputation steps. Involving only the measurements of commuting observables,\nquantum algorithms are submitted to the same (classical) logic and should\ntherefore host the quantum superposition of the causal loops in question.\nHowever, their ordinary quantum description does not and, being causal in\ncharacter, cannot describe causal loops. It must therefore be incomplete and is\nin fact completed by time-symmetrizing it. This leaves the unitary part of the\nordinary quantum description of the quantum algorithm mathematically unaltered\nbut changes the behavior of causality along it. The single causal process of\nthe ordinary quantum superposition is replaced by the quantum superposition of\nthe causal loops in question. In their completed quantum description, quantum\nalgorithms respond to the pre-scientific notion of teleological evolution, that\nis, an evolution toward a goal (the solution) with an attractor in the goal it\nwill produce in the future (the solution again). Once applied to the evolutions\nof the living, this notion was dismissed with the advent of modern science for\nthe alleged absence of a physical basis. We show that, under a quantum\ncosmological interpretation of the Anthropic Principle, the same quantum\nsuperposition of causal loops underlying the teleological character of quantum\nalgorithms becomes the missing physical basis of the teleological character of\nnatural evolutions.",
+            "pdf_url": "http://arxiv.org/pdf/2310.18927v12",
+            "published": "2023-10-29 07:38:24+00:00",
+            "updated": "2025-01-28 17:29:05+00:00"
+        },
+        {
+            "title": "Robust purely optical signatures of Floquet-Bloch states in crystals",
+            "authors": "Vishal Tiwari, Ignacio Franco",
+            "summary": "Strong light-matter interactions enable triggering on-demand novel\nfunctionalities in materials. For periodically driven solids, the Floquet-Bloch\nstates have emerged as the natural states to characterize the physical\nproperties of these non-equilibrium systems. However, robust signatures of the\nFloquet-Bloch states are needed as common experimental conditions, such as\npulsed laser excitation and dissipative many-body dynamics can disrupt their\nformation and survival. Here, we identify a tell-tale signature of\nFloquet-Bloch states in the linear optical response of laser-dressed solids\nthat remains prominent even in the presence of strong spectral congestion of\nbulk matter. To do so, we introduce a computationally efficient strategy to\nfinally capture the response properties of realistic laser-dressed solids, and\nuse it to compute the optical absorption of ZnO using a model of\nfull-dimensionality. The computations reveal intense, spectrally isolated,\nabsorption/stimulated emission features at mid-infrared energies present for a\nwide range of laser-driving conditions that arise due to the hybridization of\nthe Floquet-Bloch states. As such, these spectral features open a purely\noptical pathway to investigate the birth and survival of Floquet-Bloch states\nwhile avoiding the experimental challenges of fully reconstructing the band\nstructure.",
+            "pdf_url": "http://arxiv.org/pdf/2501.17095v1",
+            "published": "2025-01-28 17:28:28+00:00",
+            "updated": "2025-01-28 17:28:28+00:00"
+        },
+        {
+            "title": "Wormholes, branes and finite matrices in sine dilaton gravity",
+            "authors": "Andreas Blommaert, Adam Levine, Thomas G. Mertens, Jacopo Papalini, Klaas Parmentier",
+            "summary": "We compute the double trumpet in sine dilaton gravity via WdW quantization.\nThe wormhole size is discretized. The wormhole amplitude matches the spectral\ncorrelation of a finite-cut matrix integral, where matrices have large but\nfinite dimensions. This strongly suggests an identification of the sine dilaton\ngravity theory with the q-deformed JT gravity matrix integral. At the very\nleast, it captures all universal content of that matrix model. The disk\ndecomposes into the physical (gauge invariant) solutions of the WdW equation,\nwhich are trumpets with discrete sizes. This decomposition modifies the usual\nno-boundary wavefunction to a normalizable one in sine dilaton gravity. We\nfurthermore present an exact quantization of sine dilaton gravity with open and\nclosed end of the world branes. These EOW branes correspond with FZZT branes\nfor the two Liouville theories that make up sine dilaton gravity. The WdW\nequation implies redundancies in this space of branes, leaving a one parameter\nfamily of gauge invariant branes. One gauge choice corresponds with branes\ndiscussed by Okuyama in the context of chord diagrams and of DSSYK. Legendre\ntransforming the EOW brane amplitude reproduces the trumpet, independent of the\nWdW quantization calculation. One could read our work as fleshing out the\nHilbert space of closed universes in sine dilaton gravity.",
+            "pdf_url": "http://arxiv.org/pdf/2501.17091v1",
+            "published": "2025-01-28 17:24:13+00:00",
+            "updated": "2025-01-28 17:24:13+00:00"
+        },
+        {
+            "title": "Graph Transformers for inverse physics: reconstructing flows around arbitrary 2D airfoils",
+            "authors": "Gregory Duth\u00e9, Imad Abdallah, Eleni Chatzi",
+            "summary": "We introduce a Graph Transformer framework that serves as a general inverse\nphysics engine on meshes, demonstrated through the challenging task of\nreconstructing aerodynamic flow fields from sparse surface measurements. While\ndeep learning has shown promising results in forward physics simulation,\ninverse problems remain particularly challenging due to their ill-posed nature\nand the difficulty of propagating information from limited boundary\nobservations. Our approach addresses these challenges by combining the\ngeometric expressiveness of message-passing neural networks with the global\nreasoning of Transformers, enabling efficient learning of inverse mappings from\nboundary conditions to complete states. We evaluate this framework on a\ncomprehensive dataset of steady-state RANS simulations around diverse airfoil\ngeometries, where the task is to reconstruct full pressure and velocity fields\nfrom surface pressure measurements alone. The architecture achieves high\nreconstruction accuracy while maintaining fast inference times. We conduct\nexperiments and provide insights into the relative importance of local\ngeometric processing and global attention mechanisms in mesh-based inverse\nproblems. We also find that the framework is robust to reduced sensor coverage.\nThese results suggest that Graph Transformers can serve as effective inverse\nphysics engines across a broader range of applications where complete system\nstates must be reconstructed from limited boundary observations.",
+            "pdf_url": "http://arxiv.org/pdf/2501.17081v1",
+            "published": "2025-01-28 17:06:09+00:00",
+            "updated": "2025-01-28 17:06:09+00:00"
+        },
+        {
+            "title": "Hovering of an actively driven fluid-lubricated foil",
+            "authors": "St\u00e9phane Poulain, Timo Koch, L. Mahadevan, Andreas Carlson",
+            "summary": "Inspired by recent experimental observations of a harmonically excited\nelastic foil hovering near a wall while supporting substantial weight, we\ndevelop a theoretical framework that describes the underlying physical effects.\nUsing elastohydrodynamic lubrication theory, we quantify how the dynamic\ndeformation of the soft foil couples to the viscous fluid flow in the\nintervening gap. Our analysis shows that the soft foil rectifies the reversible\nforcing, breaking time-reversal symmetry; the relative spatial support of the\nforcing determines whether the sheet is attracted to or repelled from the wall.\nA simple scaling law predicts the time-averaged equilibrium hovering height and\nthe maximum weight the sheet can sustain before detaching from the surface.\nNumerical simulations of the governing equation corroborate our theoretical\npredictions, are in qualitative agreement with experiments, and might explain\nthe behavior of organisms while providing design principles for soft robotics.",
+            "pdf_url": "http://arxiv.org/pdf/2501.17080v1",
+            "published": "2025-01-28 17:04:23+00:00",
+            "updated": "2025-01-28 17:04:23+00:00"
+        },
+        {
+            "title": "Fingering instability of self-similar radial flow of miscible fluids in a Hele-Shaw cell",
+            "authors": "John R. Lister, Tim-Frederik Dauck",
+            "summary": "The linear stability of miscible displacement for radial source flow at\ninfinite P\\'eclet number in a Hele-Shaw cell is calculated theoretically. The\naxisymmetric self-similar flow is shown to be unstable to viscous fingering if\nthe viscosity ratio $m$ between ambient and injected fluids exceeds $3\\over2$\nand to be stable if $m<{3\\over2}$. If $1<m<{3\\over2}$ small disturbances decay\nat rates between $t^{-3/4}$ and $t^{-1}$ relative to the $t^{1/2}$ radius of\nthe axisymmetric base-state similarity solution; if $m<1$ they decay faster\nthan $t^{-1}$. Asymptotic analysis confirms these results and gives physical\ninsight into various features of the numerically determined relationship\nbetween the growth rate and the azimuthal wavenumber and viscosity ratio.",
+            "pdf_url": "http://arxiv.org/pdf/2412.01961v2",
+            "published": "2024-12-02 20:41:14+00:00",
+            "updated": "2025-01-28 16:28:17+00:00"
+        }
+    ],
+    "Diffusion": [
+        {
+            "title": "CubeDiff: Repurposing Diffusion-Based Image Models for Panorama Generation",
+            "authors": "Nikolai Kalischek, Michael Oechsle, Fabian Manhardt, Philipp Henzler, Konrad Schindler, Federico Tombari",
+            "summary": "We introduce a novel method for generating 360{\\deg} panoramas from text\nprompts or images. Our approach leverages recent advances in 3D generation by\nemploying multi-view diffusion models to jointly synthesize the six faces of a\ncubemap. Unlike previous methods that rely on processing equirectangular\nprojections or autoregressive generation, our method treats each face as a\nstandard perspective image, simplifying the generation process and enabling the\nuse of existing multi-view diffusion models. We demonstrate that these models\ncan be adapted to produce high-quality cubemaps without requiring\ncorrespondence-aware attention layers. Our model allows for fine-grained text\ncontrol, generates high resolution panorama images and generalizes well beyond\nits training set, whilst achieving state-of-the-art results, both qualitatively\nand quantitatively. Project page: https://cubediff.github.io/",
+            "pdf_url": "http://arxiv.org/pdf/2501.17162v1",
+            "published": "2025-01-28 18:59:49+00:00",
+            "updated": "2025-01-28 18:59:49+00:00"
+        },
+        {
+            "title": "Three-Dimensional Diffusion-Weighted Multi-Slab MRI With Slice Profile Compensation Using Deep Energy Model",
+            "authors": "Reza Ghorbani, Jyothi Rikhab Chand, Chu-Yu Lee, Mathews Jacob, Merry Mani",
+            "summary": "Three-dimensional (3D) multi-slab acquisition is a technique frequently\nemployed in high-resolution diffusion-weighted MRI in order to achieve the best\nsignal-to-noise ratio (SNR) efficiency. However, this technique is limited by\nslab boundary artifacts that cause intensity fluctuations and aliasing between\nslabs which reduces the accuracy of anatomical imaging. Addressing this issue\nis crucial for advancing diffusion MRI quality and making high-resolution\nimaging more feasible for clinical and research applications. In this work, we\npropose a regularized slab profile encoding (PEN) method within a Plug-and-Play\nADMM framework, incorporating multi-scale energy (MuSE) regularization to\neffectively improve the slab combined reconstruction. Experimental results\ndemonstrate that the proposed method significantly improves image quality\ncompared to non-regularized and TV-regularized PEN approaches. The regularized\nPEN framework provides a more robust and efficient solution for high-resolution\n3D diffusion MRI, potentially enabling clearer, more reliable anatomical\nimaging across various applications.",
+            "pdf_url": "http://arxiv.org/pdf/2501.17152v1",
+            "published": "2025-01-28 18:53:16+00:00",
+            "updated": "2025-01-28 18:53:16+00:00"
+        },
+        {
+            "title": "Text-to-Image Generation for Vocabulary Learning Using the Keyword Method",
+            "authors": "Nuwan T. Attygalle, Matja\u017e Kljun, Aaron Quigley, Klen \u010dOpi\u010d Pucihar, Jens Grubert, Verena Biener, Luis A. Leiva, Juri Yoneyama, Alice Toniolo, Angela Miguel, Hirokazu Kato, Maheshya Weerasinghe",
+            "summary": "The 'keyword method' is an effective technique for learning vocabulary of a\nforeign language. It involves creating a memorable visual link between what a\nword means and what its pronunciation in a foreign language sounds like in the\nlearner's native language. However, these memorable visual links remain\nimplicit in the people's mind and are not easy to remember for a large set of\nwords. To enhance the memorisation and recall of the vocabulary, we developed\nan application that combines the keyword method with text-to-image generators\nto externalise the memorable visual links into visuals. These visuals represent\nadditional stimuli during the memorisation process. To explore the\neffectiveness of this approach we first run a pilot study to investigate how\ndifficult it is to externalise the descriptions of mental visualisations of\nmemorable links, by asking participants to write them down. We used these\ndescriptions as prompts for text-to-image generator (DALL-E2) to convert them\ninto images and asked participants to select their favourites. Next, we\ncompared different text-to-image generators (DALL-E2, Midjourney, Stable and\nLatent Diffusion) to evaluate the perceived quality of the generated images by\neach. Despite heterogeneous results, participants mostly preferred images\ngenerated by DALL-E2, which was used also for the final study. In this study,\nwe investigated whether providing such images enhances the retention of\nvocabulary being learned, compared to the keyword method only. Our results\nindicate that people did not encounter difficulties describing their\nvisualisations of memorable links and that providing corresponding images\nsignificantly improves memory retention.",
+            "pdf_url": "http://arxiv.org/pdf/2501.17099v1",
+            "published": "2025-01-28 17:39:50+00:00",
+            "updated": "2025-01-28 17:39:50+00:00"
+        },
+        {
+            "title": "On AI-Inspired UI-Design",
+            "authors": "Jialiang Wei, Anne-Lise Courbis, Thomas Lambolais, G\u00e9rard Dray, Walid Maalej",
+            "summary": "Graphical User Interface (or simply UI) is a primary mean of interaction\nbetween users and their devices. In this paper, we discuss three complementary\nArtificial Intelligence (AI) approaches for triggering the creativity of app\ndesigners and inspiring them create better and more diverse UI designs. First,\ndesigners can prompt a Large Language Model (LLM) to directly generate and\nadjust UIs. Second, a Vision-Language Model (VLM) enables designers to\neffectively search a large screenshot dataset, e.g. from apps published in app\nstores. Third, a Diffusion Model (DM) can be trained to specifically generate\nUIs as inspirational images. We present an AI-inspired design process and\ndiscuss the implications and limitations of the approaches.",
+            "pdf_url": "http://arxiv.org/pdf/2406.13631v2",
+            "published": "2024-06-19 15:28:21+00:00",
+            "updated": "2025-01-28 16:42:59+00:00"
+        },
+        {
+            "title": "Generative diffusion models from a PDE perspective",
+            "authors": "Fei Cao, Kimball Johnston, Thomas Laurent, Justin Le, S\u00e9bastien Motsch",
+            "summary": "Diffusion models have become the de facto framework for generating new\ndatasets. The core of these models lies in the ability to reverse a diffusion\nprocess in time. The goal of this manuscript is to explain, from a PDE\nperspective, how this method works and how to derive the PDE governing the\nreverse dynamics as well as to study its solution analytically. By linking\nforward and reverse dynamics, we show that the reverse process's distribution\nhas its support contained within the original distribution. Consequently,\ndiffusion methods, in their analytical formulation, do not inherently\nregularize the original distribution, and thus, there is no generalization\nprinciple. This raises a question: where does generalization arise, given that\nin practice it does occur? Moreover, we derive an explicit solution to the\nreverse process's SDE under the assumption that the starting point of the\nforward process is fixed. This provides a new derivation that links two popular\napproaches to generative diffusion models: stable diffusion (discrete dynamics)\nand the score-based approach (continuous dynamics). Finally, we explore the\ncase where the original distribution consists of a finite set of data points.\nIn this scenario, the reverse dynamics are explicit (i.e., the loss function\nhas a clear minimizer), and solving the dynamics fails to generate new samples:\nthe dynamics converge to the original samples. In a sense, solving the\nminimization problem exactly is \"too good for its own good\" (i.e., an\noverfitting regime).",
+            "pdf_url": "http://arxiv.org/pdf/2501.17054v1",
+            "published": "2025-01-28 16:29:26+00:00",
+            "updated": "2025-01-28 16:29:26+00:00"
+        }
+    ]
+}

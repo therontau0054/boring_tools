@@ -112,6 +112,31 @@ TODO:
 
 
 
+
+## Update on 2025-01-29
+
+### Physics
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-01-28|2025-01-28|Useful trick to compute correlation functions of composite operators|Giovani Peruzzo|[2501.17138v1](http://arxiv.org/pdf/2501.17138v1)|
+|2025-01-28|2025-01-28|One-loop Renormalization Group Equations in Generic Effective Field Theories. Part I: Bosonic Operators|Mikołaj Misiak|[2501.17134v1](http://arxiv.org/pdf/2501.17134v1)|
+|2025-01-28|2025-01-28|Solving Roughly Forced Nonlinear PDEs via Misspecified Kernel Methods and Neural Networks|Matthieu Darcy|[2501.17110v1](http://arxiv.org/pdf/2501.17110v1)|
+|2024-12-22|2025-01-28|Elastic Neutrino-electron Scattering at the One-loop Level in the Standard Model|Jihong Huang|[2412.17047v2](http://arxiv.org/pdf/2412.17047v2)|
+|2023-10-29|2025-01-28|The physical basis of teleological evolutions|Giuseppe Castagnoli|[2310.18927v12](http://arxiv.org/pdf/2310.18927v12)|
+|2025-01-28|2025-01-28|Robust purely optical signatures of Floquet-Bloch states in crystals|Vishal Tiwari|[2501.17095v1](http://arxiv.org/pdf/2501.17095v1)|
+|2025-01-28|2025-01-28|Wormholes, branes and finite matrices in sine dilaton gravity|Andreas Blommaert|[2501.17091v1](http://arxiv.org/pdf/2501.17091v1)|
+|2025-01-28|2025-01-28|Graph Transformers for inverse physics: reconstructing flows around arbitrary 2D airfoils|Gregory Duthé|[2501.17081v1](http://arxiv.org/pdf/2501.17081v1)|
+|2025-01-28|2025-01-28|Hovering of an actively driven fluid-lubricated foil|Stéphane Poulain|[2501.17080v1](http://arxiv.org/pdf/2501.17080v1)|
+|2024-12-02|2025-01-28|Fingering instability of self-similar radial flow of miscible fluids in a Hele-Shaw cell|John R. Lister|[2412.01961v2](http://arxiv.org/pdf/2412.01961v2)|
+
+### Diffusion
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-01-28|2025-01-28|CubeDiff: Repurposing Diffusion-Based Image Models for Panorama Generation|Nikolai Kalischek|[2501.17162v1](http://arxiv.org/pdf/2501.17162v1)|
+|2025-01-28|2025-01-28|Three-Dimensional Diffusion-Weighted Multi-Slab MRI With Slice Profile Compensation Using Deep Energy Model|Reza Ghorbani|[2501.17152v1](http://arxiv.org/pdf/2501.17152v1)|
+|2025-01-28|2025-01-28|Text-to-Image Generation for Vocabulary Learning Using the Keyword Method|Nuwan T. Attygalle|[2501.17099v1](http://arxiv.org/pdf/2501.17099v1)|
+|2024-06-19|2025-01-28|On AI-Inspired UI-Design|Jialiang Wei|[2406.13631v2](http://arxiv.org/pdf/2406.13631v2)|
+|2025-01-28|2025-01-28|Generative diffusion models from a PDE perspective|Fei Cao|[2501.17054v1](http://arxiv.org/pdf/2501.17054v1)|
 ## Update on 2025-01-27
 
 ### Physics
