@@ -1,0 +1,126 @@
+{
+    "Physics": [
+        {
+            "title": "Towards more accurate $B_{(s)}\\rightarrow\u03c0(K)$ and $D_{(s)}\\rightarrow\u03c0(K)$ form factors",
+            "authors": "Logan Roberts, Chris Bouchard, Olmo Francesconi, Will Parrott",
+            "summary": "We present progress on the calculation of scalar, vector, and tensor form\nfactors for the following meson decays: $B\\rightarrow\\pi$, $B_s\\rightarrow K$,\n$D\\rightarrow\\pi$ and $D_s\\rightarrow K$. This calculation uses the MILC HISQ\ngluon field ensembles with HISQ valence quarks. We generate ensembles of\ncorrelator data with varying lattice spacings, some as small as 0.044 fm. Some\nensembles have a strange-to-light quark mass ratio of 5:1 and others use the\nphysical light quark mass. The fully-relativistic, heavy-HISQ approach is used\nfor the heavy quark, with simulation masses ranging from the charm to near the\nbottom. This heavy-HISQ approach provides nearly full coverage of the kinematic\nrange.",
+            "pdf_url": "http://arxiv.org/pdf/2501.18586v1",
+            "published": "2025-01-30 18:58:27+00:00",
+            "updated": "2025-01-30 18:58:27+00:00"
+        },
+        {
+            "title": "Accuracy and Robustness of Weight-Balancing Methods for Training PINNs",
+            "authors": "Matthieu Barreau, Haoming Shen",
+            "summary": "Physics-Informed Neural Networks (PINNs) have emerged as powerful tools for\nintegrating physics-based models with data by minimizing both data and physics\nlosses. However, this multi-objective optimization problem is notoriously\nchallenging, with some benchmark problems leading to unfeasible solutions. To\naddress these issues, various strategies have been proposed, including adaptive\nweight adjustments in the loss function. In this work, we introduce clear\ndefinitions of accuracy and robustness in the context of PINNs and propose a\nnovel training algorithm based on the Primal-Dual (PD) optimization framework.\nOur approach enhances the robustness of PINNs while maintaining comparable\nperformance to existing weight-balancing methods. Numerical experiments\ndemonstrate that the PD method consistently achieves reliable solutions across\nall investigated cases and can be easily implemented, facilitating its\npractical adoption. The code is available at\nhttps://github.com/haoming-SHEN/Accuracy-and-Robustness-of-Weight-Balancing-Methods-for-Training-PINNs.git.",
+            "pdf_url": "http://arxiv.org/pdf/2501.18582v1",
+            "published": "2025-01-30 18:54:22+00:00",
+            "updated": "2025-01-30 18:54:22+00:00"
+        },
+        {
+            "title": "CGAN-Based Framework for Meson Mass and Width Prediction",
+            "authors": "S. Rostami, M. Malekhosseini, M. Rahavi Ezabadi, K. Azizi",
+            "summary": "Generative Adversarial Networks (GANs) are influential machine learning\nmodels that have gained prominence across various research fields, including\nhigh-energy physics (HEP) simulations. Among them, Conditional GANs (CGANs)\noffer a unique advantage by conditioning on specific parameters, making them\nparticularly well-suited for meson studies. Given the limited size of the\navailable meson dataset$ - $based on the quark content, quantum numbers, mass,\nand width$ - $this study, for the first time, applies the CGAN framework to\naugment the dataset of mesons, while preserving the inherent characteristics of\nthe original data. Using this enhanced dataset, we employ the CGAN model to\nestimate the mass and width of both ordinary and exotic mesons, based solely on\ntheir quark content and quantum numbers. Our CGAN$ - $based predictions\nhighlight the framework's potential as a reliable tool for meson property\nestimation, providing valuable insights for future research in particle\nphysics.",
+            "pdf_url": "http://arxiv.org/pdf/2501.18562v1",
+            "published": "2025-01-30 18:36:38+00:00",
+            "updated": "2025-01-30 18:36:38+00:00"
+        },
+        {
+            "title": "Probing topological matter and fermion dynamics on a neutral-atom quantum computer",
+            "authors": "Simon J. Evered, Marcin Kalinowski, Alexandra A. Geim, Tom Manovitz, Dolev Bluvstein, Sophie H. Li, Nishad Maskara, Hengyun Zhou, Sepehr Ebadi, Muqing Xu, Joseph Campo, Madelyn Cain, Stefan Ostermann, Susanne F. Yelin, Subir Sachdev, Markus Greiner, Vladan Vuleti\u0107, Mikhail D. Lukin",
+            "summary": "Quantum simulations of many-body systems are among the most promising\napplications of quantum computers. In particular, models based on\nstrongly-correlated fermions are central to our understanding of quantum\nchemistry and materials problems, and can lead to exotic, topological phases of\nmatter. However, due to the non-local nature of fermions, such models are\nchallenging to simulate with qubit devices. Here we realize a digital quantum\nsimulation architecture for two-dimensional fermionic systems based on\nreconfigurable atom arrays. We utilize a fermion-to-qubit mapping based on\nKitaev's model on a honeycomb lattice, in which fermionic statistics are\nencoded using long-range entangled states. We prepare these states efficiently\nusing measurement and feedforward, realize subsequent fermionic evolution\nthrough Floquet engineering with tunable entangling gates interspersed with\natom rearrangement, and improve results with built-in error detection.\nLeveraging this fermion description of the Kitaev spin model, we efficiently\nprepare topological states across its complex phase diagram and verify the\nnon-Abelian spin liquid phase by evaluating an odd Chern number. We further\nexplore this two-dimensional fermion system by realizing tunable dynamics and\ndirectly probing fermion exchange statistics. Finally, we simulate strong\ninteractions and study dynamics of the Fermi-Hubbard model on a square lattice.\nThese results pave the way for digital quantum simulations of complex fermionic\nsystems for materials science, chemistry, and high-energy physics.",
+            "pdf_url": "http://arxiv.org/pdf/2501.18554v1",
+            "published": "2025-01-30 18:32:23+00:00",
+            "updated": "2025-01-30 18:32:23+00:00"
+        },
+        {
+            "title": "Reactor antineutrinos CE$\u03bd$NS on germanium: CONUS+ and TEXONO as a new gateway to SM and BSM physics",
+            "authors": "M. Atzori Corona, M. Cadeddu, N. Cargioli, F. Dordei, C. Giunti",
+            "summary": "Coherent elastic neutrino-nucleus scattering (CE$\\nu$NS) is a key process for\nprobing Standard Model and beyond the Standard Model (BSM) properties.\nFollowing its first detection by the COHERENT collaboration, recent\nreactor-based experiments provide a unique opportunity to refine our current\nunderstanding. In particular, the high-precision data from CONUS+, combined\nwith the strong bounds from TEXONO, not only validate the CE$\\nu$NS process at\nlow energies but also provide improved constraints on the weak mixing angle,\nneutrino electromagnetic properties - including charge radius, millicharge, and\nmagnetic moment - as well as non-standard interactions and light mediators. We\nalso examine the role of elastic neutrino-electron scattering, which gains\nsignificance in certain BSM scenarios and allows us to obtain the best limit\nfor the millicharge of the electron neutrinos. By combining reactor and\nhigher-energy spallation neutron source measurements, this work strengthens\nCE$\\nu$NS as a precision tool for testing the Standard Model and beyond.",
+            "pdf_url": "http://arxiv.org/pdf/2501.18550v1",
+            "published": "2025-01-30 18:26:47+00:00",
+            "updated": "2025-01-30 18:26:47+00:00"
+        },
+        {
+            "title": "Barr-Zee Diagrams at a High-Energy Muon Collider",
+            "authors": "Samuel Homiller, Jackie Lodman, Aditya Parikh, Matthew Reece",
+            "summary": "The sensitivity of electron EDM experiments has been increasing at a rapid\npace, and could yield indications of new physics in the coming decade. An\nintriguing possibility is that an EDM signal could be generated by new,\nelectroweak-charged particles at the TeV scale that couple to the Higgs and\ncontribute to the electron EDM at two-loop order via Barr-Zee diagrams. A\nhigh-energy muon collider could decisively search for new physics at this\nscale. In this work, we explore this complementarity between colliders and EDM\nexperiments, and note that Barr-Zee diagrams from the aforementioned particles\nare closely related to vector-boson scattering processes at a muon collider.\nThese loop corrections lead to kinematic features in the differential cross\nsections of these processes, dictated by the optical theorem. We demonstrate\nthis connection in the context of the singlet-doublet and doublet-triplet\nextensions to the SM, explore the detectability of these features at a muon\ncollider experiment, and discuss how these measurements can be used to\nascertain the underlying model parameters.",
+            "pdf_url": "http://arxiv.org/pdf/2410.01873v2",
+            "published": "2024-10-02 18:00:00+00:00",
+            "updated": "2025-01-30 18:24:05+00:00"
+        },
+        {
+            "title": "Mitigating shot noise in local overlapping quantum tomography with semidefinite programming",
+            "authors": "Zherui Jerry Wang, David Dechant, Yash J. Patel, Jordi Tura",
+            "summary": "Reduced density matrices (RDMs) are fundamental in quantum information\nprocessing, allowing the computation of local observables, such as energy and\ncorrelation functions, without the exponential complexity of fully\ncharacterizing quantum states. In the context of near-term quantum computing,\nRDMs provide sufficient information to effectively design variational quantum\nalgorithms. However, their experimental estimation is challenging, as it\ninvolves preparing and measuring quantum states in multiple bases - a\nresource-intensive process susceptible to producing non-physical RDMs due to\nshot noise from limited measurements. To address this, we propose a method to\nmitigate shot noise by re-enforcing certain physicality constraints on RDMs.\nWhile verifying RDM compatibility with a global state is QMA-complete, we relax\nthis condition by enforcing compatibility constraints up to a certain level\nusing a polynomial-size semidefinite program to reconstruct overlapping RDMs\nfrom simulated experimental data. Our approach yields, on average, tighter\nbounds for the same number of measurements compared to tomography without\ncompatibility constraints. We demonstrate the versatility and efficacy of our\nmethod by integrating it into an algorithmic cooling procedure to prepare\nlow-energy states of local Hamiltonians. Simulations on frustrated Hamiltonians\nreveal notable improvements in accuracy and resource efficiency, highlighting\nthe potential of our approach for practical applications in near-term quantum\ncomputing.",
+            "pdf_url": "http://arxiv.org/pdf/2501.18546v1",
+            "published": "2025-01-30 18:17:13+00:00",
+            "updated": "2025-01-30 18:17:13+00:00"
+        },
+        {
+            "title": "Balance Laws and Transport Theorems for Flows with Singular Interfaces",
+            "authors": "Ferdinand Thein, Gerald Warnecke",
+            "summary": "This paper gives a concise but rigorous mathematical description of a\nmaterial control volume that is separated into two parts by a singular surface\nat which physical states are discontinuous. The geometrical background material\nis summarized in a unified manner. Transport theorems for use in generic\nbalance laws are given with proofs since they provide some insight into the\nresults. Also the step from integral balances to differential equations is\ngiven in some detail.",
+            "pdf_url": "http://arxiv.org/pdf/2501.18518v1",
+            "published": "2025-01-30 17:31:47+00:00",
+            "updated": "2025-01-30 17:31:47+00:00"
+        },
+        {
+            "title": "Fractonic self-duality and covariant magnetic fractons",
+            "authors": "Erica Bertolini, Giandomenico Palumbo",
+            "summary": "Fractons, excitations with restricted mobility, have emerged as a novel\nparadigm in high-energy and condensed matter physics, revealing deep\nconnections to gauge theories and gravity. Here, we propose a tensorial\ngeneralization of electromagnetic duality using a doubled-potential framework\nwith two symmetric tensor gauge fields. This approach symmetrically describes\nelectric and magnetic sectors, introducing covariant magnetic fractons with\nreduced mobility and supporting a genuine fractonic self-duality. Notably, we\nfind the absence of a Witten-like effect in the covariant fractonic case,\nprecluding the emergence of fractonic dyons.",
+            "pdf_url": "http://arxiv.org/pdf/2501.18510v1",
+            "published": "2025-01-30 17:21:12+00:00",
+            "updated": "2025-01-30 17:21:12+00:00"
+        },
+        {
+            "title": "L-shell Photoionisation Cross Sections in the S^{+}, S^{2+}, S^{3+} Isonuclear Sequence",
+            "authors": "J. -P. Mosnier, E. T. Kennedy, D. Cubaynes, J. -M. Bizau, S. Guilbaud, C. Blancard, B. M. McLaughlin, M. F. Hasoglu, T. W. Gorczyca",
+            "summary": "We present absolute L-shell photoionisation cross sections for the S+, S2+,\nS3+ions. The cross sections were obtained using the monochromatised photon beam\ndelivered by the SOLEIL synchrotron source coupled with an ion beam extracted\nfrom an electron cyclotron resonance source (ECRIS) in the merged dual-beam\nconfiguration. The cross sections for single, double and triple ionisation were\nmeasured and combined to generate total photoionisation cross sections. For\neach of the S+, S2+, S3+ ions, the photon energy regions corresponding to the\nexcitation and ionisation of a 2p or a 2s electron (175-230 eV) were\ninvestigated. The experimental results are interpreted with the help of\nmulticonfigurational Dirac-Fock (MCDF) and Breit-Pauli R-Matrix (BPRM) or Dirac\nR-Matrix (DARC) theoretical calculations. The former generates photoabsorption\ncross sections from eigenenergies and eigenfunctions obtained by solving\nvariationally the multiconfiguration Dirac Hamiltonian while the latter\ncalculate cross sections for photon scattering by atoms. The cross sectional\nspectra feature rich resonance structures with narrow natural widths (typically\nless than 100 meV) due to 2p to nd excitations below and up to the 2p\nthresholds. This behaviour is consistent with the large number of inner-shell\nstates based on correlation and spin-orbit mixed configurations having three\nopen subshells. Strong and wide (typically 1 eV) Rydberg series of resonances\ndue to 2s to np excitations dominate above the 2p threshold.",
+            "pdf_url": "http://arxiv.org/pdf/2501.18497v1",
+            "published": "2025-01-30 17:08:42+00:00",
+            "updated": "2025-01-30 17:08:42+00:00"
+        }
+    ],
+    "Diffusion": [
+        {
+            "title": "Diffusion Autoencoders are Scalable Image Tokenizers",
+            "authors": "Yinbo Chen, Rohit Girdhar, Xiaolong Wang, Sai Saketh Rambhatla, Ishan Misra",
+            "summary": "Tokenizing images into compact visual representations is a key step in\nlearning efficient and high-quality image generative models. We present a\nsimple diffusion tokenizer (DiTo) that learns compact visual representations\nfor image generation models. Our key insight is that a single learning\nobjective, diffusion L2 loss, can be used for training scalable image\ntokenizers. Since diffusion is already widely used for image generation, our\ninsight greatly simplifies training such tokenizers. In contrast, current\nstate-of-the-art tokenizers rely on an empirically found combination of\nheuristics and losses, thus requiring a complex training recipe that relies on\nnon-trivially balancing different losses and pretrained supervised models. We\nshow design decisions, along with theoretical grounding, that enable us to\nscale DiTo for learning competitive image representations. Our results show\nthat DiTo is a simpler, scalable, and self-supervised alternative to the\ncurrent state-of-the-art image tokenizer which is supervised. DiTo achieves\ncompetitive or better quality than state-of-the-art in image reconstruction and\ndownstream image generation tasks.",
+            "pdf_url": "http://arxiv.org/pdf/2501.18593v1",
+            "published": "2025-01-30 18:59:37+00:00",
+            "updated": "2025-01-30 18:59:37+00:00"
+        },
+        {
+            "title": "More Expressive Attention with Negative Weights",
+            "authors": "Ang Lv, Ruobing Xie, Shuaipeng Li, Jiayi Liao, Xingwu Sun, Zhanhui Kang, Di Wang, Rui Yan",
+            "summary": "We propose a novel attention mechanism, named Cog Attention, that enables\nattention weights to be negative for enhanced expressiveness, which stems from\ntwo key factors: (1) Cog Attention enhances parameter flexibility. For example,\nunlike traditional softmax attention heads that use a static output-value (OV)\nmatrix to delete or copy inputs that the heads attend to, Cog Attention\nnaturally learns to use the sign of dynamic query-key (QK) inner products to\nrepresent these operations. This enables Cog Attention to perform multiple\noperations simultaneously within a single head. Meanwhile, Cog Attention's OV\nmatrix can focus more on refinement or modification. (2) Cog Attention enhances\nthe model's robustness against representational collapse by preventing the\n``over-squashing'' of earlier tokens into later positions. We develop\nTransformer-like models which use Cog Attention as attention modules, including\ndecoder-only models at various scales for language modeling and U-ViT diffusion\nmodels for image generation. Experiments show that models using Cog Attention\nexhibit superior performance compared to those employing traditional softmax\nattention modules. Our approach suggests a promising research direction for\nrethinking and breaking the entrenched constraints of traditional softmax\nattention, such as the requirement for non-negative weights.",
+            "pdf_url": "http://arxiv.org/pdf/2411.07176v3",
+            "published": "2024-11-11 17:56:28+00:00",
+            "updated": "2025-01-30 18:17:13+00:00"
+        },
+        {
+            "title": "Beyond Prior Limits: Addressing Distribution Misalignment in Particle Filtering",
+            "authors": "Yiwei Shi, Jingyu Hu, Yu Zhang, Mengyue Yang, Weinan Zhang, Cunjia Liu, Weiru Liu",
+            "summary": "Particle filtering is a Bayesian inference method and a fundamental tool in\nstate estimation for dynamic systems, but its effectiveness is often limited by\nthe constraints of the initial prior distribution, a phenomenon we define as\nthe Prior Boundary Phenomenon. This challenge arises when target states lie\noutside the prior's support, rendering traditional particle filtering methods\ninadequate for accurate estimation. Although techniques like unbounded priors\nand larger particle sets have been proposed, they remain computationally\nprohibitive and lack adaptability in dynamic scenarios. To systematically\novercome these limitations, we propose the Diffusion-Enhanced Particle\nFiltering Framework, which introduces three key innovations: adaptive diffusion\nthrough exploratory particles, entropy-driven regularisation to prevent weight\ncollapse, and kernel-based perturbations for dynamic support expansion. These\nmechanisms collectively enable particle filtering to explore beyond prior\nboundaries, ensuring robust state estimation for out-of-boundary targets.\nTheoretical analysis and extensive experiments validate framework's\neffectiveness, indicating significant improvements in success rates and\nestimation accuracy across high-dimensional and non-convex scenarios.",
+            "pdf_url": "http://arxiv.org/pdf/2501.18501v1",
+            "published": "2025-01-30 17:11:34+00:00",
+            "updated": "2025-01-30 17:11:34+00:00"
+        },
+        {
+            "title": "Zero-Shot Medical Phrase Grounding with Off-the-shelf Diffusion Models",
+            "authors": "Konstantinos Vilouras, Pedro Sanchez, Alison Q. O'Neil, Sotirios A. Tsaftaris",
+            "summary": "Localizing the exact pathological regions in a given medical scan is an\nimportant imaging problem that traditionally requires a large amount of\nbounding box ground truth annotations to be accurately solved. However, there\nexist alternative, potentially weaker, forms of supervision, such as\naccompanying free-text reports, which are readily available. The task of\nperforming localization with textual guidance is commonly referred to as phrase\ngrounding. In this work, we use a publicly available Foundation Model, namely\nthe Latent Diffusion Model, to perform this challenging task. This choice is\nsupported by the fact that the Latent Diffusion Model, despite being generative\nin nature, contains cross-attention mechanisms that implicitly align visual and\ntextual features, thus leading to intermediate representations that are\nsuitable for the task at hand. In addition, we aim to perform this task in a\nzero-shot manner, i.e., without any training on the target task, meaning that\nthe model's weights remain frozen. To this end, we devise strategies to select\nfeatures and also refine them via post-processing without extra learnable\nparameters. We compare our proposed method with state-of-the-art approaches\nwhich explicitly enforce image-text alignment in a joint embedding space via\ncontrastive learning. Results on a popular chest X-ray benchmark indicate that\nour method is competitive with SOTA on different types of pathology, and even\noutperforms them on average in terms of two metrics (mean IoU and AUC-ROC).\nSource code will be released upon acceptance at https://github.com/vios-s.",
+            "pdf_url": "http://arxiv.org/pdf/2404.12920v4",
+            "published": "2024-04-19 14:43:48+00:00",
+            "updated": "2025-01-30 16:31:27+00:00"
+        },
+        {
+            "title": "Bayesian Flow Is All You Need to Sample Out-of-Distribution Chemical Spaces",
+            "authors": "Nianze Tao",
+            "summary": "Generating novel molecules with higher properties than the training space,\nnamely the out-of-distribution generation, is important for ${de~novo}$ drug\ndesign. However, it is not easy for distribution learning-based models, for\nexample diffusion models, to solve this challenge as these methods are designed\nto fit the distribution of training data as close as possible. In this paper,\nwe show that Bayesian flow network is capable of effortlessly generating high\nquality out-of-distribution samples that meet several scenarios. We introduce a\nsemi-autoregressive training/sampling method that helps to enhance the model\nperformance and surpass the state-of-the-art models.",
+            "pdf_url": "http://arxiv.org/pdf/2412.11439v2",
+            "published": "2024-12-16 04:43:54+00:00",
+            "updated": "2025-01-30 09:03:11+00:00"
+        }
+    ]
+}

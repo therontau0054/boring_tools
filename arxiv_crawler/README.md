@@ -113,6 +113,31 @@ TODO:
 
 
 
+
+## Update on 2025-01-31
+
+### Physics
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-01-30|2025-01-30|Towards more accurate $B_{(s)}\rightarrowπ(K)$ and $D_{(s)}\rightarrowπ(K)$ form factors|Logan Roberts|[2501.18586v1](http://arxiv.org/pdf/2501.18586v1)|
+|2025-01-30|2025-01-30|Accuracy and Robustness of Weight-Balancing Methods for Training PINNs|Matthieu Barreau|[2501.18582v1](http://arxiv.org/pdf/2501.18582v1)|
+|2025-01-30|2025-01-30|CGAN-Based Framework for Meson Mass and Width Prediction|S. Rostami|[2501.18562v1](http://arxiv.org/pdf/2501.18562v1)|
+|2025-01-30|2025-01-30|Probing topological matter and fermion dynamics on a neutral-atom quantum computer|Simon J. Evered|[2501.18554v1](http://arxiv.org/pdf/2501.18554v1)|
+|2025-01-30|2025-01-30|Reactor antineutrinos CE$ν$NS on germanium: CONUS+ and TEXONO as a new gateway to SM and BSM physics|M. Atzori Corona|[2501.18550v1](http://arxiv.org/pdf/2501.18550v1)|
+|2024-10-02|2025-01-30|Barr-Zee Diagrams at a High-Energy Muon Collider|Samuel Homiller|[2410.01873v2](http://arxiv.org/pdf/2410.01873v2)|
+|2025-01-30|2025-01-30|Mitigating shot noise in local overlapping quantum tomography with semidefinite programming|Zherui Jerry Wang|[2501.18546v1](http://arxiv.org/pdf/2501.18546v1)|
+|2025-01-30|2025-01-30|Balance Laws and Transport Theorems for Flows with Singular Interfaces|Ferdinand Thein|[2501.18518v1](http://arxiv.org/pdf/2501.18518v1)|
+|2025-01-30|2025-01-30|Fractonic self-duality and covariant magnetic fractons|Erica Bertolini|[2501.18510v1](http://arxiv.org/pdf/2501.18510v1)|
+|2025-01-30|2025-01-30|L-shell Photoionisation Cross Sections in the S^{+}, S^{2+}, S^{3+} Isonuclear Sequence|J. -P. Mosnier|[2501.18497v1](http://arxiv.org/pdf/2501.18497v1)|
+
+### Diffusion
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-01-30|2025-01-30|Diffusion Autoencoders are Scalable Image Tokenizers|Yinbo Chen|[2501.18593v1](http://arxiv.org/pdf/2501.18593v1)|
+|2024-11-11|2025-01-30|More Expressive Attention with Negative Weights|Ang Lv|[2411.07176v3](http://arxiv.org/pdf/2411.07176v3)|
+|2025-01-30|2025-01-30|Beyond Prior Limits: Addressing Distribution Misalignment in Particle Filtering|Yiwei Shi|[2501.18501v1](http://arxiv.org/pdf/2501.18501v1)|
+|2024-04-19|2025-01-30|Zero-Shot Medical Phrase Grounding with Off-the-shelf Diffusion Models|Konstantinos Vilouras|[2404.12920v4](http://arxiv.org/pdf/2404.12920v4)|
+|2024-12-16|2025-01-30|Bayesian Flow Is All You Need to Sample Out-of-Distribution Chemical Spaces|Nianze Tao|[2412.11439v2](http://arxiv.org/pdf/2412.11439v2)|
 ## Update on 2025-01-29
 
 ### Physics
