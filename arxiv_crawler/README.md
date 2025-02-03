@@ -114,6 +114,31 @@ TODO:
 
 
 
+
+## Update on 2025-02-03
+
+### Physics
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-01-31|2025-01-31|A topological theory for qLDPC: non-Clifford gates and magic state fountain on homological product codes with constant rate and beyond the $N^{1/3}$ distance barrier|Guanyu Zhu|[2501.19375v1](http://arxiv.org/pdf/2501.19375v1)|
+|2025-01-31|2025-01-31|Fixing the Double Penalty in Data-Driven Weather Forecasting Through a Modified Spherical Harmonic Loss Function|Christopher Subich|[2501.19374v1](http://arxiv.org/pdf/2501.19374v1)|
+|2024-11-15|2025-01-31|How to Build a Quantum Supercomputer: Scaling from Hundreds to Millions of Qubits|Masoud Mohseni|[2411.10406v2](http://arxiv.org/pdf/2411.10406v2)|
+|2025-01-31|2025-01-31|The Physics and Metaphysics of Social Powers: Bridging Cognitive Processing and Social Dynamics, a New Perspective on Power through Active Inference|Mahault Albarracin|[2501.19368v1](http://arxiv.org/pdf/2501.19368v1)|
+|2025-01-31|2025-01-31|Methods for the study of light propagation in LArTPCs|Marcio R. Adames|[2501.19363v1](http://arxiv.org/pdf/2501.19363v1)|
+|2025-01-15|2025-01-31|Towards Fast, Specialized Machine Learning Force Fields: Distilling Foundation Models via Energy Hessians|Ishan Amin|[2501.09009v2](http://arxiv.org/pdf/2501.09009v2)|
+|2024-01-04|2025-01-31|Gravitational waves from dark domain walls|Øyvind Christiansen|[2401.02409v2](http://arxiv.org/pdf/2401.02409v2)|
+|2025-01-31|2025-01-31|Various constraints on BSM physics from extensive air showers and from ultra-high energy gamma-ray and neutrino searches|O. Deligny|[2501.19322v1](http://arxiv.org/pdf/2501.19322v1)|
+|2025-01-31|2025-01-31|From scattering towards multi-hadron weak decays|Felix Erben|[2501.19302v1](http://arxiv.org/pdf/2501.19302v1)|
+|2024-10-22|2025-01-31|Duality defect in a deformed transverse-field Ising model|Fei Yan|[2410.17317v3](http://arxiv.org/pdf/2410.17317v3)|
+
+### Diffusion
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-01-29|2025-01-31|SAeUron: Interpretable Concept Unlearning in Diffusion Models with Sparse Autoencoders|Bartosz Cywiński|[2501.18052v2](http://arxiv.org/pdf/2501.18052v2)|
+|2025-01-31|2025-01-31|Beyond Fixed Horizons: A Theoretical Framework for Adaptive Denoising Diffusions|Sören Christensen|[2501.19373v1](http://arxiv.org/pdf/2501.19373v1)|
+|2025-01-31|2025-01-31|CoSTI: Consistency Models for (a faster) Spatio-Temporal Imputation|Javier Solís-García|[2501.19364v1](http://arxiv.org/pdf/2501.19364v1)|
+|2025-01-31|2025-01-31|Pathological MRI Segmentation by Synthetic Pathological Data Generation in Fetuses and Neonates|Misha P. T Kaandorp|[2501.19338v1](http://arxiv.org/pdf/2501.19338v1)|
+|2025-01-31|2025-01-31|Medical Semantic Segmentation with Diffusion Pretrain|David Li|[2501.19265v1](http://arxiv.org/pdf/2501.19265v1)|
 ## Update on 2025-01-31
 
 ### Physics
