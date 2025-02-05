@@ -115,6 +115,31 @@ TODO:
 
 
 
+
+## Update on 2025-02-05
+
+### Physics
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2024-12-30|2025-02-04|Bayesian analysis of hybrid neutron star EoS constraints within a nonlocal color superconducting quark matter model|Alexander Ayriyan|[2501.00115v2](http://arxiv.org/pdf/2501.00115v2)|
+|2025-02-04|2025-02-04|Primordial Sharp Features through the Nonlinear Regime of Structure Formation|Clément Stahl|[2502.02571v1](http://arxiv.org/pdf/2502.02571v1)|
+|2024-09-03|2025-02-04|Towards a group structure for superluminal velocity boosts|Matthew J. Lake|[2409.01773v2](http://arxiv.org/pdf/2409.01773v2)|
+|2023-11-13|2025-02-04|Optical manifestations and bounds of topological Euler class|Wojciech J. Jankowski|[2311.07545v3](http://arxiv.org/pdf/2311.07545v3)|
+|2025-02-04|2025-02-04|Particle Trajectory Representation Learning with Masked Point Modeling|Sam Young|[2502.02558v1](http://arxiv.org/pdf/2502.02558v1)|
+|2024-10-09|2025-02-04|The (1+3)-dimensional 'quantum principle of relativity' is Einstein's principle of relativity|Matthew J. Lake|[2410.07017v4](http://arxiv.org/pdf/2410.07017v4)|
+|2024-08-20|2025-02-04|Stability of the Standard Model Vacuum with Vector-Like Leptons: A Critical Examination|Kivanc Y. Cingiloglu|[2408.10898v2](http://arxiv.org/pdf/2408.10898v2)|
+|2023-10-27|2025-02-04|Local Reduced-Order Modeling for Electrostatic Plasmas by Physics-Informed Solution Manifold Decomposition|Ping-Hsuan Tsai|[2310.18493v4](http://arxiv.org/pdf/2310.18493v4)|
+|2025-02-04|2025-02-04|Accurate Modeling of Directional Couplers with Oxide Cladding: Bridging Simulation and Experiment|Yuval Warshavsky|[2502.02515v1](http://arxiv.org/pdf/2502.02515v1)|
+|2025-02-04|2025-02-04|Learning to generate physical ocean states: Towards hybrid climate modeling|Etienne Meunier|[2502.02499v1](http://arxiv.org/pdf/2502.02499v1)|
+
+### Diffusion
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-02-04|2025-02-04|Open Materials Generation with Stochastic Interpolants|Philipp Hoellmer|[2502.02582v1](http://arxiv.org/pdf/2502.02582v1)|
+|2024-04-01|2025-02-04|UFID: A Unified Framework for Input-level Backdoor Detection on Diffusion Models|Zihan Guan|[2404.01101v2](http://arxiv.org/pdf/2404.01101v2)|
+|2025-02-04|2025-02-04|Privacy Attacks on Image AutoRegressive Models|Antoni Kowalczuk|[2502.02514v1](http://arxiv.org/pdf/2502.02514v1)|
+|2025-02-04|2025-02-04|Generative Modeling on Lie Groups via Euclidean Generalized Score Matching|Marco Bertolini|[2502.02513v1](http://arxiv.org/pdf/2502.02513v1)|
+|2025-02-04|2025-02-04|Do Graph Diffusion Models Accurately Capture and Generate Substructure Distributions?|Xiyuan Wang|[2502.02488v1](http://arxiv.org/pdf/2502.02488v1)|
 ## Update on 2025-02-03
 
 ### Physics
