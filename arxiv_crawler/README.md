@@ -116,6 +116,36 @@ TODO:
 
 
 
+
+## Update on 2025-02-07
+
+### Physics
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-02-06|2025-02-06|Magnetic Reconnection in a Compact Magnetic Dome: Peculiar Emissions and High-velocity Plasma Flows|J. M. da Silva Santos|[2502.04292v1](http://arxiv.org/pdf/2502.04292v1)|
+|2025-02-06|2025-02-06|Exponentially Better Bounds for Quantum Optimization via Dynamical Simulation|Ahmet Burak Catli|[2502.04285v1](http://arxiv.org/pdf/2502.04285v1)|
+|2025-02-06|2025-02-06|Gaussian Process Regression for Inverse Problems in Linear PDEs|Xin Li|[2502.04276v1](http://arxiv.org/pdf/2502.04276v1)|
+|2025-02-06|2025-02-06|Fermion Dark Matter Effect on Electroweak Phase Transition|Soudeh Mirzaie|[2502.04265v1](http://arxiv.org/pdf/2502.04265v1)|
+|2024-05-10|2025-02-06|Nelson-Barr ultralight dark matter|Michael Dine|[2405.06744v2](http://arxiv.org/pdf/2405.06744v2)|
+|2025-02-06|2025-02-06|Black Hole Evaporation in Loop Quantum Gravity|Abhay Ashtekar|[2502.04252v1](http://arxiv.org/pdf/2502.04252v1)|
+|2024-10-22|2025-02-06|VideoSAM: A Large Vision Foundation Model for High-Speed Video Segmentation|Chika Maduabuchi|[2410.21304v3](http://arxiv.org/pdf/2410.21304v3)|
+|2025-02-06|2025-02-06|Search for hadronic decays of feebly-interacting particles at NA62|NA62 Collaboration|[2502.04241v1](http://arxiv.org/pdf/2502.04241v1)|
+|2025-02-06|2025-02-06|The Equation of State of QCD up to very high temperatures|Matteo Bresciani|[2502.04239v1](http://arxiv.org/pdf/2502.04239v1)|
+|2024-07-02|2025-02-06|A Modern Look at the Oscillation Physics Case for a Neutrino Factory|Peter B. Denton|[2407.02572v3](http://arxiv.org/pdf/2407.02572v3)|
+
+### Diffusion
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-02-06|2025-02-06|ConceptAttention: Diffusion Transformers Learn Highly Interpretable Features|Alec Helbling|[2502.04320v1](http://arxiv.org/pdf/2502.04320v1)|
+|2025-02-06|2025-02-06|HOG-Diff: Higher-Order Guided Diffusion for Graph Generation|Yiming Huang|[2502.04308v1](http://arxiv.org/pdf/2502.04308v1)|
+|2025-02-06|2025-02-06|Statistical guarantees for continuous-time policy evaluation: blessing of ellipticity and new tradeoffs|Wenlong Mou|[2502.04297v1](http://arxiv.org/pdf/2502.04297v1)|
+|2024-10-29|2025-02-06|Unpicking Data at the Seams: Understanding Disentanglement in VAEs|Carl Allen|[2410.22559v4](http://arxiv.org/pdf/2410.22559v4)|
+|2025-02-06|2025-02-06|Llasa: Scaling Train-Time and Inference-Time Compute for Llama-based Speech Synthesis|Zhen Ye|[2502.04128v1](http://arxiv.org/pdf/2502.04128v1)|
+
+### Quantitative Finance
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-02-05|2025-02-05|Chaos into Order: Neural Framework for Expected Value Estimation of Stochastic Partial Differential Equations|Ísak Pétursson|[2502.03670v1](http://arxiv.org/pdf/2502.03670v1)|
 ## Update on 2025-02-05
 
 ### Physics

@@ -1,0 +1,136 @@
+{
+    "Physics": [
+        {
+            "title": "Magnetic Reconnection in a Compact Magnetic Dome: Peculiar Emissions and High-velocity Plasma Flows",
+            "authors": "J. M. da Silva Santos, E. Dunnington, R. Jarolim, S. Danilovic, S. Criscuoli",
+            "summary": "Magnetic reconnection at small spatial scales is a fundamental driver of\nenergy release and plasma dynamics in the lower solar atmosphere. We present\nnovel observations of a brightening in an active region, captured in\nhigh-resolution data from the Daniel K. Inouye Solar Telescope (DKIST) using\nthe Visible Broadband Imager (VBI) and the Visible Spectro-Polarimeter (ViSP).\nThe event exhibits Ellerman bomb-like morphology in the H$\\beta$ filter,\nassociated with flux cancellation between a small negative polarity patch\nadjacent to opposite-polarity plage. Additionally, it displays a distinct\nannular emission pattern in Ca II K, hot jet-like structures containing\nAlfv\\'enic plasma flows, and cooler surges. We employ multi-line, non-local\nthermodynamic equilibrium (non-LTE) inversions of the spectropolarimetric data\nto infer the stratification of the physical parameters of the atmosphere.\nFurthermore, we use the photospheric vector magnetogram inferred from the ViSP\nspectra as a boundary condition for nonlinear force-free field extrapolations,\nrevealing the three-dimensional distribution of squashing factors. We find\nsignificant enhancements in temperature, velocity, and microturbulence confined\nto the upper photosphere and low chromosphere. Our findings provide\nobservational evidence of low-altitude magnetic reconnection along\nquasi-separatrix layers in a compact fan-spine-type configuration, highlighting\nthe complex interplay between magnetic topology, energy release, and plasma\nflows. Finally, we discuss the potential role of nonthermal particles in the\ndistinct emissions at different wavelengths.",
+            "pdf_url": "http://arxiv.org/pdf/2502.04292v1",
+            "published": "2025-02-06 18:35:05+00:00",
+            "updated": "2025-02-06 18:35:05+00:00"
+        },
+        {
+            "title": "Exponentially Better Bounds for Quantum Optimization via Dynamical Simulation",
+            "authors": "Ahmet Burak Catli, Sophia Simon, Nathan Wiebe",
+            "summary": "We provide several quantum algorithms for continuous optimization that do not\nrequire any gradient estimation. Instead, we encode the optimization problem\ninto the dynamics of a physical system and coherently simulate the time\nevolution. This allows us, in certain cases, to obtain exponentially better\nquery upper bounds relative to the best known upper bounds for gradient-based\noptimization schemes which utilize quantum computers only for the evaluation of\ngradients. Our first two algorithms can find local optima of a differentiable\nfunction $f: \\mathbb{R}^N \\rightarrow \\mathbb{R}$ by simulating either\nclassical or quantum dynamics with friction via a time-dependent Hamiltonian.\nWe show that these methods require $O(N\\kappa^2/h_x^2\\epsilon)$ queries to a\nphase oracle to find an $\\epsilon$-approximate local optimum of a locally\nquadratic objective function, where $\\kappa$ is the condition number of the\nHessian matrix and $h_x$ is the discretization spacing. In contrast, we show\nthat gradient-based methods require $O(N(1/\\epsilon)^{\\kappa \\log(3)/4})$\nqueries. Our third algorithm can find the global optimum of $f$ by preparing a\nclassical low-temperature thermal state via simulation of the classical\nLiouvillian operator associated with the Nos\\'e Hamiltonian. We use results\nfrom the quantum thermodynamics literature to bound the thermalization time for\nthe discrete system. Additionally, we analyze barren plateau effects that\ncommonly plague quantum optimization algorithms and observe that our approach\nis vastly less sensitive to this problem than standard gradient-based\noptimization. Our results suggests that these dynamical optimization approaches\nmay be far more scalable for future quantum machine learning, optimization and\nvariational experiments than was widely believed.",
+            "pdf_url": "http://arxiv.org/pdf/2502.04285v1",
+            "published": "2025-02-06 18:32:26+00:00",
+            "updated": "2025-02-06 18:32:26+00:00"
+        },
+        {
+            "title": "Gaussian Process Regression for Inverse Problems in Linear PDEs",
+            "authors": "Xin Li, Markus Lange-Hegermann, Bogdan Rai\u0163\u0103",
+            "summary": "This paper introduces a computationally efficient algorithm in system theory\nfor solving inverse problems governed by linear partial differential equations\n(PDEs). We model solutions of linear PDEs using Gaussian processes with priors\ndefined based on advanced commutative algebra and algebraic analysis. The\nimplementation of these priors is algorithmic and achieved using the Macaulay2\ncomputer algebra software. An example application includes identifying the wave\nspeed from noisy data for classical wave equations, which are widely used in\nphysics. The method achieves high accuracy while enhancing computational\nefficiency.",
+            "pdf_url": "http://arxiv.org/pdf/2502.04276v1",
+            "published": "2025-02-06 18:20:38+00:00",
+            "updated": "2025-02-06 18:20:38+00:00"
+        },
+        {
+            "title": "Fermion Dark Matter Effect on Electroweak Phase Transition",
+            "authors": "Soudeh Mirzaie, Karim Ghorbani, Parsa Ghorbani",
+            "summary": "The addition of extra scalars to the Standard Model (SM) of particle physics\nenriches the vacuum structure and consequently gives rise to strong first-order\nphase transitions (EWPT) in the early universe. We raise the question that how\nthe EWPT is affected by the addition of fermions in models beyond the SM, and\naddress this question by studying the EWPT in a dark matter model comprising a\nsinglet scalar and two Dirac fermions. The singlet scalar develops a nonzero\nvacuum expectation value (VEV), and the lighter fermion plays the role of the\ndark matter. The model evades the stringent direct detection bounds due to the\npresence of two fermions. We first show that applying the high-temperature\napproximation, no first-order phase transition is found. Then we demonstrate\nthat when including the full finite temperature corrections to the effective\npotential, the first-order phase transition becomes possible, nevertheless, all\nthe phase transitions will be weak. We therefore deduce that the addition of\nfermions reduces the strength of the EWPT.",
+            "pdf_url": "http://arxiv.org/pdf/2502.04265v1",
+            "published": "2025-02-06 18:04:26+00:00",
+            "updated": "2025-02-06 18:04:26+00:00"
+        },
+        {
+            "title": "Nelson-Barr ultralight dark matter",
+            "authors": "Michael Dine, Gilad Perez, Wolfram Ratzinger, Inbar Savoray",
+            "summary": "We show that, in the Nelson-Barr solution to the strong CP-problem, a\nnaturally light scalar can arise. It gives rise to a completely new\nphenomenology beyond that of the celebrated QCD axion, if this field\nconstitutes dark matter, as the CKM elements vary periodically in time. We also\ndiscuss how the model can be tested using quantum sensors, in particular using\nnuclear clocks, which leads to an interesting synergy between different\nfrontiers of physics.",
+            "pdf_url": "http://arxiv.org/pdf/2405.06744v2",
+            "published": "2024-05-10 18:01:10+00:00",
+            "updated": "2025-02-06 17:51:45+00:00"
+        },
+        {
+            "title": "Black Hole Evaporation in Loop Quantum Gravity",
+            "authors": "Abhay Ashtekar",
+            "summary": "The conference \\emph{Black Holes Inside and Out} marked the 50th anniversary\nof Hawking's seminal paper on black hole radiance. It was clear already from\nHawking's analysis that a proper quantum gravity theory would be essential for\na more complete understanding of the evaporation process. This task was\nundertaken in Loop Quantum Gravity (LQG) two decades ago and by now the\nliterature on the subject is quite rich. The goal of this contribution is to\nsummarize a mainstream perspective that has emerged. The intended audience is\nthe broader gravitational physics community, rather than quantum gravity\nexperts. Therefore, the emphasis is on conceptual issues, especially on the key\nfeatures that distinguish the LQG approach, and on concrete results that\nunderlie the paradigm that has emerged. This is \\emph{not} meant to be an\nexhaustive review. Rather, it is a broad-brush stroke portrait of the present\nstatus. Further details can be found in the references listed.",
+            "pdf_url": "http://arxiv.org/pdf/2502.04252v1",
+            "published": "2025-02-06 17:41:16+00:00",
+            "updated": "2025-02-06 17:41:16+00:00"
+        },
+        {
+            "title": "VideoSAM: A Large Vision Foundation Model for High-Speed Video Segmentation",
+            "authors": "Chika Maduabuchi, Ericmoore Jossou, Matteo Bucci",
+            "summary": "High-speed video (HSV) segmentation is essential for analyzing dynamic\nphysical processes in scientific and industrial applications, such as boiling\nheat transfer. Existing models like U-Net struggle with generalization and\naccurately segmenting complex bubble formations. We present VideoSAM, a\nspecialized adaptation of the Segment Anything Model (SAM), fine-tuned on a\ndiverse HSV dataset for phase detection. Through diverse experiments, VideoSAM\ndemonstrates superior performance across four fluid environments -- Water,\nFC-72, Nitrogen, and Argon -- significantly outperforming U-Net in complex\nsegmentation tasks. In addition to introducing VideoSAM, we contribute an\nopen-source HSV segmentation dataset designed for phase detection, enabling\nfuture research in this domain. Our findings underscore VideoSAM's potential to\nset new standards in robust and accurate HSV segmentation. The code and dataset\nused in this study are available online at\nhttps://github.com/chikap421/videosam.",
+            "pdf_url": "http://arxiv.org/pdf/2410.21304v3",
+            "published": "2024-10-22 18:46:36+00:00",
+            "updated": "2025-02-06 17:34:11+00:00"
+        },
+        {
+            "title": "Search for hadronic decays of feebly-interacting particles at NA62",
+            "authors": "NA62 Collaboration",
+            "summary": "The NA62 experiment at CERN has the capability to collect data in a beam-dump\nmode, where 400 GeV protons are dumped on an absorber. In this configuration,\nNew Physics particles, including dark photons, dark scalars, and axion-like\nparticles, may be produced in the absorber and decay in the instrumented volume\nbeginning approximately 80 m downstream of the dump. A search for these\nparticles decaying in flight to hadronic final states is reported, based on an\nanalysis of a sample of $1.4 \\times 10^{17}$ protons on dump collected in 2021.\nNo evidence of a New Physics signal is observed, excluding new regions of\nparameter spaces of multiple models.",
+            "pdf_url": "http://arxiv.org/pdf/2502.04241v1",
+            "published": "2025-02-06 17:31:09+00:00",
+            "updated": "2025-02-06 17:31:09+00:00"
+        },
+        {
+            "title": "The Equation of State of QCD up to very high temperatures",
+            "authors": "Matteo Bresciani, Mattia Dalla Brida, Leonardo Giusti, Michele Pepe",
+            "summary": "We present the non-perturbative computation of the entropy density in QCD for\ntemperatures ranging from 3 GeV up to the electro-weak scale, using $N_f=3$\nflavours of massless O$(a)$-improved Wilson fermions. We adopt a new strategy\ndesigned to be computationally efficient and based on formulating thermal QCD\nin a moving reference frame, where the fields satisfy shifted boundary\nconditions in the temporal direction and periodic boundary conditions along the\nspatial ones. In this setup the entropy density can be computed as the\nderivative of the free-energy density with respect to the shift parameter. For\neach physical temperature, we perform Monte Carlo simulations at four values of\nthe lattice spacing in order to extrapolate the numerical data of the entropy\ndensity to the continuum limit. We achieve a final accuracy of approximatively\n$0.5$-$1.0\\%$ and our results are compared with predictions from\nhigh-temperature perturbation theory.",
+            "pdf_url": "http://arxiv.org/pdf/2502.04239v1",
+            "published": "2025-02-06 17:25:41+00:00",
+            "updated": "2025-02-06 17:25:41+00:00"
+        },
+        {
+            "title": "A Modern Look at the Oscillation Physics Case for a Neutrino Factory",
+            "authors": "Peter B. Denton, Julia Gehrlein",
+            "summary": "The next generation of neutrino oscillation experiments, JUNO, DUNE, and HK,\nare under construction now and will collect data over the next decade and\nbeyond. As there are no approved plans to follow up this program with more\nadvanced neutrino oscillation experiments, we consider here one option that had\ngained considerable interest more than a decade ago: a neutrino factory. Such\nan experiment uses stored muons in a racetrack configuration with extremely\nwell characterized decays reducing systematic uncertainties and providing for\nmore oscillation channels. Such a machine could also be one step towards a high\nenergy muon collider program. We consider a long-baseline configuration to SURF\nusing the DUNE far detectors or modifications thereof, and compare the expected\nsensitivities of the three-flavor oscillation parameters to the anticipated\nresults from DUNE and HK. We show optimal beam configurations, the impact of\ncharge identification, the role of statistics and systematics, and the expected\nprecision to the relevant standard oscillation parameters in different DUNE\nvs.~neutrino factory configurations.",
+            "pdf_url": "http://arxiv.org/pdf/2407.02572v3",
+            "published": "2024-07-02 18:00:21+00:00",
+            "updated": "2025-02-06 17:18:01+00:00"
+        }
+    ],
+    "Diffusion": [
+        {
+            "title": "ConceptAttention: Diffusion Transformers Learn Highly Interpretable Features",
+            "authors": "Alec Helbling, Tuna Han Salih Meral, Ben Hoover, Pinar Yanardag, Duen Horng Chau",
+            "summary": "Do the rich representations of multi-modal diffusion transformers (DiTs)\nexhibit unique properties that enhance their interpretability? We introduce\nConceptAttention, a novel method that leverages the expressive power of DiT\nattention layers to generate high-quality saliency maps that precisely locate\ntextual concepts within images. Without requiring additional training,\nConceptAttention repurposes the parameters of DiT attention layers to produce\nhighly contextualized concept embeddings, contributing the major discovery that\nperforming linear projections in the output space of DiT attention layers\nyields significantly sharper saliency maps compared to commonly used\ncross-attention mechanisms. Remarkably, ConceptAttention even achieves\nstate-of-the-art performance on zero-shot image segmentation benchmarks,\noutperforming 11 other zero-shot interpretability methods on the\nImageNet-Segmentation dataset and on a single-class subset of PascalVOC. Our\nwork contributes the first evidence that the representations of multi-modal DiT\nmodels like Flux are highly transferable to vision tasks like segmentation,\neven outperforming multi-modal foundation models like CLIP.",
+            "pdf_url": "http://arxiv.org/pdf/2502.04320v1",
+            "published": "2025-02-06 18:59:00+00:00",
+            "updated": "2025-02-06 18:59:00+00:00"
+        },
+        {
+            "title": "HOG-Diff: Higher-Order Guided Diffusion for Graph Generation",
+            "authors": "Yiming Huang, Tolga Birdal",
+            "summary": "Graph generation is a critical yet challenging task as empirical analyses\nrequire a deep understanding of complex, non-Euclidean structures. Although\ndiffusion models have recently made significant achievements in graph\ngeneration, these models typically adapt from the frameworks designed for image\ngeneration, making them ill-suited for capturing the topological properties of\ngraphs. In this work, we propose a novel Higher-order Guided Diffusion\n(HOG-Diff) model that follows a coarse-to-fine generation curriculum and is\nguided by higher-order information, enabling the progressive generation of\nplausible graphs with inherent topological structures. We further prove that\nour model exhibits a stronger theoretical guarantee than classical diffusion\nframeworks. Extensive experiments on both molecular and generic graph\ngeneration tasks demonstrate that our method consistently outperforms or\nremains competitive with state-of-the-art baselines. Our code is available at\nhttps://github.com/Yiminghh/HOG-Diff.",
+            "pdf_url": "http://arxiv.org/pdf/2502.04308v1",
+            "published": "2025-02-06 18:51:14+00:00",
+            "updated": "2025-02-06 18:51:14+00:00"
+        },
+        {
+            "title": "Statistical guarantees for continuous-time policy evaluation: blessing of ellipticity and new tradeoffs",
+            "authors": "Wenlong Mou",
+            "summary": "We study the estimation of the value function for continuous-time Markov\ndiffusion processes using a single, discretely observed ergodic trajectory. Our\nwork provides non-asymptotic statistical guarantees for the least-squares\ntemporal-difference (LSTD) method, with performance measured in the first-order\nSobolev norm. Specifically, the estimator attains an $O(1 / \\sqrt{T})$\nconvergence rate when using a trajectory of length $T$; notably, this rate is\nachieved as long as $T$ scales nearly linearly with both the mixing time of the\ndiffusion and the number of basis functions employed.\n  A key insight of our approach is that the ellipticity inherent in the\ndiffusion process ensures robust performance even as the effective horizon\ndiverges to infinity. Moreover, we demonstrate that the Markovian component of\nthe statistical error can be controlled by the approximation error, while the\nmartingale component grows at a slower rate relative to the number of basis\nfunctions. By carefully balancing these two sources of error, our analysis\nreveals novel trade-offs between approximation and statistical errors.",
+            "pdf_url": "http://arxiv.org/pdf/2502.04297v1",
+            "published": "2025-02-06 18:39:03+00:00",
+            "updated": "2025-02-06 18:39:03+00:00"
+        },
+        {
+            "title": "Unpicking Data at the Seams: Understanding Disentanglement in VAEs",
+            "authors": "Carl Allen",
+            "summary": "Disentanglement, or identifying statistically independent factors of the\ndata, is relevant to much of machine learning, from controlled data generation\nand robust classification to efficient encoding and improving our understanding\nof the data itself. Disentanglement arises in several generative paradigms\nincluding Variational Autoencoders (VAEs), Generative Adversarial Networks and\ndiffusion models. Recent progress has been made in understanding\ndisentanglement in VAEs, where a choice of diagonal posterior covariance\nmatrices is shown to promote mutual orthogonality between columns of the\ndecoder's Jacobian. We build on this to show how such orthogonality, a\ngeometric property, translates to disentanglement, a statistical property,\nfurthering our understanding of how a VAE identifies independent components of,\nor disentangles, the data.",
+            "pdf_url": "http://arxiv.org/pdf/2410.22559v4",
+            "published": "2024-10-29 21:54:18+00:00",
+            "updated": "2025-02-06 15:35:37+00:00"
+        },
+        {
+            "title": "Llasa: Scaling Train-Time and Inference-Time Compute for Llama-based Speech Synthesis",
+            "authors": "Zhen Ye, Xinfa Zhu, Chi-Min Chan, Xinsheng Wang, Xu Tan, Jiahe Lei, Yi Peng, Haohe Liu, Yizhu Jin, Zheqi DAI, Hongzhan Lin, Jianyi Chen, Xingjian Du, Liumeng Xue, Yunlin Chen, Zhifei Li, Lei Xie, Qiuqiang Kong, Yike Guo, Wei Xue",
+            "summary": "Recent advances in text-based large language models (LLMs), particularly in\nthe GPT series and the o1 model, have demonstrated the effectiveness of scaling\nboth training-time and inference-time compute. However, current\nstate-of-the-art TTS systems leveraging LLMs are often multi-stage, requiring\nseparate models (e.g., diffusion models after LLM), complicating the decision\nof whether to scale a particular model during training or testing. This work\nmakes the following contributions: First, we explore the scaling of train-time\nand inference-time compute for speech synthesis. Second, we propose a simple\nframework Llasa for speech synthesis that employs a single-layer vector\nquantizer (VQ) codec and a single Transformer architecture to fully align with\nstandard LLMs such as Llama. Our experiments reveal that scaling train-time\ncompute for Llasa consistently improves the naturalness of synthesized speech\nand enables the generation of more complex and accurate prosody patterns.\nFurthermore, from the perspective of scaling inference-time compute, we employ\nspeech understanding models as verifiers during the search, finding that\nscaling inference-time compute shifts the sampling modes toward the preferences\nof specific verifiers, thereby improving emotional expressiveness, timbre\nconsistency, and content accuracy. In addition, we released the checkpoint and\ntraining code for our TTS model (1B, 3B, 8B) and codec model publicly\navailable.",
+            "pdf_url": "http://arxiv.org/pdf/2502.04128v1",
+            "published": "2025-02-06 15:04:00+00:00",
+            "updated": "2025-02-06 15:04:00+00:00"
+        }
+    ],
+    "Quantitative Finance": [
+        {
+            "title": "Chaos into Order: Neural Framework for Expected Value Estimation of Stochastic Partial Differential Equations",
+            "authors": "\u00cdsak P\u00e9tursson, Mar\u00eda \u00d3skarsd\u00f3ttir",
+            "summary": "Stochastic Partial Differential Equations (SPDEs) are fundamental to modeling\ncomplex systems in physics, finance, and engineering, yet their numerical\nestimation remains a formidable challenge. Traditional methods rely on\ndiscretization, introducing computational inefficiencies, and limiting\napplicability in high-dimensional settings. In this work, we introduce a novel\nneural framework for SPDE estimation that eliminates the need for\ndiscretization, enabling direct estimation of expected values across arbitrary\nspatio-temporal points. We develop and compare two distinct neural\narchitectures: Loss Enforced Conditions (LEC), which integrates physical\nconstraints into the loss function, and Model Enforced Conditions (MEC), which\nembeds these constraints directly into the network structure. Through extensive\nexperiments on the stochastic heat equation, Burgers' equation, and\nKardar-Parisi-Zhang (KPZ) equation, we reveal a trade-off: While LEC achieves\nsuperior residual minimization and generalization, MEC enforces initial\nconditions with absolute precision and exceptionally high accuracy in boundary\ncondition enforcement. Our findings highlight the immense potential of\nneural-based SPDE solvers, particularly for high-dimensional problems where\nconventional techniques falter. By circumventing discretization and explicitly\nmodeling uncertainty, our approach opens new avenues for solving SPDEs in\nfields ranging from quantitative finance to turbulence modeling. To the best of\nour knowledge, this is the first neural framework capable of directly\nestimating the expected values of SPDEs in an entirely non-discretized manner,\noffering a step forward in scientific computing.",
+            "pdf_url": "http://arxiv.org/pdf/2502.03670v1",
+            "published": "2025-02-05 23:27:28+00:00",
+            "updated": "2025-02-05 23:27:28+00:00"
+        }
+    ]
+}
