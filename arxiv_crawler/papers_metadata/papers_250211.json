@@ -1,0 +1,136 @@
+{
+    "Physics": [
+        {
+            "title": "Unsupervised Particle Tracking with Neuromorphic Computing",
+            "authors": "Emanuele Coradin, Fabio Cufino, Muhammad Awais, Tommaso Dorigo, Enrico Lupi, Eleonora Porcu, Jinu Raj, Fredrik Sandin, Mia Tosi",
+            "summary": "We study the application of a neural network architecture for identifying\ncharged particle trajectories via unsupervised learning of delays and synaptic\nweights using a spike-time-dependent plasticity rule. In the considered model,\nthe neurons receive time-encoded information on the position of particle hits\nin a tracking detector for a particle collider, modeled according to the\ngeometry of the Compact Muon Solenoid Phase II detector. We show how a spiking\nneural network is capable of successfully identifying in a completely\nunsupervised way the signal left by charged particles in the presence of\nconspicuous noise from accidental or combinatorial hits. These results open the\nway to applications of neuromorphic computing to particle tracking, motivating\nfurther studies into its potential for real-time, low-power particle tracking\nin future high-energy physics experiments.",
+            "pdf_url": "http://arxiv.org/pdf/2502.06771v1",
+            "published": "2025-02-10 18:50:50+00:00",
+            "updated": "2025-02-10 18:50:50+00:00"
+        },
+        {
+            "title": "Collisional charging of dust particles by suprathermal plasmas. II -- Regularized Kappa distributions",
+            "authors": "Rudi Gaelzer, Luiz Fernando Ziebell",
+            "summary": "We study the effects of the velocity distribution functions of the plasma\nparticles on the equilibrium charge of dust grains, acquired through inelastic\ncollisions of the particles with the grains. This paper is the second in a\nseries of two papers on the subject. Here, we consider the charging process\nwhen the plasma particles are statistically described by the recently proposed\nregularized Kappa distribution functions, which allow for extreme suprathermal\nstates, characterized by extremely low values of the kappa index, previously\nforbidden to the standard Kappa distributions, whose effects on dust charging\nwere studied in Paper I of this series. We analyse the effects that extreme\nsuprathermal states of the plasma particles have on dust charging and verify\nconditions for the uncommon result of positive equilibrium charge, employing\ntwo different models for the regularized Kappa distributions, one with kinetic\ntemperature dependent on the kappa index, and another where the temperature is\nkappa-independent.",
+            "pdf_url": "http://arxiv.org/pdf/2411.05630v2",
+            "published": "2024-11-08 15:20:42+00:00",
+            "updated": "2025-02-10 18:44:04+00:00"
+        },
+        {
+            "title": "Motility-induced mixing transition in exponentially growing multicellular spheroids",
+            "authors": "Torben Sunkel, Lukas Hupe, Philip Bittihn",
+            "summary": "Growth drives cellular dynamics in dense aggregates including bacterial\ncolonies, developing tissues, and tumors. We investigate the underlying\nphysical principles emerging from the interplay of growth, steric repulsion,\nand motility in a minimal agent-based model of exponentially growing,\nthree-dimensional spheroids. Our results reveal a motility-induced mixing\ntransition: Without motility, deterministic radial motion from volume expansion\ndominates, while growth and division cause tangential, cellular-scale\ndiffusion, largely independent of expansion velocity. Despite this small-scale\ndiffusion, cell lineages remain confined to their local environment. This\nconfinement persists at weak motility and is overcome only above a threshold,\nleading to tangential superdiffusivity and global cell mixing with a diverging\ntimescale near the transition, reminiscent of glassy dynamics. Using a\nphenomenological model, we identify two effects governing this transition:\nSteric interactions that suppress motility-induced velocity below a threshold,\nand the expanding nature of the system which inhibits complete mixing. Our\nstudy highlights the complex interaction of local cell division and motility\nwith global expansion, mediated exclusively by mechanics. The results provide a\nbaseline for identifying additional biological mechanisms in experiments, for\nexample in tissue spheroids. The mixing dynamics might also be relevant for\ncompetition or tumor progression by interacting with genetic heterogeneity.",
+            "pdf_url": "http://arxiv.org/pdf/2403.11002v2",
+            "published": "2024-03-16 19:16:03+00:00",
+            "updated": "2025-02-10 18:41:47+00:00"
+        },
+        {
+            "title": "Using SimTeEx to simplify polynomial expressions with tensors",
+            "authors": "Renato M. Fonseca",
+            "summary": "Computations with tensors are ubiquitous in fundamental physics, and so is\nthe usage of Einstein's dummy index convention for the contraction of indices.\nFor instance, $T_{ia}U_{aj}$ is readily recognized as the same as\n$T_{ib}U_{bj}$, but a computer does not know that T[i,a]U[a,j] is equal to\nT[i,b]U[b,j]. Furthermore, tensors may have symmetries which can be used to\nsimply expressions: if $U_{ij}$ is antisymmetric, then $\\alpha\nT_{ia}U_{aj}+\\beta T_{ib}U_{jb}=\\left(\\alpha-\\beta\\right)T_{ia}U_{aj}$. The\nfact that tensors can have elaborate symmetries, together with the problem of\ndummy indices, makes it complicated to simplify polynomial expressions with\ntensors. In this work I will present an algorithm for doing so, which was\nimplemented in the Mathematica package SimTeEx (Simplify Tensor Expressions).\nIt can handle any kind of tensor symmetry.",
+            "pdf_url": "http://arxiv.org/pdf/2412.14390v2",
+            "published": "2024-12-18 22:49:22+00:00",
+            "updated": "2025-02-10 18:34:34+00:00"
+        },
+        {
+            "title": "Two-detector reconstruction of multiphoton states in linear optical networks",
+            "authors": "Tudor-Alexandru Isdrail\u01ce, Jun-Yi Wu",
+            "summary": "We propose a method for partial state reconstruction of multiphoton states in\nmultimode ($N$-photon $M$-mode) linear optical networks (LONs) employing only\ntwo bucket photon-number-resolving (PNR) detectors. The reconstructed\nHeisenberg-Weyl-reduced density matrix captures quantum coherence and symmetry\nwith respect to Heisenberg-Weyl operators. Employing deterministic quantum\ncomputing with one qubit (DQC1) circuits, we reduce the detector requirement\nfrom $M$ to $2$, while the requirement on measurement configurations is\nretained $2M^{3}-2M$. To ensure physicality, maximum likelihood estimation\n(MLE) is incorporated into the DQC1 reconstruction process, with numerical\nsimulations demonstrating the efficiency of our approach and its robustness\nagainst interferometer noises. This method offers a resource-efficient solution\nfor state characterization in large-scale LONs to advance photonic quantum\ntechnologies.",
+            "pdf_url": "http://arxiv.org/pdf/2412.04271v2",
+            "published": "2024-12-05 15:54:02+00:00",
+            "updated": "2025-02-10 18:27:54+00:00"
+        },
+        {
+            "title": "A note on the physical interpretation of neural PDE's",
+            "authors": "Sauro Succi",
+            "summary": "We highlight a formal and substantial analogy between Machine Learning (ML)\nalgorithms and discrete dynamical systems (DDS) in relaxation form. The analogy\noffers a transparent interpretation of the weights in terms of physical\ninformation-propagation processes and identifies the model function of the\nforward ML step with the local attractor of the corresponding discrete\ndynamics. Besides improving the explainability of current ML applications, this\nanalogy may also facilitate the development of a new class ML algorithms with a\nreduced number of weights.",
+            "pdf_url": "http://arxiv.org/pdf/2502.06739v1",
+            "published": "2025-02-10 18:07:51+00:00",
+            "updated": "2025-02-10 18:07:51+00:00"
+        },
+        {
+            "title": "The Toda-Weyl mass spectrum",
+            "authors": "Martin T. Luu",
+            "summary": "The masses of affine Toda theories are known to correspond to the entries of\na Perron-Frobenius eigenvector of the relevant Cartan matrix. The Lagrangian of\nthe theory can be expressed in terms of a suitable eigenvector of a Coxeter\nelement in the Weyl group. We generalize this set-up by formulating Lagrangians\nbased on eigenvectors of arbitrary elements in the Weyl group. Under some\ntechnical conditions (that hold for many Weyl group elements), we calculate the\nclassical mass spectrum. In particular, we indicate the relation to the\nrelative geometry of special roots, generalizing the affine Toda mass spectrum\ndescription in terms of the Cartan matrix. Related questions of three point\ncoupling and integrability are left to be addressed on a future occasion.",
+            "pdf_url": "http://arxiv.org/pdf/2502.06732v1",
+            "published": "2025-02-10 17:57:00+00:00",
+            "updated": "2025-02-10 17:57:00+00:00"
+        },
+        {
+            "title": "Constraints on axion-like particles using lattice QCD calculations of the rate for $J/\u03c8\\to \u03b3a$",
+            "authors": "Brian Colquhoun, Christine T. H. Davies, G. Peter Lepage, Sophie Renner",
+            "summary": "A key search mode for axion-like particles (ALPs) that couple to charm quarks\nis $J/\\psi \\to \\gamma a$. Here we calculate the form factor that allows the\nrate of this process to be determined using lattice QCD for the first time. Our\ncalculations use the relativistic Highly Improved Staggered Quark (HISQ) action\nfor the valence charm quarks on gluon field configurations generated by the\nMILC collaboration that include $u$, $d$, $s$ and $c$ HISQ quarks in the sea at\nfour values of the lattice spacing and both unphysical and physical sea quark\nmasses. We determine the form factor as a function of ALP mass with an\nuncertainty of less than 2\\% across our full range of ALP masses from zero up\nto 95\\% of the $J/\\psi$ mass. This represents a substantial improvement in\naccuracy of the theoretical picture of this decay compared to the previously\nused tree-level and $\\mathcal{O}(\\alpha_s)$ perturbation theory. We use our\nform factor to determine constraints on ALP masses and couplings to charm\nquarks and photons in several different scenarios using recent experimental\ndata from BESIII. Our calculation paves the way for further lattice QCD input\non new physics constraints from radiative decays.",
+            "pdf_url": "http://arxiv.org/pdf/2502.06721v1",
+            "published": "2025-02-10 17:50:35+00:00",
+            "updated": "2025-02-10 17:50:35+00:00"
+        },
+        {
+            "title": "Heavy-light meson decay constants and hyperfine splittings with the heavy-HISQ method",
+            "authors": "Kerr A. Miller, Judd Harrison, Christine T. H. Davies, Antonio Smecca",
+            "summary": "We compute ratios between the vector and pseudoscalar, and tensor and vector\ndecay constants, and between hyperfine splittings for $D_{(s)}^{(*)}$ and\n$B_{(s)}^{(*)}$ mesons. We use the Highly Improved Staggered Quark (HISQ)\naction for all valence quarks, paired with the second generation MILC $n_f =\n2+1+1$ HISQ gluon field configurations. These include light sea quarks with\n$m_u = m_d \\equiv m_l$ going down to the physical values, as well as physically\ntuned strange and charm sea quarks. We also use a HISQ valence heavy quark,\nwith mass ranging from that of the $c$-quark up to very nearly that of the\nphysical $b$-quark on the finest lattices, allowing us to map out the\nheavy-quark mass dependence of the decay constant and hyperfine splitting\nratios.",
+            "pdf_url": "http://arxiv.org/pdf/2502.06713v1",
+            "published": "2025-02-10 17:45:55+00:00",
+            "updated": "2025-02-10 17:45:55+00:00"
+        },
+        {
+            "title": "Search for long-lived charged particles using large specific ionisation loss and time of flight in 140 $fb^{-1}$ of $pp$ collisions at $\\sqrt{s}\\ = 13$ TeV with the ATLAS detector",
+            "authors": "ATLAS Collaboration",
+            "summary": "This paper presents a search for massive, charged, long-lived particles with\nthe ATLAS detector at the Large Hadron Collider using an integrated luminosity\nof 140 $fb^{-1}$ of proton-proton collisions at $\\sqrt{s}=13$ TeV. These\nparticles are expected to move significantly slower than the speed of light. In\nthis paper, two signal regions provide complementary sensitivity. In one\nregion, events are selected with at least one charged-particle track with high\ntransverse momentum, large specific ionisation measured in the pixel detector,\nand time of flight to the hadronic calorimeter inconsistent with the speed of\nlight. In the other region, events are selected with at least two tracks of\nopposite charge which both have a high transverse momentum and an anomalously\nlarge specific ionisation. The search is sensitive to particles with lifetimes\ngreater than about 3 ns with masses ranging from 200 GeV to 3 TeV. The results\nare interpreted to set constraints on the supersymmetric pair production of\nlong-lived R-hadrons, charginos and staus, with mass limits extending beyond\nthose from previous searches in broad ranges of lifetime.",
+            "pdf_url": "http://arxiv.org/pdf/2502.06694v1",
+            "published": "2025-02-10 17:18:11+00:00",
+            "updated": "2025-02-10 17:18:11+00:00"
+        }
+    ],
+    "Diffusion": [
+        {
+            "title": "Guided and Variance-Corrected Fusion with One-shot Style Alignment for Large-Content Image Generation",
+            "authors": "Shoukun Sun, Min Xian, Tiankai Yao, Fei Xu, Luca Capriotti",
+            "summary": "Producing large images using small diffusion models is gaining increasing\npopularity, as the cost of training large models could be prohibitive. A common\napproach involves jointly generating a series of overlapped image patches and\nobtaining large images by merging adjacent patches. However, results from\nexisting methods often exhibit noticeable artifacts, e.g., seams and\ninconsistent objects and styles. To address the issues, we proposed Guided\nFusion (GF), which mitigates the negative impact from distant image regions by\napplying a weighted average to the overlapping regions. Moreover, we proposed\nVariance-Corrected Fusion (VCF), which corrects data variance at\npost-averaging, generating more accurate fusion for the Denoising Diffusion\nProbabilistic Model. Furthermore, we proposed a one-shot Style Alignment (SA),\nwhich generates a coherent style for large images by adjusting the initial\ninput noise without adding extra computational burden. Extensive experiments\ndemonstrated that the proposed fusion methods improved the quality of the\ngenerated image significantly. The proposed method can be widely applied as a\nplug-and-play module to enhance other fusion-based methods for large image\ngeneration. Code: https://github.com/TitorX/GVCFDiffusion",
+            "pdf_url": "http://arxiv.org/pdf/2412.12771v2",
+            "published": "2024-12-17 10:33:34+00:00",
+            "updated": "2025-02-10 18:55:08+00:00"
+        },
+        {
+            "title": "Grounding Text-to-Image Diffusion Models for Controlled High-Quality Image Generation",
+            "authors": "Ahmad S\u00fcleyman, G\u00f6ksel Biricik",
+            "summary": "Text-to-image (T2I) generative diffusion models have demonstrated outstanding\nperformance in synthesizing diverse, high-quality visuals from text captions.\nSeveral layout-to-image models have been developed to control the generation\nprocess by utilizing a wide range of layouts, such as segmentation maps, edges,\nand human keypoints. In this work, we propose ObjectDiffusion, a model that\nconditions T2I diffusion models on semantic and spatial grounding information,\nenabling the precise rendering and placement of desired objects in specific\nlocations defined by bounding boxes. To achieve this, we make substantial\nmodifications to the network architecture introduced in ControlNet to integrate\nit with the grounding method proposed in GLIGEN. We fine-tune ObjectDiffusion\non the COCO2017 training dataset and evaluate it on the COCO2017 validation\ndataset. Our model improves the precision and quality of controllable image\ngeneration, achieving an AP$_{\\text{50}}$ of 46.6, an AR of 44.5, and an FID of\n19.8, outperforming the current SOTA model trained on open-source datasets\nacross all three metrics. ObjectDiffusion demonstrates a distinctive capability\nin synthesizing diverse, high-quality, high-fidelity images that seamlessly\nconform to the semantic and spatial control layout. Evaluated in qualitative\nand quantitative tests, ObjectDiffusion exhibits remarkable grounding\ncapabilities in closed-set and open-set vocabulary settings across a wide\nvariety of contexts. The qualitative assessment verifies the ability of\nObjectDiffusion to generate multiple detailed objects in varying sizes, forms,\nand locations.",
+            "pdf_url": "http://arxiv.org/pdf/2501.09194v2",
+            "published": "2025-01-15 22:55:26+00:00",
+            "updated": "2025-02-10 18:54:23+00:00"
+        },
+        {
+            "title": "Train for the Worst, Plan for the Best: Understanding Token Ordering in Masked Diffusions",
+            "authors": "Jaeyeon Kim, Kulin Shah, Vasilis Kontonis, Sham Kakade, Sitan Chen",
+            "summary": "In recent years, masked diffusion models (MDMs) have emerged as a promising\nalternative approach for generative modeling over discrete domains. Compared to\nautoregressive models (ARMs), MDMs trade off complexity at training time with\nflexibility at inference time. At training time, they must learn to solve an\nexponentially large number of infilling problems, but at inference time, they\ncan decode tokens in essentially arbitrary order. In this work, we closely\nexamine these two competing effects. On the training front, we theoretically\nand empirically demonstrate that MDMs indeed train on computationally\nintractable subproblems compared to their autoregressive counterparts. On the\ninference front, we show that a suitable strategy for adaptively choosing the\ntoken decoding order significantly enhances the capabilities of MDMs, allowing\nthem to sidestep hard subproblems. On logic puzzles like Sudoku, we show that\nadaptive inference can boost solving accuracy in pretrained MDMs from $<7$% to\n$\\approx 90$%, even outperforming ARMs with $7\\times$ as many parameters and\nthat were explicitly trained via teacher forcing to learn the right order of\ndecoding.",
+            "pdf_url": "http://arxiv.org/pdf/2502.06768v1",
+            "published": "2025-02-10 18:47:21+00:00",
+            "updated": "2025-02-10 18:47:21+00:00"
+        },
+        {
+            "title": "History-Guided Video Diffusion",
+            "authors": "Kiwhan Song, Boyuan Chen, Max Simchowitz, Yilun Du, Russ Tedrake, Vincent Sitzmann",
+            "summary": "Classifier-free guidance (CFG) is a key technique for improving conditional\ngeneration in diffusion models, enabling more accurate control while enhancing\nsample quality. It is natural to extend this technique to video diffusion,\nwhich generates video conditioned on a variable number of context frames,\ncollectively referred to as history. However, we find two key challenges to\nguiding with variable-length history: architectures that only support\nfixed-size conditioning, and the empirical observation that CFG-style history\ndropout performs poorly. To address this, we propose the Diffusion Forcing\nTransformer (DFoT), a video diffusion architecture and theoretically grounded\ntraining objective that jointly enable conditioning on a flexible number of\nhistory frames. We then introduce History Guidance, a family of guidance\nmethods uniquely enabled by DFoT. We show that its simplest form, vanilla\nhistory guidance, already significantly improves video generation quality and\ntemporal consistency. A more advanced method, history guidance across time and\nfrequency further enhances motion dynamics, enables compositional\ngeneralization to out-of-distribution history, and can stably roll out\nextremely long videos. Website: https://boyuan.space/history-guidance",
+            "pdf_url": "http://arxiv.org/pdf/2502.06764v1",
+            "published": "2025-02-10 18:44:25+00:00",
+            "updated": "2025-02-10 18:44:25+00:00"
+        },
+        {
+            "title": "Neumann eigenmaps for landmark embedding",
+            "authors": "Shashank Sule, Wojciech Czaja",
+            "summary": "We present Neumann eigenmaps (NeuMaps), a novel approach for enhancing the\nstandard diffusion map embedding using landmarks, i.e distinguished samples\nwithin the dataset. By interpreting these landmarks as a subgraph of the larger\ndata graph, NeuMaps are obtained via the eigendecomposition of a renormalized\nNeumann Laplacian. We show that NeuMaps offer two key advantages: (1) they\nprovide a computationally efficient embedding that accurately recovers the\ndiffusion distance associated with the reflecting random walk on the subgraph,\nand (2) they naturally incorporate the Nystr\\\"om extension within the diffusion\nmap framework through the discrete Neumann boundary condition. Through examples\nin digit classification and molecular dynamics, we demonstrate that NeuMaps not\nonly improve upon existing landmark-based embedding methods but also enhance\nthe stability of diffusion map embeddings to the removal of highly significant\npoints.",
+            "pdf_url": "http://arxiv.org/pdf/2502.06689v1",
+            "published": "2025-02-10 17:15:11+00:00",
+            "updated": "2025-02-10 17:15:11+00:00"
+        }
+    ],
+    "Quantitative Finance": [
+        {
+            "title": "FactorGCL: A Hypergraph-Based Factor Model with Temporal Residual Contrastive Learning for Stock Returns Prediction",
+            "authors": "Yitong Duan, Weiran Wang, Jian Li",
+            "summary": "As a fundamental method in economics and finance, the factor model has been\nextensively utilized in quantitative investment. In recent years, there has\nbeen a paradigm shift from traditional linear models with expert-designed\nfactors to more flexible nonlinear machine learning-based models with\ndata-driven factors, aiming to enhance the effectiveness of these factor\nmodels. However, due to the low signal-to-noise ratio in market data, mining\neffective factors in data-driven models remains challenging. In this work, we\npropose a hypergraph-based factor model with temporal residual contrastive\nlearning (FactorGCL) that employs a hypergraph structure to better capture\nhigh-order nonlinear relationships among stock returns and factors. To mine\nhidden factors that supplement human-designed prior factors for predicting\nstock returns, we design a cascading residual hypergraph architecture, in which\nthe hidden factors are extracted from the residual information after removing\nthe influence of prior factors. Additionally, we propose a temporal residual\ncontrastive learning method to guide the extraction of effective and\ncomprehensive hidden factors by contrasting stock-specific residual information\nover different time periods. Our extensive experiments on real stock market\ndata demonstrate that FactorGCL not only outperforms existing state-of-the-art\nmethods but also mines effective hidden factors for predicting stock returns.",
+            "pdf_url": "http://arxiv.org/pdf/2502.05218v1",
+            "published": "2025-02-05 12:37:15+00:00",
+            "updated": "2025-02-05 12:37:15+00:00"
+        }
+    ]
+}

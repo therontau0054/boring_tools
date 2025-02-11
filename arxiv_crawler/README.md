@@ -117,6 +117,36 @@ TODO:
 
 
 
+
+## Update on 2025-02-11
+
+### Physics
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-02-10|2025-02-10|Unsupervised Particle Tracking with Neuromorphic Computing|Emanuele Coradin|[2502.06771v1](http://arxiv.org/pdf/2502.06771v1)|
+|2024-11-08|2025-02-10|Collisional charging of dust particles by suprathermal plasmas. II -- Regularized Kappa distributions|Rudi Gaelzer|[2411.05630v2](http://arxiv.org/pdf/2411.05630v2)|
+|2024-03-16|2025-02-10|Motility-induced mixing transition in exponentially growing multicellular spheroids|Torben Sunkel|[2403.11002v2](http://arxiv.org/pdf/2403.11002v2)|
+|2024-12-18|2025-02-10|Using SimTeEx to simplify polynomial expressions with tensors|Renato M. Fonseca|[2412.14390v2](http://arxiv.org/pdf/2412.14390v2)|
+|2024-12-05|2025-02-10|Two-detector reconstruction of multiphoton states in linear optical networks|Tudor-Alexandru Isdrailǎ|[2412.04271v2](http://arxiv.org/pdf/2412.04271v2)|
+|2025-02-10|2025-02-10|A note on the physical interpretation of neural PDE's|Sauro Succi|[2502.06739v1](http://arxiv.org/pdf/2502.06739v1)|
+|2025-02-10|2025-02-10|The Toda-Weyl mass spectrum|Martin T. Luu|[2502.06732v1](http://arxiv.org/pdf/2502.06732v1)|
+|2025-02-10|2025-02-10|Constraints on axion-like particles using lattice QCD calculations of the rate for $J/ψ\to γa$|Brian Colquhoun|[2502.06721v1](http://arxiv.org/pdf/2502.06721v1)|
+|2025-02-10|2025-02-10|Heavy-light meson decay constants and hyperfine splittings with the heavy-HISQ method|Kerr A. Miller|[2502.06713v1](http://arxiv.org/pdf/2502.06713v1)|
+|2025-02-10|2025-02-10|Search for long-lived charged particles using large specific ionisation loss and time of flight in 140 $fb^{-1}$ of $pp$ collisions at $\sqrt{s}\ = 13$ TeV with the ATLAS detector|ATLAS Collaboration|[2502.06694v1](http://arxiv.org/pdf/2502.06694v1)|
+
+### Diffusion
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2024-12-17|2025-02-10|Guided and Variance-Corrected Fusion with One-shot Style Alignment for Large-Content Image Generation|Shoukun Sun|[2412.12771v2](http://arxiv.org/pdf/2412.12771v2)|
+|2025-01-15|2025-02-10|Grounding Text-to-Image Diffusion Models for Controlled High-Quality Image Generation|Ahmad Süleyman|[2501.09194v2](http://arxiv.org/pdf/2501.09194v2)|
+|2025-02-10|2025-02-10|Train for the Worst, Plan for the Best: Understanding Token Ordering in Masked Diffusions|Jaeyeon Kim|[2502.06768v1](http://arxiv.org/pdf/2502.06768v1)|
+|2025-02-10|2025-02-10|History-Guided Video Diffusion|Kiwhan Song|[2502.06764v1](http://arxiv.org/pdf/2502.06764v1)|
+|2025-02-10|2025-02-10|Neumann eigenmaps for landmark embedding|Shashank Sule|[2502.06689v1](http://arxiv.org/pdf/2502.06689v1)|
+
+### Quantitative Finance
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-02-05|2025-02-05|FactorGCL: A Hypergraph-Based Factor Model with Temporal Residual Contrastive Learning for Stock Returns Prediction|Yitong Duan|[2502.05218v1](http://arxiv.org/pdf/2502.05218v1)|
 ## Update on 2025-02-07
 
 ### Physics
