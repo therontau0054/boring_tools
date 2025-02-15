@@ -119,6 +119,31 @@ TODO:
 
 
 
+
+## Update on 2025-02-15
+
+### Physics
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2023-10-23|2025-02-13|The prince and the pauper. A quantum paradox of Hilbert-space fundamentalism|Ovidiu Cristinel Stoica|[2310.15090v3](http://arxiv.org/pdf/2310.15090v3)|
+|2025-02-13|2025-02-13|$B\to K\sf{+}invisible$, dark matter, and $CP$ violation in hyperon decays|Xiao-Gang He|[2502.09603v1](http://arxiv.org/pdf/2502.09603v1)|
+|2025-02-13|2025-02-13|Shadow Molecular Dynamics for a Charge-Potential Equilibration Model|Robert Stanton|[2502.09602v1](http://arxiv.org/pdf/2502.09602v1)|
+|2025-02-13|2025-02-13|Cosmological phase transitions from the functional measure|Bruno Berganholi|[2502.09593v1](http://arxiv.org/pdf/2502.09593v1)|
+|2025-02-07|2025-02-13|Semileptonic kaon decays and the precise determination of $V_{us}$|Chien-Yeah Seng|[2502.04721v2](http://arxiv.org/pdf/2502.04721v2)|
+|2024-05-22|2025-02-13|Heavy Fermions as an Efficient Representation of Atomistic Strain and Relaxation in Twisted Bilayer Graphene|Jonah Herzog-Arbeitman|[2405.13880v2](http://arxiv.org/pdf/2405.13880v2)|
+|2024-07-15|2025-02-13|Negative neutrino masses as a mirage of dark energy|Willem Elbers|[2407.10965v2](http://arxiv.org/pdf/2407.10965v2)|
+|2024-04-16|2025-02-13|Observation of thermal microwave photons with a Josephson junction detector|A. L. Pankratov|[2404.10434v2](http://arxiv.org/pdf/2404.10434v2)|
+|2025-02-13|2025-02-13|An Automated Bandwidth Division for the LHCb Upgrade Trigger|T. Evans|[2502.09557v1](http://arxiv.org/pdf/2502.09557v1)|
+|2025-02-13|2025-02-13|Explainable AI-assisted Optimization for Feynman Integral Reduction|Zhuo-Yang Song|[2502.09544v1](http://arxiv.org/pdf/2502.09544v1)|
+
+### Diffusion
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-02-13|2025-02-13|Theoretical Benefit and Limitation of Diffusion Language Model|Guhao Feng|[2502.09622v1](http://arxiv.org/pdf/2502.09622v1)|
+|2025-02-13|2025-02-13|Score-of-Mixture Training: Training One-Step Generative Models Made Simple|Tejas Jayashankar|[2502.09609v1](http://arxiv.org/pdf/2502.09609v1)|
+|2025-02-13|2025-02-13|Rolling Ahead Diffusion for Traffic Scene Simulation|Yunpeng Liu|[2502.09587v1](http://arxiv.org/pdf/2502.09587v1)|
+|2025-02-13|2025-02-13|DiffMS: Diffusion Generation of Molecules Conditioned on Mass Spectra|Montgomery Bohde|[2502.09571v1](http://arxiv.org/pdf/2502.09571v1)|
+|2025-02-13|2025-02-13|Diffusing DeBias: a Recipe for Turning a Bug into a Feature|Massimiliano Ciranni|[2502.09564v1](http://arxiv.org/pdf/2502.09564v1)|
 ## Update on 2025-02-13
 
 ### Physics

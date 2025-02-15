@@ -1,0 +1,126 @@
+{
+    "Physics": [
+        {
+            "title": "The prince and the pauper. A quantum paradox of Hilbert-space fundamentalism",
+            "authors": "Ovidiu Cristinel Stoica",
+            "summary": "The quantum world is described by a unit vector in the Hilbert space and the\nHamiltonian. Do these abstract basis-independent objects give a complete\ndescription of the physical world, or should we include observables like\npositions and momenta and the decomposition into subsystems? According to\n\"Hilbert-space fundamentalism\" they give a complete description, and all other\nfeatures of the physical world emerge from them (Carroll, arXiv:2103.09780).\nHere I will give a concrete refutation of this thesis based on the symmetries\nof the theory of quantum measurements. These results show that even if a tensor\nproduct structure is assumed along with the unit vector and the Hamiltonian,\nconcrete physically distinct worlds can be described by the same structures.",
+            "pdf_url": "http://arxiv.org/pdf/2310.15090v3",
+            "published": "2023-10-23 16:54:05+00:00",
+            "updated": "2025-02-13 18:54:58+00:00"
+        },
+        {
+            "title": "$B\\to K\\sf{+}invisible$, dark matter, and $CP$ violation in hyperon decays",
+            "authors": "Xiao-Gang He, Xiao-Dong Ma, Jusak Tandean, German Valencia",
+            "summary": "Recently the Belle II Collaboration has reported a measurement of the $B^+\\to\nK^+\\nu\\bar\\nu$ rate that is higher than the standard-model expectation. Since\nthe emitted neutrinos are unobserved, the excess could be due to the $B^+$\ndecaying into a $K^+$ and a dark-matter pair. We entertain this possibility in\na two-Higgs-doublet model supplemented with a real singlet scalar boson acting\nas the dark matter. This model also accommodates strangeness-changing\ninteractions providing new sources of $CP$ violation which can affect hyperon\nand kaon nonleptonic transitions. We find that the resulting $CP$ violation in\nthe hyperon sector can be significant, reaching the current empirical bounds,\nafter taking into account constraints from kaon mixing and decay and from\ndark-matter relic-density data and direct searches including the Migdal effect.\nWe demonstrate that the hyperon and kaon processes are complementary probes of\nthis new-physics scenario. Its prediction for sizable hyperon $CP$ violation is\npotentially testable in ongoing experiments, such as BESIII, Belle II, and\nLHCb, and in next-generation ones like PANDA and at the Super Tau Charm\nFacility.",
+            "pdf_url": "http://arxiv.org/pdf/2502.09603v1",
+            "published": "2025-02-13 18:53:47+00:00",
+            "updated": "2025-02-13 18:53:47+00:00"
+        },
+        {
+            "title": "Shadow Molecular Dynamics for a Charge-Potential Equilibration Model",
+            "authors": "Robert Stanton, Cagri Mehmet Kaymak, Anders M. N. Niklasson",
+            "summary": "We introduce a shadow molecular dynamics (MD) approach based on the\nAtom-Condensed Kohn-Sham second-order (ACKS2) charge-potential equilibration\nmodel. In contrast to regular flexible charge models, the ACKS2 model includes\nboth flexible atomic charges and potential fluctuation parameters that allow\nfor physically correct charge fragmentation and scaling of the polarizability.\nOur shadow MD scheme is based on an approximation of the ACKS2's flexible\ncharge-potential energy function, in combination with extended Lagrangian\nBorn-Oppenheimer MD. Utilizing this shadow charge-potential equilibration\napproach mitigates the costly overhead and stability problems associated with\nfinding well-converged iterative solutions to the charges and potential\nfluctuations of the ACKS2 model in an MD simulation. Our work provides a robust\nand versatile framework for efficient, high-fidelity MD simulations of diverse\nphysical phenomena and applications.",
+            "pdf_url": "http://arxiv.org/pdf/2502.09602v1",
+            "published": "2025-02-13 18:53:22+00:00",
+            "updated": "2025-02-13 18:53:22+00:00"
+        },
+        {
+            "title": "Cosmological phase transitions from the functional measure",
+            "authors": "Bruno Berganholi, Gl\u00e1uber C. Dorsch, Iber\u00ea Kuntz, Beatriz M. D. Sena, Giovanna F. do Valle",
+            "summary": "We investigate how competitive gravitational wave detectors can be to current\nand near-future colliders in probing a model where the new physics is\ncompletely encapsulated in a modified scalar sector. For this, we study a model\nwhere an additional logarithmic term arises in the scalar potential due to a\nnon-trivial path integral measure, which is constructed using effective field\ntheory. This new term alters the dynamics of cosmological phase transitions and\ncould lead to potentially detectable gravitational waves from the early\nUniverse. Our results confirm the expectation that the intensity of such\nspectrum is highly correlated to the scalar field's self-coupling, and that\ngravitational wave experiments could therefore be used to probe these couplings\nwith an accuracy competitive with the projected sensitivity of near-future\ncolliders.",
+            "pdf_url": "http://arxiv.org/pdf/2502.09593v1",
+            "published": "2025-02-13 18:49:11+00:00",
+            "updated": "2025-02-13 18:49:11+00:00"
+        },
+        {
+            "title": "Semileptonic kaon decays and the precise determination of $V_{us}$",
+            "authors": "Chien-Yeah Seng",
+            "summary": "I will give a brief overview of the Standard Model theory inputs needed for\nthe precise determination of the Cabibbo-Kobayashi-Maskawa matrix element\n$V_{us}$ from semileptonic kaon decays, focusing on the long-distance\nelectromagnetic corrections. I will then describe our recent effort to pin down\nthis correction at sub-permille level, which further sharpens the so-called\n``Cabibbo angle anomaly'', an interesting observation which may point towards\nnew physics.",
+            "pdf_url": "http://arxiv.org/pdf/2502.04721v2",
+            "published": "2025-02-07 07:45:40+00:00",
+            "updated": "2025-02-13 18:44:16+00:00"
+        },
+        {
+            "title": "Heavy Fermions as an Efficient Representation of Atomistic Strain and Relaxation in Twisted Bilayer Graphene",
+            "authors": "Jonah Herzog-Arbeitman, Jiabin Yu, Dumitru C\u0103lug\u0103ru, Haoyu Hu, Nicolas Regnault, Oskar Vafek, Jian Kang, B. Andrei Bernevig",
+            "summary": "Although the strongly interacting flat bands in twisted bilayer graphene\n(TBG) have been approached using the minimal Bistritzer-MacDonald (BM)\nHamiltonian, there is mounting evidence that strain and lattice relaxation are\nessential in correctly determining the order of the correlated insulator\ngroundstates. These effects can be incorporated in an enhanced continuum model\nby introducing additional terms computed from the relaxation profile. To\ndevelop an analytical and physical understanding of these effects, we include\nstrain and relaxation in the topological heavy fermion (HF) model of TBG. We\nfind that strain and relaxation are very well captured in first order\nperturbation theory by projection onto the fully symmetric HF Hilbert space,\nand remarkably do not alter the interacting terms in the periodic Anderson\nmodel. Their effects are fully incorporated in the single-particle HF\nHamiltonian, and can be reproduced in a minimal model with only 4\nsymmetry-breaking terms. Our results demonstrate that the heavy fermion\nframework of TBG is an efficient and robust representation of the perturbations\nencountered in experiment.",
+            "pdf_url": "http://arxiv.org/pdf/2405.13880v2",
+            "published": "2024-05-22 17:59:48+00:00",
+            "updated": "2025-02-13 18:35:52+00:00"
+        },
+        {
+            "title": "Negative neutrino masses as a mirage of dark energy",
+            "authors": "Willem Elbers, Carlos S. Frenk, Adrian Jenkins, Baojiu Li, Silvia Pascoli",
+            "summary": "The latest cosmological constraints on the sum of the neutrino masses depend\non prior physical assumptions about the mass spectrum. To test the accordance\nof cosmological and laboratory constraints in the absence of such priors, we\nintroduce an effective neutrino mass parameter that extends consistently to\nnegative values. For the $\\Lambda$CDM model, we analyze data from Planck, ACT,\nand DESI and find a $2.8-3.3\\sigma$ tension with the constraints from\noscillation experiments. Motivated by recent hints of evolving dark energy, we\nanalyze the $w_0w_a$ and mirage dark energy models, showing that they favour\nlarger masses consistent with laboratory data, respectively $\\sum\nm_{\\nu,\\mathrm{eff}} = 0.06_{-0.10}^{+0.15}\\,\\mathrm{eV}$ and $\\sum\nm_{\\nu,\\mathrm{eff}} = 0.04_{-0.11}^{+0.15}\\,\\mathrm{eV}$ (both at 68%).",
+            "pdf_url": "http://arxiv.org/pdf/2407.10965v2",
+            "published": "2024-07-15 17:59:03+00:00",
+            "updated": "2025-02-13 18:35:09+00:00"
+        },
+        {
+            "title": "Observation of thermal microwave photons with a Josephson junction detector",
+            "authors": "A. L. Pankratov, A. V. Gordeeva, A. V. Chiginev, L. S. Revin, A. V. Blagodatkin, N. Crescini, L. S. Kuzmin",
+            "summary": "When measuring electromagnetic radiation of frequency $f$, the most sensitive\ndetector is the one that counts the single quanta of energy $h f$. Single\nphoton detectors (SPDs) were demonstrated from $\\gamma$-rays to infrared\nwavelengths, and extending this range down to the microwaves is the focus of\nintense research. The energy of $10\\,\\mathrm{GHz}$ microwave photon, about\n$40\\,\\mathrm{\\mu eV}$ or $7\\, \\mathrm{yJ},$ is enough to force a\nsuperconducting Josephson junction into its resistive state, making it suitable\nto be used as a sensor. In this work, we use an underdamped Josephson junction\nto detect single thermal photons stochastically emitted by a microwave copper\ncavity at millikelvin temperatures. After characterizing the source and\ndetector, we vary the temperature of the resonant cavity and measure the\nincreased photon rate. The device shows an efficiency up to 40% and a dark\ncount rate of $0.1\\,\\mathrm{Hz}$ in a bandwidth of several gigahertz. To\nconfirm the thermal nature of the emitted photons we verify their\nsuper-Poissonian statistics, which is also a signature of quantum chaos. We\ndiscuss detector application in the scope of Dark Matter Axion searches, and\nnote its importance for quantum information, metrology and fundamental physics.",
+            "pdf_url": "http://arxiv.org/pdf/2404.10434v2",
+            "published": "2024-04-16 09:57:30+00:00",
+            "updated": "2025-02-13 18:09:59+00:00"
+        },
+        {
+            "title": "An Automated Bandwidth Division for the LHCb Upgrade Trigger",
+            "authors": "T. Evans, C. Fitzpatrick, J. Horswill",
+            "summary": "The upgraded Large Hadron Collider beauty (LHCb) experiment is the first\ndetector based at a hadron collider using a fully software based trigger. The\nfirst `High Level Trigger' stage (HLT1) reduces the event rate from 30 MHz to\napproximately 1 MHz based on reconstruction criteria from the tracking system\nand consists of O(100) trigger selections implemented on GPUs. These selections\nare further refined following the full offline-quality reconstruction at the\nsecond stage (HLT2) prior to saving for analysis. An automated bandwidth\ndivision has been performed to equitably divide this 1 MHz output rate between\nthe signals of interest to the LHCb physics program. This was achieved by\noptimising a set of trigger selections that maximise efficiency for signals of\ninterest to LHCb while keeping the total HLT1 readout capped to a maximum. The\nbandwidth division tool has been used to determine the optimal selection for 35\nselection algorithms over 80 characteristic physics channels.",
+            "pdf_url": "http://arxiv.org/pdf/2502.09557v1",
+            "published": "2025-02-13 18:09:47+00:00",
+            "updated": "2025-02-13 18:09:47+00:00"
+        },
+        {
+            "title": "Explainable AI-assisted Optimization for Feynman Integral Reduction",
+            "authors": "Zhuo-Yang Song, Tong-Zhi Yang, Qing-Hong Cao, Ming-xing Luo, Hua Xing Zhu",
+            "summary": "We present a novel approach to optimizing the reduction of Feynman integrals\nusing integration-by-parts identities. By developing a priority function\nthrough the FunSearch algorithm, which combines large language models and\ngenetic algorithms, we achieve significant improvements in memory usage and\ncomputational efficiency compared to traditional methods. Our approach\ndemonstrates substantial reductions in the required seeding integrals, making\npreviously intractable integrals more manageable. Tested on a variety of\nFeynman integrals, including one-loop and multi-loop cases with planar and\nnon-planar configurations, our method demonstrates remarkable scalability and\nadaptability. For reductions of certain Feynman integrals with many dots and\nnumerators, we observed an improvement by a factor of 3058 compared to\ntraditional methods. This work provides a powerful and interpretable framework\nfor optimizing IBP reductions, paving the way for more efficient and practical\ncalculations in high-energy physics.",
+            "pdf_url": "http://arxiv.org/pdf/2502.09544v1",
+            "published": "2025-02-13 17:58:18+00:00",
+            "updated": "2025-02-13 17:58:18+00:00"
+        }
+    ],
+    "Diffusion": [
+        {
+            "title": "Theoretical Benefit and Limitation of Diffusion Language Model",
+            "authors": "Guhao Feng, Yihan Geng, Jian Guan, Wei Wu, Liwei Wang, Di He",
+            "summary": "Diffusion language models have emerged as a promising approach for text\ngeneration. One would naturally expect this method to be an efficient\nreplacement for autoregressive models since multiple tokens can be sampled in\nparallel during each diffusion step. However, its efficiency-accuracy trade-off\nis not yet well understood. In this paper, we present a rigorous theoretical\nanalysis of a widely used type of diffusion language model, the Masked\nDiffusion Model (MDM), and find that its effectiveness heavily depends on the\ntarget evaluation metric. Under mild conditions, we prove that when using\nperplexity as the metric, MDMs can achieve near-optimal perplexity in sampling\nsteps regardless of sequence length, demonstrating that efficiency can be\nachieved without sacrificing performance. However, when using the sequence\nerror rate--which is important for understanding the \"correctness\" of a\nsequence, such as a reasoning chain--we show that the required sampling steps\nmust scale linearly with sequence length to obtain \"correct\" sequences, thereby\neliminating MDM's efficiency advantage over autoregressive models. Our analysis\nestablishes the first theoretical foundation for understanding the benefits and\nlimitations of MDMs. All theoretical findings are supported by empirical\nstudies.",
+            "pdf_url": "http://arxiv.org/pdf/2502.09622v1",
+            "published": "2025-02-13 18:59:47+00:00",
+            "updated": "2025-02-13 18:59:47+00:00"
+        },
+        {
+            "title": "Score-of-Mixture Training: Training One-Step Generative Models Made Simple",
+            "authors": "Tejas Jayashankar, J. Jon Ryu, Gregory Wornell",
+            "summary": "We propose Score-of-Mixture Training (SMT), a novel framework for training\none-step generative models by minimizing a class of divergences called the\n$\\alpha$-skew Jensen-Shannon divergence. At its core, SMT estimates the score\nof mixture distributions between real and fake samples across multiple noise\nlevels. Similar to consistency models, our approach supports both training from\nscratch (SMT) and distillation using a pretrained diffusion model, which we\ncall Score-of-Mixture Distillation (SMD). It is simple to implement, requires\nminimal hyperparameter tuning, and ensures stable training. Experiments on\nCIFAR-10 and ImageNet 64x64 show that SMT/SMD are competitive with and can even\noutperform existing methods.",
+            "pdf_url": "http://arxiv.org/pdf/2502.09609v1",
+            "published": "2025-02-13 18:57:20+00:00",
+            "updated": "2025-02-13 18:57:20+00:00"
+        },
+        {
+            "title": "Rolling Ahead Diffusion for Traffic Scene Simulation",
+            "authors": "Yunpeng Liu, Matthew Niedoba, William Harvey, Adam Scibior, Berend Zwartsenberg, Frank Wood",
+            "summary": "Realistic driving simulation requires that NPCs not only mimic natural\ndriving behaviors but also react to the behavior of other simulated agents.\nRecent developments in diffusion-based scenario generation focus on creating\ndiverse and realistic traffic scenarios by jointly modelling the motion of all\nthe agents in the scene. However, these traffic scenarios do not react when the\nmotion of agents deviates from their modelled trajectories. For example, the\nego-agent can be controlled by a stand along motion planner. To produce\nreactive scenarios with joint scenario models, the model must regenerate the\nscenario at each timestep based on new observations in a Model Predictive\nControl (MPC) fashion. Although reactive, this method is time-consuming, as one\ncomplete possible future for all NPCs is generated per simulation step.\nAlternatively, one can utilize an autoregressive model (AR) to predict only the\nimmediate next-step future for all NPCs. Although faster, this method lacks the\ncapability for advanced planning. We present a rolling diffusion based traffic\nscene generation model which mixes the benefits of both methods by predicting\nthe next step future and simultaneously predicting partially noised further\nfuture steps at the same time. We show that such model is efficient compared to\ndiffusion model based AR, achieving a beneficial compromise between reactivity\nand computational efficiency.",
+            "pdf_url": "http://arxiv.org/pdf/2502.09587v1",
+            "published": "2025-02-13 18:45:56+00:00",
+            "updated": "2025-02-13 18:45:56+00:00"
+        },
+        {
+            "title": "DiffMS: Diffusion Generation of Molecules Conditioned on Mass Spectra",
+            "authors": "Montgomery Bohde, Mrunali Manjrekar, Runzhong Wang, Shuiwang Ji, Connor W. Coley",
+            "summary": "Mass spectrometry plays a fundamental role in elucidating the structures of\nunknown molecules and subsequent scientific discoveries. One formulation of the\nstructure elucidation task is the conditional $\\textit{de novo}$ generation of\nmolecular structure given a mass spectrum. Toward a more accurate and efficient\nscientific discovery pipeline for small molecules, we present DiffMS, a\nformula-restricted encoder-decoder generative network that achieves\nstate-of-the-art performance on this task. The encoder utilizes a transformer\narchitecture and models mass spectra domain knowledge such as peak formulae and\nneutral losses, and the decoder is a discrete graph diffusion model restricted\nby the heavy-atom composition of a known chemical formula. To develop a robust\ndecoder that bridges latent embeddings and molecular structures, we pretrain\nthe diffusion decoder with fingerprint-structure pairs, which are available in\nvirtually infinite quantities, compared to structure-spectrum pairs that number\nin the tens of thousands. Extensive experiments on established benchmarks show\nthat DiffMS outperforms existing models on $\\textit{de novo}$ molecule\ngeneration. We provide several ablations to demonstrate the effectiveness of\nour diffusion and pretraining approaches and show consistent performance\nscaling with increasing pretraining dataset size. DiffMS code is publicly\navailable at https://github.com/coleygroup/DiffMS.",
+            "pdf_url": "http://arxiv.org/pdf/2502.09571v1",
+            "published": "2025-02-13 18:29:48+00:00",
+            "updated": "2025-02-13 18:29:48+00:00"
+        },
+        {
+            "title": "Diffusing DeBias: a Recipe for Turning a Bug into a Feature",
+            "authors": "Massimiliano Ciranni, Vito Paolo Pastore, Roberto Di Via, Enzo Tartaglione, Francesca Odone, Vittorio Murino",
+            "summary": "Deep learning model effectiveness in classification tasks is often challenged\nby the quality and quantity of training data which, whenever containing strong\nspurious correlations between specific attributes and target labels, can result\nin unrecoverable biases in model predictions. Tackling these biases is crucial\nin improving model generalization and trust, especially in real-world\nscenarios. This paper presents Diffusing DeBias (DDB), a novel approach acting\nas a plug-in for common methods in model debiasing while exploiting the\ninherent bias-learning tendency of diffusion models. Our approach leverages\nconditional diffusion models to generate synthetic bias-aligned images, used to\ntrain a bias amplifier model, to be further employed as an auxiliary method in\ndifferent unsupervised debiasing approaches. Our proposed method, which also\ntackles the common issue of training set memorization typical of this type of\ntech- niques, beats current state-of-the-art in multiple benchmark datasets by\nsignificant margins, demonstrating its potential as a versatile and effective\ntool for tackling dataset bias in deep learning applications.",
+            "pdf_url": "http://arxiv.org/pdf/2502.09564v1",
+            "published": "2025-02-13 18:17:03+00:00",
+            "updated": "2025-02-13 18:17:03+00:00"
+        }
+    ]
+}
