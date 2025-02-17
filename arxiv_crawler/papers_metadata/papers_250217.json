@@ -1,0 +1,126 @@
+{
+    "Physics": [
+        {
+            "title": "Scalar weak gravity bound from full unitarity",
+            "authors": "Anna Tokareva, Yongjun Xu",
+            "summary": "Weak gravity conjecture can be formulated as a statement that gravity must be\nthe weakest force, compared to the other interactions in low energy effective\nfield theory (EFT). Several arguments in favor of this statement were presented\nfrom the side of string theory and black hole physics. However, it is still an\nopen question whether the statement of weak gravity can be proven based on more\ngeneral assumptions of causality, unitarity, and locality of the fundamental\ntheory. These consistency requirements imply the dispersion relations for the\nscattering amplitudes which allow to bound the EFT coefficients. The main\ndifficulty for obtaining these constraints in the presence of gravity is\nrelated to the graviton pole which makes the required dispersion relations\ndivergent in the forward limit. In this work, we present a new way of deriving\nthe bound on the ratio between the EFT cutoff scale and Planck mass from\nconfronting the IR divergences from graviton pole and one-loop running of the\nEFT Wilson coefficient in front of the dimension-12 operator. Our method also\nallows the incorporation of full unitarity of partial wave expansion of the UV\ntheory. We examine the EFT of a single shift-symmetric scalar in four\ndimensions and find that the maximal value of the cutoff scale of the EFT\ncoupled to gravity must be lower than about $O(10)$ Planck mass.",
+            "pdf_url": "http://arxiv.org/pdf/2502.10375v1",
+            "published": "2025-02-14 18:53:38+00:00",
+            "updated": "2025-02-14 18:53:38+00:00"
+        },
+        {
+            "title": "Open-Source Benchtop Magnetophotometer (MAP) for Characterizing the Magnetic Susceptibility of Nanoparticles",
+            "authors": "Alexis Scholtz, Jack Paulson, Victoria Nunez, Andrea M. Armani",
+            "summary": "Magnetic nanoparticles form the foundation of many biomedical and\nenvironmental technologies. Although various methods exist to characterize a\nsubset of physical properties of nanoparticles, measuring their magnetic\nresponse remains challenging. This property is defined by magnetic\nsusceptibility, which describes how a material responds to an external magnetic\nfield. However, accurately measuring magnetic susceptibility relies on\nspecialized, high-performance instrumentation which require large quantities of\ndried sample. Here, we present the design and validation of an open-source\nbenchtop instrument, a magnetophotometer (MAP), which non-destructively\nmeasures the magnetic susceptibility of suspended nanoparticles via\nmonochromatic differential optical spectroscopy. To validate the system's\naccuracy, a series of measurements are performed, and results from a\nsuperconducting quantum interference device (SQUID) serve as a benchmark.\nFirst, a series of three iron oxide nanoparticle batches was synthesized with\ndistinctly different susceptibility values, and the MAP successfully\ndifferentiates between them in agreement with SQUID results. Notably, in\ncomparison with the SQUID, the MAP requires an order of magnitude less sample\nand obtains a result 99.8% faster. To demonstrate utility in the biomedical\nfield, the MAP performs non-destructive analysis of bioconjugated magnetic\nnanoparticles, a measurement that is not possible using currently available\ncommercial systems. The bioactivity of the surface coating is not degraded by\nthe testing, and the susceptibility values are in agreement with the particle\nmaterial. Thus, the MAP provides a path for in-line rapid quality control\nassessment of nanoparticles in their final application environment.",
+            "pdf_url": "http://arxiv.org/pdf/2401.01903v2",
+            "published": "2023-12-17 17:48:53+00:00",
+            "updated": "2025-02-14 18:52:41+00:00"
+        },
+        {
+            "title": "Zeno-effect Computation: Opportunities and Challenges",
+            "authors": "Jesse Berwald, Nicholas Chancellor, Raouf Dridi",
+            "summary": "Adiabatic quantum computing has demonstrated how quantum Zeno can be used to\nconstruct quantum optimisers. However, much less work has been done to\nunderstand how more general Zeno effects could be used in a similar setting. We\nuse a construction based on three state systems rather than directly in qubits,\nso that a qubit can remain after projecting out one of the states. We find that\nour model of computing is able to recover the dynamics of a transverse field\nIsing model, several generalisations are possible, but our methods allow for\nconstraints to be implemented non-perturbatively and does not need tunable\ncouplers, unlike simple transverse field implementations. We further discuss\nhow to implement the protocol physically using methods building on STIRAP\nprotocols for state transfer. We find a substantial challenge, that settings\ndefined exclusively by measurement or dissipative Zeno effects do not allow for\nfrustration, and in these settings pathological spectral features arise leading\nto unfavorable runtime scaling. We discuss methods to overcome this challenge\nfor example including gain as well as loss as is often done in an optical\nsetting.",
+            "pdf_url": "http://arxiv.org/pdf/2311.08432v2",
+            "published": "2023-11-14 04:31:10+00:00",
+            "updated": "2025-02-14 18:32:09+00:00"
+        },
+        {
+            "title": "Hamiltonian Learning using Machine Learning Models Trained with Continuous Measurements",
+            "authors": "Kris Tucker, Amit Kiran Rege, Conor Smith, Claire Monteleoni, Tameem Albash",
+            "summary": "We build upon recent work on using Machine Learning models to estimate\nHamiltonian parameters using continuous weak measurement of qubits as input. We\nconsider two settings for the training of our model: (1) supervised learning\nwhere the weak measurement training record can be labeled with known\nHamiltonian parameters, and (2) unsupervised learning where no labels are\navailable. The first has the advantage of not requiring an explicit\nrepresentation of the quantum state, thus potentially scaling very favorably to\nlarger number of qubits. The second requires the implementation of a physical\nmodel to map the Hamiltonian parameters to a measurement record, which we\nimplement using an integrator of the physical model with a recurrent neural\nnetwork to provide a model-free correction at every time step to account for\nsmall effects not captured by the physical model. We test our construction on a\nsystem of two qubits and demonstrate accurate prediction of multiple physical\nparameters in both the supervised and unsupervised context. We demonstrate that\nthe model benefits from larger training sets establishing that it is in fact\n\"learning,\" and we show robustness to errors in the assumed physical model by\nachieving accurate parameter estimation in the presence of unanticipated single\nparticle relaxation.",
+            "pdf_url": "http://arxiv.org/pdf/2404.05526v2",
+            "published": "2024-04-08 13:50:50+00:00",
+            "updated": "2025-02-14 17:53:36+00:00"
+        },
+        {
+            "title": "InfoPos: A ML-Assisted Solution Design Support Framework for Industrial Cyber-Physical Systems",
+            "authors": "Uraz Odyurt, Richard Loendersloot, Tiedo Tinga",
+            "summary": "The variety of building blocks and algorithms incorporated in data-centric\nand ML-assisted solutions is high, contributing to two challenges: selection of\nmost effective set and order of building blocks, as well as achieving such a\nselection with minimum cost. Considering that ML-assisted solution design is\ninfluenced by the extent of available data, as well as available knowledge of\nthe target system, it is advantageous to be able to select matching building\nblocks. We introduce the first iteration of our InfoPos framework, allowing the\nplacement of use-cases considering the available positions (levels), i.e., from\npoor to rich, of knowledge and data dimensions. With that input, designers and\ndevelopers can reveal the most effective corresponding choice(s), streamlining\nthe solution design process. The results from our demonstrator, an anomaly\nidentification use-case for industrial Cyber-Physical Systems, reflects\nachieved effects upon the use of different building blocks throughout knowledge\nand data positions. The achieved ML model performance is considered as the\nindicator. Our data processing code and the composed data sets are publicly\navailable.",
+            "pdf_url": "http://arxiv.org/pdf/2502.10331v1",
+            "published": "2025-02-14 17:43:19+00:00",
+            "updated": "2025-02-14 17:43:19+00:00"
+        },
+        {
+            "title": "Spin Liquid and Superconductivity emerging from Steady States and Measurements",
+            "authors": "Kaixiang Su, Abhijat Sarma, Marcus Bintz, Thomas Kiely, Yimu Bao, Matthew P. A. Fisher, Cenke Xu",
+            "summary": "We demonstrate that, starting with a simple fermion wave function, the steady\nmixed state of the evolution of a class of Lindbladians, and the ensemble\ncreated by strong local measurement of fermion density without post-selection\ncan be mapped to the \"Gutzwiller projected\" wave functions in the doubled\nHilbert space -- the representation of the density matrix through the\nChoi-Jamiolkowski isomorphism. A Gutzwiller projection is a broadly used\napproach of constructing spin liquid states. For example, if one starts with a\ngapless free Dirac fermion pure quantum state, the constructed mixed state\ncorresponds to an algebraic spin liquid in the doubled Hilbert space. We also\npredict that for some initial fermion wave function, the mixed state created\nfollowing the procedure described above is expected to have a spontaneous\n\"strong-to-weak\" U(1) symmetry breaking, which corresponds to the emergence of\nsuperconductivity in the doubled Hilbert space. We also design the experimental\nprotocol to construct the desired physics of mixed states.",
+            "pdf_url": "http://arxiv.org/pdf/2408.07125v3",
+            "published": "2024-08-13 18:00:01+00:00",
+            "updated": "2025-02-14 17:10:23+00:00"
+        },
+        {
+            "title": "Probabilistic Super-Resolution for High-Fidelity Physical System Simulations with Uncertainty Quantification",
+            "authors": "Pengyu Zhang, Connor Duffin, Alex Glyn-Davies, Arnaud Vadeboncoeur, Mark Girolami",
+            "summary": "Super-resolution (SR) is a promising tool for generating high-fidelity\nsimulations of physical systems from low-resolution data, enabling fast and\naccurate predictions in engineering applications. However, existing\ndeep-learning based SR methods, require large labeled datasets and lack\nreliable uncertainty quantification (UQ), limiting their applicability in\nreal-world scenarios. To overcome these challenges, we propose a probabilistic\nSR framework that leverages the Statistical Finite Element Method and\nenergy-based generative modeling. Our method enables efficient high-resolution\npredictions with inherent UQ, while eliminating the need for extensive labeled\ndatasets. The method is validated on a 2D Poisson example and compared with\nbicubic interpolation upscaling. Results demonstrate a computational speed-up\nover high-resolution numerical solvers while providing reliable uncertainty\nestimates.",
+            "pdf_url": "http://arxiv.org/pdf/2502.10280v1",
+            "published": "2025-02-14 16:37:21+00:00",
+            "updated": "2025-02-14 16:37:21+00:00"
+        },
+        {
+            "title": "The effect of the electron's spin magnetic moment on quantum radiation in strong electromagnetic fields",
+            "authors": "Louis A. Ingle, Christopher D. Arran, Tom G. Blackburn, Sergey V. Bulanov, Chris D. Murphy, Christopher P. Ridgers",
+            "summary": "Ultra-intense laser pulses can create sufficiently strong fields to probe\nquantum electrodynamics effects in a novel regime. By colliding a 60 GeV\nelectron bunch with a laser pulse focussed to the maximum achievable intensity\nof $10^{23}$ Wcm$^{-2}$, we can reach fields much stronger than the critical\nSchwinger field in the electron rest frame. When the ratio of these fields\n$\\chi_e\\gg1$ we find that the hard ($>25$ \\thinspace GeV) radiation from the\nelectron has a substantial contribution from spin-light. 33% more photons are\nproduced above this energy due to spin-light, the radiation resulting from the\nacceleration of the electron's intrinsic magnetic moment. This increase in\nhigh-energy photons results in 14% more positrons produced with energy above\n$25$ GeV. Furthermore, the enhanced photon production due to spin-light results\nin a 46% increase in the electron recoil radiation reaction. These observable\nsignatures provide a potential route to observing spin-light in the strongly\nquantum regime ($\\chi_e\\gg1$) for the first time.",
+            "pdf_url": "http://arxiv.org/pdf/2502.10270v1",
+            "published": "2025-02-14 16:27:16+00:00",
+            "updated": "2025-02-14 16:27:16+00:00"
+        },
+        {
+            "title": "Deep learning-based holography for T-linear resistivity",
+            "authors": "Byoungjoon Ahn, Hyun-Sik Jeong, Chang-Woo Ji, Keun-Young Kim, Kwan Yun",
+            "summary": "We employ deep learning within holographic duality to investigate $T$-linear\nresistivity, a hallmark of strange metals. Utilizing Physics-Informed Neural\nNetworks, we incorporate boundary data for $T$-linear resistivity and bulk\ndifferential equations into a loss function. This approach allows us to derive\ndilaton potentials in Einstein-Maxwell-Dilaton-Axion theories, capturing\nessential features of strange metals, such as $T$-linear resistivity and linear\nspecific heat scaling. We also explore the impact of the resistivity slope on\ndilaton potentials. Regardless of slope, dilaton potentials exhibit universal\nexponential growth at low temperatures, driving $T$-linear resistivity and\nmatching infrared geometric analyses. At a specific slope, our method\nrediscovers the Gubser-Rocha model, a well-known holographic model of strange\nmetals. Additionally, the robustness of $T$-linear resistivity at higher\ntemperatures correlates with the asymptotic AdS behavior of the dilaton\ncoupling to the Maxwell term. Our findings suggest that deep learning could\nhelp uncover mechanisms in holographic condensed matter systems and advance our\nunderstanding of strange metals.",
+            "pdf_url": "http://arxiv.org/pdf/2502.10245v1",
+            "published": "2025-02-14 15:55:26+00:00",
+            "updated": "2025-02-14 15:55:26+00:00"
+        },
+        {
+            "title": "Strong field physics in open quantum systems",
+            "authors": "Neda Boroumand, Adam Thorpe, Graeme Bart, Andrew Parks, Mohamad Toutounji, Giulio Vampa, Thomas Brabec, Lu Wang",
+            "summary": "Dephasing is the loss of phase coherence due to the interaction of an\nelectron with the environment. The most common approach to model dephasing in\nlight-matter interaction is the relaxation time approximation. Surprisingly,\nits use in intense laser physics results in a pronounced failure, because\nionization {is highly overestimated.} Here, this shortcoming is corrected by\ndeveloping a strong field model in which the many-body environment is\nrepresented by a heat bath. Our model reveals that ionization enhancement and\nsuppression by several orders of magnitude are still possible, however only in\nmore extreme parameter regimes. Our approach allows the integration of\nmany-body physics into intense laser dynamics with minimal computational and\nmathematical complexity, thus facilitating the identification of novel effects\nin strong-field physics and attosecond {science}.",
+            "pdf_url": "http://arxiv.org/pdf/2502.10240v1",
+            "published": "2025-02-14 15:50:49+00:00",
+            "updated": "2025-02-14 15:50:49+00:00"
+        }
+    ],
+    "Diffusion": [
+        {
+            "title": "Region-Adaptive Sampling for Diffusion Transformers",
+            "authors": "Ziming Liu, Yifan Yang, Chengruidong Zhang, Yiqi Zhang, Lili Qiu, Yang You, Yuqing Yang",
+            "summary": "Diffusion models (DMs) have become the leading choice for generative tasks\nacross diverse domains. However, their reliance on multiple sequential forward\npasses significantly limits real-time performance. Previous acceleration\nmethods have primarily focused on reducing the number of sampling steps or\nreusing intermediate results, failing to leverage variations across spatial\nregions within the image due to the constraints of convolutional U-Net\nstructures. By harnessing the flexibility of Diffusion Transformers (DiTs) in\nhandling variable number of tokens, we introduce RAS, a novel, training-free\nsampling strategy that dynamically assigns different sampling ratios to regions\nwithin an image based on the focus of the DiT model. Our key observation is\nthat during each sampling step, the model concentrates on semantically\nmeaningful regions, and these areas of focus exhibit strong continuity across\nconsecutive steps. Leveraging this insight, RAS updates only the regions\ncurrently in focus, while other regions are updated using cached noise from the\nprevious step. The model's focus is determined based on the output from the\npreceding step, capitalizing on the temporal consistency we observed. We\nevaluate RAS on Stable Diffusion 3 and Lumina-Next-T2I, achieving speedups up\nto 2.36x and 2.51x, respectively, with minimal degradation in generation\nquality. Additionally, a user study reveals that RAS delivers comparable\nqualities under human evaluation while achieving a 1.6x speedup. Our approach\nmakes a significant step towards more efficient diffusion transformers,\nenhancing their potential for real-time applications.",
+            "pdf_url": "http://arxiv.org/pdf/2502.10389v1",
+            "published": "2025-02-14 18:59:36+00:00",
+            "updated": "2025-02-14 18:59:36+00:00"
+        },
+        {
+            "title": "Dimension-free Score Matching and Time Bootstrapping for Diffusion Models",
+            "authors": "Syamantak Kumar, Dheeraj Nagaraj, Purnamrita Sarkar",
+            "summary": "Diffusion models generate samples by estimating the score function of the\ntarget distribution at various noise levels. The model is trained using samples\ndrawn from the target distribution, progressively adding noise. In this work,\nwe establish the first (nearly) dimension-free sample complexity bounds for\nlearning these score functions, achieving a double exponential improvement in\ndimension over prior results. A key aspect of our analysis is the use of a\nsingle function approximator to jointly estimate scores across noise levels, a\ncritical feature of diffusion models in practice which enables generalization\nacross timesteps. Our analysis introduces a novel martingale-based error\ndecomposition and sharp variance bounds, enabling efficient learning from\ndependent data generated by Markov processes, which may be of independent\ninterest. Building on these insights, we propose Bootstrapped Score Matching\n(BSM), a variance reduction technique that utilizes previously learned scores\nto improve accuracy at higher noise levels. These results provide crucial\ninsights into the efficiency and effectiveness of diffusion models for\ngenerative modeling.",
+            "pdf_url": "http://arxiv.org/pdf/2502.10354v1",
+            "published": "2025-02-14 18:32:22+00:00",
+            "updated": "2025-02-14 18:32:22+00:00"
+        },
+        {
+            "title": "DiOpt: Self-supervised Diffusion for Constrained Optimization",
+            "authors": "Shutong Ding, Yimiao Zhou, Ke Hu, Xi Yao, Junchi Yan, Xiaoying Tang, Ye Shi",
+            "summary": "Recent advances in diffusion models show promising potential for\nlearning-based optimization by leveraging their multimodal sampling capability\nto escape local optima. However, existing diffusion-based optimization\napproaches, often reliant on supervised training, lacks a mechanism to ensure\nstrict constraint satisfaction which is often required in real-world\napplications. One resulting observation is the distributional misalignment,\ni.e. the generated solution distribution often exhibits small overlap with the\nfeasible domain. In this paper, we propose DiOpt, a novel diffusion paradigm\nthat systematically learns near-optimal feasible solution distributions through\niterative self-training. Our framework introduces several key innovations: a\ntarget distribution specifically designed to maximize overlap with the\nconstrained solution manifold; a bootstrapped self-training mechanism that\nadaptively weights candidate solutions based on the severity of constraint\nviolations and optimality gaps; and a dynamic memory buffer that accelerates\nconvergence by retaining high-quality solutions over training iterations. To\nour knowledge, DiOpt represents the first successful integration of\nself-supervised diffusion with hard constraint satisfaction. Evaluations on\ndiverse tasks, including power grid control, motion retargeting, wireless\nallocation demonstrate its superiority in terms of both optimality and\nconstraint satisfaction.",
+            "pdf_url": "http://arxiv.org/pdf/2502.10330v1",
+            "published": "2025-02-14 17:43:08+00:00",
+            "updated": "2025-02-14 17:43:08+00:00"
+        },
+        {
+            "title": "Generalised Parallel Tempering: Flexible Replica Exchange via Flows and Diffusions",
+            "authors": "Leo Zhang, Peter Potaptchik, Arnaud Doucet, Hai-Dang Dau, Saifuddin Syed",
+            "summary": "Parallel Tempering (PT) is a classical MCMC algorithm designed for leveraging\nparallel computation to sample efficiently from high-dimensional, multimodal or\notherwise complex distributions via annealing. One limitation of the standard\nformulation of PT is the growth of computational resources required to generate\nhigh-quality samples, as measured by effective sample size or round trip rate,\nfor increasingly challenging distributions. To address this issue, we propose\nthe framework: Generalised Parallel Tempering (GePT) which allows for the\nincorporation of recent advances in modern generative modelling, such as\nnormalising flows and diffusion models, within Parallel Tempering, while\nmaintaining the same theoretical guarantees as MCMC-based methods. For\ninstance, we show that this allows us to utilise diffusion models in a\nparallelised manner, bypassing the usual computational cost of a large number\nof steps to generate quality samples. Further, we empirically demonstrate that\nGePT can improve sample quality and reduce the growth of computational\nresources required to handle complex distributions over the classical\nalgorithm.",
+            "pdf_url": "http://arxiv.org/pdf/2502.10328v1",
+            "published": "2025-02-14 17:41:44+00:00",
+            "updated": "2025-02-14 17:41:44+00:00"
+        },
+        {
+            "title": "The Devil is in the Prompts: De-Identification Traces Enhance Memorization Risks in Synthetic Chest X-Ray Generation",
+            "authors": "Raman Dutt",
+            "summary": "Generative models, particularly text-to-image (T2I) diffusion models, play a\ncrucial role in medical image analysis. However, these models are prone to\ntraining data memorization, posing significant risks to patient privacy.\nSynthetic chest X-ray generation is one of the most common applications in\nmedical image analysis with the MIMIC-CXR dataset serving as the primary data\nrepository for this task. This study presents the first systematic attempt to\nidentify prompts and text tokens in MIMIC-CXR that contribute the most to\ntraining data memorization. Our analysis reveals two unexpected findings: (1)\nprompts containing traces of de-identification procedures (markers introduced\nto hide Protected Health Information) are the most memorized, and (2) among all\ntokens, de-identification markers contribute the most towards memorization.\nThis highlights a broader issue with the standard anonymization practices and\nT2I synthesis with MIMIC-CXR. To exacerbate, existing inference-time\nmemorization mitigation strategies are ineffective and fail to sufficiently\nreduce the model's reliance on memorized text tokens. On this front, we propose\nactionable strategies for different stakeholders to enhance privacy and improve\nthe reliability of generative models in medical imaging. Finally, our results\nprovide a foundation for future work on developing and benchmarking\nmemorization mitigation techniques for synthetic chest X-ray generation using\nthe MIMIC-CXR dataset. The anonymized code is available at\nhttps://anonymous.4open.science/r/diffusion_memorization-8011/",
+            "pdf_url": "http://arxiv.org/pdf/2502.07516v2",
+            "published": "2025-02-11 12:36:00+00:00",
+            "updated": "2025-02-14 17:24:56+00:00"
+        }
+    ]
+}

@@ -120,6 +120,31 @@ TODO:
 
 
 
+
+## Update on 2025-02-17
+
+### Physics
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-02-14|2025-02-14|Scalar weak gravity bound from full unitarity|Anna Tokareva|[2502.10375v1](http://arxiv.org/pdf/2502.10375v1)|
+|2023-12-17|2025-02-14|Open-Source Benchtop Magnetophotometer (MAP) for Characterizing the Magnetic Susceptibility of Nanoparticles|Alexis Scholtz|[2401.01903v2](http://arxiv.org/pdf/2401.01903v2)|
+|2023-11-14|2025-02-14|Zeno-effect Computation: Opportunities and Challenges|Jesse Berwald|[2311.08432v2](http://arxiv.org/pdf/2311.08432v2)|
+|2024-04-08|2025-02-14|Hamiltonian Learning using Machine Learning Models Trained with Continuous Measurements|Kris Tucker|[2404.05526v2](http://arxiv.org/pdf/2404.05526v2)|
+|2025-02-14|2025-02-14|InfoPos: A ML-Assisted Solution Design Support Framework for Industrial Cyber-Physical Systems|Uraz Odyurt|[2502.10331v1](http://arxiv.org/pdf/2502.10331v1)|
+|2024-08-13|2025-02-14|Spin Liquid and Superconductivity emerging from Steady States and Measurements|Kaixiang Su|[2408.07125v3](http://arxiv.org/pdf/2408.07125v3)|
+|2025-02-14|2025-02-14|Probabilistic Super-Resolution for High-Fidelity Physical System Simulations with Uncertainty Quantification|Pengyu Zhang|[2502.10280v1](http://arxiv.org/pdf/2502.10280v1)|
+|2025-02-14|2025-02-14|The effect of the electron's spin magnetic moment on quantum radiation in strong electromagnetic fields|Louis A. Ingle|[2502.10270v1](http://arxiv.org/pdf/2502.10270v1)|
+|2025-02-14|2025-02-14|Deep learning-based holography for T-linear resistivity|Byoungjoon Ahn|[2502.10245v1](http://arxiv.org/pdf/2502.10245v1)|
+|2025-02-14|2025-02-14|Strong field physics in open quantum systems|Neda Boroumand|[2502.10240v1](http://arxiv.org/pdf/2502.10240v1)|
+
+### Diffusion
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-02-14|2025-02-14|Region-Adaptive Sampling for Diffusion Transformers|Ziming Liu|[2502.10389v1](http://arxiv.org/pdf/2502.10389v1)|
+|2025-02-14|2025-02-14|Dimension-free Score Matching and Time Bootstrapping for Diffusion Models|Syamantak Kumar|[2502.10354v1](http://arxiv.org/pdf/2502.10354v1)|
+|2025-02-14|2025-02-14|DiOpt: Self-supervised Diffusion for Constrained Optimization|Shutong Ding|[2502.10330v1](http://arxiv.org/pdf/2502.10330v1)|
+|2025-02-14|2025-02-14|Generalised Parallel Tempering: Flexible Replica Exchange via Flows and Diffusions|Leo Zhang|[2502.10328v1](http://arxiv.org/pdf/2502.10328v1)|
+|2025-02-11|2025-02-14|The Devil is in the Prompts: De-Identification Traces Enhance Memorization Risks in Synthetic Chest X-Ray Generation|Raman Dutt|[2502.07516v2](http://arxiv.org/pdf/2502.07516v2)|
 ## Update on 2025-02-15
 
 ### Physics
