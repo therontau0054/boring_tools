@@ -121,6 +121,31 @@ TODO:
 
 
 
+
+## Update on 2025-02-19
+
+### Physics
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-02-18|2025-02-18|Pre-training Auto-regressive Robotic Models with 4D Representations|Dantong Niu|[2502.13142v1](http://arxiv.org/pdf/2502.13142v1)|
+|2025-02-18|2025-02-18|Magma: A Foundation Model for Multimodal AI Agents|Jianwei Yang|[2502.13130v1](http://arxiv.org/pdf/2502.13130v1)|
+|2025-01-30|2025-02-18|Characterizing nonlinear dynamics by contrastive cartography|Nicolas Romeo|[2502.09628v2](http://arxiv.org/pdf/2502.09628v2)|
+|2025-02-18|2025-02-18|Global Existence and Nonlinear Stability of Finite-Energy Solutions of the Compressible Euler-Riesz Equations with Large Initial Data of Spherical Symmetry|José A. Carrillo|[2502.13094v1](http://arxiv.org/pdf/2502.13094v1)|
+|2025-02-18|2025-02-18|Confined Electromagnetic Waves in Media Composed of Topological Insulators|Sebastián Filipini|[2502.13048v1](http://arxiv.org/pdf/2502.13048v1)|
+|2025-02-18|2025-02-18|Rotational quenching of monofluorides in a cryogenic helium bath|Mateo Londoño|[2502.13046v1](http://arxiv.org/pdf/2502.13046v1)|
+|2022-11-02|2025-02-18|An axion-like mechanism for confinement in QCD|J. L. Alonso|[2211.01047v4](http://arxiv.org/pdf/2211.01047v4)|
+|2025-02-18|2025-02-18|Records from the S-Matrix Marathon: Asymptotic Observables|Simon Caron-Huot|[2502.13021v1](http://arxiv.org/pdf/2502.13021v1)|
+|2025-02-18|2025-02-18|Search for medium effects using jet axis decorrelation in inclusive jets from PbPb collisions at $\sqrt{s_\text{NN}}$ = 5.02 TeV|CMS Collaboration|[2502.13020v1](http://arxiv.org/pdf/2502.13020v1)|
+|2025-02-18|2025-02-18|Inverse Seesaw Mechanism and Axion Portal Fermionic Dark Matter|Nakorn Thongyoi|[2502.13002v1](http://arxiv.org/pdf/2502.13002v1)|
+
+### Diffusion
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-02-14|2025-02-18|Large Language Diffusion Models|Shen Nie|[2502.09992v2](http://arxiv.org/pdf/2502.09992v2)|
+|2025-02-18|2025-02-18|Does Training with Synthetic Data Truly Protect Privacy?|Yunpeng Zhao|[2502.12976v1](http://arxiv.org/pdf/2502.12976v1)|
+|2025-02-18|2025-02-18|Guaranteed Conditional Diffusion: 3D Block-based Models for Scientific Data Compression|Jaemoon Lee|[2502.12951v1](http://arxiv.org/pdf/2502.12951v1)|
+|2024-05-30|2025-02-18|Don't drop your samples! Coherence-aware training benefits Conditional diffusion|Nicolas Dufour|[2405.20324v2](http://arxiv.org/pdf/2405.20324v2)|
+|2025-02-18|2025-02-18|RAPID: Retrieval Augmented Training of Differentially Private Diffusion Models|Tanqiu Jiang|[2502.12794v1](http://arxiv.org/pdf/2502.12794v1)|
 ## Update on 2025-02-17
 
 ### Physics

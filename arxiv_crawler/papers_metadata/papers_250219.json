@@ -1,0 +1,126 @@
+{
+    "Physics": [
+        {
+            "title": "Pre-training Auto-regressive Robotic Models with 4D Representations",
+            "authors": "Dantong Niu, Yuvan Sharma, Haoru Xue, Giscard Biamby, Junyi Zhang, Ziteng Ji, Trevor Darrell, Roei Herzig",
+            "summary": "Foundation models pre-trained on massive unlabeled datasets have\nrevolutionized natural language and computer vision, exhibiting remarkable\ngeneralization capabilities, thus highlighting the importance of pre-training.\nYet, efforts in robotics have struggled to achieve similar success, limited by\neither the need for costly robotic annotations or the lack of representations\nthat effectively model the physical world. In this paper, we introduce ARM4R,\nan Auto-regressive Robotic Model that leverages low-level 4D Representations\nlearned from human video data to yield a better pre-trained robotic model.\nSpecifically, we focus on utilizing 3D point tracking representations from\nvideos derived by lifting 2D representations into 3D space via monocular depth\nestimation across time. These 4D representations maintain a shared geometric\nstructure between the points and robot state representations up to a linear\ntransformation, enabling efficient transfer learning from human video data to\nlow-level robotic control. Our experiments show that ARM4R can transfer\nefficiently from human video data to robotics and consistently improves\nperformance on tasks across various robot environments and configurations.",
+            "pdf_url": "http://arxiv.org/pdf/2502.13142v1",
+            "published": "2025-02-18 18:59:01+00:00",
+            "updated": "2025-02-18 18:59:01+00:00"
+        },
+        {
+            "title": "Magma: A Foundation Model for Multimodal AI Agents",
+            "authors": "Jianwei Yang, Reuben Tan, Qianhui Wu, Ruijie Zheng, Baolin Peng, Yongyuan Liang, Yu Gu, Mu Cai, Seonghyeon Ye, Joel Jang, Yuquan Deng, Lars Liden, Jianfeng Gao",
+            "summary": "We present Magma, a foundation model that serves multimodal AI agentic tasks\nin both the digital and physical worlds. Magma is a significant extension of\nvision-language (VL) models in that it not only retains the VL understanding\nability (verbal intelligence) of the latter, but is also equipped with the\nability to plan and act in the visual-spatial world (spatial-temporal\nintelligence) and complete agentic tasks ranging from UI navigation to robot\nmanipulation. To endow the agentic capabilities, Magma is pretrained on large\namounts of heterogeneous datasets spanning from images, videos to robotics\ndata, where the actionable visual objects (e.g., clickable buttons in GUI) in\nimages are labeled by Set-of-Mark (SoM) for action grounding, and the object\nmovements (e.g., the trace of human hands or robotic arms) in videos are\nlabeled by Trace-of-Mark (ToM) for action planning. Extensive experiments show\nthat SoM and ToM reach great synergy and facilitate the acquisition of\nspatial-temporal intelligence for our Magma model, which is fundamental to a\nwide range of tasks as shown in Fig.1. In particular, Magma creates new\nstate-of-the-art results on UI navigation and robotic manipulation tasks,\noutperforming previous models that are specifically tailored to these tasks. On\nimage and video-related multimodal tasks, Magma also compares favorably to\npopular large multimodal models that are trained on much larger datasets. We\nmake our model and code public for reproducibility at\nhttps://microsoft.github.io/Magma.",
+            "pdf_url": "http://arxiv.org/pdf/2502.13130v1",
+            "published": "2025-02-18 18:55:21+00:00",
+            "updated": "2025-02-18 18:55:21+00:00"
+        },
+        {
+            "title": "Characterizing nonlinear dynamics by contrastive cartography",
+            "authors": "Nicolas Romeo, Chris Chi, Aaron R. Dinner, Elizabeth R. Jerison",
+            "summary": "The qualitative study of dynamical systems using bifurcation theory is key to\nunderstanding systems from biological clocks and neurons to physical phase\ntransitions. Data generated from such systems can feature complex transients,\nan unknown number of attractors, and stochasticity. Making an analogy to\nbifurcation analysis, which specifies that useful dynamical features are often\ninvariant to coordinate transforms, we leverage contrastive learning to devise\na generic tool to discover dynamical classes from stochastic trajectory data.\nBy providing a model-free trajectory analysis tool, this method automatically\nrecovers the dynamical phase diagram of known models and provides a \"map\" of\ndynamical behaviors for a large ensemble of dynamical systems. The method thus\nprovides a way to characterize and compare dynamical trajectories without\ngoverning equations or prior knowledge of target behavior. This approach can be\nused as a standalone analysis tool, or as part of a broader data-driven\nanalysis framework.",
+            "pdf_url": "http://arxiv.org/pdf/2502.09628v2",
+            "published": "2025-01-30 17:58:32+00:00",
+            "updated": "2025-02-18 18:18:16+00:00"
+        },
+        {
+            "title": "Global Existence and Nonlinear Stability of Finite-Energy Solutions of the Compressible Euler-Riesz Equations with Large Initial Data of Spherical Symmetry",
+            "authors": "Jos\u00e9 A. Carrillo, Samuel R. Charles, Gui-Qiang G. Chen, Difan Yuan",
+            "summary": "The compressible Euler-Riesz equations are fundamental with wide applications\nin astrophysics, plasma physics, and mathematical biology. In this paper, we\nare concerned with the global existence and nonlinear stability of\nfinite-energy solutions of the multidimensional Euler-Riesz equations with\nlarge initial data of spherical symmetry. We consider both attractive and\nrepulsive interactions for a wide range of Riesz and logarithmic potentials for\ndimensions larger than or equal to two. This is achieved by the inviscid limit\nof the solutions of the corresponding Cauchy problem for the\nNavier-Stokes-Riesz equations. The strong convergence of the vanishing\nviscosity solutions is achieved through delicate uniform estimates in $L^p$. It\nis observed that, even if the attractive potential is super-Coulomb, no\nconcentration is formed near the origin in the inviscid limit. Moreover, we\nprove that the nonlinear stability of global finite-energy solutions for the\nEuler-Riesz equations is unconditional under a spherically symmetric\nperturbation around the steady solutions. Unlike the Coulomb case where the\npotential can be represented locally, the singularity and regularity of the\nnonlocal radial Riesz potential near the origin require careful analysis, which\nis a crucial step. Finally, unlike the Coulomb case, a Gr\\\"onwall type estimate\nis required to overcome the difficulty of the appearance of boundary terms in\nthe sub-Coulomb case and the singularity of the super-Coulomb potential.\nFurthermore, we prove the nonlinear stability of global finite-energy solutions\nfor the compressible Euler-Riesz equations around steady states by employing\nconcentration compactness arguments. Steady states properties are obtained by\nvariational arguments connecting to recent advances in aggregation-diffusion\nequations.",
+            "pdf_url": "http://arxiv.org/pdf/2502.13094v1",
+            "published": "2025-02-18 18:05:55+00:00",
+            "updated": "2025-02-18 18:05:55+00:00"
+        },
+        {
+            "title": "Confined Electromagnetic Waves in Media Composed of Topological Insulators",
+            "authors": "Sebasti\u00e1n Filipini",
+            "summary": "Topological insulators (TIs) are quantum materials combining insulating bulk\nproperties with conductive surface states protected by time-reversal symmetry.\nTheir unique electromagnetic behavior originates from the topological\nmagnetoelectric effect encoded in an axion-like $\\theta$-term ($\\theta$ = $\\pi$\nmod 2$\\pi$). This $\\theta$-electrodynamics modifies Maxwell's equations\nspecifically at material interfaces through altered boundary conditions,\npreserving conventional bulk electrodynamics while enabling surface-mediated\noptical effects like polarization rotation and hybrid wave modes.\n  This thesis explores electromagnetic wave confinement in TI-based waveguides.\nKey advances include: (1) Controlled modification of reactive and dissipated\nenergies through polarization engineering in waveguide geometries; (2)\nExperimental realization of transverse electromagnetic (TEM) waves violating\nEarnshaw's theorem via $\\theta$ discontinuities in coaxial TI structures,\ndemonstrating unique polarization rotation mechanisms and low-loss propagation\nthrough bent fibers; (3) TEM wave confinement with fewer than two conductors\nusing imaginary $\\theta$ parameters, explained through self-consistent surface\ncharge dynamics; (4) First-principles identification of hybrid TE-TM modes in\nTI slab waveguides, contrasting with conventional magnetoelectric material\nresponses. These findings establish how surface boundary condition\nmodifications from $\\theta$ enable new electromagnetic solutions despite\nunchanged bulk equations.\n  The demonstrated phenomena -- including modified propagation modes,\nnon-trivial polarization dynamics, and unconventional confinement -- suggest\nphotonic applications in polarization control and optical routing. By\nconnecting topological electrodynamics with waveguide physics, this work\nprovides both fundamental insights and practical design principles for\ntopological photonic systems.",
+            "pdf_url": "http://arxiv.org/pdf/2502.13048v1",
+            "published": "2025-02-18 16:58:28+00:00",
+            "updated": "2025-02-18 16:58:28+00:00"
+        },
+        {
+            "title": "Rotational quenching of monofluorides in a cryogenic helium bath",
+            "authors": "Mateo Londo\u00f1o, Jes\u00fas P\u00e9res-R\u00edos",
+            "summary": "Buffer gas cooling, one of the most relevant direct cooling techniques for\ncooling molecules, relies on dissipating the energy of the molecule via\ncollisions with a buffer gas. The cooling efficiency hinges on the\nmolecule-atom scattering properties, concretely, on the transport properties.\nThis work presents a global study on the interactions, collision dynamics, and\ntransport properties of monofluoride molecules (X-F), being X a metal, in the\npresence of a cold He buffer gas. The interactions are calculated using ab\ninitio quantum chemistry methods, and the dynamics is treated fully quantal,\nassuming the monofluoride molecule is a rigid rotor. The resulting\nthermalization and rotational quenching rates are analyzed in light of the Born\nDistorted Wave Approximation (BDWA), yielding an explanation based on the\nelemental physical properties of the molecule under consideration. Therefore,\nthe analysis of our results reveals the physics behind the rotational quenching\nof molecules in the presence of a cold buffer gas.",
+            "pdf_url": "http://arxiv.org/pdf/2502.13046v1",
+            "published": "2025-02-18 16:57:07+00:00",
+            "updated": "2025-02-18 16:57:07+00:00"
+        },
+        {
+            "title": "An axion-like mechanism for confinement in QCD",
+            "authors": "J. L. Alonso, C. Bouthelier-Madre, J. Clemente-Gallardo, D. Mart\u00ednez-Crespo",
+            "summary": "This letter is about confinement in QCD. At the moment we have pictures of\nconfinement to complete our understanding of the physics of strongly\ninteracting particles, interaction which asks for confinement. As it is said in\n[1] : \" In principle it should be possible to derive the confinement hypothesis\nfrom the QCD Lagrangian. At this time, no rigorous derivation exists, so it is\nnot absolutely clear that the confinement hypothesis is a bone fide prediction\nof QCD\". In this letter we show that a sufficient (of course not necessary)\ncondition for confinement is that topological structure of vacuum in Nature\ndoes not correspond to the $\\theta$-vacuum. Therefore, if different vacua with\nnontrivial winding number cannot be connected by tunneling, we obtain\nconfinement as a consequence. Moreover, we show that an axion-like mechanism\nwould suffice to describe a confined QCD phase.",
+            "pdf_url": "http://arxiv.org/pdf/2211.01047v4",
+            "published": "2022-11-02 11:24:47+00:00",
+            "updated": "2025-02-18 16:53:55+00:00"
+        },
+        {
+            "title": "Records from the S-Matrix Marathon: Asymptotic Observables",
+            "authors": "Simon Caron-Huot, Mathieu Giroux, Holmfridur S. Hannesdottir, Sebastian Mizera, Celina Pasiecznik",
+            "summary": "These lectures introduce the notion of asymptotic observables, which are\nclasses of measurable quantities predicted by quantum field theory. In gapped\ntheories with trivial infrared dynamics, these include scattering amplitudes,\nexpectation values of operators approaching infinity, inclusive cross sections,\netc. We argue for a unified picture in which various asymptotic observables are\nrelated by analytic continuation embodying new versions of crossing symmetry.\nAs an application, we discuss the exponentiation of infrared divergences for\ninclusive observables in Quantum Electrodynamics using time-folded contours.\nFinally, we outline prospects for a systematic study of analyticity properties\nof asymptotic observables using the Fourier-Bros-Iagolnitzer transform. These\nnotes are based on a series of lectures held during the S-Matrix Marathon\nworkshop at the Institute for Advanced Study on 11-22 March 2024.",
+            "pdf_url": "http://arxiv.org/pdf/2502.13021v1",
+            "published": "2025-02-18 16:40:15+00:00",
+            "updated": "2025-02-18 16:40:15+00:00"
+        },
+        {
+            "title": "Search for medium effects using jet axis decorrelation in inclusive jets from PbPb collisions at $\\sqrt{s_\\text{NN}}$ = 5.02 TeV",
+            "authors": "CMS Collaboration",
+            "summary": "The jet axis decorrelation in inclusive jets is studied using lead-lead\n(PbPb) collisions at a center-of-mass energy per nucleon pair of 5.02 TeV. The\njet axis decorrelation is defined as the angular difference between two\ndefinitions of the jet axis. It is obtained by applying two recombination\nschemes on all the constituents of a given jet reconstructed by the anti-\\kt\nsequential algorithm with a distance parameter of $R$ = 0.4. The data set,\ncorresponding to an integrated luminosity of 0.66 nb$^{-1}$, was collected in\n2018 with the CMS detector at the CERN LHC. The jet axis decorrelations are\nexamined across collision centrality selections and intervals of jet transverse\nmomentum. A centrality dependent evolution of the measured distributions is\nobserved, with a progressive narrowing seen in more central events. This\nnarrowing could result from medium-induced modification of the internal jet\nstructure or reflect color charge effects in energy loss. This new measurement\nprobes jet substructure in previously unexplored kinematic domains and show\ngreat promise for providing new insights on the color charge dependence of\nenergy loss to jet-quenching models.",
+            "pdf_url": "http://arxiv.org/pdf/2502.13020v1",
+            "published": "2025-02-18 16:39:20+00:00",
+            "updated": "2025-02-18 16:39:20+00:00"
+        },
+        {
+            "title": "Inverse Seesaw Mechanism and Axion Portal Fermionic Dark Matter",
+            "authors": "Nakorn Thongyoi, Patipan Uttayarat, Chakrit Pongkitivanichkul",
+            "summary": "We propose a minimal extension of the Standard Model (SM) that addresses both\nthe smallness of neutrino masses and the dark matter (DM) puzzle via the\ninverse seesaw mechanism and an axion portal fermionic DM. This model generates\nlight neutrino masses without requiring high energy scales, enhancing its\ntestability in future collider experiments. An axion-like particle (ALP)\nconnects the SM and DM sectors, yielding a distinct phenomenology and a\npositive contribution to the muon anomalous magnetic moment $(g-2)$ anomaly.\nOur analysis shows that the model is consistent with constraints from neutrino\noscillations, DM relic density, and indirect detection, as well as providing a\nsolution to the $g-2$ anomaly. The TeV-scale scalar sector and ALP interactions\nsuggest potential signals in collider experiments and astrophysical\nobservations. This work offers a unified framework to address neutrino masses\nand DM, with implications for particle physics and cosmology.",
+            "pdf_url": "http://arxiv.org/pdf/2502.13002v1",
+            "published": "2025-02-18 16:21:59+00:00",
+            "updated": "2025-02-18 16:21:59+00:00"
+        }
+    ],
+    "Diffusion": [
+        {
+            "title": "Large Language Diffusion Models",
+            "authors": "Shen Nie, Fengqi Zhu, Zebin You, Xiaolu Zhang, Jingyang Ou, Jun Hu, Jun Zhou, Yankai Lin, Ji-Rong Wen, Chongxuan Li",
+            "summary": "Autoregressive models (ARMs) are widely regarded as the cornerstone of large\nlanguage models (LLMs). We challenge this notion by introducing LLaDA, a\ndiffusion model trained from scratch under the pre-training and supervised\nfine-tuning (SFT) paradigm. LLaDA models distributions through a forward data\nmasking process and a reverse process, parameterized by a vanilla Transformer\nto predict masked tokens. By optimizing a likelihood bound, it provides a\nprincipled generative approach for probabilistic inference. Across extensive\nbenchmarks, LLaDA demonstrates strong scalability, outperforming our\nself-constructed ARM baselines. Remarkably, LLaDA 8B is competitive with strong\nLLMs like LLaMA3 8B in in-context learning and, after SFT, exhibits impressive\ninstruction-following abilities in case studies such as multi-turn dialogue.\nMoreover, LLaDA addresses the reversal curse, surpassing GPT-4o in a reversal\npoem completion task. Our findings establish diffusion models as a viable and\npromising alternative to ARMs, challenging the assumption that key LLM\ncapabilities discussed above are inherently tied to ARMs. Project page and\ncodes: https://ml-gsai.github.io/LLaDA-demo/.",
+            "pdf_url": "http://arxiv.org/pdf/2502.09992v2",
+            "published": "2025-02-14 08:23:51+00:00",
+            "updated": "2025-02-18 16:08:59+00:00"
+        },
+        {
+            "title": "Does Training with Synthetic Data Truly Protect Privacy?",
+            "authors": "Yunpeng Zhao, Jie Zhang",
+            "summary": "As synthetic data becomes increasingly popular in machine learning tasks,\nnumerous methods--without formal differential privacy guarantees--use synthetic\ndata for training. These methods often claim, either explicitly or implicitly,\nto protect the privacy of the original training data. In this work, we explore\nfour different training paradigms: coreset selection, dataset distillation,\ndata-free knowledge distillation, and synthetic data generated from diffusion\nmodels. While all these methods utilize synthetic data for training, they lead\nto vastly different conclusions regarding privacy preservation. We caution that\nempirical approaches to preserving data privacy require careful and rigorous\nevaluation; otherwise, they risk providing a false sense of privacy.",
+            "pdf_url": "http://arxiv.org/pdf/2502.12976v1",
+            "published": "2025-02-18 15:56:52+00:00",
+            "updated": "2025-02-18 15:56:52+00:00"
+        },
+        {
+            "title": "Guaranteed Conditional Diffusion: 3D Block-based Models for Scientific Data Compression",
+            "authors": "Jaemoon Lee, Xiao Li, Liangji Zhu, Sanjay Ranka, Anand Rangarajan",
+            "summary": "This paper proposes a new compression paradigm -- Guaranteed Conditional\nDiffusion with Tensor Correction (GCDTC) -- for lossy scientific data\ncompression. The framework is based on recent conditional diffusion (CD)\ngenerative models, and it consists of a conditional diffusion model, tensor\ncorrection, and error guarantee. Our diffusion model is a mixture of 3D\nconditioning and 2D denoising U-Net. The approach leverages a 3D block-based\ncompressing module to address spatiotemporal correlations in structured\nscientific data. Then, the reverse diffusion process for 2D spatial data is\nconditioned on the ``slices'' of content latent variables produced by the\ncompressing module. After training, the denoising decoder reconstructs the data\nwith zero noise and content latent variables, and thus it is entirely\ndeterministic. The reconstructed outputs of the CD model are further\npost-processed by our tensor correction and error guarantee steps to control\nand ensure a maximum error distortion, which is an inevitable requirement in\nlossy scientific data compression. Our experiments involving two datasets\ngenerated by climate and chemical combustion simulations show that our\nframework outperforms standard convolutional autoencoders and yields\ncompetitive compression quality with an existing scientific data compression\nalgorithm.",
+            "pdf_url": "http://arxiv.org/pdf/2502.12951v1",
+            "published": "2025-02-18 15:33:09+00:00",
+            "updated": "2025-02-18 15:33:09+00:00"
+        },
+        {
+            "title": "Don't drop your samples! Coherence-aware training benefits Conditional diffusion",
+            "authors": "Nicolas Dufour, Victor Besnier, Vicky Kalogeiton, David Picard",
+            "summary": "Conditional diffusion models are powerful generative models that can leverage\nvarious types of conditional information, such as class labels, segmentation\nmasks, or text captions. However, in many real-world scenarios, conditional\ninformation may be noisy or unreliable due to human annotation errors or weak\nalignment. In this paper, we propose the Coherence-Aware Diffusion (CAD), a\nnovel method that integrates coherence in conditional information into\ndiffusion models, allowing them to learn from noisy annotations without\ndiscarding data. We assume that each data point has an associated coherence\nscore that reflects the quality of the conditional information. We then\ncondition the diffusion model on both the conditional information and the\ncoherence score. In this way, the model learns to ignore or discount the\nconditioning when the coherence is low. We show that CAD is theoretically sound\nand empirically effective on various conditional generation tasks. Moreover, we\nshow that leveraging coherence generates realistic and diverse samples that\nrespect conditional information better than models trained on cleaned datasets\nwhere samples with low coherence have been discarded.",
+            "pdf_url": "http://arxiv.org/pdf/2405.20324v2",
+            "published": "2024-05-30 17:57:26+00:00",
+            "updated": "2025-02-18 14:43:42+00:00"
+        },
+        {
+            "title": "RAPID: Retrieval Augmented Training of Differentially Private Diffusion Models",
+            "authors": "Tanqiu Jiang, Changjiang Li, Fenglong Ma, Ting Wang",
+            "summary": "Differentially private diffusion models (DPDMs) harness the remarkable\ngenerative capabilities of diffusion models while enforcing differential\nprivacy (DP) for sensitive data. However, existing DPDM training approaches\noften suffer from significant utility loss, large memory footprint, and\nexpensive inference cost, impeding their practical uses. To overcome such\nlimitations, we present RAPID: Retrieval Augmented PrIvate Diffusion model, a\nnovel approach that integrates retrieval augmented generation (RAG) into DPDM\ntraining. Specifically, RAPID leverages available public data to build a\nknowledge base of sample trajectories; when training the diffusion model on\nprivate data, RAPID computes the early sampling steps as queries, retrieves\nsimilar trajectories from the knowledge base as surrogates, and focuses on\ntraining the later sampling steps in a differentially private manner. Extensive\nevaluation using benchmark datasets and models demonstrates that, with the same\nprivacy guarantee, RAPID significantly outperforms state-of-the-art approaches\nby large margins in generative quality, memory footprint, and inference cost,\nsuggesting that retrieval-augmented DP training represents a promising\ndirection for developing future privacy-preserving generative models. The code\nis available at: https://github.com/TanqiuJiang/RAPID",
+            "pdf_url": "http://arxiv.org/pdf/2502.12794v1",
+            "published": "2025-02-18 11:56:51+00:00",
+            "updated": "2025-02-18 11:56:51+00:00"
+        }
+    ]
+}
