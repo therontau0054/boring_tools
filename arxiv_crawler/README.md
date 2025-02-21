@@ -122,6 +122,31 @@ TODO:
 
 
 
+
+## Update on 2025-02-21
+
+### Physics
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2024-09-21|2025-02-20|A simple gravitational self-decoherence model|Gabriel H. S. Aguiar|[2409.14155v3](http://arxiv.org/pdf/2409.14155v3)|
+|2025-02-20|2025-02-20|Adaptive Syndrome Extraction|Noah Berthusen|[2502.14835v1](http://arxiv.org/pdf/2502.14835v1)|
+|2023-12-13|2025-02-20|A data-driven approach for modeling large-amplitude flow-induced oscillations of elastically mounted pitching wings|Yuanhang Zhu|[2312.08561v2](http://arxiv.org/pdf/2312.08561v2)|
+|2025-02-20|2025-02-20|Micro Blossom: Accelerated Minimum-Weight Perfect Matching Decoding for Quantum Error Correction|Yue Wu|[2502.14787v1](http://arxiv.org/pdf/2502.14787v1)|
+|2024-06-27|2025-02-20|Multivariate Bicycle Codes|Lukas Voss|[2406.19151v4](http://arxiv.org/pdf/2406.19151v4)|
+|2024-05-23|2025-02-20|Fast Bayesian Inference for Neutrino Non-Standard Interactions at Dark Matter Direct Detection Experiments|Dorian W. P. Amaral|[2405.14932v2](http://arxiv.org/pdf/2405.14932v2)|
+|2025-01-08|2025-02-20|Distributed network of smartphone sensors: a new tool for scientific field measurements|J. Zhang|[2501.04886v2](http://arxiv.org/pdf/2501.04886v2)|
+|2025-02-20|2025-02-20|Revisiting the displacement current: Two key examples showing when and why it can be neglected|Alvaro Suarez Arturo C. Marti|[2502.14737v1](http://arxiv.org/pdf/2502.14737v1)|
+|2024-12-19|2025-02-20|Assessing Students' Understanding of Uncertainty in Undergraduate Physics Laboratory Courses at a Major Canadian University: Longitudinal Results and Misconceptions|Matheus A. S. Pessôa|[2412.15382v2](http://arxiv.org/pdf/2412.15382v2)|
+|2025-02-20|2025-02-20|An Insight into Parameter Identifiability Issues in the Carreau-Yasuda Model: a Novel Rheological Formulation for Shear-thinning non-Newtonian Inelastic Fluids|Gianluca Santesarti|[2502.14728v1](http://arxiv.org/pdf/2502.14728v1)|
+
+### Diffusion
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-02-20|2025-02-20|Dynamic Concepts Personalization from Single Videos|Rameen Abdal|[2502.14844v1](http://arxiv.org/pdf/2502.14844v1)|
+|2025-02-20|2025-02-20|Improving the Diffusability of Autoencoders|Ivan Skorokhodov|[2502.14831v1](http://arxiv.org/pdf/2502.14831v1)|
+|2025-02-20|2025-02-20|A Survey on Text-Driven 360-Degree Panorama Generation|Hai Wang|[2502.14799v1](http://arxiv.org/pdf/2502.14799v1)|
+|2025-02-20|2025-02-20|Making Universal Policies Universal|Niklas Höpner|[2502.14777v1](http://arxiv.org/pdf/2502.14777v1)|
+|2025-02-20|2025-02-20|ReQFlow: Rectified Quaternion Flow for Efficient and High-Quality Protein Backbone Generation|Angxiao Yue|[2502.14637v1](http://arxiv.org/pdf/2502.14637v1)|
 ## Update on 2025-02-19
 
 ### Physics

@@ -1,0 +1,126 @@
+{
+    "Physics": [
+        {
+            "title": "A simple gravitational self-decoherence model",
+            "authors": "Gabriel H. S. Aguiar, George E. A. Matsas",
+            "summary": "One of the most significant debates of our time is whether our macroscopic\nworld (i) naturally emerges from quantum mechanics or (ii) requires new\nphysics. We argue for the latter and propose a simple gravitational\nself-decoherence mechanism. For this purpose, we postulate the existence of a\nHeisenberg cut such that particles with masses $m$ much smaller and larger than\na critical mass $M_{\\rm C}$ (of the order of the Planck mass $M_{\\rm P}$) would\nbe necessarily treated according to quantum and classical rules, respectively.\nOur effective model is designed to capture the new physics that free quantum\nparticles would experience as their masses approach $M_{\\rm C}$. The purity\nloss for free quantum particles is evaluated and shown to be highly inefficient\nfor quantum particles with $m \\ll M_{\\rm C}$ but very effective for those with\n$m \\sim M_{\\rm C}$. The physical picture behind it is that coherence would\n(easily) leak from heavy enough particles to (non-observable) spacetime quantum\ndegrees of freedom. Finally, we contextualize our proposal with\nstate-of-the-art experiments and show how it can be tested in a future\nStern-Gerlach-like experiment.",
+            "pdf_url": "http://arxiv.org/pdf/2409.14155v3",
+            "published": "2024-09-21 14:21:11+00:00",
+            "updated": "2025-02-20 18:53:49+00:00"
+        },
+        {
+            "title": "Adaptive Syndrome Extraction",
+            "authors": "Noah Berthusen, Shi Jie Samuel Tan, Eric Huang, Daniel Gottesman",
+            "summary": "Device error rates on current quantum computers have improved enough to where\ndemonstrations of error correction below break-even are now possible. Still,\nthe circuits required for quantum error correction introduce significant\noverhead and sometimes inject more errors than they correct. In this work, we\nintroduce adaptive syndrome extraction as a scheme to improve code performance\nand reduce the quantum error correction cycle time by measuring only the\nstabilizer generators that are likely to provide useful syndrome information.\nWe provide a concrete example of the scheme through the [[4,2,2]] code\nconcatenated with a hypergraph product code and a syndrome extraction cycle\nthat uses quantum error detection to modify the syndrome extraction circuits in\nreal time. Compared to non-concatenated codes and non-adaptive syndrome\nextraction, we find that the adaptive scheme achieves over an order of\nmagnitude lower logical error rates while requiring fewer CNOT gates and\nphysical qubits. Furthermore, we show how to achieve fault-tolerant universal\nlogical computation with [[4,2,2]]-concatenated hypergraph product codes.",
+            "pdf_url": "http://arxiv.org/pdf/2502.14835v1",
+            "published": "2025-02-20 18:48:32+00:00",
+            "updated": "2025-02-20 18:48:32+00:00"
+        },
+        {
+            "title": "A data-driven approach for modeling large-amplitude flow-induced oscillations of elastically mounted pitching wings",
+            "authors": "Yuanhang Zhu, Kenneth Breuer",
+            "summary": "We propose and validate a data-driven approach for modeling large-amplitude\nflow-induced oscillations of elastically mounted pitching wings. We first train\na neural networks regression model for the nonlinear aerodynamic moment using\ndata obtained from experimental measurements during prescribed pitching\noscillations and at fixed angles of attack. We then embed this model into an\nordinary differential equation solver to solve the governing equation of the\npassive aeroelastic system with desired structural parameters. The system\ndynamics predicted by the proposed data-driven approach are characterized and\ncompared with those obtained from physical experiments. The predicted and\nexperimental pitching amplitude, frequency and aerodynamic moment responses are\nfound to be in excellent agreement. Both the inertia-dominated mode and the\nhydrodynamic-dominated mode are successfully predicted. The transient growth\nand saturation of the pitching oscillation amplitude and the aerodynamic moment\nare also faithfully captured by the proposed approach. Additional test cases\ndemonstrate the broad applicability and good scalability potential of this\napproach.",
+            "pdf_url": "http://arxiv.org/pdf/2312.08561v2",
+            "published": "2023-12-13 23:25:43+00:00",
+            "updated": "2025-02-20 18:24:31+00:00"
+        },
+        {
+            "title": "Micro Blossom: Accelerated Minimum-Weight Perfect Matching Decoding for Quantum Error Correction",
+            "authors": "Yue Wu, Namitha Liyanage, Lin Zhong",
+            "summary": "Minimum-Weight Perfect Matching (MWPM) decoding is important to quantum error\ncorrection decoding because of its accuracy. However, many believe that it is\ndifficult, if possible at all, to achieve the microsecond latency requirement\nposed by superconducting qubits. This work presents the first publicly known\nMWPM decoder, called Micro Blossom, that achieves sub-microsecond decoding\nlatency. Micro Blossom employs a heterogeneous architecture that carefully\npartitions a state-of-the-art MWPM decoder between software and a programmable\naccelerator with parallel processing units, one of each vertex/edge of the\ndecoding graph. On a surface code with code distance $d$ and a circuit-level\nnoise model with physical error rate $p$, Micro Blossom's accelerator employs\n$O(d^3)$ parallel processing units to reduce the worst-case latency from\n$O(d^{12})$ to $O(d^9)$ and reduce the average latency from $O(p d^3+1)$ to\n$O(p^2 d^2+1)$ when $p \\ll 1$.\n  We report a prototype implementation of Micro Blossom using FPGA. Measured at\n$d=13$ and $p=0.1\\%$, the prototype achieves an average decoding latency of\n$0.8 \\mu s$ at a moderate clock frequency of $62 MHz$. Micro Blossom is the\nfirst publicly known hardware-accelerated exact MWPM decoder, and the decoding\nlatency of $0.8 \\mu s$ is 8 times shorter than the best latency of MWPM decoder\nimplementations reported in the literature.",
+            "pdf_url": "http://arxiv.org/pdf/2502.14787v1",
+            "published": "2025-02-20 18:08:55+00:00",
+            "updated": "2025-02-20 18:08:55+00:00"
+        },
+        {
+            "title": "Multivariate Bicycle Codes",
+            "authors": "Lukas Voss, Sim Jian Xian, Tobias Haug, Kishor Bharti",
+            "summary": "Quantum error correction suppresses noise in quantum systems to allow for\nhigh-precision computations. In this work, we introduce Multivariate Bicycle\n(MB) Quantum Low-Density Parity-Check (QLDPC) codes, via an extension of the\nframework developed by Bravyi et al. [Nature, 627, 778-782 (2024)] and\nparticularly focus on Trivariate Bicycle (TB) codes. Unlike the weight-6 codes\nproposed in their study, we offer concrete examples of weight-5 TB-QLDPC codes\nwhich promise to be more amenable to near-term experimental setups. We show\nthat TB-QLDPC codes up to weight-6 have a bi-planar structure and often posses\na two-dimensional toric layout. Under circuit level noise, we find\nsubstantially better encoding rates than comparable surface codes while\noffering similar error suppression capabilities. For example, we can encode $4$\nlogical qubits with distance $5$ into $60$ physical qubits using weight-5 check\nmeasurements of circuit depth 7, while a surface code with these parameters\nrequires $200$ physical qubits. The high encoding rate and compact layout make\nour codes highly suitable candidates for near-term hardware implementations,\npaving the way for a realizable quantum error correction protocol.",
+            "pdf_url": "http://arxiv.org/pdf/2406.19151v4",
+            "published": "2024-06-27 13:10:37+00:00",
+            "updated": "2025-02-20 17:50:53+00:00"
+        },
+        {
+            "title": "Fast Bayesian Inference for Neutrino Non-Standard Interactions at Dark Matter Direct Detection Experiments",
+            "authors": "Dorian W. P. Amaral, Shixiao Liang, Juehang Qin, Christopher Tunnell",
+            "summary": "Multi-dimensional parameter spaces are commonly encountered in physics\ntheories that go beyond the Standard Model. However, they often possess\ncomplicated posterior geometries that are expensive to traverse using\ntechniques traditional to astroparticle physics. Several recent innovations,\nwhich are only beginning to make their way into this field, have made\nnavigating such complex posteriors possible. These include GPU acceleration,\nautomatic differentiation, and neural-network-guided reparameterization. We\napply these advancements to dark matter direct detection experiments in the\ncontext of non-standard neutrino interactions and benchmark their performances\nagainst traditional nested sampling techniques when conducting Bayesian\ninference. Compared to nested sampling alone, we find that these techniques\nincrease performance for both nested sampling and Hamiltonian Monte Carlo,\naccelerating inference by factors of $\\sim 100$ and $\\sim 60$, respectively. As\nnested sampling also evaluates the Bayesian evidence, these advancements can be\nexploited to improve model comparison performance while retaining compatibility\nwith existing implementations that are widely used in the natural sciences.\nUsing these techniques, we perform the first scan in the neutrino non-standard\ninteractions parameter space for direct detection experiments whereby all\nparameters are allowed to vary simultaneously. We expect that these\nadvancements are broadly applicable to other areas of astroparticle physics\nfeaturing multi-dimensional parameter spaces.",
+            "pdf_url": "http://arxiv.org/pdf/2405.14932v2",
+            "published": "2024-05-23 18:00:00+00:00",
+            "updated": "2025-02-20 17:41:47+00:00"
+        },
+        {
+            "title": "Distributed network of smartphone sensors: a new tool for scientific field measurements",
+            "authors": "J. Zhang, N. Mokus, J. Casoli, A. Eddi, S. Perrard",
+            "summary": "Smartphones are widespread objects that have been used as physics sensors for\nthe general public thanks to their availability, high connectivity and built-in\nsensors. Here, we present the use of a fleet of smartphones to create a\ndistributed network of time-synchronized sensors. We first evaluate the sensors\nquality in the laboratory and then describe the network configuration that\nallows the remote control of an entire fleet. Finally, we present two test\ncases that use the smartphone fleet for physical field measurements. By this\nstudy, we show that this approach paves the way for large-scale field\nscientific studies.",
+            "pdf_url": "http://arxiv.org/pdf/2501.04886v2",
+            "published": "2025-01-08 23:53:22+00:00",
+            "updated": "2025-02-20 17:22:03+00:00"
+        },
+        {
+            "title": "Revisiting the displacement current: Two key examples showing when and why it can be neglected",
+            "authors": "Alvaro Suarez Arturo C. Marti, Mart\u00edn Monteiro",
+            "summary": "This work examines the often-overlooked role of the displacement current in\nsystems beyond capacitors, particularly in coaxial cables and resistors with\nalternating currents. While its influence is negligible at low frequencies\ncompared to conduction currents, displacement current becomes crucial at higher\nfrequencies for precise field calculations. Introductory physics textbooks\ncommonly restrict the concept to capacitor charging, potentially leading to\nmisconceptions about its broader applications and the interdependence of\nMaxwell's equations in dynamic scenarios. By analyzing two specific cases, we\nclarify when displacement current can be disregarded, when simplified laws like\nBiot-Savart are valid, and where coupled electromagnetic equations are\nessential. This approach highlights the boundaries of common models and\npromotes a deeper understanding of dynamic field interactions.",
+            "pdf_url": "http://arxiv.org/pdf/2502.14737v1",
+            "published": "2025-02-20 17:05:22+00:00",
+            "updated": "2025-02-20 17:05:22+00:00"
+        },
+        {
+            "title": "Assessing Students' Understanding of Uncertainty in Undergraduate Physics Laboratory Courses at a Major Canadian University: Longitudinal Results and Misconceptions",
+            "authors": "Matheus A. S. Pess\u00f4a, Rebecca Brosseau, Benjamin J. Dringoli, Armin Yazdani, Jack Sankey, Thomas Brunner, April Colosimo, Janette Barrington, Kenneth Ragan, Marcy Slapcoff",
+            "summary": "Over the last five years, McGill University's Office of Science Education\n(OSE) has partnered with faculty members from the Department of Physics to form\nan education working group with the aim of charting the progression of\nstudents' conceptual understanding of uncertainties across their undergraduate\ndegree. The research conducted by this group seeks to provide further insight\ninto both the experimental skill set that students gain through undergraduate\nlaboratory courses and how the department could address noticeable gaps in\nstudent understanding. In this paper, we evaluate the conceptual understanding\nof uncertainty using the Concise Data Processing Assessment (CDPA) instrument.\nFirst, we characterize the physics laboratory curriculum at McGill University\nby evaluating the evolution of CDPA scores across consecutive laboratory\ncourses, and further propose the utilization of this tool for identifying gaps\nin student understanding. Following the analysis of student responses (N=2023),\nwe specifically investigate data collected in second-year courses to better\ndiagnose what student errors can tell us about common misconceptions in\nexperimental physics. This more in-depth research focuses on data collected\nfrom students at the beginning and the end of their first full year of\nexperimental laboratory courses, consisting of two consecutive laboratory\ncourses that build on each other. By the end of the second course, students\nhave engaged with all the material covered in the CDPA test. Interestingly,\nthere have been no changes in CDPA total scores throughout the COVID-19\npandemic. We notice a marked upward shift in student understanding; however,\nthe results indicate that a significant portion of students continue to\nstruggle with uncertainties, basic data analysis, and curve fitting.",
+            "pdf_url": "http://arxiv.org/pdf/2412.15382v2",
+            "published": "2024-12-19 20:19:47+00:00",
+            "updated": "2025-02-20 16:58:32+00:00"
+        },
+        {
+            "title": "An Insight into Parameter Identifiability Issues in the Carreau-Yasuda Model: a Novel Rheological Formulation for Shear-thinning non-Newtonian Inelastic Fluids",
+            "authors": "Gianluca Santesarti, Michele Marino, Francesco Viola, Roberto Verzicco, Giuseppe Vairo",
+            "summary": "The Carreau-Yasuda rheological model is widely employed in both research and\nindustrial applications to describe the shear-thinning behaviour of\nnon-Newtonian inelastic fluids. However, its calibration against experimental\ndata is often affected by intrinsic identifiability issues, which can lead to\nmisleading physical interpretations of model parameters and unreliable flow\npredictions. In this paper, starting from the analysis of the identifiability\nchallenges associated with the Carreau-Yasuda model, a novel rheological\nformulation for shear-thinning non-Newtonian inelastic fluids is proposed.\nAnalytical results and exemplary numerical case studies demonstrate that the\nproposed formulation is based on physically meaningful model parameters, whose\nidentifiability is not compromised by the key limitations of the Carreau-Yasuda\nmodel. Moreover, the new approach allows for effective parameter estimation\nthrough a straightforward direct identification strategy, eliminating the need\nfor inverse calibration procedures based on optimization techniques.",
+            "pdf_url": "http://arxiv.org/pdf/2502.14728v1",
+            "published": "2025-02-20 16:54:38+00:00",
+            "updated": "2025-02-20 16:54:38+00:00"
+        }
+    ],
+    "Diffusion": [
+        {
+            "title": "Dynamic Concepts Personalization from Single Videos",
+            "authors": "Rameen Abdal, Or Patashnik, Ivan Skorokhodov, Willi Menapace, Aliaksandr Siarohin, Sergey Tulyakov, Daniel Cohen-Or, Kfir Aberman",
+            "summary": "Personalizing generative text-to-image models has seen remarkable progress,\nbut extending this personalization to text-to-video models presents unique\nchallenges. Unlike static concepts, personalizing text-to-video models has the\npotential to capture dynamic concepts, i.e., entities defined not only by their\nappearance but also by their motion. In this paper, we introduce\nSet-and-Sequence, a novel framework for personalizing Diffusion Transformers\n(DiTs)-based generative video models with dynamic concepts. Our approach\nimposes a spatio-temporal weight space within an architecture that does not\nexplicitly separate spatial and temporal features. This is achieved in two key\nstages. First, we fine-tune Low-Rank Adaptation (LoRA) layers using an\nunordered set of frames from the video to learn an identity LoRA basis that\nrepresents the appearance, free from temporal interference. In the second\nstage, with the identity LoRAs frozen, we augment their coefficients with\nMotion Residuals and fine-tune them on the full video sequence, capturing\nmotion dynamics. Our Set-and-Sequence framework results in a spatio-temporal\nweight space that effectively embeds dynamic concepts into the video model's\noutput domain, enabling unprecedented editability and compositionality while\nsetting a new benchmark for personalizing dynamic concepts.",
+            "pdf_url": "http://arxiv.org/pdf/2502.14844v1",
+            "published": "2025-02-20 18:53:39+00:00",
+            "updated": "2025-02-20 18:53:39+00:00"
+        },
+        {
+            "title": "Improving the Diffusability of Autoencoders",
+            "authors": "Ivan Skorokhodov, Sharath Girish, Benran Hu, Willi Menapace, Yanyu Li, Rameen Abdal, Sergey Tulyakov, Aliaksandr Siarohin",
+            "summary": "Latent diffusion models have emerged as the leading approach for generating\nhigh-quality images and videos, utilizing compressed latent representations to\nreduce the computational burden of the diffusion process. While recent\nadvancements have primarily focused on scaling diffusion backbones and\nimproving autoencoder reconstruction quality, the interaction between these\ncomponents has received comparatively less attention. In this work, we perform\na spectral analysis of modern autoencoders and identify inordinate\nhigh-frequency components in their latent spaces, which are especially\npronounced in the autoencoders with a large bottleneck channel size. We\nhypothesize that this high-frequency component interferes with the\ncoarse-to-fine nature of the diffusion synthesis process and hinders the\ngeneration quality. To mitigate the issue, we propose scale equivariance: a\nsimple regularization strategy that aligns latent and RGB spaces across\nfrequencies by enforcing scale equivariance in the decoder. It requires minimal\ncode changes and only up to 20K autoencoder fine-tuning steps, yet\nsignificantly improves generation quality, reducing FID by 19% for image\ngeneration on ImageNet-1K 256x256 and FVD by at least 44% for video generation\non Kinetics-700 17x256x256.",
+            "pdf_url": "http://arxiv.org/pdf/2502.14831v1",
+            "published": "2025-02-20 18:45:44+00:00",
+            "updated": "2025-02-20 18:45:44+00:00"
+        },
+        {
+            "title": "A Survey on Text-Driven 360-Degree Panorama Generation",
+            "authors": "Hai Wang, Xiaoyu Xiang, Weihao Xia, Jing-Hao Xue",
+            "summary": "The advent of text-driven 360-degree panorama generation, enabling the\nsynthesis of 360-degree panoramic images directly from textual descriptions,\nmarks a transformative advancement in immersive visual content creation. This\ninnovation significantly simplifies the traditionally complex process of\nproducing such content. Recent progress in text-to-image diffusion models has\naccelerated the rapid development in this emerging field. This survey presents\na comprehensive review of text-driven 360-degree panorama generation, offering\nan in-depth analysis of state-of-the-art algorithms and their expanding\napplications in 360-degree 3D scene generation. Furthermore, we critically\nexamine current limitations and propose promising directions for future\nresearch. A curated project page with relevant resources and research papers is\navailable at https://littlewhitesea.github.io/Text-Driven-Pano-Gen/.",
+            "pdf_url": "http://arxiv.org/pdf/2502.14799v1",
+            "published": "2025-02-20 18:19:57+00:00",
+            "updated": "2025-02-20 18:19:57+00:00"
+        },
+        {
+            "title": "Making Universal Policies Universal",
+            "authors": "Niklas H\u00f6pner, David Kuric, Herke van Hoof",
+            "summary": "The development of a generalist agent capable of solving a wide range of\nsequential decision-making tasks remains a significant challenge. We address\nthis problem in a cross-agent setup where agents share the same observation\nspace but differ in their action spaces. Our approach builds on the universal\npolicy framework, which decouples policy learning into two stages: a\ndiffusion-based planner that generates observation sequences and an inverse\ndynamics model that assigns actions to these plans. We propose a method for\ntraining the planner on a joint dataset composed of trajectories from all\nagents. This method offers the benefit of positive transfer by pooling data\nfrom different agents, while the primary challenge lies in adapting shared\nplans to each agent's unique constraints. We evaluate our approach on the\nBabyAI environment, covering tasks of varying complexity, and demonstrate\npositive transfer across agents. Additionally, we examine the planner's\ngeneralisation ability to unseen agents and compare our method to traditional\nimitation learning approaches. By training on a pooled dataset from multiple\nagents, our universal policy achieves an improvement of up to $42.20\\%$ in task\ncompletion accuracy compared to a policy trained on a dataset from a single\nagent.",
+            "pdf_url": "http://arxiv.org/pdf/2502.14777v1",
+            "published": "2025-02-20 17:59:55+00:00",
+            "updated": "2025-02-20 17:59:55+00:00"
+        },
+        {
+            "title": "ReQFlow: Rectified Quaternion Flow for Efficient and High-Quality Protein Backbone Generation",
+            "authors": "Angxiao Yue, Zichong Wang, Hongteng Xu",
+            "summary": "Protein backbone generation plays a central role in de novo protein design\nand is significant for many biological and medical applications. Although\ndiffusion and flow-based generative models provide potential solutions to this\nchallenging task, they often generate proteins with undesired designability and\nsuffer computational inefficiency. In this study, we propose a novel rectified\nquaternion flow (ReQFlow) matching method for fast and high-quality protein\nbackbone generation. In particular, our method generates a local translation\nand a 3D rotation from random noise for each residue in a protein chain, which\nrepresents each 3D rotation as a unit quaternion and constructs its flow by\nspherical linear interpolation (SLERP) in an exponential format. We train the\nmodel by quaternion flow (QFlow) matching with guaranteed numerical stability\nand rectify the QFlow model to accelerate its inference and improve the\ndesignability of generated protein backbones, leading to the proposed ReQFlow\nmodel. Experiments show that ReQFlow achieves state-of-the-art performance in\nprotein backbone generation while requiring much fewer sampling steps and\nsignificantly less inference time (e.g., being 37x faster than RFDiffusion and\n62x faster than Genie2 when generating a backbone of length 300), demonstrating\nits effectiveness and efficiency. The code is available at\nhttps://github.com/AngxiaoYue/ReQFlow.",
+            "pdf_url": "http://arxiv.org/pdf/2502.14637v1",
+            "published": "2025-02-20 15:20:37+00:00",
+            "updated": "2025-02-20 15:20:37+00:00"
+        }
+    ]
+}
