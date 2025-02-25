@@ -123,6 +123,36 @@ TODO:
 
 
 
+
+## Update on 2025-02-25
+
+### Physics
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-02-24|2025-02-24|Spatiotemporal optical vortex (STOV) polariton|M. S. Le|[2502.17413v1](http://arxiv.org/pdf/2502.17413v1)|
+|2025-01-24|2025-02-24|Multi-scale physics of cryogenic liquid helium-4: Inverse coarse-graining properties of smoothed particle hydrodynamics|Satori Tsuzuki|[2501.14244v2](http://arxiv.org/pdf/2501.14244v2)|
+|2025-02-24|2025-02-24|Robust Confinement State Classification with Uncertainty Quantification through Ensembled Data-Driven Methods|Yoeri Poels|[2502.17397v1](http://arxiv.org/pdf/2502.17397v1)|
+|2025-02-24|2025-02-24|Data efficiency and long-term prediction capabilities for neural operator surrogate models of edge plasma simulations|N. Carey|[2502.17386v1](http://arxiv.org/pdf/2502.17386v1)|
+|2025-02-24|2025-02-24|Travel Time Reliability in Stochastic Kinematic Flow Models|Alexander Hammerl|[2502.17359v1](http://arxiv.org/pdf/2502.17359v1)|
+|2025-02-24|2025-02-24|An Explainable AI Model for Binary LJ Fluids|Israrul H Hashmi|[2502.17357v1](http://arxiv.org/pdf/2502.17357v1)|
+|2025-02-24|2025-02-24|Hierarchical poromechanical approach to investigate the impact of mechanical loading on human skin micro-circulation|Thomas Lavigne|[2502.17354v1](http://arxiv.org/pdf/2502.17354v1)|
+|2025-02-24|2025-02-24|Optimized circuits for windowed modular arithmetic with applications to quantum attacks against RSA|Alessandro Luongo|[2502.17325v1](http://arxiv.org/pdf/2502.17325v1)|
+|2025-01-29|2025-02-24|Engineering of Anyons on M5-Probes via Flux Quantization|Hisham Sati|[2501.17927v2](http://arxiv.org/pdf/2501.17927v2)|
+|2025-02-24|2025-02-24|Hyperfine and Zeeman Optical Pumping and Transverse Laser Cooling of a Thermal Atomic Beam of Dysprosium Using a Single 421 nm Laser|Rohan Chakravarthy|[2502.17310v1](http://arxiv.org/pdf/2502.17310v1)|
+
+### Diffusion
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-02-24|2025-02-24|S4S: Solving for a Diffusion Model Solver|Eric Frankel|[2502.17423v1](http://arxiv.org/pdf/2502.17423v1)|
+|2024-12-10|2025-02-24|Score Change of Variables|Stephen Robbins|[2412.07904v3](http://arxiv.org/pdf/2412.07904v3)|
+|2025-02-03|2025-02-24|FetDTIAlign: A Deep Learning Framework for Affine and Deformable Registration of Fetal Brain dMRI|Bo Li|[2502.01057v3](http://arxiv.org/pdf/2502.01057v3)|
+|2025-02-24|2025-02-24|HybridLinker: Topology-Guided Posterior Sampling for Enhanced Diversity and Validity in 3D Molecular Linker Generation|Minyeong Hwang|[2502.17349v1](http://arxiv.org/pdf/2502.17349v1)|
+|2025-02-24|2025-02-24|AnyTop: Character Animation Diffusion with Any Topology|Inbar Gat|[2502.17327v1](http://arxiv.org/pdf/2502.17327v1)|
+
+### Quantitative Finance
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-02-23|2025-02-23|Rebalancing the Scales: A Systematic Mapping Study of Generative Adversarial Networks (GANs) in Addressing Data Imbalance|Pankaj Yadav|[2502.16535v1](http://arxiv.org/pdf/2502.16535v1)|
 ## Update on 2025-02-21
 
 ### Physics
