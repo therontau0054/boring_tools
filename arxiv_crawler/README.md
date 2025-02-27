@@ -124,6 +124,30 @@ TODO:
 
 
 
+
+## Update on 2025-02-27
+
+### Physics
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2024-12-05|2025-02-26|Dilaton-induced variations in Planck constant and speed of light: An alternative to Dark Energy|Hoang Ky Nguyen|[2412.04257v3](http://arxiv.org/pdf/2412.04257v3)|
+|2025-02-26|2025-02-26|Hi Robot: Open-Ended Instruction Following with Hierarchical Vision-Language-Action Models|Lucy Xiaoyang Shi|[2502.19417v1](http://arxiv.org/pdf/2502.19417v1)|
+|2023-07-17|2025-02-26|Artificial Intelligence for Science in Quantum, Atomistic, and Continuum Systems|Xuan Zhang|[2307.08423v4](http://arxiv.org/pdf/2307.08423v4)|
+|2025-02-26|2025-02-26|Collinear and TMD distributions with dynamical soft-gluon resolution scale|F. Hautmann|[2502.19380v1](http://arxiv.org/pdf/2502.19380v1)|
+|2025-02-26|2025-02-26|Extracting scattering amplitudes for arbitrary two-particle systems with one-particle left-hand cuts via lattice QCD|André Baião Raposo|[2502.19375v1](http://arxiv.org/pdf/2502.19375v1)|
+|2025-02-26|2025-02-26|The chiral SYK model in three-dimensional holography|Alexander Altland|[2502.19370v1](http://arxiv.org/pdf/2502.19370v1)|
+|2025-02-26|2025-02-26|Quantum geometric moment encodes stacking order of moiré matter|Surat Layek|[2502.19365v1](http://arxiv.org/pdf/2502.19365v1)|
+|2025-02-26|2025-02-26|Deep Learning For Time Series Analysis With Application On Human Motion|Ali Ismail-Fawaz|[2502.19364v1](http://arxiv.org/pdf/2502.19364v1)|
+|2025-02-26|2025-02-26|Physics-Based Hybrid Machine Learning for Critical Heat Flux Prediction with Uncertainty Quantification|Aidan Furlong|[2502.19357v1](http://arxiv.org/pdf/2502.19357v1)|
+|2025-02-24|2025-02-26|UNB StepUP: A footStep database for gait analysis and recognition using Underfoot Pressure|Robyn Larracy|[2502.17244v2](http://arxiv.org/pdf/2502.17244v2)|
+
+### Diffusion
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-02-26|2025-02-26|RetinaRegen: A Hybrid Model for Readability and Detail Restoration in Fundus Images|Yuhan Tang|[2502.19153v1](http://arxiv.org/pdf/2502.19153v1)|
+|2024-05-06|2025-02-26|CCDM: Continuous Conditional Diffusion Models for Image Generation|Xin Ding|[2405.03546v2](http://arxiv.org/pdf/2405.03546v2)|
+|2025-02-26|2025-02-26|Efficient and Accurate Spatial Mixing of Machine Learned Interatomic Potentials for Materials Science|Fraser Birks|[2502.19081v1](http://arxiv.org/pdf/2502.19081v1)|
+|2024-03-05|2025-02-26|Fast, Scale-Adaptive, and Uncertainty-Aware Downscaling of Earth System Model Fields with Generative Machine Learning|Philipp Hess|[2403.02774v4](http://arxiv.org/pdf/2403.02774v4)|
 ## Update on 2025-02-25
 
 ### Physics
