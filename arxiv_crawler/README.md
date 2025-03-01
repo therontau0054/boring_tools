@@ -125,6 +125,29 @@ TODO:
 
 
 
+
+## Update on 2025-03-01
+
+### Physics
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-02-27|2025-02-27|Physics-Driven Data Generation for Contact-Rich Manipulation via Trajectory Optimization|Lujie Yang|[2502.20382v1](http://arxiv.org/pdf/2502.20382v1)|
+|2024-09-05|2025-02-27|Benchmarking Quantum Red TEA on CPUs, GPUs, and TPUs|Daniel Jaschke|[2409.03818v2](http://arxiv.org/pdf/2409.03818v2)|
+|2025-02-27|2025-02-27|T1-PILOT: Optimized Trajectories for T1 Mapping Acceleration|Tamir Shor|[2502.20333v1](http://arxiv.org/pdf/2502.20333v1)|
+|2025-02-27|2025-02-27|Next to Soft Threshold Resummation for $VH$ Production|Arunima Bhattacharya|[2502.20331v1](http://arxiv.org/pdf/2502.20331v1)|
+|2024-12-02|2025-02-27|Andreev non-Hermitian Hamiltonian for open Josephson junctions from Green's functions|Roberto Capecelatro|[2412.01702v2](http://arxiv.org/pdf/2412.01702v2)|
+|2025-01-27|2025-02-27|The complete trans-series for conserved charges in integrable field theories|Zoltán Bajnok|[2501.16435v2](http://arxiv.org/pdf/2501.16435v2)|
+|2025-02-27|2025-02-27|Long-range interactions in double heavy tetraquarks $\bar Q \bar Q qq$|Muhammad Naeem Anwar|[2502.20329v1](http://arxiv.org/pdf/2502.20329v1)|
+|2025-02-26|2025-02-27|2064 global population crisis scenario predicted by the most general dynamic model|Alessio Zaccone|[2502.19063v2](http://arxiv.org/pdf/2502.19063v2)|
+|2025-02-27|2025-02-27|Impilict Runge-Kutta based sparse identification of governing equations in biologically motivated systems|Mehrdad Anvari|[2502.20319v1](http://arxiv.org/pdf/2502.20319v1)|
+|2025-02-27|2025-02-27|Non-relativistic limit of Dirac Hamiltonians with Aharonov-Bohm fields|Matteo Gallone|[2502.20318v1](http://arxiv.org/pdf/2502.20318v1)|
+
+### Diffusion
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-02-27|2025-02-27|Tight Inversion: Image-Conditioned Inversion for Real Image Editing|Edo Kadosh|[2502.20376v1](http://arxiv.org/pdf/2502.20376v1)|
+|2025-02-27|2025-02-27|Constrained Generative Modeling with Manually Bridged Diffusion Models|Saeid Naderiparizi|[2502.20371v1](http://arxiv.org/pdf/2502.20371v1)|
+|2025-02-27|2025-02-27|Explainable, Multi-modal Wound Infection Classification from Images Augmented with Generated Captions|Palawat Busaranuvong|[2502.20277v1](http://arxiv.org/pdf/2502.20277v1)|
 ## Update on 2025-02-27
 
 ### Physics

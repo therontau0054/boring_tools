@@ -1,0 +1,110 @@
+{
+    "Physics": [
+        {
+            "title": "Physics-Driven Data Generation for Contact-Rich Manipulation via Trajectory Optimization",
+            "authors": "Lujie Yang, H. J. Terry Suh, Tong Zhao, Bernhard Paus Graesdal, Tarik Kelestemur, Jiuguang Wang, Tao Pang, Russ Tedrake",
+            "summary": "We present a low-cost data generation pipeline that integrates physics-based\nsimulation, human demonstrations, and model-based planning to efficiently\ngenerate large-scale, high-quality datasets for contact-rich robotic\nmanipulation tasks. Starting with a small number of embodiment-flexible human\ndemonstrations collected in a virtual reality simulation environment, the\npipeline refines these demonstrations using optimization-based kinematic\nretargeting and trajectory optimization to adapt them across various robot\nembodiments and physical parameters. This process yields a diverse, physically\nconsistent dataset that enables cross-embodiment data transfer, and offers the\npotential to reuse legacy datasets collected under different hardware\nconfigurations or physical parameters. We validate the pipeline's effectiveness\nby training diffusion policies from the generated datasets for challenging\ncontact-rich manipulation tasks across multiple robot embodiments, including a\nfloating Allegro hand and bimanual robot arms. The trained policies are\ndeployed zero-shot on hardware for bimanual iiwa arms, achieving high success\nrates with minimal human input. Project website:\nhttps://lujieyang.github.io/physicsgen/.",
+            "pdf_url": "http://arxiv.org/pdf/2502.20382v1",
+            "published": "2025-02-27 18:56:01+00:00",
+            "updated": "2025-02-27 18:56:01+00:00"
+        },
+        {
+            "title": "Benchmarking Quantum Red TEA on CPUs, GPUs, and TPUs",
+            "authors": "Daniel Jaschke, Marco Ballarin, Nora Reini\u0107, Luka Pave\u0161i\u0107, Simone Montangero",
+            "summary": "We benchmark simulations of many-body quantum systems on heterogeneous\nhardware platforms using CPUs, GPUs, and TPUs. We compare different linear\nalgebra backends, e.g., NumPy versus the PyTorch, JAX, or TensorFlow libraries,\nas well as a mixed-precision-inspired approach and optimizations for the target\nhardware. Quantum Red TEA out of the Quantum TEA library specifically addresses\nhandling tensors with different libraries or hardware, where the tensors are\nthe building blocks of tensor network algorithms. The benchmark problem is a\nvariational search of a ground state in an interacting model. This is a\nubiquitous problem in quantum many-body physics, which we solve using tensor\nnetwork methods. This approximate state-of-the-art method compresses quantum\ncorrelations which is key to overcoming the exponential growth of the Hilbert\nspace as a function of the number of particles. We present a way to obtain\nspeedups of a factor of 34 when tuning parameters on the CPU, and an additional\nfactor of 2.76 on top of the best CPU setup when migrating to GPUs.",
+            "pdf_url": "http://arxiv.org/pdf/2409.03818v2",
+            "published": "2024-09-05 18:00:01+00:00",
+            "updated": "2025-02-27 18:25:22+00:00"
+        },
+        {
+            "title": "T1-PILOT: Optimized Trajectories for T1 Mapping Acceleration",
+            "authors": "Tamir Shor, Moti Freiman, Chaim Baskin, Alex Bronstein",
+            "summary": "Cardiac T1 mapping provides critical quantitative insights into myocardial\ntissue composition, enabling the assessment of pathologies such as fibrosis,\ninflammation, and edema. However, the inherently dynamic nature of the heart\nimposes strict limits on acquisition times, making high-resolution T1 mapping a\npersistent challenge. Compressed sensing (CS) approaches have reduced scan\ndurations by undersampling k-space and reconstructing images from partial data,\nand recent studies show that jointly optimizing the undersampling patterns with\nthe reconstruction network can substantially improve performance. Still, most\ncurrent T1 mapping pipelines rely on static, hand-crafted masks that do not\nexploit the full acceleration and accuracy potential. In this work, we\nintroduce T1-PILOT: an end-to-end method that explicitly incorporates the T1\nsignal relaxation model into the sampling-reconstruction framework to guide the\nlearning of non-Cartesian trajectories, crossframe alignment, and T1 decay\nestimation. Through extensive experiments on the CMRxRecon dataset, T1-PILOT\nsignificantly outperforms several baseline strategies (including learned\nsingle-mask and fixed radial or golden-angle sampling schemes), achieving\nhigher T1 map fidelity at greater acceleration factors. In particular, we\nobserve consistent gains in PSNR and VIF relative to existing methods, along\nwith marked improvements in delineating finer myocardial structures. Our\nresults highlight that optimizing sampling trajectories in tandem with the\nphysical relaxation model leads to both enhanced quantitative accuracy and\nreduced acquisition times. Code for reproducing all results will be made\npublicly available upon publication.",
+            "pdf_url": "http://arxiv.org/pdf/2502.20333v1",
+            "published": "2025-02-27 18:02:27+00:00",
+            "updated": "2025-02-27 18:02:27+00:00"
+        },
+        {
+            "title": "Next to Soft Threshold Resummation for $VH$ Production",
+            "authors": "Arunima Bhattacharya, Chinmoy Dey, M. C. Kumar, Vaibhav Pandey",
+            "summary": "We study the threshold effects for the associated production of a Higgs boson\nwith a massive vector boson $(V=Z,W)$ in the $q\\bar{q} \\rightarrow V^\\star\n\\rightarrow VH$ process at the LHC. By leveraging the universality of threshold\nlogarithms and employing soft-virtual (SV) and next-to-soft virtual (NSV)\nresummation techniques, we compute threshold corrections to\nnext-to-next-to-leading logarithmic accuracy. After matching the resummed\npredictions to the Next-to-Next-to-Leading order (NNLO) fixed order results, we\npresent the invariant mass distribution to NNLO$+\\overline{\\text{NNLL}}$\naccuracy in QCD for the current LHC energies and the total production cross\nsections. The $VH$ production channel is crucial for studying the couplings of\nthe Higgs boson to the vector bosons $(W,Z)$ and understanding the mechanism of\nelectroweak symmetry breaking. Precision measurements of this process help test\nthe validity of the standard model (SM) and can reveal potential deviations\nindicating new physics.",
+            "pdf_url": "http://arxiv.org/pdf/2502.20331v1",
+            "published": "2025-02-27 18:00:12+00:00",
+            "updated": "2025-02-27 18:00:12+00:00"
+        },
+        {
+            "title": "Andreev non-Hermitian Hamiltonian for open Josephson junctions from Green's functions",
+            "authors": "Roberto Capecelatro, Marco Marciani, Gabriele Campagnano, Procolo Lucignano",
+            "summary": "We investigate the transport properties of open Josephson junctions (JJs)\nthrough a minimal effective non-Hermitian (NH) approach derived from the\nequilibrium Green's function (GF) formalism. Specifically, we consider a JJ\nwith a quantum dot barrier coupled to a normal metal reservoir. The coupling\nintroduces an imaginary self-energy term in the JJ Hamiltonian which can be\nnaturally accounted for in the NH formalism. While most approaches to similar\nproblems work with the full junction Hamiltonian we propose a scheme for\nderiving an effective NH Hamiltonian for the Andreev levels only, that we\ncompute from the singular part of the barrier GF. To establish the range of\napplicability of this NH model we benchmark our results for both the dot\ndensity of states and the supercurrent against exact GF predictions in\ndifferent transport regimes. We find that, as a rule of thumb, the Andreev NH\ndescription is accurate when the spectral overlap between the Andreev bound\nstates (ABS) and the near-gap continuum states is negligible, i.e. when the ABS\nenergies lie sufficiently far from the superconducting gap relative to their\nline-width. This method not only highlights the effective physics of the JJ but\nalso offers a scalable framework for studying large-size devices.",
+            "pdf_url": "http://arxiv.org/pdf/2412.01702v2",
+            "published": "2024-12-02 16:49:26+00:00",
+            "updated": "2025-02-27 17:56:06+00:00"
+        },
+        {
+            "title": "The complete trans-series for conserved charges in integrable field theories",
+            "authors": "Zolt\u00e1n Bajnok, J\u00e1nos Balog, Istv\u00e1n Vona",
+            "summary": "We analyze the vacuum expectation values of conserved charges in two\ndimensional integrable theories. We study the situations when the ground-state\ncan be described by a single integral equation with a finite support: the\nthermodynamic limit of the Bethe ansatz equation. We solve this integral\nequation by expanding around the infinite support limit and write the\nexpectation values in terms of an explicitly calculable trans-series, which\nincludes both perturbative and all non-perturbative corrections. These\ndifferent types of corrections are interrelated via resurgence relations, which\nwe all reveal. We provide explicit formulas for a wide class of bosonic and\nfermionic models including the $O(N)$ (super) symmetric nonlinear sigma and\nGross-Neveu, the $SU(N)$ invariant principal chiral and chiral Gross-Neveu\nmodels along with the Lieb-Liniger and Gaudin-Yang models and the case of the\ndisk capacitor. With numerical analyses we demonstrate that the laterally Borel\nresummed trans-series is convergent and reproduces the physical result.",
+            "pdf_url": "http://arxiv.org/pdf/2501.16435v2",
+            "published": "2025-01-27 19:00:12+00:00",
+            "updated": "2025-02-27 17:55:47+00:00"
+        },
+        {
+            "title": "Long-range interactions in double heavy tetraquarks $\\bar Q \\bar Q qq$",
+            "authors": "Muhammad Naeem Anwar",
+            "summary": "At the large distances compared to the chiral symmetry breaking scale, a\nfour-quark system $\\bar Q \\bar Q qq$ (with $Q$ as heavy and $q$ as light\nquarks) can be treated as two asymptotic mesons interacting via strong residual\nforces. The static heavy quark assumption enables using the Born-Oppenheimer\napproximation, where one can compute the potential between two heavy antiquarks\nin the presence of two light quarks of finite mass -- a prescription utilized\nin several lattice QCD studies. To analyse the long-range strong force in a\n$\\bar Q \\bar Q qq$ system, we study the interaction between two bottom mesons\nin the heavy quark limit using chiral effective field theory and dispersion\ntheory with unphysical pion mass. We present methods to obtain\ntwo-pion-exchange potential between two static heavy mesons at non-physical\npion mass and compare our preliminary results with the corresponding lattice\nQCD potentials.",
+            "pdf_url": "http://arxiv.org/pdf/2502.20329v1",
+            "published": "2025-02-27 17:54:14+00:00",
+            "updated": "2025-02-27 17:54:14+00:00"
+        },
+        {
+            "title": "2064 global population crisis scenario predicted by the most general dynamic model",
+            "authors": "Alessio Zaccone, Kostya Trachenko",
+            "summary": "There is currently no consensus on how the global population will evolve in\nthe next decades and in the next century. The reason for this uncertainty is\nthe absence of reliable population dynamic models. In this paper, we remedy to\nthis situation by reporting on a population dynamic model, a single nonlinear\ndifferential equation adapted from the physics of disordered systems, which is\nable to mathematically describe all the various regimes encountered in the\nglobal population recorded as a function of time, over the past 12000 years\nuntil now. Regimes of simple exponential growth (Malthus), logistic (Verhulst)\nplateaus as well as stretched-exponential and compressed-exponential growth\nregimes are all reliably described by this mathematical equation in its various\nlimits. Besides showing that this is, indeed, the most general population\ndynamic model, we use it to explore its solutions projected into the future. In\nparticular, two different scenarios are predicted. In one of them, which\nassumes that the future evolution would continue along a similar pattern as the\npast decades (hence without any major global ecological crisis affecting the\nresource exploitation), a von Foerster-type doomsday scenario with a sudden\nrise of the global population to unsustainable levels could appear as early as\n2078. In the opposite scenario, if a global ecological crisis were to set in\ntoday, affecting the ability to exploit resources, given the current estimates\nof the Earth's carrying capacity, the global population is forecasted to reduce\nby half by 2064. Furthermore, the proposed dynamic model provides with a new\naggregated parameter (K, in the model) that can be monitored and controlled so\nas to avoid the doomsday scenarios.",
+            "pdf_url": "http://arxiv.org/pdf/2502.19063v2",
+            "published": "2025-02-26 11:41:45+00:00",
+            "updated": "2025-02-27 17:44:49+00:00"
+        },
+        {
+            "title": "Impilict Runge-Kutta based sparse identification of governing equations in biologically motivated systems",
+            "authors": "Mehrdad Anvari, Hamidreza Marasi, Hossein Kheiri",
+            "summary": "Identifying governing equations in physical and biological systems from\ndatasets remains a long-standing challenge across various scientific\ndisciplines, providing mechanistic insights into complex system evolution.\nCommon methods like sparse identification of nonlinear dynamics (SINDy) often\nrely on precise derivative estimations, making them vulnerable to data scarcity\nand noise. This study presents a novel data-driven framework by integrating\nhigh order implicit Runge-Kutta methods (IRKs) with the sparse identification,\ntermed IRK-SINDy. The framework exhibits remarkable robustness to data scarcity\nand noise by leveraging the lower stepsize constraint of IRKs. Two methods for\nincorporating IRKs into sparse regression are introduced: one employs iterative\nschemes for numerically solving nonlinear algebraic system of equations, while\nthe other utilizes deep neural networks to predict stage values of IRKs. The\nperformance of IRK-SINDy is demonstrated through numerical experiments on\nbenchmark problems with varied dynamical behaviors, including linear and\nnonlinear oscillators, the Lorenz system, and biologically relevant models like\npredator-prey dynamics, logistic growth, and the FitzHugh-Nagumo model. Results\nindicate that IRK-SINDy outperforms conventional SINDy and the RK4-SINDy\nframework, particularly under conditions of extreme data scarcity and noise,\nyielding interpretable and generalizable models.",
+            "pdf_url": "http://arxiv.org/pdf/2502.20319v1",
+            "published": "2025-02-27 17:44:37+00:00",
+            "updated": "2025-02-27 17:44:37+00:00"
+        },
+        {
+            "title": "Non-relativistic limit of Dirac Hamiltonians with Aharonov-Bohm fields",
+            "authors": "Matteo Gallone, Alessandro Michelangeli, Diego Noja",
+            "summary": "We characterise the families of self-adjoint Dirac and Schr\\\"{o}dinger\noperators with Aharonov-Bohm magnetic field, and we exploit the\nnon-relativistic limit of infinite light speed to connect the former to the\nlatter. The limit consists of the customary removal of the rest energy and of a\nsuitable scaling, with the light speed, of the short-scale boundary condition\nof self-adjointness. This ensures that the scattering length of the\nAharonov-Bohm interaction is preserved along the limit. Noteworthy is the fact\nthat the whole family of Dirac-AB operators is mapped, in the non-relativistic\nlimit, into the physically relevant sub-family of $s$-wave,\nangular-momentum-commuting, Schr\\\"{o}\\-dinger-AB Hamiltonians with relativistic\nDirac approximants.",
+            "pdf_url": "http://arxiv.org/pdf/2502.20318v1",
+            "published": "2025-02-27 17:42:52+00:00",
+            "updated": "2025-02-27 17:42:52+00:00"
+        }
+    ],
+    "Diffusion": [
+        {
+            "title": "Tight Inversion: Image-Conditioned Inversion for Real Image Editing",
+            "authors": "Edo Kadosh, Nir Goren, Or Patashnik, Daniel Garibi, Daniel Cohen-Or",
+            "summary": "Text-to-image diffusion models offer powerful image editing capabilities. To\nedit real images, many methods rely on the inversion of the image into Gaussian\nnoise. A common approach to invert an image is to gradually add noise to the\nimage, where the noise is determined by reversing the sampling equation. This\nprocess has an inherent tradeoff between reconstruction and editability,\nlimiting the editing of challenging images such as highly-detailed ones.\nRecognizing the reliance of text-to-image models inversion on a text condition,\nthis work explores the importance of the condition choice. We show that a\ncondition that precisely aligns with the input image significantly improves the\ninversion quality. Based on our findings, we introduce Tight Inversion, an\ninversion method that utilizes the most possible precise condition -- the input\nimage itself. This tight condition narrows the distribution of the model's\noutput and enhances both reconstruction and editability. We demonstrate the\neffectiveness of our approach when combined with existing inversion methods\nthrough extensive experiments, evaluating the reconstruction accuracy as well\nas the integration with various editing methods.",
+            "pdf_url": "http://arxiv.org/pdf/2502.20376v1",
+            "published": "2025-02-27 18:51:16+00:00",
+            "updated": "2025-02-27 18:51:16+00:00"
+        },
+        {
+            "title": "Constrained Generative Modeling with Manually Bridged Diffusion Models",
+            "authors": "Saeid Naderiparizi, Xiaoxuan Liang, Berend Zwartsenberg, Frank Wood",
+            "summary": "In this paper we describe a novel framework for diffusion-based generative\nmodeling on constrained spaces. In particular, we introduce manual bridges, a\nframework that expands the kinds of constraints that can be practically used to\nform so-called diffusion bridges. We develop a mechanism for combining multiple\nsuch constraints so that the resulting multiply-constrained model remains a\nmanual bridge that respects all constraints. We also develop a mechanism for\ntraining a diffusion model that respects such multiple constraints while also\nadapting it to match a data distribution. We develop and extend theory\ndemonstrating the mathematical validity of our mechanisms. Additionally, we\ndemonstrate our mechanism in constrained generative modeling tasks,\nhighlighting a particular high-value application in modeling trajectory\ninitializations for path planning and control in autonomous vehicles.",
+            "pdf_url": "http://arxiv.org/pdf/2502.20371v1",
+            "published": "2025-02-27 18:41:46+00:00",
+            "updated": "2025-02-27 18:41:46+00:00"
+        },
+        {
+            "title": "Explainable, Multi-modal Wound Infection Classification from Images Augmented with Generated Captions",
+            "authors": "Palawat Busaranuvong, Emmanuel Agu, Reza Saadati Fard, Deepak Kumar, Shefalika Gautam, Bengisu Tulu, Diane Strong",
+            "summary": "Infections in Diabetic Foot Ulcers (DFUs) can cause severe complications,\nincluding tissue death and limb amputation, highlighting the need for accurate,\ntimely diagnosis. Previous machine learning methods have focused on identifying\ninfections by analyzing wound images alone, without utilizing additional\nmetadata such as medical notes. In this study, we aim to improve infection\ndetection by introducing Synthetic Caption Augmented Retrieval for Wound\nInfection Detection (SCARWID), a novel deep learning framework that leverages\nsynthetic textual descriptions to augment DFU images. SCARWID consists of two\ncomponents: (1) Wound-BLIP, a Vision-Language Model (VLM) fine-tuned on\nGPT-4o-generated descriptions to synthesize consistent captions from images;\nand (2) an Image-Text Fusion module that uses cross-attention to extract\ncross-modal embeddings from an image and its corresponding Wound-BLIP caption.\nInfection status is determined by retrieving the top-k similar items from a\nlabeled support set. To enhance the diversity of training data, we utilized a\nlatent diffusion model to generate additional wound images. As a result,\nSCARWID outperformed state-of-the-art models, achieving average sensitivity,\nspecificity, and accuracy of 0.85, 0.78, and 0.81, respectively, for wound\ninfection classification. Displaying the generated captions alongside the wound\nimages and infection detection results enhances interpretability and trust,\nenabling nurses to align SCARWID outputs with their medical knowledge. This is\nparticularly valuable when wound notes are unavailable or when assisting novice\nnurses who may find it difficult to identify visual attributes of wound\ninfection.",
+            "pdf_url": "http://arxiv.org/pdf/2502.20277v1",
+            "published": "2025-02-27 17:04:00+00:00",
+            "updated": "2025-02-27 17:04:00+00:00"
+        }
+    ]
+}
