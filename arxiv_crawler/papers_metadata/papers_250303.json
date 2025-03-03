@@ -1,0 +1,118 @@
+{
+    "Physics": [
+        {
+            "title": "Signatures of Light New Particles in $B\\to K^{(*)} E_{\\rm miss}$",
+            "authors": "Patrick D. Bolton, Svjetlana Fajfer, Jernej F. Kamenik, Mart\u00edn Novoa-Brunet",
+            "summary": "The recent Belle II observation of $B \\to K E_{\\rm miss}$ challenges\ntheoretical interpretations in terms of Standard Model neutrino final states.\nInstead, we consider new physics scenarios where up to two new light-invisible\nparticles of spin 0 up to 3/2 are present in the final state. We identify\nviable scenarios by reconstructing the (binned) likelihoods of the relevant $B\n\\to K^{(*)} E_{\\rm miss}$ and also $B_s \\to E_{\\rm miss}$ experimental analyses\nand present preferred regions of couplings and masses. In particular, we find\nthat the current data prefers two-body decay kinematics involving the emission\nof a single massive scalar or a vector particle, or alternatively, three-body\ndecays involving pairs of massive scalars or spin 1/2 fermions. When\napplicable, we compare our findings with existing literature and briefly\ndiscuss some model-building implications.",
+            "pdf_url": "http://arxiv.org/pdf/2403.13887v2",
+            "published": "2024-03-20 18:00:08+00:00",
+            "updated": "2025-02-28 18:56:41+00:00"
+        },
+        {
+            "title": "Does the 220 PeV Event at KM3NeT Point to New Physics?",
+            "authors": "Vedran Brdar, Dibya S. Chattopadhyay",
+            "summary": "The KM3NeT collaboration recently reported the observation of KM3-230213A, a\nneutrino event with an energy exceeding 100 PeV, more than an order of\nmagnitude higher than the most energetic neutrino in IceCube's catalog. Given\nits longer data-taking period and larger effective area relative to KM3NeT,\nIceCube should have observed events around that energy. This tension has\nrecently been quantified to lie between $2\\sigma$ and $3.5\\sigma$, depending on\nthe neutrino source. A $\\mathscr{O}(100)$ PeV neutrino detected at KM3NeT has\ntraversed approximately $147$ km of rock and sea en route to the detector,\nwhereas neutrinos arriving from the same location in the sky would have only\ntraveled through about $14$ km of ice before reaching IceCube. We use this\ndifference in propagation distance to address the tension between KM3NeT and\nIceCube. Specifically, we consider a scenario in which the source emits sterile\nneutrinos that partially convert to active neutrinos through oscillations. We\nscrutinize two such realizations, one where a new physics matter potential\ninduces a resonance in sterile-to-active transitions and another one where\noff-diagonal neutrino non-standard interactions are employed. In both cases,\nsterile-to-active neutrino oscillations become relevant at length scales of\n$\\sim100$ km, resulting in increased active neutrino flux near the KM3NeT\ndetector, alleviating the tension between KM3NeT and IceCube. Overall, we\npropose the exciting possibility that neutrino telescopes may have started\ndetecting new physics.",
+            "pdf_url": "http://arxiv.org/pdf/2502.21299v1",
+            "published": "2025-02-28 18:30:36+00:00",
+            "updated": "2025-02-28 18:30:36+00:00"
+        },
+        {
+            "title": "The quantum Newton's bucket: Active and passive rotations in quantum theory",
+            "authors": "Augusto Facundes da Silva, Kayman Jhosef Goncalves, Giorgio Torrieri",
+            "summary": "Motivated both by classical physics problems associated with ``Newton's\nbucket'' and recent developments related to QCD in rotating frames of reference\nrelevant to heavy ion collisions, we discuss the difference between ``active''\nand ``passive'' rotations in quantum systems. We examine some relevant\npotentials and give general symmetry arguments to give criteria where such\nrotations give the same results. We close with a discussion of how this can be\ntranslated to quantum field theory.",
+            "pdf_url": "http://arxiv.org/pdf/2502.21298v1",
+            "published": "2025-02-28 18:28:23+00:00",
+            "updated": "2025-02-28 18:28:23+00:00"
+        },
+        {
+            "title": "Reconstruction of spider system's observables from orbital period modulations via the Applegate mechanism",
+            "authors": "Vittorio De Falco, Amodio Carleo, Alessandro Ridolfi, Alessandro Corongiu",
+            "summary": "Redback and black widow pulsars are two classes of peculiar binary systems\ncharacterized by very short orbital periods, very low mass companions, and, in\nseveral cases, regular eclipses in their pulsed radio signal. Long-term timing\nrevealed systematic but unpredictable variations in the orbital period, which\ncan most likely be explained by the so-called Applegate mechanism. This relies\non the magnetic dynamo activity generated inside the companion star and\ntriggered by the pulsar wind, which induces a modification of the star's\noblateness (or quadrupole variation). This, in turn, couples with the orbit by\ngravity, causing a consequent change in the orbital period. The Applegate\ndescription limits to provide estimates of physical quantities by highlighting\ntheir orders of magnitude. Therefore, we derive the time-evolution differential\nequations underlying the Applegate model, that is, we track such physical\nquantities in terms of time. Our strategy is to employ the orbital period\nmodulations, measured by fitting the observational data, and implementing a\nhighly accurate approximation scheme to finally reconstruct the dynamics of the\nspider system under study and the relative observables. Among the latter is the\nmagnetic field activity inside the companion star, which is still a matter of\ndebate for its complex theoretical modeling and the ensuing expensive numerical\nsimulations. As an application, we exploit our methodology to examine two\nspider sources: 47 Tuc W (redback) and 47 Tuc O (black widow). The results\nobtained are analyzed and then discussed with the literature.",
+            "pdf_url": "http://arxiv.org/pdf/2502.21283v1",
+            "published": "2025-02-28 18:01:25+00:00",
+            "updated": "2025-02-28 18:01:25+00:00"
+        },
+        {
+            "title": "Tunneling method for Hawking quanta in analogue gravity",
+            "authors": "Francesco Del Porro, Stefano Liberati, Marc Schneider",
+            "summary": "Analogue Hawking radiation from acoustic horizons is now a well-established\nphenomenon, both theoretically and experimentally. Its persistence, despite the\nmodified dispersion relations characterising analogue models, has been crucial\nin advancing our understanding of the robustness of this phenomenon against\nultraviolet modifications of our spacetime description. However, previous\ntheoretical approaches, such as the Bogoliubov transformation relating\nasymptotic states, have somewhat lacked a straightforward physical intuition\nregarding the origin of this robustness and its limits of applicability. To\naddress this, we revisit analogue Hawking radiation using the tunneling method.\nWe present a unified treatment that allows us to consider flows with and\nwithout acoustic horizons and with superluminal or subluminal dispersion\nrelations. This approach clarifies the fundamental mechanism behind the\nresilience of Hawking radiation in these settings and explains the puzzling\noccurrence of excitations even in subcritical (supercritical) flows with\nsubluminal (superluminal) dispersion relations.",
+            "pdf_url": "http://arxiv.org/pdf/2406.14603v2",
+            "published": "2024-06-20 18:00:00+00:00",
+            "updated": "2025-02-28 18:00:01+00:00"
+        },
+        {
+            "title": "Dynamical Decoupling of Generalization and Overfitting in Large Two-Layer Networks",
+            "authors": "Andrea Montanari, Pierfrancesco Urbani",
+            "summary": "The inductive bias and generalization properties of large machine learning\nmodels are -- to a substantial extent -- a byproduct of the optimization\nalgorithm used for training. Among others, the scale of the random\ninitialization, the learning rate, and early stopping all have crucial impact\non the quality of the model learnt by stochastic gradient descent or related\nalgorithms. In order to understand these phenomena, we study the training\ndynamics of large two-layer neural networks. We use a well-established\ntechnique from non-equilibrium statistical physics (dynamical mean field\ntheory) to obtain an asymptotic high-dimensional characterization of this\ndynamics. This characterization applies to a Gaussian approximation of the\nhidden neurons non-linearity, and empirically captures well the behavior of\nactual neural network models.\n  Our analysis uncovers several interesting new phenomena in the training\ndynamics: $(i)$ The emergence of a slow time scale associated with the growth\nin Gaussian/Rademacher complexity; $(ii)$ As a consequence, algorithmic\ninductive bias towards small complexity, but only if the initialization has\nsmall enough complexity; $(iii)$ A separation of time scales between feature\nlearning and overfitting; $(iv)$ A non-monotone behavior of the test error and,\ncorrespondingly, a `feature unlearning' phase at large times.",
+            "pdf_url": "http://arxiv.org/pdf/2502.21269v1",
+            "published": "2025-02-28 17:45:26+00:00",
+            "updated": "2025-02-28 17:45:26+00:00"
+        },
+        {
+            "title": "Reservoir Computing Benchmarks: a tutorial review and critique",
+            "authors": "Chester Wringe, Martin Trefzer, Susan Stepney",
+            "summary": "Reservoir Computing is an Unconventional Computation model to perform\ncomputation on various different substrates, such as recurrent neural networks\nor physical materials. The method takes a 'black-box' approach, training only\nthe outputs of the system it is built on. As such, evaluating the computational\ncapacity of these systems can be challenging. We review and critique the\nevaluation methods used in the field of reservoir computing. We introduce a\ncategorisation of benchmark tasks. We review multiple examples of benchmarks\nfrom the literature as applied to reservoir computing, and note their strengths\nand shortcomings. We suggest ways in which benchmarks and their uses may be\nimproved to the benefit of the reservoir computing community.",
+            "pdf_url": "http://arxiv.org/pdf/2405.06561v2",
+            "published": "2024-05-10 16:02:41+00:00",
+            "updated": "2025-02-28 17:39:20+00:00"
+        },
+        {
+            "title": "Beyond the Kolmogorov Barrier: A Learnable Weighted Hybrid Autoencoder for Model Order Reduction",
+            "authors": "Nithin Somasekharan, Shaowu Pan",
+            "summary": "Representation learning for high-dimensional, complex physical systems aims\nto identify a low-dimensional intrinsic latent space, which is crucial for\nreduced-order modeling and modal analysis. To overcome the well-known\nKolmogorov barrier, deep autoencoders (AEs) have been introduced in recent\nyears, but they often suffer from poor convergence behavior as the rank of the\nlatent space increases. To address this issue, we propose the learnable\nweighted hybrid autoencoder, a hybrid approach that combines the strengths of\nsingular value decomposition (SVD) with deep autoencoders through a learnable\nweighted framework. We find that the introduction of learnable weighting\nparameters is essential -- without them, the resulting model would either\ncollapse into a standard POD or fail to exhibit the desired convergence\nbehavior. Interestingly, we empirically find that our trained model has a\nsharpness thousands of times smaller compared to other models. Our experiments\non classical chaotic PDE systems, including the 1D Kuramoto-Sivashinsky and\nforced isotropic turbulence datasets, demonstrate that our approach\nsignificantly improves generalization performance compared to several competing\nmethods. Additionally, when combining with time series modeling techniques\n(e.g., Koopman operator, LSTM), the proposed technique offers significant\nimprovements for surrogate modeling of high-dimensional multi-scale PDE\nsystems.",
+            "pdf_url": "http://arxiv.org/pdf/2410.18148v3",
+            "published": "2024-10-23 00:04:26+00:00",
+            "updated": "2025-02-28 17:12:31+00:00"
+        },
+        {
+            "title": "Efficient Monte Carlo Event Generation for Neutrino-Nucleus Exclusive Cross Sections",
+            "authors": "Mathias El Baz, Federico S\u00e1nchez, Natalie Jachowicz, Kajetan Niewczas, Ashish Kumar Jha, Alexis Nikolakopoulos",
+            "summary": "Modern neutrino-nucleus cross section predictions need to incorporate\nsophisticated nuclear models to achieve greater predictive precision. However,\nthe computational complexity of these advanced models often limits their\npracticality for experimental analyses. To address this challenge, we introduce\na new Monte Carlo method utilizing Normalizing Flows to generate surrogate\ncross sections that closely approximate those of the original model while\nsignificantly reducing computational overhead. As a case study, we built a\nMonte Carlo event generator for the neutrino-nucleus cross section model\ndeveloped by the Ghent group. This model employs a Hartree-Fock procedure to\nestablish a quantum mechanical framework in which both the bound and scattering\nnucleon states are solutions to the mean-field nuclear potential. The surrogate\ncross sections generated by our method demonstrate excellent accuracy with a\nrelative effective sample size of more than $98.4 \\%$, providing a\ncomputationally efficient alternative to traditional Monte Carlo sampling\nmethods for differential cross sections.",
+            "pdf_url": "http://arxiv.org/pdf/2502.14452v2",
+            "published": "2025-02-20 11:09:38+00:00",
+            "updated": "2025-02-28 17:03:29+00:00"
+        },
+        {
+            "title": "Effects of threshold resummation for large-$x$ PDF in large momentum effective theory",
+            "authors": "Xiangdong Ji, Yizhuang Liu, Yushan Su, Rui Zhang",
+            "summary": "Parton distribution functions (PDFs) at large $x$ are challenging to extract\nfrom experimental data, yet they are essential for understanding hadron\nstructure and searching for new physics beyond the Standard Model. Within the\nframework of the large momentum $P^z$ expansion of lattice quasi-PDFs, we\ninvestigate large $x$ PDFs, where the matching coefficient is factorized into\nthe hard kernel, related to the active quark momentum $x P^z$, and the\nthreshold soft function, associated with the spectator momentum $(1-x) P^z$.\nThe renormalization group equation of the soft function enables the resummation\nof the threshold double logarithms $\\alpha^{k} \\ln^{2k}(1-x)$, which is crucial\nfor a reliable and controllable calculation of large $x$ PDFs. Our analysis\nwith pion valence PDFs indicates that perturbative matching breaks down when\nthe spectator momentum $(1-x)P^z$ approaches $\\Lambda_{\\rm QCD}$, but remains\nvalid when both $x P^z$ and $(1-x)P^z$ are much larger than $\\Lambda_{\\rm\nQCD}$. Additionally, we incorporate leading renormalon resummation within the\nthreshold framework, demonstrating good perturbative convergence in the region\nwhere both spectator and active quark momenta are perturbative scales.",
+            "pdf_url": "http://arxiv.org/pdf/2410.12910v2",
+            "published": "2024-10-16 18:00:03+00:00",
+            "updated": "2025-02-28 17:01:49+00:00"
+        }
+    ],
+    "Diffusion": [
+        {
+            "title": "Does Generation Require Memorization? Creative Diffusion Models using Ambient Diffusion",
+            "authors": "Kulin Shah, Alkis Kalavasis, Adam R. Klivans, Giannis Daras",
+            "summary": "There is strong empirical evidence that the state-of-the-art diffusion\nmodeling paradigm leads to models that memorize the training set, especially\nwhen the training set is small. Prior methods to mitigate the memorization\nproblem often lead to a decrease in image quality. Is it possible to obtain\nstrong and creative generative models, i.e., models that achieve high\ngeneration quality and low memorization? Despite the current pessimistic\nlandscape of results, we make significant progress in pushing the trade-off\nbetween fidelity and memorization. We first provide theoretical evidence that\nmemorization in diffusion models is only necessary for denoising problems at\nlow noise scales (usually used in generating high-frequency details). Using\nthis theoretical insight, we propose a simple, principled method to train the\ndiffusion models using noisy data at large noise scales. We show that our\nmethod significantly reduces memorization without decreasing the image quality,\nfor both text-conditional and unconditional models and for a variety of data\navailability settings.",
+            "pdf_url": "http://arxiv.org/pdf/2502.21278v1",
+            "published": "2025-02-28 17:57:48+00:00",
+            "updated": "2025-02-28 17:57:48+00:00"
+        },
+        {
+            "title": "Four-hour thunderstorm nowcasting using deep diffusion models of satellite",
+            "authors": "Kuai Dai, Xutao Li, Junying Fang, Yunming Ye, Demin Yu, Hui Su, Di Xian, Danyu Qin, Jingsong Wang",
+            "summary": "Convection (thunderstorm) develops rapidly within hours and is highly\ndestructive, posing a significant challenge for nowcasting and resulting in\nsubstantial losses to nature and society. After the emergence of artificial\nintelligence (AI)-based methods, convection nowcasting has experienced rapid\nadvancements, with its performance surpassing that of physics-based numerical\nweather prediction and other conventional approaches. However, the lead time\nand coverage of it still leave much to be desired and hardly meet the needs of\ndisaster emergency response. Here, we propose deep diffusion models of\nsatellite (DDMS) to establish an AI-based convection nowcasting system. On one\nhand, it employs diffusion processes to effectively simulate complicated\nspatiotemporal evolution patterns of convective clouds, significantly improving\nthe forecast lead time. On the other hand, it utilizes geostationary satellite\nbrightness temperature data, thereby achieving planetary-scale forecast\ncoverage. During long-term tests and objective validation based on the\nFengYun-4A satellite, our system achieves, for the first time, effective\nconvection nowcasting up to 4 hours, with broad coverage (about 20,000,000\nkm2), remarkable accuracy, and high resolution (15 minutes; 4 km). Its\nperformance reaches a new height in convection nowcasting compared to the\nexisting models. In terms of application, our system operates efficiently\n(forecasting 4 hours of convection in 8 minutes), and is highly transferable\nwith the potential to collaborate with multiple satellites for global\nconvection nowcasting. Furthermore, our results highlight the remarkable\ncapabilities of diffusion models in convective clouds forecasting, as well as\nthe significant value of geostationary satellite data when empowered by AI\ntechnologies.",
+            "pdf_url": "http://arxiv.org/pdf/2404.10512v3",
+            "published": "2024-04-16 12:33:44+00:00",
+            "updated": "2025-02-28 16:22:11+00:00"
+        },
+        {
+            "title": "Microscopic Propagator Imaging (MPI) with Diffusion MRI",
+            "authors": "Tommaso Zajac, Gloria Menegaz, Marco Pizzolato",
+            "summary": "We propose Microscopic Propagator Imaging (MPI) as a novel method to retrieve\nthe indices of the microscopic propagator which is the probability density\nfunction of water displacements due to diffusion within the nervous tissue\nmicrostructures. Unlike the Ensemble Average Propagator indices or the\nDiffusion Tensor Imaging metrics, MPI indices are independent from the\nmesoscopic organization of the tissue such as the presence of multiple axonal\nbundle directions and orientation dispersion. As a consequence, MPI indices are\nmore specific to the volumes, sizes, and types of microstructures, like axons\nand cells, that are present in the tissue. Thus, changes in MPI indices can be\nmore directly linked to alterations in the presence and integrity of\nmicrostructures themselves. The methodology behind MPI is rooted on zonal\nmodeling of spherical harmonics, signal simulation, and machine learning\nregression, and is demonstrated on both synthetic and Human Diffusion MRI data.",
+            "pdf_url": "http://arxiv.org/pdf/2502.21129v1",
+            "published": "2025-02-28 15:10:00+00:00",
+            "updated": "2025-02-28 15:10:00+00:00"
+        },
+        {
+            "title": "Non-Parametric Learning of Stochastic Differential Equations with Non-asymptotic Fast Rates of Convergence",
+            "authors": "Riccardo Bonalli, Alessandro Rudi",
+            "summary": "We propose a novel non-parametric learning paradigm for the identification of\ndrift and diffusion coefficients of multi-dimensional non-linear stochastic\ndifferential equations, which relies upon discrete-time observations of the\nstate. The key idea essentially consists of fitting a RKHS-based approximation\nof the corresponding Fokker-Planck equation to such observations, yielding\ntheoretical estimates of non-asymptotic learning rates which, unlike previous\nworks, become increasingly tighter when the regularity of the unknown drift and\ndiffusion coefficients becomes higher. Our method being kernel-based, offline\npre-processing may be profitably leveraged to enable efficient numerical\nimplementation, offering excellent balance between precision and computational\ncomplexity.",
+            "pdf_url": "http://arxiv.org/pdf/2305.15557v5",
+            "published": "2023-05-24 20:43:47+00:00",
+            "updated": "2025-02-28 14:53:37+00:00"
+        }
+    ]
+}

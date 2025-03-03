@@ -126,6 +126,30 @@ TODO:
 
 
 
+
+## Update on 2025-03-03
+
+### Physics
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2024-03-20|2025-02-28|Signatures of Light New Particles in $B\to K^{(*)} E_{\rm miss}$|Patrick D. Bolton|[2403.13887v2](http://arxiv.org/pdf/2403.13887v2)|
+|2025-02-28|2025-02-28|Does the 220 PeV Event at KM3NeT Point to New Physics?|Vedran Brdar|[2502.21299v1](http://arxiv.org/pdf/2502.21299v1)|
+|2025-02-28|2025-02-28|The quantum Newton's bucket: Active and passive rotations in quantum theory|Augusto Facundes da Silva|[2502.21298v1](http://arxiv.org/pdf/2502.21298v1)|
+|2025-02-28|2025-02-28|Reconstruction of spider system's observables from orbital period modulations via the Applegate mechanism|Vittorio De Falco|[2502.21283v1](http://arxiv.org/pdf/2502.21283v1)|
+|2024-06-20|2025-02-28|Tunneling method for Hawking quanta in analogue gravity|Francesco Del Porro|[2406.14603v2](http://arxiv.org/pdf/2406.14603v2)|
+|2025-02-28|2025-02-28|Dynamical Decoupling of Generalization and Overfitting in Large Two-Layer Networks|Andrea Montanari|[2502.21269v1](http://arxiv.org/pdf/2502.21269v1)|
+|2024-05-10|2025-02-28|Reservoir Computing Benchmarks: a tutorial review and critique|Chester Wringe|[2405.06561v2](http://arxiv.org/pdf/2405.06561v2)|
+|2024-10-23|2025-02-28|Beyond the Kolmogorov Barrier: A Learnable Weighted Hybrid Autoencoder for Model Order Reduction|Nithin Somasekharan|[2410.18148v3](http://arxiv.org/pdf/2410.18148v3)|
+|2025-02-20|2025-02-28|Efficient Monte Carlo Event Generation for Neutrino-Nucleus Exclusive Cross Sections|Mathias El Baz|[2502.14452v2](http://arxiv.org/pdf/2502.14452v2)|
+|2024-10-16|2025-02-28|Effects of threshold resummation for large-$x$ PDF in large momentum effective theory|Xiangdong Ji|[2410.12910v2](http://arxiv.org/pdf/2410.12910v2)|
+
+### Diffusion
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-02-28|2025-02-28|Does Generation Require Memorization? Creative Diffusion Models using Ambient Diffusion|Kulin Shah|[2502.21278v1](http://arxiv.org/pdf/2502.21278v1)|
+|2024-04-16|2025-02-28|Four-hour thunderstorm nowcasting using deep diffusion models of satellite|Kuai Dai|[2404.10512v3](http://arxiv.org/pdf/2404.10512v3)|
+|2025-02-28|2025-02-28|Microscopic Propagator Imaging (MPI) with Diffusion MRI|Tommaso Zajac|[2502.21129v1](http://arxiv.org/pdf/2502.21129v1)|
+|2023-05-24|2025-02-28|Non-Parametric Learning of Stochastic Differential Equations with Non-asymptotic Fast Rates of Convergence|Riccardo Bonalli|[2305.15557v5](http://arxiv.org/pdf/2305.15557v5)|
 ## Update on 2025-03-01
 
 ### Physics
