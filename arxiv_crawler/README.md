@@ -127,6 +127,31 @@ TODO:
 
 
 
+
+## Update on 2025-03-05
+
+### Physics
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-03-04|2025-03-04|A New $\sim 5σ$ Tension at Characteristic Redshift from DESI DR1 and DES-SN5YR observations|Purba Mukherjee|[2503.02880v1](http://arxiv.org/pdf/2503.02880v1)|
+|2025-03-04|2025-03-04|Conservative Dynamics of Relativistic Binaries Beyond Einstein Gravity|Jordan Wilson-Gerow|[2503.02867v1](http://arxiv.org/pdf/2503.02867v1)|
+|2025-03-04|2025-03-04|PileUp Mitigation at the HL-LHC Using Attention for Event-Wide Context|Luke Vaughan|[2503.02860v1](http://arxiv.org/pdf/2503.02860v1)|
+|2024-10-23|2025-03-04|$2+1$ dimensional Floquet systems and lattice fermions: Exact bulk spectral equivalence|Thomas Iadecola|[2410.18226v2](http://arxiv.org/pdf/2410.18226v2)|
+|2025-03-04|2025-03-04|Precision phenomenology of the PDF-BSM interplay|Manuel Morales Alvarado|[2503.02827v1](http://arxiv.org/pdf/2503.02827v1)|
+|2025-03-04|2025-03-04|Meson dynamics from locally exciting a particle-conserving $Z_2$ lattice gauge theory|Vaibhav Sharma|[2503.02791v1](http://arxiv.org/pdf/2503.02791v1)|
+|2025-03-04|2025-03-04|Universal analytical modeling of coated plasmonic particles|Nikolai G. Khlebtsov|[2503.02775v1](http://arxiv.org/pdf/2503.02775v1)|
+|2025-03-04|2025-03-04|Radiation-magnetohydrodynamics with MPI-AMRVAC using flux-limited diffusion|Nishant Narechania|[2503.02764v1](http://arxiv.org/pdf/2503.02764v1)|
+|2025-03-04|2025-03-04|Improving Oil Slick Trajectory Simulations with Bayesian Optimization|Gabriele Accarino|[2503.02749v1](http://arxiv.org/pdf/2503.02749v1)|
+|2024-04-07|2025-03-04|Influence of the chiral magnetic effect on particle-pair elliptic anisotropy|Han-Sheng Li|[2404.05032v2](http://arxiv.org/pdf/2404.05032v2)|
+
+### Diffusion
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-03-04|2025-03-04|Reactive Diffusion Policy: Slow-Fast Visual-Tactile Policy Learning for Contact-Rich Manipulation|Han Xue|[2503.02881v1](http://arxiv.org/pdf/2503.02881v1)|
+|2023-03-23|2025-03-04|Decentralized Adversarial Training over Graphs|Ying Cao|[2303.13326v2](http://arxiv.org/pdf/2303.13326v2)|
+|2025-03-04|2025-03-04|Feynman-Kac Correctors in Diffusion: Annealing, Guidance, and Product of Experts|Marta Skreta|[2503.02819v1](http://arxiv.org/pdf/2503.02819v1)|
+|2024-10-02|2025-03-04|EC-DIT: Scaling Diffusion Transformers with Adaptive Expert-Choice Routing|Haotian Sun|[2410.02098v5](http://arxiv.org/pdf/2410.02098v5)|
+|2025-03-04|2025-03-04|Spike-and-Slab Posterior Sampling in High Dimensions|Syamantak Kumar|[2503.02798v1](http://arxiv.org/pdf/2503.02798v1)|
 ## Update on 2025-03-03
 
 ### Physics
