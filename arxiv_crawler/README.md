@@ -128,6 +128,30 @@ TODO:
 
 
 
+
+## Update on 2025-03-07
+
+### Physics
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-03-06|2025-03-06|Optimal Cell Shape for Accurate Chemical Gradient Sensing in Eukaryote Chemotaxis|Daiqiu Mou|[2503.04716v1](http://arxiv.org/pdf/2503.04716v1)|
+|2025-02-20|2025-03-06|DEFT: Differentiable Branched Discrete Elastic Rods for Modeling Furcated DLOs in Real-Time|Yizhou Chen|[2502.15037v4](http://arxiv.org/pdf/2502.15037v4)|
+|2025-03-06|2025-03-06|Characterizing $S=3/2$ AKLT Hamiltonian with Scanning Tunneling Spectroscopy|M. Ferri-Cortés|[2503.04676v1](http://arxiv.org/pdf/2503.04676v1)|
+|2025-03-06|2025-03-06|Abundance and properties of dark radiation from the cosmic microwave background|Murali M. Saravanan|[2503.04671v1](http://arxiv.org/pdf/2503.04671v1)|
+|2025-03-06|2025-03-06|Euclideanization without Complexification of the Spacetime|Nicole Drew|[2503.04654v1](http://arxiv.org/pdf/2503.04654v1)|
+|2025-03-06|2025-03-06|Characterization and Mitigation of Crosstalk in Quantum Error Correction|Zeyuan Zhou|[2503.04642v1](http://arxiv.org/pdf/2503.04642v1)|
+|2025-03-06|2025-03-06|Simulating the Real World: A Unified Survey of Multimodal Generative Models|Yuqi Hu|[2503.04641v1](http://arxiv.org/pdf/2503.04641v1)|
+|2025-03-06|2025-03-06|Meshless Super-Resolution of Scattered Data via constrained RBFs and KNN-Driven Densification|Iacopo Tirelli|[2503.04630v1](http://arxiv.org/pdf/2503.04630v1)|
+|2025-03-06|2025-03-06|Physical, Empirical, and Conditional Inductive Possibility|Balazs Gyenis|[2503.04601v1](http://arxiv.org/pdf/2503.04601v1)|
+|2024-08-01|2025-03-06|Impact of chaos on the excited-state quantum phase transition of the Kerr parametric oscillator|Ignacio García-Mata|[2408.00934v3](http://arxiv.org/pdf/2408.00934v3)|
+
+### Diffusion
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-03-06|2025-03-06|Coarse graining and reduced order models for plume ejection dynamics|Ike Griss Salas|[2503.04690v1](http://arxiv.org/pdf/2503.04690v1)|
+|2025-03-06|2025-03-06|Compositional World Knowledge leads to High Utility Synthetic data|Sachit Gaudi|[2503.04687v1](http://arxiv.org/pdf/2503.04687v1)|
+|2025-03-02|2025-03-06|A Simple and Effective Reinforcement Learning Method for Text-to-Image Diffusion Fine-tuning|Shashank Gupta|[2503.00897v3](http://arxiv.org/pdf/2503.00897v3)|
+|2025-03-06|2025-03-06|The Best of Both Worlds: Integrating Language Models and Diffusion Models for Video Generation|Aoxiong Yin|[2503.04606v1](http://arxiv.org/pdf/2503.04606v1)|
 ## Update on 2025-03-05
 
 ### Physics
