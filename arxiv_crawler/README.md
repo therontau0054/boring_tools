@@ -129,6 +129,36 @@ TODO:
 
 
 
+
+## Update on 2025-03-11
+
+### Physics
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-03-10|2025-03-10|Denoising Hamiltonian Network for Physical Reasoning|Congyue Deng|[2503.07596v1](http://arxiv.org/pdf/2503.07596v1)|
+|2024-10-30|2025-03-10|Flavor Patterns of Fundamental Particles from Quantum Entanglement?|Jesse Thaler|[2410.23343v2](http://arxiv.org/pdf/2410.23343v2)|
+|2023-10-12|2025-03-10|Feshbach Resonances in Exciton-Charge-Carrier Scattering in Semiconductor Bilayers|Marcel Wagner|[2310.08729v2](http://arxiv.org/pdf/2310.08729v2)|
+|2025-03-10|2025-03-10|Genuine Continuous Quantumness|Vojtěch Kala|[2503.07574v1](http://arxiv.org/pdf/2503.07574v1)|
+|2023-12-21|2025-03-10|Probing quantum properties of black holes with a Floquet-driven optical lattice simulator|Asmae Benhemou|[2312.14058v3](http://arxiv.org/pdf/2312.14058v3)|
+|2025-03-07|2025-03-10|Dynamics of disordered quantum systems with two- and three-dimensional tensor networks|Joseph Tindall|[2503.05693v2](http://arxiv.org/pdf/2503.05693v2)|
+|2025-03-10|2025-03-10|Incentive-Compatible Recovery from Manipulated Signals, with Applications to Decentralized Physical Infrastructure|Jason Milionis|[2503.07558v1](http://arxiv.org/pdf/2503.07558v1)|
+|2024-08-07|2025-03-10|New Physics at Tera-$Z$: Precision Renormalised|Lukas Allwicher|[2408.03992v2](http://arxiv.org/pdf/2408.03992v2)|
+|2025-01-22|2025-03-10|Probing the Quantum Nature of Gravity through Classical Diffusion|Oliviero Angeli|[2501.13030v2](http://arxiv.org/pdf/2501.13030v2)|
+|2024-10-16|2025-03-10|Collimated $ γ$-flash emission along the target surface irradiated by a laser at non-grazing incidence|M. Matys|[2410.12780v2](http://arxiv.org/pdf/2410.12780v2)|
+
+### Diffusion
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-03-10|2025-03-10|Balanced Image Stylization with Style Matching Score|Yuxin Jiang|[2503.07601v1](http://arxiv.org/pdf/2503.07601v1)|
+|2025-03-10|2025-03-10|Denoising Score Distillation: From Noisy Diffusion Pretraining to One-Step High-Quality Generation|Tianyu Chen|[2503.07578v1](http://arxiv.org/pdf/2503.07578v1)|
+|2025-03-10|2025-03-10|Inductive Moment Matching|Linqi Zhou|[2503.07565v1](http://arxiv.org/pdf/2503.07565v1)|
+|2025-03-10|2025-03-10|PointVLA: Injecting the 3D World into Vision-Language-Action Models|Chengmeng Li|[2503.07511v1](http://arxiv.org/pdf/2503.07511v1)|
+|2024-05-28|2025-03-10|SoundCTM: Unifying Score-based and Consistency Models for Full-band Text-to-Sound Generation|Koichi Saito|[2405.18503v3](http://arxiv.org/pdf/2405.18503v3)|
+
+### Quantitative Finance
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-03-09|2025-03-09|Decoding the Black Box: Integrating Moral Imagination with Technical AI Governance|Krti Tallam|[2503.06411v1](http://arxiv.org/pdf/2503.06411v1)|
 ## Update on 2025-03-07
 
 ### Physics
