@@ -130,6 +130,31 @@ TODO:
 
 
 
+
+## Update on 2025-03-13
+
+### Physics
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-03-12|2025-03-12|Parsing the Language of Expression: Enhancing Symbolic Regression with Domain-Aware Symbolic Priors|Sikai Huang|[2503.09592v1](http://arxiv.org/pdf/2503.09592v1)|
+|2024-08-05|2025-03-12|A mechanism to generate varying speed of light via Higgs-dilaton coupling: Theory and cosmological applications|Hoang Ky Nguyen|[2408.02583v3](http://arxiv.org/pdf/2408.02583v3)|
+|2025-03-04|2025-03-12|The Stochastic Light Confinement of LiquidO|LiquidO Collaboration|[2503.02541v2](http://arxiv.org/pdf/2503.02541v2)|
+|2024-10-23|2025-03-12|Regulating Sommerfeld resonances for multi-state systems and higher partial waves|Aditya Parikh|[2410.18168v2](http://arxiv.org/pdf/2410.18168v2)|
+|2025-03-12|2025-03-12|Kinematic Stratifications|Veronica Calvo Cortes|[2503.09571v1](http://arxiv.org/pdf/2503.09571v1)|
+|2025-03-12|2025-03-12|Collider-quality electron bunches from an all-optical plasma photoinjector|Arohi Jain|[2503.09557v1](http://arxiv.org/pdf/2503.09557v1)|
+|2024-06-10|2025-03-12|Holographic complex potential of a quarkonium from deep learning|Mahdi Mansouri|[2406.06285v2](http://arxiv.org/pdf/2406.06285v2)|
+|2025-03-12|2025-03-12|Using Convolutional Neural Networks to Accelerate 3D Coherent Synchrotron Radiation Computations|Christopher Leon|[2503.09551v1](http://arxiv.org/pdf/2503.09551v1)|
+|2024-11-11|2025-03-12|Grounding Video Models to Actions through Goal Conditioned Exploration|Yunhao Luo|[2411.07223v2](http://arxiv.org/pdf/2411.07223v2)|
+|2025-03-12|2025-03-12|Quantum position verification in one shot: parallel repetition of the $f$-BB84 and $f$-routing protocols|Llorenç Escolà-Farràs|[2503.09544v1](http://arxiv.org/pdf/2503.09544v1)|
+
+### Diffusion
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-03-12|2025-03-12|Minimax Optimality of the Probability Flow ODE for Diffusion Models|Changxiao Cai|[2503.09583v1](http://arxiv.org/pdf/2503.09583v1)|
+|2025-03-12|2025-03-12|Block Diffusion: Interpolating Between Autoregressive and Diffusion Language Models|Marianne Arriola|[2503.09573v1](http://arxiv.org/pdf/2503.09573v1)|
+|2024-12-06|2025-03-12|DAWN-FM: Data-Aware and Noise-Informed Flow Matching for Solving Inverse Problems|Shadab Ahamed|[2412.04766v2](http://arxiv.org/pdf/2412.04766v2)|
+|2025-03-12|2025-03-12|The R2D2 Deep Neural Network Series for Scalable Non-Cartesian Magnetic Resonance Imaging|Yiwei Chen|[2503.09559v1](http://arxiv.org/pdf/2503.09559v1)|
+|2025-03-12|2025-03-12|Sparse Autoencoder as a Zero-Shot Classifier for Concept Erasing in Text-to-Image Diffusion Models|Zhihua Tian|[2503.09446v1](http://arxiv.org/pdf/2503.09446v1)|
 ## Update on 2025-03-11
 
 ### Physics
