@@ -131,6 +131,29 @@ TODO:
 
 
 
+
+## Update on 2025-03-15
+
+### Physics
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-03-13|2025-03-13|NIL: No-data Imitation Learning by Leveraging Pre-trained Video Diffusion Models|Mert Albaba|[2503.10626v1](http://arxiv.org/pdf/2503.10626v1)|
+|2020-12-08|2025-03-13|Diophantine equations with sum of cubes and cube of sum|Bogdan A. Dobrescu|[2012.04139v2](http://arxiv.org/pdf/2012.04139v2)|
+|2025-03-13|2025-03-13|VisualWebInstruct: Scaling up Multimodal Instruction Data through Web Search|Yiming Jia|[2503.10582v1](http://arxiv.org/pdf/2503.10582v1)|
+|2025-03-13|2025-03-13|Benchmarking low-power flopping-mode spin qubit fidelities in Si/SiGe devices with alloy disorder|Steve M. Young|[2503.10578v1](http://arxiv.org/pdf/2503.10578v1)|
+|2024-02-29|2025-03-13|The Role of Sequence Information in Minimal Models of Molecular Assembly|Jeremy Guntoro|[2402.19225v2](http://arxiv.org/pdf/2402.19225v2)|
+|2025-03-13|2025-03-13|The Impact of Item-Writing Flaws on Difficulty and Discrimination in Item Response Theory|Robin Schmucker|[2503.10533v1](http://arxiv.org/pdf/2503.10533v1)|
+|2022-03-08|2025-03-13|Magneto-transport signatures in periodically-driven Weyl and multi-Weyl semimetals|Shivam Yadav|[2203.04281v4](http://arxiv.org/pdf/2203.04281v4)|
+|2025-03-13|2025-03-13|Why the Brain Cannot Be a Digital Computer: History-Dependence and the Computational Limits of Consciousness|Andrew Knight|[2503.10518v1](http://arxiv.org/pdf/2503.10518v1)|
+|2025-03-11|2025-03-13|Does excellence correspond to universal inequality level? Evidences from scholarly citations and Olympic medal data|Soumyajyoti Biswas|[2503.08480v2](http://arxiv.org/pdf/2503.08480v2)|
+|2025-03-05|2025-03-13|Video Super-Resolution: All You Need is a Video Diffusion Model|Zhihao Zhan|[2503.03355v2](http://arxiv.org/pdf/2503.03355v2)|
+
+### Diffusion
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-03-13|2025-03-13|Studying Classifier(-Free) Guidance From a Classifier-Centric Perspective|Xiaoming Zhao|[2503.10638v1](http://arxiv.org/pdf/2503.10638v1)|
+|2025-03-13|2025-03-13|AudioX: Diffusion Transformer for Anything-to-Audio Generation|Zeyue Tian|[2503.10522v1](http://arxiv.org/pdf/2503.10522v1)|
+|2025-03-13|2025-03-13|Streaming Generation of Co-Speech Gestures via Accelerated Rolling Diffusion|Evgeniia Vu|[2503.10488v1](http://arxiv.org/pdf/2503.10488v1)|
 ## Update on 2025-03-13
 
 ### Physics

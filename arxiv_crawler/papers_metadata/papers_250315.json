@@ -1,0 +1,110 @@
+{
+    "Physics": [
+        {
+            "title": "NIL: No-data Imitation Learning by Leveraging Pre-trained Video Diffusion Models",
+            "authors": "Mert Albaba, Chenhao Li, Markos Diomataris, Omid Taheri, Andreas Krause, Michael Black",
+            "summary": "Acquiring physically plausible motor skills across diverse and unconventional\nmorphologies-including humanoid robots, quadrupeds, and animals-is essential\nfor advancing character simulation and robotics. Traditional methods, such as\nreinforcement learning (RL) are task- and body-specific, require extensive\nreward function engineering, and do not generalize well. Imitation learning\noffers an alternative but relies heavily on high-quality expert demonstrations,\nwhich are difficult to obtain for non-human morphologies. Video diffusion\nmodels, on the other hand, are capable of generating realistic videos of\nvarious morphologies, from humans to ants. Leveraging this capability, we\npropose a data-independent approach for skill acquisition that learns 3D motor\nskills from 2D-generated videos, with generalization capability to\nunconventional and non-human forms. Specifically, we guide the imitation\nlearning process by leveraging vision transformers for video-based comparisons\nby calculating pair-wise distance between video embeddings. Along with\nvideo-encoding distance, we also use a computed similarity between segmented\nvideo frames as a guidance reward. We validate our method on locomotion tasks\ninvolving unique body configurations. In humanoid robot locomotion tasks, we\ndemonstrate that 'No-data Imitation Learning' (NIL) outperforms baselines\ntrained on 3D motion-capture data. Our results highlight the potential of\nleveraging generative video models for physically plausible skill learning with\ndiverse morphologies, effectively replacing data collection with data\ngeneration for imitation learning.",
+            "pdf_url": "http://arxiv.org/pdf/2503.10626v1",
+            "published": "2025-03-13 17:59:24+00:00",
+            "updated": "2025-03-13 17:59:24+00:00"
+        },
+        {
+            "title": "Diophantine equations with sum of cubes and cube of sum",
+            "authors": "Bogdan A. Dobrescu, Patrick J. Fox",
+            "summary": "We solve Diophantine equations of the type $ a \\, (x^3 \\!+ \\! y^3 \\!+ \\! z^3\n) = (x \\! + \\! y \\! + \\! z)^3$, where $x,y,z$ are integer variables, and the\ncoefficient $a\\neq 0$ is rational. We show that there are infinite families of\nsuch equations, including those where $a$ is any cube or certain rational\nfractions, that have nontrivial solutions. There are also infinite families of\nequations that do not have any nontrivial solution, including those where $1/a\n= 1- 24/m$ with restrictions on the integer $m$. The equations can be\nrepresented by elliptic curves unless $a = 9$ or 1, and any elliptic curve of\nnonzero $j$-invariant and torsion group $\\mathbb{Z}/3k\\mathbb{Z}$ for $k =\n2,3,4$, or $\\mathbb{Z}/2\\mathbb{Z} \\times \\mathbb{Z}/6\\mathbb{Z} $ corresponds\nto a particular $a$. We prove that for any $a$ the number of nontrivial\nsolutions is at most 3 or is infinite, and for integer $a$ it is either 0 or\n$\\infty$. For $a = 9$, we find the general solution, which depends on two\ninteger parameters. These cubic equations are important in particle physics,\nbecause they determine the fermion charges under the $U(1)$ gauge group.",
+            "pdf_url": "http://arxiv.org/pdf/2012.04139v2",
+            "published": "2020-12-08 00:54:23+00:00",
+            "updated": "2025-03-13 17:50:54+00:00"
+        },
+        {
+            "title": "VisualWebInstruct: Scaling up Multimodal Instruction Data through Web Search",
+            "authors": "Yiming Jia, Jiachen Li, Xiang Yue, Bo Li, Ping Nie, Kai Zou, Wenhu Chen",
+            "summary": "Vision-Language Models have made significant progress on many\nperception-focused tasks, however, their progress on reasoning-focused tasks\nseem to be limited due to the lack of high-quality and diverse training data.\nIn this work, we aim to address the scarcity issue of reasoning-focused\nmultimodal datasets. We propose VisualWebInstruct - a novel approach that\nleverages search engine to create a diverse, and high-quality dataset spanning\nmultiple disciplines like math, physics, finance, chemistry, etc. Starting with\nmeticulously selected 30,000 seed images, we employ Google Image search to\nidentify websites containing similar images. We collect and process the HTMLs\nfrom over 700K unique URL sources. Through a pipeline of content extraction,\nfiltering and synthesis, we build a dataset of approximately 900K\nquestion-answer pairs, with 40% being visual QA pairs and the rest as text QA\npairs. Models fine-tuned on VisualWebInstruct demonstrate significant\nperformance gains: (1) training from Llava-OV-mid shows 10-20% absolute point\ngains across benchmarks, (2) training from MAmmoTH-VL shows 5% absoluate gain.\nOur best model MAmmoTH-VL2 shows state-of-the-art performance within the 10B\nparameter class on MMMU-Pro-std (40.7%), MathVerse (42.6%), and DynaMath\n(55.7%). These remarkable results highlight the effectiveness of our dataset in\nenhancing VLMs' reasoning capabilities for complex multimodal tasks.",
+            "pdf_url": "http://arxiv.org/pdf/2503.10582v1",
+            "published": "2025-03-13 17:32:48+00:00",
+            "updated": "2025-03-13 17:32:48+00:00"
+        },
+        {
+            "title": "Benchmarking low-power flopping-mode spin qubit fidelities in Si/SiGe devices with alloy disorder",
+            "authors": "Steve M. Young, Mitchell Brickson, Jason R. Petta, N. Tobias Jacobson",
+            "summary": "In the \"flopping-mode\" regime of electron spin resonance, a single electron\nconfined in a double quantum dot is electrically driven in the presence of a\nmagnetic field gradient. The increased dipole moment of the charge in the\nflopping mode significantly reduces the amount of power required to drive spin\nrotations. However, the susceptibility of flopping-mode spin qubits to charge\nnoise, and consequently their overall performance, has not been examined in\ndetail. In this work, we simulate single-qubit gate fidelities of electrically\ndriven spin rotations in an ensemble of devices configured to operate in both\nthe single-dot and flopping-mode regimes. Our model accounts for the valley\nphysics of conduction band electrons in silicon and realistic alloy disorder in\nthe SiGe barrier layers, allowing us to investigate device-to-device\nvariability. We include charge and magnetic noise, as well as spin relaxation\nprocesses arising from charge noise and electron-phonon coupling. We find that\nthe two operating modes exhibit significantly different susceptibilities to the\nvarious noise sources, with valley splitting and spin relaxation times also\nplaying a role in their relative performance. For realistic noise strengths, we\nfind that single-dot gate fidelities are limited by magnetic noise while\nflopping-mode fidelities are primarily limited by charge noise and spin\nrelaxation. For sufficiently long spin relaxation times, flopping-mode spin\noperation is feasible with orders-of-magnitude lower drive power and gate\nfidelities that are on par with conventional single-dot electric dipole spin\nresonance.",
+            "pdf_url": "http://arxiv.org/pdf/2503.10578v1",
+            "published": "2025-03-13 17:29:30+00:00",
+            "updated": "2025-03-13 17:29:30+00:00"
+        },
+        {
+            "title": "The Role of Sequence Information in Minimal Models of Molecular Assembly",
+            "authors": "Jeremy Guntoro, Thomas Ouldridge",
+            "summary": "Sequence-directed assembly processes - such as protein folding - allow the\nassembly of a large number of structures with high accuracy from only a small\nhandful of fundamental building blocks. We aim to explore how efficiently\nsequence information can be used to direct assembly by studying variants of the\ntemperature-1 abstract tile assembly model (aTAM). We ask whether, for each\nvariant, their exists a finite set of tile types that can deterministically\nassemble any shape producible by a given assembly model; we call such tile type\nsets \"universal assembly kits\". Our first model, which we call the \"backboned\naTAM\", generates backbone-assisted assembly by forcing tiles to be added to\nlattice positions neighbouring the immediately preceding tile, using a\npredetermined sequence of tile types. We demonstrate the existence of universal\nassembly kit for the backboned aTAM, and show that the existence of this set is\nmaintained even under stringent restrictions to the rules of assembly. We\ncompare these results to a less constrained model that we call sequenced aTAM,\nwhich also uses a predetermined sequence of tiles, but does not constrain a\ntile to neighbour the immediately preceding tiles. We prove that this model has\nno universal assembly kit in the stringent case. The lack of such a kit is\nsurprising, given that the number of tile sequences of length N scales faster\nthan both the number and worst-case Kolmogorov complexity of producible shapes\nof size N for a sufficiently large - but finite - set of tiles. Our results\ndemonstrate the importance of physical mechanisms, and specifically geometric\nconstraints, in facilitating efficient use of the information in molecular\nprograms for structure assembly.",
+            "pdf_url": "http://arxiv.org/pdf/2402.19225v2",
+            "published": "2024-02-29 14:57:04+00:00",
+            "updated": "2025-03-13 16:48:17+00:00"
+        },
+        {
+            "title": "The Impact of Item-Writing Flaws on Difficulty and Discrimination in Item Response Theory",
+            "authors": "Robin Schmucker, Steven Moore",
+            "summary": "High-quality test items are essential for educational assessments,\nparticularly within Item Response Theory (IRT). Traditional validation methods\nrely on resource-intensive pilot testing to estimate item difficulty and\ndiscrimination. More recently, Item-Writing Flaw (IWF) rubrics emerged as a\ndomain-general approach for evaluating test items based on textual features.\nHowever, their relationship to IRT parameters remains underexplored. To address\nthis gap, we conducted a study involving over 7,000 multiple-choice questions\nacross various STEM subjects (e.g., math and biology). Using an automated\napproach, we annotated each question with a 19-criteria IWF rubric and studied\nrelationships to data-driven IRT parameters. Our analysis revealed\nstatistically significant links between the number of IWFs and IRT difficulty\nand discrimination parameters, particularly in life and physical science\ndomains. We further observed how specific IWF criteria can impact item quality\nmore and less severely (e.g., negative wording vs. implausible distractors).\nOverall, while IWFs are useful for predicting IRT parameters--particularly for\nscreening low-difficulty MCQs--they cannot replace traditional data-driven\nvalidation methods. Our findings highlight the need for further research on\ndomain-general evaluation rubrics and algorithms that understand\ndomain-specific content for robust item validation.",
+            "pdf_url": "http://arxiv.org/pdf/2503.10533v1",
+            "published": "2025-03-13 16:47:07+00:00",
+            "updated": "2025-03-13 16:47:07+00:00"
+        },
+        {
+            "title": "Magneto-transport signatures in periodically-driven Weyl and multi-Weyl semimetals",
+            "authors": "Shivam Yadav, Serena Fazzini, Ipsita Mandal",
+            "summary": "We investigate the influence of a time-periodic driving (for example, by\nshining circularly polarized light) on three-dimensional Weyl and multi-Weyl\nsemimetals, in the planar Hall and planar thermal Hall set-ups. We incorporate\nthe effects of the drive by using the Floquet formalism in the large frequency\nlimit. We evaluate the longitudinal magneto conductivity, planar Hall\nconductivity, longitudinal thermo-electric coefficient, and transverse\nthermo-electric coefficient, using the semi-classical Boltzmann transport\nequations. We demonstrate the explicit expressions of these transport\ncoefficients in certain limits of the parameters, where it is possible to\nperform the integrals analytically. We cross-check our analytical\napproximations by comparing the physical values with the numerical results,\nobtained directly from the numerical integration of the integrals. The answers\nobtained show that the topological charges of the corresponding semimetals have\nprofound signatures in these transport properties, which can be observed in\nexperiments.",
+            "pdf_url": "http://arxiv.org/pdf/2203.04281v4",
+            "published": "2022-03-08 18:56:30+00:00",
+            "updated": "2025-03-13 16:37:31+00:00"
+        },
+        {
+            "title": "Why the Brain Cannot Be a Digital Computer: History-Dependence and the Computational Limits of Consciousness",
+            "authors": "Andrew Knight",
+            "summary": "This paper presents a novel information-theoretic proof demonstrating that\nthe human brain as currently understood cannot function as a classical digital\ncomputer. Through systematic quantification of distinguishable conscious states\nand their historical dependencies, we establish that the minimum information\nrequired to specify a conscious state exceeds the physical information capacity\nof the human brain by a significant factor. Our analysis calculates the\nbit-length requirements for representing consciously distinguishable sensory\n\"stimulus frames\" and demonstrates that consciousness exhibits mandatory\ntemporal-historical dependencies that multiply these requirements beyond the\nbrain's storage capabilities. This mathematical approach offers new insights\ninto the fundamental limitations of computational models of consciousness and\nsuggests that non-classical information processing mechanisms may be necessary\nto account for conscious experience.",
+            "pdf_url": "http://arxiv.org/pdf/2503.10518v1",
+            "published": "2025-03-13 16:27:42+00:00",
+            "updated": "2025-03-13 16:27:42+00:00"
+        },
+        {
+            "title": "Does excellence correspond to universal inequality level? Evidences from scholarly citations and Olympic medal data",
+            "authors": "Soumyajyoti Biswas, Bikas K. Chakrabarti, Asim Ghosh, Sourav Ghosh, M\u00e1t\u00e9 J\u00f3zsa, Zolt\u00e1n N\u00e9da",
+            "summary": "We study the inequality of citations received for different publications of\nvarious researchers and Nobel laureates in Physics, Chemistry, Medicine and\nEconomics using their Google Scholar data for the period 2012-2024. Our\nfindings reveal that citation distributions are highly unequal, with even\ngreater disparity among the Nobel laureates. We then show that measures of\ninequality, such as Gini and Kolkata indices, could be a useful indicator for\ndistinguishing the Nobel laureates from the others. It may be noted, such high\nlevel of inequality corresponds to critical point fluctuations, indicating that\nexcellence correspond to (self-organized dynamical) critical point. We also\nanalyze the inequality in the medal tally of different countries in the summer\nand winter Olympic games over the years, and find that a similar level of high\ninequality exists there as well. Our results indicate that inequality measures\ncan serve as proxies for competitiveness and excellence.",
+            "pdf_url": "http://arxiv.org/pdf/2503.08480v2",
+            "published": "2025-03-11 14:34:10+00:00",
+            "updated": "2025-03-13 16:20:51+00:00"
+        },
+        {
+            "title": "Video Super-Resolution: All You Need is a Video Diffusion Model",
+            "authors": "Zhihao Zhan, Wang Pang, Xiang Zhu, Yechao Bai",
+            "summary": "We present a generic video super-resolution algorithm in this paper, based on\nthe Diffusion Posterior Sampling framework with an unconditional video\ngeneration model in latent space. The video generation model, a diffusion\ntransformer, functions as a space-time model. We argue that a powerful model,\nwhich learns the physics of the real world, can easily handle various kinds of\nmotion patterns as prior knowledge, thus eliminating the need for explicit\nestimation of optical flows or motion parameters for pixel alignment.\nFurthermore, a single instance of the proposed video diffusion transformer\nmodel can adapt to different sampling conditions without re-training. Empirical\nresults on synthetic and real-world datasets demonstrate that our method has\nstrong capabilities to address video super-resolution challenges.",
+            "pdf_url": "http://arxiv.org/pdf/2503.03355v2",
+            "published": "2025-03-05 10:37:51+00:00",
+            "updated": "2025-03-13 16:01:32+00:00"
+        }
+    ],
+    "Diffusion": [
+        {
+            "title": "Studying Classifier(-Free) Guidance From a Classifier-Centric Perspective",
+            "authors": "Xiaoming Zhao, Alexander G. Schwing",
+            "summary": "Classifier-free guidance has become a staple for conditional generation with\ndenoising diffusion models. However, a comprehensive understanding of\nclassifier-free guidance is still missing. In this work, we carry out an\nempirical study to provide a fresh perspective on classifier-free guidance.\nConcretely, instead of solely focusing on classifier-free guidance, we trace\nback to the root, i.e., classifier guidance, pinpoint the key assumption for\nthe derivation, and conduct a systematic study to understand the role of the\nclassifier. We find that both classifier guidance and classifier-free guidance\nachieve conditional generation by pushing the denoising diffusion trajectories\naway from decision boundaries, i.e., areas where conditional information is\nusually entangled and is hard to learn. Based on this classifier-centric\nunderstanding, we propose a generic postprocessing step built upon\nflow-matching to shrink the gap between the learned distribution for a\npre-trained denoising diffusion model and the real data distribution, majorly\naround the decision boundaries. Experiments on various datasets verify the\neffectiveness of the proposed approach.",
+            "pdf_url": "http://arxiv.org/pdf/2503.10638v1",
+            "published": "2025-03-13 17:59:59+00:00",
+            "updated": "2025-03-13 17:59:59+00:00"
+        },
+        {
+            "title": "AudioX: Diffusion Transformer for Anything-to-Audio Generation",
+            "authors": "Zeyue Tian, Yizhu Jin, Zhaoyang Liu, Ruibin Yuan, Xu Tan, Qifeng Chen, Wei Xue, Yike Guo",
+            "summary": "Audio and music generation have emerged as crucial tasks in many\napplications, yet existing approaches face significant limitations: they\noperate in isolation without unified capabilities across modalities, suffer\nfrom scarce high-quality, multi-modal training data, and struggle to\neffectively integrate diverse inputs. In this work, we propose AudioX, a\nunified Diffusion Transformer model for Anything-to-Audio and Music Generation.\nUnlike previous domain-specific models, AudioX can generate both general audio\nand music with high quality, while offering flexible natural language control\nand seamless processing of various modalities including text, video, image,\nmusic, and audio. Its key innovation is a multi-modal masked training strategy\nthat masks inputs across modalities and forces the model to learn from masked\ninputs, yielding robust and unified cross-modal representations. To address\ndata scarcity, we curate two comprehensive datasets: vggsound-caps with 190K\naudio captions based on the VGGSound dataset, and V2M-caps with 6 million music\ncaptions derived from the V2M dataset. Extensive experiments demonstrate that\nAudioX not only matches or outperforms state-of-the-art specialized models, but\nalso offers remarkable versatility in handling diverse input modalities and\ngeneration tasks within a unified architecture. The code and datasets will be\navailable at https://zeyuet.github.io/AudioX/",
+            "pdf_url": "http://arxiv.org/pdf/2503.10522v1",
+            "published": "2025-03-13 16:30:59+00:00",
+            "updated": "2025-03-13 16:30:59+00:00"
+        },
+        {
+            "title": "Streaming Generation of Co-Speech Gestures via Accelerated Rolling Diffusion",
+            "authors": "Evgeniia Vu, Andrei Boiarov, Dmitry Vetrov",
+            "summary": "Generating co-speech gestures in real time requires both temporal coherence\nand efficient sampling. We introduce Accelerated Rolling Diffusion, a novel\nframework for streaming gesture generation that extends rolling diffusion\nmodels with structured progressive noise scheduling, enabling seamless\nlong-sequence motion synthesis while preserving realism and diversity. We\nfurther propose Rolling Diffusion Ladder Acceleration (RDLA), a new approach\nthat restructures the noise schedule into a stepwise ladder, allowing multiple\nframes to be denoised simultaneously. This significantly improves sampling\nefficiency while maintaining motion consistency, achieving up to a 2x speedup\nwith high visual fidelity and temporal coherence. We evaluate our approach on\nZEGGS and BEAT, strong benchmarks for real-world applicability. Our framework\nis universally applicable to any diffusion-based gesture generation model,\ntransforming it into a streaming approach. Applied to three state-of-the-art\nmethods, it consistently outperforms them, demonstrating its effectiveness as a\ngeneralizable and efficient solution for real-time, high-fidelity co-speech\ngesture synthesis.",
+            "pdf_url": "http://arxiv.org/pdf/2503.10488v1",
+            "published": "2025-03-13 15:54:45+00:00",
+            "updated": "2025-03-13 15:54:45+00:00"
+        }
+    ]
+}
