@@ -132,6 +132,36 @@ TODO:
 
 
 
+
+## Update on 2025-03-17
+
+### Physics
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2024-11-04|2025-03-14|On the phase diagram of extensive-rank symmetric matrix denoising beyond rotational invariance|Jean Barbier|[2411.01974v2](http://arxiv.org/pdf/2411.01974v2)|
+|2025-03-14|2025-03-14|Self-Supervised Learning Strategies for Jet Physics|Patrick Rieck|[2503.11632v1](http://arxiv.org/pdf/2503.11632v1)|
+|2025-03-14|2025-03-14|Direct observation of angular momentum transfer among crystal lattice modes|Olga Minakova|[2503.11626v1](http://arxiv.org/pdf/2503.11626v1)|
+|2025-03-14|2025-03-14|Noise immunity in quantum optical systems through non-Hermitian topology|Jamison Sloan|[2503.11620v1](http://arxiv.org/pdf/2503.11620v1)|
+|2024-08-27|2025-03-14|Deep thermalization under charge-conserving quantum dynamics|Rui-An Chang|[2408.15325v2](http://arxiv.org/pdf/2408.15325v2)|
+|2025-03-14|2025-03-14|Floquet-ADAPT-VQE: A Quantum Algorithm to Simulate Non-Equilibrium Physics in Periodically Driven Systems|Abhishek Kumar|[2503.11613v1](http://arxiv.org/pdf/2503.11613v1)|
+|2025-03-13|2025-03-14|Model-Agnostic Knowledge Guided Correction for Improved Neural Surrogate Rollout|Bharat Srikishan|[2503.10048v2](http://arxiv.org/pdf/2503.10048v2)|
+|2025-03-14|2025-03-14|Penguin decays of B mesons|Aritra Biswas|[2503.11587v1](http://arxiv.org/pdf/2503.11587v1)|
+|2024-12-19|2025-03-14|The Line operators in the G2HDM model|Rui Yang|[2412.14949v2](http://arxiv.org/pdf/2412.14949v2)|
+|2025-03-14|2025-03-14|Nonlinear optical metasurfaces empowered by bound-states in the continuum|Ji Tong Wang|[2503.11581v1](http://arxiv.org/pdf/2503.11581v1)|
+
+### Diffusion
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-03-14|2025-03-14|From Denoising Score Matching to Langevin Sampling: A Fine-Grained Error Analysis in the Gaussian Setting|Samuel Hurault|[2503.11615v1](http://arxiv.org/pdf/2503.11615v1)|
+|2024-12-26|2025-03-14|Master Stability Functions in Complex Networks|Suman Acharyya|[2412.19163v2](http://arxiv.org/pdf/2412.19163v2)|
+|2023-09-29|2025-03-14|Towards Few-Call Model Stealing via Active Self-Paced Knowledge Distillation and Diffusion-Based Image Generation|Vlad Hondru|[2310.00096v2](http://arxiv.org/pdf/2310.00096v2)|
+|2025-03-14|2025-03-14|Bottom-up Iterative Anomalous Diffusion Detector (BI-ADD)|Junwoo Park|[2503.11529v1](http://arxiv.org/pdf/2503.11529v1)|
+|2025-03-14|2025-03-14|Towards A Correct Usage of Cryptography in Semantic Watermarks for Diffusion Models|Jonas Thietke|[2503.11404v1](http://arxiv.org/pdf/2503.11404v1)|
+
+### Quantitative Finance
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-03-13|2025-03-13|Chat-TS: Enhancing Multi-Modal Reasoning Over Time-Series and Natural Language Data|Paul Quinlan|[2503.10883v1](http://arxiv.org/pdf/2503.10883v1)|
 ## Update on 2025-03-15
 
 ### Physics
