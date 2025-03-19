@@ -133,6 +133,31 @@ TODO:
 
 
 
+
+## Update on 2025-03-19
+
+### Physics
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-03-18|2025-03-18|Scalable and fault-tolerant preparation of encoded k-uniform states|Shayan Majidy|[2503.14506v1](http://arxiv.org/pdf/2503.14506v1)|
+|2025-03-18|2025-03-18|Cosmos-Transfer1: Conditional World Generation with Adaptive Multimodal Control|NVIDIA|[2503.14492v1](http://arxiv.org/pdf/2503.14492v1)|
+|2025-03-01|2025-03-18|A Comprehensive Framework for Electroweak Phase Transitions: Thermal History and Dynamics from Bubble Nucleation to Percolation|Haibin Chen|[2503.00421v2](http://arxiv.org/pdf/2503.00421v2)|
+|2025-03-18|2025-03-18|EnQode: Fast Amplitude Embedding for Quantum Machine Learning Using Classical Data|Jason Han|[2503.14473v1](http://arxiv.org/pdf/2503.14473v1)|
+|2025-03-18|2025-03-18|Demonstration of High-Fidelity Entangled Logical Qubits using Transmons|Arian Vezvaee|[2503.14472v1](http://arxiv.org/pdf/2503.14472v1)|
+|2025-03-18|2025-03-18|Rods in flows: the PDE theory of immersed elastic filaments|Dallas Albritton|[2503.14440v1](http://arxiv.org/pdf/2503.14440v1)|
+|2025-03-17|2025-03-18|Discovery of a Glueball-like particle X(2370) at BESIII|Yanping Huang|[2503.13286v2](http://arxiv.org/pdf/2503.13286v2)|
+|2025-03-18|2025-03-18|Functional classification of metabolic networks|Jorge Reyes|[2503.14437v1](http://arxiv.org/pdf/2503.14437v1)|
+|2025-03-18|2025-03-18|Magnetotransport of tomographic electrons in a channel|Nitay Ben-Shachar|[2503.14431v1](http://arxiv.org/pdf/2503.14431v1)|
+|2025-01-07|2025-03-18|Cosmos World Foundation Model Platform for Physical AI|NVIDIA|[2501.03575v2](http://arxiv.org/pdf/2501.03575v2)|
+
+### Diffusion
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-03-18|2025-03-18|MusicInfuser: Making Video Diffusion Listen and Dance|Susung Hong|[2503.14505v1](http://arxiv.org/pdf/2503.14505v1)|
+|2025-03-18|2025-03-18|The Power of Context: How Multimodality Improves Image Super-Resolution|Kangfu Mei|[2503.14503v1](http://arxiv.org/pdf/2503.14503v1)|
+|2025-03-18|2025-03-18|DiffMoE: Dynamic Token Selection for Scalable Diffusion Transformers|Minglei Shi|[2503.14487v1](http://arxiv.org/pdf/2503.14487v1)|
+|2025-03-08|2025-03-18|Text-to-3D Generation using Jensen-Shannon Score Distillation|Khoi Do|[2503.10660v2](http://arxiv.org/pdf/2503.10660v2)|
+|2025-03-18|2025-03-18|MagicComp: Training-free Dual-Phase Refinement for Compositional Video Generation|Hongyu Zhang|[2503.14428v1](http://arxiv.org/pdf/2503.14428v1)|
 ## Update on 2025-03-17
 
 ### Physics
