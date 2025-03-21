@@ -134,6 +134,36 @@ TODO:
 
 
 
+
+## Update on 2025-03-21
+
+### Physics
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-03-20|2025-03-20|Apparent $w<-1$ and a Lower $S_8$ from Dark Axion and Dark Baryons Interactions|Justin Khoury|[2503.16415v1](http://arxiv.org/pdf/2503.16415v1)|
+|2025-03-20|2025-03-20|RoboFactory: Exploring Embodied Agent Collaboration with Compositional Constraints|Yiran Qin|[2503.16408v1](http://arxiv.org/pdf/2503.16408v1)|
+|2025-02-28|2025-03-20|Hamiltonian Neural Networks approach to fuzzball geodesics|Andrea Cipriani|[2502.20881v2](http://arxiv.org/pdf/2502.20881v2)|
+|2025-02-26|2025-03-20|Enhancing the Scalability and Applicability of Kohn-Sham Hamiltonians for Molecular Systems|Yunyang Li|[2502.19227v2](http://arxiv.org/pdf/2502.19227v2)|
+|2025-03-20|2025-03-20|Heat transfer and mixing in initiated Chemical Vapor Deposition analyzed by in-situ gas composition sensing|Simon Shindler|[2503.16373v1](http://arxiv.org/pdf/2503.16373v1)|
+|2025-03-20|2025-03-20|Fluctuation Relations associated to an arbitrary bijection in path space|Raphael Chetrite|[2503.16369v1](http://arxiv.org/pdf/2503.16369v1)|
+|2025-03-20|2025-03-20|Neural Networks: According to the Principles of Grassmann Algebra|Z. Zarezadeh|[2503.16364v1](http://arxiv.org/pdf/2503.16364v1)|
+|2025-03-03|2025-03-20|On a hyperbolic Duffing oscillator with linear damping and periodic forcing|Alain M. Dikandé|[2503.01196v2](http://arxiv.org/pdf/2503.01196v2)|
+|2025-03-20|2025-03-20|Real-time simulations of laser-induced electron excitations in crystalline ZnO|Xiao Chen|[2503.16329v1](http://arxiv.org/pdf/2503.16329v1)|
+|2025-01-29|2025-03-20|A trilinear quantum dot architecture for semiconductor spin qubits|R. Li|[2501.17814v2](http://arxiv.org/pdf/2501.17814v2)|
+
+### Diffusion
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-03-20|2025-03-20|InfiniteYou: Flexible Photo Recrafting While Preserving Your Identity|Liming Jiang|[2503.16418v1](http://arxiv.org/pdf/2503.16418v1)|
+|2025-03-20|2025-03-20|DreamTexture: Shape from Virtual Texture with Analysis by Augmentation|Ananta R. Bhattarai|[2503.16412v1](http://arxiv.org/pdf/2503.16412v1)|
+|2025-03-20|2025-03-20|ScalingNoise: Scaling Inference-Time Search for Generating Infinite Videos|Haolin Yang|[2503.16400v1](http://arxiv.org/pdf/2503.16400v1)|
+|2025-03-20|2025-03-20|Do Visual Imaginations Improve Vision-and-Language Navigation Agents?|Akhil Perincherry|[2503.16394v1](http://arxiv.org/pdf/2503.16394v1)|
+|2025-03-20|2025-03-20|Unleashing Vecset Diffusion Model for Fast Shape Generation|Zeqiang Lai|[2503.16302v1](http://arxiv.org/pdf/2503.16302v1)|
+
+### Quantitative Finance
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-03-20|2025-03-20|Exploring the Reliability of Self-explanation and its Relationship with Classification in Language Model-driven Financial Analysis|Han Yuan|[2503.15985v1](http://arxiv.org/pdf/2503.15985v1)|
 ## Update on 2025-03-19
 
 ### Physics
