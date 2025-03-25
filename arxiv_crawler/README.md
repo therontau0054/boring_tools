@@ -135,6 +135,31 @@ TODO:
 
 
 
+
+## Update on 2025-03-25
+
+### Physics
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-03-24|2025-03-24|Aether: Geometric-Aware Unified World Modeling|Aether Team|[2503.18945v1](http://arxiv.org/pdf/2503.18945v1)|
+|2025-03-24|2025-03-24|Multimodality in the search for new physics in pulsar timing data and the case of kination-amplified gravitational-wave background from inflation|Bohua Li|[2503.18937v1](http://arxiv.org/pdf/2503.18937v1)|
+|2025-03-12|2025-03-24|Renormalising the Field-Space Geometry|Patrick Aigner|[2503.09785v2](http://arxiv.org/pdf/2503.09785v2)|
+|2025-01-20|2025-03-24|A Grad-Shafranov model for compact quasisymmetric stellarators|Nikita Nikulsin|[2501.11424v2](http://arxiv.org/pdf/2501.11424v2)|
+|2025-03-24|2025-03-24|Design of an aluminum nitride based electro-optic phase modulator and photonic switch for next generation scalable photonic integrated circuits|Suat Icli|[2503.18861v1](http://arxiv.org/pdf/2503.18861v1)|
+|2025-03-24|2025-03-24|Self-Organizing Graph Reasoning Evolves into a Critical State for Continuous Discovery Through Structural-Semantic Dynamics|Markus J. Buehler|[2503.18852v1](http://arxiv.org/pdf/2503.18852v1)|
+|2025-03-24|2025-03-24|The isoscalar octet axial form factor of the nucleon from lattice QCD|Alessandro Barone|[2503.18848v1](http://arxiv.org/pdf/2503.18848v1)|
+|2025-02-05|2025-03-24|Cherenkov emission by a fast-moving uncharged Schwarzschild black hole|Sergei Khlebnikov|[2502.02811v3](http://arxiv.org/pdf/2502.02811v3)|
+|2024-11-17|2025-03-24|Connecting Gravity and Quantum Physics: Primordial Black Holes and Accelerated Evolution of the Universe|Victor Borsevici|[2411.11047v3](http://arxiv.org/pdf/2411.11047v3)|
+|2025-03-24|2025-03-24|Streaming Federated Learning with Markovian Data|Tan-Khiem Huynh|[2503.18807v1](http://arxiv.org/pdf/2503.18807v1)|
+
+### Diffusion
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-03-24|2025-03-24|A semantic communication-based workload-adjustable transceiver for wireless AI-generated content (AIGC) delivery|Runze Cheng|[2503.18874v1](http://arxiv.org/pdf/2503.18874v1)|
+|2025-03-24|2025-03-24|Dual-domain Multi-path Self-supervised Diffusion Model for Accelerated MRI Reconstruction|Yuxuan Zhang|[2503.18836v1](http://arxiv.org/pdf/2503.18836v1)|
+|2024-12-16|2025-03-24|Quantifying Climate Change Impacts on Renewable Energy Generation: A Super-Resolution Recurrent Diffusion Model|Xiaochong Dong|[2412.11399v2](http://arxiv.org/pdf/2412.11399v2)|
+|2025-02-11|2025-03-24|MaRS: A Fast Sampler for Mean Reverting Diffusion based on ODE and SDE Solvers|Ao Li|[2502.07856v4](http://arxiv.org/pdf/2502.07856v4)|
+|2025-03-24|2025-03-24|Thermalizer: Stable autoregressive neural emulation of spatiotemporal chaos|Chris Pedersen|[2503.18731v1](http://arxiv.org/pdf/2503.18731v1)|
 ## Update on 2025-03-21
 
 ### Physics
