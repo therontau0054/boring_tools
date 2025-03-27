@@ -136,6 +136,30 @@ TODO:
 
 
 
+
+## Update on 2025-03-27
+
+### Physics
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2024-03-18|2025-03-26|A Pretraining-Finetuning Computational Framework for Material Homogenization|Yizheng Wang|[2404.07943v2](http://arxiv.org/pdf/2404.07943v2)|
+|2025-03-26|2025-03-26|On the magnetic perturbation theory for Chern insulators|Horia D. Cornean|[2503.20763v1](http://arxiv.org/pdf/2503.20763v1)|
+|2025-03-26|2025-03-26|Stabilizing Neural Likelihood Ratio Estimation|Fernando Torales Acosta|[2503.20753v1](http://arxiv.org/pdf/2503.20753v1)|
+|2025-03-26|2025-03-26|Accelerated State Expansion of a Nanoparticle in a Dark Inverted Potential|Gregoire F. M. Tomassi|[2503.20707v1](http://arxiv.org/pdf/2503.20707v1)|
+|2025-03-26|2025-03-26|CyberDiver: an untethered robotic impactor for water-entry experiments|John T. Antolik|[2503.20702v1](http://arxiv.org/pdf/2503.20702v1)|
+|2025-03-26|2025-03-26|Low-Energy Constants of Chiral Perturbation Theory from Pion Scalar Form Factors in $N_f=2+1$-Flavor Lattice QCD with Controlled Errors|Georg von Hippel|[2503.20689v1](http://arxiv.org/pdf/2503.20689v1)|
+|2025-03-26|2025-03-26|The Scalar Size of the Pion from Lattice QCD|Konstantin Ottnad|[2503.20687v1](http://arxiv.org/pdf/2503.20687v1)|
+|2025-03-17|2025-03-26|Towards Scalable Foundation Model for Multi-modal and Hyperspectral Geospatial Data|Haozhe Si|[2503.12843v3](http://arxiv.org/pdf/2503.12843v3)|
+|2024-11-22|2025-03-26|Jet Substructure Analysis for Distinguishing Left- and Right-Handed Couplings of Heavy Neutrino in $W'$ Decay at the HL-LHC|Songshaptak De|[2411.14910v2](http://arxiv.org/pdf/2411.14910v2)|
+
+### Diffusion
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-03-26|2025-03-26|High Quality Diffusion Distillation on a Single GPU with Relative and Absolute Position Matching|Guoqiang Zhang|[2503.20744v1](http://arxiv.org/pdf/2503.20744v1)|
+|2025-03-26|2025-03-26|RecTable: Fast Modeling Tabular Data with Rectified Flow|Masane Fuchi|[2503.20731v1](http://arxiv.org/pdf/2503.20731v1)|
+|2025-03-26|2025-03-26|A weakly-supervised deep learning model for fast localisation and delineation of the skeleton, internal organs, and spinal canal on Whole-Body Diffusion-Weighted MRI (WB-DWI)|A. Candito|[2503.20722v1](http://arxiv.org/pdf/2503.20722v1)|
+|2024-05-23|2025-03-26|Text-to-Model: Text-Conditioned Neural Network Diffusion for Train-Once-for-All Personalization|Zexi Li|[2405.14132v2](http://arxiv.org/pdf/2405.14132v2)|
+|2024-06-10|2025-03-26|Data Augmentation in Earth Observation: A Diffusion Model Approach|Tiago Sousa|[2406.06218v2](http://arxiv.org/pdf/2406.06218v2)|
 ## Update on 2025-03-25
 
 ### Physics
