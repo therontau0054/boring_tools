@@ -137,6 +137,36 @@ TODO:
 
 
 
+
+## Update on 2025-03-29
+
+### Physics
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-03-27|2025-03-27|Emergent Non-Markovian Gain in Open Quantum Systems|H. Z. Shen|[2503.21739v1](http://arxiv.org/pdf/2503.21739v1)|
+|2025-01-22|2025-03-27|A Selective Homomorphic Encryption Approach for Faster Privacy-Preserving Federated Learning|Abdulkadir Korkmaz|[2501.12911v3](http://arxiv.org/pdf/2501.12911v3)|
+|2025-03-27|2025-03-27|Global isotopic analysis of rotational spectroscopic data for barium monofluoride, BaF|Alex Preston|[2503.21688v1](http://arxiv.org/pdf/2503.21688v1)|
+|2024-10-22|2025-03-27|Everything everywhere all at once: a probability-based enhanced sampling approach to rare events|Enrico Trizio|[2410.17029v4](http://arxiv.org/pdf/2410.17029v4)|
+|2025-03-27|2025-03-27|Continuous and Discrete Symmetries in a 4D Field-Theoretic Model: Symmetry Operators and Their Algebraic Structures|R. P. Malik|[2503.21680v1](http://arxiv.org/pdf/2503.21680v1)|
+|2025-03-27|2025-03-27|Cognitive Science-Inspired Evaluation of Core Capabilities for Object Understanding in AI|Danaja Rutar|[2503.21668v1](http://arxiv.org/pdf/2503.21668v1)|
+|2025-03-27|2025-03-27|Fracton and Non-Lorentzian Particle Duality: Gauge Field Couplings and Geometric Implications|M. M. Ahmadi-Jahmani|[2503.21660v1](http://arxiv.org/pdf/2503.21660v1)|
+|2025-03-27|2025-03-27|Logging the conformal life of Ramanujan's $π$|Faizan Bhat|[2503.21656v1](http://arxiv.org/pdf/2503.21656v1)|
+|2024-03-04|2025-03-27|Electric conductivity in graphene: Kubo model versus a nonlocal quantum field theory model|Pablo Rodriguez-Lopez|[2403.02279v3](http://arxiv.org/pdf/2403.02279v3)|
+|2025-03-27|2025-03-27|Vortex-Free Intrinsic Orbital Angular Momentum|Wenxiang Yan|[2503.21632v1](http://arxiv.org/pdf/2503.21632v1)|
+
+### Diffusion
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-03-27|2025-03-27|StyleMotif: Multi-Modal Motion Stylization using Style-Content Cross Fusion|Ziyu Guo|[2503.21775v1](http://arxiv.org/pdf/2503.21775v1)|
+|2025-03-27|2025-03-27|A Unified Framework for Diffusion Bridge Problems: Flow Matching and Schrödinger Matching into One|Minyoung Kim|[2503.21756v1](http://arxiv.org/pdf/2503.21756v1)|
+|2025-02-10|2025-03-27|TripoSG: High-Fidelity 3D Shape Synthesis using Large-Scale Rectified Flow Models|Yangguang Li|[2502.06608v3](http://arxiv.org/pdf/2502.06608v3)|
+|2025-03-25|2025-03-27|Adaptive Orchestration for Large-Scale Inference on Heterogeneous Accelerator Systems Balancing Cost, Performance, and Resilience|Yahav Biran|[2503.20074v2](http://arxiv.org/pdf/2503.20074v2)|
+|2025-03-27|2025-03-27|Progressive Rendering Distillation: Adapting Stable Diffusion for Instant Text-to-Mesh Generation without 3D Data|Zhiyuan Ma|[2503.21694v1](http://arxiv.org/pdf/2503.21694v1)|
+
+### Quantitative Finance
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-03-27|2025-03-27|From Deep Learning to LLMs: A survey of AI in Quantitative Investment|Bokai Cao|[2503.21422v1](http://arxiv.org/pdf/2503.21422v1)|
 ## Update on 2025-03-27
 
 ### Physics
