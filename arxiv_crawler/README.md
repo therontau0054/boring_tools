@@ -138,6 +138,36 @@ TODO:
 
 
 
+
+## Update on 2025-04-01
+
+### Physics
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-03-31|2025-03-31|How interacting Bose gases scatter light|Konstantinos Konstantinou|[2503.24386v1](http://arxiv.org/pdf/2503.24386v1)|
+|2025-03-31|2025-03-31|Transverse orbital angular momentum: setting the record straight|N. Tripathi|[2503.24375v1](http://arxiv.org/pdf/2503.24375v1)|
+|2025-03-31|2025-03-31|Exploring light propagation in nonlinear electrodynamics: phase and group velocities and related phenomena|T. W. Cruz|[2503.24369v1](http://arxiv.org/pdf/2503.24369v1)|
+|2025-03-31|2025-03-31|The structure and topology of an amorphous metal-organic framework|Thomas C. Nicholas|[2503.24367v1](http://arxiv.org/pdf/2503.24367v1)|
+|2025-03-31|2025-03-31|Projections for Key Measurements in Heavy Flavour Physics|The ATLAS|[2503.24346v1](http://arxiv.org/pdf/2503.24346v1)|
+|2025-03-31|2025-03-31|Quantum algorithms for cooling: a simple case study|Daniel Molpeceres|[2503.24330v1](http://arxiv.org/pdf/2503.24330v1)|
+|2025-03-31|2025-03-31|Thermal transport in superconductor heterostructures: some recent progress|Paramita Dutta|[2503.24327v1](http://arxiv.org/pdf/2503.24327v1)|
+|2025-03-31|2025-03-31|Resolving the baryon assymmetry with RATS|J. Josiek|[2503.24319v1](http://arxiv.org/pdf/2503.24319v1)|
+|2025-03-25|2025-03-31|A Linear Collider Vision for the Future of Particle Physics|H. Abramowicz|[2503.19983v2](http://arxiv.org/pdf/2503.19983v2)|
+|2024-09-16|2025-03-31|Which features of quantum physics are not fundamentally quantum but are due to indeterminism?|Flavio Del Santo|[2409.10601v3](http://arxiv.org/pdf/2409.10601v3)|
+
+### Diffusion
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-03-31|2025-03-31|ORAL: Prompting Your Large-Scale LoRAs via Conditional Recurrent Diffusion|Rana Muhammad Shahroz Khan|[2503.24354v1](http://arxiv.org/pdf/2503.24354v1)|
+|2025-03-31|2025-03-31|NoProp: Training Neural Networks without Back-propagation or Forward-propagation|Qinyu Li|[2503.24322v1](http://arxiv.org/pdf/2503.24322v1)|
+|2025-03-31|2025-03-31|Enhancing Image Resolution of Solar Magnetograms: A Latent Diffusion Model Approach|Francesco Pio Ramunno|[2503.24271v1](http://arxiv.org/pdf/2503.24271v1)|
+|2025-03-31|2025-03-31|Visual Acoustic Fields|Yuelei Li|[2503.24270v1](http://arxiv.org/pdf/2503.24270v1)|
+|2025-03-31|2025-03-31|DiET-GS: Diffusion Prior and Event Stream-Assisted Motion Deblurring 3D Gaussian Splatting|Seungjun Lee|[2503.24210v1](http://arxiv.org/pdf/2503.24210v1)|
+
+### Quantitative Finance
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-03-26|2025-03-26|CSPO: Cross-Market Synergistic Stock Price Movement Forecasting with Pseudo-volatility Optimization|Sida Lin|[2503.22740v1](http://arxiv.org/pdf/2503.22740v1)|
 ## Update on 2025-03-29
 
 ### Physics
