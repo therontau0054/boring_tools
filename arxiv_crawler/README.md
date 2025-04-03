@@ -139,6 +139,31 @@ TODO:
 
 
 
+
+## Update on 2025-04-03
+
+### Physics
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2023-11-15|2025-04-02|Accurate and Honest Approximation of Correlated Qubit Noise|F. Setiawan|[2311.09305v2](http://arxiv.org/pdf/2311.09305v2)|
+|2023-07-26|2025-04-02|Limits to Analog Reservoir Learning|Anthony M. Polloreno|[2307.14474v3](http://arxiv.org/pdf/2307.14474v3)|
+|2024-11-19|2025-04-02|Exceptional Points and Stability in Nonlinear Models of Population Dynamics having $\mathcal{PT}$ symmetry|Alexander Felski|[2411.12167v2](http://arxiv.org/pdf/2411.12167v2)|
+|2025-02-05|2025-04-02|Multidisciplinary Science in the Multimessenger Era|Eric Burns|[2502.03577v2](http://arxiv.org/pdf/2502.03577v2)|
+|2024-04-22|2025-04-02|Deviation from $μ-τ$ Symmetry with New Approaches|Pralay Chakraborty|[2404.14264v2](http://arxiv.org/pdf/2404.14264v2)|
+|2025-04-02|2025-04-02|Representing Flow Fields with Divergence-Free Kernels for Reconstruction|Xingyu Ni|[2504.01913v1](http://arxiv.org/pdf/2504.01913v1)|
+|2025-04-02|2025-04-02|Advancing AI-Scientist Understanding: Making LLM Think Like a Physicist with Interpretable Reasoning|Yinggan Xu|[2504.01911v1](http://arxiv.org/pdf/2504.01911v1)|
+|2025-03-18|2025-04-02|Cosmos-Reason1: From Physical Common Sense To Embodied Reasoning|NVIDIA|[2503.15558v2](http://arxiv.org/pdf/2503.15558v2)|
+|2025-04-02|2025-04-02|The Trinity of black hole correspondences: Shadows-quasinormal modes-graybody factors and cautionary remarks|Davide Pedrotti|[2504.01909v1](http://arxiv.org/pdf/2504.01909v1)|
+|2025-04-02|2025-04-02|Physical Modeling of Saturated Common Mode Choke|Anna Takacs|[2504.01900v1](http://arxiv.org/pdf/2504.01900v1)|
+
+### Diffusion
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-04-02|2025-04-02|Diffusion-Guided Gaussian Splatting for Large-Scale Unconstrained 3D Reconstruction and Novel View Synthesis|Niluthpol Chowdhury Mithun|[2504.01960v1](http://arxiv.org/pdf/2504.01960v1)|
+|2025-04-02|2025-04-02|Deep Representation Learning for Unsupervised Clustering of Myocardial Fiber Trajectories in Cardiac Diffusion Tensor Imaging|Mohini Anand|[2504.01953v1](http://arxiv.org/pdf/2504.01953v1)|
+|2025-04-02|2025-04-02|A Unified Approach to Analysis and Design of Denoising Markov Models|Yinuo Ren|[2504.01938v1](http://arxiv.org/pdf/2504.01938v1)|
+|2025-04-02|2025-04-02|Equivariant Spherical CNNs for Accurate Fiber Orientation Distribution Estimation in Neonatal Diffusion MRI with Reduced Acquisition Time|Haykel Snoussi|[2504.01925v1](http://arxiv.org/pdf/2504.01925v1)|
+|2025-04-02|2025-04-02|Multi-fidelity Parameter Estimation Using Conditional Diffusion Models|Caroline Tatsuoka|[2504.01894v1](http://arxiv.org/pdf/2504.01894v1)|
 ## Update on 2025-04-01
 
 ### Physics
