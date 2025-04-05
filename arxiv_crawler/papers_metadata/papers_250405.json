@@ -1,0 +1,126 @@
+{
+    "Physics": [
+        {
+            "title": "Bubbles in a box: Eliminating edge nucleation in cold-atom simulators of vacuum decay",
+            "authors": "Alexander C. Jenkins, Hiranya V. Peiris, Andrew Pontzen",
+            "summary": "The decay of metastable 'false vacuum' states via bubble nucleation plays a\ncrucial role in many cosmological scenarios. Cold-atom analog experiments will\nsoon provide the first empirical probes of this process, with potentially\nfar-reaching implications for early-Universe cosmology and high-energy physics.\nHowever, an inevitable difference between these analog systems and the early\nUniverse is that the former have a boundary. We show, using a combination of\nEuclidean calculations and real-time lattice simulations, that these boundaries\ngenerically cause rapid bubble nucleation on the edge of the experiment,\nobscuring the bulk nucleation that is relevant for cosmology. We demonstrate\nthat implementing a high-density 'trench' region at the boundary completely\neliminates this problem, and recovers the desired cosmological behavior. Our\nfindings are relevant for ongoing efforts to probe vacuum decay in the\nlaboratory, providing a practical solution to a key experimental obstacle.",
+            "pdf_url": "http://arxiv.org/pdf/2504.02829v1",
+            "published": "2025-04-03 17:59:59+00:00",
+            "updated": "2025-04-03 17:59:59+00:00"
+        },
+        {
+            "title": "Do Two AI Scientists Agree?",
+            "authors": "Xinghong Fu, Ziming Liu, Max Tegmark",
+            "summary": "When two AI models are trained on the same scientific task, do they learn the\nsame theory or two different theories? Throughout history of science, we have\nwitnessed the rise and fall of theories driven by experimental validation or\nfalsification: many theories may co-exist when experimental data is lacking,\nbut the space of survived theories become more constrained with more\nexperimental data becoming available. We show the same story is true for AI\nscientists. With increasingly more systems provided in training data, AI\nscientists tend to converge in the theories they learned, although sometimes\nthey form distinct groups corresponding to different theories. To\nmechanistically interpret what theories AI scientists learn and quantify their\nagreement, we propose MASS, Hamiltonian-Lagrangian neural networks as AI\nScientists, trained on standard problems in physics, aggregating training\nresults across many seeds simulating the different configurations of AI\nscientists. Our findings suggests for AI scientists switch from learning a\nHamiltonian theory in simple setups to a Lagrangian formulation when more\ncomplex systems are introduced. We also observe strong seed dependence of the\ntraining dynamics and final learned weights, controlling the rise and fall of\nrelevant theories. We finally demonstrate that not only can our neural networks\naid interpretability, it can also be applied to higher dimensional problems.",
+            "pdf_url": "http://arxiv.org/pdf/2504.02822v1",
+            "published": "2025-04-03 17:58:44+00:00",
+            "updated": "2025-04-03 17:58:44+00:00"
+        },
+        {
+            "title": "Excitation of the Glashow resonance without neutrino beams",
+            "authors": "I. Alikhanov",
+            "summary": "The $s$-channel process $\\bar\\nu_ee^-\\rightarrow W^-$(on-shell) is now\nreferred to as the Glashow resonance and being searched for at kilometer-scale\nneutrino ice/water detectors like IceCube, Baikal-GVD or KM3NeT. After over a\ndecade of observations, IceCube has recorded only a few relevant neutrino\nevents such that further exploration yet remains necessary for unambiguous\nconfirmation of the existence of this resonant interaction. Meanwhile, its\nexperimental discovery would provide an additional important test of the\nStandard Model. One might therefore ask: are there reactions with the Glashow\nresonance that would not necessitate having initial (anti)neutrino beams? This\narticle suggests a surprisingly positive answer to the question $-$ namely,\nthat the process may proceed in electron-positron collisions at accelerator\nenergies, occurring as $e^+e^-\\rightarrow W^-\\rho(770)^+$. Although the\nresonance appears somewhat disguised, the underlying physics is transparent,\nquite resembling the well known radiative return: emission of $\\rho^+$ from the\ninitial state converts the incident $e^+$ into $\\bar\\nu_e$. Likewise, the CP\nconjugate channel, $\\nu_e e^+\\rightarrow W^+$, takes the form\n$e^+e^-\\rightarrow W^+\\rho(770)^-$. Similar reactions with muons are also\npossible. Within this viewpoint, future high-luminosity lepton colliders seem\nto be promising for excitation of the Glashow resonance in laboratory\nconditions.",
+            "pdf_url": "http://arxiv.org/pdf/2504.02820v1",
+            "published": "2025-04-03 17:58:20+00:00",
+            "updated": "2025-04-03 17:58:20+00:00"
+        },
+        {
+            "title": "Quantum theory does not need complex numbers",
+            "authors": "Timothee Hoffreumon, Mischa P. Woods",
+            "summary": "The longstanding debate over whether quantum theory fundamentally requires\ncomplex numbers--or if their use is merely a convenient choice--has persisted\nfor decades. Until recently, this question was considered open. However, in\n[M.-O. Renou et al, Nature 600, 625-629, 2021], a decisive argument was\npresented asserting that quantum theory needs complex numbers. In this work, we\ndemonstrate that a formulation of quantum theory based solely on real numbers\nis indeed possible while retaining key features such as theory-representation\nlocality (i.e. local physical operations are represented by local changes to\nthe states) and the positive semi-definiteness of its states and effects. We\nobserve that the standard system combination rule--the tensor product--was\nderived after the development of single-system complex quantum theory. By\nstarting from a single-system quantum theory using only real numbers, we derive\na combination rule that produces a real quantum theory with properties\nanalogous to those of conventional complex quantum theory. We also prove that\nthe conventional tensor product rule can also lead to a real and\nrepresentation-local theory, albeit with a modified characterization of the\nstate space. We thus conclude that complex numbers are a mere convenience in\nquantum theory.",
+            "pdf_url": "http://arxiv.org/pdf/2504.02808v1",
+            "published": "2025-04-03 17:53:19+00:00",
+            "updated": "2025-04-03 17:53:19+00:00"
+        },
+        {
+            "title": "Interpreting gravitational fields of Topologically Massive Gravity using geodesic deviation",
+            "authors": "Matus Papajcik, Jiri Podolsky",
+            "summary": "We study relative motion of nearby test particles in Topologically Massive\nGravity (TMG) in three spacetime dimensions, using the equation of geodesic\ndeviation. We show that, in a suitable reference frame, the influence of any\ngravitational field can be decomposed into transverse, longitudinal, and\nNewtonian components, which are directly related to the Cotton scalars of the\nNewman-Penrose-type. In particular, we prove that Cotton type N spacetimes\nexhibit a purely transverse gravitational effect on test particles, and can\nthus be reasonably interpreted as specific gravitational waves with a single\npolarization mode in TMG. The influence of the cosmological constant manifests\nitself as an isotropic effect. We also discuss the physical interpretation of\nspacetimes of specific algebraic types, as well as the influence of various\nmatter fields, namely pure radiation, perfect fluid, and electromagnetic field.\nAs an example, we provide an explicit analysis of TN-waves and pp-waves in\nthree-dimensional TMG.",
+            "pdf_url": "http://arxiv.org/pdf/2504.02772v1",
+            "published": "2025-04-03 17:08:37+00:00",
+            "updated": "2025-04-03 17:08:37+00:00"
+        },
+        {
+            "title": "Quantum state preparation for multivariate functions",
+            "authors": "Matthias Rosenkranz, Eric Brunner, Gabriel Marin-Sanchez, Nathan Fitzpatrick, Silas Dilkes, Yao Tang, Yuta Kikuchi, Marcello Benedetti",
+            "summary": "A fundamental step of any quantum algorithm is the preparation of qubit\nregisters in a suitable initial state. Often qubit registers represent a\ndiscretization of continuous variables and the initial state is defined by a\nmultivariate function. We develop protocols for preparing quantum states whose\namplitudes encode multivariate functions by linearly combining block-encodings\nof Fourier and Chebyshev basis functions. Without relying on arithmetic\ncircuits, quantum Fourier transforms, or multivariate quantum signal\nprocessing, our algorithms are simpler and more effective than previous\nproposals. We analyze requirements both asymptotically and pragmatically in\nterms of near/medium-term resources. Numerically, we prepare bivariate\nStudent's t-distributions, 2D Ricker wavelets and electron wavefunctions in a\n3D Coulomb potential, which are initial states with potential applications in\nfinance, physics and chemistry simulations. Finally, we prepare bivariate\nGaussian distributions on the Quantinuum H2-1 trapped-ion quantum processor\nusing 24 qubits and up to 237 two-qubit gates.",
+            "pdf_url": "http://arxiv.org/pdf/2405.21058v2",
+            "published": "2024-05-31 17:49:27+00:00",
+            "updated": "2025-04-03 16:56:37+00:00"
+        },
+        {
+            "title": "Anomalous vortex Hall effect in a ferromagnet/superconductor heterostructure",
+            "authors": "Weideng Sun, Przemyslaw Swatek, Yihong Fan, Hwanhui Yun, Deyuan Lyu, K. Andre Mkhoyan, Jian-Ping Wang, Gang Qiu",
+            "summary": "The coexistence of superconductivity and ferromagnetism is a fascinating and\ncomplex phenomenon in condensed matter physics, as these two states are\ntypically mutually exclusive due to their competing spin configurations.\nHowever, the interplay between these two orders through the proximity effect\nhas been a subject of intense research as it opens up possibilities for novel\ntechnological applications. Here, we report the coexistence of\nsuperconductivity and ferromagnetism in superconducting\n{\\delta}-TaN/ferromagnetic CoFeB heterostructures grown by facing-target\nsputtering. Superconducting states are comprehensively investigated, with\nevidence of strong correlation between the superconducting and ferromagnetic\norder parameters. In particular, we observed an anomalous Hall signal without\nthe presence of the magnetic field in the mixed state of the superconducting\ntransition near the critical temperature. Systematic characterizations of the\nHall resistance under varying temperatures and magnetic fields attribute this\nbehavior to the vortex Hall effect (VHE), whereby superconducting vortices in\nthe mixed state undergo transverse motions near the critical temperature.\nUnlike previously reported VHEs in conventional type-II superconductors, the\nanomalous VHE in TaN is induced by the stray field in the underlying CoFeB\nlayers. The concurrency of strong spin-orbit coupling, the superconductivity in\nthe TaN layer, and the highly spin-polarized ferromagnetic ordering in the\nCoFeB layer offers new insights into proximity-induced vortex dynamics and the\ndesign of novel superconducting spintronic devices.",
+            "pdf_url": "http://arxiv.org/pdf/2504.02752v1",
+            "published": "2025-04-03 16:43:07+00:00",
+            "updated": "2025-04-03 16:43:07+00:00"
+        },
+        {
+            "title": "Is the CMB revealing signs of pre-inflationary physics?",
+            "authors": "Suddhasattwa Brahma, Jaime Calder\u00f3n-Figueroa",
+            "summary": "Given the latest observational constraints coming from the joint analyses of\nthe Atacama Cosmology Telescope, the Planck Satellite and other missions, we\npoint out the possibility of reconciling fundamental particle-physics models of\ninflation with data by considering non-Bunch-Davies initial conditions for\nprimordial density perturbations.",
+            "pdf_url": "http://arxiv.org/pdf/2504.02746v1",
+            "published": "2025-04-03 16:33:19+00:00",
+            "updated": "2025-04-03 16:33:19+00:00"
+        },
+        {
+            "title": "Is Lorentz invariance violation found?",
+            "authors": "Giorgio Galanti, Marco Roncadelli",
+            "summary": "Lorentz invariance violation (LIV) has long been recognized as an observable\nlow-energy signature of quantum gravity. In spite of a great effort to detect\nLIV effects, so far only lower bounds have been derived. The high energy\nphotons from the gamma ray burst GRB 221009A have been detected by the LHAASO\ncollaboration and one at ${\\cal E} \\simeq 251 \\, \\rm TeV$ by the Carpet\ncollaboration using a partial data set. Very recently, the Carpet collaboration\nhas completed the full data analysis, reporting further support for their\npreviously detected photon now at ${\\cal E} = 300^{+ 43}_{- 38} \\, {\\rm TeV}$,\nwhich manifestly clashes with conventional physics. Taking this result at face\nvalue, we derive the first evidence for LIV and we show that such a detection\ncannot be explained by axion-like particles (ALPs), which allow for the\nobservation of the highest energy photons detected by LHAASO. We also outline a\nscenario in which ALPs and LIV naturally coexist. If confirmed by future\nobservations our finding would represent the first positive result in quantum\ngravity phenomenology.",
+            "pdf_url": "http://arxiv.org/pdf/2504.01830v2",
+            "published": "2025-04-02 15:39:37+00:00",
+            "updated": "2025-04-03 16:30:44+00:00"
+        },
+        {
+            "title": "Parity violation as enforced symmetry breaking in 3D fermionic topological order",
+            "authors": "Shang-Qiang Ning, Yang Qi, Chenjie Wang, Zheng-Cheng Gu",
+            "summary": "Symmetry can be intrinsically broken in topological phases due to inherent\nincompatibilities, a phenomenon known as enforced symmetry breaking (ESB) in\nthe framework of topological order. In our previous work, we developed a\nsystematic framework to understand ESB within 2D invertible topological order.\nMeanwhile, the origin of parity violation in the Standard Model remains one of\nthe most profound mysteries in physics, with no clear explanation to date. In\nthis study, we explore the ESB of parity symmetry by three-dimensional\nfermionic topological order (fTO), offering potential insights into the origins\nof parity violation. As the simplest example, here we consider an fTO related\nto the intrinsic interacting fermionic SPT phase protected by $Z_2^f\\times\nZ_2\\times Z_8$ symmetry in three dimensions. We show that time-reversal\nsymmetry (TRS) with ${T}^2=1$ on physical fermions is incompatible with such\nfTO; then, through the so-called crystalline equivalence principle, we show\nthat the parity symmetry is also incompatible with it. In comparison,\nconventional TRS with ${T}^2={P}_f$ remains compatible to this fTO. We also\ndiscuss a general framework to study the ESB phenomenon for 3D fTO.",
+            "pdf_url": "http://arxiv.org/pdf/2504.02736v1",
+            "published": "2025-04-03 16:23:36+00:00",
+            "updated": "2025-04-03 16:23:36+00:00"
+        }
+    ],
+    "Diffusion": [
+        {
+            "title": "Concept Lancet: Image Editing with Compositional Representation Transplant",
+            "authors": "Jinqi Luo, Tianjiao Ding, Kwan Ho Ryan Chan, Hancheng Min, Chris Callison-Burch, Ren\u00e9 Vidal",
+            "summary": "Diffusion models are widely used for image editing tasks. Existing editing\nmethods often design a representation manipulation procedure by curating an\nedit direction in the text embedding or score space. However, such a procedure\nfaces a key challenge: overestimating the edit strength harms visual\nconsistency while underestimating it fails the editing task. Notably, each\nsource image may require a different editing strength, and it is costly to\nsearch for an appropriate strength via trial-and-error. To address this\nchallenge, we propose Concept Lancet (CoLan), a zero-shot plug-and-play\nframework for principled representation manipulation in diffusion-based image\nediting. At inference time, we decompose the source input in the latent (text\nembedding or diffusion score) space as a sparse linear combination of the\nrepresentations of the collected visual concepts. This allows us to accurately\nestimate the presence of concepts in each image, which informs the edit. Based\non the editing task (replace/add/remove), we perform a customized concept\ntransplant process to impose the corresponding editing direction. To\nsufficiently model the concept space, we curate a conceptual representation\ndataset, CoLan-150K, which contains diverse descriptions and scenarios of\nvisual terms and phrases for the latent dictionary. Experiments on multiple\ndiffusion-based image editing baselines show that methods equipped with CoLan\nachieve state-of-the-art performance in editing effectiveness and consistency\npreservation.",
+            "pdf_url": "http://arxiv.org/pdf/2504.02828v1",
+            "published": "2025-04-03 17:59:58+00:00",
+            "updated": "2025-04-03 17:59:58+00:00"
+        },
+        {
+            "title": "Quantum Generative Models for Image Generation: Insights from MNIST and MedMNIST",
+            "authors": "Chi-Sheng Chen, Wei An Hou, Hsiang-Wei Hu, Zhen-Sheng Cai",
+            "summary": "Quantum generative models offer a promising new direction in machine learning\nby leveraging quantum circuits to enhance data generation capabilities. In this\nstudy, we propose a hybrid quantum-classical image generation framework that\nintegrates variational quantum circuits into a diffusion-based model. To\nimprove training dynamics and generation quality, we introduce two novel noise\nstrategies: intrinsic quantum-generated noise and a tailored noise scheduling\nmechanism. Our method is built upon a lightweight U-Net architecture, with the\nquantum layer embedded in the bottleneck module to isolate its effect. We\nevaluate our model on MNIST and MedMNIST datasets to examine its feasibility\nand performance. Notably, our results reveal that under limited data conditions\n(fewer than 100 training images), the quantum-enhanced model generates images\nwith higher perceptual quality and distributional similarity than its classical\ncounterpart using the same architecture. While the quantum model shows\nadvantages on grayscale data such as MNIST, its performance is more nuanced on\ncomplex, color-rich datasets like PathMNIST. These findings highlight both the\npotential and current limitations of quantum generative models and lay the\ngroundwork for future developments in low-resource and biomedical image\ngeneration.",
+            "pdf_url": "http://arxiv.org/pdf/2504.00034v2",
+            "published": "2025-03-30 06:36:22+00:00",
+            "updated": "2025-04-03 17:40:26+00:00"
+        },
+        {
+            "title": "Unified World Models: Coupling Video and Action Diffusion for Pretraining on Large Robotic Datasets",
+            "authors": "Chuning Zhu, Raymond Yu, Siyuan Feng, Benjamin Burchfiel, Paarth Shah, Abhishek Gupta",
+            "summary": "Imitation learning has emerged as a promising approach towards building\ngeneralist robots. However, scaling imitation learning for large robot\nfoundation models remains challenging due to its reliance on high-quality\nexpert demonstrations. Meanwhile, large amounts of video data depicting a wide\nrange of environments and diverse behaviors are readily available. This data\nprovides a rich source of information about real-world dynamics and\nagent-environment interactions. Leveraging this data directly for imitation\nlearning, however, has proven difficult due to the lack of action annotation\nrequired for most contemporary methods. In this work, we present Unified World\nModels (UWM), a framework that allows for leveraging both video and action data\nfor policy learning. Specifically, a UWM integrates an action diffusion process\nand a video diffusion process within a unified transformer architecture, where\nindependent diffusion timesteps govern each modality. We show that by simply\ncontrolling each diffusion timestep, UWM can flexibly represent a policy, a\nforward dynamics, an inverse dynamics, and a video generator. Through simulated\nand real-world experiments, we show that: (1) UWM enables effective pretraining\non large-scale multitask robot datasets with both dynamics and action\npredictions, resulting in more generalizable and robust policies than imitation\nlearning, (2) UWM naturally facilitates learning from action-free video data\nthrough independent control of modality-specific diffusion timesteps, further\nimproving the performance of finetuned policies. Our results suggest that UWM\noffers a promising step toward harnessing large, heterogeneous datasets for\nscalable robot learning, and provides a simple unification between the often\ndisparate paradigms of imitation learning and world modeling. Videos and code\nare available at https://weirdlabuw.github.io/uwm/.",
+            "pdf_url": "http://arxiv.org/pdf/2504.02792v1",
+            "published": "2025-04-03 17:38:59+00:00",
+            "updated": "2025-04-03 17:38:59+00:00"
+        },
+        {
+            "title": "Scene Splatter: Momentum 3D Scene Generation from Single Image with Video Diffusion Model",
+            "authors": "Shengjun Zhang, Jinzhao Li, Xin Fei, Hao Liu, Yueqi Duan",
+            "summary": "In this paper, we propose Scene Splatter, a momentum-based paradigm for video\ndiffusion to generate generic scenes from single image. Existing methods, which\nemploy video generation models to synthesize novel views, suffer from limited\nvideo length and scene inconsistency, leading to artifacts and distortions\nduring further reconstruction. To address this issue, we construct noisy\nsamples from original features as momentum to enhance video details and\nmaintain scene consistency. However, for latent features with the perception\nfield that spans both known and unknown regions, such latent-level momentum\nrestricts the generative ability of video diffusion in unknown regions.\nTherefore, we further introduce the aforementioned consistent video as a\npixel-level momentum to a directly generated video without momentum for better\nrecovery of unseen regions. Our cascaded momentum enables video diffusion\nmodels to generate both high-fidelity and consistent novel views. We further\nfinetune the global Gaussian representations with enhanced frames and render\nnew frames for momentum update in the next step. In this manner, we can\niteratively recover a 3D scene, avoiding the limitation of video length.\nExtensive experiments demonstrate the generalization capability and superior\nperformance of our method in high-fidelity and consistent scene generation.",
+            "pdf_url": "http://arxiv.org/pdf/2504.02764v1",
+            "published": "2025-04-03 17:00:44+00:00",
+            "updated": "2025-04-03 17:00:44+00:00"
+        },
+        {
+            "title": "RBR4DNN: Requirements-based Testing of Neural Networks",
+            "authors": "Nusrat Jahan Mozumder, Felipe Toledo, Swaroopa Dola, Matthew B. Dwyer",
+            "summary": "Deep neural network (DNN) testing is crucial for the reliability and safety\nof critical systems, where failures can have severe consequences. Although\nvarious techniques have been developed to create robustness test suites,\nrequirements-based testing for DNNs remains largely unexplored -- yet such\ntests are recognized as an essential component of software validation of\ncritical systems. In this work, we propose a requirements-based test suite\ngeneration method that uses structured natural language requirements formulated\nin a semantic feature space to create test suites by prompting text-conditional\nlatent diffusion models with the requirement precondition and then using the\nassociated postcondition to define a test oracle to judge outputs of the DNN\nunder test. We investigate the approach using fine-tuned variants of\npre-trained generative models. Our experiments on the MNIST, CelebA-HQ,\nImageNet, and autonomous car driving datasets demonstrate that the generated\ntest suites are realistic, diverse, consistent with preconditions, and capable\nof revealing faults.",
+            "pdf_url": "http://arxiv.org/pdf/2504.02737v1",
+            "published": "2025-04-03 16:24:49+00:00",
+            "updated": "2025-04-03 16:24:49+00:00"
+        }
+    ]
+}

@@ -140,6 +140,31 @@ TODO:
 
 
 
+
+## Update on 2025-04-05
+
+### Physics
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-04-03|2025-04-03|Bubbles in a box: Eliminating edge nucleation in cold-atom simulators of vacuum decay|Alexander C. Jenkins|[2504.02829v1](http://arxiv.org/pdf/2504.02829v1)|
+|2025-04-03|2025-04-03|Do Two AI Scientists Agree?|Xinghong Fu|[2504.02822v1](http://arxiv.org/pdf/2504.02822v1)|
+|2025-04-03|2025-04-03|Excitation of the Glashow resonance without neutrino beams|I. Alikhanov|[2504.02820v1](http://arxiv.org/pdf/2504.02820v1)|
+|2025-04-03|2025-04-03|Quantum theory does not need complex numbers|Timothee Hoffreumon|[2504.02808v1](http://arxiv.org/pdf/2504.02808v1)|
+|2025-04-03|2025-04-03|Interpreting gravitational fields of Topologically Massive Gravity using geodesic deviation|Matus Papajcik|[2504.02772v1](http://arxiv.org/pdf/2504.02772v1)|
+|2024-05-31|2025-04-03|Quantum state preparation for multivariate functions|Matthias Rosenkranz|[2405.21058v2](http://arxiv.org/pdf/2405.21058v2)|
+|2025-04-03|2025-04-03|Anomalous vortex Hall effect in a ferromagnet/superconductor heterostructure|Weideng Sun|[2504.02752v1](http://arxiv.org/pdf/2504.02752v1)|
+|2025-04-03|2025-04-03|Is the CMB revealing signs of pre-inflationary physics?|Suddhasattwa Brahma|[2504.02746v1](http://arxiv.org/pdf/2504.02746v1)|
+|2025-04-02|2025-04-03|Is Lorentz invariance violation found?|Giorgio Galanti|[2504.01830v2](http://arxiv.org/pdf/2504.01830v2)|
+|2025-04-03|2025-04-03|Parity violation as enforced symmetry breaking in 3D fermionic topological order|Shang-Qiang Ning|[2504.02736v1](http://arxiv.org/pdf/2504.02736v1)|
+
+### Diffusion
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-04-03|2025-04-03|Concept Lancet: Image Editing with Compositional Representation Transplant|Jinqi Luo|[2504.02828v1](http://arxiv.org/pdf/2504.02828v1)|
+|2025-03-30|2025-04-03|Quantum Generative Models for Image Generation: Insights from MNIST and MedMNIST|Chi-Sheng Chen|[2504.00034v2](http://arxiv.org/pdf/2504.00034v2)|
+|2025-04-03|2025-04-03|Unified World Models: Coupling Video and Action Diffusion for Pretraining on Large Robotic Datasets|Chuning Zhu|[2504.02792v1](http://arxiv.org/pdf/2504.02792v1)|
+|2025-04-03|2025-04-03|Scene Splatter: Momentum 3D Scene Generation from Single Image with Video Diffusion Model|Shengjun Zhang|[2504.02764v1](http://arxiv.org/pdf/2504.02764v1)|
+|2025-04-03|2025-04-03|RBR4DNN: Requirements-based Testing of Neural Networks|Nusrat Jahan Mozumder|[2504.02737v1](http://arxiv.org/pdf/2504.02737v1)|
 ## Update on 2025-04-03
 
 ### Physics
