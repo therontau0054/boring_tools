@@ -141,6 +141,31 @@ TODO:
 
 
 
+
+## Update on 2025-04-07
+
+### Physics
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-04-04|2025-04-04|Real-is-Sim: Bridging the Sim-to-Real Gap with a Dynamic Digital Twin for Real-World Robot Policy Evaluation|Jad Abou-Chakra|[2504.03597v1](http://arxiv.org/pdf/2504.03597v1)|
+|2025-01-09|2025-04-04|On the Atomki nuclear anomaly after the MEG-II result|Daniele Barducci|[2501.05507v2](http://arxiv.org/pdf/2501.05507v2)|
+|2024-11-07|2025-04-04|Cloning Games, Black Holes and Cryptography|Alexander Poremba|[2411.04730v2](http://arxiv.org/pdf/2411.04730v2)|
+|2025-04-02|2025-04-04|Microcavity-Enhanced Exciton Dynamics in Light-Harvesting Complexes: Insights from Redfield Theory|Ilmari Rosenkampff|[2504.02066v2](http://arxiv.org/pdf/2504.02066v2)|
+|2024-11-13|2025-04-04|String theory in twistor space and minimal tension holography|N. M. McStay|[2411.08836v2](http://arxiv.org/pdf/2411.08836v2)|
+|2022-08-30|2025-04-04|A gas-surface interaction algorithm for discrete velocity methods in predicting rarefied and multi-scale flows: For Maxwell boundary model|Jianfeng Chen|[2208.13992v4](http://arxiv.org/pdf/2208.13992v4)|
+|2024-06-13|2025-04-04|A novel Cercignani-Lampis boundary model for discrete velocity methods in predicting rarefied and multi-scale flows|Jianfeng Chen|[2406.09636v4](http://arxiv.org/pdf/2406.09636v4)|
+|2024-10-21|2025-04-04|IR finite correlation functions in de Sitter space, a smooth massless limit, and an autonomous equation|Alexander Kamenshchik|[2410.16226v3](http://arxiv.org/pdf/2410.16226v3)|
+|2025-04-04|2025-04-04|Observation of Temperature Effects in False Vacuum Decay|Riccardo Cominotti|[2504.03528v1](http://arxiv.org/pdf/2504.03528v1)|
+|2025-04-04|2025-04-04|Dynamic Training Enhances Machine Learning Potentials for Long-Lasting Molecular Dynamics|Ivan Žugec|[2504.03521v1](http://arxiv.org/pdf/2504.03521v1)|
+
+### Diffusion
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-04-04|2025-04-04|Diffusion Active Learning: Towards Data-Driven Experimental Design in Computed Tomography|Luis Barba|[2504.03491v1](http://arxiv.org/pdf/2504.03491v1)|
+|2025-04-04|2025-04-04|BUFF: Bayesian Uncertainty Guided Diffusion Probabilistic Model for Single Image Super-Resolution|Zihao He|[2504.03490v1](http://arxiv.org/pdf/2504.03490v1)|
+|2025-04-04|2025-04-04|Conditioning Diffusions Using Malliavin Calculus|Jakiw Pidstrigach|[2504.03461v1](http://arxiv.org/pdf/2504.03461v1)|
+|2025-03-11|2025-04-04|End-to-end Learning of Sparse Interventions on Activations to Steer Generation|Pau Rodriguez|[2503.10679v2](http://arxiv.org/pdf/2503.10679v2)|
+|2024-10-10|2025-04-04|Minority-Focused Text-to-Image Generation via Prompt Optimization|Soobin Um|[2410.07838v3](http://arxiv.org/pdf/2410.07838v3)|
 ## Update on 2025-04-05
 
 ### Physics
