@@ -1,0 +1,118 @@
+{
+    "Physics": [
+        {
+            "title": "Prethermalization of light and matter in cavity-coupled Rydberg arrays",
+            "authors": "Aleksandr N. Mikheev, Hossein Hosseinabadi, Jamir Marino",
+            "summary": "We explore the dynamics of two-dimensional Rydberg atom arrays coupled to a\nsingle-mode optical cavity, employing nonequilibrium diagrammatic techniques to\ncapture nonlinearities and fluctuations beyond mean-field theory. We discover a\nnovel prethermalization regime driven by the interplay between short-range\nRydberg interactions and long-range photon-mediated interactions. In this\nregime, matter and light equilibrate at distinct - and in some cases opposite -\neffective temperatures, resembling the original concept of prethermalization\nfrom particle physics. Our results establish strongly correlated AMO platforms\nas tools to investigate fundamental questions in statistical mechanics,\nincluding quantum thermalization in higher-dimensional systems.",
+            "pdf_url": "http://arxiv.org/pdf/2504.06267v1",
+            "published": "2025-04-08 17:59:59+00:00",
+            "updated": "2025-04-08 17:59:59+00:00"
+        },
+        {
+            "title": "FEABench: Evaluating Language Models on Multiphysics Reasoning Ability",
+            "authors": "Nayantara Mudur, Hao Cui, Subhashini Venugopalan, Paul Raccuglia, Michael P. Brenner, Peter Norgaard",
+            "summary": "Building precise simulations of the real world and invoking numerical solvers\nto answer quantitative problems is an essential requirement in engineering and\nscience. We present FEABench, a benchmark to evaluate the ability of large\nlanguage models (LLMs) and LLM agents to simulate and solve physics,\nmathematics and engineering problems using finite element analysis (FEA). We\nintroduce a comprehensive evaluation scheme to investigate the ability of LLMs\nto solve these problems end-to-end by reasoning over natural language problem\ndescriptions and operating COMSOL Multiphysics$^\\circledR$, an FEA software, to\ncompute the answers. We additionally design a language model agent equipped\nwith the ability to interact with the software through its Application\nProgramming Interface (API), examine its outputs and use tools to improve its\nsolutions over multiple iterations. Our best performing strategy generates\nexecutable API calls 88% of the time. LLMs that can successfully interact with\nand operate FEA software to solve problems such as those in our benchmark would\npush the frontiers of automation in engineering. Acquiring this capability\nwould augment LLMs' reasoning skills with the precision of numerical solvers\nand advance the development of autonomous systems that can tackle complex\nproblems in the real world. The code is available at\nhttps://github.com/google/feabench",
+            "pdf_url": "http://arxiv.org/pdf/2504.06260v1",
+            "published": "2025-04-08 17:59:39+00:00",
+            "updated": "2025-04-08 17:59:39+00:00"
+        },
+        {
+            "title": "Appearance of Multiple Spectral Gaps in Voltage-Biased Josephson Junctions Without Floquet Hybridization",
+            "authors": "Teng Zhang, Tatiana de Picoli, Tyler Lindemann, Jukka I. V\u00e4yrynen, Michael J. Manfra",
+            "summary": "A time-periodic drive enables the engineering of non-equilibrium quantum\nsystems by hybridizing Floquet sidebands. We investigated DC voltage-biased\nplanar Josephson junctions built upon epitaxial Al/InAs heterostructures in\nwhich the intrinsic AC Josephson effect is theoretically expected to provide a\ntime-periodic drive leading to Floquet hybridization. Tunneling spectroscopy is\nperformed using probes positioned at the ends of the junction to study the\nevolution of the local density of states. With applied drive, we observe\nmultiple coherence peaks which are studied as a function of DC voltage bias and\nin-plane magnetic field. Our analysis suggests that these spectral gaps arise\nfrom a direct mesoscopic coupling between the tunneling probe and the\nsuperconducting leads rather than from a Floquet-driven gap opening. Our\nnumerical simulations indicate that an increase in the ratio of junction width\nto coherence length will enhance the contribution of Floquet hybridization.\nThis work lays a foundation for the exploration of Floquet physics utilizing\nvoltage-biased hybrid superconductor-semiconductor Josephson junctions and\nprovides means for distinguishing direct couplings from genuine Floquet\neffects.",
+            "pdf_url": "http://arxiv.org/pdf/2504.06246v1",
+            "published": "2025-04-08 17:44:06+00:00",
+            "updated": "2025-04-08 17:44:06+00:00"
+        },
+        {
+            "title": "Renormalization Group in far-from-equilibrium states",
+            "authors": "Vladimir Rosenhaus, Michael Smolkin",
+            "summary": "We study renormalization group flows in far-from-equilibrium states. The\nstudy is made tractable by focusing on states that are spatially homogeneous,\ntime-independent, and scale-invariant. Such states, in which mode $k$ has\noccupation numbers $n_k \\sim k^{-\\gamma}$, are well known in nonlinear physics.\nRG flow in such states is qualitatively different from that in the vacuum -- a\npositive $\\gamma$ decreases the dimension of an operator, turning marginal\ninteractions into relevant interactions. We compute one-loop beta functions.\nDepending on the sign of the beta function, backreaction may either cause a\nminor shift of the state in the IR, or completely change the nature of the\nstate. Focusing on nearly marginal interactions, we construct an analog of the\nepsilon expansion and IR fixed points, with epsilon now set by the scaling of\nthe interaction rather than the spacetime dimension. In the language of RG\nflow, critical-balance scaling -- which has applications in fields as varied as\nastrophysics and ocean waves -- corresponds to the state dynamically adjusting\nitself along the RG flow until the interaction becomes marginal.",
+            "pdf_url": "http://arxiv.org/pdf/2504.06243v1",
+            "published": "2025-04-08 17:43:01+00:00",
+            "updated": "2025-04-08 17:43:01+00:00"
+        },
+        {
+            "title": "Quantum Superspace and Bloch Electron Systems with Zeeman Effects: *-Bracket Formalism for Super Curtright-Zachos Algebras",
+            "authors": "Haru-Tada Sato",
+            "summary": "We introduce supersymmetric extensions of the Hom-Lie deformation of the\nVirasoro algebra (super Curtright-Zachos algebra), as realized in the GL(1,1)\nquantum superspace, for Bloch electron systems under Zeeman effects. By\nexamining the duality inherent in quantum superspace scaling operators, we\nestablish a correspondence between quantum superspace and its physical\nrealization through a novel operator mixing mechanism. For the continuous case,\nwe construct super Curtright-Zachos algebra using magnetic translations and\nspin matrix bases, demonstrating explicit realizations for both N=1 and N=2\nsupersymmetric algebras with a natural N=2 decomposition. For the discrete\ncase, we establish cyclic matrix representations in tight-binding models. We\norganize these structures through the *-bracket formalism with Z2-grading,\nrevealing how the quantum superspace structure manifests in physical systems\nwhile preserving essential algebraic properties.",
+            "pdf_url": "http://arxiv.org/pdf/2412.17030v3",
+            "published": "2024-12-22 14:15:51+00:00",
+            "updated": "2025-04-08 17:23:03+00:00"
+        },
+        {
+            "title": "Phenomenology of the semileptonic $\u03a3_{b}^{*0}\\,\\rightarrow\\, \u03a3_{c}^{+}\\,\\ell\\,\\bar\u03bd_{\\ell}$ transition within QCD sum rules",
+            "authors": "L. Khajouei, K. Azizi",
+            "summary": "We conduct an investigation on the spin $\\frac{3}{2}\\rightarrow \\frac{1}{2}$\nsemileptonic weak transition of single heavy baryons for the exclusive decay\n$\\Sigma_{b}^{*0}\\,\\rightarrow\\, \\Sigma_{c}^{+}\\,\\ell\\,\\bar{\\nu}_{\\ell}$ in\nthree possible lepton channels within the three point QCD sum rule method. We\ncompute the responsible form factors of this semileptonic decay by\nincorporating both perturbative and nonperturbative contributions of the\noperator product expansion series up to a mass dimension six. Having acquired\nthe form factors, the decay widths of the processes in all lepton channels are\ndetermined. Our findings as well as possible future experimental information\ncan be employed in order to check the SM predictions and explore the\npossibility of new physics in heavy baryonic decay channels.",
+            "pdf_url": "http://arxiv.org/pdf/2410.11074v3",
+            "published": "2024-10-14 20:34:26+00:00",
+            "updated": "2025-04-08 17:22:45+00:00"
+        },
+        {
+            "title": "Nonlinear Drift Waves Beyond the Hasegawa-Mima Model",
+            "authors": "Hamid Saleem",
+            "summary": "A general nonlinear equation for drift waves is derived, incorporating both\nthe nonlinear electron density term (scalar nonlinearity) and the ion vorticity\nterm (vector nonlinearity). It is noted that the Hasegawa-Mima (HM) equation\n(A. Hasegawa and K. Mima, The Physics of Fluids 21, 87 (1978)) includes only\nthe ion vorticity term, while it omits the nonlinear electron density term,\nwhich is a dominant nonlinear effect. The general nonlinear equation reduces to\nthe Korteweg-de Vries (KdV) equation (H. Saleem, Physics of Plasmas 31, 112102\n(2024)) if the normalized electrostatic potential is assumed to depend only on\na single spatial coordinate along the direction of predominant wave\npropagation, i.e., \\( \\Phi = \\Phi(y) \\). If the scalar nonlinearity is\nartificially neglected and a two-dimensional dependence of the electrostatic\npotential is assumed, \\( \\Phi = \\Phi(x, y) \\), the equation reduces to a\nHasegawa-Mima-like equation, which admits a solution in the form of dipolar\nvortices. It is further pointed out that, in the presence of a Boltzmann\ndensity distribution for electrons, the HM equation was derived using the\napproximation \\( \\frac{\\partial_t \\tilde{n}_i}{n_{i0}} \\simeq \\partial_t \\Phi\n\\), whereas the more accurate expression \\( \\frac{\\partial_t\n\\tilde{n}_i}{n_{i0}} \\simeq \\partial_t \\left( \\Phi + \\frac{1}{2} \\Phi^2 \\right)\n\\) should be used.",
+            "pdf_url": "http://arxiv.org/pdf/2501.15873v2",
+            "published": "2025-01-27 08:50:32+00:00",
+            "updated": "2025-04-08 17:09:43+00:00"
+        },
+        {
+            "title": "Transport coefficients of dense nucleon matter at low temperature",
+            "authors": "Jianing Li, Weiyao Ke",
+            "summary": "The transport property of cold and dense nucleon matter is important for\nnuclear physics but is relatively less studied than that at finite\ntemperatures. In this paper, we present a primary study of bulk and shear\nviscosities in the limit $T/\\mu_B \\ll 1$, where $T$ and $\\mu_B$ are the\ntemperature and the baryon chemical potential. The analysis is performed for a\ngeneric system where nucleons are dressed by the condensation of both scalar\nand vector interactions. Under the relaxation time approximation of the\nBoltzmann equation, we compute the viscosities of the system to leading power\nin $T/\\mu_B$ expansion and establish a relation between the thermodynamic\npotential and transport coefficients, including bulk viscosity ($\\zeta$) and\nshear viscosity ($\\eta$). It is found that hydrodynamic stability ($\\zeta>0$)\nimposes additional constraints on the thermodynamic potential. As an example,\nthese relations are applied to the Walecka model. The fluid properties of the\ncold and dense nucleon matter are characterized by the dimensionless\ncombination of viscosities times the quasi-Fermi momentum over the enthalpy.\nFurthermore, we discuss the implication of the stability condition on the range\nof applicability of the model.",
+            "pdf_url": "http://arxiv.org/pdf/2412.20454v2",
+            "published": "2024-12-29 12:37:46+00:00",
+            "updated": "2025-04-08 17:05:47+00:00"
+        },
+        {
+            "title": "A score-based particle method for homogeneous Landau equation",
+            "authors": "Yan Huang, Li Wang",
+            "summary": "We propose a novel score-based particle method for solving the Landau\nequation in plasmas, that seamlessly integrates learning with\nstructure-preserving particle methods [arXiv:1910.03080]. Building upon the\nLagrangian viewpoint of the Landau equation, a central challenge stems from the\nnonlinear dependence of the velocity field on the density. Our primary\ninnovation lies in recognizing that this nonlinearity is in the form of the\nscore function, which can be approximated dynamically via techniques from\nscore-matching. The resulting method inherits the conservation properties of\nthe deterministic particle method while sidestepping the necessity for kernel\ndensity estimation in [arXiv:1910.03080]. This streamlines computation and\nenhances scalability with dimensionality. Furthermore, we provide a theoretical\nestimate by demonstrating that the KL divergence between our approximation and\nthe true solution can be effectively controlled by the score-matching loss.\nAdditionally, by adopting the flow map viewpoint, we derive an update formula\nfor exact density computation. Extensive examples have been provided to show\nthe efficiency of the method, including a physically relevant case of Coulomb\ninteraction.",
+            "pdf_url": "http://arxiv.org/pdf/2405.05187v2",
+            "published": "2024-05-08 16:22:47+00:00",
+            "updated": "2025-04-08 17:00:36+00:00"
+        },
+        {
+            "title": "Resonant Excitation of Quasinormal Modes of Black Holes",
+            "authors": "Hayato Motohashi",
+            "summary": "We elucidate that a distinctive resonant excitation between quasinormal modes\n(QNMs) of black holes emerges as a universal phenomenon at an avoided crossing\nnear the exceptional point through high-precision numerical analysis and theory\nof QNMs based on the framework of non-Hermitian physics. This resonant\nphenomenon not only allows us to decipher a long-standing mystery concerning\nthe peculiar behaviors of QNMs but also stands as a novel beacon for\ncharacterizing black hole spacetime geometry. Our findings pave the way for\nrigorous examinations of black holes and the exploration of new physics in\ngravity.",
+            "pdf_url": "http://arxiv.org/pdf/2407.15191v2",
+            "published": "2024-07-21 15:11:34+00:00",
+            "updated": "2025-04-08 16:39:18+00:00"
+        }
+    ],
+    "Diffusion": [
+        {
+            "title": "TabRep: a Simple and Effective Continuous Representation for Training Tabular Diffusion Models",
+            "authors": "Jacob Si, Zijing Ou, Mike Qu, Zhengrui Xiang, Yingzhen Li",
+            "summary": "Diffusion models have been the predominant generative model for tabular data\ngeneration. However, they face the conundrum of modeling under a separate\nversus a unified data representation. The former encounters the challenge of\njointly modeling all multi-modal distributions of tabular data in one model.\nWhile the latter alleviates this by learning a single representation for all\nfeatures, it currently leverages sparse suboptimal encoding heuristics and\nnecessitates additional computation costs. In this work, we address the latter\nby presenting TabRep, a tabular diffusion architecture trained with a unified\ncontinuous representation. To motivate the design of our representation, we\nprovide geometric insights into how the data manifold affects diffusion models.\nThe key attributes of our representation are composed of its density,\nflexibility to provide ample separability for nominal features, and ability to\npreserve intrinsic relationships. Ultimately, TabRep provides a simple yet\neffective approach for training tabular diffusion models under a continuous\ndata manifold. Our results showcase that TabRep achieves superior performance\nacross a broad suite of evaluations. It is the first to synthesize tabular data\nthat exceeds the downstream quality of the original datasets while preserving\nprivacy and remaining computationally efficient.",
+            "pdf_url": "http://arxiv.org/pdf/2504.04798v2",
+            "published": "2025-04-07 07:44:27+00:00",
+            "updated": "2025-04-08 15:10:24+00:00"
+        },
+        {
+            "title": "Physics-aware generative models for turbulent fluid flows through energy-consistent stochastic interpolants",
+            "authors": "Nikolaj T. M\u00fccke, Benjamin Sanderse",
+            "summary": "Generative models have demonstrated remarkable success in domains such as\ntext, image, and video synthesis. In this work, we explore the application of\ngenerative models to fluid dynamics, specifically for turbulence simulation,\nwhere classical numerical solvers are computationally expensive. We propose a\nnovel stochastic generative model based on stochastic interpolants, which\nenables probabilistic forecasting while incorporating physical constraints such\nas energy stability and divergence-freeness. Unlike conventional stochastic\ngenerative models, which are often agnostic to underlying physical laws, our\napproach embeds energy consistency by making the parameters of the stochastic\ninterpolant learnable coefficients. We evaluate our method on a benchmark\nturbulence problem - Kolmogorov flow - demonstrating superior accuracy and\nstability over state-of-the-art alternatives such as autoregressive conditional\ndiffusion models (ACDMs) and PDE-Refiner. Furthermore, we achieve stable\nresults for significantly longer roll-outs than standard stochastic\ninterpolants. Our results highlight the potential of physics-aware generative\nmodels in accelerating and enhancing turbulence simulations while preserving\nfundamental conservation properties.",
+            "pdf_url": "http://arxiv.org/pdf/2504.05852v1",
+            "published": "2025-04-08 09:29:01+00:00",
+            "updated": "2025-04-08 09:29:01+00:00"
+        },
+        {
+            "title": "Mind the Trojan Horse: Image Prompt Adapter Enabling Scalable and Deceptive Jailbreaking",
+            "authors": "Junxi Chen, Junhao Dong, Xiaohua Xie",
+            "summary": "Recently, the Image Prompt Adapter (IP-Adapter) has been increasingly\nintegrated into text-to-image diffusion models (T2I-DMs) to improve\ncontrollability. However, in this paper, we reveal that T2I-DMs equipped with\nthe IP-Adapter (T2I-IP-DMs) enable a new jailbreak attack named the hijacking\nattack. We demonstrate that, by uploading imperceptible image-space adversarial\nexamples (AEs), the adversary can hijack massive benign users to jailbreak an\nImage Generation Service (IGS) driven by T2I-IP-DMs and mislead the public to\ndiscredit the service provider. Worse still, the IP-Adapter's dependency on\nopen-source image encoders reduces the knowledge required to craft AEs.\nExtensive experiments verify the technical feasibility of the hijacking attack.\nIn light of the revealed threat, we investigate several existing defenses and\nexplore combining the IP-Adapter with adversarially trained models to overcome\nexisting defenses' limitations. Our code is available at\nhttps://github.com/fhdnskfbeuv/attackIPA.",
+            "pdf_url": "http://arxiv.org/pdf/2504.05838v1",
+            "published": "2025-04-08 09:20:29+00:00",
+            "updated": "2025-04-08 09:20:29+00:00"
+        },
+        {
+            "title": "Parasite: A Steganography-based Backdoor Attack Framework for Diffusion Models",
+            "authors": "Jiahao Chen, Yu Pan, Yi Du, Chunkai Wu, Lin Wang",
+            "summary": "Recently, the diffusion model has gained significant attention as one of the\nmost successful image generation models, which can generate high-quality images\nby iteratively sampling noise. However, recent studies have shown that\ndiffusion models are vulnerable to backdoor attacks, allowing attackers to\nenter input data containing triggers to activate the backdoor and generate\ntheir desired output. Existing backdoor attack methods primarily focused on\ntarget noise-to-image and text-to-image tasks, with limited work on backdoor\nattacks in image-to-image tasks. Furthermore, traditional backdoor attacks\noften rely on a single, conspicuous trigger to generate a fixed target image,\nlacking concealability and flexibility. To address these limitations, we\npropose a novel backdoor attack method called \"Parasite\" for image-to-image\ntasks in diffusion models, which not only is the first to leverage\nsteganography for triggers hiding, but also allows attackers to embed the\ntarget content as a backdoor trigger to achieve a more flexible attack.\n\"Parasite\" as a novel attack method effectively bypasses existing detection\nframeworks to execute backdoor attacks. In our experiments, \"Parasite\" achieved\na 0 percent backdoor detection rate against the mainstream defense frameworks.\nIn addition, in the ablation study, we discuss the influence of different\nhiding coefficients on the attack results. You can find our code at\nhttps://anonymous.4open.science/r/Parasite-1715/.",
+            "pdf_url": "http://arxiv.org/pdf/2504.05815v1",
+            "published": "2025-04-08 08:53:47+00:00",
+            "updated": "2025-04-08 08:53:47+00:00"
+        }
+    ]
+}

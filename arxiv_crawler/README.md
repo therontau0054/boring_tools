@@ -142,6 +142,30 @@ TODO:
 
 
 
+
+## Update on 2025-04-09
+
+### Physics
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-04-08|2025-04-08|Prethermalization of light and matter in cavity-coupled Rydberg arrays|Aleksandr N. Mikheev|[2504.06267v1](http://arxiv.org/pdf/2504.06267v1)|
+|2025-04-08|2025-04-08|FEABench: Evaluating Language Models on Multiphysics Reasoning Ability|Nayantara Mudur|[2504.06260v1](http://arxiv.org/pdf/2504.06260v1)|
+|2025-04-08|2025-04-08|Appearance of Multiple Spectral Gaps in Voltage-Biased Josephson Junctions Without Floquet Hybridization|Teng Zhang|[2504.06246v1](http://arxiv.org/pdf/2504.06246v1)|
+|2025-04-08|2025-04-08|Renormalization Group in far-from-equilibrium states|Vladimir Rosenhaus|[2504.06243v1](http://arxiv.org/pdf/2504.06243v1)|
+|2024-12-22|2025-04-08|Quantum Superspace and Bloch Electron Systems with Zeeman Effects: *-Bracket Formalism for Super Curtright-Zachos Algebras|Haru-Tada Sato|[2412.17030v3](http://arxiv.org/pdf/2412.17030v3)|
+|2024-10-14|2025-04-08|Phenomenology of the semileptonic $Σ_{b}^{*0}\,\rightarrow\, Σ_{c}^{+}\,\ell\,\barν_{\ell}$ transition within QCD sum rules|L. Khajouei|[2410.11074v3](http://arxiv.org/pdf/2410.11074v3)|
+|2025-01-27|2025-04-08|Nonlinear Drift Waves Beyond the Hasegawa-Mima Model|Hamid Saleem|[2501.15873v2](http://arxiv.org/pdf/2501.15873v2)|
+|2024-12-29|2025-04-08|Transport coefficients of dense nucleon matter at low temperature|Jianing Li|[2412.20454v2](http://arxiv.org/pdf/2412.20454v2)|
+|2024-05-08|2025-04-08|A score-based particle method for homogeneous Landau equation|Yan Huang|[2405.05187v2](http://arxiv.org/pdf/2405.05187v2)|
+|2024-07-21|2025-04-08|Resonant Excitation of Quasinormal Modes of Black Holes|Hayato Motohashi|[2407.15191v2](http://arxiv.org/pdf/2407.15191v2)|
+
+### Diffusion
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-04-07|2025-04-08|TabRep: a Simple and Effective Continuous Representation for Training Tabular Diffusion Models|Jacob Si|[2504.04798v2](http://arxiv.org/pdf/2504.04798v2)|
+|2025-04-08|2025-04-08|Physics-aware generative models for turbulent fluid flows through energy-consistent stochastic interpolants|Nikolaj T. Mücke|[2504.05852v1](http://arxiv.org/pdf/2504.05852v1)|
+|2025-04-08|2025-04-08|Mind the Trojan Horse: Image Prompt Adapter Enabling Scalable and Deceptive Jailbreaking|Junxi Chen|[2504.05838v1](http://arxiv.org/pdf/2504.05838v1)|
+|2025-04-08|2025-04-08|Parasite: A Steganography-based Backdoor Attack Framework for Diffusion Models|Jiahao Chen|[2504.05815v1](http://arxiv.org/pdf/2504.05815v1)|
 ## Update on 2025-04-07
 
 ### Physics
