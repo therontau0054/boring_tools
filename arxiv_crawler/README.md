@@ -143,6 +143,30 @@ TODO:
 
 
 
+
+## Update on 2025-04-11
+
+### Physics
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-04-10|2025-04-10|Hyperbolic sine-Gordon model beyond the first threshold|Tadahiro Oh|[2504.07944v1](http://arxiv.org/pdf/2504.07944v1)|
+|2025-04-10|2025-04-10|Riemann zeros and the KKR determinant|Zongrui Pei|[2504.07928v1](http://arxiv.org/pdf/2504.07928v1)|
+|2025-04-10|2025-04-10|SKK groups of manifolds and non-unitary invertible TQFTs|Renee S. Hoekzema|[2504.07917v1](http://arxiv.org/pdf/2504.07917v1)|
+|2024-12-04|2025-04-10|Quantum Rods and Clock in a Gravitational Universe|Hao Geng|[2412.03636v3](http://arxiv.org/pdf/2412.03636v3)|
+|2025-04-10|2025-04-10|Temporal Tensors and Quantum Shortcut Dynamics in a Supermaze of Multidimensional Time|Koffka Khan|[2504.07900v1](http://arxiv.org/pdf/2504.07900v1)|
+|2025-04-10|2025-04-10|The Constituent Quark Model|D. R. Entem|[2504.07897v1](http://arxiv.org/pdf/2504.07897v1)|
+|2024-12-08|2025-04-10|Doubly Quantum Mechanics|Vittorio D'Esposito|[2412.05997v3](http://arxiv.org/pdf/2412.05997v3)|
+|2025-04-10|2025-04-10|The Role of Buffer Gas in Shaping the D1 Line Spectrum of Potassium Vapour|Sharaa A. Alqarni|[2504.07888v1](http://arxiv.org/pdf/2504.07888v1)|
+|2025-04-10|2025-04-10|Self-Evaluated Expertise in experimental physics: a measure of students' physics self-recognition|Michael F. J. Fox|[2504.07885v1](http://arxiv.org/pdf/2504.07885v1)|
+
+### Diffusion
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-04-10|2025-04-10|GenEAva: Generating Cartoon Avatars with Fine-Grained Facial Expressions from Realistic Diffusion-based Faces|Hao Yu|[2504.07945v1](http://arxiv.org/pdf/2504.07945v1)|
+|2025-04-10|2025-04-10|Hodge Laplacians and Hodge Diffusion Maps|Alvaro Almeida Gomez|[2504.07910v1](http://arxiv.org/pdf/2504.07910v1)|
+|2025-04-10|2025-04-10|Revisiting Likelihood-Based Out-of-Distribution Detection by Modeling Representations|Yifan Ding|[2504.07793v1](http://arxiv.org/pdf/2504.07793v1)|
+|2025-02-11|2025-04-10|Diffusion-LAM: Probabilistic Limited Area Weather Forecasting with Diffusion|Erik Larsson|[2502.07532v3](http://arxiv.org/pdf/2502.07532v3)|
+|2025-02-09|2025-04-10|GOLD: Graph Out-of-Distribution Detection via Implicit Adversarial Latent Generation|Danny Wang|[2502.05780v2](http://arxiv.org/pdf/2502.05780v2)|
 ## Update on 2025-04-09
 
 ### Physics
