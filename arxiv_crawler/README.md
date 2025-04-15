@@ -144,6 +144,31 @@ TODO:
 
 
 
+
+## Update on 2025-04-15
+
+### Physics
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-04-14|2025-04-14|Probing Long-Range Forces in Neutrino Oscillations at the ESSnuSB Experiment|ESSnuSB|[2504.10480v1](http://arxiv.org/pdf/2504.10480v1)|
+|2025-04-08|2025-04-14|European Strategy for Particle Physics Update -- PIONEER: a next generation rare pion decay experiment|PIONEER Collaboration|[2504.06375v2](http://arxiv.org/pdf/2504.06375v2)|
+|2025-04-14|2025-04-14|Online Advanced Labs in Physics|Peter A. Bennett|[2504.10470v1](http://arxiv.org/pdf/2504.10470v1)|
+|2025-04-14|2025-04-14|De-excitation of $K$-shell hollow atoms with $12 \le Z \le 20$: transition rates and branching ratios|Karol Kozioł|[2504.10467v1](http://arxiv.org/pdf/2504.10467v1)|
+|2025-03-27|2025-04-14|Natural Top Quark Condensation (a Redux)|Christopher T. Hill|[2503.21518v3](http://arxiv.org/pdf/2503.21518v3)|
+|2025-04-14|2025-04-14|The stellar decomposition of Gaussian quantum states|Arsalan Motamedi|[2504.10455v1](http://arxiv.org/pdf/2504.10455v1)|
+|2025-04-14|2025-04-14|A High-Precision, Fast, Robust, and Cost-Effective Muon Detector Concept for the FCC-ee|F. Anulli|[2504.10448v1](http://arxiv.org/pdf/2504.10448v1)|
+|2025-04-07|2025-04-14|Novel Polarimetric Analysis of Near Horizon Flaring Episodes in M87* in Millimeter Wavelength|Razieh Emami|[2504.04695v2](http://arxiv.org/pdf/2504.04695v2)|
+|2023-04-03|2025-04-14|No reliable studies of climate change without Henry's Law and a new thermometer for the global temperature|Jyrki Kauppinen|[2304.01245v2](http://arxiv.org/pdf/2304.01245v2)|
+|2023-02-21|2025-04-14|Compatibilidad del Argumento Cosmológico Kalam con la Ciencia Contemporánea|Carlos Desa|[2302.11022v2](http://arxiv.org/pdf/2302.11022v2)|
+
+### Diffusion
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-04-14|2025-04-14|REPA-E: Unlocking VAE for End-to-End Tuning with Latent Diffusion Transformers|Xingjian Leng|[2504.10483v1](http://arxiv.org/pdf/2504.10483v1)|
+|2025-04-09|2025-04-14|MESA: Text-Driven Terrain Generation Using Latent Diffusion and Global Copernicus Data|Paul Borne--Pons|[2504.07210v2](http://arxiv.org/pdf/2504.07210v2)|
+|2024-12-13|2025-04-14|GAF: Gaussian Avatar Reconstruction from Monocular Videos via Multi-view Diffusion|Jiapeng Tang|[2412.10209v2](http://arxiv.org/pdf/2412.10209v2)|
+|2024-12-01|2025-04-14|Improving Decoupled Posterior Sampling for Inverse Problems using Data Consistency Constraint|Zhi Qi|[2412.00664v2](http://arxiv.org/pdf/2412.00664v2)|
+|2025-04-14|2025-04-14|Efficient Generative Model Training via Embedded Representation Warmup|Deyuan Liu|[2504.10188v1](http://arxiv.org/pdf/2504.10188v1)|
 ## Update on 2025-04-11
 
 ### Physics
