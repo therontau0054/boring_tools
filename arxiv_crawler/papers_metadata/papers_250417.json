@@ -1,0 +1,126 @@
+{
+    "Physics": [
+        {
+            "title": "Quantum algorithm for the gradient of a logarithm-determinant",
+            "authors": "Thomas E. Baker, Jaimie Greasley",
+            "summary": "The logarithm-determinant is a common quantity in many areas of physics and\ncomputer science. Derivatives of the logarithm-determinant compute physically\nrelevant quantities in statistical physics models, quantum field theories, as\nwell as the inverses of matrices. A multi-variable version of the quantum\ngradient algorithm is developed here to evaluate the derivative of the\nlogarithm-determinant. From this, the inverse of a sparse-rank input operator\nmay be determined efficiently. Measuring an expectation value of the quantum\nstate--instead of all $N^2$ elements of the input operator--can be accomplished\nin $O(k\\sigma)$ time in the idealized case for $k$ relevant eigenvectors of the\ninput matrix. A factor $\\sigma=\\frac1{\\varepsilon^3}$ or\n$-\\frac1{\\varepsilon^2}\\log_2\\varepsilon$ depends on the version of the quantum\nFourier transform used for a precision $\\varepsilon$. Practical implementation\nof the required operator will likely need $\\log_2N$ overhead, giving an overall\ncomplexity of $O(k\\sigma\\log_2 N)$. The method applies widely and converges\nsuper-linearly in $k$ when the condition number is high. The best classical\nmethod we are aware of scales as $N$.\n  Given the same resource assumptions as other algorithms, such that an equal\nsuperposition of eigenvectors is available efficiently, the algorithm is\nevaluated in the practical case as $O(\\sigma\\log_2 N)$. The output is given in\n$O(1)$ queries of oracle, which is given explicitly here and only relies on\ntime-evolution operators that can be implemented with arbitrarily small error.\nThe algorithm is envisioned for fully error-corrected quantum computers but may\nbe implementable on near-term machines. We discuss how this algorithm can be\nused for kernel-based quantum machine-learning.",
+            "pdf_url": "http://arxiv.org/pdf/2501.09413v2",
+            "published": "2025-01-16 09:39:31+00:00",
+            "updated": "2025-04-16 17:16:13+00:00"
+        },
+        {
+            "title": "QSHS: An Axion Dark Matter Resonant Search Apparatus",
+            "authors": "A. Alsulami, I. Bailey, G. Carosi, G. Chapman, B. Chakraborty, E. J. Daw, N. Duc, S. Durham, J. Esmenda, J. Gallop, T. Gamble, T. Godfrey, G. Gregori, J. Halliday, L. Hao, E. Hardy, E. A. Laird, P. Leek, J. March-Russell, P. J. Meeson, C. F. Mostyn, Yu. A. Pashkin, S. O. Peatain, M. Perry, M. Piscitelli, M. Reig, E. J. Romans, S. Sarkar, P. J. Smith, A. Sokolov, N. Song, A. Sundararajan, B. -K Tan, S. M. West, S. Withington",
+            "summary": "We describe a resonant cavity search apparatus for axion dark matter\nconstructed by the Quantum Sensors for the Hidden Sector (QSHS) collaboration.\nThe apparatus is configured to search for QCD axion dark matter, though also\nhas the capability to detect axion-like particles (ALPs), dark photons, and\nsome other forms of wave-like dark matter. Initially, a tuneable cylindrical\noxygen-free copper cavity is read out using a low noise microwave amplifier\nfeeding a heterodyne receiver. The cavity is housed in a dilution refrigerator\nand threaded by a solenoidal magnetic field, nominally 8T. The apparatus also\nhouses a magnetic field shield for housing superconducting electronics, and\nseveral other fixed-frequency resonators for use in testing and commissioning\nvarious prototype quantum electronic devices sensitive at a range of axion\nmasses in the range $\\rm 2.0$ to $\\rm 40\\,eV/c^2$. We present performance data\nfor the resonator, dilution refrigerator, and magnet, and plans for the first\nscience run.",
+            "pdf_url": "http://arxiv.org/pdf/2504.12257v1",
+            "published": "2025-04-16 17:08:00+00:00",
+            "updated": "2025-04-16 17:08:00+00:00"
+        },
+        {
+            "title": "MFC 5.0: An exascale many-physics flow solver",
+            "authors": "Benjamin Wilfong, Henry A. Le Berre, Anand Radhakrishnan, Ansh Gupta, Diego Vaca-Revelo, Dimitrios Adam, Haocheng Yu, Hyeoksu Lee, Jose Rodolfo Chreim, Mirelys Carcana Barbosa, Yanjun Zhang, Esteban Cisneros-Garibay, Aswin Gnanaskandan, Mauro Rodriguez Jr., Reuben D. Budiardja, Stephen Abbott, Tim Colonius, Spencer H. Bryngelson",
+            "summary": "Many problems of interest in engineering, medicine, and the fundamental\nsciences rely on high-fidelity flow simulation, making performant computational\nfluid dynamics solvers a mainstay of the open-source software community. A\nprevious work (Bryngelson et al., Comp. Phys. Comm. (2021)) published MFC 3.0\nwith numerous physical features, numerics, and scalability. MFC 5.0 is a marked\nupdate to MFC 3.0, including a broad set of well-established and novel physical\nmodels and numerical methods, and the introduction of XPU acceleration. We\nexhibit state-of-the-art performance and ideal scaling on the first two\nexascale supercomputers, OLCF Frontier and LLNL El Capitan. Combined with MFC's\nsingle-accelerator performance, MFC achieves exascale computation in practice.\nNew physical features include the immersed boundary method, N-fluid phase\nchange, Euler--Euler and Euler--Lagrange sub-grid bubble models,\nfluid-structure interaction, hypo- and hyper-elastic materials, chemically\nreacting flow, two-material surface tension, magnetohydrodynamics (MHD), and\nmore. Numerical techniques now represent the current state-of-the-art,\nincluding general relaxation characteristic boundary conditions, WENO variants,\nStrang splitting for stiff sub-grid flow features, and low Mach number\ntreatments. Weak scaling to tens of thousands of GPUs on OLCF Summit and\nFrontier and LLNL El Capitan sees efficiencies within 5% of ideal to their full\nsystem sizes. Strong scaling results for a 16-times increase in device count\nshow parallel efficiencies over 90% on OLCF Frontier. MFC's software stack has\nimproved, including continuous integration, ensuring code resilience and\ncorrectness through over 300 regression tests; metaprogramming, reducing code\nlength and maintaining performance portability; and code generation for\ncomputing chemical reactions.",
+            "pdf_url": "http://arxiv.org/pdf/2503.07953v3",
+            "published": "2025-03-11 01:27:52+00:00",
+            "updated": "2025-04-16 16:57:48+00:00"
+        },
+        {
+            "title": "Exceptional deficiency of non-Hermitian systems: high-dimensional coalescence and dynamics",
+            "authors": "Zhen Li, Xulong Wang, Rundong Cai, Kenji Shimomura, Zhesen Yang, Masatoshi Sato, Guancong Ma",
+            "summary": "Exceptional points (EPs) are non-Hermitian singularities associated with the\ncoalescence of individual eigenvectors accompanied by the degeneracy of their\ncomplex energies. Here, we report the discovery of a generalization to the\nconcept of EP called exceptional deficiency (ED), which features the complete\ncoalescence of two eigenspaces with identical but arbitrarily large dimensions\nand the coincidence of entire spectral continua. The characteristics of the ED\nare studied using one-way coupled Hermitian and non-Hermitian lattices. The ED\ncan induce an anomalous absence and presence of non-Hermitian skin effect\n(NHSE) that transcends the topological bulk-edge correspondence of NHSE,\nresulting in unexpected synergistic skin-propagative dynamics. The conditions\nof the ED are also explored for unprecedented control of localization and\npropagation in non-Hermitian systems. These effects are experimentally observed\nusing active mechanical lattices. The discovery of ED opens multiple new\nfrontiers in non-Hermitian physics and can potentially resolve long-standing\nchallenges in related applications.",
+            "pdf_url": "http://arxiv.org/pdf/2504.12238v1",
+            "published": "2025-04-16 16:43:42+00:00",
+            "updated": "2025-04-16 16:43:42+00:00"
+        },
+        {
+            "title": "Multimodal Lego: Model Merging and Fine-Tuning Across Topologies and Modalities in Biomedicine",
+            "authors": "Konstantin Hemker, Nikola Simidjievski, Mateja Jamnik",
+            "summary": "Learning holistic computational representations in physical, chemical or\nbiological systems requires the ability to process information from different\ndistributions and modalities within the same model. Thus, the demand for\nmultimodal machine learning models has sharply risen for modalities that go\nbeyond vision and language, such as sequences, graphs, time series, or tabular\ndata. While there are many available multimodal fusion and alignment\napproaches, most of them require end-to-end training, scale quadratically with\nthe number of modalities, cannot handle cases of high modality imbalance in the\ntraining set, or are highly topology-specific, making them too restrictive for\nmany biomedical learning tasks. This paper presents Multimodal Lego (MM-Lego),\na general-purpose fusion framework to turn any set of encoders into a\ncompetitive multimodal model with no or minimal fine-tuning. We achieve this by\nintroducing a wrapper for any unimodal encoder that enforces shape consistency\nbetween modality representations. It harmonises these representations by\nlearning features in the frequency domain to enable model merging with little\nsignal interference. We show that MM-Lego 1) can be used as a model merging\nmethod which achieves competitive performance with end-to-end fusion models\nwithout any fine-tuning, 2) can operate on any unimodal encoder, and 3) is a\nmodel fusion method that, with minimal fine-tuning, surpasses all benchmarks in\nfive out of seven datasets.",
+            "pdf_url": "http://arxiv.org/pdf/2405.19950v2",
+            "published": "2024-05-30 11:14:01+00:00",
+            "updated": "2025-04-16 16:43:35+00:00"
+        },
+        {
+            "title": "Using skateboarding to develop a culturally relevant tutorial on static equilibrium",
+            "authors": "Gian Viray, Isaac Cheney, Tong Wan",
+            "summary": "Culturally relevant pedagogy (CRP), initially developed by Ladson-Billings,\nis an instructional framework for supporting diverse learners by drawing on\ntheir cultural backgrounds and experiences. In line with the CRP framework, we\ndeveloped a tutorial on static equilibrium using skateboarding, a popular\nactivity on university campuses, as a culturally relevant context. To help\nstudents refine their conceptions about static equilibrium documented in the\nphysics education research (PER) literature, we used the\nelicit-confront-resolve (ECR) strategy to develop the tutorial. In this paper,\nwe provide a detailed account of how we operationalized the ECR strategy in\ndesigning the sequences of questions in the tutorial. Additionally, we present\nanecdotal evidence to show that this research-based culturally relevant\ntutorial appears to effectively engage students and motivate their interest in\nlearning physics.",
+            "pdf_url": "http://arxiv.org/pdf/2406.17625v3",
+            "published": "2024-06-25 15:11:56+00:00",
+            "updated": "2025-04-16 16:12:50+00:00"
+        },
+        {
+            "title": "Non-Hermitian Numerical Renormalization Group: Solution of the non-Hermitian Kondo model",
+            "authors": "Phillip C. Burke, Andrew K. Mitchell",
+            "summary": "Non-Hermitian (NH) Hamiltonians describe open quantum systems, nonequilibrium\ndynamics, and dissipative processes. Although a rich range of single-particle\nNH physics has been uncovered, many-body phenomena in strongly correlated NH\nsystems have been far less well studied. The Kondo effect, an important\nparadigm for strong correlation physics, has recently been considered in the NH\nsetting. Here we develop a NH generalization of the numerical renormalization\ngroup (NRG) and use it to solve the NH Kondo model. Our non-perturbative\nsolution applies beyond weak coupling, and we uncover a nontrivial phase\ndiagram. The method is showcased by application to the NH pseudogap Kondo\nmodel, which we show supports a completely novel phase with a genuine NH stable\nfixed point and complex eigenspectrum. Our NH-NRG code, which can be used in\nregimes and for models inaccessible to, e.g., perturbative scaling and Bethe\nansatz, is provided open source.",
+            "pdf_url": "http://arxiv.org/pdf/2504.07019v2",
+            "published": "2025-04-09 16:34:49+00:00",
+            "updated": "2025-04-16 15:56:48+00:00"
+        },
+        {
+            "title": "Care for the Mind Amid Chronic Diseases: An Interpretable AI Approach Using IoT",
+            "authors": "Jiaheng Xie, Xiaohang Zhao, Xiang Liu, Xiao Fang",
+            "summary": "Health sensing for chronic disease management creates immense benefits for\nsocial welfare. Existing health sensing studies primarily focus on the\nprediction of physical chronic diseases. Depression, a widespread complication\nof chronic diseases, is however understudied. We draw on the medical literature\nto support depression detection using motion sensor data. To connect humans in\nthis decision-making, safeguard trust, and ensure algorithm transparency, we\ndevelop an interpretable deep learning model: Temporal Prototype Network\n(TempPNet). TempPNet is built upon the emergent prototype learning models. To\naccommodate the temporal characteristic of sensor data and the progressive\nproperty of depression, TempPNet differs from existing prototype learning\nmodels in its capability of capturing temporal progressions of prototypes.\nExtensive empirical analyses using real-world motion sensor data show that\nTempPNet outperforms state-of-the-art benchmarks in depression detection.\nMoreover, TempPNet interprets its decision by visualizing the temporal\nprogression of depression and its corresponding symptoms detected from sensor\ndata. We further employ a user study and a medical expert panel to demonstrate\nits superiority over the benchmarks in interpretability. This study offers an\nalgorithmic solution for impactful social good -- collaborative care of chronic\ndiseases and depression in health sensing. Methodologically, it contributes to\nextant literature with a novel interpretable deep learning model for depression\ndetection from sensor data. Patients, doctors, and caregivers can deploy our\nmodel on mobile devices to monitor patients' depression risks in real-time. Our\nmodel's interpretability also allows human experts to participate in the\ndecision-making by reviewing the interpretation and making informed\ninterventions.",
+            "pdf_url": "http://arxiv.org/pdf/2211.04509v2",
+            "published": "2022-11-08 19:09:39+00:00",
+            "updated": "2025-04-16 15:54:53+00:00"
+        },
+        {
+            "title": "Correlations as a resource in molecular switches",
+            "authors": "Daniel Siciliano, Rudi B. P. Pietsch, Giovanni Spaventa, Susana F. Huelga, Martin B. Plenio",
+            "summary": "Photoisomerization, a photochemical process underlying many biological\nmechanisms, has been modeled recently within the quantum resource theory of\nthermodynamics. This approach has emerged as a promising tool for studying\nfundamental limitations to nanoscale processes independently of the microscopic\ndetails governing their dynamics. On the other hand, correlations between\nphysical systems have been shown to play a crucial role in quantum\nthermodynamics by lowering the work cost of certain operations. Here, we\nexplore quantitatively how correlations between multiple photoswitches can\nenhance the efficiency of photoisomerization beyond that attainable for single\nmolecules. Furthermore, our analysis provides insights into the interplay\nbetween quantum and classical correlations in these transformations.",
+            "pdf_url": "http://arxiv.org/pdf/2504.12202v1",
+            "published": "2025-04-16 15:52:59+00:00",
+            "updated": "2025-04-16 15:52:59+00:00"
+        },
+        {
+            "title": "Evidential Deep Learning for Interatomic Potentials",
+            "authors": "Han Xu, Taoyong Cui, Chenyu Tang, Jinzhe Ma, Dongzhan Zhou, Yuqiang Li, Xiang Gao, Xingao Gong, Wanli Ouyang, Shufei Zhang, Mao Su",
+            "summary": "Machine learning interatomic potentials (MLIPs) have been widely used to\nfacilitate large-scale molecular simulations with accuracy comparable to ab\ninitio methods. In practice, MLIP-based molecular simulations often encounter\nthe issue of collapse due to reduced prediction accuracy for\nout-of-distribution (OOD) data. Addressing this issue requires enriching the\ntraining dataset through active learning, where uncertainty serves as a\ncritical indicator for identifying and collecting OOD data. However, existing\nuncertainty quantification (UQ) methods tend to involve either expensive\ncomputations or compromise prediction accuracy. In this work, we introduce\nevidential deep learning for interatomic potentials (eIP) with a\nphysics-inspired design. Our experiments indicate that eIP provides reliable UQ\nresults without significant computational overhead or decreased prediction\naccuracy, consistently outperforming other UQ methods across a variety of\ndatasets. Furthermore, we demonstrate the applications of eIP in exploring\ndiverse atomic configurations, using examples including water and universal\npotentials. These results highlight the potential of eIP as a robust and\nefficient alternative for UQ in molecular simulations.",
+            "pdf_url": "http://arxiv.org/pdf/2407.13994v2",
+            "published": "2024-07-19 02:54:36+00:00",
+            "updated": "2025-04-16 15:49:07+00:00"
+        }
+    ],
+    "Diffusion": [
+        {
+            "title": "How Do I Do That? Synthesizing 3D Hand Motion and Contacts for Everyday Interactions",
+            "authors": "Aditya Prakash, Benjamin Lundell, Dmitry Andreychuk, David Forsyth, Saurabh Gupta, Harpreet Sawhney",
+            "summary": "We tackle the novel problem of predicting 3D hand motion and contact maps (or\nInteraction Trajectories) given a single RGB view, action text, and a 3D\ncontact point on the object as input. Our approach consists of (1) Interaction\nCodebook: a VQVAE model to learn a latent codebook of hand poses and contact\npoints, effectively tokenizing interaction trajectories, (2) Interaction\nPredictor: a transformer-decoder module to predict the interaction trajectory\nfrom test time inputs by using an indexer module to retrieve a latent\naffordance from the learned codebook. To train our model, we develop a data\nengine that extracts 3D hand poses and contact trajectories from the diverse\nHoloAssist dataset. We evaluate our model on a benchmark that is 2.5-10X larger\nthan existing works, in terms of diversity of objects and interactions\nobserved, and test for generalization of the model across object categories,\naction categories, tasks, and scenes. Experimental results show the\neffectiveness of our approach over transformer & diffusion baselines across all\nsettings.",
+            "pdf_url": "http://arxiv.org/pdf/2504.12284v1",
+            "published": "2025-04-16 17:48:12+00:00",
+            "updated": "2025-04-16 17:48:12+00:00"
+        },
+        {
+            "title": "d1: Scaling Reasoning in Diffusion Large Language Models via Reinforcement Learning",
+            "authors": "Siyan Zhao, Devaansh Gupta, Qinqing Zheng, Aditya Grover",
+            "summary": "Recent large language models (LLMs) have demonstrated strong reasoning\ncapabilities that benefits from online reinforcement learning (RL). These\ncapabilities have primarily been demonstrated within the left-to-right\nautoregressive (AR) generation paradigm. In contrast, non-autoregressive\nparadigms based on diffusion generate text in a coarse-to-fine manner. Although\nrecent diffusion-based large language models (dLLMs) have achieved competitive\nlanguage modeling performance compared to their AR counterparts, it remains\nunclear if dLLMs can also leverage recent advances in LLM reasoning. To this\nend, we propose d1, a framework to adapt pre-trained masked dLLMs into\nreasoning models via a combination of supervised finetuning (SFT) and RL.\nSpecifically, we develop and extend techniques to improve reasoning in\npretrained dLLMs: (a) we utilize a masked SFT technique to distill knowledge\nand instill self-improvement behavior directly from existing datasets, and (b)\nwe introduce a novel critic-free, policy-gradient based RL algorithm called\ndiffu-GRPO. Through empirical studies, we investigate the performance of\ndifferent post-training recipes on multiple mathematical and logical reasoning\nbenchmarks. We find that d1 yields the best performance and significantly\nimproves performance of a state-of-the-art dLLM.",
+            "pdf_url": "http://arxiv.org/pdf/2504.12216v1",
+            "published": "2025-04-16 16:08:45+00:00",
+            "updated": "2025-04-16 16:08:45+00:00"
+        },
+        {
+            "title": "Score as Action: Fine-Tuning Diffusion Generative Models by Continuous-time Reinforcement Learning",
+            "authors": "Hanyang Zhao, Haoxian Chen, Ji Zhang, David D. Yao, Wenpin Tang",
+            "summary": "Reinforcement learning from human feedback (RLHF), which aligns a diffusion\nmodel with input prompt, has become a crucial step in building reliable\ngenerative AI models. Most works in this area use a discrete-time formulation,\nwhich is prone to induced errors, and often not applicable to models with\nhigher-order/black-box solvers. The objective of this study is to develop a\ndisciplined approach to fine-tune diffusion models using continuous-time RL,\nformulated as a stochastic control problem with a reward function that aligns\nthe end result (terminal state) with input prompt. The key idea is to treat\nscore matching as controls or actions, and thereby making connections to policy\noptimization and regularization in continuous-time RL. To carry out this idea,\nwe lay out a new policy optimization framework for continuous-time RL, and\nillustrate its potential in enhancing the value networks design space via\nleveraging the structural property of diffusion models. We validate the\nadvantages of our method by experiments in downstream tasks of fine-tuning\nlarge-scale Text2Image models of Stable Diffusion v1.5.",
+            "pdf_url": "http://arxiv.org/pdf/2502.01819v2",
+            "published": "2025-02-03 20:50:05+00:00",
+            "updated": "2025-04-16 15:36:36+00:00"
+        },
+        {
+            "title": "Fine-Tuning Diffusion Generative Models via Rich Preference Optimization",
+            "authors": "Hanyang Zhao, Haoxian Chen, Yucheng Guo, Genta Indra Winata, Tingting Ou, Ziyu Huang, David D. Yao, Wenpin Tang",
+            "summary": "We introduce Rich Preference Optimization (RPO), a novel pipeline that\nleverages rich feedback signals to improve the curation of preference pairs for\nfine-tuning text-to-image diffusion models. Traditional methods, like\nDiffusion-DPO, often rely solely on reward model labeling, which can be opaque,\noffer limited insights into the rationale behind preferences, and are prone to\nissues such as reward hacking or overfitting. In contrast, our approach begins\nwith generating detailed critiques of synthesized images to extract reliable\nand actionable image editing instructions. By implementing these instructions,\nwe create refined images, resulting in synthetic, informative preference pairs\nthat serve as enhanced tuning datasets. We demonstrate the effectiveness of our\npipeline and the resulting datasets in fine-tuning state-of-the-art diffusion\nmodels.",
+            "pdf_url": "http://arxiv.org/pdf/2503.11720v3",
+            "published": "2025-03-13 21:10:29+00:00",
+            "updated": "2025-04-16 15:28:55+00:00"
+        },
+        {
+            "title": "AttentionDrop: A Novel Regularization Method for Transformer Models",
+            "authors": "Mirza Samad Ahmed Baig, Syeda Anshrah Gillani, Abdul Akbar Khan, Shahid Munir Shah",
+            "summary": "Transformer-based architectures achieve state-of-the-art performance across a\nwide range of tasks in natural language processing, computer vision, and\nspeech. However, their immense capacity often leads to overfitting, especially\nwhen training data is limited or noisy. We propose AttentionDrop, a unified\nfamily of stochastic regularization techniques that operate directly on the\nself-attention distributions. We introduces three variants: 1. Hard Attention\nMasking: randomly zeroes out top-k attention logits per query to encourage\ndiverse context utilization. 2. Blurred Attention Smoothing: applies a dynamic\nGaussian convolution over attention logits to diffuse overly peaked\ndistributions. 3. Consistency-Regularized AttentionDrop: enforces output\nstability under multiple independent AttentionDrop perturbations via a KL-based\nconsistency loss.",
+            "pdf_url": "http://arxiv.org/pdf/2504.12088v1",
+            "published": "2025-04-16 13:51:16+00:00",
+            "updated": "2025-04-16 13:51:16+00:00"
+        }
+    ]
+}

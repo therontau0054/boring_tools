@@ -145,6 +145,31 @@ TODO:
 
 
 
+
+## Update on 2025-04-17
+
+### Physics
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-01-16|2025-04-16|Quantum algorithm for the gradient of a logarithm-determinant|Thomas E. Baker|[2501.09413v2](http://arxiv.org/pdf/2501.09413v2)|
+|2025-04-16|2025-04-16|QSHS: An Axion Dark Matter Resonant Search Apparatus|A. Alsulami|[2504.12257v1](http://arxiv.org/pdf/2504.12257v1)|
+|2025-03-11|2025-04-16|MFC 5.0: An exascale many-physics flow solver|Benjamin Wilfong|[2503.07953v3](http://arxiv.org/pdf/2503.07953v3)|
+|2025-04-16|2025-04-16|Exceptional deficiency of non-Hermitian systems: high-dimensional coalescence and dynamics|Zhen Li|[2504.12238v1](http://arxiv.org/pdf/2504.12238v1)|
+|2024-05-30|2025-04-16|Multimodal Lego: Model Merging and Fine-Tuning Across Topologies and Modalities in Biomedicine|Konstantin Hemker|[2405.19950v2](http://arxiv.org/pdf/2405.19950v2)|
+|2024-06-25|2025-04-16|Using skateboarding to develop a culturally relevant tutorial on static equilibrium|Gian Viray|[2406.17625v3](http://arxiv.org/pdf/2406.17625v3)|
+|2025-04-09|2025-04-16|Non-Hermitian Numerical Renormalization Group: Solution of the non-Hermitian Kondo model|Phillip C. Burke|[2504.07019v2](http://arxiv.org/pdf/2504.07019v2)|
+|2022-11-08|2025-04-16|Care for the Mind Amid Chronic Diseases: An Interpretable AI Approach Using IoT|Jiaheng Xie|[2211.04509v2](http://arxiv.org/pdf/2211.04509v2)|
+|2025-04-16|2025-04-16|Correlations as a resource in molecular switches|Daniel Siciliano|[2504.12202v1](http://arxiv.org/pdf/2504.12202v1)|
+|2024-07-19|2025-04-16|Evidential Deep Learning for Interatomic Potentials|Han Xu|[2407.13994v2](http://arxiv.org/pdf/2407.13994v2)|
+
+### Diffusion
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-04-16|2025-04-16|How Do I Do That? Synthesizing 3D Hand Motion and Contacts for Everyday Interactions|Aditya Prakash|[2504.12284v1](http://arxiv.org/pdf/2504.12284v1)|
+|2025-04-16|2025-04-16|d1: Scaling Reasoning in Diffusion Large Language Models via Reinforcement Learning|Siyan Zhao|[2504.12216v1](http://arxiv.org/pdf/2504.12216v1)|
+|2025-02-03|2025-04-16|Score as Action: Fine-Tuning Diffusion Generative Models by Continuous-time Reinforcement Learning|Hanyang Zhao|[2502.01819v2](http://arxiv.org/pdf/2502.01819v2)|
+|2025-03-13|2025-04-16|Fine-Tuning Diffusion Generative Models via Rich Preference Optimization|Hanyang Zhao|[2503.11720v3](http://arxiv.org/pdf/2503.11720v3)|
+|2025-04-16|2025-04-16|AttentionDrop: A Novel Regularization Method for Transformer Models|Mirza Samad Ahmed Baig|[2504.12088v1](http://arxiv.org/pdf/2504.12088v1)|
 ## Update on 2025-04-15
 
 ### Physics
