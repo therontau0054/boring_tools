@@ -146,6 +146,31 @@ TODO:
 
 
 
+
+## Update on 2025-04-19
+
+### Physics
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-04-17|2025-04-17|Quantum algorithm for solving nonlinear differential equations based on physics-informed effective Hamiltonians|Hsin-Yu Wu|[2504.13174v1](http://arxiv.org/pdf/2504.13174v1)|
+|2025-04-17|2025-04-17|Experimental Verification of Electron-Photon Entanglement|Alexander Preimesberger|[2504.13163v1](http://arxiv.org/pdf/2504.13163v1)|
+|2025-04-17|2025-04-17|Constraints on Anisotropic Cosmic Birefringence from CMB B-mode Polarization|A. I. Lonappan|[2504.13154v1](http://arxiv.org/pdf/2504.13154v1)|
+|2025-04-17|2025-04-17|Readable Twins of Unreadable Models|Krzysztof Pancerz|[2504.13150v1](http://arxiv.org/pdf/2504.13150v1)|
+|2025-04-17|2025-04-17|Bayesian model-data comparison incorporating theoretical uncertainties|Sunil Jaiswal|[2504.13144v1](http://arxiv.org/pdf/2504.13144v1)|
+|2025-04-17|2025-04-17|Probing CP-Violating Neutral Triple Gauge Couplings at Electron-Positron Colliders|John Ellis|[2504.13135v1](http://arxiv.org/pdf/2504.13135v1)|
+|2025-04-17|2025-04-17|Feedforward suppression of readout-induced faults in quantum error correction|Liran Shirizly|[2504.13083v1](http://arxiv.org/pdf/2504.13083v1)|
+|2025-04-17|2025-04-17|Combination and interpretation of differential Higgs boson production cross sections in proton-proton collisions at $\sqrt{s}$ = 13 TeV|CMS Collaboration|[2504.13081v1](http://arxiv.org/pdf/2504.13081v1)|
+|2025-04-17|2025-04-17|Seeing Beyond Dark-Field RGB Capabilities: Deep Spectral Extrapolation of Ultrasmall Plasmonic Nanogaps|Mohammadrahim Kazemzadeh|[2504.13062v1](http://arxiv.org/pdf/2504.13062v1)|
+|2025-04-17|2025-04-17|Observation of quantum entanglement between free electrons and photons|Jan-Wilke Henke|[2504.13047v1](http://arxiv.org/pdf/2504.13047v1)|
+
+### Diffusion
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-04-17|2025-04-17|NTIRE 2025 Challenge on Short-form UGC Video Quality Assessment and Enhancement: Methods and Results|Xin Li|[2504.13131v1](http://arxiv.org/pdf/2504.13131v1)|
+|2025-04-17|2025-04-17|Enhancing Person-to-Person Virtual Try-On with Multi-Garment Virtual Try-Off|Riza Velioglu|[2504.13078v1](http://arxiv.org/pdf/2504.13078v1)|
+|2024-09-23|2025-04-17|Learning Diverse Robot Striking Motions with Diffusion Models and Kinematically Constrained Gradient Guidance|Kin Man Lee|[2409.15528v2](http://arxiv.org/pdf/2409.15528v2)|
+|2025-04-17|2025-04-17|ArtistAuditor: Auditing Artist Style Pirate in Text-to-Image Generation Models|Linkang Du|[2504.13061v1](http://arxiv.org/pdf/2504.13061v1)|
+|2024-04-16|2025-04-17|SparseDM: Toward Sparse Efficient Diffusion Models|Kafeng Wang|[2404.10445v4](http://arxiv.org/pdf/2404.10445v4)|
 ## Update on 2025-04-17
 
 ### Physics
