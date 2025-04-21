@@ -147,6 +147,31 @@ TODO:
 
 
 
+
+## Update on 2025-04-21
+
+### Physics
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-04-18|2025-04-18|Accurate Point Defect Energy Levels from Non-Empirical Screened Range-Separated Hybrid Functionals: the Case of Native Vacancies in ZnO|Sijia Ke|[2504.13799v1](http://arxiv.org/pdf/2504.13799v1)|
+|2025-04-18|2025-04-18|Meta-Learning and Knowledge Discovery based Physics-Informed Neural Network for Remaining Useful Life Prediction|Yu Wang|[2504.13797v1](http://arxiv.org/pdf/2504.13797v1)|
+|2025-03-30|2025-04-18|Neutrino Scattering: Connections Across Theory and Experiment|L. Alvarez-Ruso|[2503.23556v3](http://arxiv.org/pdf/2503.23556v3)|
+|2025-04-18|2025-04-18|Equi-Euler GraphNet: An Equivariant, Temporal-Dynamics Informed Graph Neural Network for Dual Force and Trajectory Prediction in Multi-Body Systems|Vinay Sharma|[2504.13768v1](http://arxiv.org/pdf/2504.13768v1)|
+|2025-04-18|2025-04-18|Explanation for the development of surface -plasma method of negative ion production in BINP and around the World|Vadim Dudnikov|[2504.13742v1](http://arxiv.org/pdf/2504.13742v1)|
+|2025-04-18|2025-04-18|Expected statistical uncertainties at future $e^+e^-$ colliders|Hieu Minh Tran|[2504.13734v1](http://arxiv.org/pdf/2504.13734v1)|
+|2025-04-18|2025-04-18|The relativity of color perception|Michel Berthier|[2504.13720v1](http://arxiv.org/pdf/2504.13720v1)|
+|2025-04-18|2025-04-18|Landscape of Quantum Information Science and Engineering Education: From Physics Foundations to Interdisciplinary Frontiers|A. R. Piña|[2504.13719v1](http://arxiv.org/pdf/2504.13719v1)|
+|2025-04-18|2025-04-18|Exploring unique design features of the Monolithic Stitched Sensor with Timing (MOST): yield, powering, timing, and sensor reverse bias|Mariia Selina|[2504.13696v1](http://arxiv.org/pdf/2504.13696v1)|
+|2025-03-21|2025-04-18|Adiabatic Fine-Tuning of Neural Quantum States Enables Detection of Phase Transitions in Weight Space|Vinicius Hernandes|[2503.17140v2](http://arxiv.org/pdf/2503.17140v2)|
+
+### Diffusion
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-04-18|2025-04-18|Decoding Vision Transformers: the Diffusion Steering Lens|Ryota Takatsuki|[2504.13763v1](http://arxiv.org/pdf/2504.13763v1)|
+|2025-04-16|2025-04-18|Adjoint Sampling: Highly Scalable Diffusion Samplers via Adjoint Matching|Aaron Havens|[2504.11713v2](http://arxiv.org/pdf/2504.11713v2)|
+|2025-04-18|2025-04-18|ESPLoRA: Enhanced Spatial Precision with Low-Rank Adaption in Text-to-Image Diffusion Models for High-Definition Synthesis|Andrea Rigo|[2504.13745v1](http://arxiv.org/pdf/2504.13745v1)|
+|2025-04-18|2025-04-18|Entropic Time Schedulers for Generative Diffusion Models|Dejan Stancevic|[2504.13612v1](http://arxiv.org/pdf/2504.13612v1)|
+|2025-04-18|2025-04-18|Task Assignment and Exploration Optimization for Low Altitude UAV Rescue via Generative AI Enhanced Multi-agent Reinforcement Learning|Xin Tang|[2504.13554v1](http://arxiv.org/pdf/2504.13554v1)|
 ## Update on 2025-04-19
 
 ### Physics
