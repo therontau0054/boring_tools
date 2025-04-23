@@ -148,6 +148,30 @@ TODO:
 
 
 
+
+## Update on 2025-04-23
+
+### Physics
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2024-09-04|2025-04-22|A method for site-specifically tethering the enzyme urease to DNA origami with sustained activity|Ian Murphy|[2409.03040v2](http://arxiv.org/pdf/2409.03040v2)|
+|2025-04-22|2025-04-22|RGUP Corrections to Scalar and Fermionic Fields|Gaurav Bhandari|[2504.16043v1](http://arxiv.org/pdf/2504.16043v1)|
+|2025-04-14|2025-04-22|Egocentric Mixed-Methods SNA: Analyzing Interviews with Women and/or Queer and LGBT+ Ph.D. Physicists|Chase Hatcher|[2504.10621v2](http://arxiv.org/pdf/2504.10621v2)|
+|2025-04-22|2025-04-22|LHCspin: a Polarized Gas Target for LHC|A. Accardi|[2504.16034v1](http://arxiv.org/pdf/2504.16034v1)|
+|2024-08-26|2025-04-22|Cosmology and nuclear-physics implications of a subsolar gravitational-wave event|Francesco Crescimbeni|[2408.14287v2](http://arxiv.org/pdf/2408.14287v2)|
+|2024-03-07|2025-04-22|Quantum Algorithm for Reversing Unknown Unitary Evolutions|Yu-Ao Chen|[2403.04704v2](http://arxiv.org/pdf/2403.04704v2)|
+|2025-04-22|2025-04-22|Modeling Tidal Disruptions with Dynamical Tides|Zihan Zhou|[2504.16025v1](http://arxiv.org/pdf/2504.16025v1)|
+|2025-04-22|2025-04-22|Non-Renormalizable SU(5) GUTs: Leptoquark-Induced Neutrino Masses|Ilja Doršner|[2504.16022v1](http://arxiv.org/pdf/2504.16022v1)|
+|2024-09-25|2025-04-22|Polarized and unpolarized gluon PDFs: generative machine learning applications for lattice QCD matrix elements at short distance and large momentum|Talal Ahmed Chowdhury|[2409.17234v2](http://arxiv.org/pdf/2409.17234v2)|
+|2025-04-22|2025-04-22|Probing New Physics Through CP Violation in $B_{(s)}\to Vμ^+μ^-$ Decays|Robert Fleischer|[2504.16014v1](http://arxiv.org/pdf/2504.16014v1)|
+
+### Diffusion
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-04-22|2025-04-22|Adversarial Observations in Weather Forecasting|Erik Imgrund|[2504.15942v1](http://arxiv.org/pdf/2504.15942v1)|
+|2025-04-22|2025-04-22|Clifford Group Equivariant Diffusion Models for 3D Molecular Generation|Cong Liu|[2504.15773v1](http://arxiv.org/pdf/2504.15773v1)|
+|2025-04-22|2025-04-22|Markov Kernels, Distances and Optimal Control: A Parable of Linear Quadratic Non-Gaussian Distribution Steering|Alexis M. H. Teter|[2504.15753v1](http://arxiv.org/pdf/2504.15753v1)|
+|2025-02-04|2025-04-22|On the Guidance of Flow Matching|Ruiqi Feng|[2502.02150v2](http://arxiv.org/pdf/2502.02150v2)|
 ## Update on 2025-04-21
 
 ### Physics
