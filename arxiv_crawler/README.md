@@ -149,6 +149,31 @@ TODO:
 
 
 
+
+## Update on 2025-04-25
+
+### Physics
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-04-16|2025-04-24|Time Advance and Probability Conservation in $PT$-Symmetric Quantum Mechanics|Philip D. Mannheim|[2504.12068v2](http://arxiv.org/pdf/2504.12068v2)|
+|2025-04-24|2025-04-24|Collisionless ion-electron energy exchange in magnetized shocks|Y. Zhang|[2504.17774v1](http://arxiv.org/pdf/2504.17774v1)|
+|2025-04-24|2025-04-24|Integrating Learning-Based Manipulation and Physics-Based Locomotion for Whole-Body Badminton Robot Control|Haochen Wang|[2504.17771v1](http://arxiv.org/pdf/2504.17771v1)|
+|2025-04-24|2025-04-24|Zeptosecond free-electron compression through temporal lensing|Xin Jin|[2504.17770v1](http://arxiv.org/pdf/2504.17770v1)|
+|2025-04-24|2025-04-24|Extended Scalar Particle Solutions in Black String Spacetimes with Anisotropic Quintessence|M. L. Deglmann|[2504.17765v1](http://arxiv.org/pdf/2504.17765v1)|
+|2025-04-24|2025-04-24|Measurements of inclusive and differential Higgs boson production cross sections at $\sqrt{s}$ = 13.6 TeV in the H $\to$ $γγ$ decay channel|CMS Collaboration|[2504.17755v1](http://arxiv.org/pdf/2504.17755v1)|
+|2025-04-24|2025-04-24|Disaggregated Deep Learning via In-Physics Computing at Radio Frequency|Zhihui Gao|[2504.17752v1](http://arxiv.org/pdf/2504.17752v1)|
+|2025-04-24|2025-04-24|Optical to infrared mapping of vapor-to-liquid phase change dynamics using generative machine learning|Siavash Khodakarami|[2504.17726v1](http://arxiv.org/pdf/2504.17726v1)|
+|2023-03-08|2025-04-24|Hierarchical memories: Simulating quantum LDPC codes with local gates|Christopher A. Pattison|[2303.04798v2](http://arxiv.org/pdf/2303.04798v2)|
+|2025-04-13|2025-04-24|Beyond Spin: Torsion-Driven Nonlinearity in Spinless Quantum Mechanics|Tomoi Koide|[2504.09698v2](http://arxiv.org/pdf/2504.09698v2)|
+
+### Diffusion
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-02-01|2025-04-24|Weak-to-Strong Diffusion with Reflection|Lichen Bai|[2502.00473v3](http://arxiv.org/pdf/2502.00473v3)|
+|2025-04-24|2025-04-24|polyGen: A Learning Framework for Atomic-level Polymer Structure Generation|Ayush Jain|[2504.17656v1](http://arxiv.org/pdf/2504.17656v1)|
+|2025-04-24|2025-04-24|TarDiff: Target-Oriented Diffusion Guidance for Synthetic Electronic Health Record Time Series Generation|Bowen Deng|[2504.17613v1](http://arxiv.org/pdf/2504.17613v1)|
+|2025-04-23|2025-04-24|Simple Graph Contrastive Learning via Fractional-order Neural Diffusion Networks|Yanan Zhao|[2504.16748v2](http://arxiv.org/pdf/2504.16748v2)|
+|2025-04-23|2025-04-24|Hyper-Transforming Latent Diffusion Models|Ignacio Peis|[2504.16580v2](http://arxiv.org/pdf/2504.16580v2)|
 ## Update on 2025-04-23
 
 ### Physics

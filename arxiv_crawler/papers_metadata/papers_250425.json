@@ -1,0 +1,126 @@
+{
+    "Physics": [
+        {
+            "title": "Time Advance and Probability Conservation in $PT$-Symmetric Quantum Mechanics",
+            "authors": "Philip D. Mannheim",
+            "summary": "When excited states decay the time evolution operator $U(t)=e^{-iHt}$ does\nnot obey $U^{\\dagger}(t)U(t)=I$. Nonetheless, probability conservation is not\nlost if one includes both excitation and decay, though it takes a different\nform. Specifically, if the eigenspectrum of a Hamiltonian is complete, then due\nto $CPT$ symmetry, a symmetry that holds for all physical systems, there must\nexist an operator $V$ that effects $VHV^{-1}=H^{\\dagger}$, so that\n$V^{-1}U^{\\dagger}(t)VU(t)=I$. In consequence, the time delay associated with\ndecay must be accompanied by an equal and opposite time advance for excitation.\nThus when a photon excites an atom the spontaneous emission of a photon from\nthe excited state must occur without any decay time delay at all.",
+            "pdf_url": "http://arxiv.org/pdf/2504.12068v2",
+            "published": "2025-04-16 13:24:07+00:00",
+            "updated": "2025-04-24 17:51:37+00:00"
+        },
+        {
+            "title": "Collisionless ion-electron energy exchange in magnetized shocks",
+            "authors": "Y. Zhang, P. V. Heuer, H. Wen, J. R. Davies, C. Ren, D. B. Schaeffer, E. G. Blackman, J. Zhang, A. Bret, F. Garc\u00eda-Rubio",
+            "summary": "Energy partition between ions and electrons in collisionless shocks has long\nbeen an unsolved fundamental physical problem. We show that kinetic simulations\nof moderate Alfv\\'enic Mach number, magnetized, collisionless shocks reveal\nrapid, faster-than-Coulomb, energy exchange between ions and electrons when the\nplasma is sufficiently magnetized. Using kinetic and multi-fluid models with\ncounter-streaming ions, we identify resonances between electron whistler and\nion magnetohydrodynamic waves that account for this rapid energy exchange.",
+            "pdf_url": "http://arxiv.org/pdf/2504.17774v1",
+            "published": "2025-04-24 17:48:21+00:00",
+            "updated": "2025-04-24 17:48:21+00:00"
+        },
+        {
+            "title": "Integrating Learning-Based Manipulation and Physics-Based Locomotion for Whole-Body Badminton Robot Control",
+            "authors": "Haochen Wang, Zhiwei Shi, Chengxi Zhu, Yafei Qiao, Cheng Zhang, Fan Yang, Pengjie Ren, Lan Lu, Dong Xuan",
+            "summary": "Learning-based methods, such as imitation learning (IL) and reinforcement\nlearning (RL), can produce excel control policies over challenging agile robot\ntasks, such as sports robot. However, no existing work has harmonized\nlearning-based policy with model-based methods to reduce training complexity\nand ensure the safety and stability for agile badminton robot control. In this\npaper, we introduce \\ourmethod, a novel hybrid control system for agile\nbadminton robots. Specifically, we propose a model-based strategy for chassis\nlocomotion which provides a base for arm policy. We introduce a\nphysics-informed ``IL+RL'' training framework for learning-based arm policy. In\nthis train framework, a model-based strategy with privileged information is\nused to guide arm policy training during both IL and RL phases. In addition, we\ntrain the critic model during IL phase to alleviate the performance drop issue\nwhen transitioning from IL to RL. We present results on our self-engineered\nbadminton robot, achieving 94.5% success rate against the serving machine and\n90.7% success rate against human players. Our system can be easily generalized\nto other agile mobile manipulation tasks such as agile catching and table\ntennis. Our project website: https://dreamstarring.github.io/HAMLET/.",
+            "pdf_url": "http://arxiv.org/pdf/2504.17771v1",
+            "published": "2025-04-24 17:46:29+00:00",
+            "updated": "2025-04-24 17:46:29+00:00"
+        },
+        {
+            "title": "Zeptosecond free-electron compression through temporal lensing",
+            "authors": "Xin Jin, Cruz I. Velasco, F. Javier Garc\u00eda de Abajo",
+            "summary": "The pursuit of ever-shorter time scales is a frontier in modern physics,\nexemplified by the synthesis of attosecond light pulses -- an achievement made\npossible by coherently superimposing a broad range of photon energies, as\nrequired by the uncertainty principle. However, extending this progress into\nthe zeptosecond regime poses significant challenges, as it demands\nphase-correlated optical spectra spanning hundreds of electronvolts. In this\ncontext, electrons offer a compelling alternative to light because they can be\ncoherently manipulated to form broad energy superpositions, as demonstrated by\nthe generation of attosecond pulses in ultrafast electron microscopes. Here, we\npropose a practical scheme for compressing free electrons into the zeptosecond\ndomain by modulating their wave functions using suitably tailored broadband\nlight fields. Building on recent advances in {free-electron--light--matter}\ninteractions, our method introduces the concept of temporal lensing -- an\nextension of conventional optical lensing to the time domain -- to produce\nelectron pulses with arbitrarily short durations.",
+            "pdf_url": "http://arxiv.org/pdf/2504.17770v1",
+            "published": "2025-04-24 17:41:22+00:00",
+            "updated": "2025-04-24 17:41:22+00:00"
+        },
+        {
+            "title": "Extended Scalar Particle Solutions in Black String Spacetimes with Anisotropic Quintessence",
+            "authors": "M. L. Deglmann, B. V. Sim\u00e3o, C. C. Barros Jr",
+            "summary": "We present new solutions to the Klein-Gordon equation for a scalar particle\nin a black string spacetime immersed in an anisotropic quintessence fluid\nsurrounded by a cloud of strings, extending the analysis presented in our\nprevious work. These novel solutions are dependent on the quintessence state\nparameter, $\\alpha_{Q}$, and are now valid for a much larger domain of the\nradial coordinate. We investigate the cases when $\\alpha_{Q} = 0,\\,1/2,\\,1$,\nencompassing both black hole and horizonless scenarios. We express the\nresulting radial wave functions using the confluent and biconfluent Heun\nfunctions, with special cases represented by Bessel functions. We derive\nrestrictions on the allowed quantum energy levels by imposing constraints on\nthe Heun parameters to ensure polynomial solutions. Furthermore, we investigate\nthe emergence of \"dark phases\" associated with the radial wave function,\nfocusing on the interesting case of $\\alpha_{Q} = 1$. Our findings provide\ninsights into the dynamics of scalar particles in this complex spacetime and\nthe potential impact of dark energy on quantum systems.",
+            "pdf_url": "http://arxiv.org/pdf/2504.17765v1",
+            "published": "2025-04-24 17:34:07+00:00",
+            "updated": "2025-04-24 17:34:07+00:00"
+        },
+        {
+            "title": "Measurements of inclusive and differential Higgs boson production cross sections at $\\sqrt{s}$ = 13.6 TeV in the H $\\to$ $\u03b3\u03b3$ decay channel",
+            "authors": "CMS Collaboration",
+            "summary": "Inclusive and differential cross sections for Higgs boson production in\nproton-proton collisions at a centre-of-mass energy of 13.6 TeV are measured\nusing data collected with the CMS detector at the LHC in 2022, corresponding to\nan integrated luminosity of 34.7 fb$^{-1}$. Events with the diphoton final\nstate are selected, and the measured inclusive fiducial cross section is\n$\\sigma_\\text{fid}$ = 74 $\\pm$ 11 (stat) $^{+5}_{-4}$ (syst) fb, in agreement\nwith the standard model prediction of 67.8 $\\pm$ 3.8 fb. Differential cross\nsections are measured as functions of several observables: the Higgs boson\ntransverse momentum and rapidity, the number of associated jets, and the\ntransverse momentum of the leading jet in the event. Within the uncertainties,\nthe differential cross sections agree with the standard model predictions.",
+            "pdf_url": "http://arxiv.org/pdf/2504.17755v1",
+            "published": "2025-04-24 17:19:13+00:00",
+            "updated": "2025-04-24 17:19:13+00:00"
+        },
+        {
+            "title": "Disaggregated Deep Learning via In-Physics Computing at Radio Frequency",
+            "authors": "Zhihui Gao, Sri Krishna Vadlamani, Kfir Sulimany, Dirk Englund, Tingjun Chen",
+            "summary": "Modern edge devices, such as cameras, drones, and Internet-of-Things nodes,\nrely on deep learning to enable a wide range of intelligent applications,\nincluding object recognition, environment perception, and autonomous\nnavigation. However, deploying deep learning models directly on the often\nresource-constrained edge devices demands significant memory footprints and\ncomputational power for real-time inference using traditional digital computing\narchitectures. In this paper, we present WISE, a novel computing architecture\nfor wireless edge networks designed to overcome energy constraints in deep\nlearning inference. WISE achieves this goal through two key innovations:\ndisaggregated model access via wireless broadcasting and in-physics computation\nof general complex-valued matrix-vector multiplications directly at radio\nfrequency. Using a software-defined radio platform with wirelessly broadcast\nmodel weights over the air, we demonstrate that WISE achieves 95.7% image\nclassification accuracy with ultra-low operation power of 6.0 fJ/MAC per\nclient, corresponding to a computation efficiency of 165.8 TOPS/W. This\napproach enables energy-efficient deep learning inference on wirelessly\nconnected edge devices, achieving more than two orders of magnitude improvement\nin efficiency compared to traditional digital computing.",
+            "pdf_url": "http://arxiv.org/pdf/2504.17752v1",
+            "published": "2025-04-24 17:10:18+00:00",
+            "updated": "2025-04-24 17:10:18+00:00"
+        },
+        {
+            "title": "Optical to infrared mapping of vapor-to-liquid phase change dynamics using generative machine learning",
+            "authors": "Siavash Khodakarami, Pouya Kabirzadeh, Chi Wang, Tarandeep Singh Thukral, Nenad Miljkovic",
+            "summary": "Infrared thermography is a powerful tool for studying liquid-to-vapor phase\nchange processes. However, its application has been limited in the study of\nvapor-to-liquid phase transitions due to the presence of complex liquid\ndynamics, multiple phases within the same field of view, and experimental\ndifficulty. Here, we develop a calibration framework which is capable to\nstudying one of the most complex two-phase heat transfer processes: dropwise\ncondensation. The framework accounts for non-uniformities arising from dynamic\ntwo-phase interactions such as droplet nucleation, growth, coalescence, and\ndeparture, as well as substrate effects particularly observed on micro- and\nnanoengineered surfaces. This approach enables high-resolution temperature\nmeasurements with both spatial (12 $\\mu$m) and temporal (5 ms) precision,\nleading to the discovery of local temperature phenomena unobservable using\nconventional approaches. These observed temperature variations are linked to\ndroplet statistics, showing how different regions contribute to local\ncondensation heat transfer. We extend the developed method to quantify local\nthermal parameters by fusing it with a generative machine learning model to map\nvisual images into temperature fields. The model is informed of the physical\nparameter by incorporating vapor pressure embedding as the conditional\nparameter. This work represents a significant step toward simplifying local\ntemperature measurements for vapor-to-liquid phase change phenomena by\ndeveloping a methodology as well as a machine learning approach to map local\nthermal phenomena using only optical images as the input.",
+            "pdf_url": "http://arxiv.org/pdf/2504.17726v1",
+            "published": "2025-04-24 16:39:20+00:00",
+            "updated": "2025-04-24 16:39:20+00:00"
+        },
+        {
+            "title": "Hierarchical memories: Simulating quantum LDPC codes with local gates",
+            "authors": "Christopher A. Pattison, Anirudh Krishna, John Preskill",
+            "summary": "Constant-rate low-density parity-check (LDPC) codes are promising candidates\nfor constructing efficient fault-tolerant quantum memories. However, if\nphysical gates are subject to geometric-locality constraints, it becomes\nchallenging to realize these codes. In this paper, we construct a new family of\n$[[N,K,D]]$ codes, referred to as hierarchical codes, that encode a number of\nlogical qubits $K = \\Omega(N/\\log(N)^2)$. The N-th element of this code family\nis obtained by concatenating a constant-rate quantum LDPC code with a surface\ncode; nearest-neighbor gates in two dimensions are sufficient to implement the\ncorresponding syndrome-extraction circuit and achieve a threshold. Below\nthreshold the logical failure rate vanishes superpolynomially as a function of\nthe distance $D(N)$. We present a bilayer architecture for implementing the\nsyndrome-extraction circuit, and estimate the logical failure rate for this\narchitecture. Under conservative assumptions, we find that the hierarchical\ncode outperforms the basic encoding where all logical qubits are encoded in the\nsurface code.",
+            "pdf_url": "http://arxiv.org/pdf/2303.04798v2",
+            "published": "2023-03-08 18:48:12+00:00",
+            "updated": "2025-04-24 16:30:26+00:00"
+        },
+        {
+            "title": "Beyond Spin: Torsion-Driven Nonlinearity in Spinless Quantum Mechanics",
+            "authors": "Tomoi Koide, Armin van de Venn",
+            "summary": "We investigate the previously unexplored quantum dynamics of\nnon-relativistic, spinless particles propagating in curved spaces with torsion.\nOur findings demonstrate that while torsion has been predominantly associated\nwith spin, it can also influence the quantum behavior of spinless particles by\ninducing a logarithmic nonlinearity in the Schroedinger equation through\nquantum fluctuations, even in flat space. To facilitate quantization in curved\nspaces, we introduce a novel stochastic variational method. Unlike canonical\nquantization, this approach is naturally suited to general coordinate systems,\nwith quantum fluctuations arising from a noise term in the stochastic process\nthat is directly influenced by torsion. By requiring consistency with quantum\ndynamics, we ultimately derive an upper bound on the magnitude of torsion. Our\nresults reveal a previously unrecognized mechanism by which torsion, as\npredicted in certain extensions of general relativity, can influence quantum\nsystems, with potential implications for early-universe physics and dark matter\nor energy models.",
+            "pdf_url": "http://arxiv.org/pdf/2504.09698v2",
+            "published": "2025-04-13 19:13:35+00:00",
+            "updated": "2025-04-24 16:26:44+00:00"
+        }
+    ],
+    "Diffusion": [
+        {
+            "title": "Weak-to-Strong Diffusion with Reflection",
+            "authors": "Lichen Bai, Masashi Sugiyama, Zeke Xie",
+            "summary": "The goal of diffusion generative models is to align the learned distribution\nwith the real data distribution through gradient score matching. However,\ninherent limitations in training data quality, modeling strategies, and\narchitectural design lead to inevitable gap between generated outputs and real\ndata. To reduce this gap, we propose Weak-to-Strong Diffusion (W2SD), a novel\nframework that utilizes the estimated difference between existing weak and\nstrong models (i.e., weak-to-strong difference) to bridge the gap between an\nideal model and a strong model. By employing a reflective operation that\nalternates between denoising and inversion with weak-to-strong difference, we\ntheoretically understand that W2SD steers latent variables along sampling\ntrajectories toward regions of the real data distribution. W2SD is highly\nflexible and broadly applicable, enabling diverse improvements through the\nstrategic selection of weak-to-strong model pairs (e.g., DreamShaper vs. SD1.5,\ngood experts vs. bad experts in MoE). Extensive experiments demonstrate that\nW2SD significantly improves human preference, aesthetic quality, and prompt\nadherence, achieving SOTA performance across various modalities (e.g., image,\nvideo), architectures (e.g., UNet-based, DiT-based, MoE), and benchmarks. For\nexample, Juggernaut-XL with W2SD can improve with the HPSv2 winning rate up to\n90% over the original results. Moreover, the performance gains achieved by W2SD\nmarkedly outweigh its additional computational overhead, while the cumulative\nimprovements from different weak-to-strong difference further solidify its\npractical utility and deployability.",
+            "pdf_url": "http://arxiv.org/pdf/2502.00473v3",
+            "published": "2025-02-01 16:00:08+00:00",
+            "updated": "2025-04-24 16:09:26+00:00"
+        },
+        {
+            "title": "polyGen: A Learning Framework for Atomic-level Polymer Structure Generation",
+            "authors": "Ayush Jain, Rampi Ramprasad",
+            "summary": "Synthetic polymeric materials underpin fundamental technologies in the\nenergy, electronics, consumer goods, and medical sectors, yet their development\nstill suffers from prolonged design timelines. Although polymer informatics\ntools have supported speedup, polymer simulation protocols continue to face\nsignificant challenges: on-demand generation of realistic 3D atomic structures\nthat respect the conformational diversity of polymer structures. Generative\nalgorithms for 3D structures of inorganic crystals, bio-polymers, and small\nmolecules exist, but have not addressed synthetic polymers. In this work, we\nintroduce polyGen, the first latent diffusion model designed specifically to\ngenerate realistic polymer structures from minimal inputs such as the repeat\nunit chemistry alone, leveraging a molecular encoding that captures polymer\nconnectivity throughout the architecture. Due to a scarce dataset of only 3855\nDFT-optimized polymer structures, we augment our training with DFT-optimized\nmolecular structures, showing improvement in joint learning between similar\nchemical structures. We also establish structure matching criteria to benchmark\nour approach on this novel problem. polyGen effectively generates diverse\nconformations of both linear chains and complex branched structures, though its\nperformance decreases when handling repeat units with a high atom count. Given\nthese initial results, polyGen represents a paradigm shift in atomic-level\nstructure generation for polymer science-the first proof-of-concept for\npredicting realistic atomic-level polymer conformations while accounting for\ntheir intrinsic structural flexibility.",
+            "pdf_url": "http://arxiv.org/pdf/2504.17656v1",
+            "published": "2025-04-24 15:26:00+00:00",
+            "updated": "2025-04-24 15:26:00+00:00"
+        },
+        {
+            "title": "TarDiff: Target-Oriented Diffusion Guidance for Synthetic Electronic Health Record Time Series Generation",
+            "authors": "Bowen Deng, Chang Xu, Hao Li, Yuhao Huang, Min Hou, Jiang Bian",
+            "summary": "Synthetic Electronic Health Record (EHR) time-series generation is crucial\nfor advancing clinical machine learning models, as it helps address data\nscarcity by providing more training data. However, most existing approaches\nfocus primarily on replicating statistical distributions and temporal\ndependencies of real-world data. We argue that fidelity to observed data alone\ndoes not guarantee better model performance, as common patterns may dominate,\nlimiting the representation of rare but important conditions. This highlights\nthe need for generate synthetic samples to improve performance of specific\nclinical models to fulfill their target outcomes. To address this, we propose\nTarDiff, a novel target-oriented diffusion framework that integrates\ntask-specific influence guidance into the synthetic data generation process.\nUnlike conventional approaches that mimic training data distributions, TarDiff\noptimizes synthetic samples by quantifying their expected contribution to\nimproving downstream model performance through influence functions.\nSpecifically, we measure the reduction in task-specific loss induced by\nsynthetic samples and embed this influence gradient into the reverse diffusion\nprocess, thereby steering the generation towards utility-optimized data.\nEvaluated on six publicly available EHR datasets, TarDiff achieves\nstate-of-the-art performance, outperforming existing methods by up to 20.4% in\nAUPRC and 18.4% in AUROC. Our results demonstrate that TarDiff not only\npreserves temporal fidelity but also enhances downstream model performance,\noffering a robust solution to data scarcity and class imbalance in healthcare\nanalytics.",
+            "pdf_url": "http://arxiv.org/pdf/2504.17613v1",
+            "published": "2025-04-24 14:36:10+00:00",
+            "updated": "2025-04-24 14:36:10+00:00"
+        },
+        {
+            "title": "Simple Graph Contrastive Learning via Fractional-order Neural Diffusion Networks",
+            "authors": "Yanan Zhao, Feng Ji, Kai Zhao, Xuhao Li, Qiyu Kang, Wenfei Liang, Yahya Alkhatib, Xingchao Jian, Wee Peng Tay",
+            "summary": "Graph Contrastive Learning (GCL) has recently made progress as an\nunsupervised graph representation learning paradigm. GCL approaches can be\ncategorized into augmentation-based and augmentation-free methods. The former\nrelies on complex data augmentations, while the latter depends on encoders that\ncan generate distinct views of the same input. Both approaches may require\nnegative samples for training. In this paper, we introduce a novel\naugmentation-free GCL framework based on graph neural diffusion models.\nSpecifically, we utilize learnable encoders governed by Fractional Differential\nEquations (FDE). Each FDE is characterized by an order parameter of the\ndifferential operator. We demonstrate that varying these parameters allows us\nto produce learnable encoders that generate diverse views, capturing either\nlocal or global information, for contrastive learning. Our model does not\nrequire negative samples for training and is applicable to both homophilic and\nheterophilic datasets. We demonstrate its effectiveness across various\ndatasets, achieving state-of-the-art performance.",
+            "pdf_url": "http://arxiv.org/pdf/2504.16748v2",
+            "published": "2025-04-23 14:17:28+00:00",
+            "updated": "2025-04-24 14:26:02+00:00"
+        },
+        {
+            "title": "Hyper-Transforming Latent Diffusion Models",
+            "authors": "Ignacio Peis, Batuhan Koyuncu, Isabel Valera, Jes Frellsen",
+            "summary": "We introduce a novel generative framework for functions by integrating\nImplicit Neural Representations (INRs) and Transformer-based hypernetworks into\nlatent variable models. Unlike prior approaches that rely on MLP-based\nhypernetworks with scalability limitations, our method employs a\nTransformer-based decoder to generate INR parameters from latent variables,\naddressing both representation capacity and computational efficiency. Our\nframework extends latent diffusion models (LDMs) to INR generation by replacing\nstandard decoders with a Transformer-based hypernetwork, which can be trained\neither from scratch or via hyper-transforming-a strategy that fine-tunes only\nthe decoder while freezing the pre-trained latent space. This enables efficient\nadaptation of existing generative models to INR-based representations without\nrequiring full retraining.",
+            "pdf_url": "http://arxiv.org/pdf/2504.16580v2",
+            "published": "2025-04-23 10:01:18+00:00",
+            "updated": "2025-04-24 07:39:55+00:00"
+        }
+    ]
+}
