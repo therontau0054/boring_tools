@@ -150,6 +150,31 @@ TODO:
 
 
 
+
+## Update on 2025-04-29
+
+### Physics
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-04-28|2025-04-28|Up-type FCNC in presence of Dark Matter|Subhaditya Bhattacharya|[2504.20045v1](http://arxiv.org/pdf/2504.20045v1)|
+|2025-04-28|2025-04-28|Modelling of Underwater Vehicles using Physics-Informed Neural Networks with Control|Abdelhakim Amer|[2504.20019v1](http://arxiv.org/pdf/2504.20019v1)|
+|2025-02-22|2025-04-28|Co-Designing Eigen- and Singular-value Transformation Oracles: From Algorithmic Applications to Hardware Compilation|Luke Bell|[2502.16029v2](http://arxiv.org/pdf/2502.16029v2)|
+|2024-12-18|2025-04-28|Uncovering the Maximum Chirality in Dielectric Nanostructures|WenKui Zhao|[2412.13513v2](http://arxiv.org/pdf/2412.13513v2)|
+|2025-03-28|2025-04-28|Glued tree lattices with only compact localized states|Andrew Osborne|[2503.22843v2](http://arxiv.org/pdf/2503.22843v2)|
+|2025-02-05|2025-04-28|Fragile topology on solid grounds: a mathematical perspective|Simon Becker|[2502.03442v2](http://arxiv.org/pdf/2502.03442v2)|
+|2024-06-25|2025-04-28|On the mechanics of inhaled bronchial transmission of pathogenic microdroplets generated from the upper respiratory tract, with implications for infection onset|Saikat Basu|[2406.17895v2](http://arxiv.org/pdf/2406.17895v2)|
+|2025-02-12|2025-04-28|Keep your distance: learning dispersed embeddings on $\mathbb{S}_d$|Evgeniia Tokarchuk|[2502.08231v2](http://arxiv.org/pdf/2502.08231v2)|
+|2025-04-18|2025-04-28|A CMOS Probabilistic Computing Chip With In-situ hardware Aware Learning|Jinesh Jhonsa|[2504.14070v2](http://arxiv.org/pdf/2504.14070v2)|
+|2024-12-05|2025-04-28|Index and localization for type B superconformal mechanics on singular spaces|Joris Raeymaekers|[2412.04390v3](http://arxiv.org/pdf/2412.04390v3)|
+
+### Diffusion
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2024-11-11|2025-04-28|OmniEdit: Building Image Editing Generalist Models Through Specialist Supervision|Cong Wei|[2411.07199v2](http://arxiv.org/pdf/2411.07199v2)|
+|2025-04-24|2025-04-28|Evolution Meets Diffusion: Efficient Neural Architecture Generation|Bingye Zhou|[2504.17827v2](http://arxiv.org/pdf/2504.17827v2)|
+|2025-04-21|2025-04-28|A Basic Evaluation of Neural Networks Trained with the Error Diffusion Learning Algorithm|Kazuhisa Fujita|[2504.14814v2](http://arxiv.org/pdf/2504.14814v2)|
+|2025-04-28|2025-04-28|Diffusion Stochastic Learning Over Adaptive Competing Networks|Yike Zhao|[2504.19635v1](http://arxiv.org/pdf/2504.19635v1)|
+|2025-04-28|2025-04-28|AI Alignment in Medical Imaging: Unveiling Hidden Biases Through Counterfactual Analysis|Haroui Ma|[2504.19621v1](http://arxiv.org/pdf/2504.19621v1)|
 ## Update on 2025-04-25
 
 ### Physics

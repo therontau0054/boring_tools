@@ -1,0 +1,126 @@
+{
+    "Physics": [
+        {
+            "title": "Up-type FCNC in presence of Dark Matter",
+            "authors": "Subhaditya Bhattacharya, Lipika Kolay, Dipankar Pradhan, Abhik Sarkar",
+            "summary": "Dark Matter (DM) is a known unknown. Apart, current experimental constraints\non flavor-changing neutral current (FCNC) processes involving up-type quarks\nalso provide scope to explore physics beyond the Standard Model (SM). In this\narticle, we establish a connection between the flavor sector and the DM sector\nwith minimal extension of the SM. Here a singlet complex scalar field, stable\nunder $\\mathbb{Z}_3$ symmetry, acts as DM and couples to SM up-type quarks\nthrough a heavy Dirac vector-like quark (VLQ), which shares the same\n$\\mathbb{Z}_3$ charge as of the DM. The model thus addresses the observed\n$D^0-\\bar{D^0}$ mixing, top-FCNC interactions, and $D^0$ meson decays, together\nwith DM relic density, while evading the direct and indirect DM search bounds.\nThe model can be probed at the future high-energy muon collider, through\ndistinctive signatures of VLQ production, where the VLQ decays into DM and SM\nparticles, abiding by the existing bounds.",
+            "pdf_url": "http://arxiv.org/pdf/2504.20045v1",
+            "published": "2025-04-28 17:59:59+00:00",
+            "updated": "2025-04-28 17:59:59+00:00"
+        },
+        {
+            "title": "Modelling of Underwater Vehicles using Physics-Informed Neural Networks with Control",
+            "authors": "Abdelhakim Amer, David Felsager, Yury Brodskiy, Andriy Sarabakha",
+            "summary": "Physics-informed neural networks (PINNs) integrate physical laws with\ndata-driven models to improve generalization and sample efficiency. This work\nintroduces an open-source implementation of the Physics-Informed Neural Network\nwith Control (PINC) framework, designed to model the dynamics of an underwater\nvehicle. Using initial states, control actions, and time inputs, PINC extends\nPINNs to enable physically consistent transitions beyond the training domain.\nVarious PINC configurations are tested, including differing loss functions,\ngradient-weighting schemes, and hyperparameters. Validation on a simulated\nunderwater vehicle demonstrates more accurate long-horizon predictions compared\nto a non-physics-informed baseline",
+            "pdf_url": "http://arxiv.org/pdf/2504.20019v1",
+            "published": "2025-04-28 17:38:57+00:00",
+            "updated": "2025-04-28 17:38:57+00:00"
+        },
+        {
+            "title": "Co-Designing Eigen- and Singular-value Transformation Oracles: From Algorithmic Applications to Hardware Compilation",
+            "authors": "Luke Bell, Yan Wang, Kevin C. Smith, Yuan Liu, Eugene Dumitrescu, S. M. Girvin",
+            "summary": "We co-design a family of quantum eigenvalue transformation oracles that can\nbe efficiently implemented on hybrid discrete/continuous-variable\n(qubit/qumode) hardware. To showcase the oracle's representation-theoretic\npower, and near-term experimental accessibility, we encode a Gaussian imaginary\ntime evolution spectral filter. In doing so, we define a continuous linear\ncombination of unitaries block-encoding. Due to the ancilla qumode's\ninfinite-dimensional nature, continuous variable qumodes constitute a powerful\ncompilation tool for encoding continuous spectral functions without\ndiscretization errors while minimizing resource requirements. We then focus on\nthe ubiquitous task of eigenstate preparation in quantum spin models. For\ncompleteness, we provide an end-to-end compilation -- applicable in both\nnear-term and large-scale quantum processors -- expressing high-level oracles\nin terms of an experimentally realizable instruction set architecture. Our\nalgorithms scale linearly with the spatial extent of the target system, and we\nprovide details for 1D and 2D examples. Finally, we examine the leading-order\neffects of physical errors and highlight open research directions.",
+            "pdf_url": "http://arxiv.org/pdf/2502.16029v2",
+            "published": "2025-02-22 01:29:14+00:00",
+            "updated": "2025-04-28 17:01:20+00:00"
+        },
+        {
+            "title": "Uncovering the Maximum Chirality in Dielectric Nanostructures",
+            "authors": "WenKui Zhao, ShengYi Wang, HanZhuo Kuang, Hao Luo, Qiu Wang, Bo-Wen Jia",
+            "summary": "Maximum structural chirality refers to the highest selectivity for circularly\npolarized light (CPL) in nanostructures, often manifested as maximum circular\ndichroism (CD), optical rotation (OR), and spin-orbit coupling (SOC). However,\nthe underlying physical mechanisms that lead to maximum chirality remain\nunclear. In this work, we demonstrate that maximum chirality in dielectric\nnanostructures arises from the constructive and destructive interference of\nmultipole moments with different CPL. By employing generalized multipole\ndecomposition, we introduce a generalized chiral multipole mechanism that\nallows for direct numerical calculation of CD and establishes the conditions\nrequired to achieve maximum chirality. This approach provides a comprehensive\nframework for analyzing chirality and serves as a foundation for future\ninvestigations of chiral nanostructures.",
+            "pdf_url": "http://arxiv.org/pdf/2412.13513v2",
+            "published": "2024-12-18 05:24:29+00:00",
+            "updated": "2025-04-28 16:59:50+00:00"
+        },
+        {
+            "title": "Glued tree lattices with only compact localized states",
+            "authors": "Andrew Osborne, Ciro Salcedo, Andrew A. Houck",
+            "summary": "Flat band physics is a central theme in modern condensed matter physics. By\nconstructing a tight--binding single particle system that has vanishing\nmomentum dispersion in one or more bands, and subsequently including more\nparticles and interactions, it is possible to study physics in strongly\ninteracting regimes. Inspired by the glued trees that first arose in one of the\nfew known examples of quantum supremacy, we define and analyze two infinite\nfamilies of tight binding single particle Bose--Hubbard models that have only\nflat bands, and only compact localized states despite having any nonnegative\nnumber of translation symmetries. The first class of model that we introduce is\nconstructed by replacing a sufficiently large fraction of the edges in a\ngeneric countable graph with glued trees modified to have complex hoppings. The\nsecond class arises from thinking of complex weighted glued trees as rhombi\nthat can then be used to tile two dimensional space, giving rise to the\nfamiliar dice lattice and infinitely many generalizations thereof, of which\nsome are Euclidian while others are hyperbolic.",
+            "pdf_url": "http://arxiv.org/pdf/2503.22843v2",
+            "published": "2025-03-28 19:37:08+00:00",
+            "updated": "2025-04-28 16:40:44+00:00"
+        },
+        {
+            "title": "Fragile topology on solid grounds: a mathematical perspective",
+            "authors": "Simon Becker, Zhongkai Tao, Mengxuan Yang",
+            "summary": "This paper provides a mathematical perspective on fragile topology phenomena\nin condensed matter physics. In dimension $d \\leq 3$, vanishing Chern classes\nof bundles of Bloch eigenfunctions characterize operators with exponentially\nlocalized Wannier functions (these functions form convenient bases of\nspectrally determined subspaces of $L^2$). However, for systems with additional\nsymmetries, such as the $C_{2}T$ (space-time reversal) or the $PT$\n(parity-time) symmetry, a set of exponentially localized Wannier functions\ncompatible with such symmetry may not exist. We show that for rank 2 Bloch\nbundles with such symmetry, non-trivial Euler classes are obstructions to\nconstructing exponentially localized compatible Wannier functions. We also show\nthat this obstruction can be lifted by adding additional Bloch bundles with the\nsymmetry, even though the Stiefel--Whitney class of the total bundle is\nnon-trivial. This allows a construction of exponentially localized Wannier\nfunctions compatible with the symmetry and that is referred to as topological\nfragility.",
+            "pdf_url": "http://arxiv.org/pdf/2502.03442v2",
+            "published": "2025-02-05 18:38:24+00:00",
+            "updated": "2025-04-28 16:20:56+00:00"
+        },
+        {
+            "title": "On the mechanics of inhaled bronchial transmission of pathogenic microdroplets generated from the upper respiratory tract, with implications for infection onset",
+            "authors": "Saikat Basu",
+            "summary": "Could the microdroplets formed by viscoelastic stretching and break-up of\nmucosal liquids in the upper respiratory tract (URT), when inhaled further\ndownwind, explain the brisk pace at which deep lung infections emerge following\nonset of initial infection at the URT? While it is well-established that\nparticulates inhaled from outside can possibly penetrate to the lower airway\nonly if they are < 5 microns, the fate of particulates (many > 5-microns in\ndiameter) sheared away from the intra-URT mucosa during inhalation remains an\nopen question. These particulates predominantly originate at the nasopharynx,\noropharynx, and laryngeal chamber with the vocal folds. To resolve the posed\nquestion, this study considers a CT-based 3D anatomical airway reconstruction\nand isolates the tract from the laryngeal vocal fold region, mapping the entire\ntracheal cavity and concluding at generation 2 of the tracheobronchial tree.\nThrough the delineated geometry, airflow simulation is conducted using the LES\nscheme to replicate relaxed inhalation at 15 L/min. Against the ambient air\nflux, numerical experiments have been performed to monitor the transport of\nliquid particulates with diameters 1-30 microns, bearing physical properties\nakin to aerosolized mucus with embedded virions. The full-scale numerical\ntransmission trends to the lower airway were found consistent with the findings\nfrom a reduced-order mathematical model that conceptualized the impact of\nintra-airway vortex instabilities on local particle transport through point\nvortex idealization in an anatomy-guided 2D potential flow domain. The results\ncollectively demonstrate markedly elevated trends of deep lung penetration by\nthe URT-derived particulates, even if they are as large as 10- and 15 microns.\nThe high viral load carried by such droplets to the bronchial spaces could\nmechanistically explain the accelerated seeding of infection in the lungs.",
+            "pdf_url": "http://arxiv.org/pdf/2406.17895v2",
+            "published": "2024-06-25 19:07:22+00:00",
+            "updated": "2025-04-28 16:17:18+00:00"
+        },
+        {
+            "title": "Keep your distance: learning dispersed embeddings on $\\mathbb{S}_d$",
+            "authors": "Evgeniia Tokarchuk, Hua Chang Bakker, Vlad Niculae",
+            "summary": "Learning well-separated features in high-dimensional spaces, such as text or\nimage embeddings, is crucial for many machine learning applications. Achieving\nsuch separation can be effectively accomplished through the dispersion of\nembeddings, where unrelated vectors are pushed apart as much as possible. By\nconstraining features to be on a hypersphere, we can connect dispersion to\nwell-studied problems in mathematics and physics, where optimal solutions are\nknown for limited low-dimensional cases. However, in representation learning we\ntypically deal with a large number of features in high-dimensional space, and\nmoreover, dispersion is usually traded off with some other task-oriented\ntraining objective, making existing theoretical and numerical solutions\ninapplicable. Therefore, it is common to rely on gradient-based methods to\nencourage dispersion, usually by minimizing some function of the pairwise\ndistances. In this work, we first give an overview of existing methods from\ndisconnected literature, making new connections and highlighting similarities.\nNext, we introduce some new angles. We propose to reinterpret pairwise\ndispersion using a maximum mean discrepancy (MMD) motivation. We then propose\nan online variant of the celebrated Lloyd's algorithm, of K-Means fame, as an\neffective alternative regularizer for dispersion on generic domains. Finally,\nwe derive a novel dispersion method that directly exploits properties of the\nhypersphere. Our experiments show the importance of dispersion in image\nclassification and natural language processing tasks, and how algorithms\nexhibit different trade-offs in different regimes.",
+            "pdf_url": "http://arxiv.org/pdf/2502.08231v2",
+            "published": "2025-02-12 09:20:08+00:00",
+            "updated": "2025-04-28 16:08:14+00:00"
+        },
+        {
+            "title": "A CMOS Probabilistic Computing Chip With In-situ hardware Aware Learning",
+            "authors": "Jinesh Jhonsa, William Whitehead, David McCarthy, Shuvro Chowdhury, Kerem Camsari, Luke Theogarajan",
+            "summary": "This paper demonstrates a probabilistic bit physics inspired solver with 440\nspins configured in a Chimera graph, occupying an area of 0.44 mm^2. Area\nefficiency is maximized through a current-mode implementation of the neuron\nupdate circuit, standard cell design for analog blocks pitch-matched to digital\nblocks, and a shared power supply for both digital and analog components.\nProcess variation related mismatches introduced by this approach are\neffectively mitigated using a hardware aware contrastive divergence algorithm\nduring training. We validate the chip's ability to perform probabilistic\ncomputing tasks such as modeling logic gates and full adders, as well as\noptimization tasks such as MaxCut, demonstrating its potential for AI and\nmachine learning applications.",
+            "pdf_url": "http://arxiv.org/pdf/2504.14070v2",
+            "published": "2025-04-18 20:40:48+00:00",
+            "updated": "2025-04-28 16:00:59+00:00"
+        },
+        {
+            "title": "Index and localization for type B superconformal mechanics on singular spaces",
+            "authors": "Joris Raeymaekers, Paolo Rossi, Canberk Sanli",
+            "summary": "Type B superconformal quantum mechanical sigma models are of physical\ninterest as they arise in the description of D-brane bound states forming an\nAdS$_2$ throat. In this work we discuss the applicability of localization\nmethods to compute the superconformal index in these theories, despite the fact\nthat their target spaces are generically singular. Similar in spirit to recent\nworks on type A models, we propose to work on a suitably resolved target space\nto compute a regularized index. While this regularized index correctly captures\nthe actual index unambiguously in models of physical interest, we do uncover a\nsubtlety in more pathological examples. This occurs in situations where the\nsupercharge is not essentially-selfadjoint, in which case the index becomes\nambiguous and depends on the chosen selfadjoint extension. We also discuss the\nspecial class of models with K\\\"ahler target spaces, which can accommodate both\ntype A and type B models, and show that the type B index is a particular limit\nof the type A index. For Calabi-Yau cones, the type B index coincides with the\nHilbert series of the unresolved space.",
+            "pdf_url": "http://arxiv.org/pdf/2412.04390v3",
+            "published": "2024-12-05 18:05:13+00:00",
+            "updated": "2025-04-28 15:58:19+00:00"
+        }
+    ],
+    "Diffusion": [
+        {
+            "title": "OmniEdit: Building Image Editing Generalist Models Through Specialist Supervision",
+            "authors": "Cong Wei, Zheyang Xiong, Weiming Ren, Xinrun Du, Ge Zhang, Wenhu Chen",
+            "summary": "Instruction-guided image editing methods have demonstrated significant\npotential by training diffusion models on automatically synthesized or manually\nannotated image editing pairs. However, these methods remain far from\npractical, real-life applications. We identify three primary challenges\ncontributing to this gap. Firstly, existing models have limited editing skills\ndue to the biased synthesis process. Secondly, these methods are trained with\ndatasets with a high volume of noise and artifacts. This is due to the\napplication of simple filtering methods like CLIP-score. Thirdly, all these\ndatasets are restricted to a single low resolution and fixed aspect ratio,\nlimiting the versatility to handle real-world use cases. In this paper, we\npresent \\omniedit, which is an omnipotent editor to handle seven different\nimage editing tasks with any aspect ratio seamlessly. Our contribution is in\nfour folds: (1) \\omniedit is trained by utilizing the supervision from seven\ndifferent specialist models to ensure task coverage. (2) we utilize importance\nsampling based on the scores provided by large multimodal models (like GPT-4o)\ninstead of CLIP-score to improve the data quality. (3) we propose a new editing\narchitecture called EditNet to greatly boost the editing success rate, (4) we\nprovide images with different aspect ratios to ensure that our model can handle\nany image in the wild. We have curated a test set containing images of\ndifferent aspect ratios, accompanied by diverse instructions to cover different\ntasks. Both automatic evaluation and human evaluations demonstrate that\n\\omniedit can significantly outperform all the existing models. Our code,\ndataset and model will be available at https://tiger-ai-lab.github.io/OmniEdit/",
+            "pdf_url": "http://arxiv.org/pdf/2411.07199v2",
+            "published": "2024-11-11 18:21:43+00:00",
+            "updated": "2025-04-28 14:16:29+00:00"
+        },
+        {
+            "title": "Evolution Meets Diffusion: Efficient Neural Architecture Generation",
+            "authors": "Bingye Zhou, Caiyang Yu",
+            "summary": "Neural Architecture Search (NAS) has gained widespread attention for its\ntransformative potential in deep learning model design. However, the vast and\ncomplex search space of NAS leads to significant computational and time costs.\nNeural Architecture Generation (NAG) addresses this by reframing NAS as a\ngeneration problem, enabling the precise generation of optimal architectures\nfor specific tasks. Despite its promise, mainstream methods like diffusion\nmodels face limitations in global search capabilities and are still hindered by\nhigh computational and time demands. To overcome these challenges, we propose\nEvolutionary Diffusion-based Neural Architecture Generation (EDNAG), a novel\napproach that achieves efficient and training-free architecture generation.\nEDNAG leverages evolutionary algorithms to simulate the denoising process in\ndiffusion models, using fitness to guide the transition from random Gaussian\ndistributions to optimal architecture distributions. This approach combines the\nstrengths of evolutionary strategies and diffusion models, enabling rapid and\neffective architecture generation. Extensive experiments demonstrate that EDNAG\nachieves state-of-the-art (SOTA) performance in architecture optimization, with\nan improvement in accuracy of up to 10.45%. Furthermore, it eliminates the need\nfor time-consuming training and boosts inference speed by an average of 50\ntimes, showcasing its exceptional efficiency and effectiveness.",
+            "pdf_url": "http://arxiv.org/pdf/2504.17827v2",
+            "published": "2025-04-24 03:09:04+00:00",
+            "updated": "2025-04-28 13:44:19+00:00"
+        },
+        {
+            "title": "A Basic Evaluation of Neural Networks Trained with the Error Diffusion Learning Algorithm",
+            "authors": "Kazuhisa Fujita",
+            "summary": "Artificial neural networks are powerful tools capable of addressing various\ntasks. Although the backpropagation algorithm has become a standard training\nmethod for these neural networks, its lack of biological plausibility has\ninspired the development of alternative learning approaches. One such\nalternative is Kaneko's Error Diffusion Learning Algorithm (EDLA), a\nbiologically motivated approach wherein a single global error signal diffuses\nthroughout a network composed of paired excitatory-inhibitory sublayers,\nthereby eliminating the necessity for layer-wise backpropagation. This study\npresents a contemporary formulation of the EDLA framework and evaluates its\neffectiveness through parity check, regression, and image classification tasks.\nOur experimental results indicate that EDLA networks can consistently achieve\nhigh accuracy across these benchmarks, with performance efficiency and\nconvergence speed notably influenced by the choice of learning rate, neuron\ncount, and network depth. Further investigation of the internal representations\nformed by EDLA networks reveals their capacity for meaningful feature\nextraction, similar to traditional neural networks. These results suggest that\nEDLA is a biologically motivated alternative for training feedforward networks\nand will motivate future work on extending this method to biologically inspired\nneural networks.",
+            "pdf_url": "http://arxiv.org/pdf/2504.14814v2",
+            "published": "2025-04-21 02:41:17+00:00",
+            "updated": "2025-04-28 11:14:08+00:00"
+        },
+        {
+            "title": "Diffusion Stochastic Learning Over Adaptive Competing Networks",
+            "authors": "Yike Zhao, Haoyuan Cai, Ali H. Sayed",
+            "summary": "This paper studies a stochastic dynamic game between two competing teams,\neach consisting of a network of collaborating agents. Unlike fully cooperative\nsettings, where all agents share a common objective, each team in this game\naims to minimize its own distinct objective. In the adversarial setting, their\nobjectives could be conflicting as in zero-sum games. Throughout the\ncompetition, agents share strategic information within their own team while\nsimultaneously inferring and adapting to the strategies of the opposing team.\nWe propose diffusion learning algorithms to address two important classes of\nthis network game: i) a zero-sum game characterized by weak cross-team subgraph\ninteractions, and ii) a general non-zero-sum game exhibiting strong cross-team\nsubgraph interactions. We analyze the stability performance of the proposed\nalgorithms under reasonable assumptions and illustrate the theoretical results\nthrough experiments on Cournot team competition and decentralized GAN training.",
+            "pdf_url": "http://arxiv.org/pdf/2504.19635v1",
+            "published": "2025-04-28 09:49:54+00:00",
+            "updated": "2025-04-28 09:49:54+00:00"
+        },
+        {
+            "title": "AI Alignment in Medical Imaging: Unveiling Hidden Biases Through Counterfactual Analysis",
+            "authors": "Haroui Ma, Francesco Quinzan, Theresa Willem, Stefan Bauer",
+            "summary": "Machine learning (ML) systems for medical imaging have demonstrated\nremarkable diagnostic capabilities, but their susceptibility to biases poses\nsignificant risks, since biases may negatively impact generalization\nperformance. In this paper, we introduce a novel statistical framework to\nevaluate the dependency of medical imaging ML models on sensitive attributes,\nsuch as demographics. Our method leverages the concept of counterfactual\ninvariance, measuring the extent to which a model's predictions remain\nunchanged under hypothetical changes to sensitive attributes. We present a\npractical algorithm that combines conditional latent diffusion models with\nstatistical hypothesis testing to identify and quantify such biases without\nrequiring direct access to counterfactual data. Through experiments on\nsynthetic datasets and large-scale real-world medical imaging datasets,\nincluding \\textsc{cheXpert} and MIMIC-CXR, we demonstrate that our approach\naligns closely with counterfactual fairness principles and outperforms standard\nbaselines. This work provides a robust tool to ensure that ML diagnostic\nsystems generalize well, e.g., across demographic groups, offering a critical\nstep towards AI safety in healthcare. Code:\nhttps://github.com/Neferpitou3871/AI-Alignment-Medical-Imaging.",
+            "pdf_url": "http://arxiv.org/pdf/2504.19621v1",
+            "published": "2025-04-28 09:28:25+00:00",
+            "updated": "2025-04-28 09:28:25+00:00"
+        }
+    ]
+}
