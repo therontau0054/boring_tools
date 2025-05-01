@@ -151,6 +151,36 @@ TODO:
 
 
 
+
+## Update on 2025-05-01
+
+### Physics
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2024-05-27|2025-04-30|Can We Trust Embodied Agents? Exploring Backdoor Attacks against Embodied LLM-based Decision-Making Systems|Ruochen Jiao|[2405.20774v3](http://arxiv.org/pdf/2405.20774v3)|
+|2025-04-30|2025-04-30|Active Light Modulation to Counter Manipulation of Speech Visual Content|Hadleigh Schwartz|[2504.21846v1](http://arxiv.org/pdf/2504.21846v1)|
+|2025-04-30|2025-04-30|On the Efficacy of the Peeling Decoder for the Quantum Expander Code|Jefrin Sharmitha Prabhu|[2504.21845v1](http://arxiv.org/pdf/2504.21845v1)|
+|2025-02-27|2025-04-30|Hamiltonian Learning at Heisenberg Limit for Hybrid Quantum Systems|Lixing Zhang|[2502.20373v3](http://arxiv.org/pdf/2502.20373v3)|
+|2025-04-30|2025-04-30|TRIMEG-GKX: an electromagnetic gyrokinetic particle code with a Piecewise Field-Aligned Finite Element Method for Micro- and Macro-Instability Studies in Tokamak Core Plasmas|Zhixin Lu|[2504.21837v1](http://arxiv.org/pdf/2504.21837v1)|
+|2025-04-30|2025-04-30|Non-standard quantum algebras and infinite-dimensional PT-symmetric systems|Ángel Ballesteros|[2504.21833v1](http://arxiv.org/pdf/2504.21833v1)|
+|2025-04-30|2025-04-30|A Path to Quantum Simulations of Topological Phases: (2+1)D Wilson Fermions Coupled To U(1) Background Gauge Fields|Sriram Bharadwaj|[2504.21828v1](http://arxiv.org/pdf/2504.21828v1)|
+|2025-02-11|2025-04-30|Practical classical error correction for parity-encoded spin systems|Yoshihiro Nambu|[2502.07170v4](http://arxiv.org/pdf/2502.07170v4)|
+|2024-11-05|2025-04-30|Data-driven model validation for neutrino-nucleus cross section measurements|MicroBooNE collaboration|[2411.03280v2](http://arxiv.org/pdf/2411.03280v2)|
+|2025-04-30|2025-04-30|Particle, kinetic and hydrodynamic models for sea ice floes. Part I: non-rotating floes|Quanling Deng|[2504.21809v1](http://arxiv.org/pdf/2504.21809v1)|
+
+### Diffusion
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2024-07-08|2025-04-30|BEVWorld: A Multimodal World Simulator for Autonomous Driving via Scene-Level BEV Latents|Yumeng Zhang|[2407.05679v3](http://arxiv.org/pdf/2407.05679v3)|
+|2025-04-30|2025-04-30|GarmentDiffusion: 3D Garment Sewing Pattern Generation with Multimodal Diffusion Transformers|Xinyu Li|[2504.21476v1](http://arxiv.org/pdf/2504.21476v1)|
+|2024-11-29|2025-04-30|Ditto: Motion-Space Diffusion for Controllable Realtime Talking Head Synthesis|Tianqi Li|[2411.19509v3](http://arxiv.org/pdf/2411.19509v3)|
+|2025-02-05|2025-04-30|Elucidating the Preconditioning in Consistency Distillation|Kaiwen Zheng|[2502.02922v3](http://arxiv.org/pdf/2502.02922v3)|
+|2024-05-24|2025-04-30|Diffusion Bridge Implicit Models|Kaiwen Zheng|[2405.15885v6](http://arxiv.org/pdf/2405.15885v6)|
+
+### Quantitative Finance
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-04-29|2025-04-30|ClusterLOB: Enhancing Trading Strategies by Clustering Orders in Limit Order Books|Yichi Zhang|[2504.20349v2](http://arxiv.org/pdf/2504.20349v2)|
 ## Update on 2025-04-29
 
 ### Physics
