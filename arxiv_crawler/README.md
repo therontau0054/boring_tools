@@ -152,6 +152,29 @@ TODO:
 
 
 
+
+## Update on 2025-05-03
+
+### Physics
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-05-01|2025-05-01|What is the Hierarchy Problem?|Michael E. Peskin|[2505.00694v1](http://arxiv.org/pdf/2505.00694v1)|
+|2025-05-01|2025-05-01|Physical Limits and Optimal Synthesis of Beyond Diagonal Anomalous Scatterers|Mats Gustafsson|[2505.00691v1](http://arxiv.org/pdf/2505.00691v1)|
+|2025-04-25|2025-05-01|Action-Minimization Meets Generative Modeling: Efficient Transition Path Sampling with the Onsager-Machlup Functional|Sanjeev Raja|[2504.18506v2](http://arxiv.org/pdf/2504.18506v2)|
+|2025-05-01|2025-05-01|TumorTwin: A python framework for patient-specific digital twins in oncology|Michael Kapteyn|[2505.00670v1](http://arxiv.org/pdf/2505.00670v1)|
+|2025-05-01|2025-05-01|Why the hyperbolic polaritons are hyperbolic?|Xiaoyu Xiong|[2505.00655v1](http://arxiv.org/pdf/2505.00655v1)|
+|2025-05-01|2025-05-01|Deep Learning Assisted Outer Volume Removal for Highly-Accelerated Real-Time Dynamic MRI|Merve Gülle|[2505.00643v1](http://arxiv.org/pdf/2505.00643v1)|
+|2022-02-19|2025-05-01|The heat flow conjecture for polynomials and random matrices|Brian C. Hall|[2202.09660v4](http://arxiv.org/pdf/2202.09660v4)|
+|2025-05-01|2025-05-01|SA-GAT-SR: Self-Adaptable Graph Attention Networks with Symbolic Regression for high-fidelity material property prediction|Liu Junchi|[2505.00625v1](http://arxiv.org/pdf/2505.00625v1)|
+|2025-05-01|2025-05-01|ParkDiffusion: Heterogeneous Multi-Agent Multi-Modal Trajectory Prediction for Automated Parking using Diffusion Models|Jiarong Wei|[2505.00586v1](http://arxiv.org/pdf/2505.00586v1)|
+|2025-05-01|2025-05-01|A continuum thermodynamic model of the influence of non-ionic surfactant on mass transfer from gas bubbles|Dieter Bothe|[2505.00581v1](http://arxiv.org/pdf/2505.00581v1)|
+
+### Diffusion
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-04-07|2025-05-01|Gaussian Mixture Flow Matching Models|Hansheng Chen|[2504.05304v2](http://arxiv.org/pdf/2504.05304v2)|
+|2025-02-19|2025-05-01|Generative Predictive Control: Flow Matching Policies for Dynamic and Difficult-to-Demonstrate Tasks|Vince Kurtz|[2502.13406v2](http://arxiv.org/pdf/2502.13406v2)|
+|2025-04-23|2025-05-01|Conditional Diffusion-Based Retrieval of Atmospheric CO2 from Earth Observing Spectroscopy|William R. Keely|[2504.17074v3](http://arxiv.org/pdf/2504.17074v3)|
 ## Update on 2025-05-01
 
 ### Physics
