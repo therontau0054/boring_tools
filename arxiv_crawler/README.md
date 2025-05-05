@@ -153,6 +153,31 @@ TODO:
 
 
 
+
+## Update on 2025-05-05
+
+### Physics
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-05-02|2025-05-02|Computational, Data-Driven, and Physics-Informed Machine Learning Approaches for Microstructure Modeling in Metal Additive Manufacturing|D. Patel|[2505.01424v1](http://arxiv.org/pdf/2505.01424v1)|
+|2025-05-02|2025-05-02|How Effective are Large Time Series Models in Hydrology? A Study on Water Level Forecasting in Everglades|Rahuul Rangaraj|[2505.01415v1](http://arxiv.org/pdf/2505.01415v1)|
+|2025-04-29|2025-05-02|A Universal Equilibration Condition for Heavy Quarks|Krishna Rajagopal|[2504.21139v2](http://arxiv.org/pdf/2504.21139v2)|
+|2025-05-02|2025-05-02|Non-Standard Neutrino Interactions at Neutrino Experiments and Colliders|Ayres Freitas|[2505.01401v1](http://arxiv.org/pdf/2505.01401v1)|
+|2025-04-01|2025-05-02|Quantum Galilei group as quantum reference frame transformations|Angel Ballesteros|[2504.00569v2](http://arxiv.org/pdf/2504.00569v2)|
+|2025-05-02|2025-05-02|Quantifying entanglement from the geometric perspective|Lisa T. Weinbrenner|[2505.01394v1](http://arxiv.org/pdf/2505.01394v1)|
+|2024-10-08|2025-05-02|Exploring the Computational Feasibility of Direct Pseudoinversion of the Encoding Matrix for MR Image Reconstruction (Pinv-Recon)|Kylie Yeung|[2410.06129v2](http://arxiv.org/pdf/2410.06129v2)|
+|2025-05-02|2025-05-02|Learning and Transferring Physical Models through Derivatives|Alessandro Trenta|[2505.01391v1](http://arxiv.org/pdf/2505.01391v1)|
+|2025-05-02|2025-05-02|Engineering CSS surgery: a fault-tolerant CNOT for any CSS codes|Clément Poirson|[2505.01370v1](http://arxiv.org/pdf/2505.01370v1)|
+|2025-05-02|2025-05-02|Coupled-channel scattering of $DD, DD^*$ and $D^* D^*$ in isospin-$1$ from lattice QCD|Nelson Pitanga Lachini|[2505.01363v1](http://arxiv.org/pdf/2505.01363v1)|
+
+### Diffusion
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-05-02|2025-05-02|GENMO: A GENeralist Model for Human MOtion|Jiefeng Li|[2505.01425v1](http://arxiv.org/pdf/2505.01425v1)|
+|2025-05-02|2025-05-02|VIDSTAMP: A Temporally-Aware Watermark for Ownership and Integrity in Video Diffusion Models|Mohammadreza Teymoorianfard|[2505.01406v1](http://arxiv.org/pdf/2505.01406v1)|
+|2025-05-02|2025-05-02|Provable Efficiency of Guidance in Diffusion Models for General Data Distribution|Gen Li|[2505.01382v1](http://arxiv.org/pdf/2505.01382v1)|
+|2025-05-02|2025-05-02|Model See Model Do: Speech-Driven Facial Animation with Style Control|Yifang Pan|[2505.01319v1](http://arxiv.org/pdf/2505.01319v1)|
+|2025-05-02|2025-05-02|Multi-Step Consistency Models: Fast Generation with Theoretical Guarantees|Nishant Jain|[2505.01049v1](http://arxiv.org/pdf/2505.01049v1)|
 ## Update on 2025-05-03
 
 ### Physics
