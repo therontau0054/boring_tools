@@ -154,6 +154,31 @@ TODO:
 
 
 
+
+## Update on 2025-05-07
+
+### Physics
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-05-06|2025-05-06|Stay Positive: Neural Refinement of Sample Weights|Benjamin Nachman|[2505.03724v1](http://arxiv.org/pdf/2505.03724v1)|
+|2025-05-06|2025-05-06|Two-electron quantum walks probe entanglement and decoherence in an electron microscope|Offek Tziperman|[2505.03707v1](http://arxiv.org/pdf/2505.03707v1)|
+|2025-05-06|2025-05-06|Multi-modal cascade feature transfer for polymer property prediction|Kiichi Obuchi|[2505.03704v1](http://arxiv.org/pdf/2505.03704v1)|
+|2024-04-15|2025-05-06|Minimal Autocorrelation in Hybrid Monte Carlo simulations using Exact Fourier Acceleration|Johann Ostmeyer|[2404.09723v3](http://arxiv.org/pdf/2404.09723v3)|
+|2025-04-23|2025-05-06|PINN-MEP: Continuous Neural Representations for Minimum-Energy Path Discovery in Molecular Systems|Magnus Petersen|[2504.16381v3](http://arxiv.org/pdf/2504.16381v3)|
+|2022-06-04|2025-05-06|Black holes, fast scrambling and the breakdown of the equivalence principle|Zhi-Wei Wang|[2206.02053v2](http://arxiv.org/pdf/2206.02053v2)|
+|2025-05-04|2025-05-06|A Synergistic Framework of Nonlinear Acoustic Computing and Reinforcement Learning for Real-World Human-Robot Interaction|Xiaoliang Chen|[2505.01998v2](http://arxiv.org/pdf/2505.01998v2)|
+|2025-05-06|2025-05-06|A Centrality-independent Framework for Revealing Genuine Higher-Order Cumulants in Heavy-Ion Collisions|Zhaohui Wang|[2505.03666v1](http://arxiv.org/pdf/2505.03666v1)|
+|2025-05-06|2025-05-06|Ultrafast Non-Hermitian Skin Effect|Barbara Schneider|[2505.03658v1](http://arxiv.org/pdf/2505.03658v1)|
+|2025-05-06|2025-05-06|Rapid, Broadband, Optical Spectroscopy of Cold Radicals|Ashay N. Patel|[2505.03650v1](http://arxiv.org/pdf/2505.03650v1)|
+
+### Diffusion
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-03-04|2025-05-06|BRIDGE: Bootstrapping Text to Control Time-Series Generation via Multi-Agent Iterative Optimization and Diffusion Modelling|Hao Li|[2503.02445v3](http://arxiv.org/pdf/2503.02445v3)|
+|2025-05-06|2025-05-06|Real-Time Person Image Synthesis Using a Flow Matching Model|Jiwoo Jeong|[2505.03562v1](http://arxiv.org/pdf/2505.03562v1)|
+|2025-05-06|2025-05-06|Generating Synthetic Data via Augmentations for Improved Facial Resemblance in DreamBooth and InstantID|Koray Ulusan|[2505.03557v1](http://arxiv.org/pdf/2505.03557v1)|
+|2024-11-22|2025-05-06|OSMamba: Omnidirectional Spectral Mamba with Dual-Domain Prior Generator for Exposure Correction|Gehui Li|[2411.15255v2](http://arxiv.org/pdf/2411.15255v2)|
+|2025-02-05|2025-05-06|Taking a Big Step: Large Learning Rates in Denoising Score Matching Prevent Memorization|Yu-Han Wu|[2502.03435v2](http://arxiv.org/pdf/2502.03435v2)|
 ## Update on 2025-05-05
 
 ### Physics

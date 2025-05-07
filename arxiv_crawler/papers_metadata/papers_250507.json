@@ -1,0 +1,126 @@
+{
+    "Physics": [
+        {
+            "title": "Stay Positive: Neural Refinement of Sample Weights",
+            "authors": "Benjamin Nachman, Dennis Noll",
+            "summary": "Monte Carlo simulations are an essential tool for data analysis in particle\nphysics. Simulated events are typically produced alongside weights that\nredistribute the cross section across the phase space. Latent degrees of\nfreedom introduce a distribution of weights at a given point in the phase\nspace, which can include negative values. Several post-hoc reweighting methods\nhave been developed to eliminate the negative weights. All of these methods\nshare the common strategy of approximating the average weight as a function of\nphase space. We introduce an alternative approach with a potentially simpler\nlearning task. Instead of reweighting to the average, we refine the initial\nweights with a scaling transformation, utilizing a phase space-dependent\nfactor. Since this new refinement method does not need to model the full weight\ndistribution, it can be more accurate. High-dimensional and unbinned phase\nspace is processed using neural networks for the refinement. Using both\nrealistic and synthetic examples, we show that the new neural refinement method\nis able to match or exceed the accuracy of similar weight transformations.",
+            "pdf_url": "http://arxiv.org/pdf/2505.03724v1",
+            "published": "2025-05-06 17:52:30+00:00",
+            "updated": "2025-05-06 17:52:30+00:00"
+        },
+        {
+            "title": "Two-electron quantum walks probe entanglement and decoherence in an electron microscope",
+            "authors": "Offek Tziperman, David Nabben, Ron Ruimy, Jacob Holder, Ethan Nussinson, Yiqi Fang, Alexey Gorlach, Daniel Kazenwadel, Aviv Karnieli, Ido Kaminer, Peter Baum",
+            "summary": "Classical physics is often a good approximation for quantum systems composed\nof many interacting particles, although wavepacket dispersion and scattering\nprocesses continuously induce delocalization and entanglement. According to\ndecoherence theory, an entangled ensemble can appear classical when only a\nsubset of all particles is observed. This emergence of macroscopic phenomena\nfrom quantum interactions is, for example, relevant for phase transitions,\nquantum thermalization, hydrodynamics, spin liquids, or time crystals. However,\nentanglement and decoherence in free electrons have not yet been explored,\nalthough the electron is a fundamental elementary particle with extraordinary\ntechnological relevance. Here, we investigate the degree of coherence and\nentanglement in a free-space electron gas in the beam of an ultrafast electron\nmicroscope. Inspired by the strong interaction of free electrons with laser\nlight, we introduce a two-electron quantum walk that enables quantum state\ntomography of entangled or partially entangled electron-electron pairs. We\napply this novel diagnostic to study the creation and loss of entanglement in\nshort pulses of hundreds of electrons. We observe high-contrast two-electron\ninterferences and signs of small electron-electron entanglement that we explain\nby competition between entangling Coulomb interactions and decoherence effects\nfrom unmeasured reservoir electrons. The ability to characterize entangled\nfree-electron quantum states will provide insight into the emergence of\nclassical phenomena from quantum principles in the realm of particles with mass\nand charge, and will have practical applications in low-dose electron\nmicroscopy, ghost imaging, or quantum electron microscopy.",
+            "pdf_url": "http://arxiv.org/pdf/2505.03707v1",
+            "published": "2025-05-06 17:27:36+00:00",
+            "updated": "2025-05-06 17:27:36+00:00"
+        },
+        {
+            "title": "Multi-modal cascade feature transfer for polymer property prediction",
+            "authors": "Kiichi Obuchi, Yuta Yahagi, Kiyohiko Toyama, Shukichi Tanaka, Kota Matsui",
+            "summary": "In this paper, we propose a novel transfer learning approach called\nmulti-modal cascade model with feature transfer for polymer property\nprediction.Polymers are characterized by a composite of data in several\ndifferent formats, including molecular descriptors and additive information as\nwell as chemical structures. However, in conventional approaches, prediction\nmodels were often constructed using each type of data separately. Our model\nenables more accurate prediction of physical properties for polymers by\ncombining features extracted from the chemical structure by graph convolutional\nneural networks (GCN) with features such as molecular descriptors and additive\ninformation. The predictive performance of the proposed method is empirically\nevaluated using several polymer datasets. We report that the proposed method\nshows high predictive performance compared to the baseline conventional\napproach using a single feature.",
+            "pdf_url": "http://arxiv.org/pdf/2505.03704v1",
+            "published": "2025-05-06 17:24:43+00:00",
+            "updated": "2025-05-06 17:24:43+00:00"
+        },
+        {
+            "title": "Minimal Autocorrelation in Hybrid Monte Carlo simulations using Exact Fourier Acceleration",
+            "authors": "Johann Ostmeyer, Pavel Buividovich",
+            "summary": "The hybrid Monte Carlo (HMC) algorithm is a ubiquitous method in\ncomputational physics with applications ranging from condensed matter to\nlattice QCD and beyond. However, HMC simulations often suffer from long\nautocorrelation times, severely reducing their efficiency. In this work two of\nthe main sources of autocorrelations are identified and eliminated. The first\nsource is the sampling of the canonical momenta from a sub-optimal normal\ndistribution, the second is a badly chosen trajectory length. Analytic\nsolutions to both problems are presented and implemented in the exact Fourier\nacceleration (EFA) method. It completely removes autocorrelations for\nnear-harmonic potentials and consistently yields (close-to-) optimal results\nfor numerical simulations of the Su-Schrieffer-Heeger and the Ising models as\nwell as in lattice gauge theory, in some cases reducing the autocorrelation by\nmultiple orders of magnitude. EFA is advantageous for and easily applicable to\nany HMC simulation of an action that includes a quadratic part.",
+            "pdf_url": "http://arxiv.org/pdf/2404.09723v3",
+            "published": "2024-04-15 12:26:37+00:00",
+            "updated": "2025-05-06 17:18:35+00:00"
+        },
+        {
+            "title": "PINN-MEP: Continuous Neural Representations for Minimum-Energy Path Discovery in Molecular Systems",
+            "authors": "Magnus Petersen, Roberto Covino",
+            "summary": "Characterizing conformational transitions in physical systems remains a\nfundamental challenge in the computational sciences. Traditional sampling\nmethods like molecular dynamics (MD) or MCMC often struggle with the\nhigh-dimensional nature of molecular systems and the high energy barriers of\ntransitions between stable states. While these transitions are rare events in\nsimulation timescales, they often represent the most biologically significant\nprocesses - for example, the conformational change of an ion channel protein\nfrom its closed to open state, which controls cellular ion flow and is crucial\nfor neural signaling. Such transitions in real systems may take milliseconds to\nseconds but could require months or years of continuous simulation to observe\neven once. We present a method that reformulates transition path generation as\na continuous optimization problem solved through physics-informed neural\nnetworks (PINNs) inspired by string methods for minimum-energy path (MEP)\ngeneration. By representing transition paths as implicit neural functions and\nleveraging automatic differentiation with differentiable molecular dynamics\nforce fields, our method enables the efficient discovery of physically\nrealistic transition pathways without requiring expensive path sampling. We\ndemonstrate our method's effectiveness on two proteins, including an explicitly\nhydrated bovine pancreatic trypsin inhibitor (BPTI) system with over 8,300\natoms.",
+            "pdf_url": "http://arxiv.org/pdf/2504.16381v3",
+            "published": "2025-04-23 03:02:29+00:00",
+            "updated": "2025-05-06 16:43:13+00:00"
+        },
+        {
+            "title": "Black holes, fast scrambling and the breakdown of the equivalence principle",
+            "authors": "Zhi-Wei Wang, Saurya Das, Samuel L. Braunstein",
+            "summary": "Under reasonable assumptions, black holes have been argued to form firewalls,\nburning up anything crossing their horizons. This argument finds that a\nfirewall would appear very late in a black hole's lifetime, when Hawking\nradiation has caused the horizon to shrink to one-half its original area. For\nstellar-mass black holes, this process surpasses the universe's current age and\nso no such black hole would currently possess a firewall. However, black holes\nhave recently been conjectured to scramble their interior degrees-of-freedom,\nwith a scrambling time scale comparable to the time it takes light to travel a\nSchwartzschild radius' distance. We prove that local observers will already\nexperience a firewall from the scrambling time onwards after the black hole's\nformation. Here `local' means that the observer couples to fewer than one-half\nthe black hole's total interior `qubits.' Indeed, for observers to fail to be\nlocal in this manner, it would mean that they couple to more `qubits' within\nsuch black holes than exist in all the stars of the observable universe.\nTherefore we find that if black holes are indeed fast scramblers, then every\nastrophysical black hole in the universe will already have a fully developed\nfirewall for any local physical process.",
+            "pdf_url": "http://arxiv.org/pdf/2206.02053v2",
+            "published": "2022-06-04 19:54:28+00:00",
+            "updated": "2025-05-06 16:14:44+00:00"
+        },
+        {
+            "title": "A Synergistic Framework of Nonlinear Acoustic Computing and Reinforcement Learning for Real-World Human-Robot Interaction",
+            "authors": "Xiaoliang Chen, Xin Yu, Le Chang, Yunhe Huang, Jiashuai He, Shibo Zhang, Jin Li, Likai Lin, Ziyu Zeng, Xianling Tu, Shuyu Zhang",
+            "summary": "This paper introduces a novel framework integrating nonlinear acoustic\ncomputing and reinforcement learning to enhance advanced human-robot\ninteraction under complex noise and reverberation. Leveraging physically\ninformed wave equations (e.g., Westervelt, KZK), the approach captures\nhigher-order phenomena such as harmonic generation and shock formation. By\nembedding these models in a reinforcement learning-driven control loop, the\nsystem adaptively optimizes key parameters (e.g., absorption, beamforming) to\nmitigate multipath interference and non-stationary noise. Experimental\nevaluations, covering far-field localization, weak signal detection, and\nmultilingual speech recognition, demonstrate that this hybrid strategy\nsurpasses traditional linear methods and purely data-driven baselines,\nachieving superior noise suppression, minimal latency, and robust accuracy in\ndemanding real-world scenarios. The proposed system demonstrates broad\napplication prospects in AI hardware, robot, machine audition, artificial\naudition, and brain-machine interfaces.",
+            "pdf_url": "http://arxiv.org/pdf/2505.01998v2",
+            "published": "2025-05-04 06:03:12+00:00",
+            "updated": "2025-05-06 16:09:59+00:00"
+        },
+        {
+            "title": "A Centrality-independent Framework for Revealing Genuine Higher-Order Cumulants in Heavy-Ion Collisions",
+            "authors": "Zhaohui Wang, Xiaofeng Luo",
+            "summary": "We propose a novel centrality definition-independent method for analyzing\nhigher-order proton cumulants, specifically addressing the challenge of volume\nfluctuations that dominate in low-energy heavy-ion collisions. This method\nreconstructs particle number distributions using the Edgeworth expansion, with\nparameters optimized via a combination of differential evolution algorithm and\nBayesian inference. Its effectiveness is validated using UrQMD model\nsimulations and benchmarked against traditional approaches, including\ncentrality definitions based on particle multiplicity. Our results show that\nthe proposed framework yields cumulant patterns consistent with those obtained\nusing number of participant nucleon ($N_{\\text{part}}$) based centrality\nobservables, while eliminating the conventional reliance on centrality\ndetermination. This consistency confirms the method's ability to extract\ngenuine physical signals, thereby paving the way for probing the intrinsic\nthermodynamic properties of the produced medium through event-by-event\nfluctuations.",
+            "pdf_url": "http://arxiv.org/pdf/2505.03666v1",
+            "published": "2025-05-06 16:06:44+00:00",
+            "updated": "2025-05-06 16:06:44+00:00"
+        },
+        {
+            "title": "Ultrafast Non-Hermitian Skin Effect",
+            "authors": "Barbara Schneider, Alexander Dikopoltsev, Markus Bestler, Philipp T\u00e4schler, Mattias Beck, David Burghoff, Oded Zilberberg, J\u00e9rome Faist",
+            "summary": "Topological phases of matter commonly feature protected states at their\nboundaries. Transferring this protection to time-metamaterials is extremely\nchallenging, as it requires the generation of an abrupt interface between two\ntopologically distinct bulks. Here, we realize and measure an ultrafast\ntopological non-Hermitian skin mode bound to an interface circulating within\nthe cavity of a fast-gain semiconductor laser. The nonlinear stationary state\ngenerated in such devices features a jump in the instantaneous frequency. We\nshow that this discontinuity gives rise to a topological interface for the\nfield fluctuations in the system. Using direct intensity sampling, we\nexperimentally measure the skin modes and their positioning at the frequency\njump of the stationary state. Analysis of these isolated modes reveals an\nultrashort full-width at half-maximum of 583 $\\pm$ 16 fs. Furthermore, we show\nthat we can tune the shape and relative timing shift of the skin modes via\nexternal bias modulation. Finally, both numerical and experimental analysis of\nthe noise in the system reveal that field fluctuations are funneled into the\ntopological interface. Our findings reveal a new way to generate topologically\nprotected states of light in time, which paves the way for novel time-varying\nphysics as well as metrological applications.",
+            "pdf_url": "http://arxiv.org/pdf/2505.03658v1",
+            "published": "2025-05-06 16:02:38+00:00",
+            "updated": "2025-05-06 16:02:38+00:00"
+        },
+        {
+            "title": "Rapid, Broadband, Optical Spectroscopy of Cold Radicals",
+            "authors": "Ashay N. Patel, Madison I. Howard, Timothy C. Steimle, Nicholas R. Hutzler",
+            "summary": "Optical spectroscopy of molecular radicals is an important tool in physical\nchemistry, and is a prerequisite for many experiments which use molecules for\nquantum science and precision measurement. However, even the simplest molecules\nhave complex spectra which can be very time consuming to measure. Here we\npresent an approach which offers the ability to measure the optical spectra of\ncryogenically-cooled molecular radicals with much greater efficiency. By\ncombining a supercontinuum laser with a cryogenic buffer gas molecular source\nand a commercial optical spectrometer, we realize 15 nm of simultaneous\nbandwidth with 0.56 pm $(\\approx 0.5$ GHz) resolution and high sensitivity. As\na demonstration we measure and assign hundreds of lines and dozens of molecular\nconstants from 15 bands in the $B^2\\Sigma^+-X^2\\Sigma^+$ system of CaF,\nincluding a low-abundance isotopologue, in a few hours. The setup is robust,\nsimple, and should enable spectroscopy of molecular radicals with much higher\nthroughput.",
+            "pdf_url": "http://arxiv.org/pdf/2505.03650v1",
+            "published": "2025-05-06 15:57:00+00:00",
+            "updated": "2025-05-06 15:57:00+00:00"
+        }
+    ],
+    "Diffusion": [
+        {
+            "title": "BRIDGE: Bootstrapping Text to Control Time-Series Generation via Multi-Agent Iterative Optimization and Diffusion Modelling",
+            "authors": "Hao Li, Yuhao Huang, Chang Xu, Viktor Schlegel, Renhe Jiang, Riza Batista-Navarro, Goran Nenadic, Jiang Bian",
+            "summary": "Time-series Generation (TSG) is a prominent research area with broad\napplications in simulations, data augmentation, and counterfactual analysis.\nWhile existing methods have shown promise in unconditional single-domain TSG,\nreal-world applications demand for cross-domain approaches capable of\ncontrolled generation tailored to domain-specific constraints and\ninstance-level requirements. In this paper, we argue that text can provide\nsemantic insights, domain information and instance-specific temporal patterns,\nto guide and improve TSG. We introduce ``Text-Controlled TSG'', a task focused\non generating realistic time series by incorporating textual descriptions. To\naddress data scarcity in this setting, we propose a novel LLM-based Multi-Agent\nframework that synthesizes diverse, realistic text-to-TS datasets. Furthermore,\nwe introduce BRIDGE, a hybrid text-controlled TSG framework that integrates\nsemantic prototypes with text description for supporting domain-level guidance.\nThis approach achieves state-of-the-art generation fidelity on 11 of 12\ndatasets, and improves controllability by 12.52% on MSE and 6.34% MAE compared\nto no text input generation, highlighting its potential for generating tailored\ntime-series data.",
+            "pdf_url": "http://arxiv.org/pdf/2503.02445v3",
+            "published": "2025-03-04 09:40:00+00:00",
+            "updated": "2025-05-06 16:32:17+00:00"
+        },
+        {
+            "title": "Real-Time Person Image Synthesis Using a Flow Matching Model",
+            "authors": "Jiwoo Jeong, Kirok Kim, Wooju Kim, Nam-Joon Kim",
+            "summary": "Pose-Guided Person Image Synthesis (PGPIS) generates realistic person images\nconditioned on a target pose and a source image. This task plays a key role in\nvarious real-world applications, such as sign language video generation, AR/VR,\ngaming, and live streaming. In these scenarios, real-time PGPIS is critical for\nproviding immediate visual feedback and maintaining user immersion.However,\nachieving real-time performance remains a significant challenge due to the\ncomplexity of synthesizing high-fidelity images from diverse and dynamic human\nposes. Recent diffusion-based methods have shown impressive image quality in\nPGPIS, but their slow sampling speeds hinder deployment in time-sensitive\napplications. This latency is particularly problematic in tasks like generating\nsign language videos during live broadcasts, where rapid image updates are\nrequired. Therefore, developing a fast and reliable PGPIS model is a crucial\nstep toward enabling real-time interactive systems. To address this challenge,\nwe propose a generative model based on flow matching (FM). Our approach enables\nfaster, more stable, and more efficient training and sampling. Furthermore, the\nproposed model supports conditional generation and can operate in latent space,\nmaking it especially suitable for real-time PGPIS applications where both speed\nand quality are critical. We evaluate our proposed method, Real-Time Person\nImage Synthesis Using a Flow Matching Model (RPFM), on the widely used\nDeepFashion dataset for PGPIS tasks. Our results show that RPFM achieves\nnear-real-time sampling speeds while maintaining performance comparable to the\nstate-of-the-art models. Our methodology trades off a slight, acceptable\ndecrease in generated-image accuracy for over a twofold increase in generation\nspeed, thereby ensuring real-time performance.",
+            "pdf_url": "http://arxiv.org/pdf/2505.03562v1",
+            "published": "2025-05-06 14:13:44+00:00",
+            "updated": "2025-05-06 14:13:44+00:00"
+        },
+        {
+            "title": "Generating Synthetic Data via Augmentations for Improved Facial Resemblance in DreamBooth and InstantID",
+            "authors": "Koray Ulusan, Benjamin Kiefer",
+            "summary": "The personalization of Stable Diffusion for generating professional portraits\nfrom amateur photographs is a burgeoning area, with applications in various\ndownstream contexts. This paper investigates the impact of augmentations on\nimproving facial resemblance when using two prominent personalization\ntechniques: DreamBooth and InstantID. Through a series of experiments with\ndiverse subject datasets, we assessed the effectiveness of various augmentation\nstrategies on the generated headshots' fidelity to the original subject. We\nintroduce FaceDistance, a wrapper around FaceNet, to rank the generations based\non facial similarity, which aided in our assessment. Ultimately, this research\nprovides insights into the role of augmentations in enhancing facial\nresemblance in SDXL-generated portraits, informing strategies for their\neffective deployment in downstream applications.",
+            "pdf_url": "http://arxiv.org/pdf/2505.03557v1",
+            "published": "2025-05-06 14:11:02+00:00",
+            "updated": "2025-05-06 14:11:02+00:00"
+        },
+        {
+            "title": "OSMamba: Omnidirectional Spectral Mamba with Dual-Domain Prior Generator for Exposure Correction",
+            "authors": "Gehui Li, Bin Chen, Chen Zhao, Lei Zhang, Jian Zhang",
+            "summary": "Exposure correction is a fundamental problem in computer vision and image\nprocessing. Recently, frequency domain-based methods have achieved impressive\nimprovement, yet they still struggle with complex real-world scenarios under\nextreme exposure conditions. This is due to the local convolutional receptive\nfields failing to model long-range dependencies in the spectrum, and the\nnon-generative learning paradigm being inadequate for retrieving lost details\nfrom severely degraded regions. In this paper, we propose Omnidirectional\nSpectral Mamba (OSMamba), a novel exposure correction network that incorporates\nthe advantages of state space models and generative diffusion models to address\nthese limitations. Specifically, OSMamba introduces an omnidirectional spectral\nscanning mechanism that adapts Mamba to the frequency domain to capture\ncomprehensive long-range dependencies in both the amplitude and phase spectra\nof deep image features, hence enhancing illumination correction and structure\nrecovery. Furthermore, we develop a dual-domain prior generator that learns\nfrom well-exposed images to generate a degradation-free diffusion prior\ncontaining correct information about severely under- and over-exposed regions\nfor better detail restoration. Extensive experiments on multiple-exposure and\nmixed-exposure datasets demonstrate that the proposed OSMamba achieves\nstate-of-the-art performance both quantitatively and qualitatively.",
+            "pdf_url": "http://arxiv.org/pdf/2411.15255v2",
+            "published": "2024-11-22 08:54:16+00:00",
+            "updated": "2025-05-06 13:41:55+00:00"
+        },
+        {
+            "title": "Taking a Big Step: Large Learning Rates in Denoising Score Matching Prevent Memorization",
+            "authors": "Yu-Han Wu, Pierre Marion, G\u00e9rard Biau, Claire Boyer",
+            "summary": "Denoising score matching plays a pivotal role in the performance of\ndiffusion-based generative models. However, the empirical optimal score--the\nexact solution to the denoising score matching--leads to memorization, where\ngenerated samples replicate the training data. Yet, in practice, only a\nmoderate degree of memorization is observed, even without explicit\nregularization. In this paper, we investigate this phenomenon by uncovering an\nimplicit regularization mechanism driven by large learning rates. Specifically,\nwe show that in the small-noise regime, the empirical optimal score exhibits\nhigh irregularity. We then prove that, when trained by stochastic gradient\ndescent with a large enough learning rate, neural networks cannot stably\nconverge to a local minimum with arbitrarily small excess risk. Consequently,\nthe learned score cannot be arbitrarily close to the empirical optimal score,\nthereby mitigating memorization. To make the analysis tractable, we consider\none-dimensional data and two-layer neural networks. Experiments validate the\ncrucial role of the learning rate in preventing memorization, even beyond the\none-dimensional setting.",
+            "pdf_url": "http://arxiv.org/pdf/2502.03435v2",
+            "published": "2025-02-05 18:29:35+00:00",
+            "updated": "2025-05-06 13:17:30+00:00"
+        }
+    ]
+}
