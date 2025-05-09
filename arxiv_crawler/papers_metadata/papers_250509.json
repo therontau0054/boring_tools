@@ -1,0 +1,126 @@
+{
+    "Physics": [
+        {
+            "title": "Primordial black-hole formation and heavy r-process element synthesis from the cosmological QCD transition. Two aspects of an inhomogeneous early Universe",
+            "authors": "M. Gonin, G. Hasinger, D. Blaschke, O. Ivanytskyi, G. R\u00f6pke",
+            "summary": "We review the role of primordial black holes (PBHs) for illuminating the dark\nages of the cosmological evolution and as dark matter candidates. We elucidate\nthe role of phase transitions for primordial black hole formation in the early\nUniverse and focus our attention to the cosmological QCD phase transition\nwithin a recent microscopical model. We explore the impact of physics beyond\nthe Standard Model on the cosmic equation of state and the probability\ndistribution for the formation of primordial black holes which serve as dark\nmatter (DM) candidates. We argue that besides primordial black holes also\ndroplet-like quark-gluon plasma inhomogeneities may become gravitationally\nstabilized for a sufficiently long epoch to distill baryon number and form\nnuclear matter droplets which upon their evaporation may enrich the cosmos\nlocally with heavy $r$-process elements already in the early Universe.",
+            "pdf_url": "http://arxiv.org/pdf/2505.05463v1",
+            "published": "2025-05-08 17:55:34+00:00",
+            "updated": "2025-05-08 17:55:34+00:00"
+        },
+        {
+            "title": "Marsden--Meyer--Weinstein reduction for $k$-contact field theories",
+            "authors": "J. de Lucas, X. Rivas, S. Vilarino, B. M. Zawora",
+            "summary": "This work devises a Marsden--Meyer--Weinstein $k$-contact reduction. Our\ntechniques are illustrated with several examples of mathematical and physical\nrelevance. As a byproduct, we review the previous contact reduction literature\nso as to clarify and to solve some inaccuracies.",
+            "pdf_url": "http://arxiv.org/pdf/2505.05462v1",
+            "published": "2025-05-08 17:54:10+00:00",
+            "updated": "2025-05-08 17:54:10+00:00"
+        },
+        {
+            "title": "RL-DAUNCE: Reinforcement Learning-Driven Data Assimilation with Uncertainty-Aware Constrained Ensembles",
+            "authors": "Pouria Behnoudfar, Nan Chen",
+            "summary": "Machine learning has become a powerful tool for enhancing data assimilation.\nWhile supervised learning remains the standard method, reinforcement learning\n(RL) offers unique advantages through its sequential decision-making framework,\nwhich naturally fits the iterative nature of data assimilation by dynamically\nbalancing model forecasts with observations. We develop RL-DAUNCE, a new\nRL-based method that enhances data assimilation with physical constraints\nthrough three key aspects. First, RL-DAUNCE inherits the computational\nefficiency of machine learning while it uniquely structures its agents to\nmirror ensemble members in conventional data assimilation methods. Second,\nRL-DAUNCE emphasizes uncertainty quantification by advancing multiple ensemble\nmembers, moving beyond simple mean-state optimization. Third, RL-DAUNCE's\nensemble-as-agents design facilitates the enforcement of physical constraints\nduring the assimilation process, which is crucial to improving the state\nestimation and subsequent forecasting. A primal-dual optimization strategy is\ndeveloped to enforce constraints, which dynamically penalizes the reward\nfunction to ensure constraint satisfaction throughout the learning process.\nAlso, state variable bounds are respected by constraining the RL action space.\nTogether, these features ensure physical consistency without sacrificing\nefficiency. RL-DAUNCE is applied to the Madden-Julian Oscillation, an\nintermittent atmospheric phenomenon characterized by strongly non-Gaussian\nfeatures and multiple physical constraints. RL-DAUNCE outperforms the standard\nensemble Kalman filter (EnKF), which fails catastrophically due to the\nviolation of physical constraints. Notably, RL-DAUNCE matches the performance\nof constrained EnKF, particularly in recovering intermittent signals, capturing\nextreme events, and quantifying uncertainties, while requiring substantially\nless computational effort.",
+            "pdf_url": "http://arxiv.org/pdf/2505.05452v1",
+            "published": "2025-05-08 17:43:35+00:00",
+            "updated": "2025-05-08 17:43:35+00:00"
+        },
+        {
+            "title": "Screened Axio-dilaton Cosmology: Novel Forms of Early Dark Energy",
+            "authors": "Adam Smith, Philippe Brax, Carsten van de Bruck, C. P. Burgess, Anne-Christine Davis",
+            "summary": "We study the cosmology of multi-field Dark Energy, using a well-motivated\naxio-dilaton model that contains the minimal number of fields to have the\n2-derivative sigma-model interactions that power-counting arguments show\nnaturally compete with General Relativity at low energies. Our analysis differs\nfrom earlier, related, studies by treating the case where the dilaton's\ncouplings to matter are large enough to require screening to avoid unacceptable\ndilaton-mediated forces in the solar system. We use a recently proposed\nscreening mechanism that exploits the interplay between\nstronger-than-gravitational axion-matter couplings with the 2-derivative\naxion-dilaton interactions to suppress the couplings of the dilaton to bulk\nmatter. The required axion-matter couplings also modify cosmology, with the\naxion's background energy density turning out to resemble early dark energy. We\ncompute the properties of the axion fluid describing the rapid oscillations of\nthe axion field around the time-dependent minimum of its matter-dependent\neffective potential, extending the usual formalism to include nontrivial\nkinetic sigma-model interactions. We explore the implications of these models\nfor the Cosmic Microwave Background and the growth of structure and find that\nfor dilaton potentials of the Albrecht-Skordis form (itself well-motivated by\nUV physics), successful screening can be consistent with the early dark energy\ntemporarily comprising as much as 10% of the total density in the past. We find\nthat increasing the dilaton-matter coupling decreases the growth of structure\ndue to enhanced Hubble friction, an effect that dominates the usual fifth-force\neffects that amplify structure growth.",
+            "pdf_url": "http://arxiv.org/pdf/2505.05450v1",
+            "published": "2025-05-08 17:39:37+00:00",
+            "updated": "2025-05-08 17:39:37+00:00"
+        },
+        {
+            "title": "Manifest Gauge Invariance for Structure Dependent Radiative Corrections to Processes Involving Atoms and Nuclei",
+            "authors": "Ryan Plestid, Mark B. Wise",
+            "summary": "Radiative corrections to reactions involving atoms or nuclei can become\nsensitive to the structure of the bound state. Generically, one encounters\ncorrelation functions of multiple currents which must satisfy Ward identities.\nAt intermediate steps, however the Ward identities are obscured, and often\nviolated by physically motivated approximation schemes. In this paper we\noutline a method to construct a representation of the aforementioned\ncorrelators that manifests gauge invariance in the limit of a heavy target\n(i.e., when recoil energy can be neglected). This representation then enables\nmanifestly gauge invariant approximation schemes. Furthermore, the proposed\nrepresentation naturally separates the largest contributions that dominate\nscattering amplitudes in the limit of a heavy constituent (e.g., proton) mass.\nWe analyze elastic electron scattering from nuclei in detail, and also discuss\nradiative corrections to processes mediated by the weak interaction.",
+            "pdf_url": "http://arxiv.org/pdf/2505.05449v1",
+            "published": "2025-05-08 17:39:06+00:00",
+            "updated": "2025-05-08 17:39:06+00:00"
+        },
+        {
+            "title": "The effective energy of a lattice metamaterial",
+            "authors": "Xuenan Li, Robert V. Kohn",
+            "summary": "We study the sense in which the continuum limit of a broad class of discrete\nmaterials with periodic structures can be viewed as a nonlinear elastic\nmaterial. While we are not the first to consider this question, our treatment\nis more general and more physical than those in the literature. Indeed, it\napplies to a broad class of systems, including ones that possess mechanisms;\nand we discuss how the degeneracy that plagues prior work in this area can be\navoided by penalizing change of orientation. A key motivation for this work is\nits relevance to mechanism-based mechanical metamaterials. Such systems often\nhave ``soft modes'', achieved in typical examples by modulating mechanisms. Our\nresults permit the following more general definition of a soft mode: it is a\nmacroscopic deformation whose effective energy vanishes -- in other words, one\nwhose spatially-averaged elastic energy tends to zero in the continuum limit.",
+            "pdf_url": "http://arxiv.org/pdf/2505.05436v1",
+            "published": "2025-05-08 17:24:25+00:00",
+            "updated": "2025-05-08 17:24:25+00:00"
+        },
+        {
+            "title": "Barren Plateaus in Variational Quantum Computing",
+            "authors": "Martin Larocca, Supanut Thanasilp, Samson Wang, Kunal Sharma, Jacob Biamonte, Patrick J. Coles, Lukasz Cincio, Jarrod R. McClean, Zo\u00eb Holmes, M. Cerezo",
+            "summary": "Variational quantum computing offers a flexible computational paradigm with\napplications in diverse areas. However, a key obstacle to realizing their\npotential is the Barren Plateau (BP) phenomenon. When a model exhibits a BP,\nits parameter optimization landscape becomes exponentially flat and featureless\nas the problem size increases. Importantly, all the moving pieces of an\nalgorithm -- choices of ansatz, initial state, observable, loss function and\nhardware noise -- can lead to BPs when ill-suited. Due to the significant\nimpact of BPs on trainability, researchers have dedicated considerable effort\nto develop theoretical and heuristic methods to understand and mitigate their\neffects. As a result, the study of BPs has become a thriving area of research,\ninfluencing and cross-fertilizing other fields such as quantum optimal control,\ntensor networks, and learning theory. This article provides a comprehensive\nreview of the current understanding of the BP phenomenon.",
+            "pdf_url": "http://arxiv.org/pdf/2405.00781v2",
+            "published": "2024-05-01 18:00:10+00:00",
+            "updated": "2025-05-08 17:14:28+00:00"
+        },
+        {
+            "title": "Robustly optimal dynamics for active matter reservoir computing",
+            "authors": "Mario U. Gaimann, Miriam Klopotek",
+            "summary": "We study the information processing abilities of active matter in the\nreservoir computing (RC) paradigm, using a model that is externally driven to\ninfer the future state of a chaotic signal. The simulated system closely\nfollows a previously reported model. We uncover an exceptional dynamical regime\nof agent dynamics that has been overlooked heretofore. It appears robustly\noptimal across varying physical parameters and inference tasks, thus providing\nvaluable insights into computation and inference with physical systems more\ngenerally. The ability to form effective mechanisms for information processing\nare primarily determined by the system's own intrinsic relaxation abilities.\nThese are identifiable when probing the system without a specific inference\ngoal and manifest when testing minimalistic single-particle reservoirs. The\nregime that achieves optimal computation is situated just below the critical\ndamping threshold, involving a microscopic dynamical relaxation with multiple\nstages. The optimal system is adaptable under chaotic external driving, due to\na diversity in response mechanisms that emerge like rapid alternations between\nquasi-stationary and highly nonlinear dynamical states. Both coherent and\nincoherent dynamics contribute to their operation, partly at dissimilar scales\nof space and delay time. Correlations on agent dynamics can indicate the\nbest-performing regimes and onsets of tight relationships between the\nresponding system and the fluctuating driver. As this model of computation is\ninterpretable in physical terms, it facilitates re-framing inquiries regarding\nlearning and unconventional computing with a fresh rationale for many-body\nphysics out of equilibrium.",
+            "pdf_url": "http://arxiv.org/pdf/2505.05420v1",
+            "published": "2025-05-08 17:09:14+00:00",
+            "updated": "2025-05-08 17:09:14+00:00"
+        },
+        {
+            "title": "Quantum Simulation of Dynamical Response Functions of Equilibrium States",
+            "authors": "Esther Cruz, Dominik S. Wild, Mari Carmen Ba\u00f1uls, J. Ignacio Cirac",
+            "summary": "The computation of dynamical response functions is central to many problems\nin condensed matter physics. Owing to the rapid growth of quantum correlations\nfollowing a quench, classical methods face significant challenges even if an\nefficient description of the equilibrium state is available. Quantum computing\noffers a promising alternative. However, existing approaches often assume\naccess to the equilibrium state, which may be difficult to prepare in practice.\nIn this work, we present a method that circumvents this by using energy filter\ntechniques, enabling the computation of response functions and other dynamical\nproperties in both microcanonical and canonical ensembles. Our approach only\nrequires the preparation of states that have significant weight at the desired\nenergy. The dynamical response functions are then reconstructed from\nmeasurements after quenches of varying duration by classical postprocessing. We\nillustrate the algorithm numerically by applying it to compute the dynamical\nconductivity of a free-fermion model, which unveils the energy-dependent\nlocalization properties of the model.",
+            "pdf_url": "http://arxiv.org/pdf/2505.05411v1",
+            "published": "2025-05-08 16:52:11+00:00",
+            "updated": "2025-05-08 16:52:11+00:00"
+        },
+        {
+            "title": "Testing an unstable cosmic neutrino background",
+            "authors": "Pasquale Di Bari",
+            "summary": "I discuss how different cosmological observations can test the possibility\nthat neutrinos might be unstable on cosmological times, resulting into an\nunstable cosmic neutrino background. I also discuss out how actually there are\ndifferent independent anomalies intriguingly hint to such a possibility that\nwould clearly point to new physics. I first focus on how the new DESI results\nplace an upper bound on the sum of neutrino masses that starts to be in tension\nwith the lower bound from neutrino oscillation experiments and how this tension\ncould be easily solved assuming unstable relic neutrinos. Then I show how 21 cm\ncosmology allows to test radiative relic neutrino decays and how these could\nexplain the controversial EDGES anomaly. I also discuss how the excess radio\nbackground and in particular the ARCADE 2 data can also be nicely explained by\nrelic neutrino radiative decays. Finally, I point out the difficulties in\nbuilding a model that does not clash with the upper limits on the effective\nmagnetic moment coming from neutrino-electron scattering experiments and\nglobular cluster stars.",
+            "pdf_url": "http://arxiv.org/pdf/2505.05405v1",
+            "published": "2025-05-08 16:46:13+00:00",
+            "updated": "2025-05-08 16:46:13+00:00"
+        }
+    ],
+    "Diffusion": [
+        {
+            "title": "Uncertainty Comes for Free: Human-in-the-Loop Policies with Diffusion Models",
+            "authors": "Zhanpeng He, Yifeng Cao, Matei Ciocarlie",
+            "summary": "Human-in-the-loop (HitL) robot deployment has gained significant attention in\nboth academia and industry as a semi-autonomous paradigm that enables human\noperators to intervene and adjust robot behaviors at deployment time, improving\nsuccess rates. However, continuous human monitoring and intervention can be\nhighly labor-intensive and impractical when deploying a large number of robots.\nTo address this limitation, we propose a method that allows diffusion policies\nto actively seek human assistance only when necessary, reducing reliance on\nconstant human oversight. To achieve this, we leverage the generative process\nof diffusion policies to compute an uncertainty-based metric based on which the\nautonomous agent can decide to request operator assistance at deployment time,\nwithout requiring any operator interaction during training. Additionally, we\nshow that the same method can be used for efficient data collection for\nfine-tuning diffusion policies in order to improve their autonomous\nperformance. Experimental results from simulated and real-world environments\ndemonstrate that our approach enhances policy performance during deployment for\na variety of scenarios.",
+            "pdf_url": "http://arxiv.org/pdf/2503.01876v2",
+            "published": "2025-02-26 15:12:29+00:00",
+            "updated": "2025-05-08 17:10:57+00:00"
+        },
+        {
+            "title": "Denoising Diffusion Probabilistic Models for Coastal Inundation Forecasting",
+            "authors": "Kazi Ashik Islam, Zakaria Mehrab, Mahantesh Halappanavar, Henning Mortveit, Sridhar Katragadda, Jon Derek Loftis, Madhav Marathe",
+            "summary": "Coastal flooding poses significant risks to communities, necessitating fast\nand accurate forecasting methods to mitigate potential damage. To approach this\nproblem, we present DIFF-FLOOD, a probabilistic spatiotemporal forecasting\nmethod designed based on denoising diffusion models. DIFF-FLOOD predicts\ninundation level at a location by taking both spatial and temporal context into\naccount. It utilizes inundation levels at neighboring locations and digital\nelevation data as spatial context. Inundation history from a context time\nwindow, together with additional co-variates are used as temporal context.\nConvolutional neural networks and cross-attention mechanism are then employed\nto capture the spatiotemporal dynamics in the data. We trained and tested\nDIFF-FLOOD on coastal inundation data from the Eastern Shore of Virginia, a\nregion highly impacted by coastal flooding. Our results show that, DIFF-FLOOD\noutperforms existing forecasting methods in terms of prediction performance (6%\nto 64% improvement in terms of two performance metrics) and scalability.",
+            "pdf_url": "http://arxiv.org/pdf/2505.05381v1",
+            "published": "2025-05-08 16:13:41+00:00",
+            "updated": "2025-05-08 16:13:41+00:00"
+        },
+        {
+            "title": "Operator-Level Quantum Acceleration of Non-Logconcave Sampling",
+            "authors": "Jiaqi Leng, Zhiyan Ding, Zherui Chen, Lin Lin",
+            "summary": "Sampling from probability distributions of the form $\\sigma \\propto e^{-\\beta\nV}$, where $V$ is a continuous potential, is a fundamental task across physics,\nchemistry, biology, computer science, and statistics. However, when $V$ is\nnon-convex, the resulting distribution becomes non-logconcave, and classical\nmethods such as Langevin dynamics often exhibit poor performance. We introduce\nthe first quantum algorithm that provably accelerates a broad class of\ncontinuous-time sampling dynamics. For Langevin dynamics, our method encodes\nthe target Gibbs measure into the amplitudes of a quantum state, identified as\nthe kernel of a block matrix derived from a factorization of the Witten\nLaplacian operator. This connection enables Gibbs sampling via singular value\nthresholding and yields the first provable quantum advantage with respect to\nthe Poincar\\'e constant in the non-logconcave setting. Building on this\nframework, we further develop the first quantum algorithm that accelerates\nreplica exchange Langevin diffusion, a widely used method for sampling from\ncomplex, rugged energy landscapes.",
+            "pdf_url": "http://arxiv.org/pdf/2505.05301v1",
+            "published": "2025-05-08 14:43:17+00:00",
+            "updated": "2025-05-08 14:43:17+00:00"
+        },
+        {
+            "title": "Linear combinations of latents in generative models: subspaces and beyond",
+            "authors": "Erik Bodin, Alexandru Stere, Dragos D. Margineantu, Carl Henrik Ek, Henry Moss",
+            "summary": "Sampling from generative models has become a crucial tool for applications\nlike data synthesis and augmentation. Diffusion, Flow Matching and Continuous\nNormalizing Flows have shown effectiveness across various modalities, and rely\non latent variables for generation. For experimental design or creative\napplications that require more control over the generation process, it has\nbecome common to manipulate the latent variable directly. However, existing\napproaches for performing such manipulations (e.g. interpolation or forming\nlow-dimensional representations) only work well in special cases or are network\nor data-modality specific. We propose Linear combinations of Latent variables\n(LOL) as a general-purpose method to form linear combinations of latent\nvariables that adhere to the assumptions of the generative model. As LOL is\neasy to implement and naturally addresses the broader task of forming any\nlinear combinations, e.g. the construction of subspaces of the latent space,\nLOL dramatically simplifies the creation of expressive low-dimensional\nrepresentations of high-dimensional objects.",
+            "pdf_url": "http://arxiv.org/pdf/2408.08558v6",
+            "published": "2024-08-16 06:43:58+00:00",
+            "updated": "2025-05-08 14:04:05+00:00"
+        },
+        {
+            "title": "Overcoming Dimensional Factorization Limits in Discrete Diffusion Models through Quantum Joint Distribution Learning",
+            "authors": "Chuangtao Chen, Qinglin Zhao, MengChu Zhou, Zhimin He, Haozhen Situ",
+            "summary": "This study explores quantum-enhanced discrete diffusion models to overcome\nclassical limitations in learning high-dimensional distributions. We rigorously\nprove that classical discrete diffusion models, which calculate per-dimension\ntransition probabilities to avoid exponential computational cost, exhibit\nworst-case linear scaling of Kullback-Leibler (KL) divergence with data\ndimension. To address this, we propose a Quantum Discrete Denoising Diffusion\nProbabilistic Model (QD3PM), which enables joint probability learning through\ndiffusion and denoising in exponentially large Hilbert spaces. By deriving\nposterior states through quantum Bayes' theorem, similar to the crucial role of\nposterior probabilities in classical diffusion models, and by learning the\njoint probability, we establish a solid theoretical foundation for\nquantum-enhanced diffusion models. For denoising, we design a quantum circuit\nusing temporal information for parameter sharing and learnable\nclassical-data-controlled rotations for encoding. Exploiting joint distribution\nlearning, our approach enables single-step sampling from pure noise,\neliminating iterative requirements of existing models. Simulations demonstrate\nthe proposed model's superior accuracy in modeling complex distributions\ncompared to factorization methods. Hence, this paper establishes a new\ntheoretical paradigm in generative models by leveraging the quantum advantage\nin joint distribution learning.",
+            "pdf_url": "http://arxiv.org/pdf/2505.05151v1",
+            "published": "2025-05-08 11:48:21+00:00",
+            "updated": "2025-05-08 11:48:21+00:00"
+        }
+    ]
+}

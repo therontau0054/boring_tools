@@ -155,6 +155,31 @@ TODO:
 
 
 
+
+## Update on 2025-05-09
+
+### Physics
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-05-08|2025-05-08|Primordial black-hole formation and heavy r-process element synthesis from the cosmological QCD transition. Two aspects of an inhomogeneous early Universe|M. Gonin|[2505.05463v1](http://arxiv.org/pdf/2505.05463v1)|
+|2025-05-08|2025-05-08|Marsden--Meyer--Weinstein reduction for $k$-contact field theories|J. de Lucas|[2505.05462v1](http://arxiv.org/pdf/2505.05462v1)|
+|2025-05-08|2025-05-08|RL-DAUNCE: Reinforcement Learning-Driven Data Assimilation with Uncertainty-Aware Constrained Ensembles|Pouria Behnoudfar|[2505.05452v1](http://arxiv.org/pdf/2505.05452v1)|
+|2025-05-08|2025-05-08|Screened Axio-dilaton Cosmology: Novel Forms of Early Dark Energy|Adam Smith|[2505.05450v1](http://arxiv.org/pdf/2505.05450v1)|
+|2025-05-08|2025-05-08|Manifest Gauge Invariance for Structure Dependent Radiative Corrections to Processes Involving Atoms and Nuclei|Ryan Plestid|[2505.05449v1](http://arxiv.org/pdf/2505.05449v1)|
+|2025-05-08|2025-05-08|The effective energy of a lattice metamaterial|Xuenan Li|[2505.05436v1](http://arxiv.org/pdf/2505.05436v1)|
+|2024-05-01|2025-05-08|Barren Plateaus in Variational Quantum Computing|Martin Larocca|[2405.00781v2](http://arxiv.org/pdf/2405.00781v2)|
+|2025-05-08|2025-05-08|Robustly optimal dynamics for active matter reservoir computing|Mario U. Gaimann|[2505.05420v1](http://arxiv.org/pdf/2505.05420v1)|
+|2025-05-08|2025-05-08|Quantum Simulation of Dynamical Response Functions of Equilibrium States|Esther Cruz|[2505.05411v1](http://arxiv.org/pdf/2505.05411v1)|
+|2025-05-08|2025-05-08|Testing an unstable cosmic neutrino background|Pasquale Di Bari|[2505.05405v1](http://arxiv.org/pdf/2505.05405v1)|
+
+### Diffusion
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-02-26|2025-05-08|Uncertainty Comes for Free: Human-in-the-Loop Policies with Diffusion Models|Zhanpeng He|[2503.01876v2](http://arxiv.org/pdf/2503.01876v2)|
+|2025-05-08|2025-05-08|Denoising Diffusion Probabilistic Models for Coastal Inundation Forecasting|Kazi Ashik Islam|[2505.05381v1](http://arxiv.org/pdf/2505.05381v1)|
+|2025-05-08|2025-05-08|Operator-Level Quantum Acceleration of Non-Logconcave Sampling|Jiaqi Leng|[2505.05301v1](http://arxiv.org/pdf/2505.05301v1)|
+|2024-08-16|2025-05-08|Linear combinations of latents in generative models: subspaces and beyond|Erik Bodin|[2408.08558v6](http://arxiv.org/pdf/2408.08558v6)|
+|2025-05-08|2025-05-08|Overcoming Dimensional Factorization Limits in Discrete Diffusion Models through Quantum Joint Distribution Learning|Chuangtao Chen|[2505.05151v1](http://arxiv.org/pdf/2505.05151v1)|
 ## Update on 2025-05-07
 
 ### Physics
