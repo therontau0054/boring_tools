@@ -156,6 +156,31 @@ TODO:
 
 
 
+
+## Update on 2025-05-13
+
+### Physics
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-05-12|2025-05-12|Imagine, Verify, Execute: Memory-Guided Agentic Exploration with Vision-Language Models|Seungjae Lee|[2505.07815v1](http://arxiv.org/pdf/2505.07815v1)|
+|2025-05-12|2025-05-12|Exploring Potential Higgs Resonances at 650 GeV and 95 GeV in the 2HDM Type III|Rachid Benbrik|[2505.07811v1](http://arxiv.org/pdf/2505.07811v1)|
+|2025-05-12|2025-05-12|Automatically Differentiable Model Updating (ADiMU): conventional, hybrid, and neural network material model discovery including history-dependency|Bernardo P. Ferreira|[2505.07801v1](http://arxiv.org/pdf/2505.07801v1)|
+|2025-05-12|2025-05-12|Mixed state deep thermalization|Xie-Hang Yu|[2505.07795v1](http://arxiv.org/pdf/2505.07795v1)|
+|2025-05-12|2025-05-12|Unconventional Fractional Phases in Multi-Band Vortexable Systems|Siddhartha Sarkar|[2505.07790v1](http://arxiv.org/pdf/2505.07790v1)|
+|2025-05-07|2025-05-12|Quantum thermodynamics and semi-definite optimization|Nana Liu|[2505.04514v2](http://arxiv.org/pdf/2505.04514v2)|
+|2025-05-12|2025-05-12|Solving Nonlinear PDEs with Sparse Radial Basis Function Networks|Zihan Shao|[2505.07765v1](http://arxiv.org/pdf/2505.07765v1)|
+|2024-10-31|2025-05-12|Attosecond physics hidden in Cherenkov radiation|D. Karlovets|[2411.00212v3](http://arxiv.org/pdf/2411.00212v3)|
+|2025-05-12|2025-05-12|Effective Field Theory Description of Hawking Radiation|David A. Lowe|[2505.07722v1](http://arxiv.org/pdf/2505.07722v1)|
+|2025-04-26|2025-05-12|Electron Wave-Spin Qubit|Ju Gao|[2504.18824v3](http://arxiv.org/pdf/2504.18824v3)|
+
+### Diffusion
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-05-12|2025-05-12|H$^{\mathbf{3}}$DP: Triply-Hierarchical Diffusion Policy for Visuomotor Learning|Yiyang Lu|[2505.07819v1](http://arxiv.org/pdf/2505.07819v1)|
+|2025-05-08|2025-05-12|Prompt to Polyp: Medical Text-Conditioned Image Synthesis with Diffusion Models|Mikhail Chaichuk|[2505.05573v2](http://arxiv.org/pdf/2505.05573v2)|
+|2024-09-15|2025-05-12|BNEM: A Boltzmann Sampler Based on Bootstrapped Noised Energy Matching|RuiKang OuYang|[2409.09787v4](http://arxiv.org/pdf/2409.09787v4)|
+|2025-05-12|2025-05-12|Diffused Responsibility: Analyzing the Energy Consumption of Generative Text-to-Audio Diffusion Models|Riccardo Passoni|[2505.07615v1](http://arxiv.org/pdf/2505.07615v1)|
+|2025-05-12|2025-05-12|Noise Optimized Conditional Diffusion for Domain Adaptation|Lingkun Luo|[2505.07548v1](http://arxiv.org/pdf/2505.07548v1)|
 ## Update on 2025-05-09
 
 ### Physics
