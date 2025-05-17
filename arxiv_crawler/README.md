@@ -158,6 +158,36 @@ TODO:
 
 
 
+
+## Update on 2025-05-17
+
+### Physics
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-05-15|2025-05-15|Flowing Through Hilbert Space: Quantum-Enhanced Generative Models for Lattice Field Theory|Jehu Martinez|[2505.10553v1](http://arxiv.org/pdf/2505.10553v1)|
+|2024-12-17|2025-05-15|Parastatistics and a secret communication challenge|Zhiyuan Wang|[2412.13360v4](http://arxiv.org/pdf/2412.13360v4)|
+|2025-05-15|2025-05-15|Magnon Nesting in Driven Two-Dimensional Quantum Magnets|Hossein Hosseinabadi|[2505.10531v1](http://arxiv.org/pdf/2505.10531v1)|
+|2025-05-15|2025-05-15|Shift of nanodroplet and nanocluster size distributions induced by dopant pick-up statistics|Marie Riddle|[2505.10516v1](http://arxiv.org/pdf/2505.10516v1)|
+|2025-05-15|2025-05-15|Learning Nonlinear Dynamics in Physical Modelling Synthesis using Neural Ordinary Differential Equations|Victor Zheleznov|[2505.10511v1](http://arxiv.org/pdf/2505.10511v1)|
+|2025-05-15|2025-05-15|Giant elastoresistance in magic-angle twisted bilayer graphene|Xuetao Ma|[2505.10506v1](http://arxiv.org/pdf/2505.10506v1)|
+|2024-10-28|2025-05-15|Simulation of the 1d XY model on a quantum computer|Marc Farreras|[2410.21143v3](http://arxiv.org/pdf/2410.21143v3)|
+|2025-05-15|2025-05-15|Phenomenological study of semitauonic decays of $B$ and $B_s$ mesons to charm states|Sonali Patnaik|[2505.10491v1](http://arxiv.org/pdf/2505.10491v1)|
+|2025-05-15|2025-05-15|Characterizing quantum dynamics using multipartite entanglement generation|Gaurav Rudra Malik|[2505.10477v1](http://arxiv.org/pdf/2505.10477v1)|
+|2025-05-15|2025-05-15|Comparison of high-order moment models for the ion dynamics in a bounded low-temperature plasma|Anatole Berger|[2505.10456v1](http://arxiv.org/pdf/2505.10456v1)|
+
+### Diffusion
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-05-15|2025-05-15|Does Feasibility Matter? Understanding the Impact of Feasibility on Synthetic Training Data|Yiwen Liu|[2505.10551v1](http://arxiv.org/pdf/2505.10551v1)|
+|2025-05-15|2025-05-15|Pharmacophore-Conditioned Diffusion Model for Ligand-Based De Novo Drug Design|Amira Alakhdar|[2505.10545v1](http://arxiv.org/pdf/2505.10545v1)|
+|2025-05-15|2025-05-15|Fine-tuning Diffusion Policies with Backpropagation Through Diffusion Timesteps|Ningyuan Yang|[2505.10482v1](http://arxiv.org/pdf/2505.10482v1)|
+|2025-05-15|2025-05-15|Score-based diffusion nowcasting of GOES imagery|Randy J. Chase|[2505.10432v1](http://arxiv.org/pdf/2505.10432v1)|
+|2025-05-10|2025-05-15|Learning Graph Representation of Agent Diffusers|Youcef Djenouri|[2505.06761v2](http://arxiv.org/pdf/2505.06761v2)|
+
+### Quantitative Finance
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-05-15|2025-05-15|Choices or constraints: decoding financial empowerment among women entrepreneurs in France|Jonathan Labbé|[2505.10064v1](http://arxiv.org/pdf/2505.10064v1)|
 ## Update on 2025-05-15
 
 ### Physics
