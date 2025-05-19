@@ -159,6 +159,31 @@ TODO:
 
 
 
+
+## Update on 2025-05-19
+
+### Physics
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-05-16|2025-05-16|Potential failures of physics-informed machine learning in traffic flow modeling: theoretical and experimental analysis|Yuan-Zheng Lei|[2505.11491v1](http://arxiv.org/pdf/2505.11491v1)|
+|2024-12-10|2025-05-16|Tube Category, Tensor Renormalization and Topological Holography|Tian Lan|[2412.07198v2](http://arxiv.org/pdf/2412.07198v2)|
+|2021-03-04|2025-05-16|Variational cohomology and topological solitons in Yang-Mills-Chern-Simons theories|Ekkehart Winterroth|[2103.03037v6](http://arxiv.org/pdf/2103.03037v6)|
+|2025-02-14|2025-05-16|Reconstructing neutrinoless double beta decay event kinematics in a xenon gas detector with vertex tagging|NEXT Collaboration|[2502.10198v2](http://arxiv.org/pdf/2502.10198v2)|
+|2025-05-16|2025-05-16|Reconfigurable Integrated Photonic Chips as Dual-Purpose Neuromorphic Accelerators and Physical Unclonable Functions|George Sarantoglou|[2505.11448v1](http://arxiv.org/pdf/2505.11448v1)|
+|2023-06-16|2025-05-16|Non-Perturbative Random Matrix Model of ${\cal N}=2$ JT Supergravity|Clifford V. Johnson|[2306.10139v4](http://arxiv.org/pdf/2306.10139v4)|
+|2025-05-02|2025-05-16|VideoHallu: Evaluating and Mitigating Multi-modal Hallucinations on Synthetic Video Understanding|Zongxia Li|[2505.01481v2](http://arxiv.org/pdf/2505.01481v2)|
+|2025-05-16|2025-05-16|Inferring correlated distributions: boosted top jets|Ezequiel Alvarez|[2505.11438v1](http://arxiv.org/pdf/2505.11438v1)|
+|2025-05-16|2025-05-16|GODBench: A Benchmark for Multimodal Large Language Models in Video Comment Art|Chenkai Zhang|[2505.11436v1](http://arxiv.org/pdf/2505.11436v1)|
+|2025-04-08|2025-05-16|Unified Quantum Dynamics: The Emergence of the Born Rule|Martin Weidner|[2504.06495v2](http://arxiv.org/pdf/2504.06495v2)|
+
+### Diffusion
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2024-12-14|2025-05-16|Fast and Robust Visuomotor Riemannian Flow Matching Policy|Haoran Ding|[2412.10855v2](http://arxiv.org/pdf/2412.10855v2)|
+|2025-02-11|2025-05-16|Exploratory Diffusion Model for Unsupervised Reinforcement Learning|Chengyang Ying|[2502.07279v2](http://arxiv.org/pdf/2502.07279v2)|
+|2025-05-16|2025-05-16|A Generative Framework for Causal Estimation via Importance-Weighted Diffusion Distillation|Xinran Song|[2505.11444v1](http://arxiv.org/pdf/2505.11444v1)|
+|2025-05-16|2025-05-16|Diffusion Learning with Partial Agent Participation and Local Updates|Elsa Rizk|[2505.11307v1](http://arxiv.org/pdf/2505.11307v1)|
+|2025-05-16|2025-05-16|Effective Probabilistic Time Series Forecasting with Fourier Adaptive Noise-Separated Diffusion|Xinyan Wang|[2505.11306v1](http://arxiv.org/pdf/2505.11306v1)|
 ## Update on 2025-05-17
 
 ### Physics
