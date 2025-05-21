@@ -160,6 +160,36 @@ TODO:
 
 
 
+
+## Update on 2025-05-21
+
+### Physics
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-05-20|2025-05-20|Abacus: A Cost-Based Optimizer for Semantic Operator Systems|Matthew Russo|[2505.14661v1](http://arxiv.org/pdf/2505.14661v1)|
+|2025-05-20|2025-05-20|Engineering the Kondo impurity problem with alkaline-earth atom arrays|Adriano Amaricci|[2505.14630v1](http://arxiv.org/pdf/2505.14630v1)|
+|2025-05-20|2025-05-20|LaMET's Asymptotic Extrapolation vs. Inverse Problem|Jiunn-Wei Chen|[2505.14619v1](http://arxiv.org/pdf/2505.14619v1)|
+|2025-05-20|2025-05-20|Electrostatics from Laplacian Eigenbasis for Neural Network Interatomic Potentials|Maksim Zhdanov|[2505.14606v1](http://arxiv.org/pdf/2505.14606v1)|
+|2024-12-17|2025-05-20|A Physical Interpretation of Imaginary Time Delay|Isabella L. Giovannelli|[2412.13139v2](http://arxiv.org/pdf/2412.13139v2)|
+|2025-05-20|2025-05-20|Physics-informed Reduced Order Modeling of Time-dependent PDEs via Differentiable Solvers|Nima Hosseini Dashtbayaz|[2505.14595v1](http://arxiv.org/pdf/2505.14595v1)|
+|2025-05-20|2025-05-20|Entanglement-assisted multiparameter estimation with a solid-state quantum sensor|Takuya Isogawa|[2505.14578v1](http://arxiv.org/pdf/2505.14578v1)|
+|2025-05-20|2025-05-20|Physics-Guided Learning of Meteorological Dynamics for Weather Downscaling and Forecasting|Yingtao Luo|[2505.14555v1](http://arxiv.org/pdf/2505.14555v1)|
+|2025-05-20|2025-05-20|A Renormalizable Model of Quantized Gravitational and Matter Fields|D. G. C. McKeon|[2505.14554v1](http://arxiv.org/pdf/2505.14554v1)|
+|2025-05-20|2025-05-20|Distributed quantum computing with black-box subroutines|X. Xu|[2505.14519v1](http://arxiv.org/pdf/2505.14519v1)|
+
+### Diffusion
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-05-20|2025-05-20|Training-Free Watermarking for Autoregressive Image Generation|Yu Tong|[2505.14673v1](http://arxiv.org/pdf/2505.14673v1)|
+|2024-06-20|2025-05-20|Diffusion-Based Failure Sampling for Evaluating Safety-Critical Autonomous Systems|Harrison Delecki|[2406.14761v2](http://arxiv.org/pdf/2406.14761v2)|
+|2025-05-20|2025-05-20|Latent Flow Transformer|Yen-Chen Wu|[2505.14513v1](http://arxiv.org/pdf/2505.14513v1)|
+|2025-05-19|2025-05-20|Minimum-Excess-Work Guidance|Christopher Kolloff|[2505.13375v2](http://arxiv.org/pdf/2505.13375v2)|
+|2025-05-20|2025-05-20|Learning to Integrate Diffusion ODEs by Averaging the Derivatives|Wenze Liu|[2505.14502v1](http://arxiv.org/pdf/2505.14502v1)|
+
+### Quantitative Finance
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-05-20|2025-05-20|Quantum Reservoir Computing for Realized Volatility Forecasting|Qingyu Li|[2505.13933v1](http://arxiv.org/pdf/2505.13933v1)|
 ## Update on 2025-05-19
 
 ### Physics

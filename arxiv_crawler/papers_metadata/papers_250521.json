@@ -1,0 +1,136 @@
+{
+    "Physics": [
+        {
+            "title": "Abacus: A Cost-Based Optimizer for Semantic Operator Systems",
+            "authors": "Matthew Russo, Sivaprasad Sudhir, Gerardo Vitagliano, Chunwei Liu, Tim Kraska, Samuel Madden, Michael Cafarella",
+            "summary": "LLMs enable an exciting new class of data processing applications over large\ncollections of unstructured documents. Several new programming frameworks have\nenabled developers to build these applications by composing them out of\nsemantic operators: a declarative set of AI-powered data transformations with\nnatural language specifications. These include LLM-powered maps, filters,\njoins, etc. used for document processing tasks such as information extraction,\nsummarization, and more. While systems of semantic operators have achieved\nstrong performance on benchmarks, they can be difficult to optimize. An\noptimizer for this setting must determine how to physically implement each\nsemantic operator in a way that optimizes the system globally. Existing\noptimizers are limited in the number of optimizations they can apply, and most\n(if not all) cannot optimize system quality, cost, or latency subject to\nconstraint(s) on the other dimensions. In this paper we present Abacus, an\nextensible, cost-based optimizer which searches for the best implementation of\na semantic operator system given a (possibly constrained) optimization\nobjective. Abacus estimates operator performance by leveraging a minimal set of\nvalidation examples and, if available, prior beliefs about operator\nperformance. We evaluate Abacus on document processing workloads in the\nbiomedical and legal domains (BioDEX; CUAD) and multi-modal question answering\n(MMQA). We demonstrate that systems optimized by Abacus achieve 18.7%-39.2%\nbetter quality and up to 23.6x lower cost and 4.2x lower latency than the next\nbest system.",
+            "pdf_url": "http://arxiv.org/pdf/2505.14661v1",
+            "published": "2025-05-20 17:49:46+00:00",
+            "updated": "2025-05-20 17:49:46+00:00"
+        },
+        {
+            "title": "Engineering the Kondo impurity problem with alkaline-earth atom arrays",
+            "authors": "Adriano Amaricci, Andrea Richaud, Massimo Capone, Nelson Darkwah Oppong, Francesco Scazza",
+            "summary": "We propose quantum simulation experiments of the Kondo impurity problem using\ncold alkaline-earth(-like) atoms (AEAs) in a combination of optical lattice and\noptical tweezer potentials. Within an ab initio model for atomic interactions\nin the optical potentials, we analyze hallmark signatures of the Kondo effect\nin a variety of observables accessible in cold-atom quantum simulators. We\nidentify additional terms not part of the textbook Kondo problem, mostly\nignored in previous works and giving rise to a direct competition between spin\nand charge correlations--strongly suppressing Kondo physics. Crucially, we show\nthat the Kondo effect can be restored by locally adjusting the chemical\npotential on the impurity site. We identify realistic parameter regimes and\npreparation protocols suited to current experiments with AEA arrays. Our work\npaves the way for novel quantum simulations of the Kondo problem and offers new\ninsights into Kondo physics in unconventional regimes.",
+            "pdf_url": "http://arxiv.org/pdf/2505.14630v1",
+            "published": "2025-05-20 17:20:05+00:00",
+            "updated": "2025-05-20 17:20:05+00:00"
+        },
+        {
+            "title": "LaMET's Asymptotic Extrapolation vs. Inverse Problem",
+            "authors": "Jiunn-Wei Chen, Xiang Gao, Jinchen He, Jun Hua, Xiangdong Ji, Andreas Sch\u00e4fer, Yushan Su, Wei Wang, Yi-Bo Yang, Jian-Hui Zhang, Qi-An Zhang, Rui Zhang, Yong Zhao",
+            "summary": "Large-Momentum Effective Theory (LaMET) is a physics-guided systematic\nexpansion to calculate light-cone parton distributions, including collinear\n(PDFs) and transverse-momentum-dependent ones, at any fixed momentum fraction\n$x$ within a range of $[x_{\\rm min}, x_{\\rm max}]$. It theoretically solves the\nill-posed inverse problem that afflicts other theoretical approaches to\ncollinear PDFs, such as short-distance factorizations. Recently,\narXiv:2504.17706~\\cite{Dutrieux:2025jed} raised practical concerns about\nwhether current or even future lattice data will have sufficient precision in\nthe sub-asymptotic correlation region to support an error-controlled\nextrapolation -- and if not, whether it becomes an inverse problem where the\nrelevant uncertainties cannot be properly quantified. While we agree that not\nall current lattice data have the desired precision to qualify for an\nasymptotic extrapolation, some calculations do, and more are expected in the\nfuture. We comment on the analysis and results in Ref.~\\cite{Dutrieux:2025jed}\nand argue that a physics-based systematic extrapolation still provides the most\nreliable error estimates, even when the data quality is not ideal. In contrast,\nre-framing the long-distance asymptotic extrapolation as a data-driven-only\ninverse problem with {\\it ad hoc} mathematical conditioning could lead to\nunnecessarily conservative errors.",
+            "pdf_url": "http://arxiv.org/pdf/2505.14619v1",
+            "published": "2025-05-20 17:09:27+00:00",
+            "updated": "2025-05-20 17:09:27+00:00"
+        },
+        {
+            "title": "Electrostatics from Laplacian Eigenbasis for Neural Network Interatomic Potentials",
+            "authors": "Maksim Zhdanov, Vladislav Kurenkov",
+            "summary": "Recent advances in neural network interatomic potentials have emerged as a\npromising research direction. However, popular deep learning models often lack\nauxiliary constraints grounded in physical laws, which could accelerate\ntraining and improve fidelity through physics-based regularization. In this\nwork, we introduce $\\Phi$-Module, a universal plugin module that enforces\nPoisson's equation within the message-passing framework to learn electrostatic\ninteractions in a self-supervised manner. Specifically, each atom-wise\nrepresentation is encouraged to satisfy a discretized Poisson's equation,\nmaking it possible to acquire a potential $\\boldsymbol{\\phi}$ and a\ncorresponding charge density $\\boldsymbol{\\rho}$ linked to the learnable\nLaplacian eigenbasis coefficients of a given molecular graph. We then derive an\nelectrostatic energy term, crucial for improved total energy predictions. This\napproach integrates seamlessly into any existing neural potential with\ninsignificant computational overhead. Experiments on the OE62 and MD22\nbenchmarks confirm that models combined with $\\Phi$-Module achieve robust\nimprovements over baseline counterparts. For OE62 error reduction ranges from\n4.5\\% to 17.8\\%, and for MD22, baseline equipped with $\\Phi$-Module achieves\nbest results on 5 out of 14 cases. Our results underscore how embedding a\nfirst-principles constraint in neural interatomic potentials can significantly\nimprove performance while remaining hyperparameter-friendly, memory-efficient\nand lightweight in training. Code will be available at\n\\href{https://github.com/dunnolab/phi-module}{dunnolab/phi-module}.",
+            "pdf_url": "http://arxiv.org/pdf/2505.14606v1",
+            "published": "2025-05-20 16:54:25+00:00",
+            "updated": "2025-05-20 16:54:25+00:00"
+        },
+        {
+            "title": "A Physical Interpretation of Imaginary Time Delay",
+            "authors": "Isabella L. Giovannelli, Steven M. Anlage",
+            "summary": "The scattering matrix $S$ linearly relates the vector of incoming waves to\noutgoing wave excitations, and contains an enormous amount of information about\nthe scattering system and its connections to the scattering channels. Time\ndelay is one way to extract information from $S$, and the transmission time\ndelay $\\tau_T$ is a complex (even for Hermitian systems with unitary scattering\nmatrices) measure of how long a wave excitation lingers before being\ntransmitted. The real part of $\\tau_T$ is a well-studied quantity, but the\nimaginary part of $\\tau_T$ has not been systematically examined experimentally,\nand theoretical predictions for its behavior have not been tested. Here we\nexperimentally test the predictions of Asano, et al. [Nat. Comm. 7, 13488\n(2016)] for the imaginary part of transmission time delay in a non-unitary\nscattering system. We utilize Gaussian time-domain pulses scattering from a\n2-port microwave graph supporting a series of well-isolated absorptive modes to\nshow that the carrier frequency of the pulses is changed in the scattering\nprocess by an amount in agreement with the imaginary part of the independently\ndetermined complex transmission time delay, $\\text{Im}[\\tau_T]$, from\nfrequency-domain measurements of the sub-unitary $S$ matrix. Our results also\ngeneralize and extend those of Asano, et al., establishing a means to predict\npulse propagation properties of non-Hermitian systems over a broad range of\nconditions.",
+            "pdf_url": "http://arxiv.org/pdf/2412.13139v2",
+            "published": "2024-12-17 18:06:09+00:00",
+            "updated": "2025-05-20 16:53:06+00:00"
+        },
+        {
+            "title": "Physics-informed Reduced Order Modeling of Time-dependent PDEs via Differentiable Solvers",
+            "authors": "Nima Hosseini Dashtbayaz, Hesam Salehipour, Adrian Butscher, Nigel Morris",
+            "summary": "Reduced-order modeling (ROM) of time-dependent and parameterized differential\nequations aims to accelerate the simulation of complex high-dimensional systems\nby learning a compact latent manifold representation that captures the\ncharacteristics of the solution fields and their time-dependent dynamics.\nAlthough high-fidelity numerical solvers generate the training datasets, they\nhave thus far been excluded from the training process, causing the learned\nlatent dynamics to drift away from the discretized governing physics. This\nmismatch often limits generalization and forecasting capabilities. In this\nwork, we propose Physics-informed ROM ($\\Phi$-ROM) by incorporating\ndifferentiable PDE solvers into the training procedure. Specifically, the\nlatent space dynamics and its dependence on PDE parameters are shaped directly\nby the governing physics encoded in the solver, ensuring a strong\ncorrespondence between the full and reduced systems. Our model outperforms\nstate-of-the-art data-driven ROMs and other physics-informed strategies by\naccurately generalizing to new dynamics arising from unseen parameters,\nenabling long-term forecasting beyond the training horizon, maintaining\ncontinuity in both time and space, and reducing the data cost. Furthermore,\n$\\Phi$-ROM learns to recover and forecast the solution fields even when trained\nor evaluated with sparse and irregular observations of the fields, providing a\nflexible framework for field reconstruction and data assimilation. We\ndemonstrate the framework's robustness across different PDE solvers and\nhighlight its broad applicability by providing an open-source JAX\nimplementation readily extensible to other PDE systems and differentiable\nsolvers.",
+            "pdf_url": "http://arxiv.org/pdf/2505.14595v1",
+            "published": "2025-05-20 16:47:04+00:00",
+            "updated": "2025-05-20 16:47:04+00:00"
+        },
+        {
+            "title": "Entanglement-assisted multiparameter estimation with a solid-state quantum sensor",
+            "authors": "Takuya Isogawa, Guoqing Wang, Boning Li, Zhiyao Hu, Shunsuke Nishimura, Ayumi Kanamoto, Haidong Yuan, Paola Cappellaro",
+            "summary": "Quantum multiparameter estimation promises to extend quantum advantage to the\nsimultaneous high-precision measurements of multiple physical quantities.\nHowever, realizing this capability in practical quantum sensors under realistic\nconditions remains challenging due to intrinsic system imperfections. Here, we\nexperimentally demonstrate multiparameter estimation using a nitrogen-vacancy\n(NV) center in diamond, a widely adopted solid-state quantum sensor. Leveraging\nelectronic-nuclear spin entanglement and optimized Bell state measurement at\nroom temperature, we simultaneously estimate the amplitude, detuning, and phase\nof a microwave drive from a single measurement sequence. Despite practical\nconstraints, our results achieve linear sensitivity scaling for all parameters\nwith respect to interrogation time. This work bridges the gap between\nfoundational quantum estimation theory and real-world quantum sensing, opening\npathways toward enhanced multiparameter quantum sensors suitable for diverse\nscientific and technological applications.",
+            "pdf_url": "http://arxiv.org/pdf/2505.14578v1",
+            "published": "2025-05-20 16:35:54+00:00",
+            "updated": "2025-05-20 16:35:54+00:00"
+        },
+        {
+            "title": "Physics-Guided Learning of Meteorological Dynamics for Weather Downscaling and Forecasting",
+            "authors": "Yingtao Luo, Shikai Fang, Binqing Wu, Qingsong Wen, Liang Sun",
+            "summary": "Weather forecasting is essential but remains computationally intensive and\nphysically incomplete in traditional numerical weather prediction (NWP)\nmethods. Deep learning (DL) models offer efficiency and accuracy but often\nignore physical laws, limiting interpretability and generalization. We propose\nPhyDL-NWP, a physics-guided deep learning framework that integrates physical\nequations with latent force parameterization into data-driven models. It\npredicts weather variables from arbitrary spatiotemporal coordinates, computes\nphysical terms via automatic differentiation, and uses a physics-informed loss\nto align predictions with governing dynamics. PhyDL-NWP enables resolution-free\ndownscaling by modeling weather as a continuous function and fine-tunes\npre-trained models with minimal overhead, achieving up to 170x faster inference\nwith only 55K parameters. Experiments show that PhyDL-NWP improves both\nforecasting performance and physical consistency.",
+            "pdf_url": "http://arxiv.org/pdf/2505.14555v1",
+            "published": "2025-05-20 16:13:20+00:00",
+            "updated": "2025-05-20 16:13:20+00:00"
+        },
+        {
+            "title": "A Renormalizable Model of Quantized Gravitational and Matter Fields",
+            "authors": "D. G. C. McKeon, F. T. Brandt, J. Frenkel, S. Martins-Filho",
+            "summary": "A Lagrange multiplier field can be used to restrict radiative corrections to\nthe Einstein-Hilbert action to one-loop order. This result is employed to show\nthat it is possible to couple a scalar field to the metric (graviton) field in\nsuch a way that the model is both renormalizable and unitary. The usual\nEinstein equations of motion for the gravitational field are recovered,\nperturbatively, in the classical limit. By evaluating the generating functional\nof proper Green's functions in closed form, one obtains a novel analytic\ncontribution to the effective action.",
+            "pdf_url": "http://arxiv.org/pdf/2505.14554v1",
+            "published": "2025-05-20 16:12:57+00:00",
+            "updated": "2025-05-20 16:12:57+00:00"
+        },
+        {
+            "title": "Distributed quantum computing with black-box subroutines",
+            "authors": "X. Xu, Y. -D. Liu, S. Shi, Y. -J. Wang, D. -S. Wang",
+            "summary": "In this work, we propose a general protocol for distributed quantum computing\nthat accommodates arbitrary unknown subroutines. It can be applied to scale up\nquantum computing through multi-chip interconnection, as well as to tasks such\nas estimating unknown parameters or processes for circuit depth reduction and\nconstructing secure quantum cryptographic protocols. Our protocol builds upon a\nfew techniques we develop, such as the oblivious quantum teleportation and\ncontrol, which can circumvent quantum no-go theorems on the manipulation of\nunknown objects. Furthermore, we demonstrate that this protocol can be\nphysically implemented using currently available quantum computing platforms.\nThese results suggest that our framework could provide a foundation for\ndeveloping more advanced quantum algorithms and protocols in the future.",
+            "pdf_url": "http://arxiv.org/pdf/2505.14519v1",
+            "published": "2025-05-20 15:44:54+00:00",
+            "updated": "2025-05-20 15:44:54+00:00"
+        }
+    ],
+    "Diffusion": [
+        {
+            "title": "Training-Free Watermarking for Autoregressive Image Generation",
+            "authors": "Yu Tong, Zihao Pan, Shuai Yang, Kaiyang Zhou",
+            "summary": "Invisible image watermarking can protect image ownership and prevent\nmalicious misuse of visual generative models. However, existing generative\nwatermarking methods are mainly designed for diffusion models while\nwatermarking for autoregressive image generation models remains largely\nunderexplored. We propose IndexMark, a training-free watermarking framework for\nautoregressive image generation models. IndexMark is inspired by the redundancy\nproperty of the codebook: replacing autoregressively generated indices with\nsimilar indices produces negligible visual differences. The core component in\nIndexMark is a simple yet effective match-then-replace method, which carefully\nselects watermark tokens from the codebook based on token similarity, and\npromotes the use of watermark tokens through token replacement, thereby\nembedding the watermark without affecting the image quality. Watermark\nverification is achieved by calculating the proportion of watermark tokens in\ngenerated images, with precision further improved by an Index Encoder.\nFurthermore, we introduce an auxiliary validation scheme to enhance robustness\nagainst cropping attacks. Experiments demonstrate that IndexMark achieves\nstate-of-the-art performance in terms of image quality and verification\naccuracy, and exhibits robustness against various perturbations, including\ncropping, noises, Gaussian blur, random erasing, color jittering, and JPEG\ncompression.",
+            "pdf_url": "http://arxiv.org/pdf/2505.14673v1",
+            "published": "2025-05-20 17:58:02+00:00",
+            "updated": "2025-05-20 17:58:02+00:00"
+        },
+        {
+            "title": "Diffusion-Based Failure Sampling for Evaluating Safety-Critical Autonomous Systems",
+            "authors": "Harrison Delecki, Marc R. Schlichting, Mansur Arief, Anthony Corso, Marcell Vazquez-Chanlatte, Mykel J. Kochenderfer",
+            "summary": "Validating safety-critical autonomous systems in high-dimensional domains\nsuch as robotics presents a significant challenge. Existing black-box\napproaches based on Markov chain Monte Carlo may require an enormous number of\nsamples, while methods based on importance sampling often rely on simple\nparametric families that may struggle to represent the distribution over\nfailures. We propose to sample the distribution over failures using a\nconditional denoising diffusion model, which has shown success in complex\nhigh-dimensional problems such as robotic task planning. We iteratively train a\ndiffusion model to produce state trajectories closer to failure. We demonstrate\nthe effectiveness of our approach on high-dimensional robotic validation tasks,\nimproving sample efficiency and mode coverage compared to existing black-box\ntechniques.",
+            "pdf_url": "http://arxiv.org/pdf/2406.14761v2",
+            "published": "2024-06-20 22:22:28+00:00",
+            "updated": "2025-05-20 17:21:03+00:00"
+        },
+        {
+            "title": "Latent Flow Transformer",
+            "authors": "Yen-Chen Wu, Feng-Ting Liao, Meng-Hsi Chen, Pei-Chen Ho, Farhang Nabiei, Da-shan Shiu",
+            "summary": "Transformers, the standard implementation for large language models (LLMs),\ntypically consist of tens to hundreds of discrete layers. While more layers can\nlead to better performance, this approach has been challenged as far from\nefficient, especially given the superiority of continuous layers demonstrated\nby diffusion and flow-based models for image generation. We propose the Latent\nFlow Transformer (LFT), which replaces a block of layers with a single learned\ntransport operator trained via flow matching, offering significant compression\nwhile maintaining compatibility with the original architecture. Additionally,\nwe address the limitations of existing flow-based methods in \\textit{preserving\ncoupling} by introducing the Flow Walking (FW) algorithm. On the Pythia-410M\nmodel, LFT trained with flow matching compresses 6 of 24 layers and outperforms\ndirectly skipping 2 layers (KL Divergence of LM logits at 0.407 vs. 0.529),\ndemonstrating the feasibility of this design. When trained with FW, LFT further\ndistills 12 layers into one while reducing the KL to 0.736 surpassing that from\nskipping 3 layers (0.932), significantly narrowing the gap between\nautoregressive and flow-based generation paradigms.",
+            "pdf_url": "http://arxiv.org/pdf/2505.14513v1",
+            "published": "2025-05-20 15:41:05+00:00",
+            "updated": "2025-05-20 15:41:05+00:00"
+        },
+        {
+            "title": "Minimum-Excess-Work Guidance",
+            "authors": "Christopher Kolloff, Tobias H\u00f6ppe, Emmanouil Angelis, Mathias Jacob Schreiner, Stefan Bauer, Andrea Dittadi, Simon Olsson",
+            "summary": "We propose a regularization framework inspired by thermodynamic work for\nguiding pre-trained probability flow generative models (e.g., continuous\nnormalizing flows or diffusion models) by minimizing excess work, a concept\nrooted in statistical mechanics and with strong conceptual connections to\noptimal transport. Our approach enables efficient guidance in sparse-data\nregimes common to scientific applications, where only limited target samples or\npartial density constraints are available. We introduce two strategies: Path\nGuidance for sampling rare transition states by concentrating probability mass\non user-defined subsets, and Observable Guidance for aligning generated\ndistributions with experimental observables while preserving entropy. We\ndemonstrate the framework's versatility on a coarse-grained protein model,\nguiding it to sample transition configurations between folded/unfolded states\nand correct systematic biases using experimental data. The method bridges\nthermodynamic principles with modern generative architectures, offering a\nprincipled, efficient, and physics-inspired alternative to standard fine-tuning\nin data-scarce domains. Empirical results highlight improved sample efficiency\nand bias reduction, underscoring its applicability to molecular simulations and\nbeyond.",
+            "pdf_url": "http://arxiv.org/pdf/2505.13375v2",
+            "published": "2025-05-19 17:19:43+00:00",
+            "updated": "2025-05-20 15:35:15+00:00"
+        },
+        {
+            "title": "Learning to Integrate Diffusion ODEs by Averaging the Derivatives",
+            "authors": "Wenze Liu, Xiangyu Yue",
+            "summary": "To accelerate diffusion model inference, numerical solvers perform poorly at\nextremely small steps, while distillation techniques often introduce complexity\nand instability. This work presents an intermediate strategy, balancing\nperformance and cost, by learning ODE integration using loss functions derived\nfrom the derivative-integral relationship, inspired by Monte Carlo integration\nand Picard iteration. From a geometric perspective, the losses operate by\ngradually extending the tangent to the secant, thus are named as secant losses.\nThe secant losses can rapidly convert (via fine-tuning or distillation) a\npretrained diffusion model into its secant version. In our experiments, the\nsecant version of EDM achieves a $10$-step FID of $2.14$ on CIFAR-10, while the\nsecant version of SiT-XL/2 attains a $4$-step FID of $2.27$ and an $8$-step FID\nof $1.96$ on ImageNet-$256\\times256$. Code will be available.",
+            "pdf_url": "http://arxiv.org/pdf/2505.14502v1",
+            "published": "2025-05-20 15:30:38+00:00",
+            "updated": "2025-05-20 15:30:38+00:00"
+        }
+    ],
+    "Quantitative Finance": [
+        {
+            "title": "Quantum Reservoir Computing for Realized Volatility Forecasting",
+            "authors": "Qingyu Li, Chiranjib Mukhopadhyay, Abolfazl Bayat, Ali Habibnia",
+            "summary": "Recent advances in quantum computing have demonstrated its potential to\nsignificantly enhance the analysis and forecasting of complex classical data.\nAmong these, quantum reservoir computing has emerged as a particularly powerful\napproach, combining quantum computation with machine learning for modeling\nnonlinear temporal dependencies in high-dimensional time series. As with many\ndata-driven disciplines, quantitative finance and econometrics can hugely\nbenefit from emerging quantum technologies. In this work, we investigate the\napplication of quantum reservoir computing for realized volatility forecasting.\nOur model employs a fully connected transverse-field Ising Hamiltonian as the\nreservoir with distinct input and memory qubits to capture temporal\ndependencies. The quantum reservoir computing approach is benchmarked against\nseveral econometric models and standard machine learning algorithms. The models\nare evaluated using multiple error metrics and the model confidence set\nprocedures. To enhance interpretability and mitigate current quantum hardware\nlimitations, we utilize wrapper-based forward selection for feature selection,\nidentifying optimal subsets, and quantifying feature importance via Shapley\nvalues. Our results indicate that the proposed quantum reservoir approach\nconsistently outperforms benchmark models across various metrics, highlighting\nits potential for financial forecasting despite existing quantum hardware\nconstraints. This work serves as a proof-of-concept for the applicability of\nquantum computing in econometrics and financial analysis, paving the way for\nfurther research into quantum-enhanced predictive modeling as quantum hardware\ncapabilities continue to advance.",
+            "pdf_url": "http://arxiv.org/pdf/2505.13933v1",
+            "published": "2025-05-20 05:02:13+00:00",
+            "updated": "2025-05-20 05:02:13+00:00"
+        }
+    ]
+}
