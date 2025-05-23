@@ -1,0 +1,152 @@
+{
+    "Physics": [
+        {
+            "title": "A Unified Framework for Simultaneous Parameter and Function Discovery in Differential Equations",
+            "authors": "Shalev Manor, Mohammad Kohandel",
+            "summary": "Inverse problems involving differential equations often require identifying\nunknown parameters or functions from data. Existing approaches, such as\nPhysics-Informed Neural Networks (PINNs), Universal Differential Equations\n(UDEs) and Universal Physics-Informed Neural Networks (UPINNs), are effective\nat isolating either parameters or functions but can face challenges when\napplied simultaneously due to solution non-uniqueness. In this work, we\nintroduce a framework that addresses these limitations by establishing\nconditions under which unique solutions can be guaranteed. To illustrate, we\napply it to examples from biological systems and ecological dynamics,\ndemonstrating accurate and interpretable results. Our approach significantly\nenhances the potential of machine learning techniques in modeling complex\nsystems in science and engineering.",
+            "pdf_url": "http://arxiv.org/pdf/2505.16996v1",
+            "published": "2025-05-22 17:56:38+00:00",
+            "updated": "2025-05-22 17:56:38+00:00"
+        },
+        {
+            "title": "PICT -- A Differentiable, GPU-Accelerated Multi-Block PISO Solver for Simulation-Coupled Learning Tasks in Fluid Dynamics",
+            "authors": "Aleksandra Franz, Hao Wei, Luca Guastoni, Nils Thuerey",
+            "summary": "Despite decades of advancements, the simulation of fluids remains one of the\nmost challenging areas of in scientific computing. Supported by the necessity\nof gradient information in deep learning, differentiable simulators have\nemerged as an effective tool for optimization and learning in physics\nsimulations. In this work, we present our fluid simulator PICT, a\ndifferentiable pressure-implicit solver coded in PyTorch with\nGraphics-processing-unit (GPU) support. We first verify the accuracy of both\nthe forward simulation and our derived gradients in various established\nbenchmarks like lid-driven cavities and turbulent channel flows before we show\nthat the gradients provided by our solver can be used to learn complicated\nturbulence models in 2D and 3D. We apply both supervised and unsupervised\ntraining regimes using physical priors to match flow statistics. In particular,\nwe learn a stable sub-grid scale (SGS) model for a 3D turbulent channel flow\npurely based on reference statistics. The low-resolution corrector trained with\nour solver runs substantially faster than the highly resolved references, while\nkeeping or even surpassing their accuracy. Finally, we give additional insights\ninto the physical interpretation of different solver gradients, and motivate a\nphysically informed regularization technique. To ensure that the full potential\nof PICT can be leveraged, it is published as open source:\nhttps://github.com/tum-pbs/PICT.",
+            "pdf_url": "http://arxiv.org/pdf/2505.16992v1",
+            "published": "2025-05-22 17:55:10+00:00",
+            "updated": "2025-05-22 17:55:10+00:00"
+        },
+        {
+            "title": "Attached Decelerating Turbulent Boundary Layers over Riblets",
+            "authors": "Benjamin S. Savino, Amirreza Rouhi, Wen Wu",
+            "summary": "Turbulent boundary layers over riblets subjected to adverse pressure\ngradients (APGs) are investigated by direct numerical simulation. Multiple APG\nstrengths and riblet sizes are examined, permitting evaluation of drag\nmodification by riblets, and associated physical mechanisms, in various regimes\nestablished for zero-pressure-gradient (ZPG) riblet flows. The APG strengths\nare selected such that the flow remains attached. It is found that during APGs,\nriblets reduce drag beyond what has been achieved in ZPG flows. In extreme\ncases, an upstream force (i.e., negative drag) is attained. The significant\ndrag reduction is found to be a product of Kelvin-Helmholtz roller vortices\nforming near the riblet crest, which are augmented in size, strength, and\nfrequency during the APG. The preliminary results reported here indicate the\nneed to modify existing metrics to predict drag reduction and the onset of KH\nrollers by riblets when the pressure gradient is non-negligible. Further\nanalysis will be documented in the final paper.",
+            "pdf_url": "http://arxiv.org/pdf/2505.16962v1",
+            "published": "2025-05-22 17:45:15+00:00",
+            "updated": "2025-05-22 17:45:15+00:00"
+        },
+        {
+            "title": "Predicting the outcome of collisional neutrino flavor conversion",
+            "authors": "Julien Froustey",
+            "summary": "Collisional flavor instabilities, driven by differing neutrino and\nantineutrino reaction rates, are expected to occur in dense astrophysical\nenvironments like supernovae and neutron star mergers, but have yet to be\nincorporated in large-scale simulations. We derive, for the first time,\nanalytical expressions for the asymptotic state resulting from a homogeneous\nand isotropic instability, and apply these predictions to two representative\nconditions from a neutron star merger simulation. We emphasize the importance\nof using a collision term that allows for both damping of flavor coherence and\nrelaxation back to thermal equilibrium, which leads to a \"quantum\" equilibrium\nwith nonzero coherence. These results can be implemented in a subgrid model of\ncollisional flavor transformation, an important step toward the inclusion of\nflavor oscillation physics into global simulations.",
+            "pdf_url": "http://arxiv.org/pdf/2505.16961v1",
+            "published": "2025-05-22 17:44:06+00:00",
+            "updated": "2025-05-22 17:44:06+00:00"
+        },
+        {
+            "title": "Higher order Jacobi method for solving a system of linear equations",
+            "authors": "Nithin Kumar Goona, Lama Tarsissi",
+            "summary": "This work proposes a higher-order iterative framework for solving matrix\nequations, inspired by the structure and functionality of neural networks. A\nmodification of the classical Jacobi method is introduced to compute\nhigher-order coefficient matrices through matrix-matrix multiplications. The\nresulting method, termed the higher-order Jacobi method, structurally resembles\na shallow linear network and allows direct computation of the inverse of the\ncoefficient matrix. Building on this, an iterative scheme is developed that,\nonce the network parameters are determined for a known system, enables\nefficient resolution of system variations without re-computing the\ncoefficients. This iterative process naturally assumes the form of a deep\nrecurrent neural network. The proposed approach moves beyond conventional\nPhysics-Informed Neural Networks (PINNs) by providing an explicit,\ntraining-free definition of network parameters rooted in physical and\nmathematical formulations. Computational analysis demonstrates improved order\nof complexity, suggesting a promising direction for algorithmic efficiency in\nsolving linear systems. This methodology opens avenues for interpretable and\nscalable solutions to physically motivated problems in computational science.",
+            "pdf_url": "http://arxiv.org/pdf/2505.16906v1",
+            "published": "2025-05-22 17:07:05+00:00",
+            "updated": "2025-05-22 17:07:05+00:00"
+        },
+        {
+            "title": "Accurate crystal field Hamiltonians of single-ion magnets at mean-field cost",
+            "authors": "Linqing Peng, Shuanglong Liu, Xing Zhang, Xiao Chen, Chenghan Li, Hai-Ping Cheng, Garnet Kin-Lic Chan",
+            "summary": "The effective crystal field Hamiltonian provides the key description of the\nelectronic properties of single-ion magnets, but obtaining its parameters from\nab initio computation is challenging. We introduce a simple approach to derive\nthe effective crystal field Hamiltonian through density functional calculations\nof randomly rotated mean-field states within the low-energy manifold. In\nbenchmarks on five lanthanide-based complexes, we find that we compute with\nmean-field cost an effective crystal field Hamiltonian that matches the\nstate-of-the-art from much more expensive multi-configurational quantum\nchemistry methods. In addition, we are able to reproduce the experimental\nlow-energy spectrum and magnetic properties with an accuracy exceeding prior\nattempts. Due to its low cost, our approach provides a crucial ingredient in\nthe computational design of single-ion magnets with tailored physical\nproperties and low-energy spectra.",
+            "pdf_url": "http://arxiv.org/pdf/2505.16905v1",
+            "published": "2025-05-22 17:06:25+00:00",
+            "updated": "2025-05-22 17:06:25+00:00"
+        },
+        {
+            "title": "Structure-Aligned Protein Language Model",
+            "authors": "Can Chen, David Heurtel-Depeiges, Robert M. Vernon, Christopher James Langmead, Yoshua Bengio, Quentin Fournier",
+            "summary": "Protein language models (pLMs) pre-trained on vast protein sequence databases\nexcel at various downstream tasks but lack the structural knowledge essential\nfor many biological applications. To address this, we integrate structural\ninsights from pre-trained protein graph neural networks (pGNNs) into pLMs\nthrough a latent-level contrastive learning task. This task aligns residue\nrepresentations from pLMs with those from pGNNs across multiple proteins,\nenriching pLMs with inter-protein structural knowledge. Additionally, we\nincorporate a physical-level task that infuses intra-protein structural\nknowledge by optimizing pLMs to predict structural tokens. The proposed\ndual-task framework effectively incorporates both inter-protein and\nintra-protein structural knowledge into pLMs. Given the variability in the\nquality of protein structures in PDB, we further introduce a residue loss\nselection module, which uses a small model trained on high-quality structures\nto select reliable yet challenging residue losses for the pLM to learn.\nApplying our structure alignment method to the state-of-the-art ESM2 and\nAMPLIFY results in notable performance gains across a wide range of tasks,\nincluding a 12.7% increase in ESM2 contact prediction. The data, code, and\nresulting SaESM2 and SaAMPLIFY models will be released on Hugging Face.",
+            "pdf_url": "http://arxiv.org/pdf/2505.16896v1",
+            "published": "2025-05-22 16:56:12+00:00",
+            "updated": "2025-05-22 16:56:12+00:00"
+        },
+        {
+            "title": "Quantum Compiler Design for Qubit Mapping and Routing: A Cross-Architectural Survey of Superconducting, Trapped-Ion, and Neutral Atom Systems",
+            "authors": "Chenghong Zhu, Xian Wu, Zhaohui Yang, Jingbo Wang, Anbang Wu, Shenggen Zheng, Xin Wang",
+            "summary": "Quantum hardware development is progressing rapidly with substantial\nadvancements achieved across leading platforms, including superconducting\ncircuits, trapped-ion systems, and neutral atom arrays. As the pursuit of\npractical quantum advantage continues, efficient quantum program compilation\nbecomes essential for transforming high-level representations of quantum\nalgorithms into physically executable circuits. A fundamental challenge in this\nprocess is qubit mapping and gate scheduling, which play a critical role in\nadapting compiled circuits to the architectural constraints and physical\nlimitations of specific quantum hardware. In this survey, we systematically\nreview and categorize research on the qubit mapping and routing problems across\nthe three mainstream quantum hardware platforms. We primarily explore the\ndevelopment of hardware-aware compilers for superconducting platforms,\nclassifying existing methods into solver-based, heuristic-based, and machine\nlearning-based approaches, and analyze their optimization targets, including\ngate count, circuit duration, fidelity, and scalability. Furthermore, we\nexamine the evolution of trapped-ion and neutral atom devices, analyzing the\ndistinct challenges posed by their hardware characteristics and highlighting\nspecialized compilers tailored to these unique physical constraints. Finally,\nwe summarize the key challenges and identify some promising opportunities for\nfuture research in quantum compiler design across these hardware platforms.",
+            "pdf_url": "http://arxiv.org/pdf/2505.16891v1",
+            "published": "2025-05-22 16:49:57+00:00",
+            "updated": "2025-05-22 16:49:57+00:00"
+        },
+        {
+            "title": "How high is `high'? Rethinking the roles of dimensionality in topological data analysis and manifold learning",
+            "authors": "Hannah Sansford, Nick Whiteley, Patrick Rubin-Delanchy",
+            "summary": "We present a generalised Hanson-Wright inequality and use it to establish new\nstatistical insights into the geometry of data point-clouds. In the setting of\na general random function model of data, we clarify the roles played by three\nnotions of dimensionality: ambient intrinsic dimension $p_{\\mathrm{int}}$,\nwhich measures total variability across orthogonal feature directions;\ncorrelation rank, which measures functional complexity across samples; and\nlatent intrinsic dimension, which is the dimension of manifold structure hidden\nin data. Our analysis shows that in order for persistence diagrams to reveal\nlatent homology and for manifold structure to emerge it is sufficient that\n$p_{\\mathrm{int}}\\gg \\log n$, where $n$ is the sample size. Informed by these\ntheoretical perspectives, we revisit the ground-breaking neuroscience discovery\nof toroidal structure in grid-cell activity made by Gardner et al. (Nature,\n2022): our findings reveal, for the first time, evidence that this structure is\nin fact isometric to physical space, meaning that grid cell activity conveys a\ngeometrically faithful representation of the real world.",
+            "pdf_url": "http://arxiv.org/pdf/2505.16879v1",
+            "published": "2025-05-22 16:34:15+00:00",
+            "updated": "2025-05-22 16:34:15+00:00"
+        },
+        {
+            "title": "Magnetic vortex writing and local reversal seeding in artificial spin-vortex ice via all-optical and surface-probe control",
+            "authors": "Holly Holder, Jack C. Gartside, Alex Vanstone, Troy Dion, Xiaofei Xiao, Kilian D. Stenning, Tingjun Zheng, Daniel Bromley, Tobias Farchy, Rupert F. Oulton, Will R. Branford",
+            "summary": "Artificial spin-vortex ice ('ASVI') is a reconfigurable nanomagnetic\nmetamaterial consisting of magnetic nanoislands tailored to support both Ising\nmacrospin and vortex textures. ASVI has recently shown functional applications\nincluding reconfigurable magnonics and neuromorphic computing, where the\nintroduction of vortex textures broadens functionality beyond conventional\nartificial spin ice which generally supports macrospin states. However, local\ncontrol of writing vortex states in ASVI remains an open challenge. Here we\ndemonstrate techniques for field-free magnetic vortex writing in ASVI. We\nexpand ASVI to support metastable macrospin, single-vortex and double-vortex\nstates. All-optical writing via focused laser illumination can locally write\ndouble-vortex textures, and surface-probe writing using an MFM tip can locally\nwrite single vortex states. We leverage this writing to tailor and explore the\nreconfigurable energy landscape of ASVI, demonstrating programmable local\nseeding of avalanche-like reversal events. The global field-free texture\nselective writing techniques reported here expand the suite of nanomagnetic\ncontrol techniques, with a host of future applications including fundamental\nstudies of avalanche dynamics, physical memory, and direct writing of\nnanomagnetic 'weights' in physical neuromorphic neural networks.",
+            "pdf_url": "http://arxiv.org/pdf/2505.16874v1",
+            "published": "2025-05-22 16:29:17+00:00",
+            "updated": "2025-05-22 16:29:17+00:00"
+        }
+    ],
+    "Diffusion": [
+        {
+            "title": "When Are Concepts Erased From Diffusion Models?",
+            "authors": "Kevin Lu, Nicky Kriplani, Rohit Gandikota, Minh Pham, David Bau, Chinmay Hegde, Niv Cohen",
+            "summary": "Concept erasure, the ability to selectively prevent a model from generating\nspecific concepts, has attracted growing interest, with various approaches\nemerging to address the challenge. However, it remains unclear how thoroughly\nthese methods erase the target concept. We begin by proposing two conceptual\nmodels for the erasure mechanism in diffusion models: (i) reducing the\nlikelihood of generating the target concept, and (ii) interfering with the\nmodel's internal guidance mechanisms. To thoroughly assess whether a concept\nhas been truly erased from the model, we introduce a suite of independent\nevaluations. Our evaluation framework includes adversarial attacks, novel\nprobing techniques, and analysis of the model's alternative generations in\nplace of the erased concept. Our results shed light on the tension between\nminimizing side effects and maintaining robustness to adversarial prompts.\nBroadly, our work underlines the importance of comprehensive evaluation for\nerasure in diffusion models.",
+            "pdf_url": "http://arxiv.org/pdf/2505.17013v1",
+            "published": "2025-05-22 17:59:09+00:00",
+            "updated": "2025-05-22 17:59:09+00:00"
+        },
+        {
+            "title": "Guided Diffusion Sampling on Function Spaces with Applications to PDEs",
+            "authors": "Jiachen Yao, Abbas Mammadov, Julius Berner, Gavin Kerrigan, Jong Chul Ye, Kamyar Azizzadenesheli, Anima Anandkumar",
+            "summary": "We propose a general framework for conditional sampling in PDE-based inverse\nproblems, targeting the recovery of whole solutions from extremely sparse or\nnoisy measurements. This is accomplished by a function-space diffusion model\nand plug-and-play guidance for conditioning. Our method first trains an\nunconditional discretization-agnostic denoising model using neural operator\narchitectures. At inference, we refine the samples to satisfy sparse\nobservation data via a gradient-based guidance mechanism. Through rigorous\nmathematical analysis, we extend Tweedie's formula to infinite-dimensional\nHilbert spaces, providing the theoretical foundation for our posterior sampling\napproach. Our method (FunDPS) accurately captures posterior distributions in\nfunction spaces under minimal supervision and severe data scarcity. Across five\nPDE tasks with only 3% observation, our method achieves an average 32% accuracy\nimprovement over state-of-the-art fixed-resolution diffusion baselines while\nreducing sampling steps by 4x. Furthermore, multi-resolution fine-tuning\nensures strong cross-resolution generalizability. To the best of our knowledge,\nthis is the first diffusion-based framework to operate independently of\ndiscretization, offering a practical and flexible solution for forward and\ninverse problems in the context of PDEs. Code is available at\nhttps://github.com/neuraloperator/FunDPS",
+            "pdf_url": "http://arxiv.org/pdf/2505.17004v1",
+            "published": "2025-05-22 17:58:12+00:00",
+            "updated": "2025-05-22 17:58:12+00:00"
+        },
+        {
+            "title": "Bigger Isn't Always Memorizing: Early Stopping Overparameterized Diffusion Models",
+            "authors": "Alessandro Favero, Antonio Sclocchi, Matthieu Wyart",
+            "summary": "Diffusion probabilistic models have become a cornerstone of modern generative\nAI, yet the mechanisms underlying their generalization remain poorly\nunderstood. In fact, if these models were perfectly minimizing their training\nloss, they would just generate data belonging to their training set, i.e.,\nmemorize, as empirically found in the overparameterized regime. We revisit this\nview by showing that, in highly overparameterized diffusion models,\ngeneralization in natural data domains is progressively achieved during\ntraining before the onset of memorization. Our results, ranging from image to\nlanguage diffusion models, systematically support the empirical law that\nmemorization time is proportional to the dataset size. Generalization vs.\nmemorization is then best understood as a competition between time scales. We\nshow that this phenomenology is recovered in diffusion models learning a simple\nprobabilistic context-free grammar with random rules, where generalization\ncorresponds to the hierarchical acquisition of deeper grammar rules as training\ntime grows, and the generalization cost of early stopping can be characterized.\nWe summarize these results in a phase diagram. Overall, our results support\nthat a principled early-stopping criterion - scaling with dataset size - can\neffectively optimize generalization while avoiding memorization, with direct\nimplications for hyperparameter transfer and privacy-sensitive applications.",
+            "pdf_url": "http://arxiv.org/pdf/2505.16959v1",
+            "published": "2025-05-22 17:40:08+00:00",
+            "updated": "2025-05-22 17:40:08+00:00"
+        },
+        {
+            "title": "LLaDA-V: Large Language Diffusion Models with Visual Instruction Tuning",
+            "authors": "Zebin You, Shen Nie, Xiaolu Zhang, Jun Hu, Jun Zhou, Zhiwu Lu, Ji-Rong Wen, Chongxuan Li",
+            "summary": "In this work, we introduce LLaDA-V, a purely diffusion-based Multimodal Large\nLanguage Model (MLLM) that integrates visual instruction tuning with masked\ndiffusion models, representing a departure from the autoregressive paradigms\ndominant in current multimodal approaches. Built upon LLaDA, a representative\nlarge language diffusion model, LLaDA-V incorporates a vision encoder and MLP\nconnector that projects visual features into the language embedding space,\nenabling effective multimodal alignment. Our empirical investigation reveals\nseveral intriguing results: First, LLaDA-V demonstrates promising multimodal\nperformance despite its language model being weaker on purely textual tasks\nthan counterparts like LLaMA3-8B and Qwen2-7B. When trained on the same\ninstruction data, LLaDA-V is highly competitive to LLaMA3-V across multimodal\ntasks with better data scalability. It also narrows the performance gap to\nQwen2-VL, suggesting the effectiveness of its architecture for multimodal\ntasks. Second, LLaDA-V achieves state-of-the-art performance in multimodal\nunderstanding compared to existing hybrid autoregressive-diffusion and purely\ndiffusion-based MLLMs. Our findings suggest that large language diffusion\nmodels show promise in multimodal contexts and warrant further investigation in\nfuture research. Project page and codes:\nhttps://ml-gsai.github.io/LLaDA-V-demo/.",
+            "pdf_url": "http://arxiv.org/pdf/2505.16933v1",
+            "published": "2025-05-22 17:23:26+00:00",
+            "updated": "2025-05-22 17:23:26+00:00"
+        },
+        {
+            "title": "T2I-ConBench: Text-to-Image Benchmark for Continual Post-training",
+            "authors": "Zhehao Huang, Yuhang Liu, Yixin Lou, Zhengbao He, Mingzhen He, Wenxing Zhou, Tao Li, Kehan Li, Zeyi Huang, Xiaolin Huang",
+            "summary": "Continual post-training adapts a single text-to-image diffusion model to\nlearn new tasks without incurring the cost of separate models, but naive\npost-training causes forgetting of pretrained knowledge and undermines\nzero-shot compositionality. We observe that the absence of a standardized\nevaluation protocol hampers related research for continual post-training. To\naddress this, we introduce T2I-ConBench, a unified benchmark for continual\npost-training of text-to-image models. T2I-ConBench focuses on two practical\nscenarios, item customization and domain enhancement, and analyzes four\ndimensions: (1) retention of generality, (2) target-task performance, (3)\ncatastrophic forgetting, and (4) cross-task generalization. It combines\nautomated metrics, human-preference modeling, and vision-language QA for\ncomprehensive assessment. We benchmark ten representative methods across three\nrealistic task sequences and find that no approach excels on all fronts. Even\njoint \"oracle\" training does not succeed for every task, and cross-task\ngeneralization remains unsolved. We release all datasets, code, and evaluation\ntools to accelerate research in continual post-training for text-to-image\nmodels.",
+            "pdf_url": "http://arxiv.org/pdf/2505.16875v1",
+            "published": "2025-05-22 16:31:43+00:00",
+            "updated": "2025-05-22 16:31:43+00:00"
+        }
+    ],
+    "Quantitative Finance": [
+        {
+            "title": "Interpretable Machine Learning for Macro Alpha: A News Sentiment Case Study",
+            "authors": "Yuke Zhang",
+            "summary": "This study introduces an interpretable machine learning (ML) framework to\nextract macroeconomic alpha from global news sentiment. We process the Global\nDatabase of Events, Language, and Tone (GDELT) Project's worldwide news feed\nusing FinBERT -- a Bidirectional Encoder Representations from Transformers\n(BERT) based model pretrained on finance-specific language -- to construct\ndaily sentiment indices incorporating mean tone, dispersion, and event impact.\nThese indices drive an XGBoost classifier, benchmarked against logistic\nregression, to predict next-day returns for EUR/USD, USD/JPY, and 10-year U.S.\nTreasury futures (ZN). Rigorous out-of-sample (OOS) backtesting (5-fold\nexpanding-window cross-validation, OOS period: c. 2017-April 2025) demonstrates\nexceptional, cost-adjusted performance for the XGBoost strategy: Sharpe ratios\nachieve 5.87 (EUR/USD), 4.65 (USD/JPY), and 4.65 (Treasuries), with respective\ncompound annual growth rates (CAGRs) exceeding 50% in Foreign Exchange (FX) and\n22% in bonds. Shapley Additive Explanations (SHAP) affirm that sentiment\ndispersion and article impact are key predictive features. Our findings\nestablish that integrating domain-specific Natural Language Processing (NLP)\nwith interpretable ML offers a potent and explainable source of macro alpha.",
+            "pdf_url": "http://arxiv.org/pdf/2505.16136v1",
+            "published": "2025-05-22 02:24:45+00:00",
+            "updated": "2025-05-22 02:24:45+00:00"
+        },
+        {
+            "title": "Automate Strategy Finding with LLM in Quant Investment",
+            "authors": "Zhizhuo Kou, Holam Yu, Junyu Luo, Jingshu Peng, Xujia Li, Chengzhong Liu, Juntao Dai, Lei Chen, Sirui Han, Yike Guo",
+            "summary": "We present a novel three-stage framework leveraging Large Language Models\n(LLMs) within a risk-aware multi-agent system for automate strategy finding in\nquantitative finance. Our approach addresses the brittleness of traditional\ndeep learning models in financial applications by: employing prompt-engineered\nLLMs to generate executable alpha factor candidates across diverse financial\ndata, implementing multimodal agent-based evaluation that filters factors based\non market status, predictive quality while maintaining category balance, and\ndeploying dynamic weight optimization that adapts to market conditions.\nExperimental results demonstrate the robust performance of the strategy in\nChinese & US market regimes compared to established benchmarks. Our work\nextends LLMs capabilities to quantitative trading, providing a scalable\narchitecture for financial signal extraction and portfolio construction. The\noverall framework significantly outperforms all benchmarks with 53.17%\ncumulative return on SSE50 (Jan 2023 to Jan 2024), demonstrating superior\nrisk-adjusted performance and downside protection on the market.",
+            "pdf_url": "http://arxiv.org/pdf/2409.06289v3",
+            "published": "2024-09-10 07:42:28+00:00",
+            "updated": "2025-05-21 09:05:34+00:00"
+        },
+        {
+            "title": "R&D-Agent-Quant: A Multi-Agent Framework for Data-Centric Factors and Model Joint Optimization",
+            "authors": "Yuante Li, Xu Yang, Xiao Yang, Minrui Xu, Xisen Wang, Weiqing Liu, Jiang Bian",
+            "summary": "Financial markets pose fundamental challenges for asset return prediction due\nto their high dimensionality, non-stationarity, and persistent volatility.\nDespite advances in large language models and multi-agent systems, current\nquantitative research pipelines suffer from limited automation, weak\ninterpretability, and fragmented coordination across key components such as\nfactor mining and model innovation. In this paper, we propose R&D-Agent for\nQuantitative Finance, in short RD-Agent(Q), the first data-centric multi-agent\nframework designed to automate the full-stack research and development of\nquantitative strategies via coordinated factor-model co-optimization.\nRD-Agent(Q) decomposes the quant process into two iterative stages: a Research\nstage that dynamically sets goal-aligned prompts, formulates hypotheses based\non domain priors, and maps them to concrete tasks, and a Development stage that\nemploys a code-generation agent, Co-STEER, to implement task-specific code,\nwhich is then executed in real-market backtests. The two stages are connected\nthrough a feedback stage that thoroughly evaluates experimental outcomes and\ninforms subsequent iterations, with a multi-armed bandit scheduler for adaptive\ndirection selection. Empirically, RD-Agent(Q) achieves up to 2X higher\nannualized returns than classical factor libraries using 70% fewer factors, and\noutperforms state-of-the-art deep time-series models on real markets. Its joint\nfactor-model optimization delivers a strong balance between predictive accuracy\nand strategy robustness. Our code is available at:\nhttps://github.com/microsoft/RD-Agent.",
+            "pdf_url": "http://arxiv.org/pdf/2505.15155v1",
+            "published": "2025-05-21 06:20:56+00:00",
+            "updated": "2025-05-21 06:20:56+00:00"
+        }
+    ]
+}

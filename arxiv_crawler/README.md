@@ -161,6 +161,38 @@ TODO:
 
 
 
+
+## Update on 2025-05-23
+
+### Physics
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-05-22|2025-05-22|A Unified Framework for Simultaneous Parameter and Function Discovery in Differential Equations|Shalev Manor|[2505.16996v1](http://arxiv.org/pdf/2505.16996v1)|
+|2025-05-22|2025-05-22|PICT -- A Differentiable, GPU-Accelerated Multi-Block PISO Solver for Simulation-Coupled Learning Tasks in Fluid Dynamics|Aleksandra Franz|[2505.16992v1](http://arxiv.org/pdf/2505.16992v1)|
+|2025-05-22|2025-05-22|Attached Decelerating Turbulent Boundary Layers over Riblets|Benjamin S. Savino|[2505.16962v1](http://arxiv.org/pdf/2505.16962v1)|
+|2025-05-22|2025-05-22|Predicting the outcome of collisional neutrino flavor conversion|Julien Froustey|[2505.16961v1](http://arxiv.org/pdf/2505.16961v1)|
+|2025-05-22|2025-05-22|Higher order Jacobi method for solving a system of linear equations|Nithin Kumar Goona|[2505.16906v1](http://arxiv.org/pdf/2505.16906v1)|
+|2025-05-22|2025-05-22|Accurate crystal field Hamiltonians of single-ion magnets at mean-field cost|Linqing Peng|[2505.16905v1](http://arxiv.org/pdf/2505.16905v1)|
+|2025-05-22|2025-05-22|Structure-Aligned Protein Language Model|Can Chen|[2505.16896v1](http://arxiv.org/pdf/2505.16896v1)|
+|2025-05-22|2025-05-22|Quantum Compiler Design for Qubit Mapping and Routing: A Cross-Architectural Survey of Superconducting, Trapped-Ion, and Neutral Atom Systems|Chenghong Zhu|[2505.16891v1](http://arxiv.org/pdf/2505.16891v1)|
+|2025-05-22|2025-05-22|How high is `high'? Rethinking the roles of dimensionality in topological data analysis and manifold learning|Hannah Sansford|[2505.16879v1](http://arxiv.org/pdf/2505.16879v1)|
+|2025-05-22|2025-05-22|Magnetic vortex writing and local reversal seeding in artificial spin-vortex ice via all-optical and surface-probe control|Holly Holder|[2505.16874v1](http://arxiv.org/pdf/2505.16874v1)|
+
+### Diffusion
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-05-22|2025-05-22|When Are Concepts Erased From Diffusion Models?|Kevin Lu|[2505.17013v1](http://arxiv.org/pdf/2505.17013v1)|
+|2025-05-22|2025-05-22|Guided Diffusion Sampling on Function Spaces with Applications to PDEs|Jiachen Yao|[2505.17004v1](http://arxiv.org/pdf/2505.17004v1)|
+|2025-05-22|2025-05-22|Bigger Isn't Always Memorizing: Early Stopping Overparameterized Diffusion Models|Alessandro Favero|[2505.16959v1](http://arxiv.org/pdf/2505.16959v1)|
+|2025-05-22|2025-05-22|LLaDA-V: Large Language Diffusion Models with Visual Instruction Tuning|Zebin You|[2505.16933v1](http://arxiv.org/pdf/2505.16933v1)|
+|2025-05-22|2025-05-22|T2I-ConBench: Text-to-Image Benchmark for Continual Post-training|Zhehao Huang|[2505.16875v1](http://arxiv.org/pdf/2505.16875v1)|
+
+### Quantitative Finance
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-05-22|2025-05-22|Interpretable Machine Learning for Macro Alpha: A News Sentiment Case Study|Yuke Zhang|[2505.16136v1](http://arxiv.org/pdf/2505.16136v1)|
+|2024-09-10|2025-05-21|Automate Strategy Finding with LLM in Quant Investment|Zhizhuo Kou|[2409.06289v3](http://arxiv.org/pdf/2409.06289v3)|
+|2025-05-21|2025-05-21|R&D-Agent-Quant: A Multi-Agent Framework for Data-Centric Factors and Model Joint Optimization|Yuante Li|[2505.15155v1](http://arxiv.org/pdf/2505.15155v1)|
 ## Update on 2025-05-21
 
 ### Physics
