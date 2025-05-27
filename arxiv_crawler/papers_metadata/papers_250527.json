@@ -1,0 +1,136 @@
+{
+    "Physics": [
+        {
+            "title": "EgoZero: Robot Learning from Smart Glasses",
+            "authors": "Vincent Liu, Ademi Adeniji, Haotian Zhan, Raunaq Bhirangi, Pieter Abbeel, Lerrel Pinto",
+            "summary": "Despite recent progress in general purpose robotics, robot policies still lag\nfar behind basic human capabilities in the real world. Humans interact\nconstantly with the physical world, yet this rich data resource remains largely\nuntapped in robot learning. We propose EgoZero, a minimal system that learns\nrobust manipulation policies from human demonstrations captured with Project\nAria smart glasses, $\\textbf{and zero robot data}$. EgoZero enables: (1)\nextraction of complete, robot-executable actions from in-the-wild, egocentric,\nhuman demonstrations, (2) compression of human visual observations into\nmorphology-agnostic state representations, and (3) closed-loop policy learning\nthat generalizes morphologically, spatially, and semantically. We deploy\nEgoZero policies on a gripper Franka Panda robot and demonstrate zero-shot\ntransfer with 70% success rate over 7 manipulation tasks and only 20 minutes of\ndata collection per task. Our results suggest that in-the-wild human data can\nserve as a scalable foundation for real-world robot learning - paving the way\ntoward a future of abundant, diverse, and naturalistic training data for\nrobots. Code and videos are available at https://egozero-robot.github.io.",
+            "pdf_url": "http://arxiv.org/pdf/2505.20290v1",
+            "published": "2025-05-26 17:59:17+00:00",
+            "updated": "2025-05-26 17:59:17+00:00"
+        },
+        {
+            "title": "Entanglement Cost of Erasure Correction in Quantum MDS Codes",
+            "authors": "Kaushik Senthoor",
+            "summary": "In distributed quantum storage, physical qubits of a code will be stored\nacross the network. When qubits in one of the nodes are lost i.e. when the node\nis erased, the remaining nodes need to communicate with a new node to replace\nthe lost qubits. Here, we look at the problem of how much entanglement cost is\nneeded to perform such a distributed quantum erasure correction. We focus on\ndistributed quantum storage based on quantum maximum distance separable (MDS)\ncodes. We derive lower bounds on the entanglement cost when the quantum network\nused for the erasure correction has a star topology. We show that the simple\nmethod of downloading the non-erased qudits and performing operations at a\nsingle node is optimal when the minimal number of non-erased nodes are\naccessed. It remains to be seen what the entanglement cost will be when a\nnon-minimal number of non-erased nodes are accessed. The techniques used in\nthis work can be developed further to study the entanglement cost of quantum\nerasure correction in more general code families and network topologies.",
+            "pdf_url": "http://arxiv.org/pdf/2505.20284v1",
+            "published": "2025-05-26 17:58:43+00:00",
+            "updated": "2025-05-26 17:58:43+00:00"
+        },
+        {
+            "title": "Simple and exact nonlinear pendulum motion for all possible initial conditions",
+            "authors": "Teepanis Chachiyo",
+            "summary": "Simple and formally exact solutions of energy-conserving nonlinear pendulum\nmotion are derived for all three classes: swinging, stopping, and spinning.\nAlthough with seemingly very different characteristic motions, the three\nclasses can now be treated on the same footing using the frequency domain. The\nsolutions are the first exact and complete description of energy-conserving\npendulum in the frequency domain reported in the literature. The key insight is\nthe importance of angular velocity frequency analysis, rather than that of\nangular displacement. The emphasis on velocity frequency domain should benefit\nother studies of nonlinear motion as well. Brief theoretical derivations are\ngiven. The solutions are validated by exact numerical values and frequency\nanalysis of dynamical simulations using velocity verlet integration. Their\nunique simplicity should be useful in a theoretical development that requires a\ntractable mathematical framework or in an introductory physics course that aims\nto discuss nonlinear pendulum.",
+            "pdf_url": "http://arxiv.org/pdf/2504.16816v5",
+            "published": "2025-04-23 15:35:11+00:00",
+            "updated": "2025-05-26 17:57:26+00:00"
+        },
+        {
+            "title": "Lorentz Local Canonicalization: How to Make Any Network Lorentz-Equivariant",
+            "authors": "Jonas Spinner, Luigi Favaro, Peter Lippmann, Sebastian Pitz, Gerrit Gerhartz, Tilman Plehn, Fred A. Hamprecht",
+            "summary": "Lorentz-equivariant neural networks are becoming the leading architectures\nfor high-energy physics. Current implementations rely on specialized layers,\nlimiting architectural choices. We introduce Lorentz Local Canonicalization\n(LLoCa), a general framework that renders any backbone network exactly\nLorentz-equivariant. Using equivariantly predicted local reference frames, we\nconstruct LLoCa-transformers and graph networks. We adapt a recent approach to\ngeometric message passing to the non-compact Lorentz group, allowing\npropagation of space-time tensorial features. Data augmentation emerges from\nLLoCa as a special choice of reference frame. Our models surpass\nstate-of-the-art accuracy on relevant particle physics tasks, while being\n$4\\times$ faster and using $5$-$100\\times$ fewer FLOPs.",
+            "pdf_url": "http://arxiv.org/pdf/2505.20280v1",
+            "published": "2025-05-26 17:57:17+00:00",
+            "updated": "2025-05-26 17:57:17+00:00"
+        },
+        {
+            "title": "The Quantum Wave Function as a Complex Probability Distribution",
+            "authors": "Charalampos Antonakos",
+            "summary": "This paper suggests an interpretation for the wave function, based on some\nelements of Nelson's stochastic mechanics, the time-symmetric laws of quantum\ntheory and complex probabilities. Our main purpose is to demonstrate that the\nwave function and its complex conjugate can be interpreted as complex\nprobability densities (or quasi-probability distributions) related to non-real\nforward and backward in time stochastic motion respectively. Those two\nquasi-Brownian motions serve as mathematical abstracts in order to derive the\nBorn rule using probability theory and the intersection of the two probability\nsets that describe each of those motions. This proposal is useful also for\nexplaining more about the role of complex numbers in quantum mechanics that\nproduces this so-called \"wave-like\" nature of quantum reality. Our perspective\nalso challenges the notion of physical superposition which is a fundamental\nconcept in the Copenhagen interpretation and some other interpretations of\nquantum theory. Moreover, it is suggested that, embracing the idea of\nstochastic processes in quantum theory, may explain the reasons for the\nappearance of classical behavior in large objects, in contrast to the quantum\nbehavior of small ones. In other words, we claim that a combination of a\nprobabilistic and no-ontic view of the wave function with a stochastic\nhidden-variables approach, like Nelson's and others', may provide some insight\ninto the quantum physical reality and potentially establish the groundwork for\na novel interpretation of quantum mechanics.",
+            "pdf_url": "http://arxiv.org/pdf/2502.10523v4",
+            "published": "2025-02-14 19:39:06+00:00",
+            "updated": "2025-05-26 17:51:32+00:00"
+        },
+        {
+            "title": "Simple and accurate complete elliptic integrals for the full range of modulus",
+            "authors": "Teepanis Chachiyo",
+            "summary": "The complete elliptic integral of the first and second kind, K(k) and E(k),\nappear in a multitude of physics and engineering applications. Because there is\nno known closed-form, the exact values have to be computed numerically. Here,\napproximations for the integrals are proposed based on their asymptotic\nbehaviors. An inverse of K is also presented. As a result, the proposed K(k)\nand E(k) reproduce the exact analytical forms both in the zero and asymptotic\nlimits, while in the mid-range of modulus maintain average error of 0.06% and\n0.01% respectively. The key finding is the ability to compute the integrals\nwith exceptional accuracy on both limits of elliptical conditions. An accuracy\nof 1 in 1,000 should be sufficient for practical or prototyping engineering and\narchitecture designs. The simplicity should facilitate discussions of advanced\nphysics topics in introductory physics classes, and enable broader\ncollaborations among researchers from other fields of expertise. For example,\nthe phase space of energy-conserving nonlinear pendulum using only elementary\nfunctions is discussed. The proposed inverse of K is shown to be Never Failing\nNewton Initialization and is an important step for the computation of the exact\ninverse.",
+            "pdf_url": "http://arxiv.org/pdf/2505.17159v2",
+            "published": "2025-05-22 14:42:51+00:00",
+            "updated": "2025-05-26 17:49:11+00:00"
+        },
+        {
+            "title": "Hardware-tailored logical Clifford circuits for stabilizer codes",
+            "authors": "Eric J. Kuehnke, Kyano Levi, Joschka Roffe, Jens Eisert, Daniel Miller",
+            "summary": "Quantum error correction is the art of protecting fragile quantum information\nthrough suitable encoding and active interventions. After encoding $k$ logical\nqubits into $n>k$ physical qubits using a stabilizer code, this amounts to\nmeasuring stabilizers, decoding syndromes, and applying an appropriate\ncorrection. Although quantum information can be protected in this way, it is\nnotoriously difficult to manipulate encoded quantum data without introducing\nuncorrectable errors. Here, we introduce a mathematical framework for\nconstructing hardware-tailored quantum circuits that implement any desired\nClifford unitary on the logical level of any given stabilizer code. Our main\ncontribution is the formulation of this task as a discrete optimization\nproblem. We can explicitly integrate arbitrary hardware connectivity\nconstraints. As a key feature, our framework naturally incorporates an\noptimization over all Clifford gauges (differing only in their action outside\nthe code space) of a desired logical circuit. In this way, we find, for\nexample, fault-tolerant and teleportation-free logical Hadamard circuits for\nthe $[[8,3,2]]$ code. From a broader perspective, we turn away from the\nstandard generator decomposition approach and instead focus on the holistic\ncompilation of entire logical circuits, leading to significant savings in\npractice. Our work introduces both the necessary mathematics and open-source\nsoftware to compile hardware-tailored logical Clifford circuits for stabilizer\ncodes.",
+            "pdf_url": "http://arxiv.org/pdf/2505.20261v1",
+            "published": "2025-05-26 17:40:52+00:00",
+            "updated": "2025-05-26 17:40:52+00:00"
+        },
+        {
+            "title": "Efficient Optimization Accelerator Framework for Multistate Ising Problems",
+            "authors": "Chirag Garg, Sayeef Salahuddin",
+            "summary": "Ising Machines are a prominent class of hardware architectures that aim to\nsolve NP-hard combinatorial optimization problems. These machines consist of a\nnetwork of interacting binary spins/neurons that evolve to represent the\noptimum ground state energy solution. Generally, combinatorial problems are\ntransformed into quadratic unconstrained binary optimization (QUBO) form to\nharness the computational efficiency of these Ising machines. However, this\ntransformation, especially for multi-state problems, often leads to a more\ncomplex exploration landscape than the original problem, thus severely\nimpacting the solution quality. To address this challenge, we model the spin\ninteractions as a generalized boolean logic function to significantly reduce\nthe exploration space. We benchmark the graph coloring problem from the class\nof multi-state NP-hard optimization using probabilistic Ising solvers to\nillustrate the effectiveness of our framework. The proposed methodology\nachieves similar accuracy compared to state-of-the-art heuristics and machine\nlearning algorithms, and demonstrates significant improvement over the existing\nIsing methods. Additionally, we demonstrate that combining parallel tempering\nwith our existing framework further reduces the coloring error by up to 50%\ncompared to the conventionally used Gibbs sampling algorithm. We also design a\n1024-neuron all-to-all connected probabilistic Ising accelerator that shows up\nto 10000x performance acceleration compared to heuristics while reducing the\nnumber of required physical neurons by 1.5-4x compared to conventional Ising\nmachines. Indeed, this accelerator solution demonstrates improvement across all\nmetrics over the current methods, i.e., energy, performance, area, and solution\nquality. Thus, this work expands the potential of existing Ising hardware to\nsolve a broad class of these multistate optimization problems.",
+            "pdf_url": "http://arxiv.org/pdf/2505.20250v1",
+            "published": "2025-05-26 17:23:47+00:00",
+            "updated": "2025-05-26 17:23:47+00:00"
+        },
+        {
+            "title": "A structure-preserving multiscale solver for particle-wave interaction in non-uniform magnetized plasmas",
+            "authors": "Kun Huang, Irene M. Gamba, Chi-Wang Shu",
+            "summary": "Particle-wave interaction is of fundamental interest in plasma physics,\nespecially in the study of runaway electrons in magnetic confinement fusion.\nAnalogous to the concept of photons and phonons, wave packets in plasma can\nalso be treated as quasi-particles, called plasmons. To model the ``mixture\" of\nelectrons and plasmons in plasma, a set of ``collisional\" kinetic equations has\nbeen derived, based on weak turbulence limit and the Wentzel-Kramers-Brillouin\n(WKB) approximation.\n  There are two main challenges in solving the electron-plasmon kinetic system\nnumerically. Firstly, non-uniform plasma density and magnetic field results in\nhigh dimensionality and the presence of multiple time scales. Secondly, a\nphysically reliable numerical solution requires a structure-preserving scheme\nthat enforces the conservation of mass, momentum, and energy.\n  In this paper, we propose a struture-preserving multiscale solver for\nparticle-wave interaction in non-uniform magnetized plasmas. The solver\ncombines a conservative local discontinuous Galerkin (LDG) scheme for the\ninteraction part with a trajectory averaging method for the plasmon Hamiltonian\nflow part. Numerical examples for a non-uniform magnetized plasma in an\ninfinitely long symmetric cylinder are presented. It is verified that the LDG\nscheme rigorously preserves all the conservation laws, and the trajectory\naveraging method significantly reduces the computational cost.",
+            "pdf_url": "http://arxiv.org/pdf/2505.20210v1",
+            "published": "2025-05-26 16:50:28+00:00",
+            "updated": "2025-05-26 16:50:28+00:00"
+        },
+        {
+            "title": "Kira 3: integral reduction with efficient seeding and optimized equation selection",
+            "authors": "Fabian Lange, Johann Usovitsch, Zihao Wu",
+            "summary": "We present version 3 of Kira, a Feynman integral reduction program for\nhigh-precision calculations in quantum field theory and gravitational-wave\nphysics. Building on previous versions, Kira 3 introduces optimized seeding and\nequation selection algorithms, significantly improving performance for\nmulti-loop and multi-scale problems. New features include convenient numerical\nsampling, symbolic integration-by-parts reductions, and support for\nuser-defined additional relations. We demonstrate its capabilities through\nbenchmarks on two- and three-loop topologies, showcasing up to two orders of\nmagnitude improvement over Kira 2.3. Kira 3 is publicly available and poised to\nsupport ambitious projects in particle physics and beyond.",
+            "pdf_url": "http://arxiv.org/pdf/2505.20197v1",
+            "published": "2025-05-26 16:39:58+00:00",
+            "updated": "2025-05-26 16:39:58+00:00"
+        }
+    ],
+    "Diffusion": [
+        {
+            "title": "In-Context Brush: Zero-shot Customized Subject Insertion with Context-Aware Latent Space Manipulation",
+            "authors": "Yu Xu, Fan Tang, You Wu, Lin Gao, Oliver Deussen, Hongbin Yan, Jintao Li, Juan Cao, Tong-Yee Lee",
+            "summary": "Recent advances in diffusion models have enhanced multimodal-guided visual\ngeneration, enabling customized subject insertion that seamlessly \"brushes\"\nuser-specified objects into a given image guided by textual prompts. However,\nexisting methods often struggle to insert customized subjects with high\nfidelity and align results with the user's intent through textual prompts. In\nthis work, we propose \"In-Context Brush\", a zero-shot framework for customized\nsubject insertion by reformulating the task within the paradigm of in-context\nlearning. Without loss of generality, we formulate the object image and the\ntextual prompts as cross-modal demonstrations, and the target image with the\nmasked region as the query. The goal is to inpaint the target image with the\nsubject aligning textual prompts without model tuning. Building upon a\npretrained MMDiT-based inpainting network, we perform test-time enhancement via\ndual-level latent space manipulation: intra-head \"latent feature shifting\"\nwithin each attention head that dynamically shifts attention outputs to reflect\nthe desired subject semantics and inter-head \"attention reweighting\" across\ndifferent heads that amplifies prompt controllability through differential\nattention prioritization. Extensive experiments and applications demonstrate\nthat our approach achieves superior identity preservation, text alignment, and\nimage quality compared to existing state-of-the-art methods, without requiring\ndedicated training or additional data collection.",
+            "pdf_url": "http://arxiv.org/pdf/2505.20271v1",
+            "published": "2025-05-26 17:49:10+00:00",
+            "updated": "2025-05-26 17:49:10+00:00"
+        },
+        {
+            "title": "SITCOM: Step-wise Triple-Consistent Diffusion Sampling for Inverse Problems",
+            "authors": "Ismail Alkhouri, Shijun Liang, Cheng-Han Huang, Jimmy Dai, Qing Qu, Saiprasad Ravishankar, Rongrong Wang",
+            "summary": "Diffusion models (DMs) are a class of generative models that allow sampling\nfrom a distribution learned over a training set. When applied to solving\ninverse problems, the reverse sampling steps are modified to approximately\nsample from a measurement-conditioned distribution. However, these\nmodifications may be unsuitable for certain settings (e.g., presence of\nmeasurement noise) and non-linear tasks, as they often struggle to correct\nerrors from earlier steps and generally require a large number of optimization\nand/or sampling steps. To address these challenges, we state three conditions\nfor achieving measurement-consistent diffusion trajectories. Building on these\nconditions, we propose a new optimization-based sampling method that not only\nenforces standard data manifold measurement consistency and forward diffusion\nconsistency, as seen in previous studies, but also incorporates our proposed\nstep-wise and network-regularized backward diffusion consistency that maintains\na diffusion trajectory by optimizing over the input of the pre-trained model at\nevery sampling step. By enforcing these conditions (implicitly or explicitly),\nour sampler requires significantly fewer reverse steps. Therefore, we refer to\nour method as Step-wise Triple-Consistent Sampling (SITCOM). Compared to SOTA\nbaselines, our experiments across several linear and non-linear tasks (with\nnatural and medical images) demonstrate that SITCOM achieves competitive or\nsuperior results in terms of standard similarity metrics and run-time.",
+            "pdf_url": "http://arxiv.org/pdf/2410.04479v2",
+            "published": "2024-10-06 13:39:36+00:00",
+            "updated": "2025-05-26 17:20:09+00:00"
+        },
+        {
+            "title": "Roll the dice & look before you leap: Going beyond the creative limits of next-token prediction",
+            "authors": "Vaishnavh Nagarajan, Chen Henry Wu, Charles Ding, Aditi Raghunathan",
+            "summary": "We design a suite of minimal algorithmic tasks that are a loose abstraction\nof open-ended real-world tasks. This allows us to cleanly and controllably\nquantify the creative limits of the present-day language model. Much like\nreal-world tasks that require a creative, far-sighted leap of thought, our\ntasks require an implicit, open-ended stochastic planning step that either (a)\ndiscovers new connections in an abstract knowledge graph (like in wordplay,\ndrawing analogies, or research) or (b) constructs new patterns (like in\ndesigning math problems or new proteins). In these tasks, we empirically and\nconceptually argue how next-token learning is myopic and memorizes excessively;\nmulti-token approaches, namely teacherless training and diffusion models,\ncomparatively excel in producing diverse and original output. Secondly, to\nelicit randomness without hurting coherence, we find that injecting noise at\nthe input layer (dubbed as seed-conditioning) works surprisingly as well as\n(and in some conditions, better than) temperature sampling from the output\nlayer. Thus, our work offers a principled, minimal test-bed for analyzing\nopen-ended creative skills, and offers new arguments for going beyond\nnext-token learning and temperature sampling. We make part of the code\navailable under https://github.com/chenwu98/algorithmic-creativity",
+            "pdf_url": "http://arxiv.org/pdf/2504.15266v2",
+            "published": "2025-04-21 17:47:46+00:00",
+            "updated": "2025-05-26 17:04:46+00:00"
+        },
+        {
+            "title": "UniMoMo: Unified Generative Modeling of 3D Molecules for De Novo Binder Design",
+            "authors": "Xiangzhe Kong, Zishen Zhang, Ziting Zhang, Rui Jiao, Jianzhu Ma, Wenbing Huang, Kai Liu, Yang Liu",
+            "summary": "The design of target-specific molecules such as small molecules, peptides,\nand antibodies is vital for biological research and drug discovery. Existing\ngenerative methods are restricted to single-domain molecules, failing to\naddress versatile therapeutic needs or utilize cross-domain transferability to\nenhance model performance. In this paper, we introduce Unified generative\nModeling of 3D Molecules (UniMoMo), the first framework capable of designing\nbinders of multiple molecular domains using a single model. In particular,\nUniMoMo unifies the representations of different molecules as graphs of blocks,\nwhere each block corresponds to either a standard amino acid or a molecular\nfragment. Subsequently, UniMoMo utilizes a geometric latent diffusion model for\n3D molecular generation, featuring an iterative full-atom autoencoder to\ncompress blocks into latent space points, followed by an E(3)-equivariant\ndiffusion process. Extensive benchmarks across peptides, antibodies, and small\nmolecules demonstrate the superiority of our unified framework over existing\ndomain-specific models, highlighting the benefits of multi-domain training.",
+            "pdf_url": "http://arxiv.org/pdf/2503.19300v3",
+            "published": "2025-03-25 03:01:16+00:00",
+            "updated": "2025-05-26 16:31:43+00:00"
+        },
+        {
+            "title": "InfoBridge: Mutual Information estimation via Bridge Matching",
+            "authors": "Sergei Kholkin, Ivan Butakov, Evgeny Burnaev, Nikita Gushchin, Alexander Korotin",
+            "summary": "Diffusion bridge models have recently become a powerful tool in the field of\ngenerative modeling. In this work, we leverage their power to address another\nimportant problem in machine learning and information theory, the estimation of\nthe mutual information (MI) between two random variables. We show that by using\nthe theory of diffusion bridges, one can construct an unbiased estimator for\ndata posing difficulties for conventional MI estimators. We showcase the\nperformance of our estimator on two standard MI estimation benchmarks, i.e.,\nlow-dimensional and image-based, and on real-world data, i.e., protein language\nmodel embeddings.",
+            "pdf_url": "http://arxiv.org/pdf/2502.01383v2",
+            "published": "2025-02-03 14:18:37+00:00",
+            "updated": "2025-05-26 15:35:24+00:00"
+        }
+    ],
+    "Quantitative Finance": [
+        {
+            "title": "A deep solver for backward stochastic Volterra integral equations",
+            "authors": "Kristoffer Andersson, Alessandro Gnoatto, Camilo Andr\u00e9s Garc\u00eda Trillos",
+            "summary": "We present the first deep-learning solver for backward stochastic Volterra\nintegral equations (BSVIEs) and their fully-coupled forward-backward variants.\nThe method trains a neural network to approximate the two solution fields in a\nsingle stage, avoiding the use of nested time-stepping cycles that limit\nclassical algorithms. For the decoupled case we prove a non-asymptotic error\nbound composed of an a posteriori residual plus the familiar square root\ndependence on the time step. Numerical experiments confirm this rate and reveal\ntwo key properties: \\emph{scalability}, in the sense that accuracy remains\nstable from low dimension up to 500 spatial variables while GPU batching keeps\nwall-clock time nearly constant; and \\emph{generality}, since the same method\nhandles coupled systems whose forward dynamics depend on the backward solution.\nThese results open practical access to a family of high-dimensional,\npath-dependent problems in stochastic control and quantitative finance.",
+            "pdf_url": "http://arxiv.org/pdf/2505.18297v1",
+            "published": "2025-05-23 18:41:54+00:00",
+            "updated": "2025-05-23 18:41:54+00:00"
+        }
+    ]
+}

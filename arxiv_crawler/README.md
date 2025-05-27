@@ -162,6 +162,36 @@ TODO:
 
 
 
+
+## Update on 2025-05-27
+
+### Physics
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-05-26|2025-05-26|EgoZero: Robot Learning from Smart Glasses|Vincent Liu|[2505.20290v1](http://arxiv.org/pdf/2505.20290v1)|
+|2025-05-26|2025-05-26|Entanglement Cost of Erasure Correction in Quantum MDS Codes|Kaushik Senthoor|[2505.20284v1](http://arxiv.org/pdf/2505.20284v1)|
+|2025-04-23|2025-05-26|Simple and exact nonlinear pendulum motion for all possible initial conditions|Teepanis Chachiyo|[2504.16816v5](http://arxiv.org/pdf/2504.16816v5)|
+|2025-05-26|2025-05-26|Lorentz Local Canonicalization: How to Make Any Network Lorentz-Equivariant|Jonas Spinner|[2505.20280v1](http://arxiv.org/pdf/2505.20280v1)|
+|2025-02-14|2025-05-26|The Quantum Wave Function as a Complex Probability Distribution|Charalampos Antonakos|[2502.10523v4](http://arxiv.org/pdf/2502.10523v4)|
+|2025-05-22|2025-05-26|Simple and accurate complete elliptic integrals for the full range of modulus|Teepanis Chachiyo|[2505.17159v2](http://arxiv.org/pdf/2505.17159v2)|
+|2025-05-26|2025-05-26|Hardware-tailored logical Clifford circuits for stabilizer codes|Eric J. Kuehnke|[2505.20261v1](http://arxiv.org/pdf/2505.20261v1)|
+|2025-05-26|2025-05-26|Efficient Optimization Accelerator Framework for Multistate Ising Problems|Chirag Garg|[2505.20250v1](http://arxiv.org/pdf/2505.20250v1)|
+|2025-05-26|2025-05-26|A structure-preserving multiscale solver for particle-wave interaction in non-uniform magnetized plasmas|Kun Huang|[2505.20210v1](http://arxiv.org/pdf/2505.20210v1)|
+|2025-05-26|2025-05-26|Kira 3: integral reduction with efficient seeding and optimized equation selection|Fabian Lange|[2505.20197v1](http://arxiv.org/pdf/2505.20197v1)|
+
+### Diffusion
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-05-26|2025-05-26|In-Context Brush: Zero-shot Customized Subject Insertion with Context-Aware Latent Space Manipulation|Yu Xu|[2505.20271v1](http://arxiv.org/pdf/2505.20271v1)|
+|2024-10-06|2025-05-26|SITCOM: Step-wise Triple-Consistent Diffusion Sampling for Inverse Problems|Ismail Alkhouri|[2410.04479v2](http://arxiv.org/pdf/2410.04479v2)|
+|2025-04-21|2025-05-26|Roll the dice & look before you leap: Going beyond the creative limits of next-token prediction|Vaishnavh Nagarajan|[2504.15266v2](http://arxiv.org/pdf/2504.15266v2)|
+|2025-03-25|2025-05-26|UniMoMo: Unified Generative Modeling of 3D Molecules for De Novo Binder Design|Xiangzhe Kong|[2503.19300v3](http://arxiv.org/pdf/2503.19300v3)|
+|2025-02-03|2025-05-26|InfoBridge: Mutual Information estimation via Bridge Matching|Sergei Kholkin|[2502.01383v2](http://arxiv.org/pdf/2502.01383v2)|
+
+### Quantitative Finance
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-05-23|2025-05-23|A deep solver for backward stochastic Volterra integral equations|Kristoffer Andersson|[2505.18297v1](http://arxiv.org/pdf/2505.18297v1)|
 ## Update on 2025-05-23
 
 ### Physics
