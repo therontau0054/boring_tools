@@ -163,6 +163,30 @@ TODO:
 
 
 
+
+## Update on 2025-05-29
+
+### Physics
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-05-28|2025-05-28|SimProcess: High Fidelity Simulation of Noisy ICS Physical Processes|Denis Donadel|[2505.22638v1](http://arxiv.org/pdf/2505.22638v1)|
+|2025-04-16|2025-05-28|The Sky as a Killing Horizon|Níckolas de Aguiar Alves|[2504.12514v2](http://arxiv.org/pdf/2504.12514v2)|
+|2025-05-03|2025-05-28|An effective model for describing coherent population trapping resonances, which correctly takes into account the off-resonant frequency components in periodically modulated laser field|V. I. Yudin|[2505.01924v2](http://arxiv.org/pdf/2505.01924v2)|
+|2025-04-12|2025-05-28|Arnold Diffusion in the Full Three-Body Problem|Maciej J. Capinski|[2504.09273v3](http://arxiv.org/pdf/2504.09273v3)|
+|2025-05-28|2025-05-28|On the performance of machine-learning assisted Monte Carlo in sampling from simple statistical physics models|Luca Maria Del Bono|[2505.22598v1](http://arxiv.org/pdf/2505.22598v1)|
+|2025-05-28|2025-05-28|Universal Visuo-Tactile Video Understanding for Embodied Interaction|Yifan Xie|[2505.22566v1](http://arxiv.org/pdf/2505.22566v1)|
+|2025-05-28|2025-05-28|Geometric Hyena Networks for Large-scale Equivariant Learning|Artem Moskalev|[2505.22560v1](http://arxiv.org/pdf/2505.22560v1)|
+|2025-05-28|2025-05-28|RiverMamba: A State Space Model for Global River Discharge and Flood Forecasting|Mohamad Hakam Shams Eddin|[2505.22535v1](http://arxiv.org/pdf/2505.22535v1)|
+|2024-08-20|2025-05-28|Unveiling the jet angular broadening with photon-tagged jets in high-energy nuclear collisions|Sa Wang|[2408.10924v2](http://arxiv.org/pdf/2408.10924v2)|
+|2025-05-28|2025-05-28|Geometric GNNs for Charged Particle Tracking at GlueX|Ahmed Hossam Mohammed|[2505.22504v1](http://arxiv.org/pdf/2505.22504v1)|
+
+### Diffusion
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-05-28|2025-05-28|Principled Out-of-Distribution Generalization via Simplicity|Jiawei Ge|[2505.22622v1](http://arxiv.org/pdf/2505.22622v1)|
+|2025-05-28|2025-05-28|Test-Time Alignment of Discrete Diffusion Models with Sequential Monte Carlo|Chinmay Pani|[2505.22524v1](http://arxiv.org/pdf/2505.22524v1)|
+|2025-02-10|2025-05-28|Outsourced diffusion sampling: Efficient posterior inference in latent spaces of generative models|Siddarth Venkatraman|[2502.06999v2](http://arxiv.org/pdf/2502.06999v2)|
+|2025-03-25|2025-05-28|Inference-Time Scaling for Flow Models via Stochastic Generation and Rollover Budget Forcing|Jaihoon Kim|[2503.19385v4](http://arxiv.org/pdf/2503.19385v4)|
 ## Update on 2025-05-27
 
 ### Physics
