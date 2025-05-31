@@ -164,6 +164,30 @@ TODO:
 
 
 
+
+## Update on 2025-05-31
+
+### Physics
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-05-21|2025-05-29|PhyX: Does Your Model Have the "Wits" for Physical Reasoning?|Hui Shen|[2505.15929v2](http://arxiv.org/pdf/2505.15929v2)|
+|2025-03-11|2025-05-29|Understanding and Mitigating Distribution Shifts For Machine Learning Force Fields|Tobias Kreiman|[2503.08674v2](http://arxiv.org/pdf/2503.08674v2)|
+|2025-05-29|2025-05-29|Knowledge Insulating Vision-Language-Action Models: Train Fast, Run Fast, Generalize Better|Danny Driess|[2505.23705v1](http://arxiv.org/pdf/2505.23705v1)|
+|2025-05-29|2025-05-29|(U)NFV: Supervised and Unsupervised Neural Finite Volume Methods for Solving Hyperbolic PDEs|Nathan Lichtlé|[2505.23702v1](http://arxiv.org/pdf/2505.23702v1)|
+|2025-01-08|2025-05-29|Proposal for simplified template cross-sections extension using $\cal{CP}$ observables in $t\overline{t}H$|Carnelli Alberto|[2501.04837v2](http://arxiv.org/pdf/2501.04837v2)|
+|2025-05-29|2025-05-29|Measurements $\mathit{with}$ probabilities in the final state proposal|Ahmed Almheiri|[2505.23664v1](http://arxiv.org/pdf/2505.23664v1)|
+|2025-05-29|2025-05-29|AMBER: Adaptive Mesh Generation by Iterative Mesh Resolution Prediction|Niklas Freymuth|[2505.23663v1](http://arxiv.org/pdf/2505.23663v1)|
+|2025-05-29|2025-05-29|Higher-order Tuning of Interface Physics in Multiphase Lattice Boltzmann|Matteo Lulli|[2505.23647v1](http://arxiv.org/pdf/2505.23647v1)|
+|2025-05-29|2025-05-29|The Multiverse: a Philosophical Introduction|Jeremy Butterfield|[2505.23639v1](http://arxiv.org/pdf/2505.23639v1)|
+
+### Diffusion
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-05-29|2025-05-29|MAGREF: Masked Guidance for Any-Reference Video Generation|Yufan Deng|[2505.23742v1](http://arxiv.org/pdf/2505.23742v1)|
+|2025-05-29|2025-05-29|DiffER: Categorical Diffusion for Chemical Retrosynthesis|Sean Current|[2505.23721v1](http://arxiv.org/pdf/2505.23721v1)|
+|2025-05-29|2025-05-29|Optimization-Free Diffusion Model -- A Perturbation Theory Approach|Yuehaw Khoo|[2505.23652v1](http://arxiv.org/pdf/2505.23652v1)|
+|2025-05-29|2025-05-29|Inference-time Scaling of Diffusion Models through Classical Search|Xiangcheng Zhang|[2505.23614v1](http://arxiv.org/pdf/2505.23614v1)|
+|2025-05-29|2025-05-29|Muddit: Liberating Generation Beyond Text-to-Image with a Unified Discrete Diffusion Model|Qingyu Shi|[2505.23606v1](http://arxiv.org/pdf/2505.23606v1)|
 ## Update on 2025-05-29
 
 ### Physics

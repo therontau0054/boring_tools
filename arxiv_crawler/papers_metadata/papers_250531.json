@@ -1,0 +1,118 @@
+{
+    "Physics": [
+        {
+            "title": "PhyX: Does Your Model Have the \"Wits\" for Physical Reasoning?",
+            "authors": "Hui Shen, Taiqiang Wu, Qi Han, Yunta Hsieh, Jizhou Wang, Yuyue Zhang, Yuxin Cheng, Zijian Hao, Yuansheng Ni, Xin Wang, Zhongwei Wan, Kai Zhang, Wendong Xu, Jing Xiong, Ping Luo, Wenhu Chen, Chaofan Tao, Zhuoqing Mao, Ngai Wong",
+            "summary": "Existing benchmarks fail to capture a crucial aspect of intelligence:\nphysical reasoning, the integrated ability to combine domain knowledge,\nsymbolic reasoning, and understanding of real-world constraints. To address\nthis gap, we introduce PhyX: the first large-scale benchmark designed to assess\nmodels capacity for physics-grounded reasoning in visual scenarios. PhyX\nincludes 3K meticulously curated multimodal questions spanning 6 reasoning\ntypes across 25 sub-domains and 6 core physics domains: thermodynamics,\nelectromagnetism, mechanics, modern physics, optics, and wave\\&acoustics. In\nour comprehensive evaluation, even state-of-the-art models struggle\nsignificantly with physical reasoning. GPT-4o, Claude3.7-Sonnet, and\nGPT-o4-mini achieve only 32.5%, 42.2%, and 45.8% accuracy\nrespectively-performance gaps exceeding 29% compared to human experts. Our\nanalysis exposes critical limitations in current models: over-reliance on\nmemorized disciplinary knowledge, excessive dependence on mathematical\nformulations, and surface-level visual pattern matching rather than genuine\nphysical understanding. We provide in-depth analysis through fine-grained\nstatistics, detailed case studies, and multiple evaluation paradigms to\nthoroughly examine physical reasoning capabilities. To ensure reproducibility,\nwe implement a compatible evaluation protocol based on widely-used toolkits\nsuch as VLMEvalKit, enabling one-click evaluation. More details are available\non our project page: https://phyx-bench.github.io/.",
+            "pdf_url": "http://arxiv.org/pdf/2505.15929v2",
+            "published": "2025-05-21 18:33:50+00:00",
+            "updated": "2025-05-29 17:59:14+00:00"
+        },
+        {
+            "title": "Understanding and Mitigating Distribution Shifts For Machine Learning Force Fields",
+            "authors": "Tobias Kreiman, Aditi S. Krishnapriyan",
+            "summary": "Machine Learning Force Fields (MLFFs) are a promising alternative to\nexpensive ab initio quantum mechanical molecular simulations. Given the\ndiversity of chemical spaces that are of interest and the cost of generating\nnew data, it is important to understand how MLFFs generalize beyond their\ntraining distributions. In order to characterize and better understand\ndistribution shifts in MLFFs, we conduct diagnostic experiments on chemical\ndatasets, revealing common shifts that pose significant challenges, even for\nlarge foundation models trained on extensive data. Based on these observations,\nwe hypothesize that current supervised training methods inadequately regularize\nMLFFs, resulting in overfitting and learning poor representations of\nout-of-distribution systems. We then propose two new methods as initial steps\nfor mitigating distribution shifts for MLFFs. Our methods focus on test-time\nrefinement strategies that incur minimal computational cost and do not use\nexpensive ab initio reference labels. The first strategy, based on spectral\ngraph theory, modifies the edges of test graphs to align with graph structures\nseen during training. Our second strategy improves representations for\nout-of-distribution systems at test-time by taking gradient steps using an\nauxiliary objective, such as a cheap physical prior. Our test-time refinement\nstrategies significantly reduce errors on out-of-distribution systems,\nsuggesting that MLFFs are capable of and can move towards modeling diverse\nchemical spaces, but are not being effectively trained to do so. Our\nexperiments establish clear benchmarks for evaluating the generalization\ncapabilities of the next generation of MLFFs. Our code is available at\nhttps://tkreiman.github.io/projects/mlff_distribution_shifts/.",
+            "pdf_url": "http://arxiv.org/pdf/2503.08674v2",
+            "published": "2025-03-11 17:54:29+00:00",
+            "updated": "2025-05-29 17:53:47+00:00"
+        },
+        {
+            "title": "Knowledge Insulating Vision-Language-Action Models: Train Fast, Run Fast, Generalize Better",
+            "authors": "Danny Driess, Jost Tobias Springenberg, Brian Ichter, Lili Yu, Adrian Li-Bell, Karl Pertsch, Allen Z. Ren, Homer Walke, Quan Vuong, Lucy Xiaoyang Shi, Sergey Levine",
+            "summary": "Vision-language-action (VLA) models provide a powerful approach to training\ncontrol policies for physical systems, such as robots, by combining end-to-end\nlearning with transfer of semantic knowledge from web-scale vision-language\nmodel (VLM) training. However, the constraints of real-time control are often\nat odds with the design of VLMs: the most powerful VLMs have tens or hundreds\nof billions of parameters, presenting an obstacle to real-time inference, and\noperate on discrete tokens rather than the continuous-valued outputs that are\nrequired for controlling robots. To address this challenge, recent VLA models\nhave used specialized modules for efficient continuous control, such as action\nexperts or continuous output heads, which typically require adding new\nuntrained parameters to the pretrained VLM backbone. While these modules\nimprove real-time and control capabilities, it remains an open question whether\nthey preserve or degrade the semantic knowledge contained in the pretrained\nVLM, and what effect they have on the VLA training dynamics. In this paper, we\nstudy this question in the context of VLAs that include a continuous diffusion\nor flow matching action expert, showing that naively including such experts\nsignificantly harms both training speed and knowledge transfer. We provide an\nextensive analysis of various design choices, their impact on performance and\nknowledge transfer, and propose a technique for insulating the VLM backbone\nduring VLA training that mitigates this issue. Videos are available at\nhttps://pi.website/research/knowledge_insulation.",
+            "pdf_url": "http://arxiv.org/pdf/2505.23705v1",
+            "published": "2025-05-29 17:40:09+00:00",
+            "updated": "2025-05-29 17:40:09+00:00"
+        },
+        {
+            "title": "(U)NFV: Supervised and Unsupervised Neural Finite Volume Methods for Solving Hyperbolic PDEs",
+            "authors": "Nathan Lichtl\u00e9, Alexi Canesse, Zhe Fu, Hossein Nick Zinat Matin, Maria Laura Delle Monache, Alexandre M. Bayen",
+            "summary": "We introduce (U)NFV, a modular neural network architecture that generalizes\nclassical finite volume (FV) methods for solving hyperbolic conservation laws.\nHyperbolic partial differential equations (PDEs) are challenging to solve,\nparticularly conservation laws whose physically relevant solutions contain\nshocks and discontinuities. FV methods are widely used for their mathematical\nproperties: convergence to entropy solutions, flow conservation, or total\nvariation diminishing, but often lack accuracy and flexibility in complex\nsettings. Neural Finite Volume addresses these limitations by learning update\nrules over extended spatial and temporal stencils while preserving conservation\nstructure. It supports both supervised training on solution data (NFV) and\nunsupervised training via weak-form residual loss (UNFV). Applied to\nfirst-order conservation laws, (U)NFV achieves up to 10x lower error than\nGodunov's method, outperforms ENO/WENO, and rivals discontinuous Galerkin\nsolvers with far less complexity. On traffic modeling problems, both from PDEs\nand from experimental highway data, (U)NFV captures nonlinear wave dynamics\nwith significantly higher fidelity and scalability than traditional FV\napproaches.",
+            "pdf_url": "http://arxiv.org/pdf/2505.23702v1",
+            "published": "2025-05-29 17:39:25+00:00",
+            "updated": "2025-05-29 17:39:25+00:00"
+        },
+        {
+            "title": "Proposal for simplified template cross-sections extension using $\\cal{CP}$ observables in $t\\overline{t}H$",
+            "authors": "Carnelli Alberto",
+            "summary": "The Large Hadron Collider (LHC) offers a unique opportunity to investigate\n$\\cal{CP}$ violation in the Yukawa coupling between the Higgs boson and the top\nquark by studying Higgs production in association with top quarks; this is of\nfundamental importance, seeing that the $\\cal{CP}$ properties of the Higgs\nboson are yet to measure with high precision. To address this, the focus of\nthis work has been an extension of the simplified template cross-section (STXS)\nframework, devised to be sensitive to $\\cal{CP}$ effects. Our study focused on\n$\\cal{CP}$-sensitive observables across multiple Higgs decay channels,\ncomparing their performances. The result indicates that the most efficient\nextension of the current binning used in the STXS framework, which currently\nuses the Higgs boson's transverse momentum $p_{T,H}$, requires adding one\nfurther split using $\\cal{CP}$-sensitive observables. Between these\nobservables, one of the best is the Collins-Soper angle $|\\cos\\theta^*|$, a\nvariable derived from momenta information of the top quarks. We have\ninvestigated the improvement brought by our two-dimensional STXS setup and\ncompared it to the currently employed methodologies, finding an increase in\nperformances at an integrated luminosity of $300$ fb$^{-1}$. Moreover, our\nresults highlight that this advantage seems to be present also at $3000$\nfb$^{-1}$.",
+            "pdf_url": "http://arxiv.org/pdf/2501.04837v2",
+            "published": "2025-01-08 20:47:24+00:00",
+            "updated": "2025-05-29 17:27:08+00:00"
+        },
+        {
+            "title": "Measurements $\\mathit{with}$ probabilities in the final state proposal",
+            "authors": "Ahmed Almheiri",
+            "summary": "Bousso and Stanford (BS) argued that the black hole final state proposal\nleads to acausal effects and ill-defined probabilities for the AMPS experiment.\nWe identify a loophole in their analysis using insights from entanglement wedge\nreconstruction and replica wormholes. We trace the cause of the BS problems to\nthe misidentification of the physical interior where the second AMPS\nmeasurement happens from among the multiple interiors introduced by the first\nmeasurement.",
+            "pdf_url": "http://arxiv.org/pdf/2505.23664v1",
+            "published": "2025-05-29 17:10:57+00:00",
+            "updated": "2025-05-29 17:10:57+00:00"
+        },
+        {
+            "title": "AMBER: Adaptive Mesh Generation by Iterative Mesh Resolution Prediction",
+            "authors": "Niklas Freymuth, Tobias W\u00fcrth, Nicolas Schreiber, Balazs Gyenes, Andreas Boltres, Johannes Mitsch, Aleksandar Taranovic, Tai Hoang, Philipp Dahlinger, Philipp Becker, Luise K\u00e4rger, Gerhard Neumann",
+            "summary": "The cost and accuracy of simulating complex physical systems using the Finite\nElement Method (FEM) scales with the resolution of the underlying mesh.\nAdaptive meshes improve computational efficiency by refining resolution in\ncritical regions, but typically require task-specific heuristics or cumbersome\nmanual design by a human expert. We propose Adaptive Meshing By Expert\nReconstruction (AMBER), a supervised learning approach to mesh adaptation.\nStarting from a coarse mesh, AMBER iteratively predicts the sizing field, i.e.,\na function mapping from the geometry to the local element size of the target\nmesh, and uses this prediction to produce a new intermediate mesh using an\nout-of-the-box mesh generator. This process is enabled through a hierarchical\ngraph neural network, and relies on data augmentation by automatically\nprojecting expert labels onto AMBER-generated data during training. We evaluate\nAMBER on 2D and 3D datasets, including classical physics problems, mechanical\ncomponents, and real-world industrial designs with human expert meshes. AMBER\ngeneralizes to unseen geometries and consistently outperforms multiple recent\nbaselines, including ones using Graph and Convolutional Neural Networks, and\nReinforcement Learning-based approaches.",
+            "pdf_url": "http://arxiv.org/pdf/2505.23663v1",
+            "published": "2025-05-29 17:10:44+00:00",
+            "updated": "2025-05-29 17:10:44+00:00"
+        },
+        {
+            "title": "Higher-order Tuning of Interface Physics in Multiphase Lattice Boltzmann",
+            "authors": "Matteo Lulli, Emily S. C. Ching",
+            "summary": "Tuning the interface properties of multiphase models is of paramount\nimportance to the final goal of achieving a one-to-one matching with nucleation\nand cavitation experiments. The surface tension, at the leading order, and the\nTolman length, at higher order, play a crucial role in the estimation of the\nfree-energy barrier determining the experimentally observed nucleation rates.\nThe lattice Boltzmann method allows for a computationally efficient modelling\napproach of multiphase flows, however, tuning results are concerned with the\nsurface tension and neglect the Tolman length. We present a novel perspective\nthat leverages all the degrees of freedom hidden in the forcing stencil of the\nShan-Chen multiphase model. By means of the lattice pressure tensor we\ndetermine and tune the coefficients of higher-order derivative terms related to\nsurface tension and Tolman length at constant interface width and density\nratio. We test the method by means of both hydrostatic and dynamic simulations\nand demonstrate the dependence of homogeneous nucleation rates on the value of\nthe Tolman length. This work provides a new tool that can be integrated with\npreviously existing strategies thus marking a step forwards to a high-fidelity\nmodelling of phase-changing fluid dynamics.",
+            "pdf_url": "http://arxiv.org/pdf/2505.23647v1",
+            "published": "2025-05-29 16:58:03+00:00",
+            "updated": "2025-05-29 16:58:03+00:00"
+        },
+        {
+            "title": "The Multiverse: a Philosophical Introduction",
+            "authors": "Jeremy Butterfield",
+            "summary": "This book is a philosopher's introduction to the idea that our universe is\njust one of many universes. I present and assess three versions of the idea:\none version from philosophy, and two from physics. In short, they are: all the\nlogically possible worlds; all the branches of the quantum state, in an\nEverettian interpretation of quantum theory; and all the bubbles of\ninflationary cosmology. For each proposal, I choose one main philosophical\nquestion to discuss in depth. They are, respectively: what is a possible world;\nwhat is chance; and what is explanation. But before treating these proposals\nand their associated questions, I set the stage by reviewing physics and\nphilosophy from about 1600 to about 1900; and a final Chapter compares and\ncontrasts the proposals.",
+            "pdf_url": "http://arxiv.org/pdf/2505.23639v1",
+            "published": "2025-05-29 16:46:01+00:00",
+            "updated": "2025-05-29 16:46:01+00:00"
+        }
+    ],
+    "Diffusion": [
+        {
+            "title": "MAGREF: Masked Guidance for Any-Reference Video Generation",
+            "authors": "Yufan Deng, Xun Guo, Yuanyang Yin, Jacob Zhiyuan Fang, Yiding Yang, Yizhi Wang, Shenghai Yuan, Angtian Wang, Bo Liu, Haibin Huang, Chongyang Ma",
+            "summary": "Video generation has made substantial strides with the emergence of deep\ngenerative models, especially diffusion-based approaches. However, video\ngeneration based on multiple reference subjects still faces significant\nchallenges in maintaining multi-subject consistency and ensuring high\ngeneration quality. In this paper, we propose MAGREF, a unified framework for\nany-reference video generation that introduces masked guidance to enable\ncoherent multi-subject video synthesis conditioned on diverse reference images\nand a textual prompt. Specifically, we propose (1) a region-aware dynamic\nmasking mechanism that enables a single model to flexibly handle various\nsubject inference, including humans, objects, and backgrounds, without\narchitectural changes, and (2) a pixel-wise channel concatenation mechanism\nthat operates on the channel dimension to better preserve appearance features.\nOur model delivers state-of-the-art video generation quality, generalizing from\nsingle-subject training to complex multi-subject scenarios with coherent\nsynthesis and precise control over individual subjects, outperforming existing\nopen-source and commercial baselines. To facilitate evaluation, we also\nintroduce a comprehensive multi-subject video benchmark. Extensive experiments\ndemonstrate the effectiveness of our approach, paving the way for scalable,\ncontrollable, and high-fidelity multi-subject video synthesis. Code and model\ncan be found at: https://github.com/MAGREF-Video/MAGREF",
+            "pdf_url": "http://arxiv.org/pdf/2505.23742v1",
+            "published": "2025-05-29 17:58:15+00:00",
+            "updated": "2025-05-29 17:58:15+00:00"
+        },
+        {
+            "title": "DiffER: Categorical Diffusion for Chemical Retrosynthesis",
+            "authors": "Sean Current, Ziqi Chen, Daniel Adu-Ampratwum, Xia Ning, Srinivasan Parthasarathy",
+            "summary": "Methods for automatic chemical retrosynthesis have found recent success\nthrough the application of models traditionally built for natural language\nprocessing, primarily through transformer neural networks. These models have\ndemonstrated significant ability to translate between the SMILES encodings of\nchemical products and reactants, but are constrained as a result of their\nautoregressive nature. We propose DiffER, an alternative template-free method\nfor retrosynthesis prediction in the form of categorical diffusion, which\nallows the entire output SMILES sequence to be predicted in unison. We\nconstruct an ensemble of diffusion models which achieves state-of-the-art\nperformance for top-1 accuracy and competitive performance for top-3, top-5,\nand top-10 accuracy among template-free methods. We prove that DiffER is a\nstrong baseline for a new class of template-free model, capable of learning a\nvariety of synthetic techniques used in laboratory settings and outperforming a\nvariety of other template-free methods on top-k accuracy metrics. By\nconstructing an ensemble of categorical diffusion models with a novel length\nprediction component with variance, our method is able to approximately sample\nfrom the posterior distribution of reactants, producing results with strong\nmetrics of confidence and likelihood. Furthermore, our analyses demonstrate\nthat accurate prediction of the SMILES sequence length is key to further\nboosting the performance of categorical diffusion models.",
+            "pdf_url": "http://arxiv.org/pdf/2505.23721v1",
+            "published": "2025-05-29 17:53:37+00:00",
+            "updated": "2025-05-29 17:53:37+00:00"
+        },
+        {
+            "title": "Optimization-Free Diffusion Model -- A Perturbation Theory Approach",
+            "authors": "Yuehaw Khoo, Mathias Oster, Yifan Peng",
+            "summary": "Diffusion models have emerged as a powerful framework in generative modeling,\ntypically relying on optimizing neural networks to estimate the score function\nvia forward SDE simulations. In this work, we propose an alternative method\nthat is both optimization-free and forward SDE-free. By expanding the score\nfunction in a sparse set of eigenbasis of the backward Kolmogorov operator\nassociated with the diffusion process, we reformulate score estimation as the\nsolution to a linear system, avoiding iterative optimization and time-dependent\nsample generation. We analyze the approximation error using perturbation theory\nand demonstrate the effectiveness of our method on high-dimensional Boltzmann\ndistributions and real-world datasets.",
+            "pdf_url": "http://arxiv.org/pdf/2505.23652v1",
+            "published": "2025-05-29 17:02:26+00:00",
+            "updated": "2025-05-29 17:02:26+00:00"
+        },
+        {
+            "title": "Inference-time Scaling of Diffusion Models through Classical Search",
+            "authors": "Xiangcheng Zhang, Haowei Lin, Haotian Ye, James Zou, Jianzhu Ma, Yitao Liang, Yilun Du",
+            "summary": "Classical search algorithms have long underpinned modern artificial\nintelligence. In this work, we tackle the challenge of inference-time control\nin diffusion models -- adapting generated outputs to meet diverse test-time\nobjectives -- using principles from classical search. We propose a general\nframework that orchestrates local and global search to efficiently navigate the\ngenerative space. It employs a theoretically grounded local search via annealed\nLangevin MCMC and performs compute-efficient global exploration using\nbreadth-first and depth-first tree search. We evaluate our approach on a range\nof challenging domains, including planning, offline reinforcement learning, and\nimage generation. Across all tasks, we observe significant gains in both\nperformance and efficiency. These results show that classical search provides a\nprincipled and practical foundation for inference-time scaling in diffusion\nmodels. Project page at diffusion-inference-scaling.github.io.",
+            "pdf_url": "http://arxiv.org/pdf/2505.23614v1",
+            "published": "2025-05-29 16:22:40+00:00",
+            "updated": "2025-05-29 16:22:40+00:00"
+        },
+        {
+            "title": "Muddit: Liberating Generation Beyond Text-to-Image with a Unified Discrete Diffusion Model",
+            "authors": "Qingyu Shi, Jinbin Bai, Zhuoran Zhao, Wenhao Chai, Kaidong Yu, Jianzong Wu, Shuangyong Song, Yunhai Tong, Xiangtai Li, Xuelong Li, Shuicheng Yan",
+            "summary": "Unified generation models aim to handle diverse tasks across modalities --\nsuch as text generation, image generation, and vision-language reasoning --\nwithin a single architecture and decoding paradigm. Autoregressive unified\nmodels suffer from slow inference due to sequential decoding, and\nnon-autoregressive unified models suffer from weak generalization due to\nlimited pretrained backbones. We introduce Muddit, a unified discrete diffusion\ntransformer that enables fast and parallel generation across both text and\nimage modalities. Unlike prior unified diffusion models trained from scratch,\nMuddit integrates strong visual priors from a pretrained text-to-image backbone\nwith a lightweight text decoder, enabling flexible and high-quality multimodal\ngeneration under a unified architecture. Empirical results show that Muddit\nachieves competitive or superior performance compared to significantly larger\nautoregressive models in both quality and efficiency. The work highlights the\npotential of purely discrete diffusion, when equipped with strong visual\npriors, as a scalable and effective backbone for unified generation.",
+            "pdf_url": "http://arxiv.org/pdf/2505.23606v1",
+            "published": "2025-05-29 16:15:48+00:00",
+            "updated": "2025-05-29 16:15:48+00:00"
+        }
+    ]
+}
