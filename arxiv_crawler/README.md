@@ -165,6 +165,36 @@ TODO:
 
 
 
+
+## Update on 2025-06-03
+
+### Physics
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-06-02|2025-06-02|Multi-mode NOON states generation with ultracold atoms via geodesic counterdiabatic driving|Dengis Simon|[2506.01948v1](http://arxiv.org/pdf/2506.01948v1)|
+|2025-06-02|2025-06-02|Online Competitive Information Gathering for Partially Observable Trajectory Games|Mel Krusniak|[2506.01927v1](http://arxiv.org/pdf/2506.01927v1)|
+|2025-06-02|2025-06-02|Second quantization of nonlinear Vlasov-Poisson system for quantum computation|Michael Q. May|[2506.01895v1](http://arxiv.org/pdf/2506.01895v1)|
+|2025-06-02|2025-06-02|Status of the W boson mass and the future of the electroweak fit in the next decades|Giuseppe Bozzi|[2506.01887v1](http://arxiv.org/pdf/2506.01887v1)|
+|2025-06-02|2025-06-02|Learning thermodynamic master equations for open quantum systems|Peter Sentz|[2506.01882v1](http://arxiv.org/pdf/2506.01882v1)|
+|2025-06-02|2025-06-02|Monte Carlo Simulation and Dosimetric Analysis of Gold Nanoparticles (AuNPs) in Breast Tissue|Pedro Teles|[2506.01878v1](http://arxiv.org/pdf/2506.01878v1)|
+|2025-06-02|2025-06-02|NepTrain and NepTrainKit: Automated Active Learning and Visualization Toolkit for Neuroevolution Potentials|Chengbing Chen|[2506.01868v1](http://arxiv.org/pdf/2506.01868v1)|
+|2025-06-02|2025-06-02|Modeling the Optical Properties of Biological Structures using Symbolic Regression|Julian Sierra-Velez|[2506.01862v1](http://arxiv.org/pdf/2506.01862v1)|
+|2025-06-02|2025-06-02|A Quantum-Inspired Conceptual Model of Collective Subjective Evaluation via Bloch Sphere Dynamics and Like-Polarization|Bumned Soodchomshom|[2506.01847v1](http://arxiv.org/pdf/2506.01847v1)|
+|2024-11-17|2025-06-02|INVARLLM: LLM-assisted Physical Invariant Extraction for Cyber-Physical Systems Anomaly Detection|Danial Abshari|[2411.10918v2](http://arxiv.org/pdf/2411.10918v2)|
+
+### Diffusion
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-05-21|2025-06-02|VARD: Efficient and Dense Fine-Tuning for Diffusion Models with Value-based RL|Fengyuan Dai|[2505.15791v2](http://arxiv.org/pdf/2505.15791v2)|
+|2025-06-02|2025-06-02|Image Generation from Contextually-Contradictory Prompts|Saar Huberman|[2506.01929v1](http://arxiv.org/pdf/2506.01929v1)|
+|2025-06-02|2025-06-02|Esoteric Language Models|Subham Sekhar Sahoo|[2506.01928v1](http://arxiv.org/pdf/2506.01928v1)|
+|2025-06-02|2025-06-02|TaxaDiffusion: Progressively Trained Diffusion Model for Fine-Grained Species Generation|Amin Karimi Monsefi|[2506.01923v1](http://arxiv.org/pdf/2506.01923v1)|
+|2024-03-18|2025-06-02|Certified Robustness to Clean-Label Poisoning Using Diffusion Denoising|Sanghyun Hong|[2403.11981v2](http://arxiv.org/pdf/2403.11981v2)|
+
+### Quantitative Finance
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-02-18|2025-05-31|Advanced simulation paradigm of human behaviour unveils complex financial systemic projection|Cheng Wang|[2503.20787v2](http://arxiv.org/pdf/2503.20787v2)|
 ## Update on 2025-05-31
 
 ### Physics

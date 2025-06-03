@@ -1,0 +1,136 @@
+{
+    "Physics": [
+        {
+            "title": "Multi-mode NOON states generation with ultracold atoms via geodesic counterdiabatic driving",
+            "authors": "Dengis Simon, Sandro Wimberger, Peter Schlagheck",
+            "summary": "We present a protocol for the generation of NOON states with ultracold atoms,\nleveraging the Bose-Hubbard model in the self-trapping regime. By the means of\nan optimized adiabatic protocol, we achieve a significant reduction in the time\nrequired for the preparation of highly entangled NOON states, involving two or\nmore modes. Our method saturates the quantum speed limit, ensuring both\nefficiency and high fidelity in state preparation. A detailed analysis of the\ngeodesic counterdiabatic driving protocol and its application to the\nBose-Hubbard system highlights its ability to expand the energy gap,\nfacilitating faster adiabatic evolution. Through perturbation theory, we derive\neffective parameters that emulate the counterdiabatic Hamiltonian, enabling\nexperimentally viable implementations with constant physical parameters. This\napproach is demonstrated to yield exponential time savings compared to standard\ngeodesic driving, making it a powerful tool for creating complex entangled\nstates for applications in quantum metrology and quantum information. Our\nfindings pave the way for scalable and precise quantum state control in\nultracold atomic systems.",
+            "pdf_url": "http://arxiv.org/pdf/2506.01948v1",
+            "published": "2025-06-02 17:58:58+00:00",
+            "updated": "2025-06-02 17:58:58+00:00"
+        },
+        {
+            "title": "Online Competitive Information Gathering for Partially Observable Trajectory Games",
+            "authors": "Mel Krusniak, Hang Xu, Parker Palermo, Forrest Laine",
+            "summary": "Game-theoretic agents must make plans that optimally gather information about\ntheir opponents. These problems are modeled by partially observable stochastic\ngames (POSGs), but planning in fully continuous POSGs is intractable without\nheavy offline computation or assumptions on the order of belief maintained by\neach player. We formulate a finite history/horizon refinement of POSGs which\nadmits competitive information gathering behavior in trajectory space, and\nthrough a series of approximations, we present an online method for computing\nrational trajectory plans in these games which leverages particle-based\nestimations of the joint state space and performs stochastic gradient play. We\nalso provide the necessary adjustments required to deploy this method on\nindividual agents. The method is tested in continuous pursuit-evasion and\nwarehouse-pickup scenarios (alongside extensions to $N > 2$ players and to more\ncomplex environments with visual and physical obstacles), demonstrating\nevidence of active information gathering and outperforming passive competitors.",
+            "pdf_url": "http://arxiv.org/pdf/2506.01927v1",
+            "published": "2025-06-02 17:45:58+00:00",
+            "updated": "2025-06-02 17:45:58+00:00"
+        },
+        {
+            "title": "Second quantization of nonlinear Vlasov-Poisson system for quantum computation",
+            "authors": "Michael Q. May, Hong Qin",
+            "summary": "The Vlasov-Poisson equations, fundamental in plasma physics and astrophysical\napplications, are rendered linear, finite-dimensional, and discrete by second\nquantization. Conditions for correspondence between the pre-quantized and\nquantized equations are derived, and numerical simulations demonstrating the\nquantized linear system can capture nonlinear dynamics are presented. Finally,\nencouraging scaling relations emphasizing the prospect of using quantum\ncomputers to efficiently integrate the second quantized Vlasov-Poisson\nequations as a model for the usual Vlasov-Poisson equations are derived.",
+            "pdf_url": "http://arxiv.org/pdf/2506.01895v1",
+            "published": "2025-06-02 17:20:25+00:00",
+            "updated": "2025-06-02 17:20:25+00:00"
+        },
+        {
+            "title": "Status of the W boson mass and the future of the electroweak fit in the next decades",
+            "authors": "Giuseppe Bozzi, Matthias Schott",
+            "summary": "A precise determination of the W boson mass is an essential test for the\nStandard Model of particle physics: the comparison of experimental value and\ntheoretical prediction allows to probe the internal consistency of the\nelectroweak sector and could possibly highlight signals of New Physics. We\nprovide a concise and up-to-date summary of past and recent measurements at\nlepton and hadron colliders, a discussion of the known perturbative and\nnon-perturbative theoretical ingredients used to provide predictions for the\nrelevant observables, and an overview of future prospects to reduce systematic\nuncertainties and to compare different measurements in a consistent way. We\nconclude with a brief discussion on the relevance of the global electroweak fit\nat present and future colliders.",
+            "pdf_url": "http://arxiv.org/pdf/2506.01887v1",
+            "published": "2025-06-02 17:15:11+00:00",
+            "updated": "2025-06-02 17:15:11+00:00"
+        },
+        {
+            "title": "Learning thermodynamic master equations for open quantum systems",
+            "authors": "Peter Sentz, Stanley Nicholson, Yujin Cho, Sohail Reddy, Brendan Keith, Stefanie G\u00fcnther",
+            "summary": "The characterization of Hamiltonians and other components of open quantum\ndynamical systems plays a crucial role in quantum computing and other\napplications. Scientific machine learning techniques have been applied to this\nproblem in a variety of ways, including by modeling with deep neural networks.\nHowever, the majority of mathematical models describing open quantum systems\nare linear, and the natural nonlinearities in learnable models have not been\nincorporated using physical principles. We present a data-driven model for open\nquantum systems that includes learnable, thermodynamically consistent terms.\nThe trained model is interpretable, as it directly estimates the system\nHamiltonian and linear components of coupling to the environment. We validate\nthe model on synthetic two and three-level data, as well as experimental\ntwo-level data collected from a quantum device at Lawrence Livermore National\nLaboratory.",
+            "pdf_url": "http://arxiv.org/pdf/2506.01882v1",
+            "published": "2025-06-02 17:11:16+00:00",
+            "updated": "2025-06-02 17:11:16+00:00"
+        },
+        {
+            "title": "Monte Carlo Simulation and Dosimetric Analysis of Gold Nanoparticles (AuNPs) in Breast Tissue",
+            "authors": "Pedro Teles, Catarina Dias, Jo\u00e3o H. Belo, C\u00e9lia Sousa, Paula Boaventura, Isabel Bravo, Jo\u00e3o Santos, Marissa Rylander",
+            "summary": "Precise radiation delivery is critical for effective radiotherapy, and gold\nnanoparticles (AuNPs) have emerged as promising tools to enhance local dose\ndeposition while sparing the surrounding healthy tissue. In this study, the\nPENELOPE Monte Carlo code was used to investigate the dosimetry of AuNPs under\ndifferent conditions and models. The Dose Enhancement Ratio (DER) was studied\nin water and breast tissue with spherical shapes and in agreement with\npreviously published results. To further analyse the physical interactions of\nthe particles around the AuNP, a Phase Space File (PSF) in a volume around the\nAuNPs was created. This showed that larger AuNPs lead to increased doses, as\nexpected, yielding DER values exceeding 100 times. Finally, results reveal that\nin the volume surrounding the AuNP, 80% of emitted electrons originate from\nphotoelectric absorption, leading to Auger electron emission cascades which\nwere analysed in detail. It was also possible to establish a direct relation\nbetween number of secondaries and the particle volumes. The Local Effect Model\n(LEM) was used to determine survival curves in AuNPs of different sizes at\ndifferent gold concentrations. The last part of this work consisted in\nanalysing a distribution of AuNPs within a flattened cell typical of clonogenic\nassays where a log-normal distribution of dose was observed. This led to the\ndevelopment of a new, mechanistic, Local Effect Model which, if further\nvalidated, can have further applications in-vitro and in-silico.",
+            "pdf_url": "http://arxiv.org/pdf/2506.01878v1",
+            "published": "2025-06-02 17:08:50+00:00",
+            "updated": "2025-06-02 17:08:50+00:00"
+        },
+        {
+            "title": "NepTrain and NepTrainKit: Automated Active Learning and Visualization Toolkit for Neuroevolution Potentials",
+            "authors": "Chengbing Chen, Yutong Li, Rui Zhao, Zhoulin Liu, Zheyong Fan, Gang Tang, Zhiyong Wang",
+            "summary": "As a machine-learned potential, the neuroevolution potential (NEP) method\nfeatures exceptional computational efficiency and has been successfully applied\nin materials science. Constructing high-quality training datasets is crucial\nfor developing accurate NEP models. However, the preparation and screening of\nNEP training datasets remain a bottleneck for broader applications due to their\ntime-consuming, labor-intensive, and resource-intensive nature. In this work,\nwe have developed NepTrain and NepTrainKit, which are dedicated to initializing\nand managing training datasets to generate high-quality training sets while\nautomating NEP model training. NepTrain is an open-source Python package that\nfeatures a bond length filtering method to effectively identify and remove\nnon-physical structures from molecular dynamics trajectories, thereby ensuring\nhigh-quality training datasets. NepTrainKit is a graphical user interface (GUI)\nsoftware designed specifically for NEP training datasets, providing\nfunctionalities for data editing, visualization, and interactive exploration.\nIt integrates key features such as outlier identification, farthest-point\nsampling, non-physical structure detection, and configuration type selection.\nThe combination of these tools enables users to process datasets more\nefficiently and conveniently. Using $\\rm CsPbI_3$ as a case study, we\ndemonstrate the complete workflow for training NEP models with NepTrain and\nfurther validate the models through materials property predictions. We believe\nthis toolkit will greatly benefit researchers working with machine learning\ninteratomic potentials.",
+            "pdf_url": "http://arxiv.org/pdf/2506.01868v1",
+            "published": "2025-06-02 16:56:11+00:00",
+            "updated": "2025-06-02 16:56:11+00:00"
+        },
+        {
+            "title": "Modeling the Optical Properties of Biological Structures using Symbolic Regression",
+            "authors": "Julian Sierra-Velez, Alexandre Vial, Marina Inchaussandague, Diana Skigin, Demetrio Mac\u00edas",
+            "summary": "We present a Machine Learning approach based on Symbolic Regression to\nderive, from either numerically generated or experimentally measured spectral\ndata, closed-form expressions that model the optical properties of biological\nmaterials. To evaluate the performance of our approach, we consider three case\nstudies with the aim of retrieving the refractive index of the materials that\nconstitute the biological structures considered. The results obtained show\nthat, in addition to retrieving readable and dimensionally homogeneous\ndispersion models, the expressions found have a physical meaning and their\nalgebraic form is similar to that of the models used to characterize the\ndispersive behavior of transparent dielectrics in the visible region.",
+            "pdf_url": "http://arxiv.org/pdf/2506.01862v1",
+            "published": "2025-06-02 16:51:49+00:00",
+            "updated": "2025-06-02 16:51:49+00:00"
+        },
+        {
+            "title": "A Quantum-Inspired Conceptual Model of Collective Subjective Evaluation via Bloch Sphere Dynamics and Like-Polarization",
+            "authors": "Bumned Soodchomshom",
+            "summary": "We propose a conceptual quantum-inspired model to describe subjective\nevaluation processes such as taste testing or consumer preference\nscoring-through the continuous time evolution of cognitive states represented\non the Bloch sphere. Unlike conventional quantum cognition models that rely on\nprojective measurements and state collapse, our framework treats evaluation as\na weak or generalized measurement, preserving quantum coherence during the act\nof judgment. The mental state of preference is modeled as a coherent\nsuperposition in a two-dimensional Hilbert space, with time evolution governed\nby a stimulus-dependent Hamiltonian H(t), which reflects the sensory or\nmotivational impact of external input. The observed score (e.g., 0 to 10)\ncorresponds to the squared amplitude projected onto the \"like\" basis without\ncollapsing the underlying state. For group-level analysis, we introduce a novel\nmetric called \"like-polarization\", analogous to spin polarization, which\nquantifies the collective orientation of preferences. This model provides a\nphysically motivated alternative to classical evaluation theories, offering\ninsights into the reversibility, context-dependence, and temporal dynamics of\nhuman judgment. It further enables applications in behavioral science,\naffective computing, and the design of human-centered AI systems.",
+            "pdf_url": "http://arxiv.org/pdf/2506.01847v1",
+            "published": "2025-06-02 16:33:00+00:00",
+            "updated": "2025-06-02 16:33:00+00:00"
+        },
+        {
+            "title": "INVARLLM: LLM-assisted Physical Invariant Extraction for Cyber-Physical Systems Anomaly Detection",
+            "authors": "Danial Abshari, Peiran Shi, Chenglong Fu, Meera Sridhar, Xiaojiang Du",
+            "summary": "Cyber-Physical Systems (CPS) are vulnerable to cyber-physical attacks that\nviolate physical laws. While invariant-based anomaly detection is effective,\nexisting methods are limited: data-driven approaches lack semantic context, and\nphysics-based models require extensive manual work. We propose INVARLLM, a\nhybrid framework that uses large language models (LLMs) to extract semantic\ninformation from CPS documentation and generate physical invariants, then\nvalidates these against real system data using a PCMCI+-inspired K-means\nmethod. This approach combines LLM semantic understanding with empirical\nvalidation to ensure both interpretability and reliability. We evaluate\nINVARLLM on SWaT and WADI datasets, achieving 100% precision in anomaly\ndetection with no false alarms, outperforming all existing methods. Our results\ndemonstrate that integrating LLM-derived semantics with statistical validation\nprovides a scalable and dependable solution for CPS security.",
+            "pdf_url": "http://arxiv.org/pdf/2411.10918v2",
+            "published": "2024-11-17 00:09:04+00:00",
+            "updated": "2025-06-02 16:27:40+00:00"
+        }
+    ],
+    "Diffusion": [
+        {
+            "title": "VARD: Efficient and Dense Fine-Tuning for Diffusion Models with Value-based RL",
+            "authors": "Fengyuan Dai, Zifeng Zhuang, Yufei Huang, Siteng Huang, Bangyan Liao, Donglin Wang, Fajie Yuan",
+            "summary": "Diffusion models have emerged as powerful generative tools across various\ndomains, yet tailoring pre-trained models to exhibit specific desirable\nproperties remains challenging. While reinforcement learning (RL) offers a\npromising solution,current methods struggle to simultaneously achieve stable,\nefficient fine-tuning and support non-differentiable rewards. Furthermore,\ntheir reliance on sparse rewards provides inadequate supervision during\nintermediate steps, often resulting in suboptimal generation quality. To\naddress these limitations, dense and differentiable signals are required\nthroughout the diffusion process. Hence, we propose VAlue-based Reinforced\nDiffusion (VARD): a novel approach that first learns a value function\npredicting expection of rewards from intermediate states, and subsequently uses\nthis value function with KL regularization to provide dense supervision\nthroughout the generation process. Our method maintains proximity to the\npretrained model while enabling effective and stable training via\nbackpropagation. Experimental results demonstrate that our approach facilitates\nbetter trajectory guidance, improves training efficiency and extends the\napplicability of RL to diffusion models optimized for complex,\nnon-differentiable reward functions.",
+            "pdf_url": "http://arxiv.org/pdf/2505.15791v2",
+            "published": "2025-05-21 17:44:37+00:00",
+            "updated": "2025-06-02 17:53:20+00:00"
+        },
+        {
+            "title": "Image Generation from Contextually-Contradictory Prompts",
+            "authors": "Saar Huberman, Or Patashnik, Omer Dahary, Ron Mokady, Daniel Cohen-Or",
+            "summary": "Text-to-image diffusion models excel at generating high-quality, diverse\nimages from natural language prompts. However, they often fail to produce\nsemantically accurate results when the prompt contains concept combinations\nthat contradict their learned priors. We define this failure mode as contextual\ncontradiction, where one concept implicitly negates another due to entangled\nassociations learned during training. To address this, we propose a stage-aware\nprompt decomposition framework that guides the denoising process using a\nsequence of proxy prompts. Each proxy prompt is constructed to match the\nsemantic content expected to emerge at a specific stage of denoising, while\nensuring contextual coherence. To construct these proxy prompts, we leverage a\nlarge language model (LLM) to analyze the target prompt, identify\ncontradictions, and generate alternative expressions that preserve the original\nintent while resolving contextual conflicts. By aligning prompt information\nwith the denoising progression, our method enables fine-grained semantic\ncontrol and accurate image generation in the presence of contextual\ncontradictions. Experiments across a variety of challenging prompts show\nsubstantial improvements in alignment to the textual prompt.",
+            "pdf_url": "http://arxiv.org/pdf/2506.01929v1",
+            "published": "2025-06-02 17:48:12+00:00",
+            "updated": "2025-06-02 17:48:12+00:00"
+        },
+        {
+            "title": "Esoteric Language Models",
+            "authors": "Subham Sekhar Sahoo, Zhihan Yang, Yash Akhauri, Johnna Liu, Deepansha Singh, Zhoujun Cheng, Zhengzhong Liu, Eric Xing, John Thickstun, Arash Vahdat",
+            "summary": "Diffusion-based language models offer a compelling alternative to\nautoregressive (AR) models by enabling parallel and controllable generation.\nAmong this family of models, Masked Diffusion Models (MDMs) achieve the\nstrongest performance but still underperform AR models in perplexity and lack\nkey inference-time efficiency features--most notably, KV caching. In this work,\nwe introduce Eso-LMs, a new family of models that fuses AR and MDM paradigms,\nenabling smooth interpolation between their perplexities while overcoming their\nrespective limitations. Eso-LMs set a new state of the art on standard language\nmodeling benchmarks. Crucially, we are the **first to introduce KV caching for\nMDMs** while preserving parallel generation, significantly improving inference\nefficiency. Combined with an optimized sampling schedule, our method achieves\nup to **65x** faster inference than standard MDMs and **4x** faster inference\nthan prior semi-autoregressive approaches. We provide the code and model\ncheckpoints on the project page:\n[http://s-sahoo.github.io/Eso-LMs](http://s-sahoo.github.io/Eso-LMs)",
+            "pdf_url": "http://arxiv.org/pdf/2506.01928v1",
+            "published": "2025-06-02 17:47:27+00:00",
+            "updated": "2025-06-02 17:47:27+00:00"
+        },
+        {
+            "title": "TaxaDiffusion: Progressively Trained Diffusion Model for Fine-Grained Species Generation",
+            "authors": "Amin Karimi Monsefi, Mridul Khurana, Rajiv Ramnath, Anuj Karpatne, Wei-Lun Chao, Cheng Zhang",
+            "summary": "We propose TaxaDiffusion, a taxonomy-informed training framework for\ndiffusion models to generate fine-grained animal images with high morphological\nand identity accuracy. Unlike standard approaches that treat each species as an\nindependent category, TaxaDiffusion incorporates domain knowledge that many\nspecies exhibit strong visual similarities, with distinctions often residing in\nsubtle variations of shape, pattern, and color. To exploit these relationships,\nTaxaDiffusion progressively trains conditioned diffusion models across\ndifferent taxonomic levels -- starting from broad classifications such as Class\nand Order, refining through Family and Genus, and ultimately distinguishing at\nthe Species level. This hierarchical learning strategy first captures\ncoarse-grained morphological traits shared by species with common ancestors,\nfacilitating knowledge transfer before refining fine-grained differences for\nspecies-level distinction. As a result, TaxaDiffusion enables accurate\ngeneration even with limited training samples per species. Extensive\nexperiments on three fine-grained animal datasets demonstrate that outperforms\nexisting approaches, achieving superior fidelity in fine-grained animal image\ngeneration. Project page: https://amink8.github.io/TaxaDiffusion/",
+            "pdf_url": "http://arxiv.org/pdf/2506.01923v1",
+            "published": "2025-06-02 17:43:55+00:00",
+            "updated": "2025-06-02 17:43:55+00:00"
+        },
+        {
+            "title": "Certified Robustness to Clean-Label Poisoning Using Diffusion Denoising",
+            "authors": "Sanghyun Hong, Nicholas Carlini, Alexey Kurakin",
+            "summary": "We present a certified defense to clean-label poisoning attacks under\n$\\ell_2$-norm. These attacks work by injecting a small number of poisoning\nsamples (e.g., 1%) that contain bounded adversarial perturbations into the\ntraining data to induce a targeted misclassification of a test-time input.\nInspired by the adversarial robustness achieved by $randomized$ $smoothing$, we\nshow how an off-the-shelf diffusion denoising model can sanitize the tampered\ntraining data. We extensively test our defense against seven clean-label\npoisoning attacks in both $\\ell_2$ and $\\ell_{\\infty}$-norms and reduce their\nattack success to 0-16% with only a negligible drop in the test accuracy. We\ncompare our defense with existing countermeasures against clean-label\npoisoning, showing that the defense reduces the attack success the most and\noffers the best model utility. Our results highlight the need for future work\non developing stronger clean-label attacks and using our certified yet\npractical defense as a strong baseline to evaluate these attacks.",
+            "pdf_url": "http://arxiv.org/pdf/2403.11981v2",
+            "published": "2024-03-18 17:17:07+00:00",
+            "updated": "2025-06-02 15:19:25+00:00"
+        }
+    ],
+    "Quantitative Finance": [
+        {
+            "title": "Advanced simulation paradigm of human behaviour unveils complex financial systemic projection",
+            "authors": "Cheng Wang, Chuwen Wang, Shirong Zeng, Jianguo Liu, Changjun Jiang",
+            "summary": "The high-order complexity of human behaviour is likely the root cause of\nextreme difficulty in financial market projections. We consider that\nbehavioural simulation can unveil systemic dynamics to support analysis.\nSimulating diverse human groups must account for the behavioural heterogeneity,\nespecially in finance. To address the fidelity of simulated agents, on the\nbasis of agent-based modeling, we propose a new paradigm of behavioural\nsimulation where each agent is supported and driven by a hierarchical knowledge\narchitecture. This architecture, integrating language and professional models,\nimitates behavioural processes in specific scenarios. Evaluated on futures\nmarkets, our simulator achieves a 13.29% deviation in simulating crisis\nscenarios whose price increase rate reaches 285.34%. Under normal conditions,\nour simulator also exhibits lower mean square error in predicting futures price\nof specific commodities. This technique bridges non-quantitative information\nwith diverse market behaviour, offering a promising platform to simulate\ninvestor behaviour and its impact on market dynamics.",
+            "pdf_url": "http://arxiv.org/pdf/2503.20787v2",
+            "published": "2025-02-18 12:40:04+00:00",
+            "updated": "2025-05-31 05:30:25+00:00"
+        }
+    ]
+}
