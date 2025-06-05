@@ -166,6 +166,31 @@ TODO:
 
 
 
+
+## Update on 2025-06-05
+
+### Physics
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-02-28|2025-06-04|Seeded Topology Optimization for Commercial Foundry Integrated Photonics|Jacob M. Hiesener|[2503.00199v3](http://arxiv.org/pdf/2503.00199v3)|
+|2025-06-04|2025-06-04|Entanglement renormalization circuits for $2d$ Gaussian Fermion States|Sing Lam Wong|[2506.04200v1](http://arxiv.org/pdf/2506.04200v1)|
+|2025-01-28|2025-06-04|From Hamilton-Jacobi to Bohm: Why the Wave Function Isn't Just Another Action|Arnaud Amblard|[2501.16989v2](http://arxiv.org/pdf/2501.16989v2)|
+|2025-06-04|2025-06-04|Physics-Constrained Flow Matching: Sampling Generative Models with Hard Constraints|Utkarsh Utkarsh|[2506.04171v1](http://arxiv.org/pdf/2506.04171v1)|
+|2025-05-07|2025-06-04|Is the end of Insight in Sight ?|Jean-Michel Tucny|[2505.04627v2](http://arxiv.org/pdf/2505.04627v2)|
+|2024-05-10|2025-06-04|On computing quantum waves exactly from classical action|Winfried Lohmiller|[2405.06328v9](http://arxiv.org/pdf/2405.06328v9)|
+|2025-06-04|2025-06-04|Plant Bioelectric Early Warning Systems: A Five-Year Investigation into Human-Plant Electromagnetic Communication|Peter A. Gloor|[2506.04132v1](http://arxiv.org/pdf/2506.04132v1)|
+|2025-06-04|2025-06-04|Biological Processes as Exploratory Dynamics|Jane Kondev|[2506.04104v1](http://arxiv.org/pdf/2506.04104v1)|
+|2025-04-23|2025-06-04|Computational Physics in the Advanced Lab: Experiment and Simulation of Thermal Diffusion in Metal Rods|Yash Mohod|[2504.17108v2](http://arxiv.org/pdf/2504.17108v2)|
+|2025-03-07|2025-06-04|Inverting no-hair theorems: How requiring General Relativity solutions restricts scalar-tensor theories|Hajime Kobayashi|[2503.05651v2](http://arxiv.org/pdf/2503.05651v2)|
+
+### Diffusion
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-06-04|2025-06-04|Sounding that Object: Interactive Object-Aware Image to Audio Generation|Tingle Li|[2506.04214v1](http://arxiv.org/pdf/2506.04214v1)|
+|2025-06-04|2025-06-04|A Diffusion-Driven Temporal Super-Resolution and Spatial Consistency Enhancement Framework for 4D MRI imaging|Xuanru Zhou|[2506.04116v1](http://arxiv.org/pdf/2506.04116v1)|
+|2025-06-04|2025-06-04|Solving Inverse Problems via Diffusion-Based Priors: An Approximation-Free Ensemble Sampling Approach|Haoxuan Chen|[2506.03979v1](http://arxiv.org/pdf/2506.03979v1)|
+|2025-06-04|2025-06-04|DiffCAP: Diffusion-based Cumulative Adversarial Purification for Vision Language Models|Jia Fu|[2506.03933v1](http://arxiv.org/pdf/2506.03933v1)|
+|2025-02-25|2025-06-04|VCT: Training Consistency Models with Variational Noise Coupling|Gianluigi Silvestri|[2502.18197v2](http://arxiv.org/pdf/2502.18197v2)|
 ## Update on 2025-06-03
 
 ### Physics
