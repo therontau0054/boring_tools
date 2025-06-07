@@ -167,6 +167,31 @@ TODO:
 
 
 
+
+## Update on 2025-06-07
+
+### Physics
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-06-05|2025-06-05|Direct Numerical Layout Generation for 3D Indoor Scene Synthesis via Spatial Reasoning|Xingjian Ran|[2506.05341v1](http://arxiv.org/pdf/2506.05341v1)|
+|2025-06-05|2025-06-05|Seeing the Invisible: Machine learning-Based QPI Kernel Extraction via Latent Alignment|Yingshuai Ji|[2506.05325v1](http://arxiv.org/pdf/2506.05325v1)|
+|2020-01-27|2025-06-05|On the Unruh effect and the thermofield double state|Gustavo Valdivia-Mera|[2001.09869v6](http://arxiv.org/pdf/2001.09869v6)|
+|2025-06-05|2025-06-05|Phase separation in a mixture of proliferating and motile active matter|Lukas Hupe|[2506.05288v1](http://arxiv.org/pdf/2506.05288v1)|
+|2025-06-05|2025-06-05|Learning long range dependencies through time reversal symmetry breaking|Guillaume Pourcel|[2506.05259v1](http://arxiv.org/pdf/2506.05259v1)|
+|2025-06-05|2025-06-05|Robust Moment Identification for Nonlinear PDEs via a Neural ODE Approach|Shaoxuan Chen|[2506.05245v1](http://arxiv.org/pdf/2506.05245v1)|
+|2025-06-05|2025-06-05|How to Train Your Dragon: Quantum Neural Networks|Hao Zhang|[2506.05244v1](http://arxiv.org/pdf/2506.05244v1)|
+|2025-02-02|2025-06-05|Blink of an eye: a simple theory for feature localization in generative models|Marvin Li|[2502.00921v2](http://arxiv.org/pdf/2502.00921v2)|
+|2025-03-19|2025-06-05|Separation of variables for higher rank integrable models: review of recent progress|Fedor Levkovich-Maslyuk|[2503.15398v2](http://arxiv.org/pdf/2503.15398v2)|
+|2025-04-12|2025-06-05|Black holes with electroweak hair -- the detailed derivation|Romain Gervalle|[2504.09304v2](http://arxiv.org/pdf/2504.09304v2)|
+
+### Diffusion
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-06-05|2025-06-05|Exploring Diffusion Transformer Designs via Grafting|Keshigeyan Chandrasegaran|[2506.05340v1](http://arxiv.org/pdf/2506.05340v1)|
+|2025-06-05|2025-06-05|Learning normalized image densities via dual score matching|Florentin Guth|[2506.05310v1](http://arxiv.org/pdf/2506.05310v1)|
+|2025-06-05|2025-06-05|A Smooth Sea Never Made a Skilled $\texttt{SAILOR}$: Robust Imitation via Learning to Search|Arnav Kumar Jain|[2506.05294v1](http://arxiv.org/pdf/2506.05294v1)|
+|2025-06-05|2025-06-05|Stable Vision Concept Transformers for Medical Diagnosis|Lijie Hu|[2506.05286v1](http://arxiv.org/pdf/2506.05286v1)|
+|2025-06-05|2025-06-05|How to Unlock Time Series Editing? Diffusion-Driven Approach with Multi-Grained Control|Hao Yu|[2506.05276v1](http://arxiv.org/pdf/2506.05276v1)|
 ## Update on 2025-06-05
 
 ### Physics
