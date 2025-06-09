@@ -168,6 +168,31 @@ TODO:
 
 
 
+
+## Update on 2025-06-09
+
+### Physics
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-06-06|2025-06-06|Accurately simulating core-collapse self-interacting dark matter halos|Moritz S. Fischer|[2506.06269v1](http://arxiv.org/pdf/2506.06269v1)|
+|2025-06-06|2025-06-06|Modified Marrone-Treanor dissociation model: formulation and verification for diatom/atom mixtures|Ross S. Chaudhry|[2506.06236v1](http://arxiv.org/pdf/2506.06236v1)|
+|2025-06-06|2025-06-06|Can Theoretical Physics Research Benefit from Language Agents?|Sirui Lu|[2506.06214v1](http://arxiv.org/pdf/2506.06214v1)|
+|2025-04-07|2025-06-06|How to build transfer matrices, one wave at a time|Joaquin Garcia-Suarez|[2504.04822v3](http://arxiv.org/pdf/2504.04822v3)|
+|2025-06-06|2025-06-06|Beyond the Projection Postulate and Back: Quantum Theories with Generalised State-Update Rules|Vincenzo Fiorentino|[2506.06207v1](http://arxiv.org/pdf/2506.06207v1)|
+|2023-07-09|2025-06-06|Inconsistency with De Sitter Spacetime in a New Approach to Gravitational Particle Production|Mark P. Hertzberg|[2307.05243v2](http://arxiv.org/pdf/2307.05243v2)|
+|2025-06-06|2025-06-06|Physics-Informed Neural Networks for Control of Single-Phase Flow Systems Governed by Partial Differential Equations|Luis Kin Miyatake|[2506.06188v1](http://arxiv.org/pdf/2506.06188v1)|
+|2025-06-06|2025-06-06|Taylor Series Kinematics|Craig W. Looney|[2506.06170v1](http://arxiv.org/pdf/2506.06170v1)|
+|2023-06-30|2025-06-06|Effect of interparticle fields and radiation reaction on beam dynamics|Michael J. Quin|[2306.17832v4](http://arxiv.org/pdf/2306.17832v4)|
+|2025-06-06|2025-06-06|ENMA: Tokenwise Autoregression for Generative Neural PDE Operators|Armand Kassaï Koupaï|[2506.06158v1](http://arxiv.org/pdf/2506.06158v1)|
+
+### Diffusion
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2024-12-09|2025-06-06|Normalizing Flows are Capable Generative Models|Shuangfei Zhai|[2412.06329v3](http://arxiv.org/pdf/2412.06329v3)|
+|2025-06-06|2025-06-06|GenIR: Generative Visual Feedback for Mental Image Retrieval|Diji Yang|[2506.06220v1](http://arxiv.org/pdf/2506.06220v1)|
+|2025-06-06|2025-06-06|Antithetic Noise in Diffusion Models|Jing Jia|[2506.06185v1](http://arxiv.org/pdf/2506.06185v1)|
+|2025-02-03|2025-06-06|Efficient Diffusion Models: A Survey|Hui Shen|[2502.06805v3](http://arxiv.org/pdf/2502.06805v3)|
+|2024-04-22|2025-06-06|Multidimensional Adaptive Coefficient for Inference Trajectory Optimization in Flow and Diffusion|Dohoon Lee|[2404.14161v3](http://arxiv.org/pdf/2404.14161v3)|
 ## Update on 2025-06-07
 
 ### Physics

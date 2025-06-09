@@ -1,0 +1,126 @@
+{
+    "Physics": [
+        {
+            "title": "Accurately simulating core-collapse self-interacting dark matter halos",
+            "authors": "Moritz S. Fischer, Hai-Bo Yu, Klaus Dolag",
+            "summary": "The properties of satellite halos provide a promising probe for dark matter\n(DM) physics. Observations motivate current efforts to explain surprisingly\ncompact DM halos. If DM is not collisionless but has strong self-interactions,\nhalos can undergo gravothermal collapse, leading to higher densities in the\ncentral region of the halo. However, it is challenging to model this collapse\nphase from first principles. To improve on this, we seek to better understand\nnumerical challenges and convergence properties of self-interacting dark matter\n(SIDM) N-body simulations in the collapse phase. Especially we aim for a better\nunderstanding of the evolution of satellite halos. To do so, we run SIDM N-body\nsimulations of a low mass halo in isolation and within an external\ngravitational potential. The simulation setup is motivated by the perturber of\nthe stellar stream GD-1. We find that the halo evolution is very sensitive to\nenergy conservation errors, and a too large SIDM kernel size can artificially\nspeed up the collapse. Moreover, we demonstrate that the King model can\ndescribe the density profile at small radii for the late stages that we have\nsimulated. Furthermore, for our highest-resolved simulation (N = 5x10^7) we\nmake the data public. It can serve as a benchmark. Overall, we find that the\ncurrent numerical methods do not suffer from convergence problems in the late\ncollapse phase and provide guidance on how to choose numerical parameters, e.g.\nthat the energy conservation error is better kept well below 1%. This allows to\nrun simulations of halos becoming concentrated enough to explain observations\nof GD-1 like stellar streams or strong gravitational lensing systems.",
+            "pdf_url": "http://arxiv.org/pdf/2506.06269v1",
+            "published": "2025-06-06 17:51:26+00:00",
+            "updated": "2025-06-06 17:51:26+00:00"
+        },
+        {
+            "title": "Modified Marrone-Treanor dissociation model: formulation and verification for diatom/atom mixtures",
+            "authors": "Ross S. Chaudhry, Erik Torres, Thomas E. Schwartzentruber, Graham V. Candler",
+            "summary": "We present a modified Marrone-Treanor (MMT) model for dissociation with rate\nparameters derived exclusively from quasiclassical trajectory (QCT)\ncalculations on ab initio potential energy surfaces (PESs). Analysis of the QCT\ndataset for reactant O2 and N2 diatoms sampled from Boltzmann internal energy\ndistributions over a wide (T,Tv)-range indicates that a modified version of the\nclassical Marrone-Treanor two-temperature model captures the most relevant\nphysics of shock-heated dissociating diatomic species very well. We find that\nsimple correction factors account for non-Boltzmann depletion effects observed\nin direct molecular simulations (DMS) employing the same PESs. The\nconcentration-dependent functional form proposed for these correction factors\nensures that depletion effects vanish at chemical equilibrium. Based on\ncomparisons in isothermal and adiabatic heat baths we verify that the resulting\nMMT model accurately reproduces all major features observed in DMS, while\nremaining computationally inexpensive enough for large-scale computational\nfluid dynamics (CFD) simulations.",
+            "pdf_url": "http://arxiv.org/pdf/2506.06236v1",
+            "published": "2025-06-06 16:54:47+00:00",
+            "updated": "2025-06-06 16:54:47+00:00"
+        },
+        {
+            "title": "Can Theoretical Physics Research Benefit from Language Agents?",
+            "authors": "Sirui Lu, Zhijing Jin, Terry Jingchen Zhang, Pavel Kos, J. Ignacio Cirac, Bernhard Sch\u00f6lkopf",
+            "summary": "Large Language Models (LLMs) are rapidly advancing across diverse domains,\nyet their application in theoretical physics research is not yet mature. This\nposition paper argues that LLM agents can potentially help accelerate\ntheoretical, computational, and applied physics when properly integrated with\ndomain knowledge and toolbox. We analyze current LLM capabilities for physics\n-- from mathematical reasoning to code generation -- identifying critical gaps\nin physical intuition, constraint satisfaction, and reliable reasoning. We\nenvision future physics-specialized LLMs that could handle multimodal data,\npropose testable hypotheses, and design experiments. Realizing this vision\nrequires addressing fundamental challenges: ensuring physical consistency, and\ndeveloping robust verification methods. We call for collaborative efforts\nbetween physics and AI communities to help advance scientific discovery in\nphysics.",
+            "pdf_url": "http://arxiv.org/pdf/2506.06214v1",
+            "published": "2025-06-06 16:20:06+00:00",
+            "updated": "2025-06-06 16:20:06+00:00"
+        },
+        {
+            "title": "How to build transfer matrices, one wave at a time",
+            "authors": "Joaquin Garcia-Suarez",
+            "summary": "We show how to build the closed-form expression of transfer matrices for wave\npropagation in layered media. The key is to represent the propagation across\nthe piece-wise constant medium as a superposition of a finite number of paths\n($2^{N-1}$ paths for a medium with $N$ layers), each one of them contributing a\ncertain phase change (corresponding to signed sums of the phase change in each\nindividual layer) and amplitude change (corresponding to the pattern of\ntransmission and/or reflection associated to each path). The outlined technique\nis combinatorial in nature: it begins with the linear governing equations in\nfrequency domain, whose fundamental solution is known, then it enumerates the\nfinite number of paths across the overall system, then computes their\nassociated phase and amplitude change, and finally adds all the possible paths\nto find the final result. Beyond providing physical insight, this\n''path-by-path'' construction can also circumvent the need for transfer matrix\nnumerical multiplication in many practical applications, potentially enabling\nsubstantial computational savings.",
+            "pdf_url": "http://arxiv.org/pdf/2504.04822v3",
+            "published": "2025-04-07 08:22:38+00:00",
+            "updated": "2025-06-06 16:15:09+00:00"
+        },
+        {
+            "title": "Beyond the Projection Postulate and Back: Quantum Theories with Generalised State-Update Rules",
+            "authors": "Vincenzo Fiorentino, Stefan Weigert",
+            "summary": "Are there consistent and physically reasonable alternatives to the projection\npostulate? Does it have unique properties compared to acceptable alternatives?\nWe answer these questions by systematically investigating hypothetical\nstate-update rules for quantum systems that nature could have chosen over the\nL\\\"uders rule. Among other basic properties, any prospective rule must define\nunique post-measurement states and not allow for superluminal signalling.\nParticular attention will be paid to consistently defining post-measurement\nstates when performing local measurements in composite systems. Explicit\nexamples of valid unconventional update rules are presented, each of them\nresulting in a distinct, well-defined foil of quantum theory. This framework of\nstate-update rules allows us to identify operational properties that\ndistinguish the projective update rule from all others and to put earlier\nderivations of the projection postulate into perspective.",
+            "pdf_url": "http://arxiv.org/pdf/2506.06207v1",
+            "published": "2025-06-06 16:12:59+00:00",
+            "updated": "2025-06-06 16:12:59+00:00"
+        },
+        {
+            "title": "Inconsistency with De Sitter Spacetime in a New Approach to Gravitational Particle Production",
+            "authors": "Mark P. Hertzberg, Abraham Loeb",
+            "summary": "We study the recent Physical Review Letter [1] which presents a new mechanism\nfor particle production and black hole evaporation through a spatially\ndependent temperature. This new temperature is comparable to the Hawking result\nnear the black hole, but is very small far away, and therefore could be a small\ncorrection. Here we apply the proposed reasoning to the case of de Sitter\nspace, finding that it over predicts the de Sitter temperature of a minimally\ncoupled scalar by factor of $\\approx 4.3$ and over predicts the particle\nproduction rate by a factor of $\\approx 52$. For non-minimally coupled scalars,\nit has other various problems; it predicts a negative particle production for\nconformal, or nearly conformal, coupled scalars; it predicts unsuppressed\nproductions of heavy scalars. This all demonstrates an inconsistency in the\nproposed formalism.",
+            "pdf_url": "http://arxiv.org/pdf/2307.05243v2",
+            "published": "2023-07-09 18:40:55+00:00",
+            "updated": "2025-06-06 16:11:01+00:00"
+        },
+        {
+            "title": "Physics-Informed Neural Networks for Control of Single-Phase Flow Systems Governed by Partial Differential Equations",
+            "authors": "Luis Kin Miyatake, Eduardo Camponogara, Eric Aislan Antonelo, Alexey Pavlov",
+            "summary": "The modeling and control of single-phase flow systems governed by Partial\nDifferential Equations (PDEs) present challenges, especially under transient\nconditions. In this work, we extend the Physics-Informed Neural Nets for\nControl (PINC) framework, originally proposed to modeling and control of\nOrdinary Differential Equations (ODE) without the need of any labeled data, to\nthe PDE case, particularly to single-phase incompressible and compressible\nflows, integrating neural networks with physical conservation laws. The PINC\nmodel for PDEs is structured into two stages: a steady-state network, which\nlearns equilibrium solutions for a wide range of control inputs, and a\ntransient network, which captures dynamic responses under time-varying boundary\nconditions. We propose a simplifying assumption that reduces the dimensionality\nof the spatial coordinate regarding the initial condition, allowing the\nefficient training of the PINC network. This simplification enables the\nderivation of optimal control policies using Model Predictive Control (MPC). We\nvalidate our approach through numerical experiments, demonstrating that the\nPINC model, which is trained exclusively using physical laws, i.e., without\nlabeled data, accurately represents flow dynamics and enables real-time control\napplications. The results highlight the PINC's capability to efficiently\napproximate PDE solutions without requiring iterative solvers, making it a\npromising alternative for fluid flow monitoring and optimization in engineering\napplications.",
+            "pdf_url": "http://arxiv.org/pdf/2506.06188v1",
+            "published": "2025-06-06 15:50:19+00:00",
+            "updated": "2025-06-06 15:50:19+00:00"
+        },
+        {
+            "title": "Taylor Series Kinematics",
+            "authors": "Craig W. Looney",
+            "summary": "Has it ever occurred to you that the kinematic equations for uniformly\naccelerated one-dimensional motion are Taylor series expansions? If not, you\nare in good company. I didn't know this myself until a colleague pointed it out\nto me many years ago, and I was stunned to learn something new and wonderful\nabout something so familiar. Accordingly, my first objective in this paper is\nto clearly present the not-widely-known Taylor series derivations of these\nbasic equations to a population primed to deeply appreciate them: people, like\nme, who teach introductory physics. Following this, I use the Taylor series\napproach to derive a generalized one-dimensional expression for x(t) that\nincludes the jerk and further kinematic time derivatives, which have importance\nin many real-world applications and in which there has been renewed pedagogical\ninterest. I also outline teaching suggestions and provide student-accessible\nvideo derivations to support instructors who would like to incorporate Taylor\nseries kinematics into their teaching, while identifying sequencing-related\nchallenges. I close with the observation that the traditional second calculus\ncourse, which is largely free of sequencing issues, could be a great place to\nincorporate and leverage Taylor series kinematics, and I briefly outline an\nearly-stage pilot collaboration to explore this possibility.",
+            "pdf_url": "http://arxiv.org/pdf/2506.06170v1",
+            "published": "2025-06-06 15:33:55+00:00",
+            "updated": "2025-06-06 15:33:55+00:00"
+        },
+        {
+            "title": "Effect of interparticle fields and radiation reaction on beam dynamics",
+            "authors": "Michael J. Quin, Antonino Di Piazza, Christoph H. Keitel, Matteo Tamburini",
+            "summary": "The dynamics of relativistic particles in an intense electromagnetic field\ncan be described by the Landau-Lifshitz (LL) equation, where the adiation\nreaction (RR) is accounted for via a self-force, and interparticle fields are\noften neglected as an approximation. However, the inclusion of interparticle\nfields is necessary to ensure energy-momentum conservation, particularly during\ncoherent emission. Here we present (i) an analytical proof showing that the\nenergy-momentum conservation law of the Hamilton-Rohrlich-Dirac action, which\nis divergence free and describes a generic system of interacting charges,\nrespects causality and provides physically sensible results; (ii) a simple\ngeneralization of the LL equation for many particles evaluated as a function of\nthe total field, i.e., the sum of the external and interparticle fields. By\nperforming first-principles numerical simulations of a neutral, relativistic\nbunch of electrons and positrons ($e^-/e^+$) colliding with a laser pulse, this\ntheory is shown to satisfy energy-momentum conservation when interparticle\nfields and RR are simultaneously taken into account; and (iii) the combined\neffect of interparticle fields and RR primarily affects the tail of the\nparticle energy distribution. Additionally, our first-principles simulations\nshow that the effect of interparticle fields on beam energy loss becomes\nsmaller when most of the radiated energy is incoherent.",
+            "pdf_url": "http://arxiv.org/pdf/2306.17832v4",
+            "published": "2023-06-30 17:53:26+00:00",
+            "updated": "2025-06-06 15:31:35+00:00"
+        },
+        {
+            "title": "ENMA: Tokenwise Autoregression for Generative Neural PDE Operators",
+            "authors": "Armand Kassa\u00ef Koupa\u00ef, Lise Le Boudec, Louis Serrano, Patrick Gallinari",
+            "summary": "Solving time-dependent parametric partial differential equations (PDEs)\nremains a fundamental challenge for neural solvers, particularly when\ngeneralizing across a wide range of physical parameters and dynamics. When data\nis uncertain or incomplete-as is often the case-a natural approach is to turn\nto generative models. We introduce ENMA, a generative neural operator designed\nto model spatio-temporal dynamics arising from physical phenomena. ENMA\npredicts future dynamics in a compressed latent space using a generative masked\nautoregressive transformer trained with flow matching loss, enabling tokenwise\ngeneration. Irregularly sampled spatial observations are encoded into uniform\nlatent representations via attention mechanisms and further compressed through\na spatio-temporal convolutional encoder. This allows ENMA to perform in-context\nlearning at inference time by conditioning on either past states of the target\ntrajectory or auxiliary context trajectories with similar dynamics. The result\nis a robust and adaptable framework that generalizes to new PDE regimes and\nsupports one-shot surrogate modeling of time-dependent parametric PDEs.",
+            "pdf_url": "http://arxiv.org/pdf/2506.06158v1",
+            "published": "2025-06-06 15:25:14+00:00",
+            "updated": "2025-06-06 15:25:14+00:00"
+        }
+    ],
+    "Diffusion": [
+        {
+            "title": "Normalizing Flows are Capable Generative Models",
+            "authors": "Shuangfei Zhai, Ruixiang Zhang, Preetum Nakkiran, David Berthelot, Jiatao Gu, Huangjie Zheng, Tianrong Chen, Miguel Angel Bautista, Navdeep Jaitly, Josh Susskind",
+            "summary": "Normalizing Flows (NFs) are likelihood-based models for continuous inputs.\nThey have demonstrated promising results on both density estimation and\ngenerative modeling tasks, but have received relatively little attention in\nrecent years. In this work, we demonstrate that NFs are more powerful than\npreviously believed. We present TarFlow: a simple and scalable architecture\nthat enables highly performant NF models. TarFlow can be thought of as a\nTransformer-based variant of Masked Autoregressive Flows (MAFs): it consists of\na stack of autoregressive Transformer blocks on image patches, alternating the\nautoregression direction between layers. TarFlow is straightforward to train\nend-to-end, and capable of directly modeling and generating pixels. We also\npropose three key techniques to improve sample quality: Gaussian noise\naugmentation during training, a post training denoising procedure, and an\neffective guidance method for both class-conditional and unconditional\nsettings. Putting these together, TarFlow sets new state-of-the-art results on\nlikelihood estimation for images, beating the previous best methods by a large\nmargin, and generates samples with quality and diversity comparable to\ndiffusion models, for the first time with a stand-alone NF model. We make our\ncode available at https://github.com/apple/ml-tarflow.",
+            "pdf_url": "http://arxiv.org/pdf/2412.06329v3",
+            "published": "2024-12-09 09:28:06+00:00",
+            "updated": "2025-06-06 17:45:35+00:00"
+        },
+        {
+            "title": "GenIR: Generative Visual Feedback for Mental Image Retrieval",
+            "authors": "Diji Yang, Minghao Liu, Chung-Hsiang Lo, Yi Zhang, James Davis",
+            "summary": "Vision-language models (VLMs) have shown strong performance on text-to-image\nretrieval benchmarks. However, bridging this success to real-world applications\nremains a challenge. In practice, human search behavior is rarely a one-shot\naction. Instead, it is often a multi-round process guided by clues in mind,\nthat is, a mental image ranging from vague recollections to vivid mental\nrepresentations of the target image. Motivated by this gap, we study the task\nof Mental Image Retrieval (MIR), which targets the realistic yet underexplored\nsetting where users refine their search for a mentally envisioned image through\nmulti-round interactions with an image search engine. Central to successful\ninteractive retrieval is the capability of machines to provide users with\nclear, actionable feedback; however, existing methods rely on indirect or\nabstract verbal feedback, which can be ambiguous, misleading, or ineffective\nfor users to refine the query. To overcome this, we propose GenIR, a generative\nmulti-round retrieval paradigm leveraging diffusion-based image generation to\nexplicitly reify the AI system's understanding at each round. These synthetic\nvisual representations provide clear, interpretable feedback, enabling users to\nrefine their queries intuitively and effectively. We further introduce a fully\nautomated pipeline to generate a high-quality multi-round MIR dataset.\nExperimental results demonstrate that GenIR significantly outperforms existing\ninteractive methods in the MIR scenario. This work establishes a new task with\na dataset and an effective generative retrieval method, providing a foundation\nfor future research in this direction.",
+            "pdf_url": "http://arxiv.org/pdf/2506.06220v1",
+            "published": "2025-06-06 16:28:03+00:00",
+            "updated": "2025-06-06 16:28:03+00:00"
+        },
+        {
+            "title": "Antithetic Noise in Diffusion Models",
+            "authors": "Jing Jia, Sifan Liu, Bowen Song, Wei Yuan, Liyue Shen, Guanyang Wang",
+            "summary": "We initiate a systematic study of antithetic initial noise in diffusion\nmodels. Across unconditional models trained on diverse datasets,\ntext-conditioned latent-diffusion models, and diffusion-posterior samplers, we\nfind that pairing each initial noise with its negation consistently yields\nstrongly negatively correlated samples. To explain this phenomenon, we combine\nexperiments and theoretical analysis, leading to a symmetry conjecture that the\nlearned score function is approximately affine antisymmetric (odd symmetry up\nto a constant shift), and provide evidence supporting it. Leveraging this\nnegative correlation, we enable two applications: (1) enhancing image diversity\nin models like Stable Diffusion without quality loss, and (2) sharpening\nuncertainty quantification (e.g., up to 90% narrower confidence intervals) when\nestimating downstream statistics. Building on these gains, we extend the\ntwo-point pairing to a randomized quasi-Monte Carlo estimator, which further\nimproves estimation accuracy. Our framework is training-free, model-agnostic,\nand adds no runtime overhead.",
+            "pdf_url": "http://arxiv.org/pdf/2506.06185v1",
+            "published": "2025-06-06 15:46:26+00:00",
+            "updated": "2025-06-06 15:46:26+00:00"
+        },
+        {
+            "title": "Efficient Diffusion Models: A Survey",
+            "authors": "Hui Shen, Jingxuan Zhang, Boning Xiong, Rui Hu, Shoufa Chen, Zhongwei Wan, Xin Wang, Yu Zhang, Zixuan Gong, Guangyin Bao, Chaofan Tao, Yongfeng Huang, Ye Yuan, Mi Zhang",
+            "summary": "Diffusion models have emerged as powerful generative models capable of\nproducing high-quality contents such as images, videos, and audio,\ndemonstrating their potential to revolutionize digital content creation.\nHowever, these capabilities come at the cost of their significant computational\nresources and lengthy generation time, underscoring the critical need to\ndevelop efficient techniques for practical deployment. In this survey, we\nprovide a systematic and comprehensive review of research on efficient\ndiffusion models. We organize the literature in a taxonomy consisting of three\nmain categories, covering distinct yet interconnected efficient diffusion model\ntopics from algorithm-level, system-level, and framework perspective,\nrespectively. We have also created a GitHub repository where we organize the\npapers featured in this survey at\nhttps://github.com/AIoT-MLSys-Lab/Efficient-Diffusion-Model-Survey. We hope our\nsurvey can serve as a valuable resource to help researchers and practitioners\ngain a systematic understanding of efficient diffusion model research and\ninspire them to contribute to this important and exciting field.",
+            "pdf_url": "http://arxiv.org/pdf/2502.06805v3",
+            "published": "2025-02-03 10:15:08+00:00",
+            "updated": "2025-06-06 14:57:09+00:00"
+        },
+        {
+            "title": "Multidimensional Adaptive Coefficient for Inference Trajectory Optimization in Flow and Diffusion",
+            "authors": "Dohoon Lee, Jaehyun Park, Hyunwoo J. Kim, Kyogu Lee",
+            "summary": "Flow and diffusion models have demonstrated strong performance and training\nstability across various tasks but lack two critical properties of\nsimulation-based methods: freedom of dimensionality and adaptability to\ndifferent inference trajectories. To address this limitation, we propose the\nMultidimensional Adaptive Coefficient (MAC), a plug-in module for flow and\ndiffusion models that extends conventional unidimensional coefficients to\nmultidimensional ones and enables inference trajectory-wise adaptation. MAC is\ntrained via simulation-based feedback through adversarial refinement. Empirical\nresults across diverse frameworks and datasets demonstrate that MAC enhances\ngenerative quality with high training efficiency. Consequently, our work offers\na new perspective on inference trajectory optimality, encouraging future\nresearch to move beyond vector field design and to leverage training-efficient,\nsimulation-based optimization.",
+            "pdf_url": "http://arxiv.org/pdf/2404.14161v3",
+            "published": "2024-04-22 13:20:01+00:00",
+            "updated": "2025-06-06 13:50:49+00:00"
+        }
+    ]
+}
