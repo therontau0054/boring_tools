@@ -169,6 +169,38 @@ TODO:
 
 
 
+
+## Update on 2025-06-11
+
+### Physics
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-06-10|2025-06-10|Fault-Tolerant Stabilizer Measurements in Surface Codes with Three-Qubit Gates|Josias Old|[2506.09029v1](http://arxiv.org/pdf/2506.09029v1)|
+|2025-02-25|2025-06-10|Scalable Equilibrium Sampling with Sequential Boltzmann Generators|Charlie B. Tan|[2502.18462v2](http://arxiv.org/pdf/2502.18462v2)|
+|2025-06-10|2025-06-10|Deconstructing resonant Higgs pair production at the LHC: effects of coloured and neutral scalars in the NMSSM test case|Stefano Moretti|[2506.09006v1](http://arxiv.org/pdf/2506.09006v1)|
+|2025-02-06|2025-06-10|Calibrated Physics-Informed Uncertainty Quantification|Vignesh Gopakumar|[2502.04406v2](http://arxiv.org/pdf/2502.04406v2)|
+|2025-06-10|2025-06-10|One loop corrections to the thermodynamics of near-extremal Kerr-(A)dS black holes from Heun equation|Paolo Arnaudo|[2506.08959v1](http://arxiv.org/pdf/2506.08959v1)|
+|2025-06-07|2025-06-10|A fidelity-driven approach to quantum circuit partitioning via weighted hypergraphs for noise-resilient computation|Awad Wehbe|[2506.06867v2](http://arxiv.org/pdf/2506.06867v2)|
+|2024-11-05|2025-06-10|Search for a Hidden Sector Scalar from Kaon Decay in the Di-Muon Final State at ICARUS|ICARUS Collaboration|[2411.02727v3](http://arxiv.org/pdf/2411.02727v3)|
+|2025-02-20|2025-06-10|Implicit Neural Representations for Chemical Reaction Paths|Kalyan Ramakrishnan|[2502.15843v2](http://arxiv.org/pdf/2502.15843v2)|
+|2025-04-01|2025-06-10|Provably Accurate Adaptive Sampling for Collocation Points in Physics-informed Neural Networks|Antoine Caradot|[2504.00910v2](http://arxiv.org/pdf/2504.00910v2)|
+|2025-06-10|2025-06-10|Experimental evidence of the topological obstruction in twisted bilayer graphene|F. Mesple|[2506.08913v1](http://arxiv.org/pdf/2506.08913v1)|
+
+### Diffusion
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-06-10|2025-06-10|Diffuse and Disperse: Image Generation with Representation Regularization|Runqian Wang|[2506.09027v1](http://arxiv.org/pdf/2506.09027v1)|
+|2024-11-05|2025-06-10|DiffLM: Controllable Synthetic Data Generation via Diffusion Language Models|Ying Zhou|[2411.03250v2](http://arxiv.org/pdf/2411.03250v2)|
+|2025-02-04|2025-06-10|DIME:Diffusion-Based Maximum Entropy Reinforcement Learning|Onur Celik|[2502.02316v2](http://arxiv.org/pdf/2502.02316v2)|
+|2025-06-10|2025-06-10|IMAGIC-500: IMputation benchmark on A Generative Imaginary Country (500k samples)|Siyi Sun|[2506.08844v1](http://arxiv.org/pdf/2506.08844v1)|
+|2024-12-23|2025-06-10|Improving the Noise Estimation of Latent Neural Stochastic Differential Equations|Linus Heck|[2412.17499v2](http://arxiv.org/pdf/2412.17499v2)|
+
+### Quantitative Finance
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-06-04|2025-06-09|High-Dimensional Learning in Finance|Hasan Fallahgoul|[2506.03780v2](http://arxiv.org/pdf/2506.03780v2)|
+|2025-06-08|2025-06-08|Uncertainty-Aware Strategies: A Model-Agnostic Framework for Robust Financial Optimization through Subsampling|Hans Buehler|[2506.07299v1](http://arxiv.org/pdf/2506.07299v1)|
+|2025-06-07|2025-06-07|Explaining Risks: Axiomatic Risk Attributions for Financial Models|Dangxing Chen|[2506.06653v1](http://arxiv.org/pdf/2506.06653v1)|
 ## Update on 2025-06-09
 
 ### Physics
