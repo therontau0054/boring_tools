@@ -170,6 +170,31 @@ TODO:
 
 
 
+
+## Update on 2025-06-13
+
+### Physics
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-06-12|2025-06-12|Principled Approaches for Extending Neural Architectures to Function Spaces for Operator Learning|Julius Berner|[2506.10973v1](http://arxiv.org/pdf/2506.10973v1)|
+|2025-06-12|2025-06-12|Large-scale quantization of trace I: Finite propagation operators|Matthias Ludewig|[2506.10957v1](http://arxiv.org/pdf/2506.10957v1)|
+|2025-06-12|2025-06-12|Distillation of atomistic foundation models across architectures and chemical domains|John L. A. Gardner|[2506.10956v1](http://arxiv.org/pdf/2506.10956v1)|
+|2025-05-20|2025-06-12|Orientation Reversal and the Chern-Simons Natural Boundary|Griffen Adams|[2505.14441v2](http://arxiv.org/pdf/2505.14441v2)|
+|2025-06-12|2025-06-12|Physics-informed Machine Learning Analysis for Nanoscale Grain Mapping by Synchrotron Laue Microdiffraction|Ka Hung Chan|[2506.10937v1](http://arxiv.org/pdf/2506.10937v1)|
+|2025-06-08|2025-06-12|Investigating the Relationship Between Physical Activity and Tailored Behavior Change Messaging: Connecting Contextual Bandit with Large Language Models|Haochen Song|[2506.07275v2](http://arxiv.org/pdf/2506.07275v2)|
+|2025-06-12|2025-06-12|Data-Driven Prediction of Dynamic Interactions Between Robot Appendage and Granular Material|Guanjin Wang|[2506.10875v1](http://arxiv.org/pdf/2506.10875v1)|
+|2024-03-14|2025-06-12|Supernovae Time Profiles as a Probe of New Physics at Neutrino Telescopes|Jeff Lazar|[2403.09781v2](http://arxiv.org/pdf/2403.09781v2)|
+|2025-06-12|2025-06-12|OmniFluids: Unified Physics Pre-trained Modeling of Fluid Dynamics|Rui Zhang|[2506.10862v1](http://arxiv.org/pdf/2506.10862v1)|
+|2025-06-12|2025-06-12|Photonic chiral bulk transports manipulated by boundary freedom in three-dimensional meta-crystals|Yingxin Qi|[2506.10861v1](http://arxiv.org/pdf/2506.10861v1)|
+
+### Diffusion
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-06-12|2025-06-12|Rethinking Losses for Diffusion Bridge Samplers|Sebastian Sanokowski|[2506.10982v1](http://arxiv.org/pdf/2506.10982v1)|
+|2025-06-12|2025-06-12|Fine-Grained Perturbation Guidance via Attention Head Selection|Donghoon Ahn|[2506.10978v1](http://arxiv.org/pdf/2506.10978v1)|
+|2025-06-12|2025-06-12|What Exactly Does Guidance Do in Masked Discrete Diffusion Models|He Ye|[2506.10971v1](http://arxiv.org/pdf/2506.10971v1)|
+|2025-06-12|2025-06-12|SpectralAR: Spectral Autoregressive Visual Generation|Yuanhui Huang|[2506.10962v1](http://arxiv.org/pdf/2506.10962v1)|
+|2025-06-12|2025-06-12|ReGuidance: A Simple Diffusion Wrapper for Boosting Sample Quality on Hard Inverse Problems|Aayush Karan|[2506.10955v1](http://arxiv.org/pdf/2506.10955v1)|
 ## Update on 2025-06-11
 
 ### Physics
