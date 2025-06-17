@@ -171,6 +171,31 @@ TODO:
 
 
 
+
+## Update on 2025-06-17
+
+### Physics
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-06-16|2025-06-16|Compact representation and long-time extrapolation of real-time data for quantum systems|Andre Erpenbeck|[2506.13760v1](http://arxiv.org/pdf/2506.13760v1)|
+|2025-03-06|2025-06-16|Revealing Quantum Geometry in Nonlinear Quantum Materials|Yiyang Jiang|[2503.04943v2](http://arxiv.org/pdf/2503.04943v2)|
+|2025-06-16|2025-06-16|Leveraging erasure errors in logical qubits with metastable $^{171}$Yb atoms|Bichen Zhang|[2506.13724v1](http://arxiv.org/pdf/2506.13724v1)|
+|2025-06-16|2025-06-16|Contrastive Self-Supervised Learning As Neural Manifold Packing|Guanming Zhang|[2506.13717v1](http://arxiv.org/pdf/2506.13717v1)|
+|2025-06-16|2025-06-16|Shaping Bulk Fermi Arcs in the Momentum Space of Photonic Crystal Slabs|Luigi Frau|[2506.13698v1](http://arxiv.org/pdf/2506.13698v1)|
+|2025-06-16|2025-06-16|ROSA: Harnessing Robot States for Vision-Language and Action Alignment|Yuqing Wen|[2506.13679v1](http://arxiv.org/pdf/2506.13679v1)|
+|2022-09-29|2025-06-16|Weather Forecast for Vacuum Fluctuations in QED|Maximilian Koegler|[2209.15020v3](http://arxiv.org/pdf/2209.15020v3)|
+|2025-06-16|2025-06-16|A Gravity-informed Spatiotemporal Transformer for Human Activity Intensity Prediction|Yi Wang|[2506.13678v1](http://arxiv.org/pdf/2506.13678v1)|
+|2025-03-10|2025-06-16|Kerr-Newman black hole in a Melvin-swirling universe|Andrea Di Pinto|[2503.07780v2](http://arxiv.org/pdf/2503.07780v2)|
+|2024-12-17|2025-06-16|Toroidal Moments in Confined Nanomagnets and their Impact on Magnonics|Felipe Brevis|[2412.13309v2](http://arxiv.org/pdf/2412.13309v2)|
+
+### Diffusion
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-06-16|2025-06-16|Diagnosing and Improving Diffusion Models by Estimating the Optimal Loss Value|Yixian Xu|[2506.13763v1](http://arxiv.org/pdf/2506.13763v1)|
+|2025-06-16|2025-06-16|Discrete Diffusion in Large Language and Multimodal Models: A Survey|Runpeng Yu|[2506.13759v1](http://arxiv.org/pdf/2506.13759v1)|
+|2025-06-16|2025-06-16|VideoPDE: Unified Generative PDE Solving via Video Inpainting Diffusion Models|Edward Li|[2506.13754v1](http://arxiv.org/pdf/2506.13754v1)|
+|2025-06-16|2025-06-16|Exploiting the Exact Denoising Posterior Score in Training-Free Guidance of Diffusion Models|Gregory Bellchambers|[2506.13614v1](http://arxiv.org/pdf/2506.13614v1)|
+|2025-06-16|2025-06-16|Flexible-length Text Infilling for Discrete Diffusion Models|Andrew Zhang|[2506.13579v1](http://arxiv.org/pdf/2506.13579v1)|
 ## Update on 2025-06-13
 
 ### Physics
