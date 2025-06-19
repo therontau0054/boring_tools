@@ -172,6 +172,31 @@ TODO:
 
 
 
+
+## Update on 2025-06-19
+
+### Physics
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-06-18|2025-06-18|Nabla-R2D3: Effective and Efficient 3D Diffusion Alignment with 2D Rewards|Qingming Liu|[2506.15684v1](http://arxiv.org/pdf/2506.15684v1)|
+|2025-06-18|2025-06-18|Particle-Grid Neural Dynamics for Learning Deformable Object Models from RGB-D Videos|Kaifeng Zhang|[2506.15680v1](http://arxiv.org/pdf/2506.15680v1)|
+|2025-06-18|2025-06-18|Embodied Web Agents: Bridging Physical-Digital Realms for Integrated Agent Intelligence|Yining Hong|[2506.15677v1](http://arxiv.org/pdf/2506.15677v1)|
+|2025-06-18|2025-06-18|Analog Quantum Phase Estimation with Single-Mode Readout|Wei-Chen Lin|[2506.15668v1](http://arxiv.org/pdf/2506.15668v1)|
+|2024-11-21|2025-06-18|Exact solution for a class of quantum models of interacting bosons|Valery Shchesnovich|[2411.14204v4](http://arxiv.org/pdf/2411.14204v4)|
+|2025-06-18|2025-06-18|Fokker-Planck Score Learning: Efficient Free-Energy Estimation under Periodic Boundary Conditions|Daniel Nagel|[2506.15653v1](http://arxiv.org/pdf/2506.15653v1)|
+|2025-06-16|2025-06-18|Embedding physical symmetries into machine-learned reduced plasma physics models via data augmentation|Madox C. McGrae-Menge|[2506.14048v2](http://arxiv.org/pdf/2506.14048v2)|
+|2025-06-18|2025-06-18|Duplication-divergence growing graph models|Dario Borrelli|[2506.15640v1](http://arxiv.org/pdf/2506.15640v1)|
+|2025-06-16|2025-06-18|Robust Physics-Informed Neural Network Approach for Estimating Heterogeneous Elastic Properties from Noisy Displacement Data|Tatthapong Srikitrungruang|[2506.14036v2](http://arxiv.org/pdf/2506.14036v2)|
+|2025-06-18|2025-06-18|A covariant description of the interactions of axion-like particles and hadrons|Reuven Balkin|[2506.15637v1](http://arxiv.org/pdf/2506.15637v1)|
+
+### Diffusion
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-06-18|2025-06-18|One-Step Diffusion for Detail-Rich and Temporally Consistent Video Super-Resolution|Yujing Sun|[2506.15591v1](http://arxiv.org/pdf/2506.15591v1)|
+|2025-06-18|2025-06-18|CLAIM: Clinically-Guided LGE Augmentation for Realistic and Diverse Myocardial Scar Synthesis and Segmentation|Farheen Ramzan|[2506.15549v1](http://arxiv.org/pdf/2506.15549v1)|
+|2025-06-18|2025-06-18|Intrinsic and Extrinsic Organized Attention: Softmax Invariance and Network Sparsity|Oluwadamilola Fasina|[2506.15541v1](http://arxiv.org/pdf/2506.15541v1)|
+|2025-06-16|2025-06-18|A Comprehensive Survey on Continual Learning in Generative Models|Haiyang Guo|[2506.13045v2](http://arxiv.org/pdf/2506.13045v2)|
+|2025-06-18|2025-06-18|Diff-TONE: Timestep Optimization for iNstrument Editing in Text-to-Music Diffusion Models|Teysir Baoueb|[2506.15530v1](http://arxiv.org/pdf/2506.15530v1)|
 ## Update on 2025-06-17
 
 ### Physics
