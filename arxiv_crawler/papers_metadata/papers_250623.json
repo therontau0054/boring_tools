@@ -1,0 +1,126 @@
+{
+    "Physics": [
+        {
+            "title": "Part$^{2}$GS: Part-aware Modeling of Articulated Objects using 3D Gaussian Splatting",
+            "authors": "Tianjiao Yu, Vedant Shah, Muntasir Wahed, Ying Shen, Kiet A. Nguyen, Ismini Lourentzou",
+            "summary": "Articulated objects are common in the real world, yet modeling their\nstructure and motion remains a challenging task for 3D reconstruction methods.\nIn this work, we introduce Part$^{2}$GS, a novel framework for modeling\narticulated digital twins of multi-part objects with high-fidelity geometry and\nphysically consistent articulation. Part$^{2}$GS leverages a part-aware 3D\nGaussian representation that encodes articulated components with learnable\nattributes, enabling structured, disentangled transformations that preserve\nhigh-fidelity geometry. To ensure physically consistent motion, we propose a\nmotion-aware canonical representation guided by physics-based constraints,\nincluding contact enforcement, velocity consistency, and vector-field\nalignment. Furthermore, we introduce a field of repel points to prevent part\ncollisions and maintain stable articulation paths, significantly improving\nmotion coherence over baselines. Extensive evaluations on both synthetic and\nreal-world datasets show that Part$^{2}$GS consistently outperforms\nstate-of-the-art methods by up to 10$\\times$ in Chamfer Distance for movable\nparts.",
+            "pdf_url": "http://arxiv.org/pdf/2506.17212v1",
+            "published": "2025-06-20 17:59:12+00:00",
+            "updated": "2025-06-20 17:59:12+00:00"
+        },
+        {
+            "title": "Partition function for several Ising model interface structures",
+            "authors": "Alessio Squarcini, Piotr Nowakowski, Douglas B. Abraham, Anna Macio\u0142ek",
+            "summary": "We employ a procedure that enables us to calculate the excess free energies\nfor a finite Ising cylinder with domain walls analytically. This procedure\ntransparently covers all possible configurations of the domain walls under\ngiven boundary conditions and allows for a physical interpretation in terms of\ncoarse-grained quantities such as surface and point tensions. The resulting\nintegrals contain all the information about finite-size effects; we extract\nthem by careful asymptotic analysis using the steepest descent method. To this\nend, we exactly determine the steepest descent path and analyse its features.\nFor the general class of integrals, which are usually found in the study of\nsystems with inclined domain walls, knowledge of the steepest descent path is\nnecessary to detect possible intersections with poles of the integrand in the\ncomplex plane.",
+            "pdf_url": "http://arxiv.org/pdf/2506.17170v1",
+            "published": "2025-06-20 17:22:04+00:00",
+            "updated": "2025-06-20 17:22:04+00:00"
+        },
+        {
+            "title": "Structured Harmonic Generation via Geometric Phase Enabled Pump Shaping",
+            "authors": "Ting-Ting Liu, Shi-Hui Ding, Chun-Yu Li, Hui Liu, Zhi-Han Zhu, Peng Chen, Yan-Qing Lu",
+            "summary": "Nonlinear optics is crucial for shaping the spatial structure of shortwave\nlight and its interactions with matter, but achieving this through simple\nharmonic generation with a single pump is challenging. This study demonstrates\nnonlinear spin-orbit conversion using spin-dependent pump shaping via geometric\nphase, allowing the direct creation of desired structured harmonic waves from a\nGaussian pump beam. By using the liquid-crystal flat optical elements\nfabricated with photoalignment, we experimentally produce higher-order\ncylindrically vectorial modes in second harmonic fields. We examine the\nvectorial spatial wavefunctions, their propagation invariance, and nonlinear\nspin-orbit conversion. Our results provide an efficient method for full\nstructuring nonlinear light in broader harmonic systems, with significant\napplications in laser micromachining and high-energy physics.",
+            "pdf_url": "http://arxiv.org/pdf/2506.17167v1",
+            "published": "2025-06-20 17:12:12+00:00",
+            "updated": "2025-06-20 17:12:12+00:00"
+        },
+        {
+            "title": "Frequently Used References For Atomic Data In X-ray Spectroscopy",
+            "authors": "N. Hell, G. V. Brown, M. E. Eckart, A. J. Fairchild, C. A. Kilbourne, M. A. Leutenegger, F. S. Porter, M. C. Witthoeft",
+            "summary": "Accurate atomic physics reference data are a crucial requirement for analysis\nand interpretation of observed spectra, even more so for observations with high\nspectral resolution. This document provides a curated list of atomic physics\nreferences frequently used for plasma diagnostics in X-ray spectroscopy,\noutside of comprehensive plasma models that typically come with their own\nunderlying atomic databases. The list includes references to physical\nconstants, laboratory benchmarks, transition energies, position and line shapes\nof neutral fluorescence lines, radiative branching ratios, and commonly used\nnotation for prominent transitions. Quick-look tables for transition energies\nin H-, He-, and Li-like ions and line positions and shapes for fluorescence\nlines in neutrals. The main focus is on K-shell transitions. For the H- and\nHe-like tables, we cite state-of-the art calculations that we consider\ncurrently the best available reference energies, which are considered high\naccuracy and thus typically used for energy scale calibration in laboratory\nmeasurements. Omissions in these tables are due to the lack of availability in\nthe chosen references, and are not a statement about the relevance of these\nlines. Due to their complex and highly source-dependent line shape, the atomic\ndata for neutrals is of lower accuracy than that for the highly charged ions,\nand the best reference data for these line shapes typically consist of\nempirical models derived from very high-resolution laboratory measurements. The\ntable for neutrals provided here is consistent with the reference used for the\nenergy gain scale calibration of XRISM/Resolve. This document is meant to serve\nas a resource to help find relevant references and conveniently formatted\noverview tables. When making use of the information found in these papers,\ncredit should be given to their original authors by citing the appropriate\nreferences.",
+            "pdf_url": "http://arxiv.org/pdf/2506.17106v1",
+            "published": "2025-06-20 16:10:21+00:00",
+            "updated": "2025-06-20 16:10:21+00:00"
+        },
+        {
+            "title": "Time Derivatives of Weak Values",
+            "authors": "Xavier Oriols",
+            "summary": "The time derivative of a physical property often gives rise to another\nmeaningful property. Since weak values provide empirical insights that cannot\nbe derived from expectation values, this paper explores what physical\nproperties can be obtained from the time derivative of weak values. It\ndemonstrates that, in general, the time derivative of a gauge-invariant weak\nvalue is neither a weak value nor a gauge-invariant quantity. Two conditions\nare presented to ensure that the left- or right-time derivative of a weak value\nis also a gauge-invariant weak value. Under these conditions, a local\nEhrenfest-like theorem can be derived for weak values giving a natural\ninterpretation for the time derivative of weak values. Notably, a single\nmeasured weak value of the system's position provides information about two\nadditional unmeasured weak values: the system's local velocity and\nacceleration, through the first- and second-order time derivatives of the\ninitial weak value, respectively. These findings also offer guidelines for\nexperimentalists to translate the weak value theory into practical laboratory\nsetups, paving the way for innovative quantum technologies. An example\nillustrates how the electromagnetic field can be determined at specific\npositions and times from the first- and second-order time derivatives of a weak\nvalue of position.",
+            "pdf_url": "http://arxiv.org/pdf/2409.01460v3",
+            "published": "2024-09-02 20:44:10+00:00",
+            "updated": "2025-06-20 16:05:23+00:00"
+        },
+        {
+            "title": "A unified neural background-error covariance model for midlatitude and tropical atmospheric data assimilation",
+            "authors": "Bo\u0161tjan Melinc, Uro\u0161 Perkan, \u017diga Zaplotnik",
+            "summary": "Estimating background-error covariances remains a core challenge in\nvariational data assimilation (DA). Operational systems typically approximate\nthese covariances by transformations that separate geostrophically balanced\ncomponents from unbalanced inertio-gravity modes - an approach well-suited for\nthe midlatitudes but less applicable in the tropics, where different physical\nbalances prevail. This study estimates background-error covariances in a\nreduced-dimension latent space learned by a neural-network autoencoder (AE).\nThe AE was trained using 40 years of ERA5 reanalysis data, enabling it to\ncapture flow-dependent atmospheric balances from a diverse set of weather\nstates.\n  We demonstrate that performing DA in the latent space yields analysis\nincrements that preserve multivariate horizontal and vertical physical balances\nin both tropical and midlatitude atmosphere. Assimilating a single 500 hPa\ngeopotential height observation in the midlatitudes produces increments\nconsistent with geostrophic and thermal wind balance, while assimilating a\ntotal column water vapor observation with a positive departure in the\nnearly-saturated tropical atmosphere generates an increment resembling the\ntropical response to (latent) heat-induced perturbations. The resulting\nincrements are localized and flow-dependent, and shaped by orography and\nland-sea contrasts. Forecasts initialized from these analyses exhibit realistic\nweather evolution, including the excitation of an eastward-propagating Kelvin\nwave in the tropics.\n  Finally, we explore the transition from using synthetic ensembles and a\nclimatology-based background error covariance matrix to an operational ensemble\nof data assimilations. Despite significant compression-induced variance loss in\nsome variables, latent-space assimilation produces balanced, flow-dependent\nincrements - highlighting its potential for ensemble-based latent-space 4D-Var.",
+            "pdf_url": "http://arxiv.org/pdf/2506.11968v2",
+            "published": "2025-06-13 17:25:47+00:00",
+            "updated": "2025-06-20 15:58:35+00:00"
+        },
+        {
+            "title": "Magnetic Anti-de Sitter Wormholes as seeds for Higgs Inflation",
+            "authors": "Panos Betzios, Ioannis D. Gialamas, Olga Papadoulaki",
+            "summary": "We show how certain types of magnetic asymptotically Anti-de Sitter Euclidean\nwormholes can catalyze the onset of inflation. These wormholes can be embedded\nas saddle point solutions of General Relativity coupled to the Standard Model,\nthe inflaton being identified with the Higgs particle. Our scenario is based on\nthe assumption that the quantum effective potential for the Higgs turns\nnegative at a certain high energy window, in line with current measured values\nfor the Higgs and Top quark masses. Within our proposal, we can estimate\nvarious parameters and physical quantities of interest, in consistency with\ncurrent observational bounds.",
+            "pdf_url": "http://arxiv.org/pdf/2412.03639v2",
+            "published": "2024-12-04 19:00:00+00:00",
+            "updated": "2025-06-20 15:58:23+00:00"
+        },
+        {
+            "title": "Quantum observable's reality erasure with spacelike-separated operations",
+            "authors": "J. S. Ara\u00fajo, Diego S. Starke, A. S. Coelho, J. Maziero, G. H. Aguilar, R. M. Angelo",
+            "summary": "In 1935, Einstein, Podolsky, and Rosen argued that quantum mechanics is\nincomplete based on the assumption that local actions cannot influence elements\nof reality at a distant location (local realism). In this work, using a\nrecently defined quantum reality quantifier, we show that Alice's local quantum\noperations can be correlated with the erasure of the reality of observables in\nBob's causally disconnected laboratory. To this end, we implement a modified\noptical quantum eraser experiment, ensuring that Alice's and Bob's measurements\nremain causally disconnected. Using an entangled pair of photons and quantum\nstate tomography, we experimentally verify that, even with the total absence of\nany form of classical communication, the choice of quantum operation applied by\nAlice on her photon is correlated with the erasure of a spatial element of\nreality of Bob's photon. Our results reveal that Bob's photon can entangle two\nextra non-interacting degrees of freedom, thus confirming that Bob's photon\npath is not an element of physical reality.",
+            "pdf_url": "http://arxiv.org/pdf/2407.07185v3",
+            "published": "2024-07-09 18:58:48+00:00",
+            "updated": "2025-06-20 15:56:41+00:00"
+        },
+        {
+            "title": "PCG-Informed Neural Solvers for High-Resolution Homogenization of Periodic Microstructures",
+            "authors": "Yu Xing, Yang Liu, Lipeng Chen, Huiping Tang, Lin Lu",
+            "summary": "The mechanical properties of periodic microstructures are pivotal in various\nengineering applications. Homogenization theory is a powerful tool for\npredicting these properties by averaging the behavior of complex\nmicrostructures over a representative volume element. However, traditional\nnumerical solvers for homogenization problems can be computationally expensive,\nespecially for high-resolution and complicated topology and geometry. Existing\nlearning-based methods, while promising, often struggle with accuracy and\ngeneralization in such scenarios. To address these challenges, we present\nCGINS, a preconditioned-conjugate-gradient-solver-informed neural network for\nsolving homogenization problems. CGINS leverages sparse and periodic 3D\nconvolution to enable high-resolution learning while ensuring structural\nperiodicity. It features a multi-level network architecture that facilitates\neffective learning across different scales and employs minimum potential energy\nas label-free loss functions for self-supervised learning. The integrated\npreconditioned conjugate gradient iterations ensure that the network provides\nPCG-friendly initial solutions for fast convergence and high accuracy.\nAdditionally, CGINS imposes a global displacement constraint to ensure physical\nconsistency, addressing a key limitation in prior methods that rely on\nDirichlet anchors. Evaluated on large-scale datasets with diverse topologies\nand material configurations, CGINS achieves state-of-the-art accuracy (relative\nerror below 1%) and outperforms both learning-based baselines and\nGPU-accelerated numerical solvers. Notably, it delivers 2 times to 10 times\nspeedups over traditional methods while maintaining physically reliable\npredictions at resolutions up to $512^3$.",
+            "pdf_url": "http://arxiv.org/pdf/2506.17087v1",
+            "published": "2025-06-20 15:44:17+00:00",
+            "updated": "2025-06-20 15:44:17+00:00"
+        },
+        {
+            "title": "Al-Khwarizmi: Discovering Physical Laws with Foundation Models",
+            "authors": "Christopher E. Mower, Haitham Bou-Ammar",
+            "summary": "Inferring physical laws from data is a central challenge in science and\nengineering, including but not limited to healthcare, physical sciences,\nbiosciences, social sciences, sustainability, climate, and robotics. Deep\nnetworks offer high-accuracy results but lack interpretability, prompting\ninterest in models built from simple components. The Sparse Identification of\nNonlinear Dynamics (SINDy) method has become the go-to approach for building\nsuch modular and interpretable models. SINDy leverages sparse regression with\nL1 regularization to identify key terms from a library of candidate functions.\nHowever, SINDy's choice of candidate library and optimization method requires\nsignificant technical expertise, limiting its widespread applicability. This\nwork introduces Al-Khwarizmi, a novel agentic framework for physical law\ndiscovery from data, which integrates foundational models with SINDy.\nLeveraging LLMs, VLMs, and Retrieval-Augmented Generation (RAG), our approach\nautomates physical law discovery, incorporating prior knowledge and iteratively\nrefining candidate solutions via reflection. Al-Khwarizmi operates in two\nsteps: it summarizes system observations-comprising textual descriptions, raw\ndata, and plots-followed by a secondary step that generates candidate feature\nlibraries and optimizer configurations to identify hidden physics laws\ncorrectly. Evaluating our algorithm on over 198 models, we demonstrate\nstate-of-the-art performance compared to alternatives, reaching a 20 percent\nincrease against the best-performing alternative.",
+            "pdf_url": "http://arxiv.org/pdf/2502.01702v2",
+            "published": "2025-02-03 09:54:00+00:00",
+            "updated": "2025-06-20 15:22:21+00:00"
+        }
+    ],
+    "Diffusion": [
+        {
+            "title": "DreamCube: 3D Panorama Generation via Multi-plane Synchronization",
+            "authors": "Yukun Huang, Yanning Zhou, Jianan Wang, Kaiyi Huang, Xihui Liu",
+            "summary": "3D panorama synthesis is a promising yet challenging task that demands\nhigh-quality and diverse visual appearance and geometry of the generated\nomnidirectional content. Existing methods leverage rich image priors from\npre-trained 2D foundation models to circumvent the scarcity of 3D panoramic\ndata, but the incompatibility between 3D panoramas and 2D single views limits\ntheir effectiveness. In this work, we demonstrate that by applying multi-plane\nsynchronization to the operators from 2D foundation models, their capabilities\ncan be seamlessly extended to the omnidirectional domain. Based on this design,\nwe further introduce DreamCube, a multi-plane RGB-D diffusion model for 3D\npanorama generation, which maximizes the reuse of 2D foundation model priors to\nachieve diverse appearances and accurate geometry while maintaining multi-view\nconsistency. Extensive experiments demonstrate the effectiveness of our\napproach in panoramic image generation, panoramic depth estimation, and 3D\nscene generation.",
+            "pdf_url": "http://arxiv.org/pdf/2506.17206v1",
+            "published": "2025-06-20 17:55:06+00:00",
+            "updated": "2025-06-20 17:55:06+00:00"
+        },
+        {
+            "title": "Deep generative models as the probability transformation functions",
+            "authors": "Vitalii Bondar, Vira Babenko, Roman Trembovetskyi, Yurii Korobeinyk, Viktoriya Dzyuba",
+            "summary": "This paper introduces a unified theoretical perspective that views deep\ngenerative models as probability transformation functions. Despite the apparent\ndifferences in architecture and training methodologies among various types of\ngenerative models - autoencoders, autoregressive models, generative adversarial\nnetworks, normalizing flows, diffusion models, and flow matching - we\ndemonstrate that they all fundamentally operate by transforming simple\npredefined distributions into complex target data distributions. This unifying\nperspective facilitates the transfer of methodological improvements between\nmodel architectures and provides a foundation for developing universal\ntheoretical approaches, potentially leading to more efficient and effective\ngenerative modeling techniques.",
+            "pdf_url": "http://arxiv.org/pdf/2506.17171v1",
+            "published": "2025-06-20 17:22:23+00:00",
+            "updated": "2025-06-20 17:22:23+00:00"
+        },
+        {
+            "title": "A Minimalist Method for Fine-tuning Text-to-Image Diffusion Models",
+            "authors": "Yanting Miao, William Loh, Suraj Kothawade, Pacal Poupart",
+            "summary": "Recent work uses reinforcement learning (RL) to fine-tune text-to-image\ndiffusion models, improving text-image alignment and sample quality. However,\nexisting approaches introduce unnecessary complexity: they cache the full\nsampling trajectory, depend on differentiable reward models or large preference\ndatasets, or require specialized guidance techniques. Motivated by the \"golden\nnoise\" hypothesis -- that certain initial noise samples can consistently yield\nsuperior alignment -- we introduce Noise PPO, a minimalist RL algorithm that\nleaves the pre-trained diffusion model entirely frozen and learns a\nprompt-conditioned initial noise generator. Our approach requires no trajectory\nstorage, reward backpropagation, or complex guidance tricks. Extensive\nexperiments show that optimizing the initial noise distribution consistently\nimproves alignment and sample quality over the original model, with the most\nsignificant gains at low inference steps. As the number of inference steps\nincreases, the benefit of noise optimization diminishes but remains present.\nThese findings clarify the scope and limitations of the golden noise hypothesis\nand reinforce the practical value of minimalist RL fine-tuning for diffusion\nmodels.",
+            "pdf_url": "http://arxiv.org/pdf/2506.12036v2",
+            "published": "2025-05-23 00:01:52+00:00",
+            "updated": "2025-06-20 16:59:05+00:00"
+        },
+        {
+            "title": "MeDi: Metadata-Guided Diffusion Models for Mitigating Biases in Tumor Classification",
+            "authors": "David Jacob Drexlin, Jonas Dippel, Julius Hense, Niklas Preni\u00dfl, Gr\u00e9goire Montavon, Frederick Klauschen, Klaus-Robert M\u00fcller",
+            "summary": "Deep learning models have made significant advances in histological\nprediction tasks in recent years. However, for adaptation in clinical practice,\ntheir lack of robustness to varying conditions such as staining, scanner,\nhospital, and demographics is still a limiting factor: if trained on\noverrepresented subpopulations, models regularly struggle with less frequent\npatterns, leading to shortcut learning and biased predictions. Large-scale\nfoundation models have not fully eliminated this issue. Therefore, we propose a\nnovel approach explicitly modeling such metadata into a Metadata-guided\ngenerative Diffusion model framework (MeDi). MeDi allows for a targeted\naugmentation of underrepresented subpopulations with synthetic data, which\nbalances limited training data and mitigates biases in downstream models. We\nexperimentally show that MeDi generates high-quality histopathology images for\nunseen subpopulations in TCGA, boosts the overall fidelity of the generated\nimages, and enables improvements in performance for downstream classifiers on\ndatasets with subpopulation shifts. Our work is a proof-of-concept towards\nbetter mitigating data biases with generative models.",
+            "pdf_url": "http://arxiv.org/pdf/2506.17140v1",
+            "published": "2025-06-20 16:41:25+00:00",
+            "updated": "2025-06-20 16:41:25+00:00"
+        },
+        {
+            "title": "Consistent Sampling and Simulation: Molecular Dynamics with Energy-Based Diffusion Models",
+            "authors": "Michael Plainer, Hao Wu, Leon Klein, Stephan G\u00fcnnemann, Frank No\u00e9",
+            "summary": "Diffusion models have recently gained significant attention due to their\neffectiveness in various scientific domains, including biochemistry. When\ntrained on equilibrium molecular distributions, diffusion models provide both:\na generative procedure to sample equilibrium conformations and associated\nforces derived from the model's scores. However, using the forces for\ncoarse-grained molecular dynamics simulations uncovers inconsistencies in the\nsamples generated via classical diffusion inference and simulation, despite\nboth originating from the same model. Particularly at the small diffusion\ntimesteps required for simulations, diffusion models fail to satisfy the\nFokker-Planck equation, which governs how the score should evolve over time. We\ninterpret this deviation as an indication of the observed inconsistencies and\npropose an energy-based diffusion model with a Fokker-Planck-derived\nregularization term enforcing consistency. We demonstrate the effectiveness of\nour approach on toy systems, alanine dipeptide, and introduce a\nstate-of-the-art transferable Boltzmann emulator for dipeptides that supports\nsimulation and demonstrates enhanced consistency and efficient sampling.",
+            "pdf_url": "http://arxiv.org/pdf/2506.17139v1",
+            "published": "2025-06-20 16:38:29+00:00",
+            "updated": "2025-06-20 16:38:29+00:00"
+        }
+    ]
+}

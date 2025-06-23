@@ -173,6 +173,31 @@ TODO:
 
 
 
+
+## Update on 2025-06-23
+
+### Physics
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-06-20|2025-06-20|Part$^{2}$GS: Part-aware Modeling of Articulated Objects using 3D Gaussian Splatting|Tianjiao Yu|[2506.17212v1](http://arxiv.org/pdf/2506.17212v1)|
+|2025-06-20|2025-06-20|Partition function for several Ising model interface structures|Alessio Squarcini|[2506.17170v1](http://arxiv.org/pdf/2506.17170v1)|
+|2025-06-20|2025-06-20|Structured Harmonic Generation via Geometric Phase Enabled Pump Shaping|Ting-Ting Liu|[2506.17167v1](http://arxiv.org/pdf/2506.17167v1)|
+|2025-06-20|2025-06-20|Frequently Used References For Atomic Data In X-ray Spectroscopy|N. Hell|[2506.17106v1](http://arxiv.org/pdf/2506.17106v1)|
+|2024-09-02|2025-06-20|Time Derivatives of Weak Values|Xavier Oriols|[2409.01460v3](http://arxiv.org/pdf/2409.01460v3)|
+|2025-06-13|2025-06-20|A unified neural background-error covariance model for midlatitude and tropical atmospheric data assimilation|Boštjan Melinc|[2506.11968v2](http://arxiv.org/pdf/2506.11968v2)|
+|2024-12-04|2025-06-20|Magnetic Anti-de Sitter Wormholes as seeds for Higgs Inflation|Panos Betzios|[2412.03639v2](http://arxiv.org/pdf/2412.03639v2)|
+|2024-07-09|2025-06-20|Quantum observable's reality erasure with spacelike-separated operations|J. S. Araújo|[2407.07185v3](http://arxiv.org/pdf/2407.07185v3)|
+|2025-06-20|2025-06-20|PCG-Informed Neural Solvers for High-Resolution Homogenization of Periodic Microstructures|Yu Xing|[2506.17087v1](http://arxiv.org/pdf/2506.17087v1)|
+|2025-02-03|2025-06-20|Al-Khwarizmi: Discovering Physical Laws with Foundation Models|Christopher E. Mower|[2502.01702v2](http://arxiv.org/pdf/2502.01702v2)|
+
+### Diffusion
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-06-20|2025-06-20|DreamCube: 3D Panorama Generation via Multi-plane Synchronization|Yukun Huang|[2506.17206v1](http://arxiv.org/pdf/2506.17206v1)|
+|2025-06-20|2025-06-20|Deep generative models as the probability transformation functions|Vitalii Bondar|[2506.17171v1](http://arxiv.org/pdf/2506.17171v1)|
+|2025-05-23|2025-06-20|A Minimalist Method for Fine-tuning Text-to-Image Diffusion Models|Yanting Miao|[2506.12036v2](http://arxiv.org/pdf/2506.12036v2)|
+|2025-06-20|2025-06-20|MeDi: Metadata-Guided Diffusion Models for Mitigating Biases in Tumor Classification|David Jacob Drexlin|[2506.17140v1](http://arxiv.org/pdf/2506.17140v1)|
+|2025-06-20|2025-06-20|Consistent Sampling and Simulation: Molecular Dynamics with Energy-Based Diffusion Models|Michael Plainer|[2506.17139v1](http://arxiv.org/pdf/2506.17139v1)|
 ## Update on 2025-06-19
 
 ### Physics
