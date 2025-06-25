@@ -174,6 +174,31 @@ TODO:
 
 
 
+
+## Update on 2025-06-25
+
+### Physics
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-06-24|2025-06-24|Radial Attention: $O(n\log n)$ Sparse Attention with Energy Decay for Long Video Generation|Xingyang Li|[2506.19852v1](http://arxiv.org/pdf/2506.19852v1)|
+|2025-06-24|2025-06-24|Marginally stable Schwarzschild-black-hole-non-minimally-coupled-Proca-field bound-state configurations|Shahar Hod|[2506.19849v1](http://arxiv.org/pdf/2506.19849v1)|
+|2025-06-24|2025-06-24|ManiGaussian++: General Robotic Bimanual Manipulation with Hierarchical Gaussian World Model|Tengbo Yu|[2506.19842v1](http://arxiv.org/pdf/2506.19842v1)|
+|2025-01-10|2025-06-24|Inferring Higher-Order Couplings with Neural Networks|Aurélien Decelle|[2501.06108v3](http://arxiv.org/pdf/2501.06108v3)|
+|2025-06-24|2025-06-24|Resonances of recurrence time of monitored quantum walks|Ruoyu Yin|[2506.19832v1](http://arxiv.org/pdf/2506.19832v1)|
+|2025-06-24|2025-06-24|Curating art exhibitions using machine learning|Eurico Covas|[2506.19813v1](http://arxiv.org/pdf/2506.19813v1)|
+|2025-02-06|2025-06-24|First-Passage Approach to Optimizing Perturbations for Improved Training of Machine Learning Models|Sagi Meir|[2502.04121v3](http://arxiv.org/pdf/2502.04121v3)|
+|2025-06-24|2025-06-24|Convolution-weighting method for the physics-informed neural network: A Primal-Dual Optimization Perspective|Chenhao Si|[2506.19805v1](http://arxiv.org/pdf/2506.19805v1)|
+|2025-06-24|2025-06-24|Chimera baryons and mesons on the lattice: a spectral density analysis|Ed Bennett|[2506.19804v1](http://arxiv.org/pdf/2506.19804v1)|
+|2025-06-24|2025-06-24|Noncontextual Pauli Hamiltonians|Alexis Ralli|[2506.19778v1](http://arxiv.org/pdf/2506.19778v1)|
+
+### Diffusion
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-06-24|2025-06-24|Improving Progressive Generation with Decomposable Flow Matching|Moayed Haji-Ali|[2506.19839v1](http://arxiv.org/pdf/2506.19839v1)|
+|2025-06-24|2025-06-24|Machine Learning with Privacy for Protected Attributes|Saeed Mahloujifar|[2506.19836v1](http://arxiv.org/pdf/2506.19836v1)|
+|2025-06-24|2025-06-24|ProxelGen: Generating Proteins as 3D Densities|Felix Faltings|[2506.19820v1](http://arxiv.org/pdf/2506.19820v1)|
+|2025-06-24|2025-06-24|Alleviating User-Sensitive bias with Fair Generative Sequential Recommendation Model|Yang Liu|[2506.19777v1](http://arxiv.org/pdf/2506.19777v1)|
+|2025-06-24|2025-06-24|Kling-Foley: Multimodal Diffusion Transformer for High-Quality Video-to-Audio Generation|Jun Wang|[2506.19774v1](http://arxiv.org/pdf/2506.19774v1)|
 ## Update on 2025-06-23
 
 ### Physics
