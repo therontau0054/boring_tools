@@ -175,6 +175,30 @@ TODO:
 
 
 
+
+## Update on 2025-06-27
+
+### Physics
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-06-26|2025-06-26|Whole-Body Conditioned Egocentric Video Prediction|Yutong Bai|[2506.21552v1](http://arxiv.org/pdf/2506.21552v1)|
+|2025-06-26|2025-06-26|Quintessence and phantoms in light of DESI 2025|Ioannis D. Gialamas|[2506.21542v1](http://arxiv.org/pdf/2506.21542v1)|
+|2025-06-26|2025-06-26|WorldVLA: Towards Autoregressive Action World Model|Jun Cen|[2506.21539v1](http://arxiv.org/pdf/2506.21539v1)|
+|2025-06-26|2025-06-26|Rashba spin-orbit coupling and artificially engineered topological superconductors|Sankar Das Sarma|[2506.21534v1](http://arxiv.org/pdf/2506.21534v1)|
+|2025-06-26|2025-06-26|Process mining-driven modeling and simulation to enhance fault diagnosis in cyber-physical systems|Francesco Vitale|[2506.21502v1](http://arxiv.org/pdf/2506.21502v1)|
+|2025-06-26|2025-06-26|Scaling solutions for current-carrying cosmic string networks. II. Biased solutions|F. C. N. Q. Pimenta|[2506.21494v1](http://arxiv.org/pdf/2506.21494v1)|
+|2025-06-26|2025-06-26|Observers and Timekeepers: From the Page-Wootters Mechanism to the Gravitational Path Integral|Zixia Wei|[2506.21489v1](http://arxiv.org/pdf/2506.21489v1)|
+|2025-04-14|2025-06-26|Elastic Planetoids|Bartosz Żbik|[2504.10279v2](http://arxiv.org/pdf/2504.10279v2)|
+|2023-07-06|2025-06-26|Possible consequences for physics of the negative resolution of Tsirelson's problem|Adán Cabello|[2307.02920v2](http://arxiv.org/pdf/2307.02920v2)|
+|2025-06-26|2025-06-26|NLO QCD effects on angular observables in $e^-p \to e^-(ν_e)Hj$ in presence of non-standard $HVV$ couplings|Biswajit Das|[2506.21472v1](http://arxiv.org/pdf/2506.21472v1)|
+
+### Diffusion
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-06-26|2025-06-26|SmoothSinger: A Conditional Diffusion Model for Singing Voice Synthesis with Multi-Resolution Architecture|Kehan Sui|[2506.21478v1](http://arxiv.org/pdf/2506.21478v1)|
+|2025-06-26|2025-06-26|Flow-Based Single-Step Completion for Efficient and Expressive Policy Learning|Prajwal Koirala|[2506.21427v1](http://arxiv.org/pdf/2506.21427v1)|
+|2025-06-06|2025-06-26|Latent Diffusion Model Based Denoising Receiver for 6G Semantic Communication: From Stochastic Differential Theory to Application|Xiucheng Wang|[2506.05710v2](http://arxiv.org/pdf/2506.05710v2)|
+|2025-06-26|2025-06-26|Exploring Adapter Design Tradeoffs for Low Resource Music Generation|Atharva Mehta|[2506.21298v1](http://arxiv.org/pdf/2506.21298v1)|
 ## Update on 2025-06-25
 
 ### Physics
