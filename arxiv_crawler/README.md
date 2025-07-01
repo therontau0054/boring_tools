@@ -176,6 +176,37 @@ TODO:
 
 
 
+
+## Update on 2025-07-01
+
+### Physics
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-06-30|2025-06-30|Constraining self-interacting ultrahigh-energy neutrinos by cosmic microwave background spectral distortion|Pravin Kumar Natwariya|[2506.24110v1](http://arxiv.org/pdf/2506.24110v1)|
+|2025-06-30|2025-06-30|3HDM at the ILC|Baradhwaj Coleppa|[2506.24094v1](http://arxiv.org/pdf/2506.24094v1)|
+|2025-06-30|2025-06-30|Spectroscopy of drive-induced unwanted state transitions in superconducting circuits|W. Dai|[2506.24070v1](http://arxiv.org/pdf/2506.24070v1)|
+|2025-03-24|2025-06-30|Scatterless interferences: Delay of laminar-to-turbulent flow transition by a lattice of subsurface phonons|Mahmoud I. Hussein|[2503.18835v3](http://arxiv.org/pdf/2503.18835v3)|
+|2025-06-30|2025-06-30|Beyond Distance: Mobility Neural Embeddings Reveal Visible and Invisible Barriers in Urban Space|Guangyuan Weng|[2506.24061v1](http://arxiv.org/pdf/2506.24061v1)|
+|2025-06-30|2025-06-30|Advocacy for Physics and for Physicists: Results of an Informal Survey of American Physical Society Members in 2025|Michael B. Bennett|[2506.24043v1](http://arxiv.org/pdf/2506.24043v1)|
+|2025-06-30|2025-06-30|Dark matter as the source of neutrino mass: theory overview and experimental prospects|Ivania M. Ávila|[2506.24027v1](http://arxiv.org/pdf/2506.24027v1)|
+|2025-06-30|2025-06-30|Phase-Space Topology in a Single-Atom Synthetic Dimension|Kyungmin Lee|[2506.24020v1](http://arxiv.org/pdf/2506.24020v1)|
+|2025-06-30|2025-06-30|Bridging Physical and Digital Worlds: Embodied Large AI for Future Wireless Systems|Xinquan Wang|[2506.24009v1](http://arxiv.org/pdf/2506.24009v1)|
+|2025-01-27|2025-06-30|Imaging nuclei by smashing them at high energies: how are their shapes revealed after destruction?|Jiangyong Jia|[2501.16071v2](http://arxiv.org/pdf/2501.16071v2)|
+
+### Diffusion
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-06-30|2025-06-30|Navigating with Annealing Guidance Scale in Diffusion Space|Shai Yehezkel|[2506.24108v1](http://arxiv.org/pdf/2506.24108v1)|
+|2025-06-30|2025-06-30|Imagine for Me: Creative Conceptual Blending of Real Images and Text via Blended Attention|Wonwoong Cho|[2506.24085v1](http://arxiv.org/pdf/2506.24085v1)|
+|2025-06-30|2025-06-30|Faster Diffusion Models via Higher-Order Approximation|Gen Li|[2506.24042v1](http://arxiv.org/pdf/2506.24042v1)|
+|2024-10-26|2025-06-30|Pixel super-resolved virtual staining of label-free tissue using diffusion models|Yijie Zhang|[2410.20073v2](http://arxiv.org/pdf/2410.20073v2)|
+|2025-02-05|2025-06-30|Simultaneous Multi-Robot Motion Planning with Projected Diffusion Models|Jinhao Liang|[2502.03607v2](http://arxiv.org/pdf/2502.03607v2)|
+
+### Quantitative Finance
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-06-29|2025-06-29|Extreme-case Range Value-at-Risk under Increasing Failure Rate|Yuting Su|[2506.23073v1](http://arxiv.org/pdf/2506.23073v1)|
+|2025-06-28|2025-06-28|SABR-Informed Multitask Gaussian Process: A Synthetic-to-Real Framework for Implied Volatility Surface Construction|Jirong Zhuang|[2506.22888v1](http://arxiv.org/pdf/2506.22888v1)|
 ## Update on 2025-06-27
 
 ### Physics

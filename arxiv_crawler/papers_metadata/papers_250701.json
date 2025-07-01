@@ -1,0 +1,144 @@
+{
+    "Physics": [
+        {
+            "title": "Constraining self-interacting ultrahigh-energy neutrinos by cosmic microwave background spectral distortion",
+            "authors": "Pravin Kumar Natwariya, Shibsankar Si, Alekha C. Nayak, Tripurari Srivastava",
+            "summary": "The neutrino telescopes have firmly established the existence of\nultra-high-energy (UHE) neutrinos. Observations of these neutrinos offer a\nunique probe of neutrino self-interactions. This work investigates how the\nself-interacting neutrinos, mediated by scalar bosons, inject energy into the\nmedium through radiative scattering with the cosmic neutrino background,\nleaving an imprint on the Cosmic Microwave Background (CMB) spectrum. The\nenergy injection into plasma in redshift ranges, $5\\times10^4\\lesssim\nz\\lesssim2\\times10^6$ and $ z\\lesssim5\\times10^4$, leads to $\\mu$-type and\n$y$-type of CMB spectral distortions, respectively. Using observational\nconstraints from Cosmic Background Explorer/Far Infrared Absolute\nSpectrophotometer (COBE/FIRAS) and projected sensitivities from Primordial\nInflation Explorer (PIXIE) experiments for $\\mu$-type and $y$-type CMB\ndistortions, we derive the stringent upper bounds on the self-interaction\ncoupling strength as a function of mediator mass for neutrino interactions. We\nfocus on flavor-specific self-interaction related to muon neutrinos and sub-GeV\nmass mediators ($m_{\\phi}$). We find the upper bound on the self-interaction\ncoupling strength to be $\\sim 3.1\\times 10^{-5}$ for the muon neutrino,\nconsidering UHE muon neutrino energy to be 1 PeV and PIXIE projected upper\nbounds on $\\mu$-type CMB spectral distortion. The bound remains constant till\nthe mediator mass reaches the center of mass energy, and after that, it gets\nrelaxed and becomes proportional to the mediator mass. We have also compared\nour results with existing bounds in the literature. Our findings indicate that\nCMB spectral distortion could play a decisive role in exploring neutrino\nphysics beyond the standard model of particle physics, and future missions like\nPIXIE can provide valuable insights.",
+            "pdf_url": "http://arxiv.org/pdf/2506.24110v1",
+            "published": "2025-06-30 17:55:28+00:00",
+            "updated": "2025-06-30 17:55:28+00:00"
+        },
+        {
+            "title": "3HDM at the ILC",
+            "authors": "Baradhwaj Coleppa, Akshat Khanna, Gokul B. Krishna",
+            "summary": "The Three-Higgs-Doublet Model (3HDM) extends the Standard Model by\nintroducing two additional scalar doublets, leading to a rich spectrum of new\nparticles: three neutral CP-even Higgs bosons ($h_1$, $H_2$, $H_3$), two\nneutral CP-odd Higgs bosons ($A_2$, $A_3$), and two charged Higgs bosons\n($H_2^+$, $H_3^+$). In this work, we present a phenomenological study of the\n3HDM at the future International Linear Collider (ILC) with a center-of-mass\nenergy of $\\sqrt{s} = 1000\\,\\text{GeV}$. Applying a comprehensive set of\ntheoretical and experimental constraints, we identify promising new physics\nsignals with sufficiently large production cross-sections. Our analysis shows\nthat $e^+e^- \\to H_2 A_2$, $e^+e^- \\to H_2 H_2 Z$, $A_2 A_2 Z$, $H_2 H_2^{\\pm}\nW^{\\mp}$, $A_2 H_2^{\\pm} W^{\\mp}$ and $H_1 H_2 A_2$ are among the most\nsensitive channels to probe this extended Higgs sector. We demonstrate that a\nfuture ILC would offer a powerful platform to test these interactions and\ndiscover these heavier Higgs bosons thus providing evidence of physics beyond\nthe Standard Model.",
+            "pdf_url": "http://arxiv.org/pdf/2506.24094v1",
+            "published": "2025-06-30 17:48:44+00:00",
+            "updated": "2025-06-30 17:48:44+00:00"
+        },
+        {
+            "title": "Spectroscopy of drive-induced unwanted state transitions in superconducting circuits",
+            "authors": "W. Dai, S. Hazra, D. K. Weiss, P. D. Kurilovich, T. Connolly, H. K. Babla, S. Singh, V. R. Joshi, A. Z. Ding, P. D. Parakh, J. Venkatraman, X. Xiao, L. Frunzio, M. H. Devoret",
+            "summary": "Microwave drives are essential for implementing control and readout\noperations in superconducting quantum circuits. However, increasing the drive\nstrength eventually leads to unwanted state transitions which limit the speed\nand fidelity of such operations. In this work, we systematically investigate\nsuch transitions in a fixed-frequency qubit subjected to microwave drives\nspanning a 9 GHz frequency range. We identify the physical origins of these\ntransitions and classify them into three categories. (1) Resonant energy\nexchange with parasitic two-level systems, activated by drive-induced ac-Stark\nshifts, (2) multi-photon transitions to non-computational states, intrinsic to\nthe circuit Hamiltonian, and (3) inelastic scattering processes in which the\ndrive causes a state transition in the superconducting circuit, while\ntransferring excess energy to a spurious electromagnetic mode or two-level\nsystem (TLS) material defect. We show that the Floquet steady-state simulation,\ncomplemented by an electromagnetic simulation of the physical device,\naccurately predicts the observed transitions that do not involve TLS. Our\nresults provide a comprehensive classification of these transitions and offer\nmitigation strategies through informed choices of drive frequency as well as\nimproved circuit design.",
+            "pdf_url": "http://arxiv.org/pdf/2506.24070v1",
+            "published": "2025-06-30 17:22:35+00:00",
+            "updated": "2025-06-30 17:22:35+00:00"
+        },
+        {
+            "title": "Scatterless interferences: Delay of laminar-to-turbulent flow transition by a lattice of subsurface phonons",
+            "authors": "Mahmoud I. Hussein, David Roca, Adam R. Harris, Armin Kianfar",
+            "summary": "Wave interference has historically relied on scattering objects placed within\nthe wave domain. Here, we introduce a fundamentally new mechanism: scatterless\ninterference induced by a lattice of subsurface phonon motion beneath a smooth\nwall interfacing with a transitioning boundary-layer flow. The subsurface\nconsists of a wall-parallel lattice of wall-normal frequency-dependent phononic\nstructural units, each designed to respond to local flow perturbations in an\nout-of-phase manner, suppressing them at the point of interaction.\nCollectively, the lattice induces interference effects that cause the kinetic\nenergy of flow instabilities to decay downstream, thereby delaying\nlaminar-to-turbulent transition. To guide the design of the phononic subsurface\nlattice, a Bloch-wave unit-cell analysis is developed for the flow\nperturbations, and direct numerical simulations validate the concept. This work\nestablishes scatterless interference as a distinct physical phenomenon and\nrepresents a paradigm shift in the design of aerodynamic and hydrodynamic\nsurfaces--moving beyond streamlined shaping to leveraging subsurface phonon\nengineering for drag reduction and enhanced performance.",
+            "pdf_url": "http://arxiv.org/pdf/2503.18835v3",
+            "published": "2025-03-24 16:10:34+00:00",
+            "updated": "2025-06-30 17:10:30+00:00"
+        },
+        {
+            "title": "Beyond Distance: Mobility Neural Embeddings Reveal Visible and Invisible Barriers in Urban Space",
+            "authors": "Guangyuan Weng, Minsuk Kim, Yong-Yeol Ahn, Esteban Moro",
+            "summary": "Human mobility in cities is shaped not only by visible structures such as\nhighways, rivers, and parks but also by invisible barriers rooted in\nsocioeconomic segregation, uneven access to amenities, and administrative\ndivisions. Yet identifying and quantifying these barriers at scale and their\nrelative importance on people's movements remains a major challenge. Neural\nembedding models, originally developed for language, offer a powerful way to\ncapture the complexity of human mobility from large-scale data. Here, we apply\nthis approach to 25.4 million observed trajectories across 11 major U.S.\ncities, learning mobility embeddings that reveal how people move through urban\nspace. These mobility embeddings define a functional distance between places,\none that reflects behavioral rather than physical proximity, and allow us to\ndetect barriers between neighborhoods that are geographically close but\nbehaviorally disconnected. We find that the strongest predictors of these\nbarriers are differences in access to amenities, administrative borders, and\nresidential segregation by income and race. These invisible borders are\nconcentrated in urban cores and persist across cities, spatial scales, and time\nperiods. Physical infrastructure, such as highways and parks, plays a secondary\nbut still significant role, especially at short distances. We also find that\nindividuals who cross barriers tend to do so outside of traditional commuting\nhours and are more likely to live in areas with greater racial diversity, and\nhigher transit use or income. Together, these findings reveal how spatial,\nsocial, and behavioral forces structure urban accessibility and provide a\nscalable framework to detect and monitor barriers in cities, with applications\nin planning, policy evaluation, and equity analysis.",
+            "pdf_url": "http://arxiv.org/pdf/2506.24061v1",
+            "published": "2025-06-30 17:08:26+00:00",
+            "updated": "2025-06-30 17:08:26+00:00"
+        },
+        {
+            "title": "Advocacy for Physics and for Physicists: Results of an Informal Survey of American Physical Society Members in 2025",
+            "authors": "Michael B. Bennett",
+            "summary": "In the wake of a rash of executive orders and administrative actions aimed at\nshaping the scale, scope, and focus of the scientific enterprise in the United\nStates during the second Trump Presidency, we have undertaken a survey of\nmembers of the American Physical Society, the country's pre-eminent physics\nprofessional society to investigate their needs, interests, and priorities, and\nhow their interests may differ from organizational leadership's priorities.\nThis report provides detail on the context for the creation and implementation\nof the survey, as well as articulating results and some common themes found in\nresponses. Broadly, our informal survey of APS members revealed that a majority\nof respondents perceive that the Society supports them, cares about their needs\nas physicists, and is communicating reliably and transparently. However, a\nsizeable proportion of respondents -- up to 30\\% -- harbor concerns about the\norganization's actions, its prioritization of member needs over corporate\ninterests, or its willingness to listen to members. In addition, a strong\nmajority -- over two-thirds of respondents -- articulated a desire for more\nconcrete and personal support from APS. While we acknowledge that the Society\ncannot be all things to all people, the results of our work lead us to the\nconcern that there may indeed be a disconnect between the APS envisioned by\nthose at the top of the organization and those who fill its ranks.",
+            "pdf_url": "http://arxiv.org/pdf/2506.24043v1",
+            "published": "2025-06-30 16:49:52+00:00",
+            "updated": "2025-06-30 16:49:52+00:00"
+        },
+        {
+            "title": "Dark matter as the source of neutrino mass: theory overview and experimental prospects",
+            "authors": "Ivania M. \u00c1vila, Anirban Karan, Sanjoy Mandal, Soumya Sadhukhan, Jos\u00e9 W. F. Valle",
+            "summary": "We review theoretical frameworks in which small neutrino masses arise\nradiatively through interactions with a dark sector that also accounts for\ncosmological dark matter. A prototypical example is provided by scotogenic\nschemes, that extend the inert Higgs doublet model. We outline their key\nfeatures and limitations, including possible completions, such as the revamped\nsetup. The phenomenological signatures of both fermionic and bosonic scotogenic\ndark matter are discussed, along with scoto-seesaw models that merge scotogenic\nand seesaw mechanisms, and scenarios where the dark sector triggers a low-scale\nseesaw. These frameworks can accommodate dark matter as either Weakly\nInteracting Massive Particles (WIMPs) or Feebly Interacting Massive Particles\n(FIMPs). While hidden dark sector models are inherently difficult to test\nexperimentally, those based on visible dark sectors offer clear predictions\nthat could be confirmed -- or ruled out -- by forthcoming dark matter searches,\ncollider experiments, and lepton flavor violation studies.",
+            "pdf_url": "http://arxiv.org/pdf/2506.24027v1",
+            "published": "2025-06-30 16:34:23+00:00",
+            "updated": "2025-06-30 16:34:23+00:00"
+        },
+        {
+            "title": "Phase-Space Topology in a Single-Atom Synthetic Dimension",
+            "authors": "Kyungmin Lee, Sunkyu Yu, Seungwoo Yu, Jiyong Kang, Wonhyeong Choi, Sumin Park, Taehyun Kim",
+            "summary": "We investigate topological features in the synthetic Fock-state lattice of a\nsingle-atom system described by the quantum Rabi model. By diagonalizing the\nHamiltonian, we identify a zero-energy defect state localized at a domain wall\nof the synthetic lattice, whose spin polarization is topologically protected.\nTo address the challenge of applying band topology to the Fock-state lattice,\nwe introduce a topological invariant based on phase-space geometry-the\nphase-space winding number. We show that the Zak phase, representing the\ngeometric phase difference between two sublattices, can also be computed using\na phase-space parameter and corresponds directly to the phase-space winding\nnumber. This quantized geometric phase reflects the spin polarization of the\ndefect state, demonstrating a bulk-boundary correspondence. The resulting\nphase-space topology reveals the emergence of single-atom dressed states with\ncontrasting properties-topologically protected fermionic states and\ndriving-tunable bosonic states. Our results establish phase-space topology as a\nnovel framework for exploring topological physics in single-atom synthetic\ndimensions, uncovering quantum-unique topological protection distinct from\nclassical analogs.",
+            "pdf_url": "http://arxiv.org/pdf/2506.24020v1",
+            "published": "2025-06-30 16:23:34+00:00",
+            "updated": "2025-06-30 16:23:34+00:00"
+        },
+        {
+            "title": "Bridging Physical and Digital Worlds: Embodied Large AI for Future Wireless Systems",
+            "authors": "Xinquan Wang, Fenghao Zhu, Zhaohui Yang, Chongwen Huang, Xiaoming Chen, Zhaoyang Zhang, Sami Muhaidat, M\u00e9rouane Debbah",
+            "summary": "Large artificial intelligence (AI) models offer revolutionary potential for\nfuture wireless systems, promising unprecedented capabilities in network\noptimization and performance. However, current paradigms largely overlook\ncrucial physical interactions. This oversight means they primarily rely on\noffline datasets, leading to difficulties in handling real-time wireless\ndynamics and non-stationary environments. Furthermore, these models often lack\nthe capability for active environmental probing. This paper proposes a\nfundamental paradigm shift towards wireless embodied large AI (WELAI), moving\nfrom passive observation to active embodiment. We first identify key challenges\nfaced by existing models, then we explore the design principles and system\nstructure of WELAI. Besides, we outline prospective applications in\nnext-generation wireless. Finally, through an illustrative case study, we\ndemonstrate the effectiveness of WELAI and point out promising research\ndirections for realizing adaptive, robust, and autonomous wireless systems.",
+            "pdf_url": "http://arxiv.org/pdf/2506.24009v1",
+            "published": "2025-06-30 16:13:55+00:00",
+            "updated": "2025-06-30 16:13:55+00:00"
+        },
+        {
+            "title": "Imaging nuclei by smashing them at high energies: how are their shapes revealed after destruction?",
+            "authors": "Jiangyong Jia",
+            "summary": "High-energy nuclear collisions has recently emerged as a powerful\n``imaging-by-smashing'' tool to reveal the global shapes of atomic nuclei.\nHere, I layout a conceptual framework for this technique, explaining how\nnuclear shapes are encoded during quark-gluon plasma formation and evolution,\nand how they can be decoded from final-state particle distributions. I\nhighlight the method's potential to advance our understanding of both nuclear\nstructure and quark-gluon plasma physics.",
+            "pdf_url": "http://arxiv.org/pdf/2501.16071v2",
+            "published": "2025-01-27 14:21:06+00:00",
+            "updated": "2025-06-30 15:58:30+00:00"
+        }
+    ],
+    "Diffusion": [
+        {
+            "title": "Navigating with Annealing Guidance Scale in Diffusion Space",
+            "authors": "Shai Yehezkel, Omer Dahary, Andrey Voynov, Daniel Cohen-Or",
+            "summary": "Denoising diffusion models excel at generating high-quality images\nconditioned on text prompts, yet their effectiveness heavily relies on careful\nguidance during the sampling process. Classifier-Free Guidance (CFG) provides a\nwidely used mechanism for steering generation by setting the guidance scale,\nwhich balances image quality and prompt alignment. However, the choice of the\nguidance scale has a critical impact on the convergence toward a visually\nappealing and prompt-adherent image. In this work, we propose an annealing\nguidance scheduler which dynamically adjusts the guidance scale over time based\non the conditional noisy signal. By learning a scheduling policy, our method\naddresses the temperamental behavior of CFG. Empirical results demonstrate that\nour guidance scheduler significantly enhances image quality and alignment with\nthe text prompt, advancing the performance of text-to-image generation.\nNotably, our novel scheduler requires no additional activations or memory\nconsumption, and can seamlessly replace the common classifier-free guidance,\noffering an improved trade-off between prompt alignment and quality.",
+            "pdf_url": "http://arxiv.org/pdf/2506.24108v1",
+            "published": "2025-06-30 17:55:00+00:00",
+            "updated": "2025-06-30 17:55:00+00:00"
+        },
+        {
+            "title": "Imagine for Me: Creative Conceptual Blending of Real Images and Text via Blended Attention",
+            "authors": "Wonwoong Cho, Yanxia Zhang, Yan-Ying Chen, David I. Inouye",
+            "summary": "Blending visual and textual concepts into a new visual concept is a unique\nand powerful trait of human beings that can fuel creativity. However, in\npractice, cross-modal conceptual blending for humans is prone to cognitive\nbiases, like design fixation, which leads to local minima in the design space.\nIn this paper, we propose a T2I diffusion adapter \"IT-Blender\" that can\nautomate the blending process to enhance human creativity. Prior works related\nto cross-modal conceptual blending are limited in encoding a real image without\nloss of details or in disentangling the image and text inputs. To address these\ngaps, IT-Blender leverages pretrained diffusion models (SD and FLUX) to blend\nthe latent representations of a clean reference image with those of the noisy\ngenerated image. Combined with our novel blended attention, IT-Blender encodes\nthe real reference image without loss of details and blends the visual concept\nwith the object specified by the text in a disentangled way. Our experiment\nresults show that IT-Blender outperforms the baselines by a large margin in\nblending visual and textual concepts, shedding light on the new application of\nimage generative models to augment human creativity.",
+            "pdf_url": "http://arxiv.org/pdf/2506.24085v1",
+            "published": "2025-06-30 17:41:25+00:00",
+            "updated": "2025-06-30 17:41:25+00:00"
+        },
+        {
+            "title": "Faster Diffusion Models via Higher-Order Approximation",
+            "authors": "Gen Li, Yuchen Zhou, Yuting Wei, Yuxin Chen",
+            "summary": "In this paper, we explore provable acceleration of diffusion models without\nany additional retraining. Focusing on the task of approximating a target data\ndistribution in $\\mathbb{R}^d$ to within $\\varepsilon$ total-variation\ndistance, we propose a principled, training-free sampling algorithm that\nrequires only the order of\n  $$ d^{1+2/K} \\varepsilon^{-1/K} $$\n  score function evaluations (up to log factor) in the presence of accurate\nscores, where $K$ is an arbitrarily large fixed integer. This result applies to\na broad class of target data distributions, without the need for assumptions\nsuch as smoothness or log-concavity. Our theory is robust vis-a-vis inexact\nscore estimation, degrading gracefully as the score estimation error increases\n-- without demanding higher-order smoothness on the score estimates as assumed\nin previous work. The proposed algorithm draws insight from high-order ODE\nsolvers, leveraging high-order Lagrange interpolation and successive refinement\nto approximate the integral derived from the probability flow ODE.",
+            "pdf_url": "http://arxiv.org/pdf/2506.24042v1",
+            "published": "2025-06-30 16:49:03+00:00",
+            "updated": "2025-06-30 16:49:03+00:00"
+        },
+        {
+            "title": "Pixel super-resolved virtual staining of label-free tissue using diffusion models",
+            "authors": "Yijie Zhang, Luzhe Huang, Nir Pillar, Yuzhu Li, Hanlong Chen, Aydogan Ozcan",
+            "summary": "Virtual staining of tissue offers a powerful tool for transforming label-free\nmicroscopy images of unstained tissue into equivalents of histochemically\nstained samples. This study presents a diffusion model-based super-resolution\nvirtual staining approach utilizing a Brownian bridge process to enhance both\nthe spatial resolution and fidelity of label-free virtual tissue staining,\naddressing the limitations of traditional deep learning-based methods. Our\napproach integrates novel sampling techniques into a diffusion model-based\nimage inference process to significantly reduce the variance in the generated\nvirtually stained images, resulting in more stable and accurate outputs.\nBlindly applied to lower-resolution auto-fluorescence images of label-free\nhuman lung tissue samples, the diffusion-based super-resolution virtual\nstaining model consistently outperformed conventional approaches in resolution,\nstructural similarity and perceptual accuracy, successfully achieving a\nsuper-resolution factor of 4-5x, increasing the output space-bandwidth product\nby 16-25-fold compared to the input label-free microscopy images.\nDiffusion-based super-resolved virtual tissue staining not only improves\nresolution and image quality but also enhances the reliability of virtual\nstaining without traditional chemical staining, offering significant potential\nfor clinical diagnostics.",
+            "pdf_url": "http://arxiv.org/pdf/2410.20073v2",
+            "published": "2024-10-26 04:31:17+00:00",
+            "updated": "2025-06-30 16:15:48+00:00"
+        },
+        {
+            "title": "Simultaneous Multi-Robot Motion Planning with Projected Diffusion Models",
+            "authors": "Jinhao Liang, Jacob K Christopher, Sven Koenig, Ferdinando Fioretto",
+            "summary": "Recent advances in diffusion models hold significant potential in robotics,\nenabling the generation of diverse and smooth trajectories directly from raw\nrepresentations of the environment. Despite this promise, applying diffusion\nmodels to motion planning remains challenging due to their difficulty in\nenforcing critical constraints, such as collision avoidance and kinematic\nfeasibility. These limitations become even more pronounced in Multi-Robot\nMotion Planning (MRMP), where multiple robots must coordinate in shared spaces.\nTo address these challenges, this work proposes Simultaneous MRMP Diffusion\n(SMD), a novel approach integrating constrained optimization into the diffusion\nsampling process to produce collision-free, kinematically feasible\ntrajectories. Additionally, the paper introduces a comprehensive MRMP benchmark\nto evaluate trajectory planning algorithms across scenarios with varying robot\ndensities, obstacle complexities, and motion constraints. Experimental results\nshow SMD consistently outperforms classical and other learning-based motion\nplanners, achieving higher success rates and efficiency in complex multi-robot\nenvironments.",
+            "pdf_url": "http://arxiv.org/pdf/2502.03607v2",
+            "published": "2025-02-05 20:51:28+00:00",
+            "updated": "2025-06-30 14:20:37+00:00"
+        }
+    ],
+    "Quantitative Finance": [
+        {
+            "title": "Extreme-case Range Value-at-Risk under Increasing Failure Rate",
+            "authors": "Yuting Su, Taizhong Hu, Zhenfeng Zou",
+            "summary": "The extreme cases of risk measures, when considered within the context of\ndistributional ambiguity, provide significant guidance for practitioners\nspecializing in risk management of quantitative finance and insurance. In\ncontrast to the findings of preceding studies, we focus on the study of\nextreme-case risk measure under distributional ambiguity with the property of\nincreasing failure rate (IFR). The extreme-case range Value-at-Risk under\ndistributional uncertainty, consisting of given mean and/or variance of\ndistributions with IFR, is provided. The specific characteristics of\nextreme-case distributions under these constraints have been characterized, a\ncrucial step for numerical simulations. We then apply our main results to\nstop-loss and limited loss random variables under distributional uncertainty\nwith IFR.",
+            "pdf_url": "http://arxiv.org/pdf/2506.23073v1",
+            "published": "2025-06-29 03:24:18+00:00",
+            "updated": "2025-06-29 03:24:18+00:00"
+        },
+        {
+            "title": "SABR-Informed Multitask Gaussian Process: A Synthetic-to-Real Framework for Implied Volatility Surface Construction",
+            "authors": "Jirong Zhuang, Xuan Wu",
+            "summary": "Constructing the Implied Volatility Surface (IVS) is a challenging task in\nquantitative finance due to the complexity of real markets and the sparsity of\nmarket data. Structural models like Stochastic Alpha Beta Rho (SABR) model\noffer interpretability and theoretical consistency but lack flexibility, while\npurely data-driven methods such as Gaussian Process regression can struggle\nwith sparse data. We introduce SABR-Informed Multi-Task Gaussian Process\n(SABR-MTGP), treating IVS construction as a multi-task learning problem. Our\nmethod uses a dense synthetic dataset from a calibrated SABR model as a source\ntask to inform the construction based on sparse market data (the target task).\nThe MTGP framework captures task correlation and transfers structural\ninformation adaptively, improving predictions particularly in data-scarce\nregions. Experiments using Heston-generated ground truth data under various\nmarket conditions show that SABR-MTGP outperforms both standard Gaussian\nprocess regression and SABR across different maturities. Furthermore, an\napplication to real SPX market data demonstrates the method's practical\napplicability and its ability to produce stable and realistic surfaces. This\nconfirms our method balances structural guidance from SABR with the flexibility\nneeded for market data.",
+            "pdf_url": "http://arxiv.org/pdf/2506.22888v1",
+            "published": "2025-06-28 13:57:17+00:00",
+            "updated": "2025-06-28 13:57:17+00:00"
+        }
+    ]
+}
