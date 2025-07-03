@@ -177,6 +177,31 @@ TODO:
 
 
 
+
+## Update on 2025-07-03
+
+### Physics
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-07-02|2025-07-02|String Breaking Dynamics and Glueball Formation in a $2+1$D Lattice Gauge Theory|Kaidi Xu|[2507.01950v1](http://arxiv.org/pdf/2507.01950v1)|
+|2025-07-02|2025-07-02|SpecCLIP: Aligning and Translating Spectroscopic Measurements for Stars|Xiaosheng Zhao|[2507.01939v1](http://arxiv.org/pdf/2507.01939v1)|
+|2025-03-24|2025-07-02|Relational Supersymmetry via the Dressing Field Method and Matter-Interaction Supergeometric Framework|J. François|[2503.19077v2](http://arxiv.org/pdf/2503.19077v2)|
+|2025-07-02|2025-07-02|Attosecond Control and Measurement of Chiral Photoionisation Dynamics|Meng Han|[2507.01906v1](http://arxiv.org/pdf/2507.01906v1)|
+|2025-07-02|2025-07-02|Simulation and analysis of turbulent flame and its effect on the wall of aero engine combustor|A. Mokhtari|[2507.01892v1](http://arxiv.org/pdf/2507.01892v1)|
+|2025-07-02|2025-07-02|Circuit compression for 2D quantum dynamics|Matteo D'Anna|[2507.01883v1](http://arxiv.org/pdf/2507.01883v1)|
+|2025-07-02|2025-07-02|Transient dispersion in oscillatory flows: auxiliary-time extension method for concentration moments|Weiquan Jiang|[2507.01870v1](http://arxiv.org/pdf/2507.01870v1)|
+|2025-07-02|2025-07-02|Direct Vertex Reconstruction of $Λ$ Baryons from Hits in CLAS12 using Graph Neural Networks|Keegan Menkce|[2507.01868v1](http://arxiv.org/pdf/2507.01868v1)|
+|2025-04-17|2025-07-02|Generalized Parton Distributions from Symbolic Regression|Andrew Dotson|[2504.13289v3](http://arxiv.org/pdf/2504.13289v3)|
+|2025-07-02|2025-07-02|Spin hydrodynamics -- recent developments|Samapan Bhadury|[2507.01864v1](http://arxiv.org/pdf/2507.01864v1)|
+
+### Diffusion
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-07-02|2025-07-02|AC-DiT: Adaptive Coordination Diffusion Transformer for Mobile Manipulation|Sixiang Chen|[2507.01961v1](http://arxiv.org/pdf/2507.01961v1)|
+|2024-06-13|2025-07-02|Improving Consistency Models with Generator-Augmented Flows|Thibaut Issenhuth|[2406.09570v4](http://arxiv.org/pdf/2406.09570v4)|
+|2024-10-31|2025-07-02|There and Back Again: On the relation between Noise and Image Inversions in Diffusion Models|Łukasz Staniszewski|[2410.23530v3](http://arxiv.org/pdf/2410.23530v3)|
+|2025-04-07|2025-07-02|EP-Diffuser: An Efficient Diffusion Model for Traffic Scene Generation and Prediction via Polynomial Representations|Yue Yao|[2504.05422v2](http://arxiv.org/pdf/2504.05422v2)|
+|2025-07-02|2025-07-02|Loss Functions in Diffusion Models: A Comparative Study|Dibyanshu Kumar|[2507.01516v1](http://arxiv.org/pdf/2507.01516v1)|
 ## Update on 2025-07-01
 
 ### Physics
