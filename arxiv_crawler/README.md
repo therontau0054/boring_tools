@@ -178,6 +178,31 @@ TODO:
 
 
 
+
+## Update on 2025-07-05
+
+### Physics
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-07-03|2025-07-03|LiteReality: Graphics-Ready 3D Scene Reconstruction from RGB-D Scans|Zhening Huang|[2507.02861v1](http://arxiv.org/pdf/2507.02861v1)|
+|2025-06-30|2025-07-03|Nine circles of elastic brittle fracture: A series of challenge problems to assess fracture models|Farhad Kamarei|[2507.00266v2](http://arxiv.org/pdf/2507.00266v2)|
+|2025-07-03|2025-07-03|Bayesian frequency estimation at the fundamental quantum limit|James W. Gardner|[2507.02811v1](http://arxiv.org/pdf/2507.02811v1)|
+|2025-04-27|2025-07-03|PAD: Phase-Amplitude Decoupling Fusion for Multi-Modal Land Cover Classification|Huiling Zheng|[2504.19136v2](http://arxiv.org/pdf/2504.19136v2)|
+|2025-03-05|2025-07-03|LLM-Powered Prediction of Hyperglycemia and Discovery of Behavioral Treatment Pathways from Wearables and Diet|Abdullah Mamun|[2503.03935v2](http://arxiv.org/pdf/2503.03935v2)|
+|2025-07-03|2025-07-03|Grounding Intelligence in Movement|Melanie Segado|[2507.02771v1](http://arxiv.org/pdf/2507.02771v1)|
+|2025-07-03|2025-07-03|Defining and classifying models of groups: The social ontology of higher-order networks|Jonathan St-Onge|[2507.02758v1](http://arxiv.org/pdf/2507.02758v1)|
+|2025-06-23|2025-07-03|Bounded information as a foundation for quantum theory|Paolo Ferro|[2506.18549v2](http://arxiv.org/pdf/2506.18549v2)|
+|2025-07-03|2025-07-03|Generation of Intense Deep-Ultraviolet Pulses at 200 nm|X. Xie|[2507.02756v1](http://arxiv.org/pdf/2507.02756v1)|
+|2025-07-03|2025-07-03|Linear Attention with Global Context: A Multipole Attention Mechanism for Vision and Physics|Alex Colagrande|[2507.02748v1](http://arxiv.org/pdf/2507.02748v1)|
+
+### Diffusion
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-07-03|2025-07-03|USAD: An Unsupervised Data Augmentation Spatio-Temporal Attention Diffusion Network|Ying Yu|[2507.02827v1](http://arxiv.org/pdf/2507.02827v1)|
+|2025-07-03|2025-07-03|FairHuman: Boosting Hand and Face Quality in Human Image Generation with Minimum Potential Delay Fairness in Diffusion Models|Yuxuan Wang|[2507.02714v1](http://arxiv.org/pdf/2507.02714v1)|
+|2025-07-03|2025-07-03|APT: Adaptive Personalized Training for Diffusion Models with Limited Data|JungWoo Chae|[2507.02687v1](http://arxiv.org/pdf/2507.02687v1)|
+|2025-07-03|2025-07-03|Learning few-step posterior samplers by unfolding and distillation of diffusion models|Charlesquin Kemajou Mbakam|[2507.02686v1](http://arxiv.org/pdf/2507.02686v1)|
+|2025-07-03|2025-07-03|Guided Generation for Developable Antibodies|Siqi Zhao|[2507.02670v1](http://arxiv.org/pdf/2507.02670v1)|
 ## Update on 2025-07-03
 
 ### Physics
