@@ -179,6 +179,35 @@ TODO:
 
 
 
+
+## Update on 2025-07-09
+
+### Physics
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-07-08|2025-07-08|Bridging Machine Learning and Glassy Dynamics Theory for Predictive Polymer Modeling|Anh D. Phan|[2507.06194v1](http://arxiv.org/pdf/2507.06194v1)|
+|2025-07-08|2025-07-08|Constraining new physics effective interactions via a global fit of electroweak, Drell-Yan, Higgs, top, and flavour observables|J. de Blas|[2507.06191v1](http://arxiv.org/pdf/2507.06191v1)|
+|2025-07-08|2025-07-08|"Ideal" Topological Heavy Fermion Model in Two-dimensional Moiré Heterostructures with Type-II Band Alignment|Yunzhe Liu|[2507.06168v1](http://arxiv.org/pdf/2507.06168v1)|
+|2025-07-07|2025-07-08|Electromagnetic energy calibration of the SoLid detector with horizontal muons|SoLid collaboration|[2507.05180v2](http://arxiv.org/pdf/2507.05180v2)|
+|2023-01-16|2025-07-08|Mott's law for the v.r.h. random resistor network and for Mott's random walk|Alessandra Faggionato|[2301.06318v4](http://arxiv.org/pdf/2301.06318v4)|
+|2025-07-08|2025-07-08|A Homothetic Gauge Theory|Fereidoun Sabetghadam|[2507.06153v1](http://arxiv.org/pdf/2507.06153v1)|
+|2024-09-24|2025-07-08|Online Planning for Multi-UAV Pursuit-Evasion in Unknown Environments Using Deep Reinforcement Learning|Jiayu Chen|[2409.15866v4](http://arxiv.org/pdf/2409.15866v4)|
+|2025-07-08|2025-07-08|Topic Modeling and Link-Prediction for Material Property Discovery|Ryan C. Barron|[2507.06139v1](http://arxiv.org/pdf/2507.06139v1)|
+|2025-07-08|2025-07-08|Moduli space of spin connections on three-dimensional homogeneous spaces|Matteo Bruno|[2507.06104v1](http://arxiv.org/pdf/2507.06104v1)|
+
+### Diffusion
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2023-12-19|2025-07-08|StreamDiffusion: A Pipeline-level Solution for Real-time Interactive Generation|Akio Kodaira|[2312.12491v2](http://arxiv.org/pdf/2312.12491v2)|
+|2025-07-08|2025-07-08|Modern Methods in Associative Memory|Dmitry Krotov|[2507.06211v1](http://arxiv.org/pdf/2507.06211v1)|
+|2025-07-08|2025-07-08|Few-Shot Learning by Explicit Physics Integration: An Application to Groundwater Heat Transport|Julia Pelzer|[2507.06062v1](http://arxiv.org/pdf/2507.06062v1)|
+|2025-03-12|2025-07-08|UniCombine: Unified Multi-Conditional Combination with Diffusion Transformer|Haoxuan Wang|[2503.09277v2](http://arxiv.org/pdf/2503.09277v2)|
+|2025-07-08|2025-07-08|TextPixs: Glyph-Conditioned Diffusion with Character-Aware Attention and OCR-Guided Supervision|Syeda Anshrah Gillani|[2507.06033v1](http://arxiv.org/pdf/2507.06033v1)|
+
+### Quantitative Finance
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-07-05|2025-07-08|skfolio: Portfolio Optimization in Python|Carlo Nicolini|[2507.04176v2](http://arxiv.org/pdf/2507.04176v2)|
 ## Update on 2025-07-05
 
 ### Physics
