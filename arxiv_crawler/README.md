@@ -180,6 +180,31 @@ TODO:
 
 
 
+
+## Update on 2025-07-11
+
+### Physics
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-07-10|2025-07-10|Strong converse rate for asymptotic hypothesis testing in type III|Nicholas Laracuente|[2507.07989v1](http://arxiv.org/pdf/2507.07989v1)|
+|2025-07-10|2025-07-10|Geometry Forcing: Marrying Video Diffusion and 3D Representation for Consistent World Modeling|Haoyu Wu|[2507.07982v1](http://arxiv.org/pdf/2507.07982v1)|
+|2025-07-10|2025-07-10|From spatial to null infinity: Connecting initial data to peeling|Berend Schneider|[2507.07977v1](http://arxiv.org/pdf/2507.07977v1)|
+|2025-07-10|2025-07-10|Spectral networks for polynomial cubic differentials|Omar Kidwai|[2507.07971v1](http://arxiv.org/pdf/2507.07971v1)|
+|2025-07-10|2025-07-10|Physics-Informed Gaussian Process Inference of Liquid Structure from Scattering Data|Harry W. Sullivan|[2507.07948v1](http://arxiv.org/pdf/2507.07948v1)|
+|2025-01-16|2025-07-10|Dirt/Detector/Dump: Complementary BSM production at Short-Baseline Neutrino Facilities|Bhaskar Dutta|[2501.09840v2](http://arxiv.org/pdf/2501.09840v2)|
+|2025-07-10|2025-07-10|A statistical physics framework for optimal learning|Francesca Mignacco|[2507.07907v1](http://arxiv.org/pdf/2507.07907v1)|
+|2025-07-10|2025-07-10|Edge State Selective Measurement of Quantum Hall Dispersions|Henok Weldeyesus|[2507.07905v1](http://arxiv.org/pdf/2507.07905v1)|
+|2023-12-21|2025-07-10|Axionic defects in the CMB: birefringence and gravitational waves|Ricardo Z. Ferreira|[2312.14104v3](http://arxiv.org/pdf/2312.14104v3)|
+|2025-07-10|2025-07-10|Capturing quantum phase transition in the ultraviolet region by holography|Fang-Jing Cheng|[2507.07899v1](http://arxiv.org/pdf/2507.07899v1)|
+
+### Diffusion
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-07-10|2025-07-10|EXPO: Stable Reinforcement Learning with Expressive Policies|Perry Dong|[2507.07986v1](http://arxiv.org/pdf/2507.07986v1)|
+|2025-07-10|2025-07-10|Low Resource Reconstruction Attacks Through Benign Prompts|Sol Yarkoni|[2507.07947v1](http://arxiv.org/pdf/2507.07947v1)|
+|2024-09-23|2025-07-10|Multi-modal Generative AI: Multi-modal LLMs, Diffusions and the Unification|Xin Wang|[2409.14993v2](http://arxiv.org/pdf/2409.14993v2)|
+|2025-07-10|2025-07-10|Re-Bottleneck: Latent Re-Structuring for Neural Audio Autoencoders|Dimitrios Bralios|[2507.07867v1](http://arxiv.org/pdf/2507.07867v1)|
+|2025-07-10|2025-07-10|Predicting and generating antibiotics against future pathogens with ApexOracle|Tianang Leng|[2507.07862v1](http://arxiv.org/pdf/2507.07862v1)|
 ## Update on 2025-07-09
 
 ### Physics

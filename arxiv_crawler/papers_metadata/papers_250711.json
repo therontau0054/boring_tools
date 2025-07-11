@@ -1,0 +1,126 @@
+{
+    "Physics": [
+        {
+            "title": "Strong converse rate for asymptotic hypothesis testing in type III",
+            "authors": "Nicholas Laracuente, Marius Junge",
+            "summary": "We extend from the hyperfinite setting to general von Neumann algebras\nMosonyi and Ogawa's (2015) and Mosonyi and Hiai's (2023) results showing the\noperational interpretation of sandwiched relative R\\'enyi entropy in the strong\nconverse of hypothesis testing. The specific task is to distinguish between two\nquantum states given many copies. We use a reduction method of Haagerup, Junge,\nand Xu (2010) to approximate relative entropy inequalities in an arbitrary von\nNeumann algebra by those in finite von Neumann algebras. Within these finite\nvon Neumann algebras, it is possible to approximate densities via finite\nspectrum operators, after which the quantum method of types reduces them to\neffectively commuting subalgebras. Generalizing beyond the hyperfinite setting\nshows that the operational meaning of sandwiched R\\'enyi entropy is not\nrestricted to the matrices but is a more fundamental property of quantum\ninformation. Furthermore, applicability in general von Neumann algebras opens\npotential new connections to random matrix theory and the quantum information\ntheory of fundamental physics.",
+            "pdf_url": "http://arxiv.org/pdf/2507.07989v1",
+            "published": "2025-07-10 17:58:54+00:00",
+            "updated": "2025-07-10 17:58:54+00:00"
+        },
+        {
+            "title": "Geometry Forcing: Marrying Video Diffusion and 3D Representation for Consistent World Modeling",
+            "authors": "Haoyu Wu, Diankun Wu, Tianyu He, Junliang Guo, Yang Ye, Yueqi Duan, Jiang Bian",
+            "summary": "Videos inherently represent 2D projections of a dynamic 3D world. However,\nour analysis suggests that video diffusion models trained solely on raw video\ndata often fail to capture meaningful geometric-aware structure in their\nlearned representations. To bridge this gap between video diffusion models and\nthe underlying 3D nature of the physical world, we propose Geometry Forcing, a\nsimple yet effective method that encourages video diffusion models to\ninternalize latent 3D representations. Our key insight is to guide the model's\nintermediate representations toward geometry-aware structure by aligning them\nwith features from a pretrained geometric foundation model. To this end, we\nintroduce two complementary alignment objectives: Angular Alignment, which\nenforces directional consistency via cosine similarity, and Scale Alignment,\nwhich preserves scale-related information by regressing unnormalized geometric\nfeatures from normalized diffusion representation. We evaluate Geometry Forcing\non both camera view-conditioned and action-conditioned video generation tasks.\nExperimental results demonstrate that our method substantially improves visual\nquality and 3D consistency over the baseline methods. Project page:\nhttps://GeometryForcing.github.io.",
+            "pdf_url": "http://arxiv.org/pdf/2507.07982v1",
+            "published": "2025-07-10 17:55:08+00:00",
+            "updated": "2025-07-10 17:55:08+00:00"
+        },
+        {
+            "title": "From spatial to null infinity: Connecting initial data to peeling",
+            "authors": "Berend Schneider, Neev Khera",
+            "summary": "The asymptotic structure of space-time is studied by imposing conditions on\nthe asymptotics of the metric. These conditions are weak enough to include\nlarge classes of physically relevant isolated space-times, but have a rich\nenough structure to be able to define important physically meaningful\nquantities like mass, angular momentum, and gravitational waves.\n  By using a unified expansion of the metric in a neighborhood of spatial\ninfinity that includes a piece of null infinity, we connect the asymptotic\nexpansions of solutions to Einstein's equations in the different asymptotic\nregimes. Within the class of space-times under consideration, we find a\nconnection between the peeling properties of the Weyl scalars and symmetries of\ninitial data near spatial infinity. In particular, we show that for initial\ndata that to leading order is symmetric under parity + time reversal, $\\Psi_2$\nhas the usual $1/r^3$ fall-off rate at null infinity. If, in addition, the\nsubleading part of the data is antisymmetric under parity + time reversal, then\n$\\Psi_1$ has the usual $1/r^4$ fall-off rate at future null infinity.",
+            "pdf_url": "http://arxiv.org/pdf/2507.07977v1",
+            "published": "2025-07-10 17:54:16+00:00",
+            "updated": "2025-07-10 17:54:16+00:00"
+        },
+        {
+            "title": "Spectral networks for polynomial cubic differentials",
+            "authors": "Omar Kidwai, Guillaume Tahar",
+            "summary": "We study cubic differentials and their spectral networks on Riemann surfaces,\nfocusing on the polynomial case on the Riemann sphere. We introduce the notion\nof spectral core as the primary tool for our study, refining the classical\nnotion of core in the theory of flat surfaces, and show that it controls the\nbirthing process of spectral network trajectories. As an application, we\ncompletely characterize the polynomial cubic differentials having saddle\nconnections or critical tripods when the degree $d$ is at most $3$; in\nparticular, we obtain the relevant degenerations as the phase is varied and\ndetermine explicitly the wall-and-chamber structure. In this case, we obtain\nthe BPS structure according to Gaiotto-Moore-Neitzke's algorithm, and verify\nthat it satisfies the Kontsevich-Soibelman wall-crossing formula. In physics\nlanguage, this corresponds to computing the BPS spectrum of a certain\nfour-dimensional $\\mathcal{N}=2$ quantum field theory, known as the\n$(A_{2},A_{d-1})$ generalized Argyres-Douglas theory.",
+            "pdf_url": "http://arxiv.org/pdf/2507.07971v1",
+            "published": "2025-07-10 17:49:04+00:00",
+            "updated": "2025-07-10 17:49:04+00:00"
+        },
+        {
+            "title": "Physics-Informed Gaussian Process Inference of Liquid Structure from Scattering Data",
+            "authors": "Harry W. Sullivan, Brennon L. Shanks, Matej Cervenka, Michael P. Hoepfner",
+            "summary": "We present a nonparametric Bayesian framework to infer radial distribution\nfunctions from experimental scattering measurements with uncertainty\nquantification using non-stationary Gaussian processes. The Gaussian process\nprior mean and kernel functions are designed to mitigate well-known numerical\nchallenges with the Fourier transform, including discrete measurement binning\nand detector windowing, while encoding fundamental yet minimal physical\nknowledge of liquid structure. We demonstrate uncertainty propagation of the\nGaussian process posterior to unmeasured quantities of interest. The\nmethodology is applied to liquid argon and water as a proof of principle. The\nfull implementation is available on GitHub at\nhttps://github.com/hoepfnergroup/LiquidStructureGP-Sullivan.",
+            "pdf_url": "http://arxiv.org/pdf/2507.07948v1",
+            "published": "2025-07-10 17:33:28+00:00",
+            "updated": "2025-07-10 17:33:28+00:00"
+        },
+        {
+            "title": "Dirt/Detector/Dump: Complementary BSM production at Short-Baseline Neutrino Facilities",
+            "authors": "Bhaskar Dutta, Debopam Goswami, Aparajitha Karthikeyan, Kevin J. Kelly",
+            "summary": "Short-baseline neutrino (SBN) facilities are optimal for new-physics\nsearches, including the possible production of new particles in and along the\nneutrino beamline. One such class of models considers states that are created\nby neutrino upscattering that then decay in the neutrino detector -- in the\npast, such upscattering has often been considered to occur in the detector\nitself (with a prompt decay) or in the dirt upstream of the detector. In this\nwork, we highlight the importance of the beam dumps, situated even further\nupstream, for such searches. The Fermilab Booster Neutrino Beam, with its iron\ndump, provides one such possibility. We focus on sub-GeV heavy neutral leptons\n(HNLs) with a transition magnetic moment, which allows this upscattering to\ntake advantage of the high-$Z$ iron. We observe that, in addition to increased\nsensitivity to this model at SBND, MicroBooNE, and ICARUS, there exist distinct\nfeatures in the signal events' kinematical properties when coming from\nproduction in the dump, dirt, and detector which can allow for enhanced\nsignal-to-background separation. We highlight the complementarity of this\napproach to study parameter space relevant for the MiniBooNE low-energy excess,\nas well as in models in which the HNLs couple to a light scalar particle.",
+            "pdf_url": "http://arxiv.org/pdf/2501.09840v2",
+            "published": "2025-01-16 21:06:13+00:00",
+            "updated": "2025-07-10 16:56:29+00:00"
+        },
+        {
+            "title": "A statistical physics framework for optimal learning",
+            "authors": "Francesca Mignacco, Francesco Mori",
+            "summary": "Learning is a complex dynamical process shaped by a range of interconnected\ndecisions. Careful design of hyperparameter schedules for artificial neural\nnetworks or efficient allocation of cognitive resources by biological learners\ncan dramatically affect performance. Yet, theoretical understanding of optimal\nlearning strategies remains sparse, especially due to the intricate interplay\nbetween evolving meta-parameters and nonlinear learning dynamics. The search\nfor optimal protocols is further hindered by the high dimensionality of the\nlearning space, often resulting in predominantly heuristic, difficult to\ninterpret, and computationally demanding solutions. Here, we combine\nstatistical physics with control theory in a unified theoretical framework to\nidentify optimal protocols in prototypical neural network models. In the\nhigh-dimensional limit, we derive closed-form ordinary differential equations\nthat track online stochastic gradient descent through low-dimensional order\nparameters. We formulate the design of learning protocols as an optimal control\nproblem directly on the dynamics of the order parameters with the goal of\nminimizing the generalization error at the end of training. This framework\nencompasses a variety of learning scenarios, optimization constraints, and\ncontrol budgets. We apply it to representative cases, including optimal\ncurricula, adaptive dropout regularization and noise schedules in denoising\nautoencoders. We find nontrivial yet interpretable strategies highlighting how\noptimal protocols mediate crucial learning tradeoffs, such as maximizing\nalignment with informative input directions while minimizing noise fitting.\nFinally, we show how to apply our framework to real datasets. Our results\nestablish a principled foundation for understanding and designing optimal\nlearning protocols and suggest a path toward a theory of meta-learning grounded\nin statistical physics.",
+            "pdf_url": "http://arxiv.org/pdf/2507.07907v1",
+            "published": "2025-07-10 16:39:46+00:00",
+            "updated": "2025-07-10 16:39:46+00:00"
+        },
+        {
+            "title": "Edge State Selective Measurement of Quantum Hall Dispersions",
+            "authors": "Henok Weldeyesus, Taras Patlatiuk, Qianqian Chen, Christian P. Scheller, Amir Yacoby, Loren N. Pfeiffer, Ken W. West, Dominik M. Zumb\u00fchl",
+            "summary": "Edge states reflect the key physical properties yet are difficult to probe\nindividually, particularly when several states are present at an edge. We\npresent momentum resolved tunneling spectroscopy between a quantum well and a\nquantum wire to extract the dispersions of the quantum Hall edge states.\nMomentum and energy selective tunneling allows to separately address the\ndifferent states even if they are spatially overlapping. This delivers the edge\nstate velocities over broad ranges of magnetic field and density, in excellent\nagreement with a hard-wall model. This technique provides a basis for future\nedge state selective spectroscopy on quantum materials.",
+            "pdf_url": "http://arxiv.org/pdf/2507.07905v1",
+            "published": "2025-07-10 16:38:27+00:00",
+            "updated": "2025-07-10 16:38:27+00:00"
+        },
+        {
+            "title": "Axionic defects in the CMB: birefringence and gravitational waves",
+            "authors": "Ricardo Z. Ferreira, Silvia Gasparotto, Takashi Hiramatsu, Ippei Obata, Oriol Pujolas",
+            "summary": "The evidence for a non-vanishing isotropic cosmic birefringence in recent\nanalyses of the CMB data provides a tantalizing hint for new physics. Domain\nwall (DW) networks have recently been shown to generate an isotropic\nbirefringence signal in the ballpark of the measured value when coupled to\nphotons. In this work, we explore the axionic defects hypothesis in more detail\nand extending previous results to annihilating and late-forming networks, and\nby pointing out other smoking-gun signatures of the network in the CMB spectrum\nsuch as the anisotropic birefringent spectrum and B-modes. We also argue that\nthe presence of cosmic strings in the network does not hinder a large isotropic\nbirefringence signal because of an intrinsic environmental contribution coming\nfrom low redshifts thus leaving open the possibility that axionic defects can\nexplain the signal. Regarding the remaining CMB signatures, with the help of\ndedicated 3D numerical simulations of DW networks, that we took as a proxy for\nthe axionic defects, we show how the anisotropic birefringence spectrum\ncombined with a tomographic approach can be used to infer the formation and\nannihilation time of the network. From the numerical simulations, we also\ncomputed the spectrum of gravitational waves (GWs) generated by the network in\nthe post-recombination epoch and use previous searches for stochastic GW\nbackgrounds in the CMB to derive for the first time a bound on the tension and\nabundance of networks with DWs that annihilate after recombination. Our bounds\nextend to the case where the network survives until the present time and\nimprove over previous bounds by roughly one order of magnitude. Finally, we\nshow the interesting prospects for detecting B-modes of DW origin with future\nCMB experiments.",
+            "pdf_url": "http://arxiv.org/pdf/2312.14104v3",
+            "published": "2023-12-21 18:28:42+00:00",
+            "updated": "2025-07-10 16:29:54+00:00"
+        },
+        {
+            "title": "Capturing quantum phase transition in the ultraviolet region by holography",
+            "authors": "Fang-Jing Cheng, Zhe Yang, Yi Ling, Jian-Pin Wu, Zhou-Jian Cao, Peng Liu",
+            "summary": "We reveal for the first time that ultraviolet (UV) observables can diagnose\nquantum phase transitions (QPTs). In a class of holographic models exhibiting\nmetal-insulator transitions, we study two types of UV observables --\nhigh-frequency conductivity and short-range entanglement. Remarkably, we find\nthat the derivatives of these UV observables exhibit extrema near the quantum\ncritical point. Analytical results show these critical behaviors arise from the\ndeformation of the asymptotic bulk geometry. Moreover, these UV diagnostics\nshow enhanced robustness to thermal fluctuations compared to typical infrared\n(IR) diagnostics, providing a clean method to identify quantum criticality at\nfinite temperature. This work opens a new window for exploring quantum critical\nphenomena via UV physics in the laboratory.",
+            "pdf_url": "http://arxiv.org/pdf/2507.07899v1",
+            "published": "2025-07-10 16:27:42+00:00",
+            "updated": "2025-07-10 16:27:42+00:00"
+        }
+    ],
+    "Diffusion": [
+        {
+            "title": "EXPO: Stable Reinforcement Learning with Expressive Policies",
+            "authors": "Perry Dong, Qiyang Li, Dorsa Sadigh, Chelsea Finn",
+            "summary": "We study the problem of training and fine-tuning expressive policies with\nonline reinforcement learning (RL) given an offline dataset. Training\nexpressive policy classes with online RL present a unique challenge of stable\nvalue maximization. Unlike simpler Gaussian policies commonly used in online\nRL, expressive policies like diffusion and flow-matching policies are\nparameterized by a long denoising chain, which hinders stable gradient\npropagation from actions to policy parameters when optimizing against some\nvalue function. Our key insight is that we can address stable value\nmaximization by avoiding direct optimization over value with the expressive\npolicy and instead construct an on-the-fly RL policy to maximize Q-value. We\npropose Expressive Policy Optimization (EXPO), a sample-efficient online RL\nalgorithm that utilizes an on-the-fly policy to maximize value with two\nparameterized policies -- a larger expressive base policy trained with a stable\nimitation learning objective and a light-weight Gaussian edit policy that edits\nthe actions sampled from the base policy toward a higher value distribution.\nThe on-the-fly policy optimizes the actions from the base policy with the\nlearned edit policy and chooses the value maximizing action from the base and\nedited actions for both sampling and temporal-difference (TD) backup. Our\napproach yields up to 2-3x improvement in sample efficiency on average over\nprior methods both in the setting of fine-tuning a pretrained policy given\noffline data and in leveraging offline data to train online.",
+            "pdf_url": "http://arxiv.org/pdf/2507.07986v1",
+            "published": "2025-07-10 17:57:46+00:00",
+            "updated": "2025-07-10 17:57:46+00:00"
+        },
+        {
+            "title": "Low Resource Reconstruction Attacks Through Benign Prompts",
+            "authors": "Sol Yarkoni, Roi Livni",
+            "summary": "The recent advances in generative models such as diffusion models have raised\nseveral risks and concerns related to privacy, copyright infringements and data\nstewardship. To better understand and control the risks, various researchers\nhave created techniques, experiments and attacks that reconstruct images, or\npart of images, from the training set. While these techniques already establish\nthat data from the training set can be reconstructed, they often rely on\nhigh-resources, excess to the training set as well as well-engineered and\ndesigned prompts.\n  In this work, we devise a new attack that requires low resources, assumes\nlittle to no access to the actual training set, and identifies, seemingly,\nbenign prompts that lead to potentially-risky image reconstruction. This\nhighlights the risk that images might even be reconstructed by an uninformed\nuser and unintentionally. For example, we identified that, with regard to one\nexisting model, the prompt ``blue Unisex T-Shirt'' can generate the face of a\nreal-life human model. Our method builds on an intuition from previous works\nwhich leverages domain knowledge and identifies a fundamental vulnerability\nthat stems from the use of scraped data from e-commerce platforms, where\ntemplated layouts and images are tied to pattern-like prompts.",
+            "pdf_url": "http://arxiv.org/pdf/2507.07947v1",
+            "published": "2025-07-10 17:32:26+00:00",
+            "updated": "2025-07-10 17:32:26+00:00"
+        },
+        {
+            "title": "Multi-modal Generative AI: Multi-modal LLMs, Diffusions and the Unification",
+            "authors": "Xin Wang, Yuwei Zhou, Bin Huang, Hong Chen, Wenwu Zhu",
+            "summary": "Multi-modal generative AI (Artificial Intelligence) has attracted increasing\nattention from both academia and industry. Particularly, two dominant families\nof techniques have emerged: i) Multi-modal large language models (LLMs)\ndemonstrate impressive ability for multi-modal understanding; and ii) Diffusion\nmodels exhibit remarkable multi-modal powers in terms of multi-modal\ngeneration. Therefore, this paper provides a comprehensive overview of\nmulti-modal generative AI, including multi-modal LLMs, diffusions, and the\nunification for understanding and generation. To lay a solid foundation for\nunified models, we first provide a detailed review of both multi-modal LLMs and\ndiffusion models respectively, including their probabilistic modeling\nprocedure, multi-modal architecture design, and advanced applications to\nimage/video LLMs as well as text-to-image/video generation. Furthermore, we\nexplore the emerging efforts toward unified models for understanding and\ngeneration. To achieve the unification of understanding and generation, we\ninvestigate key designs including autoregressive-based and diffusion-based\nmodeling, as well as dense and Mixture-of-Experts (MoE) architectures. We then\nintroduce several strategies for unified models, analyzing their potential\nadvantages and disadvantages. In addition, we summarize the common datasets\nwidely used for multi-modal generative AI pretraining. Last but not least, we\npresent several challenging future research directions which may contribute to\nthe ongoing advancement of multi-modal generative AI.",
+            "pdf_url": "http://arxiv.org/pdf/2409.14993v2",
+            "published": "2024-09-23 13:16:09+00:00",
+            "updated": "2025-07-10 17:30:56+00:00"
+        },
+        {
+            "title": "Re-Bottleneck: Latent Re-Structuring for Neural Audio Autoencoders",
+            "authors": "Dimitrios Bralios, Jonah Casebeer, Paris Smaragdis",
+            "summary": "Neural audio codecs and autoencoders have emerged as versatile models for\naudio compression, transmission, feature-extraction, and latent-space\ngeneration. However, a key limitation is that most are trained to maximize\nreconstruction fidelity, often neglecting the specific latent structure\nnecessary for optimal performance in diverse downstream applications. We\npropose a simple, post-hoc framework to address this by modifying the\nbottleneck of a pre-trained autoencoder. Our method introduces a\n\"Re-Bottleneck\", an inner bottleneck trained exclusively through latent space\nlosses to instill user-defined structure. We demonstrate the framework's\neffectiveness in three experiments. First, we enforce an ordering on latent\nchannels without sacrificing reconstruction quality. Second, we align latents\nwith semantic embeddings, analyzing the impact on downstream diffusion\nmodeling. Third, we introduce equivariance, ensuring that a filtering operation\non the input waveform directly corresponds to a specific transformation in the\nlatent space. Ultimately, our Re-Bottleneck framework offers a flexible and\nefficient way to tailor representations of neural audio models, enabling them\nto seamlessly meet the varied demands of different applications with minimal\nadditional training.",
+            "pdf_url": "http://arxiv.org/pdf/2507.07867v1",
+            "published": "2025-07-10 15:47:43+00:00",
+            "updated": "2025-07-10 15:47:43+00:00"
+        },
+        {
+            "title": "Predicting and generating antibiotics against future pathogens with ApexOracle",
+            "authors": "Tianang Leng, Fangping Wan, Marcelo Der Torossian Torres, Cesar de la Fuente-Nunez",
+            "summary": "Antimicrobial resistance (AMR) is escalating and outpacing current antibiotic\ndevelopment. Thus, discovering antibiotics effective against emerging pathogens\nis becoming increasingly critical. However, existing approaches cannot rapidly\nidentify effective molecules against novel pathogens or emerging drug-resistant\nstrains. Here, we introduce ApexOracle, an artificial intelligence (AI) model\nthat both predicts the antibacterial potency of existing compounds and designs\nde novo molecules active against strains it has never encountered. Departing\nfrom models that rely solely on molecular features, ApexOracle incorporates\npathogen-specific context through the integration of molecular features\ncaptured via a foundational discrete diffusion language model and a\ndual-embedding framework that combines genomic- and literature-derived strain\nrepresentations. Across diverse bacterial species and chemical modalities,\nApexOracle consistently outperformed state-of-the-art approaches in activity\nprediction and demonstrated reliable transferability to novel pathogens with\nlittle or no antimicrobial data. Its unified representation-generation\narchitecture further enables the in silico creation of \"new-to-nature\"\nmolecules with high predicted efficacy against priority threats. By pairing\nrapid activity prediction with targeted molecular generation, ApexOracle offers\na scalable strategy for countering AMR and preparing for future\ninfectious-disease outbreaks.",
+            "pdf_url": "http://arxiv.org/pdf/2507.07862v1",
+            "published": "2025-07-10 15:42:31+00:00",
+            "updated": "2025-07-10 15:42:31+00:00"
+        }
+    ]
+}
