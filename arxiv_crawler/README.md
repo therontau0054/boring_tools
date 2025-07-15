@@ -181,6 +181,34 @@ TODO:
 
 
 
+
+## Update on 2025-07-15
+
+### Physics
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-06-24|2025-07-14|Ark: An Open-source Python-based Framework for Robot Learning|Magnus Dierking|[2506.21628v2](http://arxiv.org/pdf/2506.21628v2)|
+|2025-07-14|2025-07-14|Statistics of stochastic entropy for recorded transitions between ENSO states|Sílvio M. Duarte Queirós|[2507.10516v1](http://arxiv.org/pdf/2507.10516v1)|
+|2025-07-14|2025-07-14|Signatures of Odd-Parity $s$-wave $Ξ^*$ States in Femtoscopic Correlation Functions|Jia-Xin Lin|[2507.10505v1](http://arxiv.org/pdf/2507.10505v1)|
+|2025-07-14|2025-07-14|$^{88}$Sr Reference Data|Sebastian Pucher|[2507.10487v1](http://arxiv.org/pdf/2507.10487v1)|
+|2025-07-14|2025-07-14|What is the diatomic molecule with the largest dipole moment?|Ahmed Elhalawani|[2507.10462v1](http://arxiv.org/pdf/2507.10462v1)|
+|2025-07-07|2025-07-14|Extraction of ground-state nuclear deformations from ultra-relativistic heavy-ion collisions: Nuclear structure physics context|J. Dobaczewski|[2507.05208v2](http://arxiv.org/pdf/2507.05208v2)|
+|2025-04-26|2025-07-14|Magnetic Dipole Trapping Potential between Infinite Superconducting Plates|Francis J. Headley|[2504.18852v4](http://arxiv.org/pdf/2504.18852v4)|
+|2025-07-14|2025-07-14|On physical consistency of HLL-type Riemann solvers for ideal MHD|Fan Zhang|[2507.10420v1](http://arxiv.org/pdf/2507.10420v1)|
+|2025-07-14|2025-07-14|Polaritonic Machine Learning for Graph-based Data Analysis|Yuan Wang|[2507.10415v1](http://arxiv.org/pdf/2507.10415v1)|
+|2025-07-08|2025-07-14|BayesSDF: Surface-Based Laplacian Uncertainty Estimation for 3D Geometry with Neural Signed Distance Fields|Rushil Desai|[2507.06269v2](http://arxiv.org/pdf/2507.06269v2)|
+
+### Diffusion
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-07-14|2025-07-14|Can You Detect the Difference?|İsmail Tarım|[2507.10475v1](http://arxiv.org/pdf/2507.10475v1)|
+|2025-07-14|2025-07-14|Parallel Sampling of Diffusion Models on $SO(3)$|Yan-Ting Chen|[2507.10347v1](http://arxiv.org/pdf/2507.10347v1)|
+|2025-07-06|2025-07-14|Zero-Shot Cyclic Peptide Design via Composable Geometric Constraints|Dapeng Jiang|[2507.04225v2](http://arxiv.org/pdf/2507.04225v2)|
+
+### Quantitative Finance
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-07-11|2025-07-11|Tensor train representations of Greeks for Fourier-based pricing of multi-asset options|Rihito Sakurai|[2507.08482v1](http://arxiv.org/pdf/2507.08482v1)|
 ## Update on 2025-07-11
 
 ### Physics

@@ -1,0 +1,120 @@
+{
+    "Physics": [
+        {
+            "title": "Ark: An Open-source Python-based Framework for Robot Learning",
+            "authors": "Magnus Dierking, Christopher E. Mower, Sarthak Das, Huang Helong, Jiacheng Qiu, Cody Reading, Wei Chen, Huidong Liang, Huang Guowei, Jan Peters, Quan Xingyue, Jun Wang, Haitham Bou-Ammar",
+            "summary": "Robotics has made remarkable hardware strides-from DARPA's Urban and Robotics\nChallenges to the first humanoid-robot kickboxing tournament-yet commercial\nautonomy still lags behind progress in machine learning. A major bottleneck is\nsoftware: current robot stacks demand steep learning curves, low-level C/C++\nexpertise, fragmented tooling, and intricate hardware integration, in stark\ncontrast to the Python-centric, well-documented ecosystems that propelled\nmodern AI. We introduce ARK, an open-source, Python-first robotics framework\ndesigned to close that gap. ARK presents a Gym-style environment interface that\nallows users to collect data, preprocess it, and train policies using\nstate-of-the-art imitation-learning algorithms (e.g., ACT, Diffusion Policy)\nwhile seamlessly toggling between high-fidelity simulation and physical robots.\nA lightweight client-server architecture provides networked\npublisher-subscriber communication, and optional C/C++ bindings ensure\nreal-time performance when needed. ARK ships with reusable modules for control,\nSLAM, motion planning, system identification, and visualization, along with\nnative ROS interoperability. Comprehensive documentation and case studies-from\nmanipulation to mobile navigation-demonstrate rapid prototyping, effortless\nhardware swapping, and end-to-end pipelines that rival the convenience of\nmainstream machine-learning workflows. By unifying robotics and AI practices\nunder a common Python umbrella, ARK lowers entry barriers and accelerates\nresearch and commercial deployment of autonomous robots.",
+            "pdf_url": "http://arxiv.org/pdf/2506.21628v2",
+            "published": "2025-06-24 20:23:39+00:00",
+            "updated": "2025-07-14 17:46:29+00:00"
+        },
+        {
+            "title": "Statistics of stochastic entropy for recorded transitions between ENSO states",
+            "authors": "S\u00edlvio M. Duarte Queir\u00f3s",
+            "summary": "We analyse the transitions between established phases of the El Ni\\~no\nSouthern Oscillation (ENSO) by surveying the daily data of the Southern\nOscillation Index from an entropic viewpoint using the framework of stochastic\nStatistical Physics. We evaluate the variation of entropy produced due to each\nrecorded path of that index during each transition as well as taking only into\nconsideration the beginning and the end of the change between phases and\nverified both integral fluctuation relations. The statistical results show that\nthese entropy variations have not been extreme entropic events; only the\ntransition between the strong $1999-2000$ La Ni\\~na to the moderate $2002-2003$\nEl Ni\\~no is at the edge of being so. With that, the present work opens a long\nand winding avenue of research over the application of stochastic Statistical\nPhysics to Climate Dynamics.",
+            "pdf_url": "http://arxiv.org/pdf/2507.10516v1",
+            "published": "2025-07-14 17:42:36+00:00",
+            "updated": "2025-07-14 17:42:36+00:00"
+        },
+        {
+            "title": "Signatures of Odd-Parity $s$-wave $\u039e^*$ States in Femtoscopic Correlation Functions",
+            "authors": "Jia-Xin Lin, Pablo Encarnaci\u00f3n, Miguel Albaladejo, Albert Feijoo",
+            "summary": "We investigate the $\\Xi^*$ resonances within the molecular picture, where\nthese states are dynamically generated as poles in the unitarized scattering\namplitudes arising from the coupled-channel interactions of $K^{*-} \\Lambda$,\n$K^{*-} \\Sigma^0$, $\\rho^- \\Xi^0$, $\\overline{K}{}^{*0} \\Sigma^-$, $\\rho^0\n\\Xi^-$, $\\omega \\Xi^-$, and $\\phi \\Xi^-$. The interaction kernel is derived\nfrom the local hidden gauge formalism, while the unitarization procedure\nemploys a hybrid method that combines cutoff and dimensional regularizations in\nthe evaluation of the loop function. From a detailed spectroscopic analysis, we\nidentify two $S = -2$ baryon states whose properties are compatible with some\nof the $\\Xi^*$ resonances listed in the Review of Particle Physics. To explore\ntheir possible experimental signatures, we compute the femtoscopic correlation\nfunctions for all the vector-baryon pairs considered in the present study,\nusing realistic estimates of production weights and varying source sizes $R =\n1, 1.1, 1.2, 1.3, 1.5$ fm.",
+            "pdf_url": "http://arxiv.org/pdf/2507.10505v1",
+            "published": "2025-07-14 17:29:37+00:00",
+            "updated": "2025-07-14 17:29:37+00:00"
+        },
+        {
+            "title": "$^{88}$Sr Reference Data",
+            "authors": "Sebastian Pucher, Sofus Laguna Kristensen, Ronen M. Kroeze",
+            "summary": "Strontium-88 is a versatile atomic species often used in quantum optics,\nprecision metrology, and quantum computing. Consolidated atomic data is\nessential for the planning, execution, and evaluation of experiments. In this\nreference, we present physical and optical properties of neutral $^{88}$Sr\nrelevant to these applications. Here we focus on experimental results and\nsupplement these with theoretical values. We present equations to convert\nvalues and derive important parameters. Tabulated results include key\nparameters for commonly used transitions in $^{88}$Sr ($^1\\mathrm{S}_0\n\\rightarrow \\, ^1\\mathrm{P}_1$, $^1\\mathrm{S}_0 \\rightarrow \\,\n^3\\mathrm{P}_{0,1,2}$, and $^3\\mathrm{P}_{0,1,2} \\rightarrow \\,\n^3\\mathrm{S}_1$). This dataset serves as an up-to-date reference for studies\ninvolving bosonic $^{88}$Sr.",
+            "pdf_url": "http://arxiv.org/pdf/2507.10487v1",
+            "published": "2025-07-14 17:09:39+00:00",
+            "updated": "2025-07-14 17:09:39+00:00"
+        },
+        {
+            "title": "What is the diatomic molecule with the largest dipole moment?",
+            "authors": "Ahmed Elhalawani, Ruiren Shi, Mateo Londo\u00f1o Castellanos, Michal Tomza, Jes\u00fas P\u00e9rez R\u00edos",
+            "summary": "We present a machine learning model for predicting the electric dipole moment\nof diatomic molecules using only the atomic properties of the constituent\natoms. Our model can screen the entire periodic table and identify the\nmolecules with the largest dipole moment for applications in cold molecular\nsciences, or find the molecule with the largest dipole moment that contains a\ngiven atom. Similarly, our model identifies useful trends that explain the\ndipole moment of molecules, improving our intuition in chemical physics.\nFinally, we condense our model into an analytical expression to predict the\ndipole moment in terms of atomic properties.",
+            "pdf_url": "http://arxiv.org/pdf/2507.10462v1",
+            "published": "2025-07-14 16:39:45+00:00",
+            "updated": "2025-07-14 16:39:45+00:00"
+        },
+        {
+            "title": "Extraction of ground-state nuclear deformations from ultra-relativistic heavy-ion collisions: Nuclear structure physics context",
+            "authors": "J. Dobaczewski, A. Gade, K. Godbey, R. V. F. Janssens, W. Nazarewicz",
+            "summary": "The collective-flow-assisted nuclear shape-imaging method in\nultra-relativistic heavy-ion collisions has recently been used to characterize\nnuclear collective states. In this paper, we assess the foundations of the\nshape-imaging technique employed in these studies. We conclude that, on the\nwhole, the discussion regarding low-energy nuclear physics is confusing and the\nsuggested impact on nuclear structure research is overstated. Conversely,\nefforts to incorporate existing knowledge on nuclear shapes into analysis\npipelines can be beneficial for benchmarking tools and calibrating models used\nto extract information from ultra-relativistic heavy ion experiments.",
+            "pdf_url": "http://arxiv.org/pdf/2507.05208v2",
+            "published": "2025-07-07 17:18:25+00:00",
+            "updated": "2025-07-14 16:27:46+00:00"
+        },
+        {
+            "title": "Magnetic Dipole Trapping Potential between Infinite Superconducting Plates",
+            "authors": "Francis J. Headley",
+            "summary": "We derive the exact analytic form of the potential experienced by a magnetic\ndipole trapped between two infinite parallel superconducting plates using the\nmethod of image dipoles, providing a benchmark for numerical methods and a\nfoundation for studying the stability and dynamics of magnetically levitated\nsystems in precision measurements and fundamental physics experiments.",
+            "pdf_url": "http://arxiv.org/pdf/2504.18852v4",
+            "published": "2025-04-26 08:32:45+00:00",
+            "updated": "2025-07-14 16:24:10+00:00"
+        },
+        {
+            "title": "On physical consistency of HLL-type Riemann solvers for ideal MHD",
+            "authors": "Fan Zhang, Andrea Lani, Stefaan Poedts",
+            "summary": "Approximate Riemann solvers are widely used for solving hyperbolic\nconservation laws, including those of magnetohydrodynamics (MHD). However, due\nto the nonlinearity and complexity of MHD, obtaining accurate and robust\nnumerical solutions to MHD equations is non-trivial, and it may be challenging\nfor an approximate MHD Riemann solver to preserve the positivity of scalar\nvariables, particularly when the plasma beta is low. As we have identified that\nthe inconsistency between the numerically calculated magnetic field and\nmagnetic energy may be responsible for the loss of positivity of scalar\nvariables, we propose a physical consistency condition and implement it in\nHLL-type MHD Riemann solvers, thus alleviating the erroneous magnetic field\nsolutions breaking scalar positivity. In addition, (I) for the HLLC-type\nscheme, we have designed a revised two-state approximation, specifically\nreducing numerical error in magnetic field solutions, and (II) for the\nHLLD-type scheme, we replace the constant total pressure assumption by a\nthree-state assumption for the intermediate thermal energy, which is more\nconsistent with our other assumptions. The proposed schemes perform better in\nnumerical examples with low plasma \\b{eta}. Moreover, we explained the energy\nerror introduced during time integration.",
+            "pdf_url": "http://arxiv.org/pdf/2507.10420v1",
+            "published": "2025-07-14 16:03:30+00:00",
+            "updated": "2025-07-14 16:03:30+00:00"
+        },
+        {
+            "title": "Polaritonic Machine Learning for Graph-based Data Analysis",
+            "authors": "Yuan Wang, Stefano Scali, Oleksandr Kyriienko",
+            "summary": "Photonic and polaritonic systems offer a fast and efficient platform for\naccelerating machine learning (ML) through physics-based computing. To gain a\ncomputational advantage, however, polaritonic systems must: (1) exploit\nfeatures that specifically favor nonlinear optical processing; (2) address\nproblems that are computationally hard and depend on these features; (3)\nintegrate photonic processing within broader ML pipelines. In this letter, we\npropose a polaritonic machine learning approach for solving graph-based data\nproblems. We demonstrate how lattices of condensates can efficiently embed\nrelational and topological information from point cloud datasets. This\ninformation is then incorporated into a pattern recognition workflow based on\nconvolutional neural networks (CNNs), leading to significantly improved\nlearning performance compared to physics-agnostic methods. Our extensive\nbenchmarking shows that photonic machine learning achieves over 90\\% accuracy\nfor Betti number classification and clique detection tasks - a substantial\nimprovement over the 35\\% accuracy of bare CNNs. Our study introduces a\ndistinct way of using photonic systems as fast tools for feature engineering,\nwhile building on top of high-performing digital machine learning.",
+            "pdf_url": "http://arxiv.org/pdf/2507.10415v1",
+            "published": "2025-07-14 15:57:22+00:00",
+            "updated": "2025-07-14 15:57:22+00:00"
+        },
+        {
+            "title": "BayesSDF: Surface-Based Laplacian Uncertainty Estimation for 3D Geometry with Neural Signed Distance Fields",
+            "authors": "Rushil Desai",
+            "summary": "Quantifying uncertainty in neural implicit 3D representations, particularly\nthose utilizing Signed Distance Functions (SDFs), remains a substantial\nchallenge due to computational inefficiencies, scalability issues, and\ngeometric inconsistencies. Existing methods typically neglect direct geometric\nintegration, leading to poorly calibrated uncertainty maps. We introduce\nBayesSDF, a novel probabilistic framework for uncertainty quantification in\nneural implicit SDF models, motivated by scientific simulation applications\nwith 3D environments (e.g., forests) such as modeling fluid flow through\nforests, where precise surface geometry and reliable uncertainty estimates are\nessential. Unlike radiance-based models such as Neural Radiance Fields (NeRF)\nor 3D Gaussian splatting, which lack explicit surface formulations, Signed\nDistance Functions (SDFs) define continuous and differentiable geometry, making\nthem better suited for physical modeling and analysis. BayesSDF leverages a\nLaplace approximation to quantify local surface instability using Hessian-based\nmetrics, enabling efficient, surfaceaware uncertainty estimation. Our method\nshows that uncertainty predictions correspond closely with poorly reconstructed\ngeometry, providing actionable confidence measures for downstream use.\nExtensive evaluations on synthetic and real-world datasets demonstrate that\nBayesSDF outperforms existing methods in both calibration and geometric\nconsistency, establishing a strong foundation for uncertainty-aware 3D scene\nreconstruction, simulation, and robotic decision-making.",
+            "pdf_url": "http://arxiv.org/pdf/2507.06269v2",
+            "published": "2025-07-08 03:21:12+00:00",
+            "updated": "2025-07-14 15:52:55+00:00"
+        }
+    ],
+    "Diffusion": [
+        {
+            "title": "Can You Detect the Difference?",
+            "authors": "\u0130smail Tar\u0131m, Aytu\u011f Onan",
+            "summary": "The rapid advancement of large language models (LLMs) has raised concerns\nabout reliably detecting AI-generated text. Stylometric metrics work well on\nautoregressive (AR) outputs, but their effectiveness on diffusion-based models\nis unknown. We present the first systematic comparison of diffusion-generated\ntext (LLaDA) and AR-generated text (LLaMA) using 2 000 samples. Perplexity,\nburstiness, lexical diversity, readability, and BLEU/ROUGE scores show that\nLLaDA closely mimics human text in perplexity and burstiness, yielding high\nfalse-negative rates for AR-oriented detectors. LLaMA shows much lower\nperplexity but reduced lexical fidelity. Relying on any single metric fails to\nseparate diffusion outputs from human writing. We highlight the need for\ndiffusion-aware detectors and outline directions such as hybrid models,\ndiffusion-specific stylometric signatures, and robust watermarking.",
+            "pdf_url": "http://arxiv.org/pdf/2507.10475v1",
+            "published": "2025-07-14 16:55:57+00:00",
+            "updated": "2025-07-14 16:55:57+00:00"
+        },
+        {
+            "title": "Parallel Sampling of Diffusion Models on $SO(3)$",
+            "authors": "Yan-Ting Chen, Hao-Wei Chen, Tsu-Ching Hsiao, Chun-Yi Lee",
+            "summary": "In this paper, we design an algorithm to accelerate the diffusion process on\nthe $SO(3)$ manifold. The inherently sequential nature of diffusion models\nnecessitates substantial time for denoising perturbed data. To overcome this\nlimitation, we proposed to adapt the numerical Picard iteration for the $SO(3)$\nspace. We demonstrate our algorithm on an existing method that employs\ndiffusion models to address the pose ambiguity problem. Moreover, we show that\nthis acceleration advantage occurs without any measurable degradation in task\nreward. The experiments reveal that our algorithm achieves a speed-up of up to\n4.9$\\times$, significantly reducing the latency for generating a single sample.",
+            "pdf_url": "http://arxiv.org/pdf/2507.10347v1",
+            "published": "2025-07-14 14:51:02+00:00",
+            "updated": "2025-07-14 14:51:02+00:00"
+        },
+        {
+            "title": "Zero-Shot Cyclic Peptide Design via Composable Geometric Constraints",
+            "authors": "Dapeng Jiang, Xiangzhe Kong, Jiaqi Han, Mingyu Li, Rui Jiao, Wenbing Huang, Stefano Ermon, Jianzhu Ma, Yang Liu",
+            "summary": "Cyclic peptides, characterized by geometric constraints absent in linear\npeptides, offer enhanced biochemical properties, presenting new opportunities\nto address unmet medical needs. However, designing target-specific cyclic\npeptides remains underexplored due to limited training data. To bridge the gap,\nwe propose CP-Composer, a novel generative framework that enables zero-shot\ncyclic peptide generation via composable geometric constraints. Our approach\ndecomposes complex cyclization patterns into unit constraints, which are\nincorporated into a diffusion model through geometric conditioning on nodes and\nedges. During training, the model learns from unit constraints and their random\ncombinations in linear peptides, while at inference, novel constraint\ncombinations required for cyclization are imposed as input. Experiments show\nthat our model, despite trained with linear peptides, is capable of generating\ndiverse target-binding cyclic peptides, reaching success rates from 38% to 84%\non different cyclization strategies.",
+            "pdf_url": "http://arxiv.org/pdf/2507.04225v2",
+            "published": "2025-07-06 03:30:45+00:00",
+            "updated": "2025-07-14 14:33:47+00:00"
+        }
+    ],
+    "Quantitative Finance": [
+        {
+            "title": "Tensor train representations of Greeks for Fourier-based pricing of multi-asset options",
+            "authors": "Rihito Sakurai, Koichi Miyamoto, Tsuyoshi Okubo",
+            "summary": "Efficient computation of Greeks for multi-asset options remains a key\nchallenge in quantitative finance. While Monte Carlo (MC) simulation is widely\nused, it suffers from the large sample complexity for high accuracy. We propose\na framework to compute Greeks in a single evaluation of a tensor train (TT),\nwhich is obtained by compressing the Fourier transform (FT)-based pricing\nfunction via TT learning using tensor cross interpolation. Based on this TT\nrepresentation, we introduce two approaches to compute Greeks: a numerical\ndifferentiation (ND) approach that applies a numerical differential operator to\none tensor core and an analytical (AN) approach that constructs the TT of\nclosed-form differentiation expressions of FT-based pricing. Numerical\nexperiments on a five-asset min-call option in the Black-Sholes model show\nsignificant speed-ups of up to about $10^{5} \\times$ over MC while maintaining\ncomparable accuracy. The ND approach matches or exceeds the accuracy of the AN\napproach and requires lower computational complexity for constructing the TT\nrepresentation, making it the preferred choice.",
+            "pdf_url": "http://arxiv.org/pdf/2507.08482v1",
+            "published": "2025-07-11 10:51:17+00:00",
+            "updated": "2025-07-11 10:51:17+00:00"
+        }
+    ]
+}
