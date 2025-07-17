@@ -182,6 +182,31 @@ TODO:
 
 
 
+
+## Update on 2025-07-17
+
+### Physics
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2024-11-13|2025-07-16|Fault-tolerant fermionic quantum computing|Alexander Schuckert|[2411.08955v2](http://arxiv.org/pdf/2411.08955v2)|
+|2023-08-17|2025-07-16|The Utility of the Virtual Imaging Trials Methodology for Objective Characterization of AI Systems and Training Data|Fakrul Islam Tushar|[2308.09730v5](http://arxiv.org/pdf/2308.09730v5)|
+|2025-06-10|2025-07-16|Radiation-Reaction on the Straight-Line Motion of a Point Charge accelerated by a constant applied Electric Field in an Electromagnetic Bopp-Landé-Thomas-Podolsky vacuum|Ryan J. McGuigan|[2506.08799v2](http://arxiv.org/pdf/2506.08799v2)|
+|2025-07-14|2025-07-16|"Is it always watching? Is it always listening?" Exploring Contextual Privacy and Security Concerns Toward Domestic Social Robots|Henry Bell|[2507.10786v2](http://arxiv.org/pdf/2507.10786v2)|
+|2025-07-16|2025-07-16|Bounding the asymptotic quantum value of all multipartite compiled non-local games|Matilde Baroni|[2507.12408v1](http://arxiv.org/pdf/2507.12408v1)|
+|2025-06-06|2025-07-16|Light Scalars in the Extended Georgi-Machacek Model|Poulami Mondal|[2506.06427v2](http://arxiv.org/pdf/2506.06427v2)|
+|2025-01-30|2025-07-16|Deep Learning-Assisted Fourier Analysis for High-Efficiency Structural Design: A Case Study on Three-Dimensional Photonic Crystals Enumeration|Congcong Cui|[2501.18495v2](http://arxiv.org/pdf/2501.18495v2)|
+|2025-07-16|2025-07-16|Neural Network-Guided Symbolic Regression for Interpretable Descriptor Discovery in Perovskite Catalysts|Yeming Xian|[2507.12404v1](http://arxiv.org/pdf/2507.12404v1)|
+|2025-07-16|2025-07-16|Beyond Ground States: Physics-Inspired Optimization of Excited States of Classical Hamiltonians|Erik Altelarrea-Ferré|[2507.12394v1](http://arxiv.org/pdf/2507.12394v1)|
+|2025-07-16|2025-07-16|Derivation of the time-dependent Hartree equations for strongly interacting dense fermionic systems|Duc Viet Hoang|[2507.12390v1](http://arxiv.org/pdf/2507.12390v1)|
+
+### Diffusion
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-07-16|2025-07-16|Compositional Discrete Latent Code for High Fidelity, Productive Diffusion Models|Samuel Lavoie|[2507.12318v1](http://arxiv.org/pdf/2507.12318v1)|
+|2025-07-16|2025-07-16|RadioDiff-3D: A 3D$\times$3D Radio Map Dataset and Generative Diffusion Based Benchmark for 6G Environment-Aware Communication|Xiucheng Wang|[2507.12166v1](http://arxiv.org/pdf/2507.12166v1)|
+|2025-07-16|2025-07-16|FourCastNet 3: A geometric approach to probabilistic machine-learning weather forecasting at scale|Boris Bonev|[2507.12144v1](http://arxiv.org/pdf/2507.12144v1)|
+|2025-07-16|2025-07-16|RiemannLoRA: A Unified Riemannian Framework for Ambiguity-Free LoRA Optimization|Vladimir Bogachev|[2507.12142v1](http://arxiv.org/pdf/2507.12142v1)|
+|2025-03-14|2025-07-16|Neurons: Emulating the Human Visual Cortex Improves Fidelity and Interpretability in fMRI-to-Video Reconstruction|Haonan Wang|[2503.11167v3](http://arxiv.org/pdf/2503.11167v3)|
 ## Update on 2025-07-15
 
 ### Physics
