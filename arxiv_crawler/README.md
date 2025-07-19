@@ -183,6 +183,30 @@ TODO:
 
 
 
+
+## Update on 2025-07-19
+
+### Physics
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-07-17|2025-07-17|Effective field theory for superfluid vortex lattice from coset construction|Aleksander Głódkowski|[2507.13352v1](http://arxiv.org/pdf/2507.13352v1)|
+|2025-07-17|2025-07-17|Challenges for describing unitary evolution in nontrivial geometries: pictures and representations|Steven B. Giddings|[2507.13351v1](http://arxiv.org/pdf/2507.13351v1)|
+|2025-07-17|2025-07-17|Expansion creates spin-glass order in finite-connectivity models: a rigorous and intuitive approach from the theory of LDPC codes|Benedikt Placke|[2507.13342v1](http://arxiv.org/pdf/2507.13342v1)|
+|2025-04-30|2025-07-17|Advancing Seasonal Prediction of Tropical Cyclone Activity with a Hybrid AI-Physics Climate Model|Gan Zhang|[2505.01455v2](http://arxiv.org/pdf/2505.01455v2)|
+|2024-04-25|2025-07-17|A fast and accurate method for inferring solid-state diffusivity in lithium-ion battery active materials: improving upon the classical GITT approach|A. Emir Gumrukcuoglu|[2404.16658v2](http://arxiv.org/pdf/2404.16658v2)|
+|2025-07-17|2025-07-17|Partial decidability protocol for the Wang tiling problem from statistical mechanics and chaotic mapping|Fabrizio Canfora|[2507.13268v1](http://arxiv.org/pdf/2507.13268v1)|
+|2025-07-17|2025-07-17|State transfer analysis for linear spin chains with non-uniform on-site energies|Chad C. Nelmes|[2507.13261v1](http://arxiv.org/pdf/2507.13261v1)|
+|2025-07-15|2025-07-17|A Roadmap for Climate-Relevant Robotics Research|Alan Papalia|[2507.11623v2](http://arxiv.org/pdf/2507.11623v2)|
+|2025-06-30|2025-07-17|Quantum stress-energy at timelike boundaries: testing a new beyond-$Λ$CDM parameter with cosmological data|Oliver H. E. Philcox|[2507.00115v2](http://arxiv.org/pdf/2507.00115v2)|
+|2025-07-17|2025-07-17|Resources for bosonic metrology: quantum-enhanced precision from a superselection rule perspective|Astghik Saharyan|[2507.13245v1](http://arxiv.org/pdf/2507.13245v1)|
+
+### Diffusion
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-04-28|2025-07-17|Generative Diffusion Models for Resource Allocation in Wireless Networks|Yigit Berkay Uslu|[2504.20277v2](http://arxiv.org/pdf/2504.20277v2)|
+|2025-07-17|2025-07-17|VITA: Vision-to-Action Flow Matching Policy|Dechen Gao|[2507.13231v1](http://arxiv.org/pdf/2507.13231v1)|
+|2025-07-17|2025-07-17|Deep Learning-Based Fetal Lung Segmentation from Diffusion-weighted MRI Images and Lung Maturity Evaluation for Fetal Growth Restriction|Zhennan Xiao|[2507.13106v1](http://arxiv.org/pdf/2507.13106v1)|
+|2025-05-27|2025-07-17|Uni-Instruct: One-step Diffusion Model through Unified Diffusion Divergence Instruction|Yifei Wang|[2505.20755v2](http://arxiv.org/pdf/2505.20755v2)|
 ## Update on 2025-07-17
 
 ### Physics
