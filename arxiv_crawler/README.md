@@ -184,6 +184,36 @@ TODO:
 
 
 
+
+## Update on 2025-07-21
+
+### Physics
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-07-18|2025-07-18|On the relation between perspective-neutral, algebraic, and effective quantum reference frames|Philipp A. Hoehn|[2507.14131v1](http://arxiv.org/pdf/2507.14131v1)|
+|2025-07-18|2025-07-18|NoHumansRequired: Autonomous High-Quality Image Editing Triplet Mining|Maksim Kuprashevich|[2507.14119v1](http://arxiv.org/pdf/2507.14119v1)|
+|2025-07-18|2025-07-18|Spatiotemporal Order and Parametric Instabilities from First-Principles|Daniel Kaplan|[2507.14110v1](http://arxiv.org/pdf/2507.14110v1)|
+|2025-07-18|2025-07-18|An Adversarial-Driven Experimental Study on Deep Learning for RF Fingerprinting|Xinyu Cao|[2507.14109v1](http://arxiv.org/pdf/2507.14109v1)|
+|2025-07-17|2025-07-18|Ultrafast thermal boundary conductance under large temperature discontinuities of ultrathin epitaxial Pb films on Si(111)|Christian Brand|[2507.13109v2](http://arxiv.org/pdf/2507.13109v2)|
+|2025-07-18|2025-07-18|Generative AI-Driven High-Fidelity Human Motion Simulation|Hari Iyer|[2507.14097v1](http://arxiv.org/pdf/2507.14097v1)|
+|2025-07-18|2025-07-18|Machine Learning-aided Optimal Control of a noisy qubit|Riccardo Cantone|[2507.14085v1](http://arxiv.org/pdf/2507.14085v1)|
+|2024-03-21|2025-07-18|Constraining scalars of $16_H$ through proton decays in non-renormalisable $SO(10)$ models|Saurabh K. Shukla|[2403.14331v2](http://arxiv.org/pdf/2403.14331v2)|
+|2025-07-07|2025-07-18|Critiques of World Models|Eric Xing|[2507.05169v2](http://arxiv.org/pdf/2507.05169v2)|
+|2025-04-13|2025-07-18|High stakes exams inflate a gender gap and contribute to systematic grading errors in introductory physics|David J. Webb|[2504.09418v2](http://arxiv.org/pdf/2504.09418v2)|
+
+### Diffusion
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-01-12|2025-07-18|A General Framework for Inference-time Scaling and Steering of Diffusion Models|Raghav Singhal|[2501.06848v5](http://arxiv.org/pdf/2501.06848v5)|
+|2025-07-18|2025-07-18|CSD-VAR: Content-Style Decomposition in Visual Autoregressive Models|Quang-Binh Nguyen|[2507.13984v1](http://arxiv.org/pdf/2507.13984v1)|
+|2025-07-18|2025-07-18|Generalist Forecasting with Frozen Video Models via Latent Diffusion|Jacob C Walker|[2507.13942v1](http://arxiv.org/pdf/2507.13942v1)|
+|2023-11-08|2025-07-18|Improved DDIM Sampling with Moment Matching Gaussian Mixtures|Prasad Gabbur|[2311.04938v3](http://arxiv.org/pdf/2311.04938v3)|
+|2025-07-18|2025-07-18|Learning Spectral Diffusion Prior for Hyperspectral Image Reconstruction|Mingyang Yu|[2507.13769v1](http://arxiv.org/pdf/2507.13769v1)|
+
+### Quantitative Finance
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2023-11-28|2025-07-18|Machine-learning regression methods for American-style path-dependent contracts|Matteo Gambara|[2311.16762v2](http://arxiv.org/pdf/2311.16762v2)|
 ## Update on 2025-07-19
 
 ### Physics
