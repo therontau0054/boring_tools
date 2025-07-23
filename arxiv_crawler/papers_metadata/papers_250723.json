@@ -1,0 +1,136 @@
+{
+    "Physics": [
+        {
+            "title": "Entanglement Entropy of Quantum Corners",
+            "authors": "Luca Ciambelli, Jerzy Kowalski-Glikman, Ludovic Varrin",
+            "summary": "In gravitational theories with boundaries, diffeomorphisms can become\nphysical and acquire a non-vanishing Noether charge. Using the covariant phase\nspace formalism, on shell of the gravitational constraints, the latter\nlocalizes on codimension-$2$ surfaces, the corners. The corner proposal asserts\nthat these charges, and their algebras, must be important ingredients of any\nquantum gravity theory. In this manuscript, we continue the study of quantum\ncorner symmetries and algebras by computing the entanglement entropy and\nquantum informational properties of quantum states abiding to the quantum\nrepresentations of corners in the framework of $2$-dimensional gravity. We do\nso for two classes of states: the vacuum and coherent states, properly defined.\nWe then apply our results to JT gravity, seen as the dimensional reduction of\n$4$d near extremal black holes. There, we demonstrate that the entanglement\nentropy of some coherent quantum gravity states -- states admitting a\nsemiclassical description -- scales like the dilaton, reproducing the\nsemiclassical area law behavior and further solidifying the quantum\ninformational nature of entropy of quantum corners. We then study general\nstates and their gluing procedure, finding a formula for the entanglement\nentropy based entirely on the representation theory of $2$d quantum corners.",
+            "pdf_url": "http://arxiv.org/pdf/2507.16800v1",
+            "published": "2025-07-22 17:51:03+00:00",
+            "updated": "2025-07-22 17:51:03+00:00"
+        },
+        {
+            "title": "Smart Holes: Analogue black holes with the right temperature and entropy",
+            "authors": "Jiayue Yang, Niayesh Afshordi, Mahdi Torabian, Seyed Akbar Jafari, G. Baskaran",
+            "summary": "In analogue gravity studies, the goal is to replicate black hole phenomena,\nsuch as Hawking radiation, within controlled laboratory settings. In the realm\nof condensed matter systems, this may happen in 2D tilted Dirac cone materials\nbased on honeycomb lattice. In particular, we compute the entropy of this\nsystem, and find it has the same form as black hole Bekenstein-Hawking entropy,\nif an analogue horizon forms. Hence, these systems can be potential analogues\nof quantum black holes. We show that this entropy is primarily concentrated in\nthe region where the tilt parameter is close to one, which corresponds to the\nlocation of the analogue black hole horizon. Additionally, when nonlinear\neffects are taken into account, the entropy is peaked in a small pocket of the\nFermi sea that forms behind the analogue event horizon, which we call the\n\\textit{Fermi puddle}. We further refer to this new type of analogue black hole\nas a {\\it smart hole}, since, in contrast to dumb holes, it can simulate both\nthe correct temperature {\\it and} entropy of general relativistic black holes.\nThese results provide an opportunity to illuminate various quantum facets of\nblack hole physics in a laboratory setting.",
+            "pdf_url": "http://arxiv.org/pdf/2412.08517v3",
+            "published": "2024-12-11 16:31:08+00:00",
+            "updated": "2025-07-22 17:34:05+00:00"
+        },
+        {
+            "title": "On the consistency of non-commutative geometry inspired Reissner-Nordstr\u00f6m black hole solution",
+            "authors": "Gokhan Alkac, Murat Mesta, Gonul Unal",
+            "summary": "We revisit the non-commutative geometry inspired Reissner-Nordstr\\\"{o}m black\nhole solution obtained by smearing the point sources with a Gaussian\ndistribution. We show that while the form of the metric function and the\nphysical properties derived from that remain valid, not all the components of\nEinstein equations are satisfied. We construct an improved energy-momentum\ntensor that consistently satisfies Einstein equations and show that it leads to\na different prediction for the region where the strong energy condition is\nviolated. For certain choice of parameters, our proposal predicts the violation\nof the energy condition outside the Cauchy horizon, which might be important\nfor observational signatures.",
+            "pdf_url": "http://arxiv.org/pdf/2507.16780v1",
+            "published": "2025-07-22 17:27:47+00:00",
+            "updated": "2025-07-22 17:27:47+00:00"
+        },
+        {
+            "title": "Bremsstrahlung induced atomic processes",
+            "authors": "Shashank Singh, Narendra Kumar, Soumya Chatterjee, Deepak Swami, Manpreet Kaur, Alok Kumar Singh Jha, Mumtaz Oswal, K. P. Singh, T. Nandi",
+            "summary": "The observed spectra in the collisions of neon (Ne) projectiles of 1.8 and\n2.1 MeV with an aluminum target (Al) have been successfully segregated from\nstrong bremsstrahlung backgrounds and then analyzed by comparing the transition\nenergies and rates with the theoretical predictions of the flexible atomic\nstructure code and the general purpose relativistic atomic structure package.\nThe spectra contain K{\\alpha}, Kh{\\alpha} , and K{\\alpha}{\\alpha} lines. The\nK{\\alpha}{\\alpha} emissions are due to two-electron one-photon transitions.\nInterestingly, the K{\\alpha}{\\alpha} lines in projectile ions are only seen\nwith 1.8 MeV energy. In contrast, the K{\\alpha}{\\alpha} lines in the target\nions are also well observed with 2.1 MeV energy. Surprisingly, the Al K x-ray\nline intensities are strongly suppressed, and the K{\\alpha}{\\alpha} line\nintensities are unexpectedly enhanced. The underlying physical process is found\nto be the photoionization caused by intense bremsstrahlung radiation. This\nphotoionization process converts most of the singly ionized K shell states\n(\\approx 82\\% at 2.1 MeV) to doubly ionized K shell states. This phenomenon is\nsilently present on many occasions. We take some of such events to validate\nthis remarkable finding. This bremsstrahlung radiation induced secondary\nionization process stands as an eye opening incidence to the plasma physics,\nastronomy and astrophysics communities; may revolutionize these fields of\nresearch.",
+            "pdf_url": "http://arxiv.org/pdf/2501.02967v2",
+            "published": "2025-01-06 12:24:49+00:00",
+            "updated": "2025-07-22 17:09:12+00:00"
+        },
+        {
+            "title": "Unified Linear Fluctuation-Response Theory Arbitrarily Far from Equilibrium",
+            "authors": "Jiming Zheng, Zhiyue Lu",
+            "summary": "Understanding how systems respond to external perturbations is a fundamental\nchallenge in physics, particularly for non-equilibrium and non-stationary\nprocesses. The fluctuation-dissipation theorem provides a complete framework\nfor near-equilibrium systems, and various bounds have recently been reported\nfor specific non-equilibrium regimes. Here, we present an exact response\nequality for arbitrary Markov processes that decompose system response into\nspatial correlations of local dynamical events. This decomposition reveals that\nresponse properties are encoded in correlations between transitions and\ndwelling times across the network, providing a natural generalization of the\nfluctuation-dissipation theorem and recently developed non-equilibrium linear\nresponse relations. Our theory unifies existing response bounds, extends them\nto time-dependent processes, and reveals fundamental monotonicity properties of\nthe tightness of multi-parameter response inequalities. Beyond its theoretical\nsignificance, this framework enables efficient numerical evaluation of response\nproperties from sampling unperturbed trajectories, offering significant\nadvantages over traditional finite-difference approaches for estimating\nresponse properties of complex networks and biological systems far from\nequilibrium.",
+            "pdf_url": "http://arxiv.org/pdf/2501.01050v3",
+            "published": "2025-01-02 04:20:44+00:00",
+            "updated": "2025-07-22 17:05:56+00:00"
+        },
+        {
+            "title": "Ultracold high-spin $\u03a3$-state polar molecules for new physics searches",
+            "authors": "Alessio Ciamei, Adam Koza, Marcin Gronowski, Micha\u0142 Tomza",
+            "summary": "We propose high-spin $\\Sigma$-state polar molecules assembled from ultracold\natoms to probe charge-parity violating physics beyond the Standard Model. We\nidentify YbCr as a prime candidate to search for the electric dipole moment of\nthe electron. We show that the combination of relativistic ytterbium and\nhigh-spin chromium, amenable to magneto-association, leads to molecules with\neasy-to-polarize parity doublets and large intramolecular electric fields.\nBased on \\textit{ab initio} results for molecular constants, we predict a\nsensitivity of $\\delta d_{\\textrm{e}}= ( 6 \\times 10^{-31} /\n\\sqrt{n_{\\mathrm{day}}})\\,e\\,\\mathrm{cm}$ via standard spin-precession\nmeasurements, we assess the experimental feasibility, and discuss potential\nextensions to more advanced quantum control as well as searches of the nuclear\nmagnetic quadrupole moment. This work paves the way to next-generation searches\nfor new physics with ultracold molecules in both the leptonic and hadronic\nsectors.",
+            "pdf_url": "http://arxiv.org/pdf/2507.16760v1",
+            "published": "2025-07-22 16:53:44+00:00",
+            "updated": "2025-07-22 16:53:44+00:00"
+        },
+        {
+            "title": "Many-Body Physics from Spin-Phonon Coupling in Rydberg Atom Arrays",
+            "authors": "Shuo Zhang, Langxuan Chen, Pengfei Zhang",
+            "summary": "The rapid advancement of quantum science and technology has established\nRydberg atom arrays as a premier platform for exploring quantum many-body\nphysics with exceptional precision and controllability. Traditionally, each\natom is modeled as a spin degree of freedom with its spatial motion effectively\nfrozen. This simplification has facilitated the discovery of a rich variety of\nnovel equilibrium and non-equilibrium phases, including $\\mathbb{Z}_{\\text{N}}$\nsymmetry-breaking orders and quantum scars. In this work, we investigate the\nconsequences of incorporating atomic vibrations in optical tweezers, which give\nrise to spin-phonon coupling. For systems in thermal equilibrium, we find that\nthis coupling leads to a new symmetry-breaking phase in the weak driving limit,\nas a result of induced three-spin interactions. Furthermore, we show that the\nviolation of quantum thermalization in $\\mathbb{Z}_2$-ordered states is\nsuppressed when spin-phonon coupling is introduced. Our results are readily\ntestable in state-of-the-art Rydberg atom array experiments.",
+            "pdf_url": "http://arxiv.org/pdf/2507.16751v1",
+            "published": "2025-07-22 16:41:15+00:00",
+            "updated": "2025-07-22 16:41:15+00:00"
+        },
+        {
+            "title": "Zebra-CoT: A Dataset for Interleaved Vision Language Reasoning",
+            "authors": "Ang Li, Charles Wang, Kaiyu Yue, Zikui Cai, Ollie Liu, Deqing Fu, Peng Guo, Wang Bill Zhu, Vatsal Sharan, Robin Jia, Willie Neiswanger, Furong Huang, Tom Goldstein, Micah Goldblum",
+            "summary": "Humans often use visual aids, for example diagrams or sketches, when solving\ncomplex problems. Training multimodal models to do the same, known as Visual\nChain of Thought (Visual CoT), is challenging due to: (1) poor off-the-shelf\nvisual CoT performance, which hinders reinforcement learning, and (2) the lack\nof high-quality visual CoT training data. We introduce $\\textbf{Zebra-CoT}$, a\ndiverse large-scale dataset with 182,384 samples, containing logically coherent\ninterleaved text-image reasoning traces. We focus on four categories of tasks\nwhere sketching or visual reasoning is especially natural, spanning scientific\nquestions such as geometry, physics, and algorithms; 2D visual reasoning tasks\nlike visual search and jigsaw puzzles; 3D reasoning tasks including 3D\nmulti-hop inference, embodied and robot planning; visual logic problems and\nstrategic games like chess. Fine-tuning the Anole-7B model on the Zebra-CoT\ntraining corpus results in an improvement of +12% in our test-set accuracy and\nyields up to +13% performance gain on standard VLM benchmark evaluations.\nFine-tuning Bagel-7B yields a model that generates high-quality interleaved\nvisual reasoning chains, underscoring Zebra-CoT's effectiveness for developing\nmultimodal reasoning abilities. We open-source our dataset and models to\nsupport development and evaluation of visual CoT.",
+            "pdf_url": "http://arxiv.org/pdf/2507.16746v1",
+            "published": "2025-07-22 16:35:36+00:00",
+            "updated": "2025-07-22 16:35:36+00:00"
+        },
+        {
+            "title": "Notes from the bulk",
+            "authors": "Erica Bertolini",
+            "summary": "The scope of this Ph.D thesis is to study the effects of the presence of a\nboundary from a Quantum Field Theoretical perspective, searching for new\nphysics and explanations of observed phenomena. In particular, thanks to the\nformal QFT setting, the issue of the existence of local, accelerated, edge\nmodes in Hall systems is analyzed and understood in terms of the\nbulk-to-boundary approach as related to a curved background in topological QFTs\nwith boundary. Within this formalism the induced metric on the boundary can be\nassociated to the ad hoc potential introduced in the phenomenological models in\norder to obtain such non-constant edge velocities. This also leads to the\nprediction of local modes for Topological Insulators, and Quantum Spin Hall\nsystems in general. The paradigm for which only topological QFTs have a\nphysical content on the boundary is broken, and also non-Topological Quantum\nField Theories such as fracton models and Linearized Gravity are shown to have\nnon-trivial boundary dynamics. Indeed due to the breaking of their defining\nsymmetry both models have a current algebra of the Kac-Moody type on the\nboundary. In the case of fractons this algebra is in a generalized form, which\nalso appears in some kinds of higher order Topological Insulators, a sign of a\npossible relation between these materials and edge states of fracton\nquasiparticles. Concerning the theory of Linearized Gravity, instead, the\nalgebra is a standard Kac-Moody one, whose presence was suspected, but never\nproved before. Physical results on the boundary range between condensed matter,\nelasticity and (massive) gravity models. A collateral result, which enrich this\nThesis, is the building of a new covariant QFT for fractons with a peculiar\ngauge structure. This new model better highlight the properties of these\nquasiparticles.",
+            "pdf_url": "http://arxiv.org/pdf/2507.16744v1",
+            "published": "2025-07-22 16:34:38+00:00",
+            "updated": "2025-07-22 16:34:38+00:00"
+        },
+        {
+            "title": "Parametric Amplification of Spin-Motion Coupling in Three-Dimensional Trapped-Ion Crystals",
+            "authors": "Samarth Hawaldar, N. Nikhil, Ana Maria Rey, John J. Bollinger, Athreya Shankar",
+            "summary": "Three-dimensional (3D) crystals offer a route to scale up trapped ion systems\nfor quantum sensing and quantum simulation applications. However, engineering\ncoherent spin-motion couplings and effective spin-spin interactions in large\ncrystals poses technical challenges associated with decoherence and prolonged\ntimescales to generate appreciable entanglement. Here, we explore the\npossibility to speed up these interactions in 3D crystals via parametric\namplification. We derive a general Hamiltonian for the parametric amplification\nof spin-motion coupling that is applicable to crystals of any dimension in both\nrf Paul traps and Penning traps. Unlike in lower dimensional crystals, we find\nthat the ability to faithfully (uniformly) amplify the spin-spin interactions\nin 3D crystals depends on the physical implementation of the spin-motion\ncoupling. We consider the light-shift (LS) gate, and the so-called\nphase-insensitive and phase-sensitive M{\\o}lmer-S{\\o}rensen (MS) gates, and\nfind that only the latter gate can be faithfully amplified in general 3D\ncrystals. We discuss a situation where non-uniform amplification can be\nadvantageous. We also reconsider the impact of counter-rotating terms on\nparametric amplification and find that they are not as detrimental as previous\nstudies suggest.",
+            "pdf_url": "http://arxiv.org/pdf/2507.16741v1",
+            "published": "2025-07-22 16:28:01+00:00",
+            "updated": "2025-07-22 16:28:01+00:00"
+        }
+    ],
+    "Diffusion": [
+        {
+            "title": "PRISM: High-Resolution & Precise Counterfactual Medical Image Generation using Language-guided Stable Diffusion",
+            "authors": "Amar Kumar, Anita Kriz, Mohammad Havaei, Tal Arbel",
+            "summary": "Developing reliable and generalizable deep learning systems for medical\nimaging faces significant obstacles due to spurious correlations, data\nimbalances, and limited text annotations in datasets. Addressing these\nchallenges requires architectures that are robust to the unique complexities\nposed by medical imaging data. Rapid advancements in vision-language foundation\nmodels within the natural image domain prompt the question of how they can be\nadapted for medical imaging tasks. In this work, we present PRISM, a framework\nthat leverages foundation models to generate high-resolution, language-guided\nmedical image counterfactuals using Stable Diffusion. Our approach demonstrates\nunprecedented precision in selectively modifying spurious correlations (the\nmedical devices) and disease features, enabling the removal and addition of\nspecific attributes while preserving other image characteristics. Through\nextensive evaluation, we show how PRISM advances counterfactual generation and\nenables the development of more robust downstream classifiers for clinically\ndeployable solutions. To facilitate broader adoption and research, we make our\ncode publicly available at https://github.com/Amarkr1/PRISM.",
+            "pdf_url": "http://arxiv.org/pdf/2503.00196v2",
+            "published": "2025-02-28 21:32:08+00:00",
+            "updated": "2025-07-22 16:26:39+00:00"
+        },
+        {
+            "title": "Pyramid Hierarchical Masked Diffusion Model for Imaging Synthesis",
+            "authors": "Xiaojiao Xiao, Qinmin Vivian Hu, Guanghui Wang",
+            "summary": "Medical image synthesis plays a crucial role in clinical workflows,\naddressing the common issue of missing imaging modalities due to factors such\nas extended scan times, scan corruption, artifacts, patient motion, and\nintolerance to contrast agents. The paper presents a novel image synthesis\nnetwork, the Pyramid Hierarchical Masked Diffusion Model (PHMDiff), which\nemploys a multi-scale hierarchical approach for more detailed control over\nsynthesizing high-quality images across different resolutions and layers.\nSpecifically, this model utilizes randomly multi-scale high-proportion masks to\nspeed up diffusion model training, and balances detail fidelity and overall\nstructure. The integration of a Transformer-based Diffusion model process\nincorporates cross-granularity regularization, modeling the mutual information\nconsistency across each granularity's latent spaces, thereby enhancing\npixel-level perceptual accuracy. Comprehensive experiments on two challenging\ndatasets demonstrate that PHMDiff achieves superior performance in both the\nPeak Signal-to-Noise Ratio (PSNR) and Structural Similarity Index Measure\n(SSIM), highlighting its capability to produce high-quality synthesized images\nwith excellent structural integrity. Ablation studies further confirm the\ncontributions of each component. Furthermore, the PHMDiff model, a multi-scale\nimage synthesis framework across and within medical imaging modalities, shows\nsignificant advantages over other methods. The source code is available at\nhttps://github.com/xiaojiao929/PHMDiff",
+            "pdf_url": "http://arxiv.org/pdf/2507.16579v1",
+            "published": "2025-07-22 13:30:54+00:00",
+            "updated": "2025-07-22 13:30:54+00:00"
+        },
+        {
+            "title": "EarthCrafter: Scalable 3D Earth Generation via Dual-Sparse Latent Diffusion",
+            "authors": "Shang Liu, Chenjie Cao, Chaohui Yu, Wen Qian, Jing Wang, Fan Wang",
+            "summary": "Despite the remarkable developments achieved by recent 3D generation works,\nscaling these methods to geographic extents, such as modeling thousands of\nsquare kilometers of Earth's surface, remains an open challenge. We address\nthis through a dual innovation in data infrastructure and model architecture.\nFirst, we introduce Aerial-Earth3D, the largest 3D aerial dataset to date,\nconsisting of 50k curated scenes (each measuring 600m x 600m) captured across\nthe U.S. mainland, comprising 45M multi-view Google Earth frames. Each scene\nprovides pose-annotated multi-view images, depth maps, normals, semantic\nsegmentation, and camera poses, with explicit quality control to ensure terrain\ndiversity. Building on this foundation, we propose EarthCrafter, a tailored\nframework for large-scale 3D Earth generation via sparse-decoupled latent\ndiffusion. Our architecture separates structural and textural generation: 1)\nDual sparse 3D-VAEs compress high-resolution geometric voxels and textural 2D\nGaussian Splats (2DGS) into compact latent spaces, largely alleviating the\ncostly computation suffering from vast geographic scales while preserving\ncritical information. 2) We propose condition-aware flow matching models\ntrained on mixed inputs (semantics, images, or neither) to flexibly model\nlatent geometry and texture features independently. Extensive experiments\ndemonstrate that EarthCrafter performs substantially better in extremely\nlarge-scale generation. The framework further supports versatile applications,\nfrom semantic-guided urban layout generation to unconditional terrain\nsynthesis, while maintaining geographic plausibility through our rich data\npriors from Aerial-Earth3D.",
+            "pdf_url": "http://arxiv.org/pdf/2507.16535v1",
+            "published": "2025-07-22 12:46:48+00:00",
+            "updated": "2025-07-22 12:46:48+00:00"
+        },
+        {
+            "title": "FlowEdit: Inversion-Free Text-Based Editing Using Pre-Trained Flow Models",
+            "authors": "Vladimir Kulikov, Matan Kleiner, Inbar Huberman-Spiegelglas, Tomer Michaeli",
+            "summary": "Editing real images using a pre-trained text-to-image (T2I) diffusion/flow\nmodel often involves inverting the image into its corresponding noise map.\nHowever, inversion by itself is typically insufficient for obtaining\nsatisfactory results, and therefore many methods additionally intervene in the\nsampling process. Such methods achieve improved results but are not seamlessly\ntransferable between model architectures. Here, we introduce FlowEdit, a\ntext-based editing method for pre-trained T2I flow models, which is\ninversion-free, optimization-free and model agnostic. Our method constructs an\nODE that directly maps between the source and target distributions\n(corresponding to the source and target text prompts) and achieves a lower\ntransport cost than the inversion approach. This leads to state-of-the-art\nresults, as we illustrate with Stable Diffusion 3 and FLUX. Code and examples\nare available on the project's webpage.",
+            "pdf_url": "http://arxiv.org/pdf/2412.08629v2",
+            "published": "2024-12-11 18:50:29+00:00",
+            "updated": "2025-07-22 12:07:56+00:00"
+        },
+        {
+            "title": "Multimodal Forecasting of Sparse Intraoperative Hypotension Events Powered by Language Model",
+            "authors": "Jintao Zhang, Zirui Liu, Mingyue Cheng, Shilong Zhang, Tingyue Pan, Yitong zhou, Qi Liu, Yanhu Xie",
+            "summary": "Intraoperative hypotension (IOH) frequently occurs under general anesthesia\nand is strongly linked to adverse outcomes such as myocardial injury and\nincreased mortality. Despite its significance, IOH prediction is hindered by\nevent sparsity and the challenge of integrating static and dynamic data across\ndiverse patients. In this paper, we propose \\textbf{IOHFuseLM}, a multimodal\nlanguage model framework. To accurately identify and differentiate sparse\nhypotensive events, we leverage a two-stage training strategy. The first stage\ninvolves domain adaptive pretraining on IOH physiological time series augmented\nthrough diffusion methods, thereby enhancing the model sensitivity to patterns\nassociated with hypotension. Subsequently, task fine-tuning is performed on the\noriginal clinical dataset to further enhance the ability to distinguish\nnormotensive from hypotensive states. To enable multimodal fusion for each\npatient, we align structured clinical descriptions with the corresponding\nphysiological time series at the token level. Such alignment enables the model\nto capture individualized temporal patterns alongside their corresponding\nclinical semantics. In addition, we convert static patient attributes into\nstructured text to enrich personalized information. Experimental evaluations on\ntwo intraoperative datasets demonstrate that IOHFuseLM outperforms established\nbaselines in accurately identifying IOH events, highlighting its applicability\nin clinical decision support scenarios. Our code is publicly available to\npromote reproducibility at https://github.com/zjt-gpu/IOHFuseLM.",
+            "pdf_url": "http://arxiv.org/pdf/2505.22116v3",
+            "published": "2025-05-28 08:44:55+00:00",
+            "updated": "2025-07-22 09:34:56+00:00"
+        }
+    ],
+    "Quantitative Finance": [
+        {
+            "title": "Alternative Loss Function in Evaluation of Transformer Models",
+            "authors": "Jakub Micha\u0144k\u00f3w, Pawe\u0142 Sakowski, Robert \u015alepaczuk",
+            "summary": "The proper design and architecture of testing of machine learning models,\nespecially in their application to quantitative finance problems, is crucial.\nThe most important in this process is selecting an adequate loss function used\nfor training, validation, estimation purposes, and tuning of hyperparameters.\nTherefore, in this research, through empirical experiments on equity and\ncryptocurrency assets, we introduce the Mean Absolute Directional Loss (MADL)\nfunction which is more adequate for optimizing forecast-generating models used\nin algorithmic investment strategies. The MADL function results are compared\nfor Transformer and LSTM models and we show that almost in every case\nTransformer results are significantly better than those obtained with LSTM.",
+            "pdf_url": "http://arxiv.org/pdf/2507.16548v1",
+            "published": "2025-07-22 12:57:25+00:00",
+            "updated": "2025-07-22 12:57:25+00:00"
+        }
+    ]
+}

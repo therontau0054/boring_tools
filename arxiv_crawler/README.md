@@ -185,6 +185,36 @@ TODO:
 
 
 
+
+## Update on 2025-07-23
+
+### Physics
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-07-22|2025-07-22|Entanglement Entropy of Quantum Corners|Luca Ciambelli|[2507.16800v1](http://arxiv.org/pdf/2507.16800v1)|
+|2024-12-11|2025-07-22|Smart Holes: Analogue black holes with the right temperature and entropy|Jiayue Yang|[2412.08517v3](http://arxiv.org/pdf/2412.08517v3)|
+|2025-07-22|2025-07-22|On the consistency of non-commutative geometry inspired Reissner-Nordström black hole solution|Gokhan Alkac|[2507.16780v1](http://arxiv.org/pdf/2507.16780v1)|
+|2025-01-06|2025-07-22|Bremsstrahlung induced atomic processes|Shashank Singh|[2501.02967v2](http://arxiv.org/pdf/2501.02967v2)|
+|2025-01-02|2025-07-22|Unified Linear Fluctuation-Response Theory Arbitrarily Far from Equilibrium|Jiming Zheng|[2501.01050v3](http://arxiv.org/pdf/2501.01050v3)|
+|2025-07-22|2025-07-22|Ultracold high-spin $Σ$-state polar molecules for new physics searches|Alessio Ciamei|[2507.16760v1](http://arxiv.org/pdf/2507.16760v1)|
+|2025-07-22|2025-07-22|Many-Body Physics from Spin-Phonon Coupling in Rydberg Atom Arrays|Shuo Zhang|[2507.16751v1](http://arxiv.org/pdf/2507.16751v1)|
+|2025-07-22|2025-07-22|Zebra-CoT: A Dataset for Interleaved Vision Language Reasoning|Ang Li|[2507.16746v1](http://arxiv.org/pdf/2507.16746v1)|
+|2025-07-22|2025-07-22|Notes from the bulk|Erica Bertolini|[2507.16744v1](http://arxiv.org/pdf/2507.16744v1)|
+|2025-07-22|2025-07-22|Parametric Amplification of Spin-Motion Coupling in Three-Dimensional Trapped-Ion Crystals|Samarth Hawaldar|[2507.16741v1](http://arxiv.org/pdf/2507.16741v1)|
+
+### Diffusion
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-02-28|2025-07-22|PRISM: High-Resolution & Precise Counterfactual Medical Image Generation using Language-guided Stable Diffusion|Amar Kumar|[2503.00196v2](http://arxiv.org/pdf/2503.00196v2)|
+|2025-07-22|2025-07-22|Pyramid Hierarchical Masked Diffusion Model for Imaging Synthesis|Xiaojiao Xiao|[2507.16579v1](http://arxiv.org/pdf/2507.16579v1)|
+|2025-07-22|2025-07-22|EarthCrafter: Scalable 3D Earth Generation via Dual-Sparse Latent Diffusion|Shang Liu|[2507.16535v1](http://arxiv.org/pdf/2507.16535v1)|
+|2024-12-11|2025-07-22|FlowEdit: Inversion-Free Text-Based Editing Using Pre-Trained Flow Models|Vladimir Kulikov|[2412.08629v2](http://arxiv.org/pdf/2412.08629v2)|
+|2025-05-28|2025-07-22|Multimodal Forecasting of Sparse Intraoperative Hypotension Events Powered by Language Model|Jintao Zhang|[2505.22116v3](http://arxiv.org/pdf/2505.22116v3)|
+
+### Quantitative Finance
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-07-22|2025-07-22|Alternative Loss Function in Evaluation of Transformer Models|Jakub Michańków|[2507.16548v1](http://arxiv.org/pdf/2507.16548v1)|
 ## Update on 2025-07-21
 
 ### Physics
