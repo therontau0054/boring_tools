@@ -186,6 +186,34 @@ TODO:
 
 
 
+
+## Update on 2025-07-25
+
+### Physics
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-07-24|2025-07-24|Moving Out: Physically-grounded Human-AI Collaboration|Xuhui Kang|[2507.18623v1](http://arxiv.org/pdf/2507.18623v1)|
+|2025-07-24|2025-07-24|Strong CP Phase and Parity in the Hamiltonian Formalism|Ravi Kuchimanchi|[2507.18620v1](http://arxiv.org/pdf/2507.18620v1)|
+|2024-10-22|2025-07-24|Persistent currents in ultracold gases|Juan Polo|[2410.17318v3](http://arxiv.org/pdf/2410.17318v3)|
+|2025-07-24|2025-07-24|Stability of Big Bang singularity for the Einstein-Maxwell-scalar field-Vlasov system in the full strong sub-critical regime|Xinliang An|[2507.18585v1](http://arxiv.org/pdf/2507.18585v1)|
+|2025-07-12|2025-07-24|Alleviating the Hubble tension with Torsion Condensation (TorC)|Sinah Legner|[2507.09228v2](http://arxiv.org/pdf/2507.09228v2)|
+|2025-07-24|2025-07-24|Jacobi Hamiltonian Integrators|Adérito Araújo|[2507.18573v1](http://arxiv.org/pdf/2507.18573v1)|
+|2025-05-05|2025-07-24|About diffusion equations in bounded systems|F. Sattin|[2505.02496v2](http://arxiv.org/pdf/2505.02496v2)|
+|2025-06-12|2025-07-24|The Integral Decimation Method for Quantum Dynamics and Statistical Mechanics|Ryan T. Grimm|[2506.11341v3](http://arxiv.org/pdf/2506.11341v3)|
+|2024-10-23|2025-07-24|Quasi-1D Coulomb drag in the nonlinear regime|Mingyang Zheng|[2410.17569v2](http://arxiv.org/pdf/2410.17569v2)|
+
+### Diffusion
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-07-21|2025-07-24|Diffusion Beats Autoregressive in Data-Constrained Settings|Mihir Prabhudesai|[2507.15857v2](http://arxiv.org/pdf/2507.15857v2)|
+|2025-07-24|2025-07-24|Demystify Protein Generation with Hierarchical Conditional Diffusion Models|Zinan Ling|[2507.18603v1](http://arxiv.org/pdf/2507.18603v1)|
+|2025-07-24|2025-07-24|Elucidating the Design Space of Arbitrary-Noise-Based Diffusion Models|Xingyu Qiu|[2507.18534v1](http://arxiv.org/pdf/2507.18534v1)|
+|2025-03-15|2025-07-24|Att-Adapter: A Robust and Precise Domain-Specific Multi-Attributes T2I Diffusion Adapter via Conditional Variational Autoencoder|Wonwoong Cho|[2503.11937v4](http://arxiv.org/pdf/2503.11937v4)|
+
+### Quantitative Finance
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-07-23|2025-07-23|EFS: Evolutionary Factor Searching for Sparse Portfolio Optimization Using Large Language Models|Haochen Luo|[2507.17211v1](http://arxiv.org/pdf/2507.17211v1)|
 ## Update on 2025-07-23
 
 ### Physics

@@ -1,0 +1,120 @@
+{
+    "Physics": [
+        {
+            "title": "Moving Out: Physically-grounded Human-AI Collaboration",
+            "authors": "Xuhui Kang, Sung-Wook Lee, Haolin Liu, Yuyan Wang, Yen-Ling Kuo",
+            "summary": "The ability to adapt to physical actions and constraints in an environment is\ncrucial for embodied agents (e.g., robots) to effectively collaborate with\nhumans. Such physically grounded human-AI collaboration must account for the\nincreased complexity of the continuous state-action space and constrained\ndynamics caused by physical constraints. In this paper, we introduce\n\\textit{Moving Out}, a new human-AI collaboration benchmark that resembles a\nwide range of collaboration modes affected by physical attributes and\nconstraints, such as moving heavy items together and maintaining consistent\nactions to move a big item around a corner. Using Moving Out, we designed two\ntasks and collected human-human interaction data to evaluate models' abilities\nto adapt to diverse human behaviors and unseen physical attributes. To address\nthe challenges in physical environments, we propose a novel method, BASS\n(Behavior Augmentation, Simulation, and Selection), to enhance the diversity of\nagents and their understanding of the outcome of actions. Our experiments show\nthat BASS outperforms state-of-the-art models in AI-AI and human-AI\ncollaboration. The project page is available at\n\\href{https://live-robotics-uva.github.io/movingout_ai/}{https://live-robotics-uva.github.io/movingout\\_ai/}.",
+            "pdf_url": "http://arxiv.org/pdf/2507.18623v1",
+            "published": "2025-07-24 17:57:18+00:00",
+            "updated": "2025-07-24 17:57:18+00:00"
+        },
+        {
+            "title": "Strong CP Phase and Parity in the Hamiltonian Formalism",
+            "authors": "Ravi Kuchimanchi",
+            "summary": "Solutions to the strong CP problem based on P or CP symmetries are typically\nframed using the Lagrangian formalism. In this work, we analyze the strong CP\nphase in QCD from the Hamiltonian perspective, focusing on the invariance of\nthe Hamiltonian H under P (or a generalized parity operator $\\mathcal{P}$). For\n$\\mathcal{P}$ to be a physical symmetry, it must preserve the Hilbert space\n$\\mathcal{H}_\\theta$ associated with the $\\theta$-vacuum (i.e., $\\mathcal{P}:\n\\mathcal{H}_\\theta \\rightarrow \\mathcal{H}_\\theta$). This requirement implies\nthat the strong CP phase $\\bar{\\theta} = \\theta + \\arg \\det M$ must vanish,\ni.e., $\\theta$ must cancel the phase of the quark mass matrix $M$.\nEquivalently, we show that this condition follows from requiring that parity\ncommute with the large gauge transformation operator of QCD.",
+            "pdf_url": "http://arxiv.org/pdf/2507.18620v1",
+            "published": "2025-07-24 17:55:44+00:00",
+            "updated": "2025-07-24 17:55:44+00:00"
+        },
+        {
+            "title": "Persistent currents in ultracold gases",
+            "authors": "Juan Polo, Wayne Jordan Chetcuti, Tobias Haug, Anna Minguzzi, Kevin Wright, Luigi Amico",
+            "summary": "Persistent currents flowing in spatially closed tracks define one of the most\niconic concepts in mesoscopic physics. They have been studied in solid-state\nplatforms such as superfluids, superconductors and metals. Cold atoms trapped\nin magneto-optical toroidal circuits and driven by suitable artificial gauge\nfields allow us to study persistent currents with unprecedented control and\nflexibility of the system's physical conditions. Here, we review persistent\ncurrents of ultracold matter. Capitalizing on the remarkable progress in\ndriving different atomic species to quantum degeneracy, persistent currents of\nsingle or multicomponent bosons/fermions, and their mixtures can be addressed\nwithin the present experimental know-how. This way, fundamental concepts of\nquantum science and many-body physics, like macroscopic quantum coherence,\nsolitons, vortex dynamics, fermionic pairing and BEC-BCS crossover can be\nstudied from a novel perspective. Finally, we discuss how persistent currents\ncan form the basis of new technological applications like matter-wave\ngyroscopes and interferometers.",
+            "pdf_url": "http://arxiv.org/pdf/2410.17318v3",
+            "published": "2024-10-22 18:00:03+00:00",
+            "updated": "2025-07-24 17:21:58+00:00"
+        },
+        {
+            "title": "Stability of Big Bang singularity for the Einstein-Maxwell-scalar field-Vlasov system in the full strong sub-critical regime",
+            "authors": "Xinliang An, Taoran He, Dawei Shen",
+            "summary": "In $3+1$ dimensions, we study the stability of Kasner solutions for the\nEinstein-Maxwell-scalar field-Vlasov system. This system incorporates gravity,\nelectromagnetic, weak and strong interactions for the initial stage of our\nuniverse. Due to the presence of the Vlasov field, various new challenges\narise. By observing detailed mathematical structures and designing new delicate\narguments, we identify a new strong sub-critical regime and prove the nonlinear\nstability with Kasner exponents lying in this full regime. This extends the\nresult of Fournodavlos-Rodnianski-Speck [8] from the Einstein-scalar field\nsystem to the physically more complex system with the Vlasov field.",
+            "pdf_url": "http://arxiv.org/pdf/2507.18585v1",
+            "published": "2025-07-24 17:04:38+00:00",
+            "updated": "2025-07-24 17:04:38+00:00"
+        },
+        {
+            "title": "Alleviating the Hubble tension with Torsion Condensation (TorC)",
+            "authors": "Sinah Legner, Will Handley, Will Barker",
+            "summary": "Constraints on the cosmological parameters of Torsion Condensation (TorC) are\ninvestigated using Planck 2018 Cosmic Microwave Background data. TorC is a case\nof Poincar\\'e gauge theory -- a formulation of gravity motivated by the gauge\nfield theories underlying fundamental forces in the standard model of particle\nphysics. Unlike general relativity, TorC incorporates intrinsic torsion degrees\nof freedom while maintaining second-order field equations. At specific\nparameter values, it reduces to the $\\Lambda$CDM model, providing a natural\nextension to standard cosmology. The base model of TorC introduces two\nparameters beyond those in $\\Lambda$CDM: the initial value of the torsion\nscalar field and its time derivative -- one can absorb the latter by allowing\nthe dark energy density to float. To constrain these parameters, `PolyChord`\nnested sampling algorithm is employed, interfaced via `Cobaya` with a modified\nversion of `CAMB`. Our results indicate that TorC allows for a larger inferred\nHubble constant, offering a potential resolution to the Hubble tension. Tension\nanalysis using the $R$-statistic shows that TorC alleviates the statistical\ntension between the Planck 2018 and SH0Es 2020 datasets, though this\nimprovement is not sufficient to decisively favour TorC over $\\Lambda$CDM in a\nBayesian model comparison. This study highlights TorC as a compelling theory of\ngravity, demonstrating its potential to address cosmological tensions and\nmotivating further investigations of extended theories of gravity within a\ncosmological context. As current and upcoming surveys -- including Euclid,\nRoman Space Telescope, Vera C. Rubin Observatory, LISA, and Simons Observatory\n-- deliver data on gravity across all scales, they will offer critical tests of\ngravity models like TorC, making the present a pivotal moment for exploring\nextended theories of gravity.",
+            "pdf_url": "http://arxiv.org/pdf/2507.09228v2",
+            "published": "2025-07-12 09:56:02+00:00",
+            "updated": "2025-07-24 16:50:01+00:00"
+        },
+        {
+            "title": "Jacobi Hamiltonian Integrators",
+            "authors": "Ad\u00e9rito Ara\u00fajo, Gon\u00e7alo Inoc\u00eancio Oliveira, Jo\u00e3o Nuno Mestre",
+            "summary": "We develop a method of constructing structure-preserving integrators for\nHamiltonian systems in Jacobi manifolds. Hamiltonian mechanics, rooted in\nsymplectic and Poisson geometry, has long provided a foundation for modelling\nconservative systems in classical physics. Jacobi manifolds, generalizing both\ncontact and Poisson manifolds, extend this theory and are suitable for\nincorporating time-dependent, dissipative and thermodynamic phenomena.\n  Building on recent advances in geometric integrators - specifically Poisson\nHamiltonian Integrators (PHI), which preserve key features of Poisson systems -\nwe propose a construction of Jacobi Hamiltonian Integrators. Our approach\nexplores the correspondence between Jacobi and homogeneous Poisson manifolds,\nwith the aim of extending the PHI techniques while ensuring preservation of the\nhomogeneity structure.\n  This work develops the theoretical tools required for this generalization and\noutlines a numerical integration technique compatible with Jacobi dynamics. By\nfocusing on the homogeneous Poisson perspective rather than on direct contact\nrealizations, we provide a clear pathway for structure-preserving integration\nof time-dependent and dissipative systems within the Jacobi framework.",
+            "pdf_url": "http://arxiv.org/pdf/2507.18573v1",
+            "published": "2025-07-24 16:47:16+00:00",
+            "updated": "2025-07-24 16:47:16+00:00"
+        },
+        {
+            "title": "About diffusion equations in bounded systems",
+            "authors": "F. Sattin, D. F. Escande",
+            "summary": "Differential equations need boundary conditions (BC's) for their solution. It\nis commonly acknowledged that differential equations and BC's are\nrepresentative of independent physical processes, and no correlations between\nthem is required. Two recent papers [D. Hilhorst, et al, Nonlinear Analysis,\n245, 113561 (2024); J-W.Chung, et al, Jour. Math. Phys. 65, 071501 (2024)]\nfocus on diffusion equations (DE's) in a case with continuity of the physics at\nthe boundary, where transport coefficients go smoothly to zero in a very small\nlayer about it. They argue that, once the analytical expression of the DE is\nchosen, only one kind of BC's may emerge (e.g., Neumann rather than Dirichlet).\nIn this paper, we show that this case is very peculiar. Indeed, DE's generally\narise as long-wavelength limit out of a stochastic picture of microscopic\ndynamics, in the form of an integro-differential Master Equation (ME).\nAccordingly, they are justified only on a statistical basis, provide accurate\npictures of the system's evolution only over large enough length and time\nscales. In realistic cases, the width of the interface between the interior and\nexterior of the system is much smaller than transport scales, providing\neffectively a discontinuity and therefore a decorrelation between DE and BC.",
+            "pdf_url": "http://arxiv.org/pdf/2505.02496v2",
+            "published": "2025-05-05 09:24:34+00:00",
+            "updated": "2025-07-24 16:16:34+00:00"
+        },
+        {
+            "title": "The Integral Decimation Method for Quantum Dynamics and Statistical Mechanics",
+            "authors": "Ryan T. Grimm, Alexander J. Staat, Joel D. Eaves",
+            "summary": "The solutions to many problems in the mathematical, computational, and\nphysical sciences often involve multidimensional integrals. A direct numerical\nevaluation of the integral incurs a computational cost that is exponential in\nthe number of dimensions, a phenomenon called the curse of dimensionality. The\nproblem is so substantial that one usually employs sampling methods, like Monte\nCarlo, to avoid integration altogether. Here, we derive and implement a quantum\nalgorithm to compress a multidimensional integrand into a product of\nmatrix-valued functions - a spectral tensor train - changing the computational\ncomplexity of integration from exponential to polynomial. The algorithm\ncompresses the integrand by applying a sequence of quantum gates to an\nunentangled quantum state, where each term corresponds to a body-ordered term\nin the potential. Because it allows for the systematic elimination of small\ncontributions to the integral through decimation, we call the method integral\ndecimation. The functions in the spectral basis are analytically differentiable\nand integrable, and in applications to the partition function, integral\ndecimation numerically factorizes an interacting system into a product of\nnoninteracting ones. We illustrate integral decimation by evaluating the\nabsolute free energy and entropy of a chiral XY model as a continuous function\nof temperature. We also compute the nonequilibrium time-dependent reduced\ndensity matrix of a quantum chain with between two and forty levels, each\ncoupled to colored noise. When other methods provide numerical solutions to\nthese models, they quantitatively agree with integral decimation. When\nconventional methods become intractable, integral decimation can be a powerful\nalternative.",
+            "pdf_url": "http://arxiv.org/pdf/2506.11341v3",
+            "published": "2025-06-12 22:26:12+00:00",
+            "updated": "2025-07-24 16:01:19+00:00"
+        },
+        {
+            "title": "Quasi-1D Coulomb drag in the nonlinear regime",
+            "authors": "Mingyang Zheng, Rebika Makaju, Rasul Gazizulin, Alex Levchenko, Sadhvikas J. Addamane, Dominique Laroche",
+            "summary": "One-dimensional Coulomb drag has been an essential tool to probe the physics\nof interacting Tomonaga-Luttinger liquids. To date, most experimental work has\nfocused on the linear regime while the predictions for Luttinger liquids beyond\nthe linear response theory remain largely untested. In this letter, we report\nmeasurements of momentum transfer induced Coulomb drag between\nvertically-coupled quasi-one-dimensional quantum wires in the nonlinear regime.\nMeasurements were performed at ultra-low temperatures between wires only 15 nm\napart. Our results reveal a nonlinear dependence of the drag voltage as a\nfunction of the drive current superimposed with an oscillatory contribution, in\nagreement with theoretical predictions for Coulomb drag between\nTomonaga-Luttinger liquids. Additionally, the observed current-voltage\n($I$-$V$) characteristics exhibit a nonmonotonic temperature dependence,\nfurther corroborating the presence of non-Fermi-liquid behavior in our system.\nThese findings are observed both in the single and in the multiple subband\nregimes and in the presence of disorder, extending the onset of this behavior\nbeyond the clean single channel Tomonaga-Luttinger regime where the predictions\nwere originally formulated.",
+            "pdf_url": "http://arxiv.org/pdf/2410.17569v2",
+            "published": "2024-10-23 05:27:12+00:00",
+            "updated": "2025-07-24 16:01:05+00:00"
+        }
+    ],
+    "Diffusion": [
+        {
+            "title": "Diffusion Beats Autoregressive in Data-Constrained Settings",
+            "authors": "Mihir Prabhudesai, Menging Wu, Amir Zadeh, Katerina Fragkiadaki, Deepak Pathak",
+            "summary": "Autoregressive (AR) models have long dominated the landscape of large\nlanguage models, driving progress across a wide range of tasks. Recently,\ndiffusion-based language models have emerged as a promising alternative, though\ntheir advantages over AR models remain underexplored. In this paper, we\nsystematically study masked diffusion models in data-constrained settings-where\ntraining involves repeated passes over limited data-and find that they\nsignificantly outperform AR models when compute is abundant but data is scarce.\nDiffusion models make better use of repeated data, achieving lower validation\nloss and superior downstream performance. We interpret this advantage as\nimplicit data augmentation: masked diffusion exposes the model to a diverse\ndistribution of token orderings and prediction tasks, unlike AR's fixed\nleft-to-right factorization. We find new scaling laws for diffusion models and\nderive a closed-form expression for the critical compute threshold at which\ndiffusion begins to outperform AR. These results suggest that when data, not\ncompute, is the bottleneck, diffusion models offer a compelling alternative to\nthe standard AR paradigm. Our code is available at:\nhttps://diffusion-scaling.github.io.",
+            "pdf_url": "http://arxiv.org/pdf/2507.15857v2",
+            "published": "2025-07-21 17:59:57+00:00",
+            "updated": "2025-07-24 17:55:24+00:00"
+        },
+        {
+            "title": "Demystify Protein Generation with Hierarchical Conditional Diffusion Models",
+            "authors": "Zinan Ling, Yi Shi, Da Yan, Yang Zhou, Bo Hui",
+            "summary": "Generating novel and functional protein sequences is critical to a wide range\nof applications in biology. Recent advancements in conditional diffusion models\nhave shown impressive empirical performance in protein generation tasks.\nHowever, reliable generations of protein remain an open research question in de\nnovo protein design, especially when it comes to conditional diffusion models.\nConsidering the biological function of a protein is determined by multi-level\nstructures, we propose a novel multi-level conditional diffusion model that\nintegrates both sequence-based and structure-based information for efficient\nend-to-end protein design guided by specified functions. By generating\nrepresentations at different levels simultaneously, our framework can\neffectively model the inherent hierarchical relations between different levels,\nresulting in an informative and discriminative representation of the generated\nprotein. We also propose a Protein-MMD, a new reliable evaluation metric, to\nevaluate the quality of generated protein with conditional diffusion models.\nOur new metric is able to capture both distributional and functional\nsimilarities between real and generated protein sequences while ensuring\nconditional consistency. We experiment with the benchmark datasets, and the\nresults on conditional protein generation tasks demonstrate the efficacy of the\nproposed generation framework and evaluation metric.",
+            "pdf_url": "http://arxiv.org/pdf/2507.18603v1",
+            "published": "2025-07-24 17:34:02+00:00",
+            "updated": "2025-07-24 17:34:02+00:00"
+        },
+        {
+            "title": "Elucidating the Design Space of Arbitrary-Noise-Based Diffusion Models",
+            "authors": "Xingyu Qiu, Mengying Yang, Xinghua Ma, Dong Liang, Yuzhen Li, Fanding Li, Gongning Luo, Wei Wang, Kuanquan Wang, Shuo Li",
+            "summary": "EDM elucidates the unified design space of diffusion models, yet its fixed\nnoise patterns restricted to pure Gaussian noise, limit advancements in image\nrestoration. Our study indicates that forcibly injecting Gaussian noise\ncorrupts the degraded images, overextends the image transformation distance,\nand increases restoration complexity. To address this problem, our proposed EDA\nElucidates the Design space of Arbitrary-noise-based diffusion models.\nTheoretically, EDA expands the freedom of noise pattern while preserving the\noriginal module flexibility of EDM, with rigorous proof that increased noise\ncomplexity incurs no additional computational overhead during restoration. EDA\nis validated on three typical tasks: MRI bias field correction (global smooth\nnoise), CT metal artifact reduction (global sharp noise), and natural image\nshadow removal (local boundary-aware noise). With only 5 sampling steps, EDA\noutperforms most task-specific methods and achieves state-of-the-art\nperformance in bias field correction and shadow removal.",
+            "pdf_url": "http://arxiv.org/pdf/2507.18534v1",
+            "published": "2025-07-24 16:01:34+00:00",
+            "updated": "2025-07-24 16:01:34+00:00"
+        },
+        {
+            "title": "Att-Adapter: A Robust and Precise Domain-Specific Multi-Attributes T2I Diffusion Adapter via Conditional Variational Autoencoder",
+            "authors": "Wonwoong Cho, Yan-Ying Chen, Matthew Klenk, David I. Inouye, Yanxia Zhang",
+            "summary": "Text-to-Image (T2I) Diffusion Models have achieved remarkable performance in\ngenerating high quality images. However, enabling precise control of continuous\nattributes, especially multiple attributes simultaneously, in a new domain\n(e.g., numeric values like eye openness or car width) with text-only guidance\nremains a significant challenge. To address this, we introduce the Attribute\n(Att) Adapter, a novel plug-and-play module designed to enable fine-grained,\nmulti-attributes control in pretrained diffusion models. Our approach learns a\nsingle control adapter from a set of sample images that can be unpaired and\ncontain multiple visual attributes. The Att-Adapter leverages the decoupled\ncross attention module to naturally harmonize the multiple domain attributes\nwith text conditioning. We further introduce Conditional Variational\nAutoencoder (CVAE) to the Att-Adapter to mitigate overfitting, matching the\ndiverse nature of the visual world. Evaluations on two public datasets show\nthat Att-Adapter outperforms all LoRA-based baselines in controlling continuous\nattributes. Additionally, our method enables a broader control range and also\nimproves disentanglement across multiple attributes, surpassing StyleGAN-based\ntechniques. Notably, Att-Adapter is flexible, requiring no paired synthetic\ndata for training, and is easily scalable to multiple attributes within a\nsingle model.",
+            "pdf_url": "http://arxiv.org/pdf/2503.11937v4",
+            "published": "2025-03-15 01:06:34+00:00",
+            "updated": "2025-07-24 13:24:21+00:00"
+        }
+    ],
+    "Quantitative Finance": [
+        {
+            "title": "EFS: Evolutionary Factor Searching for Sparse Portfolio Optimization Using Large Language Models",
+            "authors": "Haochen Luo, Yuan Zhang, Chen Liu",
+            "summary": "Sparse portfolio optimization is a fundamental yet challenging problem in\nquantitative finance, since traditional approaches heavily relying on\nhistorical return statistics and static objectives can hardly adapt to dynamic\nmarket regimes. To address this issue, we propose Evolutionary Factor Search\n(EFS), a novel framework that leverages large language models (LLMs) to\nautomate the generation and evolution of alpha factors for sparse portfolio\nconstruction. By reformulating the asset selection problem as a top-m ranking\ntask guided by LLM-generated factors, EFS incorporates an evolutionary feedback\nloop to iteratively refine the factor pool based on performance. Extensive\nexperiments on five Fama-French benchmark datasets and three real-market\ndatasets (US50, HSI45 and CSI300) demonstrate that EFS significantly\noutperforms both statistical-based and optimization-based baselines, especially\nin larger asset universes and volatile conditions. Comprehensive ablation\nstudies validate the importance of prompt composition, factor diversity, and\nLLM backend choice. Our results highlight the promise of language-guided\nevolution as a robust and interpretable paradigm for portfolio optimization\nunder structural constraints.",
+            "pdf_url": "http://arxiv.org/pdf/2507.17211v1",
+            "published": "2025-07-23 05:07:54+00:00",
+            "updated": "2025-07-23 05:07:54+00:00"
+        }
+    ]
+}
