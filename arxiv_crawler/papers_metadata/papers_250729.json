@@ -1,0 +1,136 @@
+{
+    "Physics": [
+        {
+            "title": "Emergence of a Boundary-Sensitive Phase in Hyperbolic Ising Models",
+            "authors": "Xingzhi Wang, Zohar Nussinov, Gerardo Ortiz",
+            "summary": "Physical systems defined on hyperbolic lattices may exhibit phases of matter\nthat only emerge due to negative curvature. We focus on the case of the Ising\nmodel under open boundary conditions and show that an ``intermediate'' phase\nemerges in addition to standard (high-temperature) paramagnetic and\n(low-temperature) ferromagnetic phases. When performing the Kramers-Wannier\nduality the fact that it alters boundary conditions becomes crucial, since a\nfinite fraction of lattice sites lie on the boundary. We propose to\ncharacterize this ``intermediate'' phase by its sensitivity to boundary\nconditions, wherein bulk ordering is not spontaneous but rather induced by\nboundary effects, setting it apart from the Landau paradigm of spontaneous\nsymmetry breaking. By developing a $\\mathbb{Z}_2$ symmetry restricted extension\nof the Corner Transfer Matrix Renormalization Group method, we provide\nnumerical evidence for the existence of all three distinct phases and their\ncorresponding two-stage phase transitions, thereby establishing the complete\nphase diagram. We also establish how the (spontaneous)\nintermediate-to-ferromagnetic and the (induced) paramagnetic-to-intermediate\ntransition points are related by the Kramers-Wannier duality relation.",
+            "pdf_url": "http://arxiv.org/pdf/2507.21044v1",
+            "published": "2025-07-28 17:59:02+00:00",
+            "updated": "2025-07-28 17:59:02+00:00"
+        },
+        {
+            "title": "Temporal Entanglement from Holographic Entanglement Entropy",
+            "authors": "Michal P. Heller, Fabio Ori, Alexandre Serantes",
+            "summary": "Recently, several notions of entanglement in time have emerged as a novel\nfrontier in quantum many-body physics, quantum field theory and gravity. We\npropose a systematic prescription to characterize temporal entanglement in\nrelativistic quantum field theory in a general state for an arbitrary subregion\non a flat, constant-time slice in a flat spacetime. Our prescriptions starts\nwith the standard entanglement entropy of a spatial subregion and amounts to\ntransporting the unchanged subregion to boosted time slices all the way across\nthe light cone when it becomes in general a complex characterization of the\ncorresponding temporal subregion. For holographic quantum field theories, our\nprescription amounts to an analytic continuation of all codimension-two bulk\nextremal surfaces satisfying the homology constraint and picking the one with\nthe smallest real value of the area as the leading saddle point. We implement\nthis prescription for holographic conformal field theories in thermal states on\nboth a two-dimensional Lorentzian cylinder and three-dimensional Minkowski\nspace, and show that it leads to results with self-consistent physical\nproperties of temporal entanglement.",
+            "pdf_url": "http://arxiv.org/pdf/2507.17847v2",
+            "published": "2025-07-23 18:14:21+00:00",
+            "updated": "2025-07-28 17:35:16+00:00"
+        },
+        {
+            "title": "On the Energy Analysis of Two-phase Flows Simulated with the Diffuse Interface Method",
+            "authors": "Ali Mostafavi, Mohammadmahdi Ranjbar, Vitaliy Yurkiv, Alexander L. Yarin, Farzad Mashayek",
+            "summary": "The Phase-Field Method (PFM) is employed to simulate two-phase flows with the\nfully-coupled Cahn-Hilliard-Navier-Stokes (CHNS) equations governing the\ntemporal evolution. The methodology minimizes the total energy functional,\naccounting for diffusive and viscous dissipations. A new perspective is\npresented by analyzing the interplay between kinetic energy, mixing energy, and\nviscous dissipation using the temporal evolution of the total energy\nfunctional. The classical surface energy is approximated with mixing energy\nunder specific conditions, and the accuracy of this substitution is rigorously\nevaluated. The energy-based surface tension formulation derived from the\nKorteweg stress tensor demonstrates exceptional accuracy in capturing\nvariations in the mixing energy. These concepts are demonstrated by considering\ntwo benchmark problems: droplet oscillation and capillary thread breakup. Key\nfindings include validating mixing-energy theory for highly deformed\ninterfaces, as well as the discovery of distinct energy dissipation patterns\nduring thread breakup and droplet oscillations. The results highlight the\nrobustness of the free energy-based PFM in accurately capturing complex\ninterfacial dynamics, while maintaining energy conservation.",
+            "pdf_url": "http://arxiv.org/pdf/2501.11643v2",
+            "published": "2025-01-20 18:16:21+00:00",
+            "updated": "2025-07-28 17:26:33+00:00"
+        },
+        {
+            "title": "Anomalous fluctuations of Bose-Einstein condensates in optical lattices",
+            "authors": "Zahra Jalali-Mola, Niklas K\u00e4ming, Luca Asteria, Utso Bhattacharya, Ravindra W. Chhajlany, Klaus Sengstock, Maciej Lewenstein, Tobias Grass, Christof Weitenberg",
+            "summary": "Fluctuations are fundamental in physics and important for understanding and\ncharacterizing phase transitions. In this spirit, the phase transition to the\nBose-Einstein condensate (BEC) is of specific importance. Whereas fluctuations\nof the condensate particle number in atomic BECs have been studied in\ncontinuous systems, experimental and theoretical studies for lattice systems\nwere so far missing. Here, we explore the condensate particle number\nfluctuations in an optical lattice BEC across the phase transition in a\ncombined experimental and theoretical study. We present both experimental data\nusing ultracold $^{87}$Rb atoms and numerical simulations based on a hybrid\napproach combining the Bogoliubov quasiparticle framework with a master\nequation analysis for modeling the system. We find strongly anomalous\nfluctuations, where the variance of the condensate number $\\delta N_{\\rm\nBEC}^2$ scales with the total atom number as $N^{1+\\gamma}$ with an exponent\naround $\\gamma_{\\rm theo}=0.74$ and $\\gamma_{\\rm exp}=0.62$, which we attribute\nto the 2D/3D crossover geometry and the interactions. Our study highlights the\nimportance of the trap geometry on the character of fluctuations and on\nfundamental quantum mechanical properties.",
+            "pdf_url": "http://arxiv.org/pdf/2507.21001v1",
+            "published": "2025-07-28 17:11:33+00:00",
+            "updated": "2025-07-28 17:11:33+00:00"
+        },
+        {
+            "title": "The LHC as a TeV Muon Beam Dump: Muonphilic Scalars at FASER",
+            "authors": "Roshan Mammen Abraham, Max Fieg",
+            "summary": "The FASER experiment was designed to study long-lived dark sector particles\nand neutrinos traveling in the forward direction at the LHC. Neutrinos are\npredominantly produced from meson decays, which also result in an intense\nenergetic flux of muons in the forward direction regularly observed by FASER.\nSo far, these muons are treated only as backgrounds to neutrino and new physics\nstudies, and extensive effort is required to suppress them. In this study, we\nconsider the opposite scenario and use muons produced in the forward direction\nto produce new muonphilic scalars, which can then be searched for at the FASER\ndetector. To minimize the backgrounds for this search, we make use of an\nupgraded preshower component, which is expected to be installed at FASER before\nthe end of Run 3, and is capable of spatially resolving two energetic photons.\nWe find that FASER, and its upgrade, FASER2 can probe currently unconstrained\nregions of parameter space, including regions that can potentially explain the\n$(g-2)_{\\mu}$ anomaly. This highlights the physics opportunities that the\nintense TeV muon beam at the LHC can bring.",
+            "pdf_url": "http://arxiv.org/pdf/2501.09071v2",
+            "published": "2025-01-15 19:00:02+00:00",
+            "updated": "2025-07-28 17:00:54+00:00"
+        },
+        {
+            "title": "Assessing cosmological evidence for non-minimal coupling",
+            "authors": "William J. Wolf, Carlos Garc\u00eda-Garc\u00eda, Theodore Anton, Pedro G. Ferreira",
+            "summary": "The recent observational evidence of deviations from the $\\Lambda$-Cold Dark\nMatter ($\\Lambda$CDM) model points towards the presence of evolving dark\nenergy. The simplest possibility consists of a cosmological scalar field\n$\\varphi$, dubbed quintessence, driving the accelerated expansion. We assess\nthe evidence for the existence of such a scalar field. We find that, if the\naccelerated expansion is driven by quintessence, the data favour a potential\nenergy $V(\\varphi)$ that is concave, i.e., $m^2=d^2V/d\\varphi^2<0$.\nFurthermore, and more significantly, the data strongly favour a scalar field\nthat is non-minimally coupled to gravity (Bayes factor $\\log(B) = 7.34 \\pm\n0.6$), leading to time variations in the gravitational constant on cosmological\nscales, and the existence of fifth forces on smaller scales. The fact that we\ndo not observe such fifth forces implies that either new physics must come into\nplay on non-cosmological scales or that quintessence is an unlikely explanation\nfor the observed cosmic acceleration.",
+            "pdf_url": "http://arxiv.org/pdf/2504.07679v3",
+            "published": "2025-04-10 12:07:47+00:00",
+            "updated": "2025-07-28 16:54:23+00:00"
+        },
+        {
+            "title": "Scaling Physical Reasoning with the PHYSICS Dataset",
+            "authors": "Shenghe Zheng, Qianjia Cheng, Junchi Yao, Mengsong Wu, Haonan He, Ning Ding, Yu Cheng, Shuyue Hu, Lei Bai, Dongzhan Zhou, Ganqu Cui, Peng Ye",
+            "summary": "Large Language Models (LLMs) have achieved remarkable progress on advanced\nreasoning tasks such as mathematics and coding competitions. Meanwhile,\nphysics, despite being both reasoning-intensive and essential to real-world\nunderstanding, received limited academic and industrial attention. This paper\nintroduces PHYSICS, a dataset containing 16,568 high-quality physics problems\nspanning subjects and difficulty levels, to facilitate this issue.\nSpecifically, PHYSICS is curated with exercises from over 100 textbooks through\na carefully designed pipeline for quality control. It covers five major physics\ndomains: Mechanics, Electromagnetism, Thermodynamics, Optics, and Modern\nPhysics. It also spans a wide range of difficulty levels, from high school to\ngraduate-level physics courses. To utilize the data for improving and\nevaluating the model's physical reasoning capabilities, we split the dataset\ninto training and test sets, and provide reasoning paths generated by powerful\nreasoning models for the training data to facilitate model training. In\naddition, for the evaluation part, we find that existing evaluation frameworks\nexhibit biases in aspects such as units, simplification, and precision in\nphysics domain. To balance efficiency and accuracy, we introduce a Rule+Model\nevaluation framework tailored to physics problems. Our evaluations on current\nstate-of-the-art open-source and proprietary models highlight the limitations\nof current models in handling physics-related tasks. We hope that our dataset\nand evaluation methodology will jointly advance the development of LLMs in the\nfield of physics.",
+            "pdf_url": "http://arxiv.org/pdf/2506.00022v3",
+            "published": "2025-05-21 17:06:28+00:00",
+            "updated": "2025-07-28 16:50:18+00:00"
+        },
+        {
+            "title": "New Physics contamination to precision luminosity measurements at future $e^+e^-$ colliders",
+            "authors": "Mauro Chiesa, Clara L. Del Pio, Guido Montagna, Oreste Nicrosini, Fulvio Piccinini, Francesco P. Ucci",
+            "summary": "Several key observables of the high-precision physics program at future\nlepton colliders will critically depend on the knowledge of the absolute\nmachine luminosity. The determination of the luminosity relies on the precise\nknowledge of some reference process, which is in principle not affected by\nunknown physics, so that its cross section can be computed within a\nwell-established theory, like the Standard Model. Quantifying the uncertainties\ninduced by possible New Physics effects on such processes is therefore crucial.\nWe present an exploratory investigation of light and heavy New Physics\ncontributions to the small-angle Bhabha process at future $e^+e^-$ colliders\nand we discuss possible strategies to remove potential uncertainties\noriginating from such contaminations by relying on observables that are\nindependent of the absolute luminosity.",
+            "pdf_url": "http://arxiv.org/pdf/2501.05256v2",
+            "published": "2025-01-09 14:13:13+00:00",
+            "updated": "2025-07-28 16:40:44+00:00"
+        },
+        {
+            "title": "Maximal intrinsic randomness of noisy quantum measurements",
+            "authors": "Fionnuala Curran, Morteza Moradi, Gabriel Senno, Magdalena Stobinska, Antonio Ac\u00edn",
+            "summary": "Quantum physics exhibits an intrinsic and private form of randomness with no\nclassical counterpart. Any setup for quantum randomness generation involves\nmeasurements acting on quantum states. In this work, we consider the following\nquestion: Given a quantum measurement, how much randomness can be generated\nfrom it? In real life, measurements are noisy and thus contain an additional,\nextrinsic form of randomness due to ignorance. This extrinsic randomness is not\nprivate since, in an adversarial model, it takes the form of quantum side\ninformation held by an eavesdropper who can use it to predict the measurement\noutcomes. Randomness of measurements is then quantified by the guessing\nprobability of this eavesdropper, when minimized over all possible input\nstates. This optimization is in general hard to compute, but we solve it here\nfor any two-outcome qubit measurement and for projective measurements in\narbitrary dimension mixed with white noise. We also construct, for a given\nmeasured probability distribution, different realizations with (i) a noisy\nstate and noiseless measurement (ii) a noiseless state and noisy measurement\nand (iii) a noisy state and measurement, and we show that the latter gives an\neavesdropper significantly higher guessing power.",
+            "pdf_url": "http://arxiv.org/pdf/2506.22294v2",
+            "published": "2025-06-27 15:05:15+00:00",
+            "updated": "2025-07-28 16:36:23+00:00"
+        },
+        {
+            "title": "Quasi-Local Black Hole Horizons: Recent Advances",
+            "authors": "Abhay Ashtekar, Badri Krishnan",
+            "summary": "While the early literature on black holes focused on event horizons,\nsubsequently it was realized that their teleological nature makes them\nunsuitable for many physical applications both in classical and quantum\ngravity. Therefore, over the past two decades, event horizons have been\nsteadily replaced by quasi-local horizons which do not suffer from teleology.\nIn numerical simulations event horizons can be located as an `after thought'\nonly after the entire space-time has been constructed. By contrast, quasi-local\nhorizons naturally emerge in the course of these simulations, providing\npowerful gauge-invariant tools to extract physics from the numerical outputs.\nThey also lead to interesting results in mathematical GR, providing unforeseen\ninsights. For example, for event horizons we only have a qualitative result\nthat their area cannot decrease, while for quasi-local horizons the increase in\nthe area during a dynamical phase is quantitatively related to local physical\nprocesses at the horizon. In binary black hole mergers, there are interesting\ncorrelations between observables associated with quasi-local horizons and those\ndefined at future null infinity. Finally, the quantum Hawking process is\nnaturally described as formation and evaporation of a quasi-local horizon. This\nreview focuses on the dynamical aspects of quasi-local horizons in classical\ngeneral relativity, emphasizing recent results and ongoing research.",
+            "pdf_url": "http://arxiv.org/pdf/2502.11825v3",
+            "published": "2025-02-17 14:17:21+00:00",
+            "updated": "2025-07-28 16:23:58+00:00"
+        }
+    ],
+    "Diffusion": [
+        {
+            "title": "Flow Matching Policy Gradients",
+            "authors": "David McAllister, Songwei Ge, Brent Yi, Chung Min Kim, Ethan Weber, Hongsuk Choi, Haiwen Feng, Angjoo Kanazawa",
+            "summary": "Flow-based generative models, including diffusion models, excel at modeling\ncontinuous distributions in high-dimensional spaces. In this work, we introduce\nFlow Policy Optimization (FPO), a simple on-policy reinforcement learning\nalgorithm that brings flow matching into the policy gradient framework. FPO\ncasts policy optimization as maximizing an advantage-weighted ratio computed\nfrom the conditional flow matching loss, in a manner compatible with the\npopular PPO-clip framework. It sidesteps the need for exact likelihood\ncomputation while preserving the generative capabilities of flow-based models.\nUnlike prior approaches for diffusion-based reinforcement learning that bind\ntraining to a specific sampling method, FPO is agnostic to the choice of\ndiffusion or flow integration at both training and inference time. We show that\nFPO can train diffusion-style policies from scratch in a variety of continuous\ncontrol tasks. We find that flow-based models can capture multimodal action\ndistributions and achieve higher performance than Gaussian policies,\nparticularly in under-conditioned settings.",
+            "pdf_url": "http://arxiv.org/pdf/2507.21053v1",
+            "published": "2025-07-28 17:59:57+00:00",
+            "updated": "2025-07-28 17:59:57+00:00"
+        },
+        {
+            "title": "Transformers as Unrolled Inference in Probabilistic Laplacian Eigenmaps: An Interpretation and Potential Improvements",
+            "authors": "Aditya Ravuri, Neil D. Lawrence",
+            "summary": "We propose a probabilistic interpretation of transformers as unrolled\ninference steps assuming a probabilistic Laplacian Eigenmaps model from the\nProbDR framework. Our derivation shows that at initialisation, transformers\nperform \"linear\" dimensionality reduction. We also show that within the\ntransformer block, a graph Laplacian term arises from our arguments, rather\nthan an attention matrix (which we interpret as an adjacency matrix). We\ndemonstrate that simply subtracting the identity from the attention matrix (and\nthereby taking a graph diffusion step) improves validation performance on a\nlanguage model and a simple vision transformer.",
+            "pdf_url": "http://arxiv.org/pdf/2507.21040v1",
+            "published": "2025-07-28 17:56:34+00:00",
+            "updated": "2025-07-28 17:56:34+00:00"
+        },
+        {
+            "title": "JWB-DH-V1: Benchmark for Joint Whole-Body Talking Avatar and Speech Generation Version 1",
+            "authors": "Xinhan Di, Kristin Qi, Pengqian Yu",
+            "summary": "Recent advances in diffusion-based video generation have enabled\nphoto-realistic short clips, but current methods still struggle to achieve\nmulti-modal consistency when jointly generating whole-body motion and natural\nspeech. Current approaches lack comprehensive evaluation frameworks that assess\nboth visual and audio quality, and there are insufficient benchmarks for\nregion-specific performance analysis. To address these gaps, we introduce the\nJoint Whole-Body Talking Avatar and Speech Generation Version I(JWB-DH-V1),\ncomprising a large-scale multi-modal dataset with 10,000 unique identities\nacross 2 million video samples, and an evaluation protocol for assessing joint\naudio-video generation of whole-body animatable avatars. Our evaluation of SOTA\nmodels reveals consistent performance disparities between face/hand-centric and\nwhole-body performance, which incidates essential areas for future research.\nThe dataset and evaluation tools are publicly available at\nhttps://github.com/deepreasonings/WholeBodyBenchmark.",
+            "pdf_url": "http://arxiv.org/pdf/2507.20987v1",
+            "published": "2025-07-28 16:47:44+00:00",
+            "updated": "2025-07-28 16:47:44+00:00"
+        },
+        {
+            "title": "Model-Agnostic Gender Bias Control for Text-to-Image Generation via Sparse Autoencoder",
+            "authors": "Chao Wu, Zhenyi Wang, Kangxian Xie, Naresh Kumar Devulapally, Vishnu Suresh Lokhande, Mingchen Gao",
+            "summary": "Text-to-image (T2I) diffusion models often exhibit gender bias, particularly\nby generating stereotypical associations between professions and gendered\nsubjects. This paper presents SAE Debias, a lightweight and model-agnostic\nframework for mitigating such bias in T2I generation. Unlike prior approaches\nthat rely on CLIP-based filtering or prompt engineering, which often require\nmodel-specific adjustments and offer limited control, SAE Debias operates\ndirectly within the feature space without retraining or architectural\nmodifications. By leveraging a k-sparse autoencoder pre-trained on a gender\nbias dataset, the method identifies gender-relevant directions within the\nsparse latent space, capturing professional stereotypes. Specifically, a biased\ndirection per profession is constructed from sparse latents and suppressed\nduring inference to steer generations toward more gender-balanced outputs.\nTrained only once, the sparse autoencoder provides a reusable debiasing\ndirection, offering effective control and interpretable insight into biased\nsubspaces. Extensive evaluations across multiple T2I models, including Stable\nDiffusion 1.4, 1.5, 2.1, and SDXL, demonstrate that SAE Debias substantially\nreduces gender bias while preserving generation quality. To the best of our\nknowledge, this is the first work to apply sparse autoencoders for identifying\nand intervening in gender bias within T2I models. These findings contribute\ntoward building socially responsible generative AI, providing an interpretable\nand model-agnostic tool to support fairness in text-to-image generation.",
+            "pdf_url": "http://arxiv.org/pdf/2507.20973v1",
+            "published": "2025-07-28 16:36:13+00:00",
+            "updated": "2025-07-28 16:36:13+00:00"
+        },
+        {
+            "title": "Mean-Field Langevin Diffusions with Density-dependent Temperature",
+            "authors": "Yu-Jui Huang, Zachariah Malik",
+            "summary": "In the context of non-convex optimization, we let the temperature of a\nLangevin diffusion to depend on the diffusion's own density function. The\nrationale is that the induced density reveals to some extent the landscape\nimposed by the non-convex function to be minimized, such that a\ndensity-dependent temperature can provide location-wise random perturbation\nthat may better react to, for instance, the location and depth of local\nminimizers. As the Langevin dynamics is now self-regulated by its own density,\nit forms a mean-field stochastic differential equation (SDE) of the Nemytskii\ntype, distinct from the standard McKean-Vlasov equations. Relying on\nWasserstein subdifferential calculus, we first show that the corresponding\n(nonlinear) Fokker-Planck equation has a unique solution. Next, a weak solution\nto the SDE is constructed from the solution to the Fokker-Planck equation, by\nTrevisan's superposition principle. As time goes to infinity, we further show\nthat the density induced by the SDE converges to an invariant distribution,\nwhich admits an explicit formula in terms of the Lambert $W$ function.",
+            "pdf_url": "http://arxiv.org/pdf/2507.20958v1",
+            "published": "2025-07-28 16:09:57+00:00",
+            "updated": "2025-07-28 16:09:57+00:00"
+        }
+    ],
+    "Quantitative Finance": [
+        {
+            "title": "Your AI, Not Your View: The Bias of LLMs in Investment Analysis",
+            "authors": "Hoyoung Lee, Junhyuk Seo, Suhwan Park, Junhyeong Lee, Wonbin Ahn, Chanyeol Choi, Alejandro Lopez-Lira, Yongjae Lee",
+            "summary": "In finance, Large Language Models (LLMs) face frequent knowledge conflicts\ndue to discrepancies between pre-trained parametric knowledge and real-time\nmarket data. These conflicts become particularly problematic when LLMs are\ndeployed in real-world investment services, where misalignment between a\nmodel's embedded preferences and those of the financial institution can lead to\nunreliable recommendations. Yet little research has examined what investment\nviews LLMs actually hold. We propose an experimental framework to investigate\nsuch conflicts, offering the first quantitative analysis of confirmation bias\nin LLM-based investment analysis. Using hypothetical scenarios with balanced\nand imbalanced arguments, we extract models' latent preferences and measure\ntheir persistence. Focusing on sector, size, and momentum, our analysis reveals\ndistinct, model-specific tendencies. In particular, we observe a consistent\npreference for large-cap stocks and contrarian strategies across most models.\nThese preferences often harden into confirmation bias, with models clinging to\ninitial judgments despite counter-evidence.",
+            "pdf_url": "http://arxiv.org/pdf/2507.20957v1",
+            "published": "2025-07-28 16:09:38+00:00",
+            "updated": "2025-07-28 16:09:38+00:00"
+        }
+    ]
+}

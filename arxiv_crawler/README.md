@@ -187,6 +187,36 @@ TODO:
 
 
 
+
+## Update on 2025-07-29
+
+### Physics
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-07-28|2025-07-28|Emergence of a Boundary-Sensitive Phase in Hyperbolic Ising Models|Xingzhi Wang|[2507.21044v1](http://arxiv.org/pdf/2507.21044v1)|
+|2025-07-23|2025-07-28|Temporal Entanglement from Holographic Entanglement Entropy|Michal P. Heller|[2507.17847v2](http://arxiv.org/pdf/2507.17847v2)|
+|2025-01-20|2025-07-28|On the Energy Analysis of Two-phase Flows Simulated with the Diffuse Interface Method|Ali Mostafavi|[2501.11643v2](http://arxiv.org/pdf/2501.11643v2)|
+|2025-07-28|2025-07-28|Anomalous fluctuations of Bose-Einstein condensates in optical lattices|Zahra Jalali-Mola|[2507.21001v1](http://arxiv.org/pdf/2507.21001v1)|
+|2025-01-15|2025-07-28|The LHC as a TeV Muon Beam Dump: Muonphilic Scalars at FASER|Roshan Mammen Abraham|[2501.09071v2](http://arxiv.org/pdf/2501.09071v2)|
+|2025-04-10|2025-07-28|Assessing cosmological evidence for non-minimal coupling|William J. Wolf|[2504.07679v3](http://arxiv.org/pdf/2504.07679v3)|
+|2025-05-21|2025-07-28|Scaling Physical Reasoning with the PHYSICS Dataset|Shenghe Zheng|[2506.00022v3](http://arxiv.org/pdf/2506.00022v3)|
+|2025-01-09|2025-07-28|New Physics contamination to precision luminosity measurements at future $e^+e^-$ colliders|Mauro Chiesa|[2501.05256v2](http://arxiv.org/pdf/2501.05256v2)|
+|2025-06-27|2025-07-28|Maximal intrinsic randomness of noisy quantum measurements|Fionnuala Curran|[2506.22294v2](http://arxiv.org/pdf/2506.22294v2)|
+|2025-02-17|2025-07-28|Quasi-Local Black Hole Horizons: Recent Advances|Abhay Ashtekar|[2502.11825v3](http://arxiv.org/pdf/2502.11825v3)|
+
+### Diffusion
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-07-28|2025-07-28|Flow Matching Policy Gradients|David McAllister|[2507.21053v1](http://arxiv.org/pdf/2507.21053v1)|
+|2025-07-28|2025-07-28|Transformers as Unrolled Inference in Probabilistic Laplacian Eigenmaps: An Interpretation and Potential Improvements|Aditya Ravuri|[2507.21040v1](http://arxiv.org/pdf/2507.21040v1)|
+|2025-07-28|2025-07-28|JWB-DH-V1: Benchmark for Joint Whole-Body Talking Avatar and Speech Generation Version 1|Xinhan Di|[2507.20987v1](http://arxiv.org/pdf/2507.20987v1)|
+|2025-07-28|2025-07-28|Model-Agnostic Gender Bias Control for Text-to-Image Generation via Sparse Autoencoder|Chao Wu|[2507.20973v1](http://arxiv.org/pdf/2507.20973v1)|
+|2025-07-28|2025-07-28|Mean-Field Langevin Diffusions with Density-dependent Temperature|Yu-Jui Huang|[2507.20958v1](http://arxiv.org/pdf/2507.20958v1)|
+
+### Quantitative Finance
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-07-28|2025-07-28|Your AI, Not Your View: The Bias of LLMs in Investment Analysis|Hoyoung Lee|[2507.20957v1](http://arxiv.org/pdf/2507.20957v1)|
 ## Update on 2025-07-25
 
 ### Physics
