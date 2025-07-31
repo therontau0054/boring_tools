@@ -188,6 +188,31 @@ TODO:
 
 
 
+
+## Update on 2025-07-31
+
+### Physics
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-07-30|2025-07-30|Operational interpretation of the Stabilizer Entropy|Lennart Bittel|[2507.22883v1](http://arxiv.org/pdf/2507.22883v1)|
+|2025-07-30|2025-07-30|Non-periodic Boundary Conditions for Euler Class and Dynamical Signatures of Obstruction|Osama A. Alsaiari|[2507.22874v1](http://arxiv.org/pdf/2507.22874v1)|
+|2022-03-31|2025-07-30|Non-diagonal contributions to $ZγV^\ast$ vertex, polarizations and bounds on $Z\overline{t}q$ couplings|A. I. Hernández-Juárez|[2203.16819v3](http://arxiv.org/pdf/2203.16819v3)|
+|2025-04-19|2025-07-30|Demonstration of the rotational viscosity transfer across scales in Navier-Stokes turbulence|Satori Tsuzuki|[2504.14114v2](http://arxiv.org/pdf/2504.14114v2)|
+|2025-07-30|2025-07-30|Axisymmetric Gyrokinetic Simulation of ASDEX-Upgrade Scrape-off Layer Using a Conservative Implicit BGK Collision Operator|D. Liu|[2507.22821v1](http://arxiv.org/pdf/2507.22821v1)|
+|2025-02-27|2025-07-30|Signatures of Quantum Gravity in Gravitational Wave Memory|Nils Deppe|[2502.20584v2](http://arxiv.org/pdf/2502.20584v2)|
+|2025-06-20|2025-07-30|Hop-Decorate: An Automated Atomistic Workflow for Generating Defect Transport Data in Chemically Complex Materials|Peter Hatton|[2506.16835v2](http://arxiv.org/pdf/2506.16835v2)|
+|2025-05-12|2025-07-30|Measurement of the Total Compton Scattering Cross Section between 6.5 and 11 GeV|GlueX Collaboration|[2505.07994v2](http://arxiv.org/pdf/2505.07994v2)|
+|2025-07-30|2025-07-30|Amorphous Solid Model of Vectorial Hopfield Neural Networks|F. Gallavotti|[2507.22787v1](http://arxiv.org/pdf/2507.22787v1)|
+|2025-07-30|2025-07-30|General quantum computation on photons assisted with double single-sided cavity system|Jiu-Ming Li|[2507.22773v1](http://arxiv.org/pdf/2507.22773v1)|
+
+### Diffusion
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-07-30|2025-07-30|G-Core: A Simple, Scalable and Balanced RLHF Trainer|Junyu Wu|[2507.22789v1](http://arxiv.org/pdf/2507.22789v1)|
+|2025-06-13|2025-07-30|The Effect of Stochasticity in Score-Based Diffusion Sampling: a KL Divergence Analysis|Bernardo P. Schaeffer|[2506.11378v2](http://arxiv.org/pdf/2506.11378v2)|
+|2025-07-23|2025-07-30|Ultra3D: Efficient and High-Fidelity 3D Generation with Part Attention|Yiwen Chen|[2507.17745v2](http://arxiv.org/pdf/2507.17745v2)|
+|2024-10-10|2025-07-30|Inferring biological processes with intrinsic noise from cross-sectional data|Suryanarayana Maddu|[2410.07501v2](http://arxiv.org/pdf/2410.07501v2)|
+|2025-05-24|2025-07-30|Equivariant Flow Matching for Point Cloud Assembly|Ziming Wang|[2505.21539v2](http://arxiv.org/pdf/2505.21539v2)|
 ## Update on 2025-07-29
 
 ### Physics
