@@ -189,6 +189,31 @@ TODO:
 
 
 
+
+## Update on 2025-08-01
+
+### Physics
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-07-31|2025-07-31|Universal tradeoff relations between resource cost and irreversibility of channels: General-resource Wigner-Araki-Yanase theorems and beyond|Hiroyasu Tajima|[2507.23760v1](http://arxiv.org/pdf/2507.23760v1)|
+|2025-07-31|2025-07-31|Floquet Non-Bloch Formalism for a Non-Hermitian Ladder: From Theoretical Framework to Topolectrical Circuits|Koustav Roy|[2507.23744v1](http://arxiv.org/pdf/2507.23744v1)|
+|2025-07-31|2025-07-31|Search for $t\bar tt\bar tW$ Production at $\sqrt{s} = 13$ TeV Using a Modified Graph Neural Network at the LHC|Syed Haider Ali|[2507.23723v1](http://arxiv.org/pdf/2507.23723v1)|
+|2025-07-31|2025-07-31|Chirality structure of vector like new physics operators in charged current transitions|Sajawal Zafar|[2507.23721v1](http://arxiv.org/pdf/2507.23721v1)|
+|2025-07-29|2025-07-31|Multi-Gap superconductivity in HgS under pressure|Pietro Maria Forcella|[2507.21869v3](http://arxiv.org/pdf/2507.21869v3)|
+|2025-07-31|2025-07-31|High-resolution eikonal imaging and uncertainty quantification of the Kilauea caldera|Angela F. Gao|[2507.23692v1](http://arxiv.org/pdf/2507.23692v1)|
+|2024-12-09|2025-07-31|Families of $d=2$ 2D subsystem stabilizer codes for universal Hamiltonian quantum computation with two-body interactions|Phattharaporn Singkanipa|[2412.06744v3](http://arxiv.org/pdf/2412.06744v3)|
+|2025-05-23|2025-07-31|Recovering Hidden Degrees of Freedom Using Gaussian Processes|Georg Diez|[2505.18072v2](http://arxiv.org/pdf/2505.18072v2)|
+|2025-07-31|2025-07-31|Cheng's eigenvalue comparison on metric measure spaces and applications|G. Bruno De Luca|[2507.23671v1](http://arxiv.org/pdf/2507.23671v1)|
+|2025-02-19|2025-07-31|Testing New Physics in Oscillations at a Neutrino Factory|Peter B. Denton|[2502.14027v2](http://arxiv.org/pdf/2502.14027v2)|
+
+### Diffusion
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-07-31|2025-07-31|SUB: Benchmarking CBM Generalization via Synthetic Attribute Substitutions|Jessica Bader|[2507.23784v1](http://arxiv.org/pdf/2507.23784v1)|
+|2025-03-22|2025-07-31|Learning to Align and Refine: A Foundation-to-Diffusion Framework for Occlusion-Robust Two-Hand Reconstruction|Gaoge Han|[2503.17788v2](http://arxiv.org/pdf/2503.17788v2)|
+|2025-07-31|2025-07-31|DepMicroDiff: Diffusion-Based Dependency-Aware Multimodal Imputation for Microbiome Data|Rabeya Tus Sadia|[2507.23676v1](http://arxiv.org/pdf/2507.23676v1)|
+|2025-07-31|2025-07-31|One-Step Flow Policy Mirror Descent|Tianyi Chen|[2507.23675v1](http://arxiv.org/pdf/2507.23675v1)|
+|2025-07-31|2025-07-31|DivControl: Knowledge Diversion for Controllable Image Generation|Yucheng Xie|[2507.23620v1](http://arxiv.org/pdf/2507.23620v1)|
 ## Update on 2025-07-31
 
 ### Physics
