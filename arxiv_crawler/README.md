@@ -190,6 +190,39 @@ TODO:
 
 
 
+
+## Update on 2025-08-05
+
+### Physics
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-08-04|2025-08-04|Simulating high-temperature superconductivity in moiré WSe2|Yiyu Xia|[2508.02662v1](http://arxiv.org/pdf/2508.02662v1)|
+|2025-08-04|2025-08-04|Classification of Average Crystalline Topological Superconductors through a Generalized Real-Space Construction|Sarvesh Srinivasan|[2508.02661v1](http://arxiv.org/pdf/2508.02661v1)|
+|2025-08-04|2025-08-04|PSR J0614-3329: A NICER case for Strange Quark Stars|Swarnim Shirke|[2508.02652v1](http://arxiv.org/pdf/2508.02652v1)|
+|2025-04-08|2025-08-04|Greedy Emulators for Nuclear Two-Body Scattering|J. M. Maldonado|[2504.06092v2](http://arxiv.org/pdf/2504.06092v2)|
+|2025-08-04|2025-08-04|Noosemia: toward a Cognitive and Phenomenological Account of Intentionality Attribution in Human-Generative AI Interaction|Enrico De Santis|[2508.02622v1](http://arxiv.org/pdf/2508.02622v1)|
+|2025-08-04|2025-08-04|Trustworthy scientific inference for inverse problems with generative models|James Carzon|[2508.02602v1](http://arxiv.org/pdf/2508.02602v1)|
+|2025-08-04|2025-08-04|Molecular Processes as Quantum Information Resources|Saikat Sur|[2508.02597v1](http://arxiv.org/pdf/2508.02597v1)|
+|2025-08-04|2025-08-04|The multi-physics analysis, design and testing of CUSP, a CubeSat mission for space weather and solar flares x-ray polarimetry|Giovanni Lombardi|[2508.02594v1](http://arxiv.org/pdf/2508.02594v1)|
+|2025-07-03|2025-08-04|Supersymmetry-breaking compactifications on Riemann-flat manifolds|Gianguido Dall'Agata|[2507.02339v2](http://arxiv.org/pdf/2507.02339v2)|
+|2025-08-04|2025-08-04|Density functional theory of renormalization group in nuclear matter|Yong-rui Chen|[2508.02575v1](http://arxiv.org/pdf/2508.02575v1)|
+
+### Diffusion
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-08-04|2025-08-04|D2PPO: Diffusion Policy Policy Optimization with Dispersive Loss|Guowei Zou|[2508.02644v1](http://arxiv.org/pdf/2508.02644v1)|
+|2025-03-15|2025-08-04|SEAL: Semantic Aware Image Watermarking|Kasra Arabi|[2503.12172v3](http://arxiv.org/pdf/2503.12172v3)|
+|2025-08-04|2025-08-04|Toward Using Machine Learning as a Shape Quality Metric for Liver Point Cloud Generation|Khoa Tuan Nguyen|[2508.02482v1](http://arxiv.org/pdf/2508.02482v1)|
+|2024-06-24|2025-08-04|Enhancing OOD Detection Using Latent Diffusion|Heng Gao|[2406.16525v4](http://arxiv.org/pdf/2406.16525v4)|
+|2025-07-24|2025-08-04|A Comprehensive Review of Diffusion Models in Smart Agriculture: Progress, Applications, and Challenges|Xing Hu|[2507.18376v3](http://arxiv.org/pdf/2507.18376v3)|
+
+### Quantitative Finance
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-08-04|2025-08-04|FinWorld: An All-in-One Open-Source Platform for End-to-End Financial AI Research and Deployment|Wentao Zhang|[2508.02292v1](http://arxiv.org/pdf/2508.02292v1)|
+|2025-08-04|2025-08-04|ByteGen: A Tokenizer-Free Generative Model for Orderbook Events in Byte Space|Yang Li|[2508.02247v1](http://arxiv.org/pdf/2508.02247v1)|
+|2025-07-30|2025-08-04|Is Causality Necessary for Efficient Portfolios? A Computational Perspective on Predictive Validity and Model Misspecification|Alejandro Rodriguez Dominguez|[2507.23138v2](http://arxiv.org/pdf/2507.23138v2)|
+|2025-08-04|2025-08-04|The Financial Connectome: A Brain-Inspired Framework for Modeling Latent Market Dynamics|Yuda Bi|[2508.02012v1](http://arxiv.org/pdf/2508.02012v1)|
 ## Update on 2025-08-01
 
 ### Physics
