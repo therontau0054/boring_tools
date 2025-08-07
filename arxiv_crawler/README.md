@@ -191,6 +191,36 @@ TODO:
 
 
 
+
+## Update on 2025-08-07
+
+### Physics
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2024-07-25|2025-08-06|Complete Gravitational-Wave Spectrum of the Sun|Camilo García-Cely|[2407.18297v2](http://arxiv.org/pdf/2407.18297v2)|
+|2025-08-06|2025-08-06|From MAS to MARS: Coordination Failures and Reasoning Trade-offs in Hierarchical Multi-Agent Robotic Systems within a Healthcare Scenario|Yuanchen Bai|[2508.04691v1](http://arxiv.org/pdf/2508.04691v1)|
+|2025-08-06|2025-08-06|Experimental device-independent certification of indefinite causal order|Dengke Qu|[2508.04643v1](http://arxiv.org/pdf/2508.04643v1)|
+|2025-08-06|2025-08-06|Simulations of dielectric permittivity of water by Machine Learned Potentials with long-range Coulombic interactions|Kehan Cai|[2508.04628v1](http://arxiv.org/pdf/2508.04628v1)|
+|2025-08-06|2025-08-06|Optimizing quantum transport via the quantum Doob transform|Dolores Esteve|[2508.04622v1](http://arxiv.org/pdf/2508.04622v1)|
+|2025-08-06|2025-08-06|Light induced transitions of valley Chern numbers and flat bands in a non-twisted moire graphene-hexagonal boron nitride superlattice|Saud Alabdulal|[2508.04620v1](http://arxiv.org/pdf/2508.04620v1)|
+|2025-08-06|2025-08-06|Physics-Informed Neural Network for Elastic Wave-Mode Separation|E. A. B. Alves|[2508.04600v1](http://arxiv.org/pdf/2508.04600v1)|
+|2025-08-06|2025-08-06|Improved Training Strategies for Physics-Informed Neural Networks using Real Experimental Data in Aluminum Spot Welding|Jan A. Zak|[2508.04595v1](http://arxiv.org/pdf/2508.04595v1)|
+|2025-08-06|2025-08-06|Growth of few-layer molecular crystals of PTCDI on hexagonal boron nitride by microspacing air-gap sublimation|Nils LeCoutre|[2508.04591v1](http://arxiv.org/pdf/2508.04591v1)|
+|2025-08-06|2025-08-06|Algebraically Observable Physics-Informed Neural Network and its Application to Epidemiological Modelling|Mizuka Komatsu|[2508.04590v1](http://arxiv.org/pdf/2508.04590v1)|
+
+### Diffusion
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-08-06|2025-08-06|HierarchicalPrune: Position-Aware Compression for Large-Scale Diffusion Models|Young D. Kwon|[2508.04663v1](http://arxiv.org/pdf/2508.04663v1)|
+|2025-08-06|2025-08-06|Multitask Learning with Stochastic Interpolants|Hugo Negrel|[2508.04605v1](http://arxiv.org/pdf/2508.04605v1)|
+|2025-08-06|2025-08-06|From Split to Share: Private Inference with Distributed Feature Sharing|Zihan Liu|[2508.04346v1](http://arxiv.org/pdf/2508.04346v1)|
+|2025-08-06|2025-08-06|Quasi-Clique Discovery via Energy Diffusion|Yu Zhang|[2508.04174v1](http://arxiv.org/pdf/2508.04174v1)|
+|2025-06-27|2025-08-06|UnMix-NeRF: Spectral Unmixing Meets Neural Radiance Fields|Fabian Perez|[2506.21884v2](http://arxiv.org/pdf/2506.21884v2)|
+
+### Quantitative Finance
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-08-03|2025-08-03|CTBench: Cryptocurrency Time Series Generation Benchmark|Yihao Ang|[2508.02758v1](http://arxiv.org/pdf/2508.02758v1)|
 ## Update on 2025-08-05
 
 ### Physics

@@ -1,0 +1,136 @@
+{
+    "Physics": [
+        {
+            "title": "Complete Gravitational-Wave Spectrum of the Sun",
+            "authors": "Camilo Garc\u00eda-Cely, Andreas Ringwald",
+            "summary": "The high-temperature plasma in the solar interior generates stochastic\ngravitational waves (GWs). Due to its significance as the primary source of\nhigh-frequency GWs in the solar system, we reexamine this phenomenon\nhighlighting some physical processes, including the contribution of macroscopic\nhydrodynamic fluctuations. Our analysis builds upon several studies of axion\nemission from the Sun, particularly in relation to the treatment of plasma\neffects. The resulting GW spectrum is comparable to many well-motivated early\nUniverse signals, yet orders of magnitude below the current sensitivities of\naxion helioscopes such as (Baby)IAXO.",
+            "pdf_url": "http://arxiv.org/pdf/2407.18297v2",
+            "published": "2024-07-25 18:00:01+00:00",
+            "updated": "2025-08-06 17:59:16+00:00"
+        },
+        {
+            "title": "From MAS to MARS: Coordination Failures and Reasoning Trade-offs in Hierarchical Multi-Agent Robotic Systems within a Healthcare Scenario",
+            "authors": "Yuanchen Bai, Zijian Ding, Shaoyue Wen, Xiang Chang, Angelique Taylor",
+            "summary": "Multi-agent robotic systems (MARS) build upon multi-agent systems by\nintegrating physical and task-related constraints, increasing the complexity of\naction execution and agent coordination. However, despite the availability of\nadvanced multi-agent frameworks, their real-world deployment on robots remains\nlimited, hindering the advancement of MARS research in practice. To bridge this\ngap, we conducted two studies to investigate performance trade-offs of\nhierarchical multi-agent frameworks in a simulated real-world multi-robot\nhealthcare scenario. In Study 1, using CrewAI, we iteratively refine the\nsystem's knowledge base, to systematically identify and categorize coordination\nfailures (e.g., tool access violations, lack of timely handling of failure\nreports) not resolvable by providing contextual knowledge alone. In Study 2,\nusing AutoGen, we evaluate a redesigned bidirectional communication structure\nand further measure the trade-offs between reasoning and non-reasoning models\noperating within the same robotic team setting. Drawing from our empirical\nfindings, we emphasize the tension between autonomy and stability and the\nimportance of edge-case testing to improve system reliability and safety for\nfuture real-world deployment. Supplementary materials, including codes, task\nagent setup, trace outputs, and annotated examples of coordination failures and\nreasoning behaviors, are available at:\nhttps://byc-sophie.github.io/mas-to-mars/.",
+            "pdf_url": "http://arxiv.org/pdf/2508.04691v1",
+            "published": "2025-08-06 17:54:10+00:00",
+            "updated": "2025-08-06 17:54:10+00:00"
+        },
+        {
+            "title": "Experimental device-independent certification of indefinite causal order",
+            "authors": "Dengke Qu, Quan Lin, Lei Xiao, Xiang Zhan, Peng Xue",
+            "summary": "Understanding the physical world fundamentally relies on the assumption that\nevents are temporally ordered, with past events serving as causes for future\nones. However, quantum mechanics permits events to occur in a superposition of\ncausal orders, providing new types of quantum resources for quantum information\ntasks. Previous demonstrations of indefinite causal order have relied on a\nprocess known as quantum switch and depended on specific assumptions about the\ndevices used in the laboratory. Recently, a theoretical scheme for the\ncertification of indefinite causal order in the quantum switch has been\nobtained solely from the output statistics of the devices, analogous to the\ndevice-independent proofs of nonlocality through violations of the Bell\ninequality. Here, we report an experimental verification of the causal\ninequality using spacelike-separated entangled photons, where one photon\nfunctions as the control qubit in a quantum switch and the other serves as an\nadditional observer. Through local measurement statistics, we observe a\nviolation of the causal inequality by 24 standard deviations. This work\nprovides evidence for a device-independent certification of indefinite causal\norder, relying solely on observed correlations without requiring device\ncharacterization. Our results pave the way toward a complete understanding of\nindefinite causal order and its potential applications in quantum information\nprocessing.",
+            "pdf_url": "http://arxiv.org/pdf/2508.04643v1",
+            "published": "2025-08-06 17:07:59+00:00",
+            "updated": "2025-08-06 17:07:59+00:00"
+        },
+        {
+            "title": "Simulations of dielectric permittivity of water by Machine Learned Potentials with long-range Coulombic interactions",
+            "authors": "Kehan Cai, Chunyi Zhang, Xifan Wu",
+            "summary": "The dielectric permittivity of liquid water is a fundamental property that\nunderlies its distinctive behaviors in numerious physical, biological, and\nchemical processes. Within a machine learning framework, we present a unified\napproach to compute the dielectric permittivity of water, systematically\nincorporating various electric boundary conditions. Our method employs a\nlong-range-inclusive deep potential trained on data from hybrid density\nfunctional theory calculations. Dielectric response is evaluated using an\nauxiliary deep neural network that predicts the centers of maximally localized\nWannier functions. We investigate three types of electric boundary\nconditions--metallic, insulating, and Kirkwood-Frohlich--to assess their\ninfluence on correlated dipole fluctuations and dielectric relaxation dynamics.\nIn particular, we demonstrate a consistent methodology for computing the\nKirkwood correlation factor, correlation length, and dielectric permittivity\nunder each boundary condition, where long-range electrostatics play a critical\nrole. This work establishes a robust and generalizable machine-learning\nframework for modeling the dielectric properties of polar liquids under diverse\nelectrostatic environments.",
+            "pdf_url": "http://arxiv.org/pdf/2508.04628v1",
+            "published": "2025-08-06 16:53:40+00:00",
+            "updated": "2025-08-06 16:53:40+00:00"
+        },
+        {
+            "title": "Optimizing quantum transport via the quantum Doob transform",
+            "authors": "Dolores Esteve, Carlos P\u00e9rez-Espigares, Ricardo Guti\u00e9rrez, Daniel Manzano",
+            "summary": "Quantum transport plays a central role in both fundamental physics and the\ndevelopment of quantum technologies. While significant progress has been made\nin understanding transport phenomena in quantum systems, methods for optimizing\ntransport properties remain limited, particularly in complex quantum networks.\nBuilding on recent advances in classical network optimization via the\ngeneralized Doob transform, we introduce a novel method that extends this\napproach to quantum networks. Our framework leverages a single diagonalization\nof the system generator to efficiently tailor both the Hamiltonian and\ndissipative contributions, optimizing transport observables such as currents\nand activities. We demonstrate the method's effectiveness through extensive\nnumerical explorations, showing that optimal performance arises from\nnon-trivial modifications to both coherent and incoherent dynamics. We also\nassess the robustness of the optimization under constraints that preserve\nspecific physical features, such as fixed dissipative structures and\ninput-output interactions. Finally, we discuss the connection between optimized\ntransport and centrosymmetry, highlighting the relevance of this property for\nenhanced transport efficiency in quantum systems.",
+            "pdf_url": "http://arxiv.org/pdf/2508.04622v1",
+            "published": "2025-08-06 16:48:48+00:00",
+            "updated": "2025-08-06 16:48:48+00:00"
+        },
+        {
+            "title": "Light induced transitions of valley Chern numbers and flat bands in a non-twisted moire graphene-hexagonal boron nitride superlattice",
+            "authors": "Saud Alabdulal, Miftah Hadi Syahputra Anfa, Hocine Bahlouli, Michael Vogl",
+            "summary": "Motivated by the rich topology and interesting quasi-band structure of\ntwisted moire materials subjected to light, we study a non-twisted moire\nmaterial under the influence of light. Our work is in part motivated by a\ndesire to find an easier-to-synthesize platform that can help experimentally\nelucidate the interesting physics of moir\\'e materials coupled to light.\nSimilar to twisted moire materials, we uncover rich topology and interesting\nband flattening effects, which we summarize in relevant plots such as a\ntopological phase diagram. Our work demonstrates that much of the interesting\nphenomenology of twisted moire materials under the influence of electromagnetic\nwaves seems to be generically present even in more experimentally accessible\nuntwisted moire platforms, which remain highly tunable by light.",
+            "pdf_url": "http://arxiv.org/pdf/2508.04620v1",
+            "published": "2025-08-06 16:47:02+00:00",
+            "updated": "2025-08-06 16:47:02+00:00"
+        },
+        {
+            "title": "Physics-Informed Neural Network for Elastic Wave-Mode Separation",
+            "authors": "E. A. B. Alves, P. D. S. de Lima, D. H. G. Duarte, M. S. Ferreira, J. M. de Ara\u00fajo, C. G. Bezerra",
+            "summary": "Mode conversion in non-homogeneous elastic media makes it challenging to\ninterpret physical properties accurately. Decomposing these modes correctly is\ncrucial across various scientific areas. Recent machine learning approaches\nhave been proposed to address this problem, utilizing the Helmholtz\ndecomposition technique. In this paper, we investigate the capabilities of a\nphysics-informed neural network (PINN) in separating P and S modes by solving a\nscalar Poisson equation. This scalar formulation offers a dimensionally\nscalable reduction in computational cost compared to the traditional vector\nformulation. We verify the proposed method in both homogeneous and realistic\nnon-homogeneous elastic models as showcases. The obtained separated modes\nclosely match those from conventional numerical techniques, while exhibiting\nreduced transverse wave leakage.",
+            "pdf_url": "http://arxiv.org/pdf/2508.04600v1",
+            "published": "2025-08-06 16:19:55+00:00",
+            "updated": "2025-08-06 16:19:55+00:00"
+        },
+        {
+            "title": "Improved Training Strategies for Physics-Informed Neural Networks using Real Experimental Data in Aluminum Spot Welding",
+            "authors": "Jan A. Zak, Christian Wei\u00dfenfels",
+            "summary": "Resistance spot welding is the dominant joining process for the body-in-white\nin the automotive industry, where the weld nugget diameter is the key quality\nmetric. Its measurement requires destructive testing, limiting the potential\nfor efficient quality control. Physics-informed neural networks were\ninvestigated as a promising tool to reconstruct internal process states from\nexperimental data, enabling model-based and non-invasive quality assessment in\naluminum spot welding. A major challenge is the integration of real-world data\ninto the network due to competing optimization objectives. To address this, we\nintroduce two novel training strategies. First, experimental losses for dynamic\ndisplacement and nugget diameter are progressively included using a fading-in\nfunction to prevent excessive optimization conflicts. We also implement a\ncustom learning rate scheduler and early stopping based on a rolling window to\ncounteract premature reduction due to increased loss magnitudes. Second, we\nintroduce a conditional update of temperature-dependent material parameters via\na look-up table, activated only after a loss threshold is reached to ensure\nphysically meaningful temperatures. An axially symmetric two-dimensional model\nwas selected to represent the welding process accurately while maintaining\ncomputational efficiency. To reduce computational burden, the training\nstrategies and model components were first systematically evaluated in one\ndimension, enabling controlled analysis of loss design and contact models. The\ntwo-dimensional network predicts dynamic displacement and nugget growth within\nthe experimental confidence interval, supports transferring welding stages from\nsteel to aluminum, and demonstrates strong potential for fast, model-based\nquality control in industrial applications.",
+            "pdf_url": "http://arxiv.org/pdf/2508.04595v1",
+            "published": "2025-08-06 16:14:00+00:00",
+            "updated": "2025-08-06 16:14:00+00:00"
+        },
+        {
+            "title": "Growth of few-layer molecular crystals of PTCDI on hexagonal boron nitride by microspacing air-gap sublimation",
+            "authors": "Nils LeCoutre, Tolibjon Abdurakhmonov, Paul Weinbrenner, Kenji Watanabe, Takashi Taniguchi, Tobias Korn, Franziska Fennel, Oliver K\u00fchn, Friedemann Reinhard",
+            "summary": "Extended two-dimensional (2D) crystals of dye molecules adsorbed on 2D\nmaterial substrates like boron nitride have recently become a subject of\nintense study, with potential applications ranging from quantum technology to\noptoelectronics. The most established technique for the production of these\nfilms is physical vapor transport in vacuum. We demonstrate that few-layer\ncrystalline films of the organic dye molecule PTCDI on boron nitride can be\nproduced by microspacing in-air sublimation, a radically simplified technique,\nnot requiring complicated vacuum systems. The resulting layers display clearly\nresolved atomic step terraces in atomic force microscopy, and a clear\npolarization anisotropy in their fluorescence, confirming molecular alignment\nand long-range order. Using density functional theory and classical molecular\ndynamics simulations, the canted motive is identified as the most likely\nbuilding block for the morphology of a PTDCI monolayer on the hBN substrate.",
+            "pdf_url": "http://arxiv.org/pdf/2508.04591v1",
+            "published": "2025-08-06 16:09:22+00:00",
+            "updated": "2025-08-06 16:09:22+00:00"
+        },
+        {
+            "title": "Algebraically Observable Physics-Informed Neural Network and its Application to Epidemiological Modelling",
+            "authors": "Mizuka Komatsu",
+            "summary": "Physics-Informed Neural Network (PINN) is a deep learning framework that\nintegrates the governing equations underlying data into a loss function. In\nthis study, we consider the problem of estimating state variables and\nparameters in epidemiological models governed by ordinary differential\nequations using PINNs. In practice, not all trajectory data corresponding to\nthe population described by models can be measured. Learning PINNs to estimate\nthe unmeasured state variables and epidemiological parameters using partial\nmeasurements is challenging.\n  Accordingly, we introduce the concept of algebraic observability of the state\nvariables. Specifically, we propose augmenting the unmeasured data based on\nalgebraic observability analysis. The validity of the proposed method is\ndemonstrated through numerical experiments under three scenarios in the context\nof epidemiological modelling. Specifically, given noisy and partial\nmeasurements, the accuracy of unmeasured states and parameter estimation of the\nproposed method is shown to be higher than that of the conventional methods.\nThe proposed method is also shown to be effective in practical scenarios, such\nas when the data corresponding to certain variables cannot be reconstructed\nfrom the measurements.",
+            "pdf_url": "http://arxiv.org/pdf/2508.04590v1",
+            "published": "2025-08-06 16:09:11+00:00",
+            "updated": "2025-08-06 16:09:11+00:00"
+        }
+    ],
+    "Diffusion": [
+        {
+            "title": "HierarchicalPrune: Position-Aware Compression for Large-Scale Diffusion Models",
+            "authors": "Young D. Kwon, Rui Li, Sijia Li, Da Li, Sourav Bhattacharya, Stylianos I. Venieris",
+            "summary": "State-of-the-art text-to-image diffusion models (DMs) achieve remarkable\nquality, yet their massive parameter scale (8-11B) poses significant challenges\nfor inferences on resource-constrained devices. In this paper, we present\nHierarchicalPrune, a novel compression framework grounded in a key observation:\nDM blocks exhibit distinct functional hierarchies, where early blocks establish\nsemantic structures while later blocks handle texture refinements.\nHierarchicalPrune synergistically combines three techniques: (1) Hierarchical\nPosition Pruning, which identifies and removes less essential later blocks\nbased on position hierarchy; (2) Positional Weight Preservation, which\nsystematically protects early model portions that are essential for semantic\nstructural integrity; and (3) Sensitivity-Guided Distillation, which adjusts\nknowledge-transfer intensity based on our discovery of block-wise sensitivity\nvariations. As a result, our framework brings billion-scale diffusion models\ninto a range more suitable for on-device inference, while preserving the\nquality of the output images. Specifically, when combined with INT4 weight\nquantisation, HierarchicalPrune achieves 77.5-80.4% memory footprint reduction\n(e.g., from 15.8 GB to 3.2 GB) and 27.9-38.0% latency reduction, measured on\nserver and consumer grade GPUs, with the minimum drop of 2.6% in GenEval score\nand 7% in HPSv2 score compared to the original model. Last but not least, our\ncomprehensive user study with 85 participants demonstrates that\nHierarchicalPrune maintains perceptual quality comparable to the original model\nwhile significantly outperforming prior works.",
+            "pdf_url": "http://arxiv.org/pdf/2508.04663v1",
+            "published": "2025-08-06 17:30:44+00:00",
+            "updated": "2025-08-06 17:30:44+00:00"
+        },
+        {
+            "title": "Multitask Learning with Stochastic Interpolants",
+            "authors": "Hugo Negrel, Florentin Coeurdoux, Michael S. Albergo, Eric Vanden-Eijnden",
+            "summary": "We propose a framework for learning maps between probability distributions\nthat broadly generalizes the time dynamics of flow and diffusion models. To\nenable this, we generalize stochastic interpolants by replacing the scalar time\nvariable with vectors, matrices, or linear operators, allowing us to bridge\nprobability distributions across multiple dimensional spaces. This approach\nenables the construction of versatile generative models capable of fulfilling\nmultiple tasks without task-specific training. Our operator-based interpolants\nnot only provide a unifying theoretical perspective for existing generative\nmodels but also extend their capabilities. Through numerical experiments, we\ndemonstrate the zero-shot efficacy of our method on conditional generation and\ninpainting, fine-tuning and posterior sampling, and multiscale modeling,\nsuggesting its potential as a generic task-agnostic alternative to specialized\nmodels.",
+            "pdf_url": "http://arxiv.org/pdf/2508.04605v1",
+            "published": "2025-08-06 16:25:19+00:00",
+            "updated": "2025-08-06 16:25:19+00:00"
+        },
+        {
+            "title": "From Split to Share: Private Inference with Distributed Feature Sharing",
+            "authors": "Zihan Liu, Jiayi Wen, Shouhong Tan, Zhirun Zheng, Cheng Huang",
+            "summary": "Cloud-based Machine Learning as a Service (MLaaS) raises serious privacy\nconcerns when handling sensitive client data. Existing Private Inference (PI)\nmethods face a fundamental trade-off between privacy and efficiency:\ncryptographic approaches offer strong protection but incur high computational\noverhead, while efficient alternatives such as split inference expose\nintermediate features to inversion attacks. We propose PrivDFS, a new paradigm\nfor private inference that replaces a single exposed representation with\ndistributed feature sharing. PrivDFS partitions input features on the client\ninto multiple balanced shares, which are distributed to non-colluding,\nnon-communicating servers for independent partial inference. The client\nsecurely aggregates the servers' outputs to reconstruct the final prediction,\nensuring that no single server observes sufficient information to compromise\ninput privacy. To further strengthen privacy, we propose two key extensions:\nPrivDFS-AT, which uses adversarial training with a diffusion-based proxy\nattacker to enforce inversion-resistant feature partitioning, and PrivDFS-KD,\nwhich leverages user-specific keys to diversify partitioning policies and\nprevent query-based inversion generalization. Experiments on CIFAR-10 and\nCelebA demonstrate that PrivDFS achieves privacy comparable to deep split\ninference while cutting client computation by up to 100 times with no accuracy\nloss, and that the extensions remain robust against both diffusion-based\nin-distribution and adaptive attacks.",
+            "pdf_url": "http://arxiv.org/pdf/2508.04346v1",
+            "published": "2025-08-06 11:41:10+00:00",
+            "updated": "2025-08-06 11:41:10+00:00"
+        },
+        {
+            "title": "Quasi-Clique Discovery via Energy Diffusion",
+            "authors": "Yu Zhang, Yilong Luo, Mingyuan Ma, Yao Chen, Enqiang Zhu, Jin Xu, Chanjuan Liu",
+            "summary": "Discovering quasi-cliques -- subgraphs with edge density no less than a given\nthreshold -- is a fundamental task in graph mining, with broad applications in\nsocial networks, bioinformatics, and e-commerce. Existing heuristics often rely\non greedy rules, similarity measures, or metaheuristic search, but struggle to\nmaintain both efficiency and solution consistency across diverse graphs. This\npaper introduces EDQC, a novel quasi-clique discovery algorithm inspired by\nenergy diffusion. Instead of explicitly enumerating candidate subgraphs, EDQC\nperforms stochastic energy diffusion from source vertices, naturally\nconcentrating energy within structurally cohesive regions. The approach enables\nefficient dense subgraph discovery without exhaustive search or\ndataset-specific tuning. Experimental results on 30 real-world datasets\ndemonstrate that EDQC consistently discovers larger quasi-cliques than\nstate-of-the-art baselines on the majority of datasets, while also yielding\nlower variance in solution quality. To the best of our knowledge, EDQC is the\nfirst method to incorporate energy diffusion into quasi-clique discovery.",
+            "pdf_url": "http://arxiv.org/pdf/2508.04174v1",
+            "published": "2025-08-06 07:59:56+00:00",
+            "updated": "2025-08-06 07:59:56+00:00"
+        },
+        {
+            "title": "UnMix-NeRF: Spectral Unmixing Meets Neural Radiance Fields",
+            "authors": "Fabian Perez, Sara Rojas, Carlos Hinojosa, Hoover Rueda-Chac\u00f3n, Bernard Ghanem",
+            "summary": "Neural Radiance Field (NeRF)-based segmentation methods focus on object\nsemantics and rely solely on RGB data, lacking intrinsic material properties.\nThis limitation restricts accurate material perception, which is crucial for\nrobotics, augmented reality, simulation, and other applications. We introduce\nUnMix-NeRF, a framework that integrates spectral unmixing into NeRF, enabling\njoint hyperspectral novel view synthesis and unsupervised material\nsegmentation. Our method models spectral reflectance via diffuse and specular\ncomponents, where a learned dictionary of global endmembers represents pure\nmaterial signatures, and per-point abundances capture their distribution. For\nmaterial segmentation, we use spectral signature predictions along learned\nendmembers, allowing unsupervised material clustering. Additionally, UnMix-NeRF\nenables scene editing by modifying learned endmember dictionaries for flexible\nmaterial-based appearance manipulation. Extensive experiments validate our\napproach, demonstrating superior spectral reconstruction and material\nsegmentation to existing methods. Project page:\nhttps://www.factral.co/UnMix-NeRF.",
+            "pdf_url": "http://arxiv.org/pdf/2506.21884v2",
+            "published": "2025-06-27 03:42:49+00:00",
+            "updated": "2025-08-06 07:17:05+00:00"
+        }
+    ],
+    "Quantitative Finance": [
+        {
+            "title": "CTBench: Cryptocurrency Time Series Generation Benchmark",
+            "authors": "Yihao Ang, Qiang Wang, Qiang Huang, Yifan Bao, Xinyu Xi, Anthony K. H. Tung, Chen Jin, Zhiyong Huang",
+            "summary": "Synthetic time series are essential tools for data augmentation, stress\ntesting, and algorithmic prototyping in quantitative finance. However, in\ncryptocurrency markets, characterized by 24/7 trading, extreme volatility, and\nrapid regime shifts, existing Time Series Generation (TSG) methods and\nbenchmarks often fall short, jeopardizing practical utility. Most prior work\n(1) targets non-financial or traditional financial domains, (2) focuses\nnarrowly on classification and forecasting while neglecting crypto-specific\ncomplexities, and (3) lacks critical financial evaluations, particularly for\ntrading applications. To address these gaps, we introduce \\textsf{CTBench}, the\nfirst comprehensive TSG benchmark tailored for the cryptocurrency domain.\n\\textsf{CTBench} curates an open-source dataset from 452 tokens and evaluates\nTSG models across 13 metrics spanning 5 key dimensions: forecasting accuracy,\nrank fidelity, trading performance, risk assessment, and computational\nefficiency. A key innovation is a dual-task evaluation framework: (1) the\n\\emph{Predictive Utility} task measures how well synthetic data preserves\ntemporal and cross-sectional patterns for forecasting, while (2) the\n\\emph{Statistical Arbitrage} task assesses whether reconstructed series support\nmean-reverting signals for trading. We benchmark eight representative models\nfrom five methodological families over four distinct market regimes, uncovering\ntrade-offs between statistical fidelity and real-world profitability. Notably,\n\\textsf{CTBench} offers model ranking analysis and actionable guidance for\nselecting and deploying TSG models in crypto analytics and strategy\ndevelopment.",
+            "pdf_url": "http://arxiv.org/pdf/2508.02758v1",
+            "published": "2025-08-03 17:07:08+00:00",
+            "updated": "2025-08-03 17:07:08+00:00"
+        }
+    ]
+}
