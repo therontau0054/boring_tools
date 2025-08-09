@@ -1,0 +1,118 @@
+{
+    "Physics": [
+        {
+            "title": "The Missing Reward: Active Inference in the Era of Experience",
+            "authors": "Bo Wen",
+            "summary": "This paper argues that Active Inference (AIF) provides a crucial foundation\nfor developing autonomous AI agents capable of learning from experience without\ncontinuous human reward engineering. As AI systems begin to exhaust\nhigh-quality training data and rely on increasingly large human workforces for\nreward design, the current paradigm faces significant scalability challenges\nthat could impede progress toward genuinely autonomous intelligence. The\nproposal for an ``Era of Experience,'' where agents learn from self-generated\ndata, is a promising step forward. However, this vision still depends on\nextensive human engineering of reward functions, effectively shifting the\nbottleneck from data curation to reward curation. This highlights what we\nidentify as the \\textbf{grounded-agency gap}: the inability of contemporary AI\nsystems to autonomously formulate, adapt, and pursue objectives in response to\nchanging circumstances. We propose that AIF can bridge this gap by replacing\nexternal reward signals with an intrinsic drive to minimize free energy,\nallowing agents to naturally balance exploration and exploitation through a\nunified Bayesian objective. By integrating Large Language Models as generative\nworld models with AIF's principled decision-making framework, we can create\nagents that learn efficiently from experience while remaining aligned with\nhuman values. This synthesis offers a compelling path toward AI systems that\ncan develop autonomously while adhering to both computational and physical\nconstraints.",
+            "pdf_url": "http://arxiv.org/pdf/2508.05619v1",
+            "published": "2025-08-07 17:57:12+00:00",
+            "updated": "2025-08-07 17:57:12+00:00"
+        },
+        {
+            "title": "Pressure-induced decomposition of Bi14WO24",
+            "authors": "E. Karaca, D. Santamaria-Perez, A. Otero-de-la-Roza, R. Oliva, K. S. Rao, S. N. Achary, C. Popescu, D. Errandonea",
+            "summary": "We present a study of the high-pressure behaviour Bi14WO24, a high oxide ion\nconductor member of the Bi2O3-WO3 binary system. The tetragonal polymorph of\nBi14WO24 was studied under high-pressure conditions using synchrotron powder\nX-ray diffraction. It was found that in contrast to isostructural Bi14CrO24 and\nBi14MoO24 which experience a phase transition around 5 GPa, in our study\nBi14WO24 undergoes an irreversible chemical decomposition into Bi2O3 and WO3 at\n2.85(5) GPa. The pressure dependence of the unit-cell parameters of Bi14WO24\nwas also determined, and hence the linear compressibility along different axes\nand room-temperature pressure-volume equation of state were derived. Bulk\nmodulus of tetragonal Bi14WO24 was found to be 49.8(2.6) GPa, and the linear\ncompressibility of the two crystallographic axes, \\k{appa}a and \\k{appa}c were\n6.94(2) 10-3 GPa-1 and = 3.73(1) 10-3 GPa-1, respectively. The pressure induced\ndecomposition can be attributed to the favourable increasing density of the\nsystem to accommodate the pressure induced stress.",
+            "pdf_url": "http://arxiv.org/pdf/2508.05617v1",
+            "published": "2025-08-07 17:56:01+00:00",
+            "updated": "2025-08-07 17:56:01+00:00"
+        },
+        {
+            "title": "OmniEAR: Benchmarking Agent Reasoning in Embodied Tasks",
+            "authors": "Zixuan Wang, Dingming Li, Hongxing Li, Shuo Chen, Yuchen Yan, Wenqi Zhang, Yongliang Shen, Weiming Lu, Jun Xiao, Yueting Zhuang",
+            "summary": "Large language models excel at abstract reasoning but their capacity for\nembodied agent reasoning remains largely unexplored. We present OmniEAR, a\ncomprehensive framework for evaluating how language models reason about\nphysical interactions, tool usage, and multi-agent coordination in embodied\ntasks. Unlike existing benchmarks that provide predefined tool sets or explicit\ncollaboration directives, OmniEAR requires agents to dynamically acquire\ncapabilities and autonomously determine coordination strategies based on task\ndemands. Through text-based environment representation, we model continuous\nphysical properties and complex spatial relationships across 1,500 scenarios\nspanning household and industrial domains. Our systematic evaluation reveals\nsevere performance degradation when models must reason from constraints: while\nachieving 85-96% success with explicit instructions, performance drops to\n56-85% for tool reasoning and 63-85% for implicit collaboration, with compound\ntasks showing over 50% failure rates. Surprisingly, complete environmental\ninformation degrades coordination performance, indicating models cannot filter\ntask-relevant constraints. Fine-tuning improves single-agent tasks dramatically\n(0.6% to 76.3%) but yields minimal multi-agent gains (1.5% to 5.5%), exposing\nfundamental architectural limitations. These findings demonstrate that embodied\nreasoning poses fundamentally different challenges than current models can\naddress, establishing OmniEAR as a rigorous benchmark for evaluating and\nadvancing embodied AI systems. Our code and data are included in the\nsupplementary materials and will be open-sourced upon acceptance.",
+            "pdf_url": "http://arxiv.org/pdf/2508.05614v1",
+            "published": "2025-08-07 17:54:15+00:00",
+            "updated": "2025-08-07 17:54:15+00:00"
+        },
+        {
+            "title": "The Mpemba Effect in Pure Water Has a Stochastic Origin. Experimental and Theoretical Resolution of the Paradox",
+            "authors": "Andrei A. Klimov, Alexei V. Finkelstein",
+            "summary": "The \"Mpemba effect\" is the name given to the assertion that hot water freezes\nquicker than cold water1 or, in a modern and more general form, that the system\nthat is initially more distant from its equilibrium state comes to this state\nearlier2. This counterintuitive statement seems to breach fundamental\nthermodynamic and kinetic laws; however, numerous experiments3-10 with\nclassical and quantum systems demonstrate this paradoxical Mpemba effect,\nleading to extensive discssions in prominent scientific jornals2,5,9,12-14.\nHowever, the fundamental physical mechanisms behind this effect have remained\nelusive14. Here we performed the water freezing experiments under carefully\ncontrolled conditions, and found that the Mpemba effect only occurred when the\nfreezer temperature was very close to the temperature of ice nucleation. In\nthis case, the range of freezing times for both hot and cold water was so great\nthat it exceeded the delayed cooling of the initially hotter liquid, and\ntherefore sometimes the hot water froze before the cold water. Our theoretical\nanalysis of this fact shows that the Mpemba paradox associated with water\nfreezing is rooted in the stochastic nature of ice nucleation, typical of\nfirst-order phase transitions. We anticipate our assay to be a starting point\nfor reconsidering the famous Mpemba paradox in water and other systems\nundergoing similar phase transitions.",
+            "pdf_url": "http://arxiv.org/pdf/2508.05607v1",
+            "published": "2025-08-07 17:45:29+00:00",
+            "updated": "2025-08-07 17:45:29+00:00"
+        },
+        {
+            "title": "Quench dynamics of entanglement entropy under projective charge measurements: the free fermion case",
+            "authors": "Riccardo Travaglino, Colin Rylands, Pasquale Calabrese",
+            "summary": "We consider the effect of projective measurements on the quench dynamics of\nthe bipartite entanglement entropy in one dimensional free fermionic systems.\nIn our protocol, we consider projective measurements of a $U(1)$ conserved\ncharge, the particle number, on some large subsystem, and study the\nentanglement entropies between the same subsystem and its complement. We\ncompare the dynamics emanating from two classes of initial states, one which is\nan eigenstate of the charge and another which is not. Moreover, we consider the\neffects of a single measurement as well as multiple which are periodically\nperformed. Using the quasiparticle picture, we obtain analytic expressions for\nthe behaviour of the entanglement which admit a transparent physical\ninterpretation. In general, we find that measurements introduce two distinct\ntypes of corrections to the entanglement, which can be interpreted separately\nas classical and quantum contributions. The classical contribution is\nindependent of the measurement outcome and scales logarithmically with variance\nof the charge distribution. In contrast, the quantum contribution depends on\nthe specific measurement outcome and can be significant for individual\nrealizations; however, it becomes negligible when averaged over all possible\noutcomes. Our expressions reduce to previously known results for symmetry\nresolved entanglement and full counting statistics in some relevant limits, and\nare confirmed by an exact calculation performed on the N\\'eel initial state.",
+            "pdf_url": "http://arxiv.org/pdf/2508.05588v1",
+            "published": "2025-08-07 17:25:39+00:00",
+            "updated": "2025-08-07 17:25:39+00:00"
+        },
+        {
+            "title": "Quantum effects in rotating thermal states on anti-de Sitter space-time",
+            "authors": "Jacob C. Thompson, Elizabeth Winstanley",
+            "summary": "We study the stress-energy tensor of a massless, conformally coupled, quantum\nscalar field in a rigidly-rotating thermal state on three- and four-dimensional\nanti-de Sitter space-time. We first find the stress-energy tensor using\nrelativistic kinetic theory, modelling the field as a thermal gas of massless\nbosons. We then compute the renormalized stress-energy tensor of the scalar\nfield in quantum field theory and compare it with that resulting from\nrelativistic kinetic theory.",
+            "pdf_url": "http://arxiv.org/pdf/2505.05448v2",
+            "published": "2025-05-08 17:38:21+00:00",
+            "updated": "2025-08-07 17:03:37+00:00"
+        },
+        {
+            "title": "Bipartite Fluctuations and Charge Fractionalization in Quantum Wires",
+            "authors": "Magali Korolev, Karyn Le Hur",
+            "summary": "We introduce a quantum information method for measuring fractional charges in\nballistic quantum wires generalizing bipartite fluctuations to the chiral\nquasiparticles in Luttinger liquids, i.e. adding charge and current\nfluctuations in a region of the wire. Bipartite fluctuations at equilibrium are\ncharacterized through a logarithmic scaling with distance encoding the\nentangled nature of these fractional charges in one-dimensional (1D) fluids.\nThis approach clarifies the physical meaning of the dephasing factor of\nelectronic interferences in a ballistic ring geometry at zero temperature, as a\nresult of charge fractionalization. We formulate an analogy towards\nground-state energetics. We show how bipartite current fluctuations represent a\nuseful tool to locate quantum phase transitions associated to Mott physics. We\naddress a spin chain equivalence and verify the fractional charges through an\nalgorithm such as Density Matrix Renormalization Group (DMRG). Adding a\npotential difference between the two sides (parties) of the wire, bipartite\nfluctuations can detect a bound state localized at the interface through the\nJackiw-Rebbi model coexisting with fractional charges.",
+            "pdf_url": "http://arxiv.org/pdf/2501.14410v3",
+            "published": "2025-01-24 11:22:21+00:00",
+            "updated": "2025-08-07 16:38:02+00:00"
+        },
+        {
+            "title": "Efficient optimization of expensive black-box simulators via marginal means, with application to neutrino detector design",
+            "authors": "Hwanwoo Kim, Simon Mak, Ann-Kathrin Schuetz, Alan Poon",
+            "summary": "With advances in scientific computing, computer experiments are increasingly\nused for optimizing complex systems. However, for modern applications, e.g.,\nthe optimization of nuclear physics detectors, each experiment run can require\nhundreds of CPU hours, making the optimization of its black-box simulator over\na high-dimensional space a challenging task. Given limited runs at inputs\n$\\mathbf{x}_1, \\cdots, \\mathbf{x}_n$, the best solution from these evaluated\ninputs can be far from optimal, particularly as dimensionality increases.\nExisting black-box methods, however, largely employ this ''pick-the-winner''\n(PW) solution, which leads to mediocre optimization performance. To address\nthis, we propose a new Black-box Optimization via Marginal Means (BOMM)\napproach. The key idea is a new estimator of a global optimizer $\\mathbf{x}^*$\nthat leverages the so-called marginal mean functions, which can be efficiently\ninferred with limited runs in high dimensions. Unlike PW, this estimator can\nselect solutions beyond evaluated inputs for improved optimization performance.\nAssuming the objective function follows a generalized additive model with\nunknown link function and under mild conditions, we prove that the BOMM\nestimator not only is consistent for optimization, but also has an optimization\nrate that tempers the ''curse-of-dimensionality'' faced by existing methods,\nthus enabling better performance as dimensionality increases. We present a\npractical framework for implementing BOMM using the transformed additive\nGaussian process surrogate model. Finally, we demonstrate the effectiveness of\nBOMM in numerical experiments and an application on neutrino detector\noptimization in nuclear physics.",
+            "pdf_url": "http://arxiv.org/pdf/2508.01834v2",
+            "published": "2025-08-03 16:44:05+00:00",
+            "updated": "2025-08-07 16:33:16+00:00"
+        },
+        {
+            "title": "Floquet odd-parity collinear magnets",
+            "authors": "Tongshuai Zhu, Di Zhou, Huaiqiang Wang, Jiawei Ruan",
+            "summary": "Altermagnets (AMs), recently discovered unconventional magnets distinct from\nferro- and antiferromagnets, have rapidly emerged as a prominent frontier in\ncondensed matter physics. AMs are characterized by alternating collinear\nmagnetic moments with zero net magnetization in real space, and spin splittings\nwith even-parity symmetry in momentum space. However, their counterparts\nexhibiting odd-parity spin splittings remain largely unexplored. Here, based on\nsymmetry argument, we show that such unconventional odd-parity magnets can be\ninduced from collinear antiferromagnets. Remarkably, using effective model\nanalysis within Floquet-theory framework, we demonstrate that circularly\npolarized light irradiation of conventional antiferromagnetic lattices induces\nboth $p$- and $f$-wave magnets, realizing novel magnetic states dubbed Floquet\nodd-parity collinear magnets. Moreover, we also uncover light-induced\nantiferromagnetic Chern insulating states in the $f$-wave magnets. The proposed\nFloquet odd-parity magnet is confirmed by first-principles calculations of\nMnPSe$_{3}$ under circularly polarized light. Our work not only proposes a new\nclass of unconventional magnets, but also opens an avenue for light-induced\nmagnetic phenomena in spintronic applications.",
+            "pdf_url": "http://arxiv.org/pdf/2508.02542v2",
+            "published": "2025-08-04 15:51:26+00:00",
+            "updated": "2025-08-07 16:25:21+00:00"
+        },
+        {
+            "title": "Massive Spinor Helicity Amplitudes, Cross Sections, and Coalescence",
+            "authors": "Camille Gomez-Laberge",
+            "summary": "We examine recent advancements of the spinor helicity formalism of massive\nparticles. Technical aspects about the formulation of massive helicity spinors\nare presented in detail to analyze the projective-geometry kinematics of\nhelicity spinors as well as the diagrammatical and analytical structure of\ntheir interactions. Two new methods for calculating massive cross sections are\nderived and tested on Bhabha and Compton processes: a quasi-high-energy limit\nand an assembly of partial cross sections. The acquisition of mass, where\nultrarelativistic amplitudes coalesce at low energy, is given a physical\ninterpretation as the localization of particle worldlines in twistor theory. By\nsubsuming the spinor helicity formalism in this way, both spacetime and\nparticle content can emerge from null, lightlike, and timelike twistors.",
+            "pdf_url": "http://arxiv.org/pdf/2508.05539v1",
+            "published": "2025-08-07 16:14:10+00:00",
+            "updated": "2025-08-07 16:14:10+00:00"
+        }
+    ],
+    "Diffusion": [
+        {
+            "title": "Personalized Safety Alignment for Text-to-Image Diffusion Models",
+            "authors": "Yu Lei, Jinbin Bai, Qingyu Shi, Aosong Feng, Kaidong Yu",
+            "summary": "Text-to-image diffusion models have revolutionized visual content generation,\nbut current safety mechanisms apply uniform standards that often fail to\naccount for individual user preferences. These models overlook the diverse\nsafety boundaries shaped by factors like age, mental health, and personal\nbeliefs. To address this, we propose Personalized Safety Alignment (PSA), a\nframework that allows user-specific control over safety behaviors in generative\nmodels. PSA integrates personalized user profiles into the diffusion process,\nadjusting the model's behavior to match individual safety preferences while\npreserving image quality. We introduce a new dataset, Sage, which captures\nuser-specific safety preferences and incorporates these profiles through a\ncross-attention mechanism. Experiments show that PSA outperforms existing\nmethods in harmful content suppression and aligns generated content better with\nuser constraints, achieving higher Win Rate and Pass Rate scores. Our code,\ndata, and models are publicly available at\nhttps://m-e-agi-lab.github.io/PSAlign/.",
+            "pdf_url": "http://arxiv.org/pdf/2508.01151v2",
+            "published": "2025-08-02 02:23:20+00:00",
+            "updated": "2025-08-07 16:06:21+00:00"
+        },
+        {
+            "title": "MolSnap: Snap-Fast Molecular Generation with Latent Variational Mean Flow",
+            "authors": "Md Atik Ahamed, Qiang Ye, Qiang Cheng",
+            "summary": "Molecular generation conditioned on textual descriptions is a fundamental\ntask in computational chemistry and drug discovery. Existing methods often\nstruggle to simultaneously ensure high-quality, diverse generation and fast\ninference. In this work, we propose a novel causality-aware framework that\naddresses these challenges through two key innovations. First, we introduce a\nCausality-Aware Transformer (CAT) that jointly encodes molecular graph tokens\nand text instructions while enforcing causal dependencies during generation.\nSecond, we develop a Variational Mean Flow (VMF) framework that generalizes\nexisting flow-based methods by modeling the latent space as a mixture of\nGaussians, enhancing expressiveness beyond unimodal priors. VMF enables\nefficient one-step inference while maintaining strong generation quality and\ndiversity. Extensive experiments on four standard molecular benchmarks\ndemonstrate that our model outperforms state-of-the-art baselines, achieving\nhigher novelty (up to 74.5\\%), diversity (up to 70.3\\%), and 100\\% validity\nacross all datasets. Moreover, VMF requires only one number of function\nevaluation (NFE) during conditional generation and up to five NFEs for\nunconditional generation, offering substantial computational efficiency over\ndiffusion-based methods.",
+            "pdf_url": "http://arxiv.org/pdf/2508.05411v1",
+            "published": "2025-08-07 14:04:12+00:00",
+            "updated": "2025-08-07 14:04:12+00:00"
+        },
+        {
+            "title": "CLIP Meets Diffusion: A Synergistic Approach to Anomaly Detection",
+            "authors": "Byeongchan Lee, John Won, Seunghyun Lee, Jinwoo Shin",
+            "summary": "Anomaly detection is a complex problem due to the ambiguity in defining\nanomalies, the diversity of anomaly types (e.g., local and global defect), and\nthe scarcity of training data. As such, it necessitates a comprehensive model\ncapable of capturing both low-level and high-level features, even with limited\ndata. To address this, we propose CLIPFUSION, a method that leverages both\ndiscriminative and generative foundation models. Specifically, the CLIP-based\ndiscriminative model excels at capturing global features, while the\ndiffusion-based generative model effectively captures local details, creating a\nsynergistic and complementary approach. Notably, we introduce a methodology for\nutilizing cross-attention maps and feature maps extracted from diffusion models\nspecifically for anomaly detection. Experimental results on benchmark datasets\n(MVTec-AD, VisA) demonstrate that CLIPFUSION consistently outperforms baseline\nmethods, achieving outstanding performance in both anomaly segmentation and\nclassification. We believe that our method underscores the effectiveness of\nmulti-modal and multi-model fusion in tackling the multifaceted challenges of\nanomaly detection, providing a scalable solution for real-world applications.",
+            "pdf_url": "http://arxiv.org/pdf/2506.11772v2",
+            "published": "2025-06-13 13:30:15+00:00",
+            "updated": "2025-08-07 14:02:17+00:00"
+        },
+        {
+            "title": "UNCAGE: Contrastive Attention Guidance for Masked Generative Transformers in Text-to-Image Generation",
+            "authors": "Wonjun Kang, Byeongkeun Ahn, Minjae Lee, Kevin Galim, Seunghyuk Oh, Hyung Il Koo, Nam Ik Cho",
+            "summary": "Text-to-image (T2I) generation has been actively studied using Diffusion\nModels and Autoregressive Models. Recently, Masked Generative Transformers have\ngained attention as an alternative to Autoregressive Models to overcome the\ninherent limitations of causal attention and autoregressive decoding through\nbidirectional attention and parallel decoding, enabling efficient and\nhigh-quality image generation. However, compositional T2I generation remains\nchallenging, as even state-of-the-art Diffusion Models often fail to accurately\nbind attributes and achieve proper text-image alignment. While Diffusion Models\nhave been extensively studied for this issue, Masked Generative Transformers\nexhibit similar limitations but have not been explored in this context. To\naddress this, we propose Unmasking with Contrastive Attention Guidance\n(UNCAGE), a novel training-free method that improves compositional fidelity by\nleveraging attention maps to prioritize the unmasking of tokens that clearly\nrepresent individual objects. UNCAGE consistently improves performance in both\nquantitative and qualitative evaluations across multiple benchmarks and\nmetrics, with negligible inference overhead. Our code is available at\nhttps://github.com/furiosa-ai/uncage.",
+            "pdf_url": "http://arxiv.org/pdf/2508.05399v1",
+            "published": "2025-08-07 13:51:17+00:00",
+            "updated": "2025-08-07 13:51:17+00:00"
+        }
+    ]
+}

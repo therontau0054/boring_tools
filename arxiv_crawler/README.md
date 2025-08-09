@@ -192,6 +192,30 @@ TODO:
 
 
 
+
+## Update on 2025-08-09
+
+### Physics
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-08-07|2025-08-07|The Missing Reward: Active Inference in the Era of Experience|Bo Wen|[2508.05619v1](http://arxiv.org/pdf/2508.05619v1)|
+|2025-08-07|2025-08-07|Pressure-induced decomposition of Bi14WO24|E. Karaca|[2508.05617v1](http://arxiv.org/pdf/2508.05617v1)|
+|2025-08-07|2025-08-07|OmniEAR: Benchmarking Agent Reasoning in Embodied Tasks|Zixuan Wang|[2508.05614v1](http://arxiv.org/pdf/2508.05614v1)|
+|2025-08-07|2025-08-07|The Mpemba Effect in Pure Water Has a Stochastic Origin. Experimental and Theoretical Resolution of the Paradox|Andrei A. Klimov|[2508.05607v1](http://arxiv.org/pdf/2508.05607v1)|
+|2025-08-07|2025-08-07|Quench dynamics of entanglement entropy under projective charge measurements: the free fermion case|Riccardo Travaglino|[2508.05588v1](http://arxiv.org/pdf/2508.05588v1)|
+|2025-05-08|2025-08-07|Quantum effects in rotating thermal states on anti-de Sitter space-time|Jacob C. Thompson|[2505.05448v2](http://arxiv.org/pdf/2505.05448v2)|
+|2025-01-24|2025-08-07|Bipartite Fluctuations and Charge Fractionalization in Quantum Wires|Magali Korolev|[2501.14410v3](http://arxiv.org/pdf/2501.14410v3)|
+|2025-08-03|2025-08-07|Efficient optimization of expensive black-box simulators via marginal means, with application to neutrino detector design|Hwanwoo Kim|[2508.01834v2](http://arxiv.org/pdf/2508.01834v2)|
+|2025-08-04|2025-08-07|Floquet odd-parity collinear magnets|Tongshuai Zhu|[2508.02542v2](http://arxiv.org/pdf/2508.02542v2)|
+|2025-08-07|2025-08-07|Massive Spinor Helicity Amplitudes, Cross Sections, and Coalescence|Camille Gomez-Laberge|[2508.05539v1](http://arxiv.org/pdf/2508.05539v1)|
+
+### Diffusion
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-08-02|2025-08-07|Personalized Safety Alignment for Text-to-Image Diffusion Models|Yu Lei|[2508.01151v2](http://arxiv.org/pdf/2508.01151v2)|
+|2025-08-07|2025-08-07|MolSnap: Snap-Fast Molecular Generation with Latent Variational Mean Flow|Md Atik Ahamed|[2508.05411v1](http://arxiv.org/pdf/2508.05411v1)|
+|2025-06-13|2025-08-07|CLIP Meets Diffusion: A Synergistic Approach to Anomaly Detection|Byeongchan Lee|[2506.11772v2](http://arxiv.org/pdf/2506.11772v2)|
+|2025-08-07|2025-08-07|UNCAGE: Contrastive Attention Guidance for Masked Generative Transformers in Text-to-Image Generation|Wonjun Kang|[2508.05399v1](http://arxiv.org/pdf/2508.05399v1)|
 ## Update on 2025-08-07
 
 ### Physics
