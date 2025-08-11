@@ -193,6 +193,31 @@ TODO:
 
 
 
+
+## Update on 2025-08-11
+
+### Physics
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-08-08|2025-08-08|WGAST: Weakly-Supervised Generative Network for Daily 10 m Land Surface Temperature Estimation via Spatio-Temporal Fusion|Sofiane Bouaziz|[2508.06485v1](http://arxiv.org/pdf/2508.06485v1)|
+|2025-08-08|2025-08-08|Intuition emerges in Maximum Caliber models at criticality|Lluís Arola-Fernández|[2508.06477v1](http://arxiv.org/pdf/2508.06477v1)|
+|2025-08-08|2025-08-08|Characterization and automated optimization of laser-driven proton beams from converging liquid sheet jet targets|G. D. Glenn|[2508.06462v1](http://arxiv.org/pdf/2508.06462v1)|
+|2024-04-24|2025-08-08|Entanglement-Based Artificial Topology: Neighboring Remote Network Nodes|SiYi Chen|[2404.16204v4](http://arxiv.org/pdf/2404.16204v4)|
+|2024-12-16|2025-08-08|Learning interactions between Rydberg atoms|Olivier Simard|[2412.12019v2](http://arxiv.org/pdf/2412.12019v2)|
+|2025-08-08|2025-08-08|Nonreciprocal and Geometric Frustration in Dissipative Quantum Spins|Guitao Lyu|[2508.06444v1](http://arxiv.org/pdf/2508.06444v1)|
+|2024-10-31|2025-08-08|Perturbative unitarity bounds from momentum-space entanglement|Carlos Duaso Pueyo|[2410.23709v2](http://arxiv.org/pdf/2410.23709v2)|
+|2025-07-09|2025-08-08|Optoelectronic Physical Unclonable Functions and Reservoir-Inspired Computation with Low Symmetry Integrated Photonics|Farhan Bin Tarik|[2507.06473v2](http://arxiv.org/pdf/2507.06473v2)|
+|2025-08-08|2025-08-08|Single photon emission from lithographically-positioned engineered nanodiamonds for cryogenic applications|Vivekanand Tiwari|[2508.06424v1](http://arxiv.org/pdf/2508.06424v1)|
+|2025-08-08|2025-08-08|Quantum Annealing for the Set Splitting Problem|Sean Borneman|[2508.06410v1](http://arxiv.org/pdf/2508.06410v1)|
+
+### Diffusion
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-05-13|2025-08-08|LaDi-WM: A Latent Diffusion-based World Model for Predictive Manipulation|Yuhang Huang|[2505.11528v2](http://arxiv.org/pdf/2505.11528v2)|
+|2025-02-06|2025-08-08|Conditional Diffusion Models are Medical Image Classifiers that Provide Explainability and Uncertainty for Free|Gian Mario Favero|[2502.03687v2](http://arxiv.org/pdf/2502.03687v2)|
+|2025-08-08|2025-08-08|ActivityDiff: A diffusion model with Positive and Negative Activity Guidance for De Novo Drug Design|Renyi Zhou|[2508.06364v1](http://arxiv.org/pdf/2508.06364v1)|
+|2025-08-08|2025-08-08|OM2P: Offline Multi-Agent Mean-Flow Policy|Zhuoran Li|[2508.06269v1](http://arxiv.org/pdf/2508.06269v1)|
+|2025-08-08|2025-08-08|Synthetic Data-Driven Multi-Architecture Framework for Automated Polyp Segmentation Through Integrated Detection and Mask Generation|Ojonugwa Oluwafemi Ejiga Peter|[2508.06170v1](http://arxiv.org/pdf/2508.06170v1)|
 ## Update on 2025-08-09
 
 ### Physics
