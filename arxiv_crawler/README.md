@@ -194,6 +194,38 @@ TODO:
 
 
 
+
+## Update on 2025-08-13
+
+### Physics
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-08-12|2025-08-12|Quantum Sensing Radiative Decays of Neutrinos and Dark Matter Particles|Zhongtian Dong|[2508.09139v1](http://arxiv.org/pdf/2508.09139v1)|
+|2025-08-12|2025-08-12|Training-Free Text-Guided Color Editing with Multi-Modal Diffusion Transformer|Zixin Yin|[2508.09131v1](http://arxiv.org/pdf/2508.09131v1)|
+|2025-08-12|2025-08-12|Constrained free energy minimization for the design of thermal states and stabilizer thermodynamic systems|Michele Minervini|[2508.09103v1](http://arxiv.org/pdf/2508.09103v1)|
+|2025-08-07|2025-08-12|A quantum computing approach to efficiently simulating correlated materials using impurity models and dynamical mean field theory|Norman Hogan|[2508.05738v2](http://arxiv.org/pdf/2508.05738v2)|
+|2025-08-12|2025-08-12|Simulating single-photon experiments with a quantum computer|Priyasheel Prasad|[2508.09095v1](http://arxiv.org/pdf/2508.09095v1)|
+|2025-08-12|2025-08-12|Anisotropic exciton-polaritons reveal non-Hermitian topology in van der Waals materials|Devarshi Chakrabarty|[2508.09083v1](http://arxiv.org/pdf/2508.09083v1)|
+|2025-08-12|2025-08-12|Weak measurement in strong laser field physics|Philipp Stammer|[2508.09048v1](http://arxiv.org/pdf/2508.09048v1)|
+|2025-08-12|2025-08-12|Finite-dimensional approximations of generalized squeezing|Sahel Ashhab|[2508.09041v1](http://arxiv.org/pdf/2508.09041v1)|
+|2025-08-12|2025-08-12|Characterization of the optical response from variant InGaN nanowires emitting within the green spectral gap|Mohsen Esmaeilzadeh|[2508.08977v1](http://arxiv.org/pdf/2508.08977v1)|
+|2025-07-24|2025-08-12|Virtual thermodynamic potential and black hole criticality|Dumitru Astefanesei|[2507.18719v2](http://arxiv.org/pdf/2507.18719v2)|
+
+### Diffusion
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-08-12|2025-08-12|Time Is a Feature: Exploiting Temporal Dynamics in Diffusion Language Models|Wen Wang|[2508.09138v1](http://arxiv.org/pdf/2508.09138v1)|
+|2025-03-10|2025-08-12|TIDE : Temporal-Aware Sparse Autoencoders for Interpretable Diffusion Transformers in Image Generation|Victor Shea-Jay Huang|[2503.07050v2](http://arxiv.org/pdf/2503.07050v2)|
+|2025-08-12|2025-08-12|Urban-STA4CLC: Urban Theory-Informed Spatio-Temporal Attention Model for Predicting Post-Disaster Commercial Land Use Change|Ziyi Guo|[2508.08976v1](http://arxiv.org/pdf/2508.08976v1)|
+|2024-09-17|2025-08-12|3DFacePolicy: Audio-Driven 3D Facial Animation Based on Action Control|Xuanmeng Sha|[2409.10848v2](http://arxiv.org/pdf/2409.10848v2)|
+|2025-08-11|2025-08-12|Cut2Next: Generating Next Shot via In-Context Tuning|Jingwen He|[2508.08244v2](http://arxiv.org/pdf/2508.08244v2)|
+
+### Quantitative Finance
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-08-09|2025-08-12|Technical Report: Full-Stack Fine-Tuning for the Q Programming Language|Brendan R. Hogan|[2508.06813v2](http://arxiv.org/pdf/2508.06813v2)|
+|2025-08-11|2025-08-12|Chimera: Harnessing Multi-Agent LLMs for Automatic Insider Threat Simulation|Jiongchi Yu|[2508.07745v2](http://arxiv.org/pdf/2508.07745v2)|
+|2025-08-09|2025-08-09|Free Lunches with Vanishing Risks Most Likely Exist|Eckhard Platen|[2508.07108v1](http://arxiv.org/pdf/2508.07108v1)|
 ## Update on 2025-08-11
 
 ### Physics
