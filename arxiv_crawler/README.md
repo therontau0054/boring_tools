@@ -195,6 +195,36 @@ TODO:
 
 
 
+
+## Update on 2025-08-15
+
+### Physics
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-08-14|2025-08-14|QB Ground State Energy Estimation Benchmark|Nicole Bellonzi|[2508.10873v1](http://arxiv.org/pdf/2508.10873v1)|
+|2025-08-14|2025-08-14|TLE-Based A2C Agent for Terrestrial Coverage Orbital Path Planning|Anantha Narayanan|[2508.10872v1](http://arxiv.org/pdf/2508.10872v1)|
+|2025-08-14|2025-08-14|Phased-Array Laser Power Beaming from Cislunar Space to the Lunar Surface|Slava G. Turyshev|[2508.10855v1](http://arxiv.org/pdf/2508.10855v1)|
+|2025-04-08|2025-08-14|Assessing Teleportation of Logical Qubits in a Distributed Quantum Architecture under Error Correction|John Stack|[2504.05611v2](http://arxiv.org/pdf/2504.05611v2)|
+|2023-11-30|2025-08-14|Certified algorithms for equilibrium states of local quantum Hamiltonians|Hamza Fawzi|[2311.18706v3](http://arxiv.org/pdf/2311.18706v3)|
+|2025-08-14|2025-08-14|Gauging the variational optimization of projected entangled-pair states|Wei Tang|[2508.10822v1](http://arxiv.org/pdf/2508.10822v1)|
+|2025-06-16|2025-08-14|Quantitative Comparison of Fine-Tuning Techniques for Pretrained Latent Diffusion Models in the Generation of Unseen SAR Images|Solène Debuysère|[2506.13307v2](http://arxiv.org/pdf/2506.13307v2)|
+|2025-08-14|2025-08-14|Reinforcement-Learning-Designed Field-Free Sub-Nanosecond Spin-Orbit-Torque Switching|Yuta Igarashi|[2508.10792v1](http://arxiv.org/pdf/2508.10792v1)|
+|2025-08-14|2025-08-14|IBEX: Information-Bottleneck-EXplored Coarse-to-Fine Molecular Generation under Limited Data|Dong Xu|[2508.10775v1](http://arxiv.org/pdf/2508.10775v1)|
+|2025-08-14|2025-08-14|Natively Trainable Sparse Attention for Hierarchical Point Cloud Datasets|Nicolas Lapautre|[2508.10758v1](http://arxiv.org/pdf/2508.10758v1)|
+
+### Diffusion
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-08-14|2025-08-14|A Survey on Diffusion Language Models|Tianyi Li|[2508.10875v1](http://arxiv.org/pdf/2508.10875v1)|
+|2025-08-14|2025-08-14|Ultra-High-Definition Reference-Based Landmark Image Super-Resolution with Generative Diffusion Prior|Zhenning Shi|[2508.10779v1](http://arxiv.org/pdf/2508.10779v1)|
+|2025-08-14|2025-08-14|Video-BLADE: Block-Sparse Attention Meets Step Distillation for Efficient Video Generation|Youping Gu|[2508.10774v1](http://arxiv.org/pdf/2508.10774v1)|
+|2025-08-14|2025-08-14|AEGIS: Authenticity Evaluation Benchmark for AI-Generated Video Sequences|Jieyu Li|[2508.10771v1](http://arxiv.org/pdf/2508.10771v1)|
+|2025-08-14|2025-08-14|MDNS: Masked Diffusion Neural Sampler via Stochastic Optimal Control|Yuchen Zhu|[2508.10684v1](http://arxiv.org/pdf/2508.10684v1)|
+
+### Quantitative Finance
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-08-13|2025-08-13|Marketron Through the Looking Glass: From Equity Dynamics to Option Pricing in Incomplete Markets|Igor Halperin|[2508.09863v1](http://arxiv.org/pdf/2508.09863v1)|
 ## Update on 2025-08-13
 
 ### Physics
