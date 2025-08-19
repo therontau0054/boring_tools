@@ -196,6 +196,31 @@ TODO:
 
 
 
+
+## Update on 2025-08-19
+
+### Physics
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-08-18|2025-08-18|Modeling wind farm noise emission and propagation: effects of flow layout|J. Colas|[2508.13128v1](http://arxiv.org/pdf/2508.13128v1)|
+|2025-07-24|2025-08-18|Probing Spin and Lifetime Correlations in Entangled Hyperon-AntiHyperon Pairs|Aihong Tang|[2507.18507v2](http://arxiv.org/pdf/2507.18507v2)|
+|2025-08-18|2025-08-18|Rare event sampling for moving targets: extremes of temperature and daily precipitation in a general circulation model|Justin Finkel|[2508.13120v1](http://arxiv.org/pdf/2508.13120v1)|
+|2025-08-18|2025-08-18|Noise signatures of a charged Sachdev-Ye-Kitaev dot in mesoscopic transport|Andrei I. Pavlov|[2508.13098v1](http://arxiv.org/pdf/2508.13098v1)|
+|2025-05-30|2025-08-18|AutoChemSchematic AI: Agentic Physics-Aware Automation for Chemical Manufacturing Scale-Up|Sakhinana Sagar Srinivas|[2505.24584v3](http://arxiv.org/pdf/2505.24584v3)|
+|2023-03-14|2025-08-18|Poisson-Nernst-Planck charging dynamics of an electric double layer capacitor: symmetric and asymmetric binary electrolytes|Ivan Palaia|[2303.07859v3](http://arxiv.org/pdf/2303.07859v3)|
+|2025-08-14|2025-08-18|Effective permeability conditions for diffusive transport through impermeable membranes with gaps|Molly Brennan|[2508.10694v2](http://arxiv.org/pdf/2508.10694v2)|
+|2025-08-18|2025-08-18|Primary hairs may create echoes|R. A. Konoplya|[2508.13069v1](http://arxiv.org/pdf/2508.13069v1)|
+|2025-04-11|2025-08-18|Regular BTZ black holes from an infinite tower of corrections|Pedro G. S. Fernandes|[2504.08565v2](http://arxiv.org/pdf/2504.08565v2)|
+|2025-08-18|2025-08-18|Quantum Phase Estimation Beyond the Gaussian Limit|Kimin Park|[2508.13046v1](http://arxiv.org/pdf/2508.13046v1)|
+
+### Diffusion
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-08-18|2025-08-18|MDPO: Overcoming the Training-Inference Divide of Masked Diffusion Language Models|Haoyu He|[2508.13148v1](http://arxiv.org/pdf/2508.13148v1)|
+|2025-08-18|2025-08-18|Denoising diffusion models for inverse design of inflatable structures with programmable deformations|Sara Karimi|[2508.13097v1](http://arxiv.org/pdf/2508.13097v1)|
+|2025-08-18|2025-08-18|From Transthoracic to Transesophageal: Cross-Modality Generation using LoRA Diffusion|Emmanuel Oladokun|[2508.13077v1](http://arxiv.org/pdf/2508.13077v1)|
+|2025-08-18|2025-08-18|Reinforced Context Order Recovery for Adaptive Reasoning and Planning|Long Ma|[2508.13070v1](http://arxiv.org/pdf/2508.13070v1)|
+|2025-08-14|2025-08-18|Improving Text Style Transfer using Masked Diffusion Language Models with Inference-time Scaling|Tejomay Kishor Padole|[2508.10995v2](http://arxiv.org/pdf/2508.10995v2)|
 ## Update on 2025-08-15
 
 ### Physics
