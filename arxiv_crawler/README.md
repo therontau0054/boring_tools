@@ -197,6 +197,36 @@ TODO:
 
 
 
+
+## Update on 2025-08-21
+
+### Physics
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-08-20|2025-08-20|Squeezed Diffusion Models|Jyotirmai Singh|[2508.14871v1](http://arxiv.org/pdf/2508.14871v1)|
+|2024-11-13|2025-08-20|Equation of State of Decompressed Quark Matter, and Observational Signatures of Quark-Star Mergers|Zhiqiang Miao|[2411.09013v2](http://arxiv.org/pdf/2411.09013v2)|
+|2025-08-20|2025-08-20|Using an LLM to Investigate Students' Explanations on Conceptual Physics Questions|Sean Savage|[2508.14823v1](http://arxiv.org/pdf/2508.14823v1)|
+|2025-08-20|2025-08-20|Operational reconstruction of Feynman rules for quantum amplitudes via composition algebras|Jens Köplinger|[2508.14822v1](http://arxiv.org/pdf/2508.14822v1)|
+|2025-08-20|2025-08-20|Source-Guided Flow Matching|Zifan Wang|[2508.14807v1](http://arxiv.org/pdf/2508.14807v1)|
+|2024-07-30|2025-08-20|Thermal and Quantum Phase Transitions of the $φ^4$ Model|István Gábor Márián|[2407.20704v4](http://arxiv.org/pdf/2407.20704v4)|
+|2025-08-20|2025-08-20|Analyzing Undergraduate Problem-Solving in Physics Through Interaction With an AI Chatbot|Syed Furqan Abbas Hashmi|[2508.14778v1](http://arxiv.org/pdf/2508.14778v1)|
+|2025-08-20|2025-08-20|Bright 25-attosecond light pulses reach the one atomic unit of time|Jingsong Gao|[2508.14774v1](http://arxiv.org/pdf/2508.14774v1)|
+|2025-08-20|2025-08-20|Investigation of the Inter-Rater Reliability between Large Language Models and Human Raters in Qualitative Analysis|Nikhil Sanjay Borse|[2508.14764v1](http://arxiv.org/pdf/2508.14764v1)|
+|2024-12-09|2025-08-20|Using Large Language Models to Assign Partial Credit to Students' Explanations of Problem-Solving Process: Grade at Human Level Accuracy with Grading Confidence Index and Personalized Student-facing Feedback|Zhongzhou Chen|[2412.06910v3](http://arxiv.org/pdf/2412.06910v3)|
+
+### Diffusion
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-08-20|2025-08-20|Quantization Meets dLLMs: A Systematic Study of Post-training Quantization for Diffusion LLMs|Haokun Lin|[2508.14896v1](http://arxiv.org/pdf/2508.14896v1)|
+|2025-08-20|2025-08-20|TransLight: Image-Guided Customized Lighting Control with Generative Decoupling|Zongming Li|[2508.14814v1](http://arxiv.org/pdf/2508.14814v1)|
+|2025-08-20|2025-08-20|Cross-Modality Controlled Molecule Generation with Diffusion Language Model|Yunzhe Zhang|[2508.14748v1](http://arxiv.org/pdf/2508.14748v1)|
+|2025-06-23|2025-08-20|MinD: Learning A Dual-System World Model for Real-Time Planning and Implicit Risk Analysis|Xiaowei Chi|[2506.18897v2](http://arxiv.org/pdf/2506.18897v2)|
+
+### Quantitative Finance
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-08-20|2025-08-20|Deep Learning for Short Term Equity Trend Forecasting: A Behavior Driven Multi Factor Approach|Yuqi Luan|[2508.14656v1](http://arxiv.org/pdf/2508.14656v1)|
+|2025-08-18|2025-08-18|Datarus-R1: An Adaptive Multi-Step Reasoning LLM for Automated Data Analysis|Ayoub Ben Chaliah|[2508.13382v1](http://arxiv.org/pdf/2508.13382v1)|
 ## Update on 2025-08-19
 
 ### Physics
