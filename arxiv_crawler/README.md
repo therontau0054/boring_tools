@@ -198,6 +198,35 @@ TODO:
 
 
 
+
+## Update on 2025-08-23
+
+### Physics
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-08-21|2025-08-21|Energy conditions for regular black holes in EFT of gravity|Ziyue Zhu|[2508.15745v1](http://arxiv.org/pdf/2508.15745v1)|
+|2025-08-12|2025-08-21|On quantum creation of a toroidal universe|Alan H. Guth|[2508.08747v2](http://arxiv.org/pdf/2508.08747v2)|
+|2025-08-20|2025-08-21|Power Stabilization for AI Training Datacenters|Esha Choukse|[2508.14318v2](http://arxiv.org/pdf/2508.14318v2)|
+|2025-08-21|2025-08-21|Exploring the Landscape of Non-Equilibrium Memories with Neural Cellular Automata|Ethan Lake|[2508.15726v1](http://arxiv.org/pdf/2508.15726v1)|
+|2025-08-18|2025-08-21|Surya: Foundation Model for Heliophysics|Sujit Roy|[2508.14112v2](http://arxiv.org/pdf/2508.14112v2)|
+|2025-08-21|2025-08-21|Conditionally adaptive augmented Lagrangian method for physics-informed learning of forward and inverse problems using artificial neural networks|Qifeng Hu|[2508.15695v1](http://arxiv.org/pdf/2508.15695v1)|
+|2025-05-16|2025-08-21|The Prospect from the Upcoming CMB Experiment LiteBIRD to Discover Axion-like Particles Using Milky Way|Harsh Mehta|[2505.11592v2](http://arxiv.org/pdf/2505.11592v2)|
+|2025-08-21|2025-08-21|Trotter-based quantum algorithm for solving transport equations with exponentially fewer time-steps|Julien Zylberman|[2508.15691v1](http://arxiv.org/pdf/2508.15691v1)|
+|2025-08-04|2025-08-21|Quantum algorithm for linear matrix equations|Rolando D. Somma|[2508.02822v2](http://arxiv.org/pdf/2508.02822v2)|
+|2025-08-21|2025-08-21|Mind and Motion Aligned: A Joint Evaluation IsaacSim Benchmark for Task Planning and Low-Level Policies in Mobile Manipulation|Nikita Kachaev|[2508.15663v1](http://arxiv.org/pdf/2508.15663v1)|
+
+### Diffusion
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-08-21|2025-08-21|Probability Density from Latent Diffusion Models for Out-of-Distribution Detection|Joonas Järve|[2508.15737v1](http://arxiv.org/pdf/2508.15737v1)|
+|2025-02-09|2025-08-21|Inverse Problem Sampling in Latent Space Using Sequential Monte Carlo|Idan Achituve|[2502.05908v3](http://arxiv.org/pdf/2502.05908v3)|
+|2025-04-13|2025-08-21|TextSplat: Text-Guided Semantic Fusion for Generalizable Gaussian Splatting|Zhicong Wu|[2504.09588v2](http://arxiv.org/pdf/2504.09588v2)|
+
+### Quantitative Finance
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-08-21|2025-08-21|Eigen Portfolios: From Single Component Models to Ensemble Approaches|ZhengXiang Zhou|[2508.15586v1](http://arxiv.org/pdf/2508.15586v1)|
+|2025-08-07|2025-08-21|FinAgentBench: A Benchmark Dataset for Agentic Retrieval in Financial Question Answering|Chanyeol Choi|[2508.14052v2](http://arxiv.org/pdf/2508.14052v2)|
 ## Update on 2025-08-21
 
 ### Physics
