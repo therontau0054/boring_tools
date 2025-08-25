@@ -199,6 +199,35 @@ TODO:
 
 
 
+
+## Update on 2025-08-25
+
+### Physics
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-08-22|2025-08-22|Hierarchical Decision-Making for Autonomous Navigation: Integrating Deep Reinforcement Learning and Fuzzy Logic in Four-Wheel Independent Steering and Driving Systems|Yizhi Wang|[2508.16574v1](http://arxiv.org/pdf/2508.16574v1)|
+|2025-08-06|2025-08-22|Nonequilibrium Phase Transitions in Large $N$ Matrix Quantum Mechanics|Minjae Cho|[2508.04764v3](http://arxiv.org/pdf/2508.04764v3)|
+|2025-08-22|2025-08-22|Machine Learning Time Propagators for Time-Dependent Density Functional Theory Simulations|Karan Shah|[2508.16554v1](http://arxiv.org/pdf/2508.16554v1)|
+|2025-08-22|2025-08-22|Benjamin-Feir Instability of Interfacial Gravity-Capillary Waves in a Two-Layer Fluid. Part I|Olga Avramenko|[2508.16551v1](http://arxiv.org/pdf/2508.16551v1)|
+|2024-12-16|2025-08-22|Searching for hadronic scale baryonic and dark forces at $(g-2)_μ$'s lattice-vs-dispersion front|Kaustubh Agashe|[2412.12266v2](http://arxiv.org/pdf/2412.12266v2)|
+|2025-08-22|2025-08-22|Guiding Diffusion Models with Reinforcement Learning for Stable Molecule Generation|Zhijian Zhou|[2508.16521v1](http://arxiv.org/pdf/2508.16521v1)|
+|2025-08-22|2025-08-22|Uncertainty Quantification and Propagation for ACORN, a geometric deep learning tracking pipeline for HEP experiments|Lukas Péron|[2508.16518v1](http://arxiv.org/pdf/2508.16518v1)|
+|2025-08-22|2025-08-22|The twisted geometry of 6d F-theory vacua with discrete gauge symmetries|David Jaramillo Duque|[2508.16500v1](http://arxiv.org/pdf/2508.16500v1)|
+|2025-08-22|2025-08-22|Skyrmions based on optical anisotropy for topological encoding|Yunqi Zhang|[2508.16483v1](http://arxiv.org/pdf/2508.16483v1)|
+
+### Diffusion
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-08-22|2025-08-22|MV-RAG: Retrieval Augmented Multiview Diffusion|Yosef Dayani|[2508.16577v1](http://arxiv.org/pdf/2508.16577v1)|
+|2025-08-22|2025-08-22|Time-Aware One Step Diffusion Network for Real-World Image Super-Resolution|Tainyi Zhang|[2508.16557v1](http://arxiv.org/pdf/2508.16557v1)|
+|2025-08-22|2025-08-22|Constraints-Guided Diffusion Reasoner for Neuro-Symbolic Learning|Xuan Zhang|[2508.16524v1](http://arxiv.org/pdf/2508.16524v1)|
+|2025-08-22|2025-08-22|Underdamped Langevin MCMC with third order convergence|Maximilian Scott|[2508.16485v1](http://arxiv.org/pdf/2508.16485v1)|
+|2025-06-01|2025-08-22|Generative diffusion posterior sampling for informative likelihoods|Zheng Zhao|[2506.01083v2](http://arxiv.org/pdf/2506.01083v2)|
+
+### Quantitative Finance
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-08-18|2025-08-18|DAIQ: Auditing Demographic Attribute Inference from Question in LLMs|Srikant Panda|[2508.15830v1](http://arxiv.org/pdf/2508.15830v1)|
 ## Update on 2025-08-23
 
 ### Physics
