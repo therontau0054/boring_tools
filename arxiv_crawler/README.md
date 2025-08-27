@@ -200,6 +200,31 @@ TODO:
 
 
 
+
+## Update on 2025-08-27
+
+### Physics
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-08-26|2025-08-26|New Twists on Topological Quantum Error Correcting Codes|Mohamad Mousa|[2508.19245v1](http://arxiv.org/pdf/2508.19245v1)|
+|2025-08-26|2025-08-26|Phase Coherent Transport in Two-Dimensional Tellurium Flakes|Mohammad Hafijur Rahaman|[2508.19241v1](http://arxiv.org/pdf/2508.19241v1)|
+|2025-05-23|2025-08-26|Quantum propagation scheme using Hagedorn wave packets : generalized scheme|Rabiou Issa|[2505.17541v2](http://arxiv.org/pdf/2505.17541v2)|
+|2025-08-26|2025-08-26|The 2025 Roadmaps for the US Magnet Development Program|Lance Cooley|[2508.19220v1](http://arxiv.org/pdf/2508.19220v1)|
+|2025-06-23|2025-08-26|Local Learning Rules for Out-of-Equilibrium Physical Generative Models|Cyrill Bösch|[2506.19136v2](http://arxiv.org/pdf/2506.19136v2)|
+|2025-07-09|2025-08-26|Lifetime study of the ColdADC for the Deep Underground Neutrino Experiment|Wenjie Wu|[2507.07086v2](http://arxiv.org/pdf/2507.07086v2)|
+|2025-08-26|2025-08-26|LSD-3D: Large-Scale 3D Driving Scene Generation with Geometry Grounding|Julian Ost|[2508.19204v1](http://arxiv.org/pdf/2508.19204v1)|
+|2025-08-26|2025-08-26|From Tabula Rasa to Emergent Abilities: Discovering Robot Skills via Real-World Unsupervised Quality-Diversity|Luca Grillotti|[2508.19172v1](http://arxiv.org/pdf/2508.19172v1)|
+|2025-08-26|2025-08-26|Architecting Distributed Quantum Computers: Design Insights from Resource Estimation|Dmitry Filippov|[2508.19160v1](http://arxiv.org/pdf/2508.19160v1)|
+|2025-08-26|2025-08-26|Uncertainty-Resilient Active Intention Recognition for Robotic Assistants|Juan Carlos Saborío|[2508.19150v1](http://arxiv.org/pdf/2508.19150v1)|
+
+### Diffusion
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-08-26|2025-08-26|VibeVoice Technical Report|Zhiliang Peng|[2508.19205v1](http://arxiv.org/pdf/2508.19205v1)|
+|2025-08-26|2025-08-26|Planning-Query-Guided Model Generation for Model-Based Deformable Object Manipulation|Alex LaGrassa|[2508.19199v1](http://arxiv.org/pdf/2508.19199v1)|
+|2025-08-26|2025-08-26|RDDM: Practicing RAW Domain Diffusion Model for Real-world Image Restoration|Yan Chen|[2508.19154v1](http://arxiv.org/pdf/2508.19154v1)|
+|2025-08-26|2025-08-26|Saddle Hierarchy in Dense Associative Memory|Robin Thériault|[2508.19151v1](http://arxiv.org/pdf/2508.19151v1)|
+|2025-08-26|2025-08-26|Composition and Alignment of Diffusion Models using Constrained Learning|Shervin Khalafi|[2508.19104v1](http://arxiv.org/pdf/2508.19104v1)|
 ## Update on 2025-08-25
 
 ### Physics

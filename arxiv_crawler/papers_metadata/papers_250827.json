@@ -1,0 +1,126 @@
+{
+    "Physics": [
+        {
+            "title": "New Twists on Topological Quantum Error Correcting Codes",
+            "authors": "Mohamad Mousa, Amit Jamadagni, Eugene Dumitrescu",
+            "summary": "We derive a new family of quantum error-correcting codes. The main technical\ntool used to do so is the physically intuitive concept of condensation, which\nis employed to create new domain walls between the quantum double of $\\Z_4$ and\nan instance of the doubled semion phase. Specifically, we provide explicit\nconstructions, first at the lattice-level and then subsequently at the\nmacroscopic logical-level. To provide intuition, we provide a series of\nexplicit examples using the derived topological interfaces. We discuss the\ncode's utility in the burgeoning area of quantum error-correction with an\nemphasis on the interplay between logical error rates and decoding.\n  We conclude by outlining how such codes' representation and design can be\nautomated. We expect our results, which provide explicit step-by-step\ninstructions in the form of algorithms, to pave the path for new\nhigher-algebraic-dimensional codes to be discovered and implemented in\nconfigurations that take advantage of various hardware's distinct strengths.",
+            "pdf_url": "http://arxiv.org/pdf/2508.19245v1",
+            "published": "2025-08-26 17:59:45+00:00",
+            "updated": "2025-08-26 17:59:45+00:00"
+        },
+        {
+            "title": "Phase Coherent Transport in Two-Dimensional Tellurium Flakes",
+            "authors": "Mohammad Hafijur Rahaman, Nathan Sawyers, Mourad Benamara, Trudie Culverhouse, Repaka Maheswar, Qiyuan He, Hugh Churchill, Dharmraj Kotekar Patil",
+            "summary": "Elemental tellurium (Te) is a compelling van der Waals material due to its\ninteresting chiral crystal structure and predicted topological properties.\nHere, we report the fabrication and comprehensive quantum transport study of\ndevices based on Te flakes with varying thicknesses. We demonstrate a hole\nmobility reaching up to 1000 cm2/V.s in a 17 nm thick flake at 30 Kelvin. At\ndeep cryogenic temperatures (< 50mK), the transport characteristics transition\nfrom Coulomb blockade in the low carrier density regime to pronounced\nFabry-P\\'erot (F-P) interference at higher densities. Notably, the visibility\nof these F-P oscillations is significantly enhanced in the thinner flake\ndevice. The application of a magnetic field reveals a clear Zeeman splitting of\nthe conductance peaks. The rich variety of quantum transport phenomena observed\nunderscores the high quality of our thin Te flakes and establishes them as a\npromising platform for exploring novel physics and device concepts, such as\ntopological superconductivity and low-power spintronic applications.",
+            "pdf_url": "http://arxiv.org/pdf/2508.19241v1",
+            "published": "2025-08-26 17:59:03+00:00",
+            "updated": "2025-08-26 17:59:03+00:00"
+        },
+        {
+            "title": "Quantum propagation scheme using Hagedorn wave packets : generalized scheme",
+            "authors": "Rabiou Issa, Kokou Mawulonmi Robert Afansounoudji, Komi Sodoga, David Lauvergnat",
+            "summary": "In this study, we provide a novel wave packet propagation method that\ngeneralizes the Hagedorn approach by introducing alternative primitive basis\nsets that are better suited to describe different physical processes. More\nprecisely, in our propagation scheme, we can mix basis sets with time-dependent\nparameters (the Hagedorn basis set) and time-independent ones, such as Fourier\nseries, particle-in-a-box, or harmonic oscillator basis sets. Furthermore, our\nimplementation can handle models with several electronic states, so that\nnon-adiabatic processes can be studied. Instead of the time-dependent\nvariational principle, our propagation scheme uses a three-step procedure\n(standard propagation, time-dependent parameter evaluation, and projection). It\nrelies on multidimensional integrations, which are performed numerically with\nGaussian quadrature, so that we have no constraints on the for of the\nHamiltonian operator. This numerical algorithm has been implemented in a modern\nFortran code available on GitHub (https://github.com/asodoga/TD_Schrod_Rabiou).\n  The code has been tested and validated by comparisons with standard\npropagation schemes on 2D-models with harmonic and anharmonic potentials\n(modified H\\'enon-Heiles). More precisely, our benchmark tests show that the\nwave packets obtained with our propagation scheme are able to converge to exact\nwave packets (obtained from standard propagation techniques). Finally, we have\napplied our method to compute the vibrational spectrum of the 6D-modified\nH\\'enon-Heiles model and we show that our scheme reproduces well the results\nobtained with the standard approach and with smaller basis functions. As a\nperspective, we show that with the generalized Hagedorn wave packet method, we\nare able to study the non-adiabtic dynamics of the cis-trans retinal\nisomerization in a reduced 2D-model with two coupled electronic surfaces.",
+            "pdf_url": "http://arxiv.org/pdf/2505.17541v2",
+            "published": "2025-05-23 06:44:26+00:00",
+            "updated": "2025-08-26 17:48:13+00:00"
+        },
+        {
+            "title": "The 2025 Roadmaps for the US Magnet Development Program",
+            "authors": "Lance Cooley, Paolo Ferracin, Steve Gourlay, David Larbalestier, Mark Palmer, Soren Prestemon, George Velev, Giorgio Ambrosio, Diego Arbelaez, Karie Badgley, Lucas Brouwer, Daniel Davis, Jose Luis Fernandez, Vadim Kashikhin, Steven Krave, Maxim Marchevsky, Igor Novitski, Ian Pong, Tengming Shen, Stoyan Stoynev, Reed Teyber, Giorgio Vallone, Xiaorong Wang, Xingchen Xu",
+            "summary": "The US Physics community completed the Snowmass planning process in 2022,\nculminating in the HEPAP Particle Physics Project Prioritization Panel (P5)\npublishing its summary report at the end of 2023. Building on this, the US\nMagnet Development Program, a national accelerator magnet R&D program\nestablished by DOE-OHEP in 2016, has updated its strategic plan to align with\nthe 2023 P5 report, resulting in this roadmap document.",
+            "pdf_url": "http://arxiv.org/pdf/2508.19220v1",
+            "published": "2025-08-26 17:36:52+00:00",
+            "updated": "2025-08-26 17:36:52+00:00"
+        },
+        {
+            "title": "Local Learning Rules for Out-of-Equilibrium Physical Generative Models",
+            "authors": "Cyrill B\u00f6sch, Geoffrey Roeder, Marc Serra-Garcia, Ryan P. Adams",
+            "summary": "We show that the out-of-equilibrium driving protocol of score-based\ngenerative models (SGMs) can be learned via local learning rules. The gradient\nwith respect to the parameters of the driving protocol is computed directly\nfrom force measurements or from observed system dynamics. As a demonstration,\nwe implement an SGM in a network of driven, nonlinear, overdamped oscillators\ncoupled to a thermal bath. We first apply it to the problem of sampling from a\nmixture of two Gaussians in 2D. Finally, we train a 12x12 oscillator network on\nthe MNIST dataset to generate images of handwritten digits 0 and 1.",
+            "pdf_url": "http://arxiv.org/pdf/2506.19136v2",
+            "published": "2025-06-23 21:11:40+00:00",
+            "updated": "2025-08-26 17:24:19+00:00"
+        },
+        {
+            "title": "Lifetime study of the ColdADC for the Deep Underground Neutrino Experiment",
+            "authors": "Wenjie Wu, Benjamin Jargowsky, Yiwen Xiao, Alejandro Yankelevich, Jianming Bian, Cheng-Ju Lin, Tarun Prakash, David Christian",
+            "summary": "ColdADC is a custom ASIC digitizer implemented in 65 nm CMOS technology using\nspecialized techniques for long-term reliability in cryogenic environments.\nColdADC was developed for use in the DUNE Far Detector complex, which will\nconsist of four liquid argon time projection chambers. Each contains 17\nkilotons liquid argon as the target material in order to measure neutrino\noscillations. Approximately 40,000 ColdADC ASICs will be installed for DUNE in\nthe first two large detectors and will be operated at cryogenic temperatures\nduring the experiment without replacement. The lifetime of the ColdADC is a\ncritical parameter affecting the data quality and physics sensitivity of the\nexperiment. A measurement of the lifetime of the ColdADC was carried out, and\nthe results shown in this paper assure orders of magnitude longer lifetime of\nthe ColdADC than the planned operation time of the detectors.",
+            "pdf_url": "http://arxiv.org/pdf/2507.07086v2",
+            "published": "2025-07-09 17:47:21+00:00",
+            "updated": "2025-08-26 17:06:06+00:00"
+        },
+        {
+            "title": "LSD-3D: Large-Scale 3D Driving Scene Generation with Geometry Grounding",
+            "authors": "Julian Ost, Andrea Ramazzina, Amogh Joshi, Maximilian B\u00f6mer, Mario Bijelic, Felix Heide",
+            "summary": "Large-scale scene data is essential for training and testing in robot\nlearning. Neural reconstruction methods have promised the capability of\nreconstructing large physically-grounded outdoor scenes from captured sensor\ndata. However, these methods have baked-in static environments and only allow\nfor limited scene control -- they are functionally constrained in scene and\ntrajectory diversity by the captures from which they are reconstructed. In\ncontrast, generating driving data with recent image or video diffusion models\noffers control, however, at the cost of geometry grounding and causality. In\nthis work, we aim to bridge this gap and present a method that directly\ngenerates large-scale 3D driving scenes with accurate geometry, allowing for\ncausal novel view synthesis with object permanence and explicit 3D geometry\nestimation. The proposed method combines the generation of a proxy geometry and\nenvironment representation with score distillation from learned 2D image\npriors. We find that this approach allows for high controllability, enabling\nthe prompt-guided geometry and high-fidelity texture and structure that can be\nconditioned on map layouts -- producing realistic and geometrically consistent\n3D generations of complex driving scenes.",
+            "pdf_url": "http://arxiv.org/pdf/2508.19204v1",
+            "published": "2025-08-26 17:04:49+00:00",
+            "updated": "2025-08-26 17:04:49+00:00"
+        },
+        {
+            "title": "From Tabula Rasa to Emergent Abilities: Discovering Robot Skills via Real-World Unsupervised Quality-Diversity",
+            "authors": "Luca Grillotti, Lisa Coiffard, Oscar Pang, Maxence Faldor, Antoine Cully",
+            "summary": "Autonomous skill discovery aims to enable robots to acquire diverse behaviors\nwithout explicit supervision. Learning such behaviors directly on physical\nhardware remains challenging due to safety and data efficiency constraints.\nExisting methods, including Quality-Diversity Actor-Critic (QDAC), require\nmanually defined skill spaces and carefully tuned heuristics, limiting\nreal-world applicability. We propose Unsupervised Real-world Skill Acquisition\n(URSA), an extension of QDAC that enables robots to autonomously discover and\nmaster diverse, high-performing skills directly in the real world. We\ndemonstrate that URSA successfully discovers diverse locomotion skills on a\nUnitree A1 quadruped in both simulation and the real world. Our approach\nsupports both heuristic-driven skill discovery and fully unsupervised settings.\nWe also show that the learned skill repertoire can be reused for downstream\ntasks such as real-world damage adaptation, where URSA outperforms all\nbaselines in 5 out of 9 simulated and 3 out of 5 real-world damage scenarios.\nOur results establish a new framework for real-world robot learning that\nenables continuous skill discovery with limited human intervention,\nrepresenting a significant step toward more autonomous and adaptable robotic\nsystems. Demonstration videos are available at\nhttp://adaptive-intelligent-robotics.github.io/URSA .",
+            "pdf_url": "http://arxiv.org/pdf/2508.19172v1",
+            "published": "2025-08-26 16:20:41+00:00",
+            "updated": "2025-08-26 16:20:41+00:00"
+        },
+        {
+            "title": "Architecting Distributed Quantum Computers: Design Insights from Resource Estimation",
+            "authors": "Dmitry Filippov, Peter Yang, Prakash Murali",
+            "summary": "To enable practically useful quantum computing, we require hundreds to\nthousands of logical qubits (collections of physical qubits with error\ncorrection). Current monolithic device architectures have scaling limits beyond\nfew tens of logical qubits. To scale up, we require architectures that\norchestrate several monolithic devices into a distributed quantum computing\nsystem. Currently, resource estimation, which is crucial for determining\nhardware needs and bottlenecks, focuses exclusively on monolithic systems. Our\nwork fills this gap and answers key architectural design questions about\ndistributed systems, including the impact of distribution on application\nresource needs, the organization of qubits across nodes and the requirements of\nentanglement distillation (quantum network). To answer these questions, we\ndevelop a novel resource estimation framework that models the key components of\nthe distributed execution stack. We analyse the performance of practical\nquantum algorithms on various hardware configurations, spanning different qubit\nspeeds, entanglement generation rates and distillation protocols. We show that\ndistributed architectures have practically feasible resource requirements; for\na node size of 45K qubits, distributed systems need on average 1.4X higher\nnumber of physical qubits and 4X higher execution time compared to monolithic\narchitectures, but with more favourable hardware implementation prospects. Our\ninsights on entanglement generation rates, node sizes and architecture have the\npotential to inform system designs in the coming years.",
+            "pdf_url": "http://arxiv.org/pdf/2508.19160v1",
+            "published": "2025-08-26 16:09:45+00:00",
+            "updated": "2025-08-26 16:09:45+00:00"
+        },
+        {
+            "title": "Uncertainty-Resilient Active Intention Recognition for Robotic Assistants",
+            "authors": "Juan Carlos Sabor\u00edo, Marc Vinci, Oscar Lima, Sebastian Stock, Lennart Niecksch, Martin G\u00fcnther, Alexander Sung, Joachim Hertzberg, Martin Atzm\u00fcller",
+            "summary": "Purposeful behavior in robotic assistants requires the integration of\nmultiple components and technological advances. Often, the problem is reduced\nto recognizing explicit prompts, which limits autonomy, or is oversimplified\nthrough assumptions such as near-perfect information. We argue that a critical\ngap remains unaddressed -- specifically, the challenge of reasoning about the\nuncertain outcomes and perception errors inherent to human intention\nrecognition. In response, we present a framework designed to be resilient to\nuncertainty and sensor noise, integrating real-time sensor data with a\ncombination of planners. Centered around an intention-recognition POMDP, our\napproach addresses cooperative planning and acting under uncertainty. Our\nintegrated framework has been successfully tested on a physical robot with\npromising results.",
+            "pdf_url": "http://arxiv.org/pdf/2508.19150v1",
+            "published": "2025-08-26 16:00:38+00:00",
+            "updated": "2025-08-26 16:00:38+00:00"
+        }
+    ],
+    "Diffusion": [
+        {
+            "title": "VibeVoice Technical Report",
+            "authors": "Zhiliang Peng, Jianwei Yu, Wenhui Wang, Yaoyao Chang, Yutao Sun, Li Dong, Yi Zhu, Weijiang Xu, Hangbo Bao, Zehua Wang, Shaohan Huang, Yan Xia, Furu Wei",
+            "summary": "This report presents VibeVoice, a novel model designed to synthesize\nlong-form speech with multiple speakers by employing next-token diffusion,\nwhich is a unified method for modeling continuous data by autoregressively\ngenerating latent vectors via diffusion. To enable this, we introduce a novel\ncontinuous speech tokenizer that, when compared to the popular Encodec model,\nimproves data compression by 80 times while maintaining comparable performance.\nThe tokenizer effectively preserves audio fidelity while significantly boosting\ncomputational efficiency for processing long sequences. Thus, VibeVoice can\nsynthesize long-form speech for up to 90 minutes (in a 64K context window\nlength) with a maximum of 4 speakers, capturing the authentic conversational\n``vibe'' and surpassing open-source and proprietary dialogue models.",
+            "pdf_url": "http://arxiv.org/pdf/2508.19205v1",
+            "published": "2025-08-26 17:09:12+00:00",
+            "updated": "2025-08-26 17:09:12+00:00"
+        },
+        {
+            "title": "Planning-Query-Guided Model Generation for Model-Based Deformable Object Manipulation",
+            "authors": "Alex LaGrassa, Zixuan Huang, Dmitry Berenson, Oliver Kroemer",
+            "summary": "Efficient planning in high-dimensional spaces, such as those involving\ndeformable objects, requires computationally tractable yet sufficiently\nexpressive dynamics models. This paper introduces a method that automatically\ngenerates task-specific, spatially adaptive dynamics models by learning which\nregions of the object require high-resolution modeling to achieve good task\nperformance for a given planning query. Task performance depends on the complex\ninterplay between the dynamics model, world dynamics, control, and task\nrequirements. Our proposed diffusion-based model generator predicts per-region\nmodel resolutions based on start and goal pointclouds that define the planning\nquery. To efficiently collect the data for learning this mapping, a two-stage\nprocess optimizes resolution using predictive dynamics as a prior before\ndirectly optimizing using closed-loop performance. On a tree-manipulation task,\nour method doubles planning speed with only a small decrease in task\nperformance over using a full-resolution model. This approach informs a path\ntowards using previous planning and control data to generate computationally\nefficient yet sufficiently expressive dynamics models for new tasks.",
+            "pdf_url": "http://arxiv.org/pdf/2508.19199v1",
+            "published": "2025-08-26 17:03:39+00:00",
+            "updated": "2025-08-26 17:03:39+00:00"
+        },
+        {
+            "title": "RDDM: Practicing RAW Domain Diffusion Model for Real-world Image Restoration",
+            "authors": "Yan Chen, Yi Wen, Wei Li, Junchao Liu, Yong Guo, Jie Hu, Xinghao Chen",
+            "summary": "We present the RAW domain diffusion model (RDDM), an end-to-end diffusion\nmodel that restores photo-realistic images directly from the sensor RAW data.\nWhile recent sRGB-domain diffusion methods achieve impressive results, they are\ncaught in a dilemma between high fidelity and realistic generation. As these\nmodels process lossy sRGB inputs and neglect the accessibility of the sensor\nRAW images in many scenarios, e.g., in image and video capturing in edge\ndevices, resulting in sub-optimal performance. RDDM bypasses this limitation by\ndirectly restoring images in the RAW domain, replacing the conventional\ntwo-stage image signal processing (ISP) + IR pipeline. However, a simple\nadaptation of pre-trained diffusion models to the RAW domain confronts the\nout-of-distribution (OOD) issues. To this end, we propose: (1) a RAW-domain VAE\n(RVAE) learning optimal latent representations, (2) a differentiable Post Tone\nProcessing (PTP) module enabling joint RAW and sRGB space optimization. To\ncompensate for the deficiency in the dataset, we develop a scalable degradation\npipeline synthesizing RAW LQ-HQ pairs from existing sRGB datasets for\nlarge-scale training. Furthermore, we devise a configurable multi-bayer (CMB)\nLoRA module handling diverse RAW patterns such as RGGB, BGGR, etc. Extensive\nexperiments demonstrate RDDM's superiority over state-of-the-art sRGB diffusion\nmethods, yielding higher fidelity results with fewer artifacts.",
+            "pdf_url": "http://arxiv.org/pdf/2508.19154v1",
+            "published": "2025-08-26 16:06:17+00:00",
+            "updated": "2025-08-26 16:06:17+00:00"
+        },
+        {
+            "title": "Saddle Hierarchy in Dense Associative Memory",
+            "authors": "Robin Th\u00e9riault, Daniele Tantari",
+            "summary": "Dense associative memory (DAM) models have been attracting renewed attention\nsince they were shown to be robust to adversarial examples and closely related\nto state-of-the-art machine learning paradigms, such as the attention\nmechanisms in transformers and generative diffusion models. We study a DAM\nbuilt upon a three-layer Boltzmann machine with Potts hidden units, which\nrepresent data clusters and classes. Through a statistical mechanics analysis,\nwe derive saddle-point equations that characterize both the stationary points\nof DAMs trained on real data and the fixed points of DAMs trained on synthetic\ndata within a teacher-student framework. Based on these results, we propose a\nnovel regularization scheme that makes training significantly more stable.\nMoreover, we show empirically that our DAM learns interpretable solutions to\nboth supervised and unsupervised classification problems. Pushing our\ntheoretical analysis further, we find that the weights learned by relatively\nsmall DAMs correspond to unstable saddle points in larger DAMs. We implement a\nnetwork-growing algorithm that leverages this saddle-point hierarchy to\ndrastically reduce the computational cost of training dense associative memory.",
+            "pdf_url": "http://arxiv.org/pdf/2508.19151v1",
+            "published": "2025-08-26 16:03:19+00:00",
+            "updated": "2025-08-26 16:03:19+00:00"
+        },
+        {
+            "title": "Composition and Alignment of Diffusion Models using Constrained Learning",
+            "authors": "Shervin Khalafi, Ignacio Hounie, Dongsheng Ding, Alejandro Ribeiro",
+            "summary": "Diffusion models have become prevalent in generative modeling due to their\nability to sample from complex distributions. To improve the quality of\ngenerated samples and their compliance with user requirements, two commonly\nused methods are: (i) Alignment, which involves fine-tuning a diffusion model\nto align it with a reward; and (ii) Composition, which combines several\npre-trained diffusion models, each emphasizing a desirable attribute in the\ngenerated outputs. However, trade-offs often arise when optimizing for multiple\nrewards or combining multiple models, as they can often represent competing\nproperties. Existing methods cannot guarantee that the resulting model\nfaithfully generates samples with all the desired properties. To address this\ngap, we propose a constrained optimization framework that unifies alignment and\ncomposition of diffusion models by enforcing that the aligned model satisfies\nreward constraints and/or remains close to (potentially multiple) pre-trained\nmodels. We provide a theoretical characterization of the solutions to the\nconstrained alignment and composition problems and develop a Lagrangian-based\nprimal-dual training algorithm to approximate these solutions. Empirically, we\ndemonstrate the effectiveness and merits of our proposed approach in image\ngeneration, applying it to alignment and composition, and show that our aligned\nor composed model satisfies constraints effectively, and improves on the\nequally-weighted approach. Our implementation can be found at\nhttps://github.com/shervinkhalafi/constrained_comp_align.",
+            "pdf_url": "http://arxiv.org/pdf/2508.19104v1",
+            "published": "2025-08-26 15:06:30+00:00",
+            "updated": "2025-08-26 15:06:30+00:00"
+        }
+    ]
+}
