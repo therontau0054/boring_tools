@@ -1,0 +1,136 @@
+{
+    "Physics": [
+        {
+            "title": "Physical constraints on effective non-Hermitian systems",
+            "authors": "Aaron Kleger, Rufus Boyack",
+            "summary": "Interacting and open quantum systems can be formulated in terms of an\neffective non-Hermitian Hamiltonian (NHH), however, there are important\nconstraints that must be satisfied by the effective action and the associated\nGreen's functions. One common approach to many-body non-Hermitian (NH) systems\nis to incorporate the anti-Hermitian part of the Hamiltonian directly in the\nMatsubara Green's function. Here, we show that such an approach is incompatible\nwith the standard framework for systems with interactions. Furthermore, we\nfurnish a consistent physical description for such systems by determining their\ndistinction from conventional interacting physics, and find that they are\ndescribed by pseudo-Hermitian quantum mechanics. Furthermore, we characterize\nthe zero-temperature distribution functions within several frameworks for NH\nsystems. As an application of our results, we consider the electromagnetic\nresponse of a NH quasiparticle Hamiltonian based on the (1+1)-dimensional NH\nDirac model subject to various physical descriptions.",
+            "pdf_url": "http://arxiv.org/pdf/2508.21067v1",
+            "published": "2025-08-28 17:59:46+00:00",
+            "updated": "2025-08-28 17:59:46+00:00"
+        },
+        {
+            "title": "A Baryon and Lepton Number Violation Model Testable at the LHC",
+            "authors": "Amit Bhoonah, Francis Burk, Da Liu, Tong Ou, Deepak Sathyan",
+            "summary": "Proton decay experiments typically constrain baryon number violation to the\nscale of grand unified theories. From a phenomenological point of view, this\nmakes direct probing of the associated new resonances, such as the X and Y\nbosons, out of reach for even the most optimistic future experiments. It has,\nhowever, been known that certain specific patterns of baryon and lepton number\nviolation can suppress proton decay by multiple powers of the masses of the\nheavy resonances involved, opening the possibility that the observed limits on\nthe proton lifetime are consistent with baryon number violating physics at\nenergy scales much lower than that of grand unification. We construct an\nexplicit example of such a model which violates baryon number by one unit,\n$\\Delta \\text{B} = -1$, and lepton number by three units, $\\Delta \\text{L} =\n-3$, and show that despite stringent limits on the predicted $p \\rightarrow\ne^{+}/\\mu^{+} \\overline{\\nu}\\overline{\\nu}$ mode from the Super-Kamiokande\nexperiment, the masses of the newly introduced elementary particles can be\n$\\mathcal{O}$(TeV). We identify interesting unique signatures of baryon number\nviolation of this model that can be probed both with currently available LHC\ndata and with the upcoming High-Luminosity LHC. We also present a scenario for\nlow-scale baryogenesis within the framework of this model.",
+            "pdf_url": "http://arxiv.org/pdf/2508.21064v1",
+            "published": "2025-08-28 17:59:13+00:00",
+            "updated": "2025-08-28 17:59:13+00:00"
+        },
+        {
+            "title": "Prompt-to-Product: Generative Assembly via Bimanual Manipulation",
+            "authors": "Ruixuan Liu, Philip Huang, Ava Pun, Kangle Deng, Shobhit Aggarwal, Kevin Tang, Michelle Liu, Deva Ramanan, Jun-Yan Zhu, Jiaoyang Li, Changliu Liu",
+            "summary": "Creating assembly products demands significant manual effort and expert\nknowledge in 1) designing the assembly and 2) constructing the product. This\npaper introduces Prompt-to-Product, an automated pipeline that generates\nreal-world assembly products from natural language prompts. Specifically, we\nleverage LEGO bricks as the assembly platform and automate the process of\ncreating brick assembly structures. Given the user design requirements,\nPrompt-to-Product generates physically buildable brick designs, and then\nleverages a bimanual robotic system to construct the real assembly products,\nbringing user imaginations into the real world. We conduct a comprehensive user\nstudy, and the results demonstrate that Prompt-to-Product significantly lowers\nthe barrier and reduces manual effort in creating assembly products from\nimaginative ideas.",
+            "pdf_url": "http://arxiv.org/pdf/2508.21063v1",
+            "published": "2025-08-28 17:59:05+00:00",
+            "updated": "2025-08-28 17:59:05+00:00"
+        },
+        {
+            "title": "Solvable Quantum Circuits in Tree+1 Dimensions",
+            "authors": "Oliver Breach, Benedikt Placke, Pieter W. Claeys, S. A. Parameswaran",
+            "summary": "We devise tractable models of unitary quantum many-body dynamics on tree\ngraphs, as a first step towards a deeper understanding of dynamics in\nnon-Euclidean spaces. To this end, we first demonstrate how to construct\nstrictly local quantum circuits that preserve the symmetries of trees, such\nthat their dynamical light cones grow isotropically. For trees with\ncoordination number z, such circuits can be built from z-site gates. We then\nintroduce a family of gates for which the dynamics is exactly solvable; these\nsatisfy a set of constraints that we term 'tree-unitarity'. Notably,\ntree-unitarity reduces to the previously-established notion of dual-unitarity\nfor z = 2, when the tree reduces to a line. Among the unexpected features of\ntree-unitarity is a trade-off between 'maximum butterfly velocity' dynamics of\nout-of-time-order correlators and the existence of non-vanishing correlation\nfunctions in multiple directions, a tension absent in one-dimensional\ndual-unitary models and their Euclidean generalizations. We connect the\nexistence of (a wide class of) solvable dynamics with non-maximal butterfly\nvelocity directly to a property of the underlying circuit geometry called\n$\\delta$-hyperbolicity, and argue that such dynamics can only arise in\nnon-Euclidean geometries. We give various examples of tree-unitary gates,\ndiscuss dynamical correlations, out-of-time-order correlators, and entanglement\ngrowth, and show that the kicked Ising model on a tree is a\nphysically-motivated example of maximum-velocity tree-unitary dynamics.",
+            "pdf_url": "http://arxiv.org/pdf/2503.20927v2",
+            "published": "2025-03-26 19:00:01+00:00",
+            "updated": "2025-08-28 17:32:16+00:00"
+        },
+        {
+            "title": "Response of AC-coupled Low Gain Avalanche Detectors to Ionizing and Non-ionizing Radiation Damage",
+            "authors": "Jiahe Si, Gabriele D'Amen, Mohamed Hijas Mohamed Farook, Gabriele Giacomini, Martin R. Hoeferkamp, Sally Seidel, Alessandro Tricoli",
+            "summary": "Low gain avalanche diodes with DC- and AC-coupled readout were exposed to\nionizing and non-ionizing radiation at levels relevant to future experiments in\nparticle, nuclear, and medical physics and to astrophysics. Damage-related\nchange in their acceptor removal constants and in the resistivity of the region\nbetween the guard ring and the active area are reported, as is change in the\nleakage current and depletion voltages of the active volumes.",
+            "pdf_url": "http://arxiv.org/pdf/2508.21028v1",
+            "published": "2025-08-28 17:30:52+00:00",
+            "updated": "2025-08-28 17:30:52+00:00"
+        },
+        {
+            "title": "Fast Convergence Rates for Subsampled Natural Gradient Algorithms on Quadratic Model Problems",
+            "authors": "Gil Goldshlager, Jiang Hu, Lin Lin",
+            "summary": "Subsampled natural gradient descent (SNGD) has shown impressive results for\nparametric optimization tasks in scientific machine learning, such as neural\nnetwork wavefunctions and physics-informed neural networks, but it has lacked a\ntheoretical explanation. We address this gap by analyzing the convergence of\nSNGD and its accelerated variant, SPRING, for idealized parametric optimization\nproblems where the model is linear and the loss function is strongly convex and\nquadratic. In the special case of a least-squares loss, namely the standard\nlinear least-squares problem, we prove that SNGD is equivalent to a regularized\nKaczmarz method while SPRING is equivalent to an accelerated regularized\nKaczmarz method. As a result, by leveraging existing analyses we obtain under\nmild conditions (i) the first fast convergence rate for SNGD, (ii) the first\nconvergence guarantee for SPRING in any setting, and (iii) the first proof that\nSPRING can accelerate SNGD. In the case of a general strongly convex quadratic\nloss, we extend the analysis of the regularized Kaczmarz method to obtain a\nfast convergence rate for SNGD under stronger conditions, providing the first\nexplanation for the effectiveness of SNGD outside of the least-squares setting.\nOverall, our results illustrate how tools from randomized linear algebra can\nshed new light on the interplay between subsampling and curvature-aware\noptimization strategies.",
+            "pdf_url": "http://arxiv.org/pdf/2508.21022v1",
+            "published": "2025-08-28 17:24:59+00:00",
+            "updated": "2025-08-28 17:24:59+00:00"
+        },
+        {
+            "title": "Spectral density characteristics of self-organized structuring in phase-synchronized oscillator ensembles",
+            "authors": "Magnus F Ivarsen",
+            "summary": "Self-organized turbulence represents a way for structuring in nature to arise\nthrough sheer complexity rather than through linear instability theory.\nSimulating ensembles of oscillators that undergo phase synchronization through\na propagating Kuramoto-interaction field, we present the spectral\ncharacteristics of spontaneous, self-organized structures of locally coupled\noscillators. We demonstrate that the spectral density of emergent structures\ncan exhibit universal scaling laws, in line with expectations from nature,\nindicating that observed statistical outcomes of complex physical interactions\ncan be achieved through a more general principle of self-organization. We\nsuggest that spontaneously generated structures may provide nuance to the\nreigning reductionist explanations for the observed structure in coupled\nsystems of astrophysical and geophysical plasmas.",
+            "pdf_url": "http://arxiv.org/pdf/2508.21012v1",
+            "published": "2025-08-28 17:16:06+00:00",
+            "updated": "2025-08-28 17:16:06+00:00"
+        },
+        {
+            "title": "Train-Once Plan-Anywhere Kinodynamic Motion Planning via Diffusion Trees",
+            "authors": "Yaniv Hassidof, Tom Jurgenson, Kiril Solovey",
+            "summary": "Kinodynamic motion planning is concerned with computing collision-free\ntrajectories while abiding by the robot's dynamic constraints. This critical\nproblem is often tackled using sampling-based planners (SBPs) that explore the\nrobot's high-dimensional state space by constructing a search tree via action\npropagations. Although SBPs can offer global guarantees on completeness and\nsolution quality, their performance is often hindered by slow exploration due\nto uninformed action sampling. Learning-based approaches can yield\nsignificantly faster runtimes, yet they fail to generalize to\nout-of-distribution (OOD) scenarios and lack critical guarantees, e.g., safety,\nthus limiting their deployment on physical robots. We present Diffusion Tree\n(DiTree): a \\emph{provably-generalizable} framework leveraging diffusion\npolicies (DPs) as informed samplers to efficiently guide state-space search\nwithin SBPs. DiTree combines DP's ability to model complex distributions of\nexpert trajectories, conditioned on local observations, with the completeness\nof SBPs to yield \\emph{provably-safe} solutions within a few action propagation\niterations for complex dynamical systems. We demonstrate DiTree's power with an\nimplementation combining the popular RRT planner with a DP action sampler\ntrained on a \\emph{single environment}. In comprehensive evaluations on OOD\nscenarios, % DiTree has comparable runtimes to a standalone DP (3x faster than\nclassical SBPs), while improving the average success rate over DP and SBPs.\nDiTree is on average 3x faster than classical SBPs, and outperforms all other\napproaches by achieving roughly 30\\% higher success rate. Project webpage:\nhttps://sites.google.com/view/ditree.",
+            "pdf_url": "http://arxiv.org/pdf/2508.21001v1",
+            "published": "2025-08-28 17:04:00+00:00",
+            "updated": "2025-08-28 17:04:00+00:00"
+        },
+        {
+            "title": "Dark Forces Gathering",
+            "authors": "Peter W. Graham, Daniel Green, Joel Meyers",
+            "summary": "Recent observations of the cosmic microwave background (CMB) and baryon\nacoustic oscillations (BAO) show some tension with a $\\Lambda$CDM cosmology.\nFor one, the cosmological parameters determined by the CMB are at odds with the\nexpansion history determined by latest BAO measurements. In addition, the\ncombined data has placed uncomfortably strong constraints on neutrino mass.\nBoth effects can be interpreted as negative neutrino mass, one describing the\nchange to the expansion history and the other one describing enhanced lensing.\nIn this paper, we show the current tensions can be solved with a single change\neither to the lensing of the CMB or the expansion of the universe. We show\nadditional lensing could arise from a variety of models with new light fields.\nHowever, these models rarely give the same signal in temperature and\npolarization, giving a concrete test of the scenario. Alternatively, dark\nsector models can explain the changes to the expansion by changing the\nevolution of the matter density. These models introduce new forces, giving rise\nto long range signals in the three-point statistics of galaxies. We discuss a\nrange of other examples which all illustrate the pattern that additional\nsignals should appear if these tensions are explained by beyond the Standard\nModel physics.",
+            "pdf_url": "http://arxiv.org/pdf/2508.20999v1",
+            "published": "2025-08-28 17:01:36+00:00",
+            "updated": "2025-08-28 17:01:36+00:00"
+        },
+        {
+            "title": "Radiation in Fluid/Gravity and the Flat Limit",
+            "authors": "Gabriel Arenas-Henriquez, Luca Ciambelli, Felipe Diaz, Weizhen Jia, David Rivera-Betancour",
+            "summary": "We explore asymptotically locally anti-de Sitter spacetimes exhibiting\ngravitational radiative behavior, employing null gauges that allow for a\nwell-defined flat limit. The radiative content in the bulk is captured by the\nboundary Cotton and stress tensor, which we collect into a radiative vector. We\nreinterpret this vector holographically in terms of fluid variables in the dual\nboundary theory. For algebraically special solutions, we uncover a close\nconnection between bulk radiation and dissipative corrections in the boundary\nstress tensor, demonstrating a direct link between radiation and entropy\nproduction in the boundary fluid. This reveals a rich interplay between\nradiative dynamics in the bulk and out-of-equilibrium conformal physics at the\nboundary. We then investigate the flat limit of this correspondence in the\ncontext of flat-space holography. In this setting, we construct a Carrollian\nanalogue of the radiative vector and introduce Celestial observables, such as\nenergy detectors, which emerge naturally from the bulk's radiative structure.\nOur analysis shows that bulk radiation sources the Carrollian viscous stress\ntensor and heat current, which encodes the Bondi news in this framework. We\nillustrate our results with explicit examples, including Robinson-Trautman\nspacetimes and accelerating black holes.",
+            "pdf_url": "http://arxiv.org/pdf/2508.01446v2",
+            "published": "2025-08-02 17:28:33+00:00",
+            "updated": "2025-08-28 16:58:49+00:00"
+        }
+    ],
+    "Diffusion": [
+        {
+            "title": "Dress&Dance: Dress up and Dance as You Like It - Technical Preview",
+            "authors": "Jun-Kun Chen, Aayush Bansal, Minh Phuoc Vo, Yu-Xiong Wang",
+            "summary": "We present Dress&Dance, a video diffusion framework that generates high\nquality 5-second-long 24 FPS virtual try-on videos at 1152x720 resolution of a\nuser wearing desired garments while moving in accordance with a given reference\nvideo. Our approach requires a single user image and supports a range of tops,\nbottoms, and one-piece garments, as well as simultaneous tops and bottoms\ntry-on in a single pass. Key to our framework is CondNet, a novel conditioning\nnetwork that leverages attention to unify multi-modal inputs (text, images, and\nvideos), thereby enhancing garment registration and motion fidelity. CondNet is\ntrained on heterogeneous training data, combining limited video data and a\nlarger, more readily available image dataset, in a multistage progressive\nmanner. Dress&Dance outperforms existing open source and commercial solutions\nand enables a high quality and flexible try-on experience.",
+            "pdf_url": "http://arxiv.org/pdf/2508.21070v1",
+            "published": "2025-08-28 17:59:55+00:00",
+            "updated": "2025-08-28 17:59:55+00:00"
+        },
+        {
+            "title": "Mixture of Contexts for Long Video Generation",
+            "authors": "Shengqu Cai, Ceyuan Yang, Lvmin Zhang, Yuwei Guo, Junfei Xiao, Ziyan Yang, Yinghao Xu, Zhenheng Yang, Alan Yuille, Leonidas Guibas, Maneesh Agrawala, Lu Jiang, Gordon Wetzstein",
+            "summary": "Long video generation is fundamentally a long context memory problem: models\nmust retain and retrieve salient events across a long range without collapsing\nor drifting. However, scaling diffusion transformers to generate long-context\nvideos is fundamentally limited by the quadratic cost of self-attention, which\nmakes memory and computation intractable and difficult to optimize for long\nsequences. We recast long-context video generation as an internal information\nretrieval task and propose a simple, learnable sparse attention routing module,\nMixture of Contexts (MoC), as an effective long-term memory retrieval engine.\nIn MoC, each query dynamically selects a few informative chunks plus mandatory\nanchors (caption, local windows) to attend to, with causal routing that\nprevents loop closures. As we scale the data and gradually sparsify the\nrouting, the model allocates compute to salient history, preserving identities,\nactions, and scenes over minutes of content. Efficiency follows as a byproduct\nof retrieval (near-linear scaling), which enables practical training and\nsynthesis, and the emergence of memory and consistency at the scale of minutes.",
+            "pdf_url": "http://arxiv.org/pdf/2508.21058v1",
+            "published": "2025-08-28 17:57:55+00:00",
+            "updated": "2025-08-28 17:57:55+00:00"
+        },
+        {
+            "title": "Inference-Time Alignment Control for Diffusion Models with Reinforcement Learning Guidance",
+            "authors": "Luozhijie Jin, Zijie Qiu, Jie Liu, Zijie Diao, Lifeng Qiao, Ning Ding, Alex Lamb, Xipeng Qiu",
+            "summary": "Denoising-based generative models, particularly diffusion and flow matching\nalgorithms, have achieved remarkable success. However, aligning their output\ndistributions with complex downstream objectives, such as human preferences,\ncompositional accuracy, or data compressibility, remains challenging. While\nreinforcement learning (RL) fine-tuning methods, inspired by advances in RL\nfrom human feedback (RLHF) for large language models, have been adapted to\nthese generative frameworks, current RL approaches are suboptimal for diffusion\nmodels and offer limited flexibility in controlling alignment strength after\nfine-tuning. In this work, we reinterpret RL fine-tuning for diffusion models\nthrough the lens of stochastic differential equations and implicit reward\nconditioning. We introduce Reinforcement Learning Guidance (RLG), an\ninference-time method that adapts Classifier-Free Guidance (CFG) by combining\nthe outputs of the base and RL fine-tuned models via a geometric average. Our\ntheoretical analysis shows that RLG's guidance scale is mathematically\nequivalent to adjusting the KL-regularization coefficient in standard RL\nobjectives, enabling dynamic control over the alignment-quality trade-off\nwithout further training. Extensive experiments demonstrate that RLG\nconsistently improves the performance of RL fine-tuned models across various\narchitectures, RL algorithms, and downstream tasks, including human\npreferences, compositional control, compressibility, and text rendering.\nFurthermore, RLG supports both interpolation and extrapolation, thereby\noffering unprecedented flexibility in controlling generative alignment. Our\napproach provides a practical and theoretically sound solution for enhancing\nand controlling diffusion model alignment at inference. The source code for RLG\nis publicly available at the Github:\nhttps://github.com/jinluo12345/Reinforcement-learning-guidance.",
+            "pdf_url": "http://arxiv.org/pdf/2508.21016v1",
+            "published": "2025-08-28 17:18:31+00:00",
+            "updated": "2025-08-28 17:18:31+00:00"
+        },
+        {
+            "title": "FFHFlow: Diverse and Uncertainty-Aware Dexterous Grasp Generation via Flow Variational Inference",
+            "authors": "Qian Feng, Jianxiang Feng, Zhaopeng Chen, Rudolph Triebel, Alois Knoll",
+            "summary": "Synthesizing diverse, uncertainty-aware grasps for multi-fingered hands from\npartial observations remains a critical challenge in robot learning. Prior\ngenerative methods struggle to model the intricate grasp distribution of\ndexterous hands and often fail to reason about shape uncertainty inherent in\npartial point clouds, leading to unreliable or overly conservative grasps. We\npropose FFHFlow, a flow-based variational framework that generates diverse,\nrobust multi-finger grasps while explicitly quantifying perceptual uncertainty\nin the partial point clouds. Our approach leverages a normalizing flow-based\ndeep latent variable model to learn a hierarchical grasp manifold, overcoming\nthe mode collapse and rigid prior limitations of conditional Variational\nAutoencoders (cVAEs). By exploiting the invertibility and exact likelihoods of\nflows, FFHFlow introspects shape uncertainty in partial observations and\nidentifies novel object structures, enabling risk-aware grasp synthesis. To\nfurther enhance reliability, we integrate a discriminative grasp evaluator with\nthe flow likelihoods, formulating an uncertainty-aware ranking strategy that\nprioritizes grasps robust to shape ambiguity. Extensive experiments in\nsimulation and real-world setups demonstrate that FFHFlow outperforms\nstate-of-the-art baselines (including diffusion models) in grasp diversity and\nsuccess rate, while achieving run-time efficient sampling. We also showcase its\npractical value in cluttered and confined environments, where diversity-driven\nsampling excels by mitigating collisions (Project Page:\nhttps://sites.google.com/view/ffhflow/home/).",
+            "pdf_url": "http://arxiv.org/pdf/2407.15161v3",
+            "published": "2024-07-21 13:33:08+00:00",
+            "updated": "2025-08-28 16:44:25+00:00"
+        },
+        {
+            "title": "Improving Fine-Grained Control via Aggregation of Multiple Diffusion Models",
+            "authors": "Conghan Yue, Zhengwei Peng, Shiyan Du, Zhi Ji, Chuangjian Cai, Le Wan, Dongyu Zhang",
+            "summary": "While many diffusion models perform well when controlling particular aspects\nsuch as style, character, and interaction, they struggle with fine-grained\ncontrol due to dataset limitations and intricate model architecture design.\nThis paper introduces a novel training-free algorithm, independent of denoising\nnetwork architectures, for fine-grained generation, called Aggregation of\nMultiple Diffusion Models (AMDM). The algorithm integrates features from\nmultiple diffusion models into a specified model to activate particular\nfeatures and enable fine-grained control. Experimental results demonstrate that\nAMDM significantly improves fine-grained control without training, validating\nits effectiveness. Additionally, it reveals that diffusion models initially\nfocus on features such as position, attributes, and style, with later stages\nimproving generation quality and consistency. AMDM offers a new perspective for\ntackling the challenges of fine-grained conditional generation in diffusion\nmodels. Specifically, it allows us to fully utilize existing or develop new\nconditional diffusion models that control specific aspects, and then aggregate\nthem using the AMDM algorithm. This eliminates the need for constructing\ncomplex datasets, designing intricate model architectures, and incurring high\ntraining costs. Code is available at: https://github.com/Hammour-steak/AMDM.",
+            "pdf_url": "http://arxiv.org/pdf/2410.01262v4",
+            "published": "2024-10-02 06:16:06+00:00",
+            "updated": "2025-08-28 14:03:26+00:00"
+        }
+    ],
+    "Quantitative Finance": [
+        {
+            "title": "Optimal Quoting under Adverse Selection and Price Reading",
+            "authors": "Alexander Barzykin, Philippe Bergault, Olivier Gu\u00e9ant, Malo Lemmel",
+            "summary": "Over the past decade, many dealers have implemented algorithmic models to\nautomatically respond to RFQs and manage flows originating from their\nelectronic platforms. In parallel, building on the foundational work of Ho and\nStoll, and later Avellaneda and Stoikov, the academic literature on market\nmaking has expanded to address trade size distributions, client tiering,\ncomplex price dynamics, alpha signals, and the internalization versus\nexternalization dilemma in markets with dealer-to-client and interdealer-broker\nsegments. In this paper, we tackle two critical dimensions: adverse selection,\narising from the presence of informed traders, and price reading, whereby the\nmarket maker's own quotes inadvertently reveal the direction of their\ninventory. These risks are well known to practitioners, who routinely face\ninformed flows and algorithms capable of extracting signals from quoting\nbehavior. Yet they have received limited attention in the quantitative finance\nliterature, beyond stylized toy models with limited actionability. Extending\nthe existing literature, we propose a tractable and implementable framework\nthat enables market makers to adjust their quotes with greater awareness of\ninformational risk.",
+            "pdf_url": "http://arxiv.org/pdf/2508.20225v1",
+            "published": "2025-08-27 19:04:52+00:00",
+            "updated": "2025-08-27 19:04:52+00:00"
+        }
+    ]
+}

@@ -201,6 +201,36 @@ TODO:
 
 
 
+
+## Update on 2025-08-29
+
+### Physics
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-08-28|2025-08-28|Physical constraints on effective non-Hermitian systems|Aaron Kleger|[2508.21067v1](http://arxiv.org/pdf/2508.21067v1)|
+|2025-08-28|2025-08-28|A Baryon and Lepton Number Violation Model Testable at the LHC|Amit Bhoonah|[2508.21064v1](http://arxiv.org/pdf/2508.21064v1)|
+|2025-08-28|2025-08-28|Prompt-to-Product: Generative Assembly via Bimanual Manipulation|Ruixuan Liu|[2508.21063v1](http://arxiv.org/pdf/2508.21063v1)|
+|2025-03-26|2025-08-28|Solvable Quantum Circuits in Tree+1 Dimensions|Oliver Breach|[2503.20927v2](http://arxiv.org/pdf/2503.20927v2)|
+|2025-08-28|2025-08-28|Response of AC-coupled Low Gain Avalanche Detectors to Ionizing and Non-ionizing Radiation Damage|Jiahe Si|[2508.21028v1](http://arxiv.org/pdf/2508.21028v1)|
+|2025-08-28|2025-08-28|Fast Convergence Rates for Subsampled Natural Gradient Algorithms on Quadratic Model Problems|Gil Goldshlager|[2508.21022v1](http://arxiv.org/pdf/2508.21022v1)|
+|2025-08-28|2025-08-28|Spectral density characteristics of self-organized structuring in phase-synchronized oscillator ensembles|Magnus F Ivarsen|[2508.21012v1](http://arxiv.org/pdf/2508.21012v1)|
+|2025-08-28|2025-08-28|Train-Once Plan-Anywhere Kinodynamic Motion Planning via Diffusion Trees|Yaniv Hassidof|[2508.21001v1](http://arxiv.org/pdf/2508.21001v1)|
+|2025-08-28|2025-08-28|Dark Forces Gathering|Peter W. Graham|[2508.20999v1](http://arxiv.org/pdf/2508.20999v1)|
+|2025-08-02|2025-08-28|Radiation in Fluid/Gravity and the Flat Limit|Gabriel Arenas-Henriquez|[2508.01446v2](http://arxiv.org/pdf/2508.01446v2)|
+
+### Diffusion
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-08-28|2025-08-28|Dress&Dance: Dress up and Dance as You Like It - Technical Preview|Jun-Kun Chen|[2508.21070v1](http://arxiv.org/pdf/2508.21070v1)|
+|2025-08-28|2025-08-28|Mixture of Contexts for Long Video Generation|Shengqu Cai|[2508.21058v1](http://arxiv.org/pdf/2508.21058v1)|
+|2025-08-28|2025-08-28|Inference-Time Alignment Control for Diffusion Models with Reinforcement Learning Guidance|Luozhijie Jin|[2508.21016v1](http://arxiv.org/pdf/2508.21016v1)|
+|2024-07-21|2025-08-28|FFHFlow: Diverse and Uncertainty-Aware Dexterous Grasp Generation via Flow Variational Inference|Qian Feng|[2407.15161v3](http://arxiv.org/pdf/2407.15161v3)|
+|2024-10-02|2025-08-28|Improving Fine-Grained Control via Aggregation of Multiple Diffusion Models|Conghan Yue|[2410.01262v4](http://arxiv.org/pdf/2410.01262v4)|
+
+### Quantitative Finance
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-08-27|2025-08-27|Optimal Quoting under Adverse Selection and Price Reading|Alexander Barzykin|[2508.20225v1](http://arxiv.org/pdf/2508.20225v1)|
 ## Update on 2025-08-27
 
 ### Physics
