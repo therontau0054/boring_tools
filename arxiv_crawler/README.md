@@ -202,6 +202,30 @@ TODO:
 
 
 
+
+## Update on 2025-09-01
+
+### Physics
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-08-29|2025-08-29|Suppression of errors in collectively coded information|Martin J. Falk|[2508.21806v1](http://arxiv.org/pdf/2508.21806v1)|
+|2025-08-29|2025-08-29|DynaMark: A Reinforcement Learning Framework for Dynamic Watermarking in Industrial Machine Tool Controllers|Navid Aftabi|[2508.21797v1](http://arxiv.org/pdf/2508.21797v1)|
+|2025-08-29|2025-08-29|Road map for the tuning of hadronic interaction models with accelerator-based and astroparticle data|Johannes Albrecht|[2508.21796v1](http://arxiv.org/pdf/2508.21796v1)|
+|2025-08-29|2025-08-29|Experimental measurement of quantum-first-passage-time distributions|Joseph M. Ryan|[2508.21790v1](http://arxiv.org/pdf/2508.21790v1)|
+|2025-08-29|2025-08-29|The Spontaneous Cascading Mechanism Behind Critical Phenomena in Self-Coupled Lasers|Jiaoqing Wang|[2508.21786v1](http://arxiv.org/pdf/2508.21786v1)|
+|2024-04-09|2025-08-29|Implications of computer science theory for the simulation hypothesis|David H. Wolpert|[2404.16050v3](http://arxiv.org/pdf/2404.16050v3)|
+|2025-08-29|2025-08-29|Probing $a_0(1450)$-meson leading-twist distribution amplitude and its effects to $D\to a_0(1450)\ell ν_{\ell}$|Ya-Lin Song|[2508.21750v1](http://arxiv.org/pdf/2508.21750v1)|
+|2025-04-16|2025-08-29|Factorization for Collider Dataspace Correlators|Andrew J. Larkoski|[2504.12380v3](http://arxiv.org/pdf/2504.12380v3)|
+|2025-08-08|2025-08-29|A lattice study of two dimensional SU(2) gauge theories with a single massless Majorana fermion|Rajamani Narayanan|[2508.05967v2](http://arxiv.org/pdf/2508.05967v2)|
+|2025-08-29|2025-08-29|Topological Magnon Frequency Combs|Zhixiong Li|[2508.21743v1](http://arxiv.org/pdf/2508.21743v1)|
+
+### Diffusion
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-08-29|2025-08-29|Achieving Hilbert-Schmidt Independence Under Rényi Differential Privacy for Fair and Private Data Generation|Tobias Hyrup|[2508.21815v1](http://arxiv.org/pdf/2508.21815v1)|
+|2025-08-29|2025-08-29|Tree-Guided Diffusion Planner|Hyeonseong Jeon|[2508.21800v1](http://arxiv.org/pdf/2508.21800v1)|
+|2025-08-29|2025-08-29|OptMark: Robust Multi-bit Diffusion Watermarking via Inference Time Optimization|Jiazheng Xing|[2508.21727v1](http://arxiv.org/pdf/2508.21727v1)|
+|2025-05-20|2025-08-29|From stability of Langevin diffusion to convergence of proximal MCMC for non-log-concave sampling|Marien Renaud|[2505.14177v2](http://arxiv.org/pdf/2505.14177v2)|
 ## Update on 2025-08-29
 
 ### Physics
