@@ -1,0 +1,136 @@
+{
+    "Physics": [
+        {
+            "title": "Floquet multiple exceptional points with higher-order skin effect",
+            "authors": "Gaurab Kumar Dash, Subhendu Kumar Patra, Diptiman Sen, Manisha Thakurathi",
+            "summary": "We investigate the rich non-equilibrium physics arising in periodically\ndriven open quantum systems, specifically those realized within microcavity\nresonators, whose dynamics are governed by a non-Hermitian Hamiltonian hosting\nFloquet Exceptional Points (FEPs). By introducing a periodically quenched\ndriving protocol, we analytically derive the Floquet effective Hamiltonian and\ndetermine the locations of multiple FEPs harbored within the Floquet bulk\nbands. We demonstrate that the pair-production and annihilation of these FEPs\ncan be precisely controlled by fine-tuning the system parameters, and zero and\n$\\pi$ FEPs are topologically characterized by robust integer quantized winding\nnumbers. To probe these singularities, we introduce a bi-orthogonal Floquet\nfidelity susceptibility, whose value exhibits large non-zero peaks at the\nmomentum points hosting FEPs in the Brillouin zone. Furthermore, the\nmomentum-summed susceptibility displays a sharp divergence when the number of\nFEPs change with respect to the time period of the drive. Our findings also\nreveal the emergence of Floquet edge states around zero energy and Dirac-like\ndispersion around $\\pi$. Moreover, our model reveals a higher-order skin\neffect, where the periodically driven Hamiltonian hosts skin modes localized at\nboth edges and corners. These insights offer novel avenues for the Floquet\nengineering of topological singularities in driven dissipative systems, with\nsignificant potential for manipulating light and matter at the microscale.",
+            "pdf_url": "http://arxiv.org/pdf/2509.02556v1",
+            "published": "2025-09-02 17:52:06+00:00",
+            "updated": "2025-09-02 17:52:06+00:00"
+        },
+        {
+            "title": "Bayesian inference favors quark matter in neutron star interiors",
+            "authors": "Alexander Ayriyan, Oleksii Ivanytskyi, David Blaschke",
+            "summary": "We perform a physics-informed Bayesian analyses of the equation of state of\nhybrid neutron stars that incorporates color-flavor-locked quark matter modeled\nby a three-flavor non-local Nambu-Jona-Lasinio framework with vector repulsion\nand diquark pairing. Contrary to the model-agnostic Bayesian analyses our\nscheme allows for distinguishing between the scenarios of neutron stars with\nquark cores and without them. The used quark model realizes asymptotic\nconformality at high densities in accordance with perturbative QCD. The\nhadronic sector is described by the density-dependent relativistic functional\nDD2Y-T, which satisfies chiral effective field theory constraints and includes\nhyperonic degrees of freedom. We construct a large set of candidate hybrid EOSs\nby varying the vector and diquark couplings and apply a Maxwell construction\nfor the quark-hadron phase transition. Observational constraints from recent\nNICER pulsar mass-radius measurements and tidal deformability from GW170817 are\nincorporated into the likelihood. Depending on whether the observational data\nfrom the black widow pulsar PSR J0952-0607 and the HESS J1731-347 object are\nincluded to the analysis or not, the posterior distribution favors vector and\ndiquark couplings around $(\\eta_V,\\eta_D)\\simeq (0.82,0.40)$ or\n$(\\eta_V,\\eta_D)\\simeq (0.64,0.36)$, respectively. This corresponds to\nequations of state that support two-solar-mass neutron stars with\nsuperconformal speed of sound and relatively low onset densities for\ndeconfinement. Our findings indicate that the most probable hybrid EOSs are\nstatistically preferred over the purely hadronic baseline. The corresponding\nprobabilities of agreeing with the observational data differ by one or two\norders of magnitude depending on the data set used. This suggests that quark\ncores may exist in all observed neutron stars.",
+            "pdf_url": "http://arxiv.org/pdf/2509.02554v1",
+            "published": "2025-09-02 17:50:38+00:00",
+            "updated": "2025-09-02 17:50:38+00:00"
+        },
+        {
+            "title": "On Transferring, Merging, and Splitting Task-Oriented Network Digital Twins",
+            "authors": "Zifan Zhang, Minghong Fang, Mingzhe Chen, Yuchen Liu",
+            "summary": "The integration of digital twinning technologies is driving next-generation\nnetworks toward new capabilities, allowing operators to thoroughly understand\nnetwork conditions, efficiently analyze valuable radio data, and innovate\napplications through user-friendly, immersive interfaces. Building on this\nfoundation, network digital twins (NDTs) accurately depict the operational\nprocesses and attributes of network infrastructures, facilitating predictive\nmanagement through real-time analysis and measurement. However, constructing\nprecise NDTs poses challenges, such as integrating diverse data sources,\nmapping necessary attributes from physical networks, and maintaining\nscalability for various downstream tasks. Unlike previous works that focused on\nthe creation and mapping of NDTs from scratch, we explore intra- and\ninter-operations among NDTs within a Unified Twin Transformation (UTT)\nframework, which uncovers a new computing paradigm for efficient transfer,\nmerging, and splitting of NDTs to create task-oriented twins. By leveraging\njoint multi-modal and distributed mapping mechanisms, UTT optimizes resource\nutilization and reduces the cost of creating NDTs, while ensuring twin model\nconsistency. A theoretical analysis of the distributed mapping problem is\nconducted to establish convergence bounds for this multi-modal gated\naggregation process. Evaluations on real-world twin-assisted applications, such\nas trajectory reconstruction, human localization, and sensory data generation,\ndemonstrate the feasibility and effectiveness of interoperability among NDTs\nfor corresponding task development.",
+            "pdf_url": "http://arxiv.org/pdf/2509.02551v1",
+            "published": "2025-09-02 17:48:52+00:00",
+            "updated": "2025-09-02 17:48:52+00:00"
+        },
+        {
+            "title": "Federated learning over physical channels: adaptive algorithms with near-optimal guarantees",
+            "authors": "Rui Zhang, Wenlong Mou",
+            "summary": "In federated learning, communication cost can be significantly reduced by\ntransmitting the information over the air through physical channels. In this\npaper, we propose a new class of adaptive federated stochastic gradient descent\n(SGD) algorithms that can be implemented over physical channels, taking into\naccount both channel noise and hardware constraints. We establish theoretical\nguarantees for the proposed algorithms, demonstrating convergence rates that\nare adaptive to the stochastic gradient noise level. We also demonstrate the\npractical effectiveness of our algorithms through simulation studies with deep\nlearning models.",
+            "pdf_url": "http://arxiv.org/pdf/2509.02538v1",
+            "published": "2025-09-02 17:40:27+00:00",
+            "updated": "2025-09-02 17:40:27+00:00"
+        },
+        {
+            "title": "Von Neumann Algebras in Double-Scaled SYK",
+            "authors": "Jiuci Xu",
+            "summary": "It has been argued that a finite effective temperature emerges and\ncharacterizes the thermal property of double-scaled SYK model in the infinite\ntemperature limit. Meanwhile, in the static patch of de Sitter, the maximally\nentangled state satisfies a KMS condition at infinite temperature, suggesting\nthe Type II$_1$ nature of the observable algebra gravitationally dressed to the\nobserver. In this work, we analyze the double-scaled algebra generated by chord\noperators in the double-scaled SYK model and demonstrate that it exhibits\nfeatures reflecting both perspectives. Specifically, we prove that the algebra\nis a Type II$_1$ factor, and that the empty state with no chord satisfies the\ntracial property, in agreement with expectations from earlier work. We further\nshow that this state is cyclic and separating for the double-scaled algebra,\nbased on which we explore its modular structure. We then explore various\nphysical limits of the theory, drawing connections to JT gravity, the Hilbert\nspace of baby universes, and Brownian double-scaled SYK. We also present\nanalytic solutions to the energy spectrum in both the zero- and one-particle\nsectors of the left/right chord Hamiltonian.",
+            "pdf_url": "http://arxiv.org/pdf/2403.09021v4",
+            "published": "2024-03-14 01:02:28+00:00",
+            "updated": "2025-09-02 17:36:56+00:00"
+        },
+        {
+            "title": "Additive realizations of asymptotically additive set maps",
+            "authors": "Raimundo Brice\u00f1o, Godofredo Iommi",
+            "summary": "Given a countable discrete amenable group, we study conditions under which a\nset map into a Banach space (or more generally, a complete semi-normed space)\ncan be realized as the ergodic sum of a vector under a group representation,\nsuch that the realization is asymptotically indistinguishable from the original\nmap. We show that for uniformly bounded group representations, this property is\ncharacterized by the class of bounded asymptotically additive set maps,\nextending previous work for sequences in Banach spaces and on the case of a\nsingle non-expansive linear map. Additionally, we develop a relative version of\nthis characterization, identifying when the additive realization can be chosen\nwithin a prescribed target set. As an application, our results generalize\ncentral aspects of thermodynamic formalism, bridging the additive and\nasymptotically additive frameworks.",
+            "pdf_url": "http://arxiv.org/pdf/2501.07282v2",
+            "published": "2025-01-13 12:49:15+00:00",
+            "updated": "2025-09-02 17:30:08+00:00"
+        },
+        {
+            "title": "Manipulation as in Simulation: Enabling Accurate Geometry Perception in Robots",
+            "authors": "Minghuan Liu, Zhengbang Zhu, Xiaoshen Han, Peng Hu, Haotong Lin, Xinyao Li, Jingxiao Chen, Jiafeng Xu, Yichu Yang, Yunfeng Lin, Xinghang Li, Yong Yu, Weinan Zhang, Tao Kong, Bingyi Kang",
+            "summary": "Modern robotic manipulation primarily relies on visual observations in a 2D\ncolor space for skill learning but suffers from poor generalization. In\ncontrast, humans, living in a 3D world, depend more on physical properties-such\nas distance, size, and shape-than on texture when interacting with objects.\nSince such 3D geometric information can be acquired from widely available depth\ncameras, it appears feasible to endow robots with similar perceptual\ncapabilities. Our pilot study found that using depth cameras for manipulation\nis challenging, primarily due to their limited accuracy and susceptibility to\nvarious types of noise. In this work, we propose Camera Depth Models (CDMs) as\na simple plugin on daily-use depth cameras, which take RGB images and raw depth\nsignals as input and output denoised, accurate metric depth. To achieve this,\nwe develop a neural data engine that generates high-quality paired data from\nsimulation by modeling a depth camera's noise pattern. Our results show that\nCDMs achieve nearly simulation-level accuracy in depth prediction, effectively\nbridging the sim-to-real gap for manipulation tasks. Notably, our experiments\ndemonstrate, for the first time, that a policy trained on raw simulated depth,\nwithout the need for adding noise or real-world fine-tuning, generalizes\nseamlessly to real-world robots on two challenging long-horizon tasks involving\narticulated, reflective, and slender objects, with little to no performance\ndegradation. We hope our findings will inspire future research in utilizing\nsimulation data and 3D information in general robot policies.",
+            "pdf_url": "http://arxiv.org/pdf/2509.02530v1",
+            "published": "2025-09-02 17:29:38+00:00",
+            "updated": "2025-09-02 17:29:38+00:00"
+        },
+        {
+            "title": "Quantum Pathways for Charged Track Finding in High-Energy Collisions",
+            "authors": "Christopher Brown, Michael Spannowsky, Alexander Tapper, Simon Williams, Ioannis Xiotidis",
+            "summary": "In high-energy particle collisions, charged track finding is a complex yet\ncrucial endeavour. We propose a quantum algorithm, specifically quantum\ntemplate matching, to enhance the accuracy and efficiency of track finding.\nAbstracting the Quantum Amplitude Amplification routine by introducing a data\nregister, and utilising a novel oracle construction, allows data to be parsed\nto the circuit and matched with a hit-pattern template, without prior knowledge\nof the input data. Furthermore, we address the challenges posed by missing hit\ndata, demonstrating the ability of the quantum template matching algorithm to\nsuccessfully identify charged-particle tracks from hit patterns with missing\nhits. Our findings therefore propose quantum methodologies tailored for\nreal-world applications and underline the potential of quantum computing in\ncollider physics.",
+            "pdf_url": "http://arxiv.org/pdf/2311.00766v2",
+            "published": "2023-11-01 18:13:59+00:00",
+            "updated": "2025-09-02 16:45:40+00:00"
+        },
+        {
+            "title": "Enhancing Quantum Field Theory Simulations on NISQ Devices with Hamiltonian Truncation",
+            "authors": "James Ingoldby, Michael Spannowsky, Timur Sypchenko, Simon Williams",
+            "summary": "Quantum computers can efficiently simulate highly entangled quantum systems,\noffering a solution to challenges facing classical simulation of Quantum Field\nTheories (QFTs). This paper presents an alternative to traditional methods for\nsimulating the real-time evolution in QFTs by leveraging Hamiltonian Truncation\n(HT). As a use case, we study the Schwinger model, systematically reducing the\ncomplexity of the Hamiltonian via HT while preserving essential physical\nproperties. For the observables studied in this paper, the HT approach\nconverges quickly with the number of qubits, allowing for the interesting\nphysics processes to be captured without needing many qubits. Identifying the\ntruncated free Hamiltonian's eigenbasis with the quantum device's computational\nbasis avoids the need for complicated and costly state preparation routines,\nreducing the algorithm's overall circuit depth and required coherence time. As\na result, the HT approach to simulating QFTs on a quantum device is well suited\nto Noisy-Intermediate Scale Quantum (NISQ) devices, which have a limited number\nof qubits and short coherence times. We validate our approach by running\nsimulations on a NISQ device, showcasing strong agreement with theoretical\npredictions. We highlight the potential of HT for simulating QFTs on quantum\nhardware.",
+            "pdf_url": "http://arxiv.org/pdf/2407.19022v2",
+            "published": "2024-07-26 18:03:20+00:00",
+            "updated": "2025-09-02 16:35:15+00:00"
+        },
+        {
+            "title": "HydroGAT: Distributed Heterogeneous Graph Attention Transformer for Spatiotemporal Flood Prediction",
+            "authors": "Aishwarya Sarkar, Autrin Hakimi, Xiaoqiong Chen, Hai Huang, Chaoqun Lu, Ibrahim Demir, Ali Jannesari",
+            "summary": "Accurate flood forecasting remains a challenge for water-resource management,\nas it demands modeling of local, time-varying runoff drivers (e.g.,\nrainfall-induced peaks, baseflow trends) and complex spatial interactions\nacross a river network. Traditional data-driven approaches, such as\nconvolutional networks and sequence-based models, ignore topological\ninformation about the region. Graph Neural Networks (GNNs) propagate\ninformation exactly along the river network, which is ideal for learning\nhydrological routing. However, state-of-the-art GNN-based flood prediction\nmodels collapse pixels to coarse catchment polygons as the cost of training\nexplodes with graph size and higher resolution. Furthermore, most existing\nmethods treat spatial and temporal dependencies separately, either applying\nGNNs solely on spatial graphs or transformers purely on temporal sequences,\nthus failing to simultaneously capture spatiotemporal interactions critical for\naccurate flood prediction. We introduce a heterogenous basin graph where every\nland and river pixel is a node connected by physical hydrological flow\ndirections and inter-catchment relationships. We propose HydroGAT, a\nspatiotemporal network that adaptively learns local temporal importance and the\nmost influential upstream locations. Evaluated in two Midwestern US basins and\nacross five baseline architectures, our model achieves higher NSE (up to 0.97),\nimproved KGE (up to 0.96), and low bias (PBIAS within $\\pm$5%) in hourly\ndischarge prediction, while offering interpretable attention maps that reveal\nsparse, structured intercatchment influences. To support high-resolution\nbasin-scale training, we develop a distributed data-parallel pipeline that\nscales efficiently up to 64 NVIDIA A100 GPUs on NERSC Perlmutter supercomputer,\ndemonstrating up to 15x speedup across machines. Our code is available at\nhttps://github.com/swapp-lab/HydroGAT.",
+            "pdf_url": "http://arxiv.org/pdf/2509.02481v1",
+            "published": "2025-09-02 16:31:40+00:00",
+            "updated": "2025-09-02 16:31:40+00:00"
+        }
+    ],
+    "Diffusion": [
+        {
+            "title": "Is RL fine-tuning harder than regression? A PDE learning approach for diffusion models",
+            "authors": "Wenlong Mou",
+            "summary": "We study the problem of learning the optimal control policy for fine-tuning a\ngiven diffusion process, using general value function approximation. We develop\na new class of algorithms by solving a variational inequality problem based on\nthe Hamilton-Jacobi-Bellman (HJB) equations. We prove sharp statistical rates\nfor the learned value function and control policy, depending on the complexity\nand approximation errors of the function class. In contrast to generic\nreinforcement learning problems, our approach shows that fine-tuning can be\nachieved via supervised regression, with faster statistical rate guarantees.",
+            "pdf_url": "http://arxiv.org/pdf/2509.02528v1",
+            "published": "2025-09-02 17:29:23+00:00",
+            "updated": "2025-09-02 17:29:23+00:00"
+        },
+        {
+            "title": "Goal-Conditioned Data Augmentation for Offline Reinforcement Learning",
+            "authors": "Xingshuai Huang, Di Wu, Benoit Boulet",
+            "summary": "Offline reinforcement learning (RL) enables policy learning from\npre-collected offline datasets, relaxing the need to interact directly with the\nenvironment. However, limited by the quality of offline datasets, it generally\nfails to learn well-qualified policies in suboptimal datasets. To address\ndatasets with insufficient optimal demonstrations, we introduce\nGoal-cOnditioned Data Augmentation (GODA), a novel goal-conditioned\ndiffusion-based method for augmenting samples with higher quality. Leveraging\nrecent advancements in generative modelling, GODA incorporates a novel\nreturn-oriented goal condition with various selection mechanisms. Specifically,\nwe introduce a controllable scaling technique to provide enhanced return-based\nguidance during data sampling. GODA learns a comprehensive distribution\nrepresentation of the original offline datasets while generating new data with\nselectively higher-return goals, thereby maximizing the utility of limited\noptimal demonstrations. Furthermore, we propose a novel adaptive gated\nconditioning method for processing noisy inputs and conditions, enhancing the\ncapture of goal-oriented guidance. We conduct experiments on the D4RL benchmark\nand real-world challenges, specifically traffic signal control (TSC) tasks, to\ndemonstrate GODA's effectiveness in enhancing data quality and superior\nperformance compared to state-of-the-art data augmentation methods across\nvarious offline RL algorithms.",
+            "pdf_url": "http://arxiv.org/pdf/2412.20519v2",
+            "published": "2024-12-29 16:42:30+00:00",
+            "updated": "2025-09-02 16:54:57+00:00"
+        },
+        {
+            "title": "RDIT: Residual-based Diffusion Implicit Models for Probabilistic Time Series Forecasting",
+            "authors": "Chih-Yu Lai, Yu-Chien Ning, Duane S. Boning",
+            "summary": "Probabilistic Time Series Forecasting (PTSF) plays a critical role in domains\nrequiring accurate and uncertainty-aware predictions for decision-making.\nHowever, existing methods offer suboptimal distribution modeling and suffer\nfrom a mismatch between training and evaluation metrics. Surprisingly, we found\nthat augmenting a strong point estimator with a zero-mean Gaussian, whose\nstandard deviation matches its training error, can yield state-of-the-art\nperformance in PTSF. In this work, we propose RDIT, a plug-and-play framework\nthat combines point estimation and residual-based conditional diffusion with a\nbidirectional Mamba network. We theoretically prove that the Continuous Ranked\nProbability Score (CRPS) can be minimized by adjusting to an optimal standard\ndeviation and then derive algorithms to achieve distribution matching.\nEvaluations on eight multivariate datasets across varied forecasting horizons\ndemonstrate that RDIT achieves lower CRPS, rapid inference, and improved\ncoverage compared to strong baselines.",
+            "pdf_url": "http://arxiv.org/pdf/2509.02341v1",
+            "published": "2025-09-02 14:06:29+00:00",
+            "updated": "2025-09-02 14:06:29+00:00"
+        },
+        {
+            "title": "Distribution estimation via Flow Matching with Lipschitz guarantees",
+            "authors": "Lea Kunkel",
+            "summary": "Flow Matching, a promising approach in generative modeling, has recently\ngained popularity. Relying on ordinary differential equations, it offers a\nsimple and flexible alternative to diffusion models, which are currently the\nstate-of-the-art. Despite its empirical success, the mathematical understanding\nof its statistical power so far is very limited. This is largely due to the\nsensitivity of theoretical bounds to the Lipschitz constant of the vector field\nwhich drives the ODE. In this work, we study the assumptions that lead to\ncontrolling this dependency. Based on these results, we derive a convergence\nrate for the Wasserstein $1$ distance between the estimated distribution and\nthe target distribution which improves previous results in high dimensional\nsetting. This rate applies to certain classes of unbounded distributions and\nparticularly does not require $\\log$-concavity.",
+            "pdf_url": "http://arxiv.org/pdf/2509.02337v1",
+            "published": "2025-09-02 14:04:11+00:00",
+            "updated": "2025-09-02 14:04:11+00:00"
+        },
+        {
+            "title": "Exploring Diffusion Models for Generative Forecasting of Financial Charts",
+            "authors": "Taegyeong Lee, Jiwon Park, Kyunga Bang, Seunghyun Hwang, Ung-Jin Jang",
+            "summary": "Recent advances in generative models have enabled significant progress in\ntasks such as generating and editing images from text, as well as creating\nvideos from text prompts, and these methods are being applied across various\nfields. However, in the financial domain, there may still be a reliance on\ntime-series data and a continued focus on transformer models, rather than on\ndiverse applications of generative models. In this paper, we propose a novel\napproach that leverages text-to-image model by treating time-series data as a\nsingle image pattern, thereby enabling the prediction of stock price trends.\nUnlike prior methods that focus on learning and classifying chart patterns\nusing architectures such as ResNet or ViT, we experiment with generating the\nnext chart image from the current chart image and an instruction prompt using\ndiffusion models. Furthermore, we introduce a simple method for evaluating the\ngenerated chart image against ground truth image. We highlight the potential of\nleveraging text-to-image generative models in the financial domain, and our\nfindings motivate further research to address the current limitations and\nexpand their applicability.",
+            "pdf_url": "http://arxiv.org/pdf/2509.02308v1",
+            "published": "2025-09-02 13:31:10+00:00",
+            "updated": "2025-09-02 13:31:10+00:00"
+        }
+    ],
+    "Quantitative Finance": [
+        {
+            "title": "Tabular Diffusion Counterfactual Explanations",
+            "authors": "Wei Zhang, Brian Barr, John Paisley",
+            "summary": "Counterfactual explanations methods provide an important tool in the field of\n{interpretable machine learning}. Recent advances in this direction have\nfocused on diffusion models to explain a deep classifier. However, these\ntechniques have predominantly focused on problems in computer vision. In this\npaper, we focus on tabular data typical in finance and the social sciences and\npropose a novel guided reverse process for categorical features based on an\napproximation to the Gumbel-softmax distribution. Furthermore, we study the\neffect of the temperature $\\tau$ and derive a theoretical bound between the\nGumbel-softmax distribution and our proposed approximated distribution. We\nperform experiments on several large-scale credit lending and other tabular\ndatasets, assessing their performance in terms of the quantitative measures of\ninterpretability, diversity, instability, and validity. These results indicate\nthat our approach outperforms popular baseline methods, producing robust and\nrealistic counterfactual explanations.",
+            "pdf_url": "http://arxiv.org/pdf/2509.00876v1",
+            "published": "2025-08-31 14:44:07+00:00",
+            "updated": "2025-08-31 14:44:07+00:00"
+        }
+    ]
+}

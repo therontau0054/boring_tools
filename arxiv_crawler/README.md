@@ -203,6 +203,36 @@ TODO:
 
 
 
+
+## Update on 2025-09-03
+
+### Physics
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-09-02|2025-09-02|Floquet multiple exceptional points with higher-order skin effect|Gaurab Kumar Dash|[2509.02556v1](http://arxiv.org/pdf/2509.02556v1)|
+|2025-09-02|2025-09-02|Bayesian inference favors quark matter in neutron star interiors|Alexander Ayriyan|[2509.02554v1](http://arxiv.org/pdf/2509.02554v1)|
+|2025-09-02|2025-09-02|On Transferring, Merging, and Splitting Task-Oriented Network Digital Twins|Zifan Zhang|[2509.02551v1](http://arxiv.org/pdf/2509.02551v1)|
+|2025-09-02|2025-09-02|Federated learning over physical channels: adaptive algorithms with near-optimal guarantees|Rui Zhang|[2509.02538v1](http://arxiv.org/pdf/2509.02538v1)|
+|2024-03-14|2025-09-02|Von Neumann Algebras in Double-Scaled SYK|Jiuci Xu|[2403.09021v4](http://arxiv.org/pdf/2403.09021v4)|
+|2025-01-13|2025-09-02|Additive realizations of asymptotically additive set maps|Raimundo Briceño|[2501.07282v2](http://arxiv.org/pdf/2501.07282v2)|
+|2025-09-02|2025-09-02|Manipulation as in Simulation: Enabling Accurate Geometry Perception in Robots|Minghuan Liu|[2509.02530v1](http://arxiv.org/pdf/2509.02530v1)|
+|2023-11-01|2025-09-02|Quantum Pathways for Charged Track Finding in High-Energy Collisions|Christopher Brown|[2311.00766v2](http://arxiv.org/pdf/2311.00766v2)|
+|2024-07-26|2025-09-02|Enhancing Quantum Field Theory Simulations on NISQ Devices with Hamiltonian Truncation|James Ingoldby|[2407.19022v2](http://arxiv.org/pdf/2407.19022v2)|
+|2025-09-02|2025-09-02|HydroGAT: Distributed Heterogeneous Graph Attention Transformer for Spatiotemporal Flood Prediction|Aishwarya Sarkar|[2509.02481v1](http://arxiv.org/pdf/2509.02481v1)|
+
+### Diffusion
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-09-02|2025-09-02|Is RL fine-tuning harder than regression? A PDE learning approach for diffusion models|Wenlong Mou|[2509.02528v1](http://arxiv.org/pdf/2509.02528v1)|
+|2024-12-29|2025-09-02|Goal-Conditioned Data Augmentation for Offline Reinforcement Learning|Xingshuai Huang|[2412.20519v2](http://arxiv.org/pdf/2412.20519v2)|
+|2025-09-02|2025-09-02|RDIT: Residual-based Diffusion Implicit Models for Probabilistic Time Series Forecasting|Chih-Yu Lai|[2509.02341v1](http://arxiv.org/pdf/2509.02341v1)|
+|2025-09-02|2025-09-02|Distribution estimation via Flow Matching with Lipschitz guarantees|Lea Kunkel|[2509.02337v1](http://arxiv.org/pdf/2509.02337v1)|
+|2025-09-02|2025-09-02|Exploring Diffusion Models for Generative Forecasting of Financial Charts|Taegyeong Lee|[2509.02308v1](http://arxiv.org/pdf/2509.02308v1)|
+
+### Quantitative Finance
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-08-31|2025-08-31|Tabular Diffusion Counterfactual Explanations|Wei Zhang|[2509.00876v1](http://arxiv.org/pdf/2509.00876v1)|
 ## Update on 2025-09-01
 
 ### Physics
