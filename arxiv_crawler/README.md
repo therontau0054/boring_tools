@@ -204,6 +204,31 @@ TODO:
 
 
 
+
+## Update on 2025-09-05
+
+### Physics
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-09-04|2025-09-04|Low-rank matrix and tensor approximations: advancing efficiency of machine-learning interatomic potentials|Igor Vorotnikov|[2509.04440v1](http://arxiv.org/pdf/2509.04440v1)|
+|2025-09-04|2025-09-04|Time, quantum entanglement, and particle decay|J. A. Aguilar-Saavedra|[2509.04436v1](http://arxiv.org/pdf/2509.04436v1)|
+|2025-09-04|2025-09-04|$^{171}$Yb Reference Data|Ronen M. Kroeze|[2509.04416v1](http://arxiv.org/pdf/2509.04416v1)|
+|2025-04-07|2025-09-04|Closed-Loop Neural Operator-Based Observer of Traffic Density|Alice Harting|[2504.04873v2](http://arxiv.org/pdf/2504.04873v2)|
+|2025-09-04|2025-09-04|On $τ$ Spin Use with KKMCee|J. M. John|[2509.04400v1](http://arxiv.org/pdf/2509.04400v1)|
+|2025-09-04|2025-09-04|Constructing a Photonic Implementation of Quantum Key Distribution|Alec L. Riso|[2509.04389v1](http://arxiv.org/pdf/2509.04389v1)|
+|2025-09-04|2025-09-04|3HDM with softly broken $Δ(54)$ and $Σ(36)$|Gonçalo Barreto|[2509.04369v1](http://arxiv.org/pdf/2509.04369v1)|
+|2025-09-04|2025-09-04|Sensitivities of time-dependent temperature profile predictions for NSTX with the Multi-Mode Model|J. B. Lestz|[2509.04360v1](http://arxiv.org/pdf/2509.04360v1)|
+|2025-09-04|2025-09-04|Assessing time-dependent temperature profile predictions using reduced transport models for high performing NSTX plasmas|J. B. Lestz|[2509.04359v1](http://arxiv.org/pdf/2509.04359v1)|
+|2025-09-04|2025-09-04|An exploratory calculation of $K_{\rm L}\toμ^+μ^-$ decay from Lattice QCD at physical pion mass|Peter Boyle|[2509.04346v1](http://arxiv.org/pdf/2509.04346v1)|
+
+### Diffusion
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-09-04|2025-09-04|Transition Models: Rethinking the Generative Learning Objective|Zidong Wang|[2509.04394v1](http://arxiv.org/pdf/2509.04394v1)|
+|2025-09-04|2025-09-04|SSGaussian: Semantic-Aware and Structure-Preserving 3D Style Transfer|Jimin Xu|[2509.04379v1](http://arxiv.org/pdf/2509.04379v1)|
+|2025-09-04|2025-09-04|Connections between reinforcement learning with feedback,test-time scaling, and diffusion guidance: An anthology|Yuchen Jiao|[2509.04372v1](http://arxiv.org/pdf/2509.04372v1)|
+|2025-09-04|2025-09-04|From Editor to Dense Geometry Estimator|JiYuan Wang|[2509.04338v1](http://arxiv.org/pdf/2509.04338v1)|
+|2023-12-07|2025-09-04|Style Transfer to Calvin and Hobbes comics using Stable Diffusion|Asvin Kumar Venkataramanan|[2312.03993v2](http://arxiv.org/pdf/2312.03993v2)|
 ## Update on 2025-09-03
 
 ### Physics
