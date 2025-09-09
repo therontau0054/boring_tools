@@ -205,6 +205,36 @@ TODO:
 
 
 
+
+## Update on 2025-09-09
+
+### Physics
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-09-08|2025-09-08|Neutron Reflectometry by Gradient Descent|Max D. ~Champneys|[2509.06924v1](http://arxiv.org/pdf/2509.06924v1)|
+|2025-08-14|2025-09-08|On CP-violation and quark masses: reducing the number of free parameters|A. Kleppe|[2508.11081v2](http://arxiv.org/pdf/2508.11081v2)|
+|2025-04-25|2025-09-08|Targets for Flavor-Violating Top Decay|Wolfgang Altmannshofer|[2504.18664v2](http://arxiv.org/pdf/2504.18664v2)|
+|2025-09-08|2025-09-08|Tensor Network based Gene Regulatory Network Inference for Single-Cell Transcriptomic Data|Olatz Sanz Larrarte|[2509.06891v1](http://arxiv.org/pdf/2509.06891v1)|
+|2025-09-05|2025-09-08|LatticeWorld: A Multimodal Large Language Model-Empowered Framework for Interactive Complex World Generation|Yinglin Duan|[2509.05263v2](http://arxiv.org/pdf/2509.05263v2)|
+|2025-09-08|2025-09-08|Characterization of low-nitrogen quantum diamond for pulsed magnetometry applications|Jiashen Tang|[2509.06884v1](http://arxiv.org/pdf/2509.06884v1)|
+|2025-09-08|2025-09-08|Benchmarking Single-Qubit Gates on a Neutral Atom Quantum Processor|Artem Rozanov|[2509.06881v1](http://arxiv.org/pdf/2509.06881v1)|
+|2024-08-16|2025-09-08|Quantum convolutional neural networks for jet images classification|Hala Elhag|[2408.08701v3](http://arxiv.org/pdf/2408.08701v3)|
+|2025-09-08|2025-09-08|Learning spatially structured open quantum dynamics with regional-attention transformers|Dounan Du|[2509.06871v1](http://arxiv.org/pdf/2509.06871v1)|
+|2025-09-08|2025-09-08|Seeing the Forest Through the Trees: Knowledge Retrieval for Streamlining Particle Physics Analysis|James McGreivy|[2509.06855v1](http://arxiv.org/pdf/2509.06855v1)|
+
+### Diffusion
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-09-08|2025-09-08|Directly Aligning the Full Diffusion Trajectory with Fine-Grained Human Preference|Xiangwei Shen|[2509.06942v1](http://arxiv.org/pdf/2509.06942v1)|
+|2025-09-08|2025-09-08|floq: Training Critics via Flow-Matching for Scaling Compute in Value-Based RL|Bhavya Agrawalla|[2509.06863v1](http://arxiv.org/pdf/2509.06863v1)|
+|2025-09-08|2025-09-08|UMO: Scaling Multi-Identity Consistency for Image Customization via Matching Reward|Yufeng Cheng|[2509.06818v1](http://arxiv.org/pdf/2509.06818v1)|
+|2024-12-10|2025-09-08|Sequential Controlled Langevin Diffusions|Junhua Chen|[2412.07081v2](http://arxiv.org/pdf/2412.07081v2)|
+|2024-03-28|2025-09-08|Fairness-Aware Data Augmentation for Cardiac MRI using Text-Conditioned Diffusion Models|Grzegorz Skorupko|[2403.19508v2](http://arxiv.org/pdf/2403.19508v2)|
+
+### Quantitative Finance
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-09-04|2025-09-04|Finance-Grounded Optimization For Algorithmic Trading|Kasymkhan Khubiev|[2509.04541v1](http://arxiv.org/pdf/2509.04541v1)|
 ## Update on 2025-09-05
 
 ### Physics
