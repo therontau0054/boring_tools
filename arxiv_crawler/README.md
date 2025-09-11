@@ -206,6 +206,31 @@ TODO:
 
 
 
+
+## Update on 2025-09-11
+
+### Physics
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-05-12|2025-09-10|Thermoelectric processes of quantum normal-superconductor interfaces|L. Arrachea|[2505.07426v2](http://arxiv.org/pdf/2505.07426v2)|
+|2025-09-10|2025-09-10|A Pathway to Practical Quantum Advantage in Solving Navier-Stokes Equations|Xi-Ning Zhuang|[2509.08807v1](http://arxiv.org/pdf/2509.08807v1)|
+|2025-09-10|2025-09-10|Using machine learning to downscale coarse-resolution environmental variables for understanding the spatial frequency of convective storms|Hungjui Yu|[2509.08802v1](http://arxiv.org/pdf/2509.08802v1)|
+|2025-05-29|2025-09-10|Whose Name Comes Up? Auditing LLM-Based Scholar Recommendations|Daniele Barolo|[2506.00074v2](http://arxiv.org/pdf/2506.00074v2)|
+|2025-09-10|2025-09-10|Design-GenNO: A Physics-Informed Generative Model with Neural Operators for Inverse Microstructure Design|Yaohua Zang|[2509.08749v1](http://arxiv.org/pdf/2509.08749v1)|
+|2025-09-10|2025-09-10|DEQuify your force field: More efficient simulations using deep equilibrium models|Andreas Burger|[2509.08734v1](http://arxiv.org/pdf/2509.08734v1)|
+|2025-09-09|2025-09-10|RINO: Renormalization Group Invariance with No Labels|Zichun Hao|[2509.07486v2](http://arxiv.org/pdf/2509.07486v2)|
+|2025-09-10|2025-09-10|Feynman paradox induced by vacuum and thermal fluctuations|Svend-Age Biehs|[2509.08711v1](http://arxiv.org/pdf/2509.08711v1)|
+|2025-09-10|2025-09-10|Quantifying model prediction sensitivity to model-form uncertainty|Teresa Portone|[2509.08708v1](http://arxiv.org/pdf/2509.08708v1)|
+|2025-03-25|2025-09-10|Solar System Constraints on Light Propagation from Higher Derivative Corrections to General Relativity and Implications for Fundamental Physics|Mark P. Hertzberg|[2503.19236v3](http://arxiv.org/pdf/2503.19236v3)|
+
+### Diffusion
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-03-12|2025-09-10|Reangle-A-Video: 4D Video Generation as Video-to-Video Translation|Hyeonho Jeong|[2503.09151v3](http://arxiv.org/pdf/2503.09151v3)|
+|2025-09-10|2025-09-10|Learning Turbulent Flows with Generative Models: Super-resolution, Forecasting, and Sparse Flow Reconstruction|Vivek Oommen|[2509.08752v1](http://arxiv.org/pdf/2509.08752v1)|
+|2025-09-10|2025-09-10|Data-driven generative simulation of SDEs using diffusion models|Xuefeng Gao|[2509.08731v1](http://arxiv.org/pdf/2509.08731v1)|
+|2025-09-07|2025-09-10|BranchGRPO: Stable and Efficient GRPO with Structured Branching in Diffusion Models|Yuming Li|[2509.06040v3](http://arxiv.org/pdf/2509.06040v3)|
+|2025-09-10|2025-09-10|Prompt-Driven Image Analysis with Multimodal Generative AI: Detection, Segmentation, Inpainting, and Interpretation|Kaleem Ahmad|[2509.08489v1](http://arxiv.org/pdf/2509.08489v1)|
 ## Update on 2025-09-09
 
 ### Physics
