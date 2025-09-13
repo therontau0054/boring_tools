@@ -207,6 +207,31 @@ TODO:
 
 
 
+
+## Update on 2025-09-13
+
+### Physics
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-09-11|2025-09-11|Bogoliubov quasi-particles in superconductors are integer-charged particles inapplicable for braiding quantum information|Zhiyu Fan|[2509.09663v1](http://arxiv.org/pdf/2509.09663v1)|
+|2024-07-31|2025-09-11|Lanczos algorithm for lattice QCD matrix elements|Daniel C. Hackett|[2407.21777v2](http://arxiv.org/pdf/2407.21777v2)|
+|2025-08-12|2025-09-11|Identification of phase correlations in Financial Stock Market Turbulence|Kiran Sharma|[2508.20105v2](http://arxiv.org/pdf/2508.20105v2)|
+|2025-09-11|2025-09-11|Resource quantification for programming low-depth quantum circuits|Entong He|[2509.09642v1](http://arxiv.org/pdf/2509.09642v1)|
+|2025-04-03|2025-09-11|Chirality-Driven Magnetization Emerges from Relativistic Four-Current Dynamics|Shiv Upadhyay|[2504.03781v2](http://arxiv.org/pdf/2504.03781v2)|
+|2024-06-15|2025-09-11|Joint parameter estimations for spin glasses|Wei-Kuo Chen|[2406.10760v2](http://arxiv.org/pdf/2406.10760v2)|
+|2025-09-11|2025-09-11|Functional Groups are All you Need for Chemically Interpretable Molecular Property Prediction|Roshan Balaji|[2509.09619v1](http://arxiv.org/pdf/2509.09619v1)|
+|2025-09-11|2025-09-11|ReBaNO: Reduced Basis Neural Operator Mitigating Generalization Gaps and Achieving Discretization Invariance|Haolan Zheng|[2509.09611v1](http://arxiv.org/pdf/2509.09611v1)|
+|2025-09-11|2025-09-11|Are arXiv submissions on Wednesday better cited? Introducing Big Data methods in undergraduate courses on scientific computing|Stéphane Delorme|[2509.09601v1](http://arxiv.org/pdf/2509.09601v1)|
+|2025-09-11|2025-09-11|Programmable 200 GOPS Hopfield-inspired photonic Ising machine|Nayem AL-Kayed|[2509.09581v1](http://arxiv.org/pdf/2509.09581v1)|
+
+### Diffusion
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-09-11|2025-09-11|Mechanistic Learning with Guided Diffusion Models to Predict Spatio-Temporal Brain Tumor Growth|Daria Laslo|[2509.09610v1](http://arxiv.org/pdf/2509.09610v1)|
+|2025-09-11|2025-09-11|Improving Video Diffusion Transformer Training by Multi-Feature Fusion and Alignment from Self-Supervised Vision Encoders|Dohun Lee|[2509.09547v1](http://arxiv.org/pdf/2509.09547v1)|
+|2025-09-11|2025-09-11|Explainable AI for Accelerated Microstructure Imaging: A SHAP-Guided Protocol on the Connectome 2.0 scanner|Quentin Uhl|[2509.09513v1](http://arxiv.org/pdf/2509.09513v1)|
+|2025-09-03|2025-09-11|Learning functions through Diffusion Maps|Alvaro Almeida Gomez|[2509.03758v2](http://arxiv.org/pdf/2509.03758v2)|
+|2025-09-11|2025-09-11|SEDM: Scalable Self-Evolving Distributed Memory for Agents|Haoran Xu|[2509.09498v1](http://arxiv.org/pdf/2509.09498v1)|
 ## Update on 2025-09-11
 
 ### Physics
