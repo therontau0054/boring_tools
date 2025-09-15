@@ -208,6 +208,36 @@ TODO:
 
 
 
+
+## Update on 2025-09-15
+
+### Physics
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-09-12|2025-09-12|Gravitational Wave Signature and the Nature of Neutrino Masses: Majorana, Dirac, or Pseudo-Dirac?|Sudip Jana|[2509.10456v1](http://arxiv.org/pdf/2509.10456v1)|
+|2025-09-12|2025-09-12|New opportunities for rare charm from $Z\to c\bar{c}$ decays|Angelo Di Canto|[2509.10447v1](http://arxiv.org/pdf/2509.10447v1)|
+|2025-09-12|2025-09-12|Near-Hamiltonian dynamics and energy-like quantities of next-generation neural mass models|Daniele Andrean|[2509.10428v1](http://arxiv.org/pdf/2509.10428v1)|
+|2025-09-12|2025-09-12|Provable avoidance of barren plateaus for GM-QAOA|Boris Tsvelikhovskiy|[2509.10424v1](http://arxiv.org/pdf/2509.10424v1)|
+|2025-04-28|2025-09-12|Emergence of Dark Phases in Scalar Particles within the Schwarzschild-Kiselev-Letelier Spacetime|B. V. Simão|[2504.20287v3](http://arxiv.org/pdf/2504.20287v3)|
+|2025-09-12|2025-09-12|Multipole Semantic Attention: A Fast Approximation of Softmax Attention for Pretraining|Rupert Mitchell|[2509.10406v1](http://arxiv.org/pdf/2509.10406v1)|
+|2024-10-04|2025-09-12|Is the $w_0w_a$CDM cosmological parameterization evidence for dark energy dynamics partially caused by the excess smoothing of Planck CMB anisotropy data?|Chan-Gyung Park|[2410.13627v3](http://arxiv.org/pdf/2410.13627v3)|
+|2025-09-12|2025-09-12|Sparse modeling study of extracting charmonium spectral functions from lattice QCD at finite temperature|Junichi Takahashi|[2509.10386v1](http://arxiv.org/pdf/2509.10386v1)|
+|2025-09-12|2025-09-12|Physics-informed sensor coverage through structure preserving machine learning|Benjamin David Shaffer|[2509.10363v1](http://arxiv.org/pdf/2509.10363v1)|
+|2025-09-12|2025-09-12|First operation of the FAMU experiment at the RIKEN-RAL high intensity muon beam facility|FAMU Collaboration|[2509.10350v1](http://arxiv.org/pdf/2509.10350v1)|
+
+### Diffusion
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-09-12|2025-09-12|Inpainting-Guided Policy Optimization for Diffusion Large Language Models|Siyan Zhao|[2509.10396v1](http://arxiv.org/pdf/2509.10396v1)|
+|2025-05-01|2025-09-12|The Precautionary Principle and the Innovation Principle: Incompatible Guides for AI Innovation Governance?|Kim Kaivanto|[2505.02846v2](http://arxiv.org/pdf/2505.02846v2)|
+|2025-09-12|2025-09-12|P3D: Scalable Neural Surrogates for High-Resolution 3D Physics Simulations with Global Context|Benjamin Holzschuh|[2509.10186v1](http://arxiv.org/pdf/2509.10186v1)|
+|2025-06-03|2025-09-12|Diffusion Buffer: Online Diffusion-based Speech Enhancement with Sub-Second Latency|Bunlong Lay|[2506.02908v2](http://arxiv.org/pdf/2506.02908v2)|
+|2025-09-12|2025-09-12|Realism Control One-step Diffusion for Real-World Image Super-Resolution|Zongliang Wu|[2509.10122v1](http://arxiv.org/pdf/2509.10122v1)|
+
+### Quantitative Finance
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-09-10|2025-09-10|A Role-Aware Multi-Agent Framework for Financial Education Question Answering with LLMs|Andy Zhu|[2509.09727v1](http://arxiv.org/pdf/2509.09727v1)|
 ## Update on 2025-09-13
 
 ### Physics
