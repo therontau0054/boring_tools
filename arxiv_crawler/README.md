@@ -209,6 +209,38 @@ TODO:
 
 
 
+
+## Update on 2025-09-17
+
+### Physics
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-07-10|2025-09-16|Conformal prediction for uncertainties in nucleon-nucleon scattering|Habib Yousefi Dezdarani|[2507.08085v2](http://arxiv.org/pdf/2507.08085v2)|
+|2025-09-16|2025-09-16|How Theory-Informed Priors Affect DESI Evidence for Evolving Dark Energy|Michael W. Toomey|[2509.13318v1](http://arxiv.org/pdf/2509.13318v1)|
+|2025-09-16|2025-09-16|Configurational Temperature as a Diagnostic for Complex Langevin Dynamics in the 3D XY Model|Anosh Joseph|[2509.13314v1](http://arxiv.org/pdf/2509.13314v1)|
+|2025-09-16|2025-09-16|Mixed Triplet-Singlet Order Parameter in Decoupled Superconducting 1H Monolayers of Transition-Metal Dichalcogenides|Avior Almoalem|[2509.13303v1](http://arxiv.org/pdf/2509.13303v1)|
+|2025-09-16|2025-09-16|QDFlow: A Python package for physics simulations of quantum dot devices|Donovan L. Buterakos|[2509.13298v1](http://arxiv.org/pdf/2509.13298v1)|
+|2024-04-25|2025-09-16|Higgs Phases and Boundary Criticality|Kristian Tyn Kai Chung|[2404.17001v2](http://arxiv.org/pdf/2404.17001v2)|
+|2025-06-06|2025-09-16|Flavour and cosmological probes of Diracon models|Salvador Centelles Chuliá|[2506.06449v2](http://arxiv.org/pdf/2506.06449v2)|
+|2025-09-16|2025-09-16|Emergent structures in open EFTs|Perseas Christodoulidis|[2509.13284v1](http://arxiv.org/pdf/2509.13284v1)|
+|2025-09-16|2025-09-16|HARMONIC: A Content-Centric Cognitive Robotic Architecture|Sanjay Oruganti|[2509.13279v1](http://arxiv.org/pdf/2509.13279v1)|
+|2025-07-07|2025-09-16|OGF: An Online Gradient Flow Method for Optimizing the Statistical Steady-State Time Averages of Unsteady Turbulent Flows|Tom Hickling|[2507.05149v2](http://arxiv.org/pdf/2507.05149v2)|
+
+### Diffusion
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-01-31|2025-09-16|Pitfalls of defacing whole-head MRI: re-identification risk with diffusion models and compromised research potential|Chenyu Gao|[2501.18834v2](http://arxiv.org/pdf/2501.18834v2)|
+|2025-09-16|2025-09-16|Discovering Mathematical Equations with Diffusion Language Model|Xiaoxu Han|[2509.13136v1](http://arxiv.org/pdf/2509.13136v1)|
+|2024-07-30|2025-09-16|Informed Correctors for Discrete Diffusion Models|Yixiu Zhao|[2407.21243v4](http://arxiv.org/pdf/2407.21243v4)|
+|2025-09-16|2025-09-16|MIA-EPT: Membership Inference Attack via Error Prediction for Tabular Data|Eyal German|[2509.13046v1](http://arxiv.org/pdf/2509.13046v1)|
+|2025-07-03|2025-09-16|AC-Refiner: Efficient Arithmetic Circuit Optimization Using Conditional Diffusion Models|Chenhao Xue|[2507.02598v2](http://arxiv.org/pdf/2507.02598v2)|
+
+### Quantitative Finance
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-09-16|2025-09-16|DeltaHedge: A Multi-Agent Framework for Portfolio Options Optimization|Feliks Bańka|[2509.12753v1](http://arxiv.org/pdf/2509.12753v1)|
+|2025-09-12|2025-09-12|SCOR: A Framework for Responsible AI Innovation in Digital Ecosystems|Mohammad Saleh Torkestani|[2509.10653v1](http://arxiv.org/pdf/2509.10653v1)|
+|2025-09-12|2025-09-12|pySigLib -- Fast Signature-Based Computations on CPU and GPU|Daniil Shmelev|[2509.10613v1](http://arxiv.org/pdf/2509.10613v1)|
 ## Update on 2025-09-15
 
 ### Physics
