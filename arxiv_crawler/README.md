@@ -210,6 +210,31 @@ TODO:
 
 
 
+
+## Update on 2025-09-19
+
+### Physics
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2024-09-17|2025-09-18|A mathematical model for Nordic skiing|Jane Shaw MacDonald|[2410.02767v2](http://arxiv.org/pdf/2410.02767v2)|
+|2025-09-18|2025-09-18|Top- and bottom-heavy vertical velocity structures: physical modes of layered atmospheric models|Fiaz Ahmed|[2509.15166v1](http://arxiv.org/pdf/2509.15166v1)|
+|2025-09-18|2025-09-18|Super resonance: Breaking the bandwidth limit of resonant modes and its application to flow control|Adam R. Harris|[2509.15142v1](http://arxiv.org/pdf/2509.15142v1)|
+|2025-09-18|2025-09-18|Learning Mechanistic Subtypes of Neurodegeneration with a Physics-Informed Variational Autoencoder Mixture Model|Sanduni Pinnawala|[2509.15124v1](http://arxiv.org/pdf/2509.15124v1)|
+|2025-09-18|2025-09-18|Shedding Light on Dark Matter at the LHC with Machine Learning|Ernesto Arganda|[2509.15121v1](http://arxiv.org/pdf/2509.15121v1)|
+|2025-09-18|2025-09-18|Low-rank surrogate modeling and stochastic zero-order optimization for training of neural networks with black-box layers|Andrei Chertkov|[2509.15113v1](http://arxiv.org/pdf/2509.15113v1)|
+|2025-09-18|2025-09-18|Zero Indirect Band Gap in Non-Hermitian Systems|Rahul S|[2509.15102v1](http://arxiv.org/pdf/2509.15102v1)|
+|2025-09-18|2025-09-18|A zero-dead-time strontium lattice clock with a stability at $10^{-19}$ level|Xiao-Yong Liu|[2509.15100v1](http://arxiv.org/pdf/2509.15100v1)|
+|2025-09-18|2025-09-18|Precise measurement of the $t\bar{t}$ production cross-section and lepton differential distributions in $eμ$ dilepton events from $\sqrt{s}=13$ TeV $pp$ collisions with the ATLAS detector|ATLAS Collaboration|[2509.15066v1](http://arxiv.org/pdf/2509.15066v1)|
+|2025-01-22|2025-09-18|Advanced Physics-Informed Neural Network with Residuals for Solving Complex Integral Equations|Mahdi Movahedian Moghaddam|[2501.16370v3](http://arxiv.org/pdf/2501.16370v3)|
+
+### Diffusion
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-09-18|2025-09-18|Fast and Fluent Diffusion Language Models via Convolutional Decoding and Rejective Fine-tuning|Yeongbin Seo|[2509.15188v1](http://arxiv.org/pdf/2509.15188v1)|
+|2025-09-18|2025-09-18|AnoF-Diff: One-Step Diffusion-Based Anomaly Detection for Forceful Tool Use|Yating Lin|[2509.15153v1](http://arxiv.org/pdf/2509.15153v1)|
+|2025-08-15|2025-09-18|Probing the Representational Power of Sparse Autoencoders in Vision Models|Matthew Lyle Olson|[2508.11277v2](http://arxiv.org/pdf/2508.11277v2)|
+|2025-09-18|2025-09-18|WorldForge: Unlocking Emergent 3D/4D Generation in Video Diffusion Model via Training-Free Guidance|Chenxi Song|[2509.15130v1](http://arxiv.org/pdf/2509.15130v1)|
+|2025-09-18|2025-09-18|M4Diffuser: Multi-View Diffusion Policy with Manipulability-Aware Control for Robust Mobile Manipulation|Ju Dong|[2509.14980v1](http://arxiv.org/pdf/2509.14980v1)|
 ## Update on 2025-09-17
 
 ### Physics
