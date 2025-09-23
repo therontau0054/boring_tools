@@ -211,6 +211,36 @@ TODO:
 
 
 
+
+## Update on 2025-09-23
+
+### Physics
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-09-22|2025-09-22|Electronic structure and optical signatures of highly-doped graphene|Saúl Antonio Herrera-González|[2509.18098v1](http://arxiv.org/pdf/2509.18098v1)|
+|2025-09-22|2025-09-22|Pseudogap in a Fermi-Hubbard quantum simulator|Lev Haldar Kendrick|[2509.18075v1](http://arxiv.org/pdf/2509.18075v1)|
+|2025-09-15|2025-09-22|Neuromorphic Intelligence|Marcel van Gerven|[2509.11940v2](http://arxiv.org/pdf/2509.11940v2)|
+|2025-09-22|2025-09-22|Exploring molecular supersolidity via exact and mean-field theories: single microwave shielding|Tiziano Arnone Cardinale|[2509.18051v1](http://arxiv.org/pdf/2509.18051v1)|
+|2025-09-22|2025-09-22|Global stability of ghostly field theories: Classical scattering in $(N+1)$ dimensions|Aaron Held|[2509.18049v1](http://arxiv.org/pdf/2509.18049v1)|
+|2025-09-22|2025-09-22|Analysis of polymerized superconducting circuits|Sean Crowe|[2509.18016v1](http://arxiv.org/pdf/2509.18016v1)|
+|2025-09-22|2025-09-22|Building Transparency in Deep Learning-Powered Network Traffic Classification: A Traffic-Explainer Framework|Riya Ponraj|[2509.18007v1](http://arxiv.org/pdf/2509.18007v1)|
+|2024-11-12|2025-09-22|Gravity from thermodynamics in vacuum: Lorentz invariance and the role of Bel-Robinson tensor|Ana Alonso-Serrano|[2411.07856v2](http://arxiv.org/pdf/2411.07856v2)|
+|2025-09-22|2025-09-22|Hybrid Electromagnetic Calorimeter Module: Enhanced Performance through Integration of Silicon Pixel Layer into Scintillator Design|Jia-Le Fei|[2509.17997v1](http://arxiv.org/pdf/2509.17997v1)|
+|2025-09-10|2025-09-22|Gravity from equilibrium thermodynamics of stretched light cones|Ana Alonso-Serrano|[2509.08566v2](http://arxiv.org/pdf/2509.08566v2)|
+
+### Diffusion
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-09-22|2025-09-22|Spiffy: Multiplying Diffusion LLM Acceleration via Lossless Speculative Decoding|Sudhanshu Agrawal|[2509.18085v1](http://arxiv.org/pdf/2509.18085v1)|
+|2025-02-18|2025-09-22|Efficient Neural SDE Training using Wiener-Space Cubature|Luke Snow|[2502.12395v3](http://arxiv.org/pdf/2502.12395v3)|
+|2025-09-22|2025-09-22|Prepare Before You Act: Learning From Humans to Rearrange Initial States|Yinlong Dai|[2509.18043v1](http://arxiv.org/pdf/2509.18043v1)|
+|2025-09-22|2025-09-22|ComposableNav: Instruction-Following Navigation in Dynamic Environments via Composable Diffusion|Zichao Hu|[2509.17941v1](http://arxiv.org/pdf/2509.17941v1)|
+|2025-09-22|2025-09-22|Optimizing Inference in Transformer-Based Models: A Multi-Method Benchmark|Siu Hang Ho|[2509.17894v1](http://arxiv.org/pdf/2509.17894v1)|
+
+### Quantitative Finance
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-09-22|2025-09-22|Enhanced fill probability estimates in institutional algorithmic bond trading using statistical learning algorithms with quantum computers|Axel Ciceri|[2509.17715v1](http://arxiv.org/pdf/2509.17715v1)|
 ## Update on 2025-09-19
 
 ### Physics
