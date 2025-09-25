@@ -212,6 +212,30 @@ TODO:
 
 
 
+
+## Update on 2025-09-25
+
+### Physics
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-09-24|2025-09-24|Directly Probing Neutrino Interactions through CMB Phase Shift Measurements|Gabriele Montefalcone|[2509.20363v1](http://arxiv.org/pdf/2509.20363v1)|
+|2025-09-24|2025-09-24|Superfluid-Mott transition in a frustrated triangular optical lattice|Mehedi Hasan|[2509.20352v1](http://arxiv.org/pdf/2509.20352v1)|
+|2025-06-25|2025-09-24|Exploring Graph-Transformer Out-of-Distribution Generalization Abilities|Itay Niv|[2506.20575v2](http://arxiv.org/pdf/2506.20575v2)|
+|2025-05-13|2025-09-24|Generalizable neural-network parameterization of mesoscale eddies in idealized and global ocean models|Pavel Perezhogin|[2505.08900v6](http://arxiv.org/pdf/2505.08900v6)|
+|2025-09-24|2025-09-24|Process-Informed Forecasting of Complex Thermal Dynamics in Pharmaceutical Manufacturing|Ramona Rubini|[2509.20349v1](http://arxiv.org/pdf/2509.20349v1)|
+|2025-09-24|2025-09-24|Quantum speed limits based on Jensen-Shannon and Jeffreys divergences for general physical processes|Jucelino Ferreira de Sousa|[2509.20347v1](http://arxiv.org/pdf/2509.20347v1)|
+|2025-09-24|2025-09-24|Video models are zero-shot learners and reasoners|Thaddäus Wiedemer|[2509.20328v1](http://arxiv.org/pdf/2509.20328v1)|
+|2025-09-24|2025-09-24|Deep learning for exoplanet detection and characterization by direct imaging at high contrast|Théo Bodrito|[2509.20310v1](http://arxiv.org/pdf/2509.20310v1)|
+|2025-09-24|2025-09-24|Efficient Microcanonical Histogram Analysis and Application to Peptide Aggregation|Michael Bachmann|[2509.20305v1](http://arxiv.org/pdf/2509.20305v1)|
+
+### Diffusion
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-09-24|2025-09-24|AnchDrive: Bootstrapping Diffusion Policies with Hybrid Trajectory Anchors for End-to-End Driving|Jinhao Chai|[2509.20253v1](http://arxiv.org/pdf/2509.20253v1)|
+|2025-05-31|2025-09-24|Latent Wavelet Diffusion For Ultra-High-Resolution Image Synthesis|Luigi Sigillo|[2506.00433v3](http://arxiv.org/pdf/2506.00433v3)|
+|2024-10-17|2025-09-24|Diffusion Curriculum: Synthetic-to-Real Generative Curriculum Learning via Image-Guided Diffusion|Yijun Liang|[2410.13674v3](http://arxiv.org/pdf/2410.13674v3)|
+|2025-05-16|2025-09-24|Learning hidden cascades via classification|Derrick Gilchrist Edward Manoharan|[2505.11228v3](http://arxiv.org/pdf/2505.11228v3)|
+|2025-09-24|2025-09-24|KSDiff: Keyframe-Augmented Speech-Aware Dual-Path Diffusion for Facial Animation|Tianle Lyu|[2509.20128v1](http://arxiv.org/pdf/2509.20128v1)|
 ## Update on 2025-09-23
 
 ### Physics

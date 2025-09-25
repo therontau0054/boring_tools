@@ -1,0 +1,118 @@
+{
+    "Physics": [
+        {
+            "title": "Directly Probing Neutrino Interactions through CMB Phase Shift Measurements",
+            "authors": "Gabriele Montefalcone, Subhajit Ghosh, Kimberly K. Boddy, Daven Wei Ren Ho, Yuhsin Tsai",
+            "summary": "Perturbations in the cosmic neutrino background produce a characteristic\nphase shift in the acoustic oscillations imprinted in the anisotropies of the\ncosmic microwave background (CMB), providing a unique observational probe of\nneutrino physics. In this work, we explore how this phase shift signature is\naltered in the presence of neutrino interactions with temperature-dependent\nscattering rates, motivated by physical constructions for neutrino\nself-interactions and neutrino-dark matter couplings. A key finding is that the\nphase shift in these realistic models -- characterized by gradual rather than\ninstantaneous decoupling -- maintains the same functional form as the\nfree-streaming template, with only the asymptotic amplitude decreasing for\nstronger interactions that delay decoupling. This simple parametrization\nenables us to directly constrain neutrino interactions through phase shift\nmeasurements in the temperature and polarization power spectra from CMB\nobservations. Analyzing the latest data from \\textit{Planck}, the Atacama\nCosmology Telescope, and the South Pole Telescope, we derive strong constraints\non the neutrino decoupling redshift. Our global analysis indicates that\nneutrinos have been freely streaming since deep within the radiation-dominated\nepoch. We also explore flavor-dependent scenarios in which only one neutrino\nspecies interacts. Overall, our work establishes a signature-driven framework\nthat exploits the clean phase shift signal in the acoustic oscillations of the\nCMB as a precise and robust probe of non-standard neutrino interactions in the\nearly universe.",
+            "pdf_url": "http://arxiv.org/pdf/2509.20363v1",
+            "published": "2025-09-24 17:59:54+00:00",
+            "updated": "2025-09-24 17:59:54+00:00"
+        },
+        {
+            "title": "Superfluid-Mott transition in a frustrated triangular optical lattice",
+            "authors": "Mehedi Hasan, Luca Donini, Sompob Shanokprasith, Daniel Braund, Tobias Marozsak, Moritz Epping, Daniel Reed, Max Melchner, Tiffany Harte, Ulrich Schneider",
+            "summary": "Geometric frustration can significantly increase the complexity and richness\nof many-body physics and, for instance, suppress antiferromagnetic order in\nquantum magnets. Here, we employ ultracold bosonic $^{39}$K atoms in a\ntriangular optical lattice to study geometric frustration by stabilizing the\ngas at the frustrated upper band edge using negative absolute temperatures. We\nfind that geometric frustration suppresses the critical interaction strength\nfor the (chiral-)superfluid to Mott insulator ($\\chi$-SF-MI) quantum phase\ntransition by a factor of 2.7(3) and furthermore changes the critical dynamics\nof the transition. Although the emergence of coherence during fast ramps from\nMI to the ($\\chi$-)SF regime is continuous in both cases, for ramps longer than\na few tunnelling times, significant differences emerge. In the \\frs case, no\nlong-range order emerges on the studied timescales, highlighting a\nsignificantly reduced rate or even saturation of the emerging coherence. This\nwork opens the door to quantum simulations of frustrated systems that are often\nintractable by classical simulations.",
+            "pdf_url": "http://arxiv.org/pdf/2509.20352v1",
+            "published": "2025-09-24 17:54:58+00:00",
+            "updated": "2025-09-24 17:54:58+00:00"
+        },
+        {
+            "title": "Exploring Graph-Transformer Out-of-Distribution Generalization Abilities",
+            "authors": "Itay Niv, Neta Rabin",
+            "summary": "Deep learning on graphs has shown remarkable success across numerous\napplications, including social networks, bio-physics, traffic networks, and\nrecommendation systems. Regardless of their successes, current methods\nfrequently depend on the assumption that training and testing data share the\nsame distribution, a condition rarely met in real-world scenarios. While\ngraph-transformer (GT) backbones have recently outperformed traditional\nmessage-passing neural networks (MPNNs) in multiple in-distribution (ID)\nbenchmarks, their effectiveness under distribution shifts remains largely\nunexplored. In this work, we address the challenge of out-of-distribution (OOD)\ngeneralization for graph neural networks, with a special focus on the impact of\nbackbone architecture. We systematically evaluate GT and hybrid backbones in\nOOD settings and compare them to MPNNs. To do so, we adapt several leading\ndomain generalization (DG) algorithms to work with GTs and assess their\nperformance on a benchmark designed to test a variety of distribution shifts.\nOur results reveal that GT and hybrid GT-MPNN backbones demonstrate stronger\ngeneralization ability compared to MPNNs, even without specialized DG\nalgorithms (on four out of six benchmarks). Additionally, we propose a novel\npost-training analysis approach that compares the clustering structure of the\nentire ID and OOD test datasets, specifically examining domain alignment and\nclass separation. Highlighting its model-agnostic design, the method yielded\nvaluable insights into both GT and MPNN backbones and appears well suited for\nbroader DG applications beyond graph learning, offering a deeper perspective on\ngeneralization abilities that goes beyond standard accuracy metrics. Together,\nour findings highlight the promise of graph-transformers for robust, real-world\ngraph learning and set a new direction for future research in OOD\ngeneralization.",
+            "pdf_url": "http://arxiv.org/pdf/2506.20575v2",
+            "published": "2025-06-25 16:09:24+00:00",
+            "updated": "2025-09-24 17:48:30+00:00"
+        },
+        {
+            "title": "Generalizable neural-network parameterization of mesoscale eddies in idealized and global ocean models",
+            "authors": "Pavel Perezhogin, Alistair Adcroft, Laure Zanna",
+            "summary": "Data-driven methods have become popular to parameterize the effects of\nmesoscale eddies in ocean models. However, they perform poorly in\ngeneralization tasks and may require retuning if the grid resolution or ocean\nconfiguration changes. We address the generalization problem by enforcing\nphysics constraints on a neural network parameterization of mesoscale eddy\nfluxes. We found that the local scaling of input and output features helps to\ngeneralize to unseen grid resolutions and depths offline in the global ocean.\nThe scaling is based on dimensional analysis and incorporates grid spacing as a\nlength scale. We formulate our findings as a general algorithm that can be used\nto enforce data-driven parameterizations with dimensional scaling. The new\nparameterization improves the representation of kinetic and potential energy in\nonline simulations with idealized and global ocean models. Comparison to\nbaseline parameterizations and impact on global ocean biases are discussed.",
+            "pdf_url": "http://arxiv.org/pdf/2505.08900v6",
+            "published": "2025-05-13 18:43:28+00:00",
+            "updated": "2025-09-24 17:44:41+00:00"
+        },
+        {
+            "title": "Process-Informed Forecasting of Complex Thermal Dynamics in Pharmaceutical Manufacturing",
+            "authors": "Ramona Rubini, Siavash Khodakarami, Aniruddha Bora, George Em Karniadakis, Michele Dassisti",
+            "summary": "Accurate time-series forecasting for complex physical systems is the backbone\nof modern industrial monitoring and control. While deep learning models excel\nat capturing complex dynamics, currently, their deployment is limited due to\nphysical inconsistency and robustness, hence constraining their reliability in\nregulated environments. We introduce process-informed forecasting (PIF) models\nfor temperature in pharmaceutical lyophilization. We investigate a wide range\nof models, from classical ones such as Autoregressive Integrated Moving Average\nModel (ARIMA) and Exponential Smoothing Model (ETS), to modern deep learning\narchitectures, including Kolmogorov-Arnold Networks (KANs). We compare three\ndifferent loss function formulations that integrate a process-informed\ntrajectory prior: a fixed-weight loss, a dynamic uncertainty-based loss, and a\nResidual-Based Attention (RBA) mechanism. We evaluate all models not only for\naccuracy and physical consistency but also for robustness to sensor noise.\nFurthermore, we test the practical generalizability of the best model in a\ntransfer learning scenario on a new process. Our results show that PIF models\noutperform their data-driven counterparts in terms of accuracy, physical\nplausibility and noise resilience. This work provides a roadmap for developing\nreliable and generalizable forecasting solutions for critical applications in\nthe pharmaceutical manufacturing landscape.",
+            "pdf_url": "http://arxiv.org/pdf/2509.20349v1",
+            "published": "2025-09-24 17:42:00+00:00",
+            "updated": "2025-09-24 17:42:00+00:00"
+        },
+        {
+            "title": "Quantum speed limits based on Jensen-Shannon and Jeffreys divergences for general physical processes",
+            "authors": "Jucelino Ferreira de Sousa, Diego Paiva Pires",
+            "summary": "We discuss quantum speed limits (QSLs) for finite-dimensional quantum systems\nundergoing a general physical process. These QSLs were obtained using two\nfamilies of entropic measures, namely the square root of the Jensen-Shannon\ndivergence, which in turn defines a faithful distance of quantum states, and\nthe square root of the quantum Jeffreys divergence. The results apply to both\nclosed and open quantum systems, and are evaluated in terms of the Schatten\nspeed of the evolved state, as well as cost functions that depend on the\nsmallest and largest eigenvalues of both initial and instantaneous states of\nthe quantum system. To illustrate our findings, we focus on the unitary and\nnonunitary dynamics of mixed single-qubit states. In the first case, we obtain\nspeed limits $\\textit{\\`{a} la}$ Mandelstam-Tamm that are inversely\nproportional to the variance of the Hamiltonian driving the evolution. In the\nsecond case, we set the nonunitary dynamics to be described by the noisy\noperations: depolarizing channel, phase damping channel, and generalized\namplitude damping channel. We provide analytical results for the two entropic\nmeasures, present numerical simulations to support our results on the speed\nlimits, comment on the tightness of the bounds, and provide a comparison with\nprevious QSLs. Our results may find applications in the study of quantum\nthermodynamics, entropic uncertainty relations, and also complexity of\nmany-body systems.",
+            "pdf_url": "http://arxiv.org/pdf/2509.20347v1",
+            "published": "2025-09-24 17:39:09+00:00",
+            "updated": "2025-09-24 17:39:09+00:00"
+        },
+        {
+            "title": "Video models are zero-shot learners and reasoners",
+            "authors": "Thadd\u00e4us Wiedemer, Yuxuan Li, Paul Vicol, Shixiang Shane Gu, Nick Matarese, Kevin Swersky, Been Kim, Priyank Jaini, Robert Geirhos",
+            "summary": "The remarkable zero-shot capabilities of Large Language Models (LLMs) have\npropelled natural language processing from task-specific models to unified,\ngeneralist foundation models. This transformation emerged from simple\nprimitives: large, generative models trained on web-scale data. Curiously, the\nsame primitives apply to today's generative video models. Could video models be\non a trajectory towards general-purpose vision understanding, much like LLMs\ndeveloped general-purpose language understanding? We demonstrate that Veo 3 can\nsolve a broad variety of tasks it wasn't explicitly trained for: segmenting\nobjects, detecting edges, editing images, understanding physical properties,\nrecognizing object affordances, simulating tool use, and more. These abilities\nto perceive, model, and manipulate the visual world enable early forms of\nvisual reasoning like maze and symmetry solving. Veo's emergent zero-shot\ncapabilities indicate that video models are on a path to becoming unified,\ngeneralist vision foundation models.",
+            "pdf_url": "http://arxiv.org/pdf/2509.20328v1",
+            "published": "2025-09-24 17:17:27+00:00",
+            "updated": "2025-09-24 17:17:27+00:00"
+        },
+        {
+            "title": "Deep learning for exoplanet detection and characterization by direct imaging at high contrast",
+            "authors": "Th\u00e9o Bodrito, Olivier Flasseur, Julien Mairal, Jean Ponce, Maud Langlois, Anne-Marie Lagrange",
+            "summary": "Exoplanet imaging is a major challenge in astrophysics due to the need for\nhigh angular resolution and high contrast. We present a multi-scale statistical\nmodel for the nuisance component corrupting multivariate image series at high\ncontrast. Integrated into a learnable architecture, it leverages the physics of\nthe problem and enables the fusion of multiple observations of the same star in\na way that is optimal in terms of detection signal-to-noise ratio. Applied to\ndata from the VLT/SPHERE instrument, the method significantly improves the\ndetection sensitivity and the accuracy of astrometric and photometric\nestimation.",
+            "pdf_url": "http://arxiv.org/pdf/2509.20310v1",
+            "published": "2025-09-24 16:43:28+00:00",
+            "updated": "2025-09-24 16:43:28+00:00"
+        },
+        {
+            "title": "Efficient Microcanonical Histogram Analysis and Application to Peptide Aggregation",
+            "authors": "Michael Bachmann",
+            "summary": "A novel approach designed to directly estimate microcanonical quantities from\nenergy histograms is proposed, which enables the immediate systematic\nidentification and classification of phase transitions in physical systems of\nany size by means of the recently introduced generalized microcanonical\ninflection-point analysis method. The application to the aggregation problem of\nGNNQQNY heptapeptides, for which the entire transition sequence is revealed,\nshows the power of this promising method.",
+            "pdf_url": "http://arxiv.org/pdf/2509.20305v1",
+            "published": "2025-09-24 16:36:27+00:00",
+            "updated": "2025-09-24 16:36:27+00:00"
+        }
+    ],
+    "Diffusion": [
+        {
+            "title": "AnchDrive: Bootstrapping Diffusion Policies with Hybrid Trajectory Anchors for End-to-End Driving",
+            "authors": "Jinhao Chai, Anqing Jiang, Hao Jiang, Shiyi Mu, Zichong Gu, Shugong Xu",
+            "summary": "End-to-end multi-modal planning has become a transformative paradigm in\nautonomous driving, effectively addressing behavioral multi-modality and the\ngeneralization challenge in long-tail scenarios. We propose AnchDrive, a\nframework for end-to-end driving that effectively bootstraps a diffusion policy\nto mitigate the high computational cost of traditional generative models.\nRather than denoising from pure noise, AnchDrive initializes its planner with a\nrich set of hybrid trajectory anchors. These anchors are derived from two\ncomplementary sources: a static vocabulary of general driving priors and a set\nof dynamic, context-aware trajectories. The dynamic trajectories are decoded in\nreal-time by a Transformer that processes dense and sparse perceptual features.\nThe diffusion model then learns to refine these anchors by predicting a\ndistribution of trajectory offsets, enabling fine-grained refinement. This\nanchor-based bootstrapping design allows for efficient generation of diverse,\nhigh-quality trajectories. Experiments on the NAVSIM benchmark confirm that\nAnchDrive sets a new state-of-the-art and shows strong gen?eralizability",
+            "pdf_url": "http://arxiv.org/pdf/2509.20253v1",
+            "published": "2025-09-24 15:38:41+00:00",
+            "updated": "2025-09-24 15:38:41+00:00"
+        },
+        {
+            "title": "Latent Wavelet Diffusion For Ultra-High-Resolution Image Synthesis",
+            "authors": "Luigi Sigillo, Shengfeng He, Danilo Comminiello",
+            "summary": "High-resolution image synthesis remains a core challenge in generative\nmodeling, particularly in balancing computational efficiency with the\npreservation of fine-grained visual detail. We present Latent Wavelet Diffusion\n(LWD), a lightweight training framework that significantly improves detail and\ntexture fidelity in ultra-high-resolution (2K-4K) image synthesis. LWD\nintroduces a novel, frequency-aware masking strategy derived from wavelet\nenergy maps, which dynamically focuses the training process on detail-rich\nregions of the latent space. This is complemented by a scale-consistent VAE\nobjective to ensure high spectral fidelity. The primary advantage of our\napproach is its efficiency: LWD requires no architectural modifications and\nadds zero additional cost during inference, making it a practical solution for\nscaling existing models. Across multiple strong baselines, LWD consistently\nimproves perceptual quality and FID scores, demonstrating the power of\nsignal-driven supervision as a principled and efficient path toward\nhigh-resolution generative modeling.",
+            "pdf_url": "http://arxiv.org/pdf/2506.00433v3",
+            "published": "2025-05-31 07:28:32+00:00",
+            "updated": "2025-09-24 15:22:22+00:00"
+        },
+        {
+            "title": "Diffusion Curriculum: Synthetic-to-Real Generative Curriculum Learning via Image-Guided Diffusion",
+            "authors": "Yijun Liang, Shweta Bhardwaj, Tianyi Zhou",
+            "summary": "Low-quality or scarce data has posed significant challenges for training deep\nneural networks in practice. While classical data augmentation cannot\ncontribute very different new data, diffusion models opens up a new door to\nbuild self-evolving AI by generating high-quality and diverse synthetic data\nthrough text-guided prompts. However, text-only guidance cannot control\nsynthetic images' proximity to the original images, resulting in\nout-of-distribution data detrimental to the model performance. To overcome the\nlimitation, we study image guidance to achieve a spectrum of interpolations\nbetween synthetic and real images. With stronger image guidance, the generated\nimages are similar to the training data but hard to learn. While with weaker\nimage guidance, the synthetic images will be easier for model but contribute to\na larger distribution gap with the original data. The generated full spectrum\nof data enables us to build a novel \"Diffusion Curriculum (DisCL)\". DisCL\nadjusts the image guidance level of image synthesis for each training stage: It\nidentifies and focuses on hard samples for the model and assesses the most\neffective guidance level of synthetic images to improve hard data learning. We\napply DisCL to two challenging tasks: long-tail (LT) classification and\nlearning from low-quality data. It focuses on lower-guidance images of\nhigh-quality to learn prototypical features as a warm-up of learning\nhigher-guidance images that might be weak on diversity or quality. Extensive\nexperiments showcase a gain of 2.7% and 2.1% in OOD and ID macro-accuracy when\napplying DisCL to iWildCam dataset. On ImageNet-LT, DisCL improves the base\nmodel's tail-class accuracy from 4.4% to 23.64% and leads to a 4.02%\nimprovement in all-class accuracy.",
+            "pdf_url": "http://arxiv.org/pdf/2410.13674v3",
+            "published": "2024-10-17 15:33:35+00:00",
+            "updated": "2025-09-24 14:58:32+00:00"
+        },
+        {
+            "title": "Learning hidden cascades via classification",
+            "authors": "Derrick Gilchrist Edward Manoharan, Anubha Goel, Alexandros Iosifidis, Henri Hansen, Juho Kanniainen",
+            "summary": "The spreading dynamics in social networks are often studied under the\nassumption that individuals' statuses, whether informed or infected, are fully\nobservable. However, in many real-world situations, such statuses remain\nunobservable, which is crucial for determining an individual's potential to\nfurther spread the infection. While final statuses are hidden, intermediate\nindicators such as symptoms of infection are observable and provide useful\nrepresentations of the underlying diffusion process. We propose a partial\nobservability-aware Machine Learning framework to learn the characteristics of\nthe spreading model. We term the method Distribution Classification, which\nutilizes the power of classifiers to infer the underlying transmission\ndynamics. Through extensive benchmarking against Approximate Bayesian\nComputation and GNN-based baselines, our framework consistently outperforms\nthese state-of-the-art methods, delivering accurate parameter estimates across\ndiverse diffusion settings while scaling efficiently to large networks. We\nvalidate the method on synthetic networks and extend the study to a real-world\ninsider trading network, demonstrating its effectiveness in analyzing spreading\nphenomena where direct observation of individual statuses is not possible.",
+            "pdf_url": "http://arxiv.org/pdf/2505.11228v3",
+            "published": "2025-05-16 13:23:52+00:00",
+            "updated": "2025-09-24 14:22:54+00:00"
+        },
+        {
+            "title": "KSDiff: Keyframe-Augmented Speech-Aware Dual-Path Diffusion for Facial Animation",
+            "authors": "Tianle Lyu, Junchuan Zhao, Ye Wang",
+            "summary": "Audio-driven facial animation has made significant progress in multimedia\napplications, with diffusion models showing strong potential for talking-face\nsynthesis. However, most existing works treat speech features as a monolithic\nrepresentation and fail to capture their fine-grained roles in driving\ndifferent facial motions, while also overlooking the importance of modeling\nkeyframes with intense dynamics. To address these limitations, we propose\nKSDiff, a Keyframe-Augmented Speech-Aware Dual-Path Diffusion framework.\nSpecifically, the raw audio and transcript are processed by a Dual-Path Speech\nEncoder (DPSE) to disentangle expression-related and head-pose-related\nfeatures, while an autoregressive Keyframe Establishment Learning (KEL) module\npredicts the most salient motion frames. These components are integrated into a\nDual-path Motion generator to synthesize coherent and realistic facial motions.\nExtensive experiments on HDTF and VoxCeleb demonstrate that KSDiff achieves\nstate-of-the-art performance, with improvements in both lip synchronization\naccuracy and head-pose naturalness. Our results highlight the effectiveness of\ncombining speech disentanglement with keyframe-aware diffusion for talking-head\ngeneration.",
+            "pdf_url": "http://arxiv.org/pdf/2509.20128v1",
+            "published": "2025-09-24 13:54:52+00:00",
+            "updated": "2025-09-24 13:54:52+00:00"
+        }
+    ]
+}
