@@ -213,6 +213,35 @@ TODO:
 
 
 
+
+## Update on 2025-09-27
+
+### Physics
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2024-10-10|2025-09-25|Hybrid Summary Statistics|T. Lucas Makinen|[2410.07548v2](http://arxiv.org/pdf/2410.07548v2)|
+|2024-06-16|2025-09-25|Two-level overlapping additive Schwarz preconditioner for training scientific machine learning applications|Youngkyu Lee|[2406.10997v2](http://arxiv.org/pdf/2406.10997v2)|
+|2025-09-25|2025-09-25|Taxonomy-aware Dynamic Motion Generation on Hyperbolic Manifolds|Luis Augenstein|[2509.21281v1](http://arxiv.org/pdf/2509.21281v1)|
+|2025-09-25|2025-09-25|Does FLUX Already Know How to Perform Physically Plausible Image Composition?|Shilin Lu|[2509.21278v1](http://arxiv.org/pdf/2509.21278v1)|
+|2024-05-14|2025-09-25|Revisiting Reactor Anti-Neutrino 5 MeV Bump with $^{13}$C Neutral-Current Interaction|Pouya Bakhti|[2405.08724v3](http://arxiv.org/pdf/2405.08724v3)|
+|2025-09-19|2025-09-25|Proper-Time Approach in Asymptotic Safety via Black Hole Quasinormal Modes and Grey-body Factors|Bekir Can Lütfüoğlu|[2509.15923v3](http://arxiv.org/pdf/2509.15923v3)|
+|2025-02-07|2025-09-25|Limits on New Lorentz-violating Bosons|P. Carenza|[2502.05263v2](http://arxiv.org/pdf/2502.05263v2)|
+|2025-09-25|2025-09-25|From Physics to Machine Learning and Back: Part II - Learning and Observational Bias in PHM|Olga Fink|[2509.21207v1](http://arxiv.org/pdf/2509.21207v1)|
+|2025-09-25|2025-09-25|Differential-Integral Neural Operator for Long-Term Turbulence Forecasting|Hao Wu|[2509.21196v1](http://arxiv.org/pdf/2509.21196v1)|
+
+### Diffusion
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2024-10-29|2025-09-25|IDEATOR: Jailbreaking and Benchmarking Large Vision-Language Models Using Themselves|Ruofan Wang|[2411.00827v6](http://arxiv.org/pdf/2411.00827v6)|
+|2025-06-10|2025-09-25|Generalizing while preserving monotonicity in comparison-based preference learning models|Julien Fageot|[2506.08616v2](http://arxiv.org/pdf/2506.08616v2)|
+|2025-09-23|2025-09-25|Pure Vision Language Action (VLA) Models: A Comprehensive Survey|Dapeng Zhang|[2509.19012v2](http://arxiv.org/pdf/2509.19012v2)|
+|2025-05-21|2025-09-25|Why and When Deep is Better than Shallow: An Implementation-Agnostic State-Transition View of Depth Supremacy|Sho Sonoda|[2505.15064v2](http://arxiv.org/pdf/2505.15064v2)|
+|2025-09-25|2025-09-25|A Unified Framework for Diffusion Model Unlearning with f-Divergence|Nicola Novello|[2509.21167v1](http://arxiv.org/pdf/2509.21167v1)|
+
+### Quantitative Finance
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-09-25|2025-09-25|Multivariate Quadratic Hawkes Processes -- Part II: Non-Parametric Empirical Calibration|Cecilia Aubrun|[2509.21244v1](http://arxiv.org/pdf/2509.21244v1)|
 ## Update on 2025-09-25
 
 ### Physics
