@@ -1,0 +1,136 @@
+{
+    "Physics": [
+        {
+            "title": "Toward a Physics of Deep Learning and Brains",
+            "authors": "Arsham Ghavasieh, Meritxell Vila-Minana, Akanksha Khurd, John Beggs, Gerardo Ortiz, Santo Fortunato",
+            "summary": "Deep neural networks and brains both learn and share superficial\nsimilarities: processing nodes are likened to neurons and adjustable weights\nare likened to modifiable synapses. But can a unified theoretical framework be\nfound to underlie them both? Here we show that the equations used to describe\nneuronal avalanches in living brains can also be applied to cascades of\nactivity in deep neural networks. These equations are derived from\nnon-equilibrium statistical physics and show that deep neural networks learn\nbest when poised between absorbing and active phases. Because these networks\nare strongly driven by inputs, however, they do not operate at a true critical\npoint but within a quasi-critical regime -- one that still approximately\nsatisfies crackling noise scaling relations. By training networks with\ndifferent initializations, we show that maximal susceptibility is a more\nreliable predictor of learning than proximity to the critical point itself.\nThis provides a blueprint for engineering improved network performance.\nFinally, using finite-size scaling we identify distinct universality classes,\nincluding Barkhausen noise and directed percolation. This theoretical framework\ndemonstrates that universal features are shared by both biological and\nartificial neural networks.",
+            "pdf_url": "http://arxiv.org/pdf/2509.22649v1",
+            "published": "2025-09-26 17:59:57+00:00",
+            "updated": "2025-09-26 17:59:57+00:00"
+        },
+        {
+            "title": "Overview of the ESCAPE Dark Matter Test Science Project for Astronomers",
+            "authors": "James Pearson, Hugh Dickinson, Sukanya Sinha, Stephen Serjeant",
+            "summary": "The search for dark matter has been ongoing for decades within both\nastrophysics and particle physics. Both fields have employed different\napproaches and conceived a variety of methods for constraining the properties\nof dark matter, but have done so in relative isolation of one another. From an\nastronomer's perspective, it can be challenging to interpret the results of\ndark matter particle physics experiments and how these results apply to\nastrophysical scales. Over the past few years, the ESCAPE Dark Matter Test\nScience Project has been developing tools to aid the particle physics community\nin constraining dark matter properties; however, ESCAPE itself also aims to\nfoster collaborations between research disciplines. This is especially\nimportant in the search for dark matter, as while particle physics is concerned\nwith detecting the particles themselves, all of the evidence for its existence\nlies solely within astrophysics and cosmology. Here, we present a short review\nof the progress made by the Dark Matter Test Science Project and their\napplications to existing experiments, with a view towards how this project can\nfoster complementary with astrophysical observations.",
+            "pdf_url": "http://arxiv.org/pdf/2509.22609v1",
+            "published": "2025-09-26 17:36:05+00:00",
+            "updated": "2025-09-26 17:36:05+00:00"
+        },
+        {
+            "title": "Probing Fractional Quantum Hall states in weakly interacting Fermi gases",
+            "authors": "Viktor Bekassy, Mikael Fogelstr\u00f6m, Johannes Hofmann",
+            "summary": "Quantum gases are used to simulate the physics of the lowest Landau level\n(LLL) with neutral atoms, which in the simplest setup is achieved by rotating\nthe gas at the confining harmonic trap frequency, a requirement that is\ndifficult to achieve in practice. We point out that for weakly interacting\nFermi gases, this rapid-rotation limit is not needed to access the LLL: As a\ndirect consequence of first-order perturbation theory, many-body wave functions\nof states in the LLL remain unchanged at any rotation, and only their energies\nshift. This implies that even in the absence of rotations or for moderate\nrotations frequencies, LLL states are present as excited states at finite\nangular momentum. For fermions with contact interactions, these states are\nexact eigenstates of a paradigmatic model of Fractional Quantum Hall (FQH)\nstates described by a single Haldane pseudopotential ($V_1$ for spin-polarized\nand $V_0$ for spinful systems), which realizes exact Laughlin and Haldane wave\nfunctions. We suggest that recently developed excitation and imaging techniques\nfor rotating few-fermion systems allow for a detailed experimental\ninvestigation of FQH wave functions and to study the crossover to large\nparticle number. We illustrate this for $N = 6$ spin-balanced fermions",
+            "pdf_url": "http://arxiv.org/pdf/2509.22606v1",
+            "published": "2025-09-26 17:26:39+00:00",
+            "updated": "2025-09-26 17:26:39+00:00"
+        },
+        {
+            "title": "Relativistic Quantum Simulation under Periodic and Dirichlet Boundary Conditions: A First-Quantised Framework for Near-Term Devices",
+            "authors": "Jaewoo Joo, Timothy P. Spiller, Kyunghyun Baek, Jeongho Bang",
+            "summary": "We present a new recipe for relativistic quantum simulation using the first\nquantisation approach, under periodic (PBC) and Dirichlet (DBC) boundary\nconditions. The wavefunction is discretised across a finite grid represented by\nsystem qubits, and the squared momentum operator is expressed using the\nfinite-difference method based on quantum translation operations. The\nrelativistic kinetic energy is approximated through a perturbative expansion of\nthe total kinetic Hamiltonian, incorporating higher-order momentum terms. The\napproach would allow variational optimisation of appropriate ansatz states to\nestimate both non-relativistic and relativistic ground-state energies on a\nquantum computer. This work offers a practical route to simulating relativistic\neffects on near-term quantum devices, supporting future developments in quantum\nphysics and chemistry.",
+            "pdf_url": "http://arxiv.org/pdf/2509.22579v1",
+            "published": "2025-09-26 16:58:07+00:00",
+            "updated": "2025-09-26 16:58:07+00:00"
+        },
+        {
+            "title": "A $\u03bd$ look at the Sun: Probing the conditions of the solar core using $^8$B neutrinos",
+            "authors": "Melanie A. Zaidel, John F. Beacom",
+            "summary": "In the coming age of precision neutrino physics, neutrinos from the Sun\nbecome robust probes of the conditions of the solar core. Here, we focus on\n$^8$B neutrinos, for which there are already high precision measurements by the\nSudbury Neutrino Observatory and Super-Kamiokande. Using only basic physical\nprinciples and straightforward statistical tools, we estimate projected\nconstraints on the temperature and density of the $^8$B neutrino production\nzone compared to a reference solar model. We outline how to better understand\nthe astrophysics of the solar interior using forthcoming neutrino data and\nsolar models. Finally, we note that detailed forward modeling will be needed to\ndevelop the full potential of this approach.",
+            "pdf_url": "http://arxiv.org/pdf/2504.10583v2",
+            "published": "2025-04-14 18:00:02+00:00",
+            "updated": "2025-09-26 16:51:22+00:00"
+        },
+        {
+            "title": "Two failure modes of deep transformers and how to avoid them: a unified theory of signal propagation at initialisation",
+            "authors": "Alessio Giorlandino, Sebastian Goldt",
+            "summary": "Finding the right initialisation for neural networks is crucial to ensure\nsmooth training and good performance. In transformers, the wrong initialisation\ncan lead to one of two failure modes of self-attention layers: rank collapse,\nwhere all tokens collapse into similar representations, and entropy collapse,\nwhere highly concentrated attention scores lead to training instability. While\nprevious work has studied different scaling regimes for transformers, an\nasymptotically exact, down-to-the constant prescription for how to initialise\ntransformers has so far been lacking. Here, we provide an analytical theory of\nsignal propagation through deep transformers with self-attention, layer\nnormalisation, skip connections and MLP. Our theory yields a simple algorithm\nto compute trainability diagrams that identify the correct choice of\ninitialisation hyper-parameters for a given architecture. We overcome the key\nchallenge, an exact treatment of the self-attention layer, by establishing a\nformal parallel with the Random Energy Model from statistical physics. We also\nanalyse gradients in the backward path and determine the regime where gradients\nvanish at initialisation. We demonstrate the versatility of our framework\nthrough three case studies. Our theoretical framework gives a unified\nperspective on the two failure modes of self-attention and gives quantitative\npredictions on the scale of both weights and residual connections that\nguarantee smooth training.",
+            "pdf_url": "http://arxiv.org/pdf/2505.24333v2",
+            "published": "2025-05-30 08:18:23+00:00",
+            "updated": "2025-09-26 16:22:08+00:00"
+        },
+        {
+            "title": "Naturalistic intuitionism for physics",
+            "authors": "Bruno Bentzen, Flavio Del Santo, Nicolas Gisin",
+            "summary": "Recently, a novel intuitionistic reconstruction of the foundations of physics\nhas been primarily developed by Nicolas Gisin and Flavio Del Santo drawing on\nnaturalism. Our goal in this paper is to examine and develop the philosophical\nbackground of their naturalistic intuitionism for physics in contrast with\nBrouwer's defense of his intuitionistic mathematics. To be exact, we propose a\nsystematic rearticulation of Brouwer's so-called two acts of intuitionism to\nserve as the self-contained philosophical framework justifying naturalistic\nintuitionism in physics. This revision is accompanied by an investigation of\nthe distinctive naturalistic treatment of some central intuitionistic topics,\nincluding logic, language, time, ontology, meaning, and truth.",
+            "pdf_url": "http://arxiv.org/pdf/2509.22528v1",
+            "published": "2025-09-26 16:06:44+00:00",
+            "updated": "2025-09-26 16:06:44+00:00"
+        },
+        {
+            "title": "Dirac Oscillator for Spin-1/2 Particles in a Spinning Cosmic String Spacetime with Spacelike Disclination and Dislocation",
+            "authors": "Abdelmalek Boumali",
+            "summary": "We study the Dirac oscillator for spin-1/2 particles in a spacetime\ncontaining a spinning cosmic string endowed with both curvature (disclination)\nand torsion (screw dislocation). The background geometry includes off-diagonal\nand is analyzed through a local tetrad formalism. Working in cylindrical\ncoordinates, we derive the covariant Dirac equation and solve it exactly via a\nsecond-order differential equation for the lower spinor component. Three\ndistinct physical configurations are examined: (i) balanced torsion where\ntemporal and spatial contributions are equal, (ii) purely temporal torsion\n(spinning string), and (iii) purely spatial torsion (screw dislocation). In all\ncases, we obtain exact energy spectra expressed in terms of effective angular\nquantum numbers that depend on the oscillator frequency, the angular deficit\nparameter \\alpha , the torsional parameters J_{t} and J_{z}, and the\nlongitudinal momentum k. The resulting energy levels generalize the\nflat-spacetime Moshinsky oscillator spectrum by incorporating energy- and\nmomentum-dependent shifts due to the background geometry. We show that\ncurvature and torsion lift degeneracies and induce nontrivial modifications to\nthe angular structure of the solutions. The flat-space spectrum is recovered as\na special limit when both curvature and torsion vanish. This work provides a\nfully solvable model that illustrates how spacetime defects affect relativistic\nquantum systems, offering insights relevant to both high-energy physics and\ncondensed-matter analogs.",
+            "pdf_url": "http://arxiv.org/pdf/2509.18197v2",
+            "published": "2025-09-19 21:38:01+00:00",
+            "updated": "2025-09-26 15:56:50+00:00"
+        },
+        {
+            "title": "Cryogenic In-Memory Computing with Phase-Change Memory",
+            "authors": "Davide G. F. Lombardo, Siddharth Gautam, Alberto Ferraris, Manuel Le Gallo, Abu Sebastian, Ghazi Sarwat Syed",
+            "summary": "In-memory computing (IMC) is an emerging non-von Neumann paradigm that\nleverages the intrinsic physics of memory devices to perform computations\ndirectly within the memory array. Among the various candidates, phase-change\nmemory (PCM) has emerged as a leading non-volatile technology, showing\nsignificant promise for IMC, particularly in deep learning acceleration.\nPCM-based IMC is also poised to play a pivotal role in cryogenic applications,\nincluding quantum computing and deep space electronics. In this work, we\npresent a comprehensive characterization of PCM devices across temperatures\ndown to 5 K, covering the range most relevant to these domains. We\nsystematically investigate key physical mechanisms such as phase transitions\nand threshold switching that govern device programming at low temperatures. In\naddition, we study attributes including electrical transport, structural\nrelaxation, and read noise, which critically affect readout behavior and, in\nturn, the precision achievable in computational tasks.",
+            "pdf_url": "http://arxiv.org/pdf/2509.22511v1",
+            "published": "2025-09-26 15:54:18+00:00",
+            "updated": "2025-09-26 15:54:18+00:00"
+        },
+        {
+            "title": "Model Training, Data Assimilation, and Forecast Experiments with a Hybrid Atmospheric Model that Incorporates Machine Learning",
+            "authors": "Dylan Elliott, Troy Arcomano, Istvan Szunyogh, Brian R. Hunt",
+            "summary": "The hybrid model combines the physics-based primitive-equations model SPEEDY\nwith a machine learning-based (ML-based) model component, while ERA5 reanalyses\nprovide the presumed true states of the atmosphere. Six-hourly simulated noisy\nobservations are generated for a 30-year ML training period and a one-year\ntesting period. These observations are assimilated with a Local Ensemble\nTransform Kalman Filter (LETKF), and a 10-day deterministic forecast is also\nstarted from each ensemble mean analysis of the testing period. In the first\nexperiment, the physics-based model provides the background ensemble members\nand the 10-day deterministic forecasts. In the other three experiments, the\nhybrid model plays the same role as the physics-based model in the first\nexperiment, but it is trained on a different data set in each experiment. These\ntraining data sets are analyses obtained by using the physics-based model\n(second experiment), the hybrid model of the previous experiment (third\nexperiment), and for comparison, ERA5 reanalyses (fourth experiment). The\nresults of the experiments show that hybridizing the model can substantially\nimprove the accuracy of the analyses and forecasts. When the model is trained\non ERA5 reanalyses, the biases of the analyses are negligible and the magnitude\nof the flow-dependent part of the analysis errors is greatly reduced. While the\ngains in analysis accuracy are distinctly more modest in the other two hybrid\nmodel experiments, the gains in forecast accuracy tend to be larger in those\nexperiments after 1-3 forecast days. However, these extra gains of forecast\naccuracy are achieved, in part, by a modest gradual reduction of the spatial\nvariability of the forecasts.",
+            "pdf_url": "http://arxiv.org/pdf/2509.22465v1",
+            "published": "2025-09-26 15:14:37+00:00",
+            "updated": "2025-09-26 15:14:37+00:00"
+        }
+    ],
+    "Diffusion": [
+        {
+            "title": "Scale-Wise VAR is Secretly Discrete Diffusion",
+            "authors": "Amandeep Kumar, Nithin Gopalakrishnan Nair, Vishal M. Patel",
+            "summary": "Autoregressive (AR) transformers have emerged as a powerful paradigm for\nvisual generation, largely due to their scalability, computational efficiency\nand unified architecture with language and vision. Among them, next scale\nprediction Visual Autoregressive Generation (VAR) has recently demonstrated\nremarkable performance, even surpassing diffusion-based models. In this work,\nwe revisit VAR and uncover a theoretical insight: when equipped with a\nMarkovian attention mask, VAR is mathematically equivalent to a discrete\ndiffusion. We term this reinterpretation as Scalable Visual Refinement with\nDiscrete Diffusion (SRDD), establishing a principled bridge between AR\ntransformers and diffusion models. Leveraging this new perspective, we show how\none can directly import the advantages of diffusion such as iterative\nrefinement and reduce architectural inefficiencies into VAR, yielding faster\nconvergence, lower inference cost, and improved zero-shot reconstruction.\nAcross multiple datasets, we show that the diffusion based perspective of VAR\nleads to consistent gains in efficiency and generation.",
+            "pdf_url": "http://arxiv.org/pdf/2509.22636v1",
+            "published": "2025-09-26 17:58:04+00:00",
+            "updated": "2025-09-26 17:58:04+00:00"
+        },
+        {
+            "title": "Training-Free Synthetic Data Generation with Dual IP-Adapter Guidance",
+            "authors": "Luc Boudier, Loris Manganelli, Eleftherios Tsonis, Nicolas Dufour, Vicky Kalogeiton",
+            "summary": "Few-shot image classification remains challenging due to the limited\navailability of labeled examples. Recent approaches have explored generating\nsynthetic training data using text-to-image diffusion models, but often require\nextensive model fine-tuning or external information sources. We present a novel\ntraining-free approach, called DIPSY, that leverages IP-Adapter for\nimage-to-image translation to generate highly discriminative synthetic images\nusing only the available few-shot examples. DIPSY introduces three key\ninnovations: (1) an extended classifier-free guidance scheme that enables\nindependent control over positive and negative image conditioning; (2) a class\nsimilarity-based sampling strategy that identifies effective contrastive\nexamples; and (3) a simple yet effective pipeline that requires no model\nfine-tuning or external captioning and filtering. Experiments across ten\nbenchmark datasets demonstrate that our approach achieves state-of-the-art or\ncomparable performance, while eliminating the need for generative model\nadaptation or reliance on external tools for caption generation and image\nfiltering. Our results highlight the effectiveness of leveraging dual image\nprompting with positive-negative guidance for generating class-discriminative\nfeatures, particularly for fine-grained classification tasks.",
+            "pdf_url": "http://arxiv.org/pdf/2509.22635v1",
+            "published": "2025-09-26 17:57:32+00:00",
+            "updated": "2025-09-26 17:57:32+00:00"
+        },
+        {
+            "title": "TAMMs: Temporal-Aware Multimodal Model for Satellite Image Change Understanding and Forecasting",
+            "authors": "Zhongbin Guo, Yuhao Wang, Ping Jian, Chengzhi Li, Xinyue Chen, Zhen Yang, Ertai E",
+            "summary": "Temporal Change Description (TCD) and Future Satellite Image Forecasting\n(FSIF) are critical, yet historically disjointed tasks in Satellite Image Time\nSeries (SITS) analysis. Both are fundamentally limited by the common challenge\nof modeling long-range temporal dynamics. To explore how to improve the\nperformance of methods on both tasks simultaneously by enhancing long-range\ntemporal understanding capabilities, we introduce TAMMs, the first unified\nframework designed to jointly perform TCD and FSIF within a single\nMLLM-diffusion architecture. TAMMs introduces two key innovations: Temporal\nAdaptation Modules (TAM) enhance frozen MLLM's ability to comprehend long-range\ndynamics, and Semantic-Fused Control Injection (SFCI) mechanism translates this\nchange understanding into fine-grained generative control. This synergistic\ndesign makes the understanding from the TCD task to directly inform and improve\nthe consistency of the FSIF task. Extensive experiments demonstrate TAMMs\nsignificantly outperforms state-of-the-art specialist baselines on both tasks.",
+            "pdf_url": "http://arxiv.org/pdf/2506.18862v2",
+            "published": "2025-06-23 17:26:16+00:00",
+            "updated": "2025-09-26 17:35:39+00:00"
+        },
+        {
+            "title": "JointDiff: Bridging Continuous and Discrete in Multi-Agent Trajectory Generation",
+            "authors": "Guillem Capellera, Luis Ferraz, Antonio Rubio, Alexandre Alahi, Antonio Agudo",
+            "summary": "Generative models often treat continuous data and discrete events as separate\nprocesses, creating a gap in modeling complex systems where they interact\nsynchronously. To bridge this gap, we introduce JointDiff, a novel diffusion\nframework designed to unify these two processes by simultaneously generating\ncontinuous spatio-temporal data and synchronous discrete events. We demonstrate\nits efficacy in the sports domain by simultaneously modeling multi-agent\ntrajectories and key possession events. This joint modeling is validated with\nnon-controllable generation and two novel controllable generation scenarios:\nweak-possessor-guidance, which offers flexible semantic control over game\ndynamics through a simple list of intended ball possessors, and text-guidance,\nwhich enables fine-grained, language-driven generation. To enable the\nconditioning with these guidance signals, we introduce CrossGuid, an effective\nconditioning operation for multi-agent domains. We also share a new unified\nsports benchmark enhanced with textual descriptions for soccer and football\ndatasets. JointDiff achieves state-of-the-art performance, demonstrating that\njoint modeling is crucial for building realistic and controllable generative\nmodels for interactive systems.",
+            "pdf_url": "http://arxiv.org/pdf/2509.22522v1",
+            "published": "2025-09-26 16:04:00+00:00",
+            "updated": "2025-09-26 16:04:00+00:00"
+        },
+        {
+            "title": "Universal Inverse Distillation for Matching Models with Real-Data Supervision (No GANs)",
+            "authors": "Nikita Kornilov, David Li, Tikhon Mavrin, Aleksei Leonov, Nikita Gushchin, Evgeny Burnaev, Iaroslav Koshelev, Alexander Korotin",
+            "summary": "While achieving exceptional generative quality, modern diffusion, flow, and\nother matching models suffer from slow inference, as they require many steps of\niterative generation. Recent distillation methods address this by training\nefficient one-step generators under the guidance of a pre-trained teacher\nmodel. However, these methods are often constrained to only one specific\nframework, e.g., only to diffusion or only to flow models. Furthermore, these\nmethods are naturally data-free, and to benefit from the usage of real data, it\nis required to use an additional complex adversarial training with an extra\ndiscriminator model. In this paper, we present RealUID, a universal\ndistillation framework for all matching models that seamlessly incorporates\nreal data into the distillation procedure without GANs. Our RealUID approach\noffers a simple theoretical foundation that covers previous distillation\nmethods for Flow Matching and Diffusion models, and is also extended to their\nmodifications, such as Bridge Matching and Stochastic Interpolants.",
+            "pdf_url": "http://arxiv.org/pdf/2509.22459v1",
+            "published": "2025-09-26 15:12:02+00:00",
+            "updated": "2025-09-26 15:12:02+00:00"
+        }
+    ],
+    "Quantitative Finance": [
+        {
+            "title": "QuantMind: A Context-Engineering Based Knowledge Framework for Quantitative Finance",
+            "authors": "Haoxue Wang, Keli Wen, Yuante Li, Qiancheng Qu, Xiangxu Mu, Xinjie Shen, Jiaqi Gao, Chenyang Chang, Chuhan Xie, San Yu Cheung, Zhuoyuan Hu, Xinyu Wang, Sirui Bi, Bi'an Du",
+            "summary": "Quantitative research increasingly relies on unstructured financial content\nsuch as filings, earnings calls, and research notes, yet existing LLM and RAG\npipelines struggle with point-in-time correctness, evidence attribution, and\nintegration into research workflows. To tackle this, We present QuantMind, an\nintelligent knowledge extraction and retrieval framework tailored to\nquantitative finance. QuantMind adopts a two-stage architecture: (i) a\nknowledge extraction stage that transforms heterogeneous documents into\nstructured knowledge through multi-modal parsing of text, tables, and formulas,\nadaptive summarization for scalability, and domain-specific tagging for\nfine-grained indexing; and (ii) an intelligent retrieval stage that integrates\nsemantic search with flexible strategies, multi-hop reasoning across sources,\nand knowledge-aware generation for auditable outputs. A controlled user study\ndemonstrates that QuantMind improves both factual accuracy and user experience\ncompared to unaided reading and generic AI assistance, underscoring the value\nof structured, domain-specific context engineering for finance.",
+            "pdf_url": "http://arxiv.org/pdf/2509.21507v1",
+            "published": "2025-09-25 20:01:10+00:00",
+            "updated": "2025-09-25 20:01:10+00:00"
+        }
+    ]
+}

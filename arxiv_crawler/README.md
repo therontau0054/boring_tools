@@ -214,6 +214,36 @@ TODO:
 
 
 
+
+## Update on 2025-09-29
+
+### Physics
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-09-26|2025-09-26|Toward a Physics of Deep Learning and Brains|Arsham Ghavasieh|[2509.22649v1](http://arxiv.org/pdf/2509.22649v1)|
+|2025-09-26|2025-09-26|Overview of the ESCAPE Dark Matter Test Science Project for Astronomers|James Pearson|[2509.22609v1](http://arxiv.org/pdf/2509.22609v1)|
+|2025-09-26|2025-09-26|Probing Fractional Quantum Hall states in weakly interacting Fermi gases|Viktor Bekassy|[2509.22606v1](http://arxiv.org/pdf/2509.22606v1)|
+|2025-09-26|2025-09-26|Relativistic Quantum Simulation under Periodic and Dirichlet Boundary Conditions: A First-Quantised Framework for Near-Term Devices|Jaewoo Joo|[2509.22579v1](http://arxiv.org/pdf/2509.22579v1)|
+|2025-04-14|2025-09-26|A $ν$ look at the Sun: Probing the conditions of the solar core using $^8$B neutrinos|Melanie A. Zaidel|[2504.10583v2](http://arxiv.org/pdf/2504.10583v2)|
+|2025-05-30|2025-09-26|Two failure modes of deep transformers and how to avoid them: a unified theory of signal propagation at initialisation|Alessio Giorlandino|[2505.24333v2](http://arxiv.org/pdf/2505.24333v2)|
+|2025-09-26|2025-09-26|Naturalistic intuitionism for physics|Bruno Bentzen|[2509.22528v1](http://arxiv.org/pdf/2509.22528v1)|
+|2025-09-19|2025-09-26|Dirac Oscillator for Spin-1/2 Particles in a Spinning Cosmic String Spacetime with Spacelike Disclination and Dislocation|Abdelmalek Boumali|[2509.18197v2](http://arxiv.org/pdf/2509.18197v2)|
+|2025-09-26|2025-09-26|Cryogenic In-Memory Computing with Phase-Change Memory|Davide G. F. Lombardo|[2509.22511v1](http://arxiv.org/pdf/2509.22511v1)|
+|2025-09-26|2025-09-26|Model Training, Data Assimilation, and Forecast Experiments with a Hybrid Atmospheric Model that Incorporates Machine Learning|Dylan Elliott|[2509.22465v1](http://arxiv.org/pdf/2509.22465v1)|
+
+### Diffusion
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-09-26|2025-09-26|Scale-Wise VAR is Secretly Discrete Diffusion|Amandeep Kumar|[2509.22636v1](http://arxiv.org/pdf/2509.22636v1)|
+|2025-09-26|2025-09-26|Training-Free Synthetic Data Generation with Dual IP-Adapter Guidance|Luc Boudier|[2509.22635v1](http://arxiv.org/pdf/2509.22635v1)|
+|2025-06-23|2025-09-26|TAMMs: Temporal-Aware Multimodal Model for Satellite Image Change Understanding and Forecasting|Zhongbin Guo|[2506.18862v2](http://arxiv.org/pdf/2506.18862v2)|
+|2025-09-26|2025-09-26|JointDiff: Bridging Continuous and Discrete in Multi-Agent Trajectory Generation|Guillem Capellera|[2509.22522v1](http://arxiv.org/pdf/2509.22522v1)|
+|2025-09-26|2025-09-26|Universal Inverse Distillation for Matching Models with Real-Data Supervision (No GANs)|Nikita Kornilov|[2509.22459v1](http://arxiv.org/pdf/2509.22459v1)|
+
+### Quantitative Finance
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-09-25|2025-09-25|QuantMind: A Context-Engineering Based Knowledge Framework for Quantitative Finance|Haoxue Wang|[2509.21507v1](http://arxiv.org/pdf/2509.21507v1)|
 ## Update on 2025-09-27
 
 ### Physics
