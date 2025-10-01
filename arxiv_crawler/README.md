@@ -215,6 +215,37 @@ TODO:
 
 
 
+
+## Update on 2025-10-01
+
+### Physics
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-09-30|2025-09-30|AccidentBench: Benchmarking Multimodal Understanding and Reasoning in Vehicle Accidents and Beyond|Shangding Gu|[2509.26636v1](http://arxiv.org/pdf/2509.26636v1)|
+|2025-09-30|2025-09-30|OmniRetarget: Interaction-Preserving Data Generation for Humanoid Whole-Body Loco-Manipulation and Scene Interaction|Lujie Yang|[2509.26633v1](http://arxiv.org/pdf/2509.26633v1)|
+|2025-09-30|2025-09-30|Quantum Optics and Quantum Electrodynamics of Strong Field Processes|Marcelo F. Ciappina|[2509.26602v1](http://arxiv.org/pdf/2509.26602v1)|
+|2025-06-05|2025-09-30|ODE-GS: Latent ODEs for Dynamic Scene Extrapolation with 3D Gaussian Splatting|Daniel Wang|[2506.05480v3](http://arxiv.org/pdf/2506.05480v3)|
+|2025-09-30|2025-09-30|Probing the Critical Point (CritPt) of AI Reasoning: a Frontier Physics Research Benchmark|Minhui Zhu|[2509.26574v1](http://arxiv.org/pdf/2509.26574v1)|
+|2025-06-30|2025-09-30|Elias' Encoding from Lagrangians and Renormalization|Alexander Kolpakov|[2506.23447v4](http://arxiv.org/pdf/2506.23447v4)|
+|2025-09-30|2025-09-30|The REDTOP experiment: a $η/η^{\prime}$ factory to explore dark matter and physics beyond the Standard Model|Marcin Zielinski|[2509.26552v1](http://arxiv.org/pdf/2509.26552v1)|
+|2025-09-30|2025-09-30|Interdisciplinary Digital Twin Engine InterTwin for calorimeter simulation|Corentin Allaire|[2509.26527v1](http://arxiv.org/pdf/2509.26527v1)|
+|2025-09-30|2025-09-30|Electromagnetically driven, environmentally adaptive, and functionally switchable hydrodynamic devices|Chen-Long Wu|[2509.26491v1](http://arxiv.org/pdf/2509.26491v1)|
+|2025-09-30|2025-09-30|Nondestructive characterization of laser-cooled atoms using machine learning|G. De Sousa|[2509.26479v1](http://arxiv.org/pdf/2509.26479v1)|
+
+### Diffusion
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-09-30|2025-09-30|Stitch: Training-Free Position Control in Multimodal Diffusion Transformers|Jessica Bader|[2509.26644v1](http://arxiv.org/pdf/2509.26644v1)|
+|2025-09-30|2025-09-30|Learning to See Before Seeing: Demystifying LLM Visual Priors from Language Pre-training|Junlin Han|[2509.26625v1](http://arxiv.org/pdf/2509.26625v1)|
+|2025-09-30|2025-09-30|HilbertA: Hilbert Attention for Image Generation with Diffusion Models|Shaoyi Zheng|[2509.26538v1](http://arxiv.org/pdf/2509.26538v1)|
+|2025-01-26|2025-09-30|CE-SDWV: Effective and Efficient Concept Erasure for Text-to-Image Diffusion Models via a Semantic-Driven Word Vocabulary|Jiahang Tu|[2501.15562v2](http://arxiv.org/pdf/2501.15562v2)|
+|2025-09-30|2025-09-30|Contrastive Diffusion Guidance for Spatial Inverse Problems|Sattwik Basu|[2509.26489v1](http://arxiv.org/pdf/2509.26489v1)|
+
+### Quantitative Finance
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-09-29|2025-09-30|AlphaSAGE: Structure-Aware Alpha Mining via GFlowNets for Robust Exploration|Binqi Chen|[2509.25055v2](http://arxiv.org/pdf/2509.25055v2)|
+|2025-09-28|2025-09-28|Rethinking Portfolio Risk: Forecasting Volatility Through Cointegrated Asset Dynamics|Gabriele Casto|[2509.23533v1](http://arxiv.org/pdf/2509.23533v1)|
 ## Update on 2025-09-29
 
 ### Physics
