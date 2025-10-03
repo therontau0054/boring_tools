@@ -216,6 +216,36 @@ TODO:
 
 
 
+
+## Update on 2025-10-03
+
+### Physics
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-10-02|2025-10-02|Inferring Dynamic Physical Properties from Video Foundation Models|Guanqi Zhan|[2510.02311v1](http://arxiv.org/pdf/2510.02311v1)|
+|2025-10-02|2025-10-02|Astrophysical Consequences of an Electroweak $\etaw$ Pseudo-Scalar|Hooman Davoudiasl|[2510.02310v1](http://arxiv.org/pdf/2510.02310v1)|
+|2025-10-02|2025-10-02|Learning to Generate Object Interactions with Physics-Guided Video Diffusion|David Romero|[2510.02284v1](http://arxiv.org/pdf/2510.02284v1)|
+|2025-10-02|2025-10-02|Transformers Discover Molecular Structure Without Graph Priors|Tobias Kreiman|[2510.02259v1](http://arxiv.org/pdf/2510.02259v1)|
+|2025-10-02|2025-10-02|The (PXP)$^2$ model: long-range quantum scars in optical cavities|Hossein Hosseinabadi|[2510.02246v1](http://arxiv.org/pdf/2510.02246v1)|
+|2025-10-02|2025-10-02|PUL-Inter-slice Defender: An Anomaly Detection Solution for Distributed Slice Mobility Attacks|Ricardo Misael Ayala Molina|[2510.02236v1](http://arxiv.org/pdf/2510.02236v1)|
+|2025-10-02|2025-10-02|Constraints on New Physics from decays of polarized $Λ_b^0$ baryons at the FCC-ee|Anja Beck|[2510.02225v1](http://arxiv.org/pdf/2510.02225v1)|
+|2025-04-06|2025-10-02|Multimessenger consistency relations bridging gravitational wave and large scale structure observations|Antonio Enea Romano|[2504.04574v4](http://arxiv.org/pdf/2504.04574v4)|
+|2025-10-02|2025-10-02|Phonon Spin Selective One-Way Axial Phonon Transport in Chiral Nanohelix|Jia Li|[2510.02221v1](http://arxiv.org/pdf/2510.02221v1)|
+|2025-10-02|2025-10-02|Quantum Fisher information matrices from Rényi relative entropies|Mark M. Wilde|[2510.02218v1](http://arxiv.org/pdf/2510.02218v1)|
+
+### Diffusion
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-10-02|2025-10-02|NoiseShift: Resolution-Aware Noise Recalibration for Better Low-Resolution Image Generation|Ruozhen He|[2510.02307v1](http://arxiv.org/pdf/2510.02307v1)|
+|2025-10-02|2025-10-02|Diffusion Models and the Manifold Hypothesis: Log-Domain Smoothing is Geometry Adaptive|Tyler Farghly|[2510.02305v1](http://arxiv.org/pdf/2510.02305v1)|
+|2025-10-02|2025-10-02|Equilibrium Matching: Generative Modeling with Implicit Energy-Based Models|Runqian Wang|[2510.02300v1](http://arxiv.org/pdf/2510.02300v1)|
+|2025-10-02|2025-10-02|Continual Personalization for Diffusion Models|Yu-Chien Liao|[2510.02296v1](http://arxiv.org/pdf/2510.02296v1)|
+|2025-10-02|2025-10-02|Test-Time Anchoring for Discrete Diffusion Posterior Sampling|Litu Rout|[2510.02291v1](http://arxiv.org/pdf/2510.02291v1)|
+
+### Quantitative Finance
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-10-02|2025-10-02|Mean-field theory of the Santa Fe model revisited: a systematic derivation from an exact BBGKY hierarchy for the zero-intelligence limit-order book model|Taiki Wakatsuki|[2510.01814v1](http://arxiv.org/pdf/2510.01814v1)|
 ## Update on 2025-10-01
 
 ### Physics
