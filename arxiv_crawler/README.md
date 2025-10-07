@@ -217,6 +217,38 @@ TODO:
 
 
 
+
+## Update on 2025-10-07
+
+### Physics
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2016-12-15|2025-10-06|Entropic convergence and the linearized limit for the Boltzmann equation with external force|Tina Mai|[1612.05096v2](http://arxiv.org/pdf/1612.05096v2)|
+|2025-10-06|2025-10-06|A comprehensive study of $Λ_c^- \to Λ(\to p π) μ^- \bar ν_μ$ incorporating SMEFT implications and right-handed neutrino|Priyanka Boora|[2510.05050v1](http://arxiv.org/pdf/2510.05050v1)|
+|2025-03-06|2025-10-06|Machine learning in top quark physics at ATLAS and CMS|Matthias Komm|[2503.04289v2](http://arxiv.org/pdf/2503.04289v2)|
+|2025-03-25|2025-10-06|Phenomenological implications of a class of non-invertible selection rules|Motoo Suzuki|[2503.19964v2](http://arxiv.org/pdf/2503.19964v2)|
+|2025-10-06|2025-10-06|Probing the Higgs potential at a Photon Collider|Marten Berger|[2510.05012v1](http://arxiv.org/pdf/2510.05012v1)|
+|2025-10-06|2025-10-06|Optimización de la Transmisión de Estados Cuánticos en Cadenas de Qubits usando Deep Reinforcement Learning y Algoritmos Genéticos|Sofía Perón Santana|[2510.05010v1](http://arxiv.org/pdf/2510.05010v1)|
+|2025-10-06|2025-10-06|Correcting quantum errors using a classical code and one additional qubit|Tenzan Araki|[2510.05008v1](http://arxiv.org/pdf/2510.05008v1)|
+|2025-09-08|2025-10-06|Physics-informed Value Learner for Offline Goal-Conditioned Reinforcement Learning|Vittorio Giammarino|[2509.06782v2](http://arxiv.org/pdf/2509.06782v2)|
+|2025-05-25|2025-10-06|SeePhys: Does Seeing Help Thinking? -- Benchmarking Vision-Based Physics Reasoning|Kun Xiang|[2505.19099v8](http://arxiv.org/pdf/2505.19099v8)|
+|2025-10-06|2025-10-06|Aligning Perception, Reasoning, Modeling and Interaction: A Survey on Physical AI|Kun Xiang|[2510.04978v1](http://arxiv.org/pdf/2510.04978v1)|
+
+### Diffusion
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-10-06|2025-10-06|Finish First, Perfect Later: Test-Time Token-Level Cross-Validation for Diffusion Large Language Models|Runchu Tian|[2510.05090v1](http://arxiv.org/pdf/2510.05090v1)|
+|2025-10-06|2025-10-06|SAEdit: Token-level control for continuous image editing via Sparse AutoEncoder|Ronen Kamenetsky|[2510.05081v1](http://arxiv.org/pdf/2510.05081v1)|
+|2025-10-06|2025-10-06|SwiReasoning: Switch-Thinking in Latent and Explicit for Pareto-Superior Reasoning LLMs|Dachuan Shi|[2510.05069v1](http://arxiv.org/pdf/2510.05069v1)|
+|2025-10-02|2025-10-06|Diffusion^2: Turning 3D Environments into Radio Frequency Heatmaps|Kyoungjun Park|[2510.02274v2](http://arxiv.org/pdf/2510.02274v2)|
+|2025-10-06|2025-10-06|Test-Time Scaling in Diffusion LLMs via Hidden Semi-Autoregressive Experts|Jihoon Lee|[2510.05040v1](http://arxiv.org/pdf/2510.05040v1)|
+
+### Quantitative Finance
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-10-06|2025-10-06|Trade in Minutes! Rationality-Driven Agentic System for Quantitative Financial Trading|Zifan Song|[2510.04787v1](http://arxiv.org/pdf/2510.04787v1)|
+|2025-10-05|2025-10-05|Towards Fast Option Pricing PDE Solvers Powered by PIELM|Akshay Govind Srinivasan|[2510.04322v1](http://arxiv.org/pdf/2510.04322v1)|
+|2025-10-03|2025-10-03|Signature-Informed Transformer for Asset Allocation|Yoontae Hwang|[2510.03129v1](http://arxiv.org/pdf/2510.03129v1)|
 ## Update on 2025-10-03
 
 ### Physics

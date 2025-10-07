@@ -1,0 +1,152 @@
+{
+    "Physics": [
+        {
+            "title": "Entropic convergence and the linearized limit for the Boltzmann equation with external force",
+            "authors": "Tina Mai",
+            "summary": "This paper extends the results regarding entropic convergence and the strong\nlinearized limit for the Boltzmann equation (without external force) in [C.\nDavid Levermore. Entropic convergence and the linearized limit for the\nBoltzmann equation. Communications in Partial Differential Equations,\n18(7-8):1231--1248, 1993] to the case of the Boltzmann equation with external\nforce. Our starting point is the Boltzmann equation with an external force\nintroduced in [Diogo Ars\\'enio and Laure Saint-Raymond. From the\nVlasov--Maxwell--Boltzmann System to Incompressible Viscous\nElectro-magneto-hydrodynamics, EMS Press, 2019], we then find new conditions on\nthe force and rigorously prove the maintaining result by Levermore. More\nspecifically, any sequence of DiPerna-Lions renormalized solutions of the\nBoltzmann equation with external force are shown to have fluctuations (about\nthe global Maxwellian equilibrium $M$) that converge entropically (and hence\nstrongly in $L^1$) to the solution of the linearized Boltzmann equation for any\npositive time, given that its initial fluctuations about $M$ converge\nentropically to the provided $L^2$ initial data of the linearized equation,\nwhere the force can be physically significant.",
+            "pdf_url": "http://arxiv.org/pdf/1612.05096v2",
+            "published": "2016-12-15 14:58:14+00:00",
+            "updated": "2025-10-06 17:58:05+00:00"
+        },
+        {
+            "title": "A comprehensive study of $\u039b_c^- \\to \u039b(\\to p \u03c0) \u03bc^- \\bar \u03bd_\u03bc$ incorporating SMEFT implications and right-handed neutrino",
+            "authors": "Priyanka Boora, Siddhartha Karmakar, Dinesh Kumar, Kavita Lalwani",
+            "summary": "Charm baryon decays provide a complementary probe of new physics beyond the\nStandard Model. We study the decay $\\Lambda_c^- \\to \\Lambda (p \\pi) \\mu^- \\bar\n\\nu_{\\mu}$ in a model-independent effective field theory framework. This study\ncovers both the left-handed and right-handed neutrino interactions in the $c\n\\to s \\mu \\nu_{\\mu}$ transition. For the left-handed neutrino operators, we\nincorporate the implications of the Standard Model effective field theory and\ndo a global fit considering several observables sensitive to these operators.\nBased on the allowed parameter space of the new-physics operators, we analyze\nthe differential rates, forward-backward asymmetries, polarization asymmetries\nof the final-state hadron and lepton in $\\Lambda_c^- \\to \\Lambda \\mu^- \\bar\n\\nu_{\\mu}$, and the angular coefficients in 4-body angular distribution of\n$\\Lambda_c^- \\to \\Lambda (\\to p \\pi) \\mu^- \\bar \\nu_{\\mu}$. Our results\nhighlight distinctive signatures of certain operators involving right-handed\nquark currents and provide predictions that can be tested at BESIII, Belle II,\nand LHCb.",
+            "pdf_url": "http://arxiv.org/pdf/2510.05050v1",
+            "published": "2025-10-06 17:29:58+00:00",
+            "updated": "2025-10-06 17:29:58+00:00"
+        },
+        {
+            "title": "Machine learning in top quark physics at ATLAS and CMS",
+            "authors": "Matthias Komm",
+            "summary": "This note presents an overview of current and potential future applications\nof machine-learning-based techniques in the study of the top quark. The\nresearch community has developed a diverse set of ideas and tools, including\nalgorithms for the efficient reconstruction of recorded collision events and\ninnovative methods for statistical inference. Recent applications of some\ntechniques by the ATLAS and CMS collaborations are also highlighted.",
+            "pdf_url": "http://arxiv.org/pdf/2503.04289v2",
+            "published": "2025-03-06 10:17:11+00:00",
+            "updated": "2025-10-06 17:29:15+00:00"
+        },
+        {
+            "title": "Phenomenological implications of a class of non-invertible selection rules",
+            "authors": "Motoo Suzuki, Ling-Xiao Xu",
+            "summary": "Through well-motivated models in particle physics, we demonstrate the power\nof a general class of selection rules arising from non-invertible fusion\nalgebras that are only exact at low orders in perturbation theory.\nSurprisingly, these non-invertible selection rules can even be applied to the\nminimal extension of the Standard Model, which is to add a gauge-singlet real\nscalar. In this model, we show that Fibonacci fusion rules lead to\nexperimentally testable features for the scattering processes of the real\nscalar. We anticipate that this class of non-invertible selection rules can be\napplied to a wide range of models beyond the Standard Model. To further\nstrengthen our methodology, we discuss a dark matter model based on the Ising\nfusion rules, where the dark matter is labeled by the non-invertible element in\nthe algebra, hence its stability is preserved at all loop orders.",
+            "pdf_url": "http://arxiv.org/pdf/2503.19964v2",
+            "published": "2025-03-25 18:00:01+00:00",
+            "updated": "2025-10-06 17:15:50+00:00"
+        },
+        {
+            "title": "Probing the Higgs potential at a Photon Collider",
+            "authors": "Marten Berger, Johannes Braathen, Gudrid Moortgat-Pick, Georg Weiglein",
+            "summary": "A $\\gamma\\gamma$ collider, either in conjunction with an $e^+e^-$ linear\ncollider or as a stand-alone facility, offers a very attractive Higgs physics\nprogramme at relatively low centre-of-mass (c.m.) energies. While the Higgs\nboson that has been discovered at the LHC can be studied in detail in resonant\nproduction at 125~GeV, a c.m.\\ energy as low as 280~GeV can probe the Higgs\npotential via the Higgs pair production process providing access to the\ntrilinear Higgs-boson self-coupling. High polarisation of the photon beams\n(produced via Compton back-scattering) can be achieved and adjusted by flipping\nthe polarisation of the incident laser. The prospects for exploring the Higgs\npair production process at a $\\gamma\\gamma$ collider are assessed by comparing\ndifferent running scenarios utilising different types of the incident laser.\nThe possibility to use photon polarisations for disentangling different kinds\nof contributions to the Higgs pair production process is emphasised.",
+            "pdf_url": "http://arxiv.org/pdf/2510.05012v1",
+            "published": "2025-10-06 16:53:22+00:00",
+            "updated": "2025-10-06 16:53:22+00:00"
+        },
+        {
+            "title": "Optimizaci\u00f3n de la Transmisi\u00f3n de Estados Cu\u00e1nticos en Cadenas de Qubits usando Deep Reinforcement Learning y Algoritmos Gen\u00e9ticos",
+            "authors": "Sof\u00eda Per\u00f3n Santana, Ariel Fiuri, Omar Osenda, Mart\u00edn Dom\u00ednguez",
+            "summary": "Quantum state transfer (QST) via homogeneous spin chains plays a crucial role\nin building scalable quantum hardware. A basic quantum state transmission\nprotocol prepares a state in one qubit and transfers it to another through a\nchannel, seeking to minimize the time and avoid information loss. The fidelity\nof the process is measured by functions proportional to the transition\nprobability between both states. We approach this optimization problem using\nconstant magnetic pulses and two complementary strategies: deep reinforcement\nlearning, where an agent learns pulse sequences through rewards, and genetic\nalgorithms, which develop candidate solutions through selection and mutation.\nWe analyze the efficiency of both methods and their ability to incorporate\nphysical constraints.",
+            "pdf_url": "http://arxiv.org/pdf/2510.05010v1",
+            "published": "2025-10-06 16:52:21+00:00",
+            "updated": "2025-10-06 16:52:21+00:00"
+        },
+        {
+            "title": "Correcting quantum errors using a classical code and one additional qubit",
+            "authors": "Tenzan Araki, Joseph F. Goodwin, Zhenyu Cai",
+            "summary": "Classical error-correcting codes are powerful but incompatible with quantum\nnoise, which includes both bit-flips and phase-flips. We introduce\nHadamard-based Virtual Error Correction (H-VEC), a protocol that empowers any\nclassical bit-flip code to correct arbitrary Pauli noise with the addition of\nonly a single ancilla qubit and two layers of controlled-Hadamard gates.\nThrough classical post-processing, H-VEC virtually filters the error channel,\nprojecting the noise into pure Y-type errors that are subsequently corrected\nusing the classical code's native decoding algorithm. We demonstrate this by\napplying H-VEC to the classical repetition code. Under a code-capacity noise\nmodel, the resulting protocol not only provides full quantum protection but\nalso achieves an exponentially stronger error suppression (in distance) than\nthe original classical code, and even larger improvements over the surface code\nwhile using much fewer qubits, simpler checks and straight-forward decoding.\nH-VEC comes with a sampling overhead due to its post-processing nature. It\nrepresents a new hybrid quantum error correction and mitigation framework that\nredefines the trade-offs between physical hardware requirements and classical\nprocessing for error suppression.",
+            "pdf_url": "http://arxiv.org/pdf/2510.05008v1",
+            "published": "2025-10-06 16:52:05+00:00",
+            "updated": "2025-10-06 16:52:05+00:00"
+        },
+        {
+            "title": "Physics-informed Value Learner for Offline Goal-Conditioned Reinforcement Learning",
+            "authors": "Vittorio Giammarino, Ruiqi Ni, Ahmed H. Qureshi",
+            "summary": "Offline Goal-Conditioned Reinforcement Learning (GCRL) holds great promise\nfor domains such as autonomous navigation and locomotion, where collecting\ninteractive data is costly and unsafe. However, it remains challenging in\npractice due to the need to learn from datasets with limited coverage of the\nstate-action space and to generalize across long-horizon tasks. To improve on\nthese challenges, we propose a \\emph{Physics-informed (Pi)} regularized loss\nfor value learning, derived from the Eikonal Partial Differential Equation\n(PDE) and which induces a geometric inductive bias in the learned value\nfunction. Unlike generic gradient penalties that are primarily used to\nstabilize training, our formulation is grounded in continuous-time optimal\ncontrol and encourages value functions to align with cost-to-go structures. The\nproposed regularizer is broadly compatible with temporal-difference-based value\nlearning and can be integrated into existing Offline GCRL algorithms. When\ncombined with Hierarchical Implicit Q-Learning (HIQL), the resulting method,\nEikonal-regularized HIQL (Eik-HIQL), yields significant improvements in both\nperformance and generalization, with pronounced gains in stitching regimes and\nlarge-scale navigation tasks.",
+            "pdf_url": "http://arxiv.org/pdf/2509.06782v2",
+            "published": "2025-09-08 15:08:42+00:00",
+            "updated": "2025-10-06 16:26:44+00:00"
+        },
+        {
+            "title": "SeePhys: Does Seeing Help Thinking? -- Benchmarking Vision-Based Physics Reasoning",
+            "authors": "Kun Xiang, Heng Li, Terry Jingchen Zhang, Yinya Huang, Zirong Liu, Peixin Qu, Jixi He, Jiaqi Chen, Yu-Jie Yuan, Jianhua Han, Hang Xu, Hanhui Li, Mrinmaya Sachan, Xiaodan Liang",
+            "summary": "We present SeePhys, a large-scale multimodal benchmark for LLM reasoning\ngrounded in physics questions ranging from middle school to PhD qualifying\nexams. The benchmark covers 7 fundamental domains spanning the physics\ndiscipline, incorporating 21 categories of highly heterogeneous diagrams. In\ncontrast to prior works where visual elements mainly serve auxiliary purposes,\nour benchmark features a substantial proportion of vision-essential problems\n(75%) that mandate visual information extraction for correct solutions. Through\nextensive evaluation, we observe that even the most advanced visual reasoning\nmodels (e.g., Gemini-2.5-pro and o4-mini) achieve sub-60% accuracy on our\nbenchmark. These results reveal fundamental challenges in current large\nlanguage models' visual understanding capabilities, particularly in: (i)\nestablishing rigorous coupling between diagram interpretation and physics\nreasoning, and (ii) overcoming their persistent reliance on textual cues as\ncognitive shortcuts.",
+            "pdf_url": "http://arxiv.org/pdf/2505.19099v8",
+            "published": "2025-05-25 11:28:34+00:00",
+            "updated": "2025-10-06 16:16:33+00:00"
+        },
+        {
+            "title": "Aligning Perception, Reasoning, Modeling and Interaction: A Survey on Physical AI",
+            "authors": "Kun Xiang, Terry Jingchen Zhang, Yinya Huang, Jixi He, Zirong Liu, Yueling Tang, Ruizhe Zhou, Lijing Luo, Youpeng Wen, Xiuwei Chen, Bingqian Lin, Jianhua Han, Hang Xu, Hanhui Li, Bin Dong, Xiaodan Liang",
+            "summary": "The rapid advancement of embodied intelligence and world models has\nintensified efforts to integrate physical laws into AI systems, yet physical\nperception and symbolic physics reasoning have developed along separate\ntrajectories without a unified bridging framework. This work provides a\ncomprehensive overview of physical AI, establishing clear distinctions between\ntheoretical physics reasoning and applied physical understanding while\nsystematically examining how physics-grounded methods enhance AI's real-world\ncomprehension across structured symbolic reasoning, embodied systems, and\ngenerative models. Through rigorous analysis of recent advances, we advocate\nfor intelligent systems that ground learning in both physical principles and\nembodied reasoning processes, transcending pattern recognition toward genuine\nunderstanding of physical laws. Our synthesis envisions next-generation world\nmodels capable of explaining physical phenomena and predicting future states,\nadvancing safe, generalizable, and interpretable AI systems. We maintain a\ncontinuously updated resource at\nhttps://github.com/AI4Phys/Awesome-AI-for-Physics.",
+            "pdf_url": "http://arxiv.org/pdf/2510.04978v1",
+            "published": "2025-10-06 16:16:03+00:00",
+            "updated": "2025-10-06 16:16:03+00:00"
+        }
+    ],
+    "Diffusion": [
+        {
+            "title": "Finish First, Perfect Later: Test-Time Token-Level Cross-Validation for Diffusion Large Language Models",
+            "authors": "Runchu Tian, Junxia Cui, Xueqiang Xu, Feng Yao, Jingbo Shang",
+            "summary": "Diffusion large language models (dLLMs) have recently emerged as a promising\nalternative to autoregressive (AR) models, offering advantages such as\naccelerated parallel decoding and bidirectional context modeling. However, the\nvanilla decoding strategy in discrete dLLMs suffers from a critical limitation:\nonce a token is accepted, it can no longer be revised in subsequent steps. As a\nresult, early mistakes persist across iterations, harming both intermediate\npredictions and final output quality. To address this issue, we propose\nTolerator (Token-Level Cross-Validation Refinement), a training-free decoding\nstrategy that leverages cross-validation among predicted tokens. Unlike\nexisting methods that follow a single progressive unmasking procedure,\nTolerator introduces a two-stage process: (i) sequence fill-up and (ii)\niterative refinement by remasking and decoding a subset of tokens while\ntreating the remaining as context. This design enables previously accepted\ntokens to be reconsidered and corrected when necessary, leading to more\nreliable diffusion decoding outputs. We evaluate Tolerator on five standard\nbenchmarks covering language understanding, code generation, and mathematics.\nExperiments show that our method achieves consistent improvements over the\nbaselines under the same computational budget. These findings suggest that\ndecoding algorithms are crucial to realizing the full potential of diffusion\nlarge language models. Code and data are publicly available.",
+            "pdf_url": "http://arxiv.org/pdf/2510.05090v1",
+            "published": "2025-10-06 17:56:46+00:00",
+            "updated": "2025-10-06 17:56:46+00:00"
+        },
+        {
+            "title": "SAEdit: Token-level control for continuous image editing via Sparse AutoEncoder",
+            "authors": "Ronen Kamenetsky, Sara Dorfman, Daniel Garibi, Roni Paiss, Or Patashnik, Daniel Cohen-Or",
+            "summary": "Large-scale text-to-image diffusion models have become the backbone of modern\nimage editing, yet text prompts alone do not offer adequate control over the\nediting process. Two properties are especially desirable: disentanglement,\nwhere changing one attribute does not unintentionally alter others, and\ncontinuous control, where the strength of an edit can be smoothly adjusted. We\nintroduce a method for disentangled and continuous editing through token-level\nmanipulation of text embeddings. The edits are applied by manipulating the\nembeddings along carefully chosen directions, which control the strength of the\ntarget attribute. To identify such directions, we employ a Sparse Autoencoder\n(SAE), whose sparse latent space exposes semantically isolated dimensions. Our\nmethod operates directly on text embeddings without modifying the diffusion\nprocess, making it model agnostic and broadly applicable to various image\nsynthesis backbones. Experiments show that it enables intuitive and efficient\nmanipulations with continuous control across diverse attributes and domains.",
+            "pdf_url": "http://arxiv.org/pdf/2510.05081v1",
+            "published": "2025-10-06 17:51:04+00:00",
+            "updated": "2025-10-06 17:51:04+00:00"
+        },
+        {
+            "title": "SwiReasoning: Switch-Thinking in Latent and Explicit for Pareto-Superior Reasoning LLMs",
+            "authors": "Dachuan Shi, Abedelkadir Asi, Keying Li, Xiangchi Yuan, Leyan Pan, Wenke Lee, Wen Xiao",
+            "summary": "Recent work shows that, beyond discrete reasoning through explicit\nchain-of-thought steps, which are limited by the boundaries of natural\nlanguages, large language models (LLMs) can also reason continuously in latent\nspace, allowing richer information per step and thereby improving token\nefficiency. Despite this promise, latent reasoning still faces two challenges,\nespecially in training-free settings: 1) purely latent reasoning broadens the\nsearch distribution by maintaining multiple implicit paths, which diffuses\nprobability mass, introduces noise, and impedes convergence to a single\nhigh-confidence solution, thereby hurting accuracy; and 2) overthinking\npersists even without explicit text, wasting tokens and degrading efficiency.\nTo address these issues, we introduce SwiReasoning, a training-free framework\nfor LLM reasoning which features two key innovations: 1) SwiReasoning\ndynamically switches between explicit and latent reasoning, guided by\nblock-wise confidence estimated from entropy trends in next-token\ndistributions, to balance exploration and exploitation and promote timely\nconvergence. 2) By limiting the maximum number of thinking-block switches,\nSwiReasoning curbs overthinking and improves token efficiency across varying\nproblem difficulties. On widely used mathematics and STEM benchmarks,\nSwiReasoning consistently improves average accuracy by 1.5%-2.8% across\nreasoning LLMs of different model families and scales. Furthermore, under\nconstrained budgets, SwiReasoning improves average token efficiency by 56%-79%,\nwith larger gains as budgets tighten.",
+            "pdf_url": "http://arxiv.org/pdf/2510.05069v1",
+            "published": "2025-10-06 17:46:34+00:00",
+            "updated": "2025-10-06 17:46:34+00:00"
+        },
+        {
+            "title": "Diffusion^2: Turning 3D Environments into Radio Frequency Heatmaps",
+            "authors": "Kyoungjun Park, Yifan Yang, Changhan Ge, Lili Qiu, Shiqi Jiang",
+            "summary": "Modeling radio frequency (RF) signal propagation is essential for\nunderstanding the environment, as RF signals offer valuable insights beyond the\ncapabilities of RGB cameras, which are limited by the visible-light spectrum,\nlens coverage, and occlusions. It is also useful for supporting wireless\ndiagnosis, deployment, and optimization. However, accurately predicting RF\nsignals in complex environments remains a challenge due to interactions with\nobstacles such as absorption and reflection. We introduce Diffusion^2, a\ndiffusion-based approach that uses 3D point clouds to model the propagation of\nRF signals across a wide range of frequencies, from Wi-Fi to millimeter waves.\nTo effectively capture RF-related features from 3D data, we present the RF-3D\nEncoder, which encapsulates the complexities of 3D geometry along with\nsignal-specific details. These features undergo multi-scale embedding to\nsimulate the actual RF signal dissemination process. Our evaluation, based on\nsynthetic and real-world measurements, demonstrates that Diffusion^2 accurately\nestimates the behavior of RF signals in various frequency bands and\nenvironmental conditions, with an error margin of just 1.9 dB and 27x faster\nthan existing methods, marking a significant advancement in the field. Refer to\nhttps://rfvision-project.github.io/ for more information.",
+            "pdf_url": "http://arxiv.org/pdf/2510.02274v2",
+            "published": "2025-10-02 17:50:22+00:00",
+            "updated": "2025-10-06 17:44:43+00:00"
+        },
+        {
+            "title": "Test-Time Scaling in Diffusion LLMs via Hidden Semi-Autoregressive Experts",
+            "authors": "Jihoon Lee, Hoyeon Moon, Kevin Zhai, Arun Kumar Chithanar, Anit Kumar Sahu, Soummya Kar, Chul Lee, Souradip Chakraborty, Amrit Singh Bedi",
+            "summary": "Diffusion-based large language models (dLLMs) are trained flexibly to model\nextreme dependence in the data distribution; however, how to best utilize this\ninformation at inference time remains an open problem. In this work, we uncover\nan interesting property of these models: dLLMs trained on textual data\nimplicitly learn a mixture of semi-autoregressive experts, where different\ngeneration orders reveal different specialized behaviors. We show that\ncommitting to any single, fixed inference time schedule, a common practice,\ncollapses performance by failing to leverage this latent ensemble. To address\nthis, we introduce HEX (Hidden semiautoregressive EXperts for test-time\nscaling), a training-free inference method that ensembles across heterogeneous\nblock schedules. By doing a majority vote over diverse block-sized generation\npaths, HEX robustly avoids failure modes associated with any single fixed\nschedule. On reasoning benchmarks such as GSM8K, it boosts accuracy by up to\n3.56X (from 24.72% to 88.10%), outperforming top-K margin inference and\nspecialized fine-tuned methods like GRPO, without additional training. HEX even\nyields significant gains on MATH benchmark from 16.40% to 40.00%, scientific\nreasoning on ARC-C from 54.18% to 87.80%, and TruthfulQA from 28.36% to 57.46%.\nOur results establish a new paradigm for test-time scaling in diffusion-based\nLLMs (dLLMs), revealing that the sequence in which masking is performed plays a\ncritical role in determining performance during inference.",
+            "pdf_url": "http://arxiv.org/pdf/2510.05040v1",
+            "published": "2025-10-06 17:16:41+00:00",
+            "updated": "2025-10-06 17:16:41+00:00"
+        }
+    ],
+    "Quantitative Finance": [
+        {
+            "title": "Trade in Minutes! Rationality-Driven Agentic System for Quantitative Financial Trading",
+            "authors": "Zifan Song, Kaitao Song, Guosheng Hu, Ding Qi, Junyao Gao, Xiaohua Wang, Dongsheng Li, Cairong Zhao",
+            "summary": "Recent advancements in large language models (LLMs) and agentic systems have\nshown exceptional decision-making capabilities, revealing significant potential\nfor autonomic finance. Current financial trading agents predominantly simulate\nanthropomorphic roles that inadvertently introduce emotional biases and rely on\nperipheral information, while being constrained by the necessity for continuous\ninference during deployment. In this paper, we pioneer the harmonization of\nstrategic depth in agents with the mechanical rationality essential for\nquantitative trading. Consequently, we present TiMi (Trade in Minutes), a\nrationality-driven multi-agent system that architecturally decouples strategy\ndevelopment from minute-level deployment. TiMi leverages specialized LLM\ncapabilities of semantic analysis, code programming, and mathematical reasoning\nwithin a comprehensive policy-optimization-deployment chain. Specifically, we\npropose a two-tier analytical paradigm from macro patterns to micro\ncustomization, layered programming design for trading bot implementation, and\nclosed-loop optimization driven by mathematical reflection. Extensive\nevaluations across 200+ trading pairs in stock and cryptocurrency markets\nempirically validate the efficacy of TiMi in stable profitability, action\nefficiency, and risk control under volatile market dynamics.",
+            "pdf_url": "http://arxiv.org/pdf/2510.04787v1",
+            "published": "2025-10-06 13:08:55+00:00",
+            "updated": "2025-10-06 13:08:55+00:00"
+        },
+        {
+            "title": "Towards Fast Option Pricing PDE Solvers Powered by PIELM",
+            "authors": "Akshay Govind Srinivasan, Anuj Jagannath Said, Sathwik Pentela, Vikas Dwivedi, Balaji Srinivasan",
+            "summary": "Partial differential equation (PDE) solvers underpin modern quantitative\nfinance, governing option pricing and risk evaluation. Physics-Informed Neural\nNetworks (PINNs) have emerged as a promising approach for solving the forward\nand inverse problems of partial differential equations (PDEs) using deep\nlearning. However they remain computationally expensive due to their iterative\ngradient descent based optimization and scale poorly with increasing model\nsize. This paper introduces Physics-Informed Extreme Learning Machines (PIELMs)\nas fast alternative to PINNs for solving both forward and inverse problems in\nfinancial PDEs. PIELMs replace iterative optimization with a single\nleast-squares solve, enabling deterministic and efficient training. We\nbenchmark PIELM on the Black-Scholes and Heston-Hull-White models for forward\npricing and demonstrate its capability in inverse model calibration to recover\nvolatility and interest rate parameters from noisy data. From experiments we\nobserve that PIELM achieve accuracy comparable to PINNs while being up to\n$30\\times$ faster, highlighting their potential for real-time financial\nmodeling.",
+            "pdf_url": "http://arxiv.org/pdf/2510.04322v1",
+            "published": "2025-10-05 18:50:49+00:00",
+            "updated": "2025-10-05 18:50:49+00:00"
+        },
+        {
+            "title": "Signature-Informed Transformer for Asset Allocation",
+            "authors": "Yoontae Hwang, Stefan Zohren",
+            "summary": "Robust asset allocation is a key challenge in quantitative finance, where\ndeep-learning forecasters often fail due to objective mismatch and error\namplification. We introduce the Signature-Informed Transformer (SIT), a novel\nframework that learns end-to-end allocation policies by directly optimizing a\nrisk-aware financial objective. SIT's core innovations include path signatures\nfor a rich geometric representation of asset dynamics and a signature-augmented\nattention mechanism embedding financial inductive biases, like lead-lag\neffects, into the model. Evaluated on daily S\\&P 100 equity data, SIT\ndecisively outperforms traditional and deep-learning baselines, especially when\ncompared to predict-then-optimize models. These results indicate that\nportfolio-aware objectives and geometry-aware inductive biases are essential\nfor risk-aware capital allocation in machine-learning systems. The code is\navailable at:\nhttps://github.com/Yoontae6719/Signature-Informed-Transformer-For-Asset-Allocation",
+            "pdf_url": "http://arxiv.org/pdf/2510.03129v1",
+            "published": "2025-10-03 15:58:21+00:00",
+            "updated": "2025-10-03 15:58:21+00:00"
+        }
+    ]
+}
