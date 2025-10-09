@@ -218,6 +218,31 @@ TODO:
 
 
 
+
+## Update on 2025-10-09
+
+### Physics
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-10-08|2025-10-08|GyroSwin: 5D Surrogates for Gyrokinetic Plasma Turbulence Simulations|Fabian Paischer|[2510.07314v1](http://arxiv.org/pdf/2510.07314v1)|
+|2025-10-08|2025-10-08|Is it Gaussian? Testing bosonic quantum states|Filippo Girardi|[2510.07305v1](http://arxiv.org/pdf/2510.07305v1)|
+|2025-10-08|2025-10-08|Effects of Wall Roughness on Coupled Flow and Heat Transport in Fractured Media|Alessandro Lenci|[2510.07294v1](http://arxiv.org/pdf/2510.07294v1)|
+|2025-10-08|2025-10-08|Quantum Replica Exchange|Zherui Chen|[2510.07291v1](http://arxiv.org/pdf/2510.07291v1)|
+|2025-10-08|2025-10-08|Muonium HFS Uncertainty Revisited|Michael I. Eides|[2510.07281v1](http://arxiv.org/pdf/2510.07281v1)|
+|2025-05-27|2025-10-08|Dual Natural Gradient Descent for Scalable Training of Physics-Informed Neural Networks|Anas Jnini|[2505.21404v2](http://arxiv.org/pdf/2505.21404v2)|
+|2025-10-08|2025-10-08|On quantum to classical comparison for Davies generators|Joao Basso|[2510.07267v1](http://arxiv.org/pdf/2510.07267v1)|
+|2025-01-30|2025-10-08|Statistical Estimates for 2D stochastic Navier-Stokes Equations|Anuj Kumar|[2501.18213v2](http://arxiv.org/pdf/2501.18213v2)|
+|2025-10-05|2025-10-08|Structure-Preserving MHD-Driftkinetic Discretization for Wave-Particle Interactions|Byung Kyu Na|[2510.04385v2](http://arxiv.org/pdf/2510.04385v2)|
+|2025-10-08|2025-10-08|Diffusion Codes: Self-Correction from Small(er)-Set Expansion with Tunable Non-locality|Adithya Sriram|[2510.07179v1](http://arxiv.org/pdf/2510.07179v1)|
+
+### Diffusion
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-02-11|2025-10-08|Bit-Level Discrete Diffusion with Markov Probabilistic Models: An Improved Framework with Sharp Convergence Bounds under Minimal Assumptions|Le-Tuyet-Nhi Pham|[2502.07939v2](http://arxiv.org/pdf/2502.07939v2)|
+|2025-01-08|2025-10-08|Generative AI for Cel-Animation: A Survey|Yolo Yunlong Tang|[2501.06250v4](http://arxiv.org/pdf/2501.06250v4)|
+|2025-10-08|2025-10-08|A Digital Twin Framework for Metamorphic Testing of Autonomous Driving Systems Using Generative Model|Tony Zhang|[2510.07133v1](http://arxiv.org/pdf/2510.07133v1)|
+|2025-10-08|2025-10-08|Graph Conditioned Diffusion for Controllable Histopathology Image Generation|Sarah Cechnicka|[2510.07129v1](http://arxiv.org/pdf/2510.07129v1)|
+|2025-10-08|2025-10-08|Diffusion-Augmented Reinforcement Learning for Robust Portfolio Optimization under Stress Scenarios|Himanshu Choudhary|[2510.07099v1](http://arxiv.org/pdf/2510.07099v1)|
 ## Update on 2025-10-07
 
 ### Physics
