@@ -219,6 +219,30 @@ TODO:
 
 
 
+
+## Update on 2025-10-11
+
+### Physics
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-07-01|2025-10-09|The Complexity of Thermalization in Finite Quantum Systems|Dhruv Devulapalli|[2507.00405v2](http://arxiv.org/pdf/2507.00405v2)|
+|2025-10-09|2025-10-09|Energy, Bosons and Computational Complexity|Ulysse Chabaud|[2510.08545v1](http://arxiv.org/pdf/2510.08545v1)|
+|2025-10-09|2025-10-09|A Dobrushin condition for quantum Markov chains: Rapid mixing and conditional mutual information at high temperature|Ainesh Bakshi|[2510.08542v1](http://arxiv.org/pdf/2510.08542v1)|
+|2024-05-06|2025-10-09|On anomalous dissipation induced by transport noise|Antonio Agresti|[2405.03525v3](http://arxiv.org/pdf/2405.03525v3)|
+|2025-10-09|2025-10-09|How hard is it to verify a classical shadow?|Georgios Karaiskos|[2510.08515v1](http://arxiv.org/pdf/2510.08515v1)|
+|2025-10-09|2025-10-09|The quantum communication power of indefinite causal order|Xuanqiang Zhao|[2510.08507v1](http://arxiv.org/pdf/2510.08507v1)|
+|2025-10-09|2025-10-09|Constraining the new contributions to electron $g-2$ in a radiative neutrino mass model|Bayu Dirgantara|[2510.08504v1](http://arxiv.org/pdf/2510.08504v1)|
+|2025-10-09|2025-10-09|Quantum Probe Tomography|Sitan Chen|[2510.08499v1](http://arxiv.org/pdf/2510.08499v1)|
+|2025-10-09|2025-10-09|Average-case quantum complexity from glassiness|Alexander Zlokapa|[2510.08497v1](http://arxiv.org/pdf/2510.08497v1)|
+
+### Diffusion
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-10-09|2025-10-09|Who Said Neural Networks Aren't Linear?|Nimrod Berman|[2510.08570v1](http://arxiv.org/pdf/2510.08570v1)|
+|2025-10-09|2025-10-09|Improving Reasoning for Diffusion Language Models via Group Diffusion Policy Optimization|Kevin Rojas|[2510.08554v1](http://arxiv.org/pdf/2510.08554v1)|
+|2025-10-09|2025-10-09|Permutation-Invariant Spectral Learning via Dyson Diffusion|Tassilo Schwarz|[2510.08535v1](http://arxiv.org/pdf/2510.08535v1)|
+|2025-10-09|2025-10-09|Wavefunction Flows: Efficient Quantum Simulation of Continuous Flow Models|David Layden|[2510.08462v1](http://arxiv.org/pdf/2510.08462v1)|
+|2025-10-09|2025-10-09|SummDiff: Generative Modeling of Video Summarization with Diffusion|Kwanseok Kim|[2510.08458v1](http://arxiv.org/pdf/2510.08458v1)|
 ## Update on 2025-10-09
 
 ### Physics
