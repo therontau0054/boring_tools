@@ -220,6 +220,31 @@ TODO:
 
 
 
+
+## Update on 2025-10-13
+
+### Physics
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-10-10|2025-10-10|Simplified Quantum Weight Reduction with Optimal Bounds|Min-Hsiu Hsieh|[2510.09601v1](http://arxiv.org/pdf/2510.09601v1)|
+|2025-10-10|2025-10-10|Optimal Binning for Small-Angle Neutron Scattering Data Using the Freedman-Diaconis Rule|Jessie E. An|[2510.09581v1](http://arxiv.org/pdf/2510.09581v1)|
+|2025-10-10|2025-10-10|Differential Analysis of Pseudo Haptic Feedback: Novel Comparative Study of Visual and Auditory Cue Integration for Psychophysical Evaluation|Nishant Gautam|[2510.09570v1](http://arxiv.org/pdf/2510.09570v1)|
+|2025-10-10|2025-10-10|Unveiling dynamical quantum error correcting codes via non-invertible symmetries|Rajath Radhakrishnan|[2510.09565v1](http://arxiv.org/pdf/2510.09565v1)|
+|2024-05-30|2025-10-10|Robo-Instruct: Simulator-Augmented Instruction Alignment For Finetuning Code LLMs|Zichao Hu|[2405.20179v5](http://arxiv.org/pdf/2405.20179v5)|
+|2025-06-12|2025-10-10|Generalized Modulated Symmetries in $\mathbb{Z}_2$ Topological Ordered Phases|Gustavo M. Yoshitome|[2506.10819v2](http://arxiv.org/pdf/2506.10819v2)|
+|2025-05-15|2025-10-10|A relationship between nonunitary mixed parity superconductivity and magnetism with spin-orbit coupling|Takehito Yokoyama|[2505.10336v2](http://arxiv.org/pdf/2505.10336v2)|
+|2025-10-10|2025-10-10|Lie symmetry analysis of the two-Higgs-doublet model field equations|M. Aa. Solberg|[2510.09542v1](http://arxiv.org/pdf/2510.09542v1)|
+|2024-12-16|2025-10-10|A Digital Twin for Diesel Engines: Operator-infused Physics-Informed Neural Networks with Transfer Learning for Engine Health Monitoring|Kamaljyoti Nath|[2412.11967v2](http://arxiv.org/pdf/2412.11967v2)|
+|2023-03-11|2025-10-10|Hartman effect, time-delays, and the non-spatial nature of quantum particles|Massimiliano Sassoli de Bianchi|[2303.08031v3](http://arxiv.org/pdf/2303.08031v3)|
+
+### Diffusion
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-02-26|2025-10-10|On the Interpolation Effect of Score Smoothing in Diffusion Models|Zhengdao Chen|[2502.19499v2](http://arxiv.org/pdf/2502.19499v2)|
+|2025-10-10|2025-10-10|SPG: Sandwiched Policy Gradient for Masked Diffusion Language Models|Chengyu Wang|[2510.09541v1](http://arxiv.org/pdf/2510.09541v1)|
+|2025-10-10|2025-10-10|Conditional Flow Matching for Bayesian Posterior Inference|So Won Jeong|[2510.09534v1](http://arxiv.org/pdf/2510.09534v1)|
+|2025-09-30|2025-10-10|Editable Noise Map Inversion: Encoding Target-image into Noise For High-Fidelity Image Manipulation|Mingyu Kang|[2509.25776v2](http://arxiv.org/pdf/2509.25776v2)|
+|2025-10-10|2025-10-10|CRPS-LAM: Regional ensemble weather forecasting from matching marginals|Erik Larsson|[2510.09484v1](http://arxiv.org/pdf/2510.09484v1)|
 ## Update on 2025-10-11
 
 ### Physics

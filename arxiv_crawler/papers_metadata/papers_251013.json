@@ -1,0 +1,126 @@
+{
+    "Physics": [
+        {
+            "title": "Simplified Quantum Weight Reduction with Optimal Bounds",
+            "authors": "Min-Hsiu Hsieh, Xingjian Li, Ting-Chun Lin",
+            "summary": "Quantum weight reduction is the task of transforming a quantum code with\nlarge check weight into one with small check weight. Low-weight codes are\nessential for implementing quantum error correction on physical hardware, since\nhigh-weight measurements cannot be executed reliably. Weight reduction also\nserves as a critical theoretical tool, which may be relevant to the quantum PCP\nconjecture.\n  We introduce a new procedure for quantum weight reduction that combines\ngeometric insights with coning techniques, which simplifies Hastings' previous\napproach while achieving better parameters. Given an arbitrary $[[n,k,d]]$\nquantum code with weight $w$, our method produces a code with parameters $[[O(n\nw^2 \\log w), k, \\Omega(d w)]]$ with check weight $5$ and qubit weight $6$.\n  When applied to random dense CSS codes, our procedure yields explicit quantum\ncodes that surpass the square-root distance barrier, achieving parameters $[[n,\n\\tilde O(n^{1/3}), \\tilde \\Omega(n^{2/3})]]$. Furthermore, these codes admit a\nthree-dimensional embedding that saturates the Bravyi-Poulin-Terhal (BPT)\nbound.\n  As a further application, our weight reduction technique improves\nfault-tolerant logical operator measurements by reducing the number of ancilla\nqubits.",
+            "pdf_url": "http://arxiv.org/pdf/2510.09601v1",
+            "published": "2025-10-10 17:58:31+00:00",
+            "updated": "2025-10-10 17:58:31+00:00"
+        },
+        {
+            "title": "Optimal Binning for Small-Angle Neutron Scattering Data Using the Freedman-Diaconis Rule",
+            "authors": "Jessie E. An, Chi-Huan Tung, Changwoo Do, Wei-Ren Chen",
+            "summary": "Small-Angle Neutron Scattering (SANS) data analysis often relies on\nfixed-width binning schemes that overlook variations in signal strength and\nstructural complexity. We introduce a statistically grounded approach based on\nthe Freedman-Diaconis (FD) rule, which minimizes the mean integrated squared\nerror between the histogram estimate and the true intensity distribution. By\nderiving the competing scaling relations for counting noise ($\\propto h^{-1}$)\nand binning distortion ($\\propto h^{2}$), we establish an optimal bin width\nthat balances statistical precision and structural resolution. Application to\nsynthetic data from the Debye scattering function of a Gaussian polymer chain\ndemonstrates that the FD criterion quantitatively determines the most efficient\nbinning, faithfully reproducing the curvature of $I(Q)$ while minimizing random\nerror. The optimal width follows the expected scaling $h_{\\mathrm{opt}} \\propto\nN_{\\mathrm{total}}^{-1/3}$, delineating the transition between noise- and\nresolution-limited regimes. This framework provides a unified, physics-informed\nbasis for adaptive, statistically efficient binning in neutron scattering\nexperiments.",
+            "pdf_url": "http://arxiv.org/pdf/2510.09581v1",
+            "published": "2025-10-10 17:36:15+00:00",
+            "updated": "2025-10-10 17:36:15+00:00"
+        },
+        {
+            "title": "Differential Analysis of Pseudo Haptic Feedback: Novel Comparative Study of Visual and Auditory Cue Integration for Psychophysical Evaluation",
+            "authors": "Nishant Gautam, Somya Sharma, Peter Corcoran, Kaspar Althoefer",
+            "summary": "Pseudo-haptics exploit carefully crafted visual or auditory cues to trick the\nbrain into \"feeling\" forces that are never physically applied, offering a\nlow-cost alternative to traditional haptic hardware. Here, we present a\ncomparative psychophysical study that quantifies how visual and auditory\nstimuli combine to evoke pseudo-haptic pressure sensations on a commodity\ntablet. Using a Unity-based Rollball game, participants (n = 4) guided a\nvirtual ball across three textured terrains while their finger forces were\ncaptured in real time with a Robotous RFT40 force-torque sensor. Each terrain\nwas paired with a distinct rolling-sound profile spanning 440 Hz - 4.7 kHz, 440\nHz - 13.1 kHz, or 440 Hz - 8.9 kHz; crevice collisions triggered additional\n\"knocking\" bursts to heighten realism. Average tactile forces increased\nsystematically with cue intensity: 0.40 N, 0.79 N and 0.88 N for visual-only\ntrials and 0.41 N, 0.81 N and 0.90 N for audio-only trials on Terrains 1-3,\nrespectively. Higher audio frequencies and denser visual textures both elicited\nstronger muscle activation, and their combination further reduced the force\nneeded to perceive surface changes, confirming multisensory integration. These\nresults demonstrate that consumer-grade isometric devices can reliably induce\nand measure graded pseudo-haptic feedback without specialized actuators,\nopening a path toward affordable rehabilitation tools, training simulators and\nassistive interfaces.",
+            "pdf_url": "http://arxiv.org/pdf/2510.09570v1",
+            "published": "2025-10-10 17:22:41+00:00",
+            "updated": "2025-10-10 17:22:41+00:00"
+        },
+        {
+            "title": "Unveiling dynamical quantum error correcting codes via non-invertible symmetries",
+            "authors": "Rajath Radhakrishnan, Adar Sharon, Nathanan Tantivasadakarn",
+            "summary": "Dynamical stabilizer codes (DSCs) have recently emerged as a powerful\ngeneralization of static stabilizer codes for quantum error correction,\nreplacing a fixed stabilizer group with a sequence of non-commuting\nmeasurements. This dynamical structure unlocks new possibilities for fault\ntolerance but also introduces new challenges, as errors must now be tracked\nacross both space and time. In this work, we provide a physical and topological\nunderstanding of DSCs by establishing a correspondence between qudit Pauli\nmeasurements and non-invertible symmetries in 4+1-dimensional 2-form gauge\ntheories. Sequences of measurements in a DSC are mapped to a fusion of the\noperators implementing these non-invertible symmetries. We show that the error\ndetectors of a DSC correspond to endable surface operators in the gauge theory,\nwhose endpoints define line operators, and that detectable errors are precisely\nthose surface operators that braid non-trivially with these lines. Finally, we\ndemonstrate how this framework naturally recovers the spacetime stabilizer code\nassociated with a DSC.",
+            "pdf_url": "http://arxiv.org/pdf/2510.09565v1",
+            "published": "2025-10-10 17:15:44+00:00",
+            "updated": "2025-10-10 17:15:44+00:00"
+        },
+        {
+            "title": "Robo-Instruct: Simulator-Augmented Instruction Alignment For Finetuning Code LLMs",
+            "authors": "Zichao Hu, Junyi Jessy Li, Arjun Guha, Joydeep Biswas",
+            "summary": "Code LLMs have shown promising results with converting tasks in natural\nlanguage to programs that can be executed by service robots. We are interested\nin finetuning small, specialized LLMs for this purpose, but collecting datasets\nof task-program pairs specific to each robot is time-consuming and expensive.\nWhile approaches such as SELF-INSTRUCT and EVOL-INSTRUCT are capable of\ngenerating novel tasks given a few examples, they are unable to provide the\ncorresponding programs that correctly abide by physical-world and\nrobot-constraints using the provided programming interface. Using a simulator\nis a natural potential solution to checking for such constraints, but building\nsimulation environments that can handle arbitrary tasks and their necessary\nobjects and locations, is challenging. To address these challenges, we\nintroduce ROBO-INSTRUCT, which synthesizes task-specific simulation\nenvironments on the fly during program execution, by opportunistically\ninferring entity properties and enforcing corresponding constraints based on\nhow the entities are used in the task program. Additionally, ROBO-INSTRUCT\nintegrates an LLM-aided post-processing procedure to refine instructions for\nbetter alignment with robot programs. We demonstrate the effectiveness of\nROBO-INSTRUCT across multiple LLMs, showing that our fine-tuned models\noutperform all baseline methods and even match or surpass the performance of\nseveral larger and proprietary models.",
+            "pdf_url": "http://arxiv.org/pdf/2405.20179v5",
+            "published": "2024-05-30 15:47:54+00:00",
+            "updated": "2025-10-10 17:11:46+00:00"
+        },
+        {
+            "title": "Generalized Modulated Symmetries in $\\mathbb{Z}_2$ Topological Ordered Phases",
+            "authors": "Gustavo M. Yoshitome, Heitor Casasola, Rodrigo Corso, Pedro R. S. Gomes",
+            "summary": "We study $\\mathbb{Z}_2$ topological ordered phases in 2+1 dimensions\ncharacterized by generalized modulated symmetries. Such phases have explicit\nrealizations in terms of fixed-point Hamiltonians involving commuting\nprojectors with support $h=3,5,7,\\ldots$ in the horizontal direction, which\ndictates the modulation of the generalized symmetries. These symmetries are\nsensitive to the lattice sizes. For certain sizes, they are spontaneously\nbroken and the ground state is degenerated, while for the remaining ones, the\nsymmetries are explicitly broken and the ground state is unique. The ground\nstate dependence on the lattice sizes is a manifestation of the\nultraviolet/infrared (UV/IR) mixing. The structure of the modulated symmetries\nimplies that the anyons can move only in rigid steps of size $h$, leading to\nthe notion of position-dependent anyons. The phases exhibit rich boundary\nphysics with a variety of gapped phases, including trivial, partial and total\nsymmetry-breaking, and SPT phases. Effective field theory descriptions are\ndiscussed, making transparent the relation between the generalized modulated\nsymmetries and the restrictions on anyon mobility, incorporating the boundary\nphysics in a natural way, and showing how the short-distance details can be\nincorporated into the continuum by means of twisted boundary conditions.",
+            "pdf_url": "http://arxiv.org/pdf/2506.10819v2",
+            "published": "2025-06-12 15:35:16+00:00",
+            "updated": "2025-10-10 17:08:10+00:00"
+        },
+        {
+            "title": "A relationship between nonunitary mixed parity superconductivity and magnetism with spin-orbit coupling",
+            "authors": "Takehito Yokoyama",
+            "summary": "We show that Hamiltonian for nonunitary mixed parity superconductivity can be\nrecast into that for magnetism with spin-orbit coupling by the Schrieffer-Wolff\ntransformation, indicating that nonunitary mixed parity superconductivity and\nmagnetism with spin-orbit coupling can share the same physics. As\ndemonstrations, we discuss the Dzyaloshinskii-Moriya type interactions,\nmagnetoelectric effect, supercurrent-induced spin current, and altermagnetism\nin nonunitary mixed parity superconductors. All these effects originate purely\nfrom superconductivity, without any magnetism and spin-orbit coupling.",
+            "pdf_url": "http://arxiv.org/pdf/2505.10336v2",
+            "published": "2025-05-15 14:25:55+00:00",
+            "updated": "2025-10-10 17:02:02+00:00"
+        },
+        {
+            "title": "Lie symmetry analysis of the two-Higgs-doublet model field equations",
+            "authors": "M. Aa. Solberg",
+            "summary": "We apply Lie symmetry analysis of partial differential equations (PDEs) to\nthe Euler-Lagrange equations of the two-Higgs-doublet model (2HDM), to\ndetermine its scalar Lie point symmetries. A Lie point symmetry is a\nstructure-preserving transformation of the spacetime variables and the fields\nof the model, which is also continuous and connected to the identity.\nSymmetries of PDEs may in general be divided into strict variational\nsymmetries, divergence symmetries and non-variational symmetries, where the\nfirst two are collectively referred to as variational symmetries. Variational\nsymmetries are usually preserved under quantization, and variational Lie\nsymmetries yield conservation laws. We demonstrate that there are no scalar Lie\npoint divergence symmetries or non-variational Lie point symmetries in the\n2HDM, and re-derive its well-known strict variational Lie point symmetries,\nthus confirming the consistency of our implementation of Lie's method.\nMoreover, we prove three general results which may simplify Lie symmetry\ncalculations for a wide class of particle physics models. Lie symmetry analysis\nof PDEs is a broadly applicable method for determining Lie symmetries. As\ndemonstrated here by example, it can be applied to models with many variables,\nparameters and reparametrization freedom, while any missing discrete symmetries\nmay be identified through the automorphism groups of the resulting Lie symmetry\nalgebras.",
+            "pdf_url": "http://arxiv.org/pdf/2510.09542v1",
+            "published": "2025-10-10 16:55:08+00:00",
+            "updated": "2025-10-10 16:55:08+00:00"
+        },
+        {
+            "title": "A Digital Twin for Diesel Engines: Operator-infused Physics-Informed Neural Networks with Transfer Learning for Engine Health Monitoring",
+            "authors": "Kamaljyoti Nath, Varun Kumar, Daniel J. Smith, George Em Karniadakis",
+            "summary": "Improving diesel engine efficiency, reducing emissions, and enabling robust\nhealth monitoring have been critical research topics in engine modelling. While\nrecent advancements in the use of neural networks for system monitoring have\nshown promising results, such methods often focus on component-level analysis,\nlack generalizability, and physical interpretability. In this study, we propose\na novel hybrid framework that combines physics-informed neural networks (PINNs)\nwith deep operator networks (DeepONet) to enable accurate and computationally\nefficient parameter identification in mean-value diesel engine models. Our\nmethod leverages physics-based system knowledge in combination with data-driven\ntraining of neural networks to enhance model applicability. Incorporating\noffline-trained DeepONets to predict actuator dynamics significantly lowers the\nonline computation cost when compared to the existing PINN framework. To\naddress the re-training burden typical of PINNs under varying input conditions,\nwe propose two transfer learning (TL) strategies: (i) a multi-stage TL scheme\noffering better runtime efficiency than full online training of the PINN model\nand (ii) a few-shot TL scheme that freezes a shared multi-head network body and\ncomputes physics-based derivatives required for model training outside the\ntraining loop. The second strategy offers a computationally inexpensive and\nphysics-based approach for predicting engine dynamics and parameter\nidentification, offering computational efficiency over the existing PINN\nframework. Compared to existing health monitoring methods, our framework\ncombines the interpretability of physics-based models with the flexibility of\ndeep learning, offering substantial gains in generalization, accuracy, and\ndeployment efficiency for diesel engine diagnostics.",
+            "pdf_url": "http://arxiv.org/pdf/2412.11967v2",
+            "published": "2024-12-16 16:47:15+00:00",
+            "updated": "2025-10-10 16:54:09+00:00"
+        },
+        {
+            "title": "Hartman effect, time-delays, and the non-spatial nature of quantum particles",
+            "authors": "Massimiliano Sassoli de Bianchi",
+            "summary": "The phenomenon of quantum tunneling remains a fascinating and enigmatic one,\ndefying classical notions of particle behavior. This paper presents a novel\ntheoretical investigation of the tunneling phenomenon, from the viewpoint of\nHartman effect, showing that the classical concept of spatiality is transcended\nduring tunneling, since one cannot describe the process as a crossing of the\npotential barrier. This means that quantum tunneling strongly indicates that\nquantum non-locality should be understood as an aspect of quantum\nnon-spatiality. It is also emphasized that according to the Conceptuality\nInterpretation of quantum mechanics, a non-spatial state should be understood\nas an abstract state of a conceptual-like entity, which only when it reaches\nits maximum degree of concreteness, during the wave-function collapse, can\nenter the spatiotemporal layer of our physical reality.",
+            "pdf_url": "http://arxiv.org/pdf/2303.08031v3",
+            "published": "2023-03-11 13:08:07+00:00",
+            "updated": "2025-10-10 16:49:55+00:00"
+        }
+    ],
+    "Diffusion": [
+        {
+            "title": "On the Interpolation Effect of Score Smoothing in Diffusion Models",
+            "authors": "Zhengdao Chen",
+            "summary": "Score-based diffusion models have achieved remarkable progress in various\ndomains with the ability to generate new data samples that do not exist in the\ntraining set. In this work, we study the hypothesis that such creativity arises\nfrom an interpolation effect caused by a smoothing of the empirical score\nfunction. Focusing on settings where the training set lies uniformly in a\none-dimensional subspace, we show theoretically how regularized two-layer ReLU\nneural networks tend to learn approximately a smoothed version of the empirical\nscore function, and further probe the interplay between score smoothing and the\ndenoising dynamics with analytical solutions and numerical experiments. In\nparticular, we demonstrate how a smoothed score function can lead to the\ngeneration of samples that interpolate the training data along their subspace\nwhile avoiding full memorization. Moreover, we present experimental evidence\nthat learning score functions with neural networks indeed induces a score\nsmoothing effect, including in simple nonlinear settings and without explicit\nregularization.",
+            "pdf_url": "http://arxiv.org/pdf/2502.19499v2",
+            "published": "2025-02-26 19:04:01+00:00",
+            "updated": "2025-10-10 17:14:52+00:00"
+        },
+        {
+            "title": "SPG: Sandwiched Policy Gradient for Masked Diffusion Language Models",
+            "authors": "Chengyu Wang, Paria Rashidinejad, DiJia Su, Song Jiang, Sid Wang, Siyan Zhao, Cai Zhou, Shannon Zejiang Shen, Feiyu Chen, Tommi Jaakkola, Yuandong Tian, Bo Liu",
+            "summary": "Diffusion large language models (dLLMs) are emerging as an efficient\nalternative to autoregressive models due to their ability to decode multiple\ntokens in parallel. However, aligning dLLMs with human preferences or\ntask-specific rewards via reinforcement learning (RL) is challenging because\ntheir intractable log-likelihood precludes the direct application of standard\npolicy gradient methods. While prior work uses surrogates like the evidence\nlower bound (ELBO), these one-sided approximations can introduce significant\npolicy gradient bias. To address this, we propose the Sandwiched Policy\nGradient (SPG) that leverages both an upper and a lower bound of the true\nlog-likelihood. Experiments show that SPG significantly outperforms baselines\nbased on ELBO or one-step estimation. Specifically, SPG improves the accuracy\nover state-of-the-art RL methods for dLLMs by 3.6% in GSM8K, 2.6% in MATH500,\n18.4% in Countdown and 27.0% in Sudoku.",
+            "pdf_url": "http://arxiv.org/pdf/2510.09541v1",
+            "published": "2025-10-10 16:52:25+00:00",
+            "updated": "2025-10-10 16:52:25+00:00"
+        },
+        {
+            "title": "Conditional Flow Matching for Bayesian Posterior Inference",
+            "authors": "So Won Jeong, Percy S. Zhai, Veronika Ro\u010dov\u00e1",
+            "summary": "We propose a generative multivariate posterior sampler via flow matching. It\noffers a simple training objective, and does not require access to likelihood\nevaluation. The method learns a dynamic, block-triangular velocity field in the\njoint space of data and parameters, which results in a deterministic transport\nmap from a source distribution to the desired posterior. The inverse map, named\nvector rank, is accessible by reversibly integrating the velocity over time. It\nis advantageous to leverage the dynamic design: proper constraints on the\nvelocity yield a monotone map, which leads to a conditional Brenier map,\nenabling a fast and simultaneous generation of Bayesian credible sets whose\ncontours correspond to level sets of Monge-Kantorovich data depth. Our approach\nis computationally lighter compared to GAN-based and diffusion-based\ncounterparts, and is capable of capturing complex posterior structures.\nFinally, frequentist theoretical guarantee on the consistency of the recovered\nposterior distribution, and of the corresponding Bayesian credible sets, is\nprovided.",
+            "pdf_url": "http://arxiv.org/pdf/2510.09534v1",
+            "published": "2025-10-10 16:48:28+00:00",
+            "updated": "2025-10-10 16:48:28+00:00"
+        },
+        {
+            "title": "Editable Noise Map Inversion: Encoding Target-image into Noise For High-Fidelity Image Manipulation",
+            "authors": "Mingyu Kang, Yong Suk Choi",
+            "summary": "Text-to-image diffusion models have achieved remarkable success in generating\nhigh-quality and diverse images. Building on these advancements, diffusion\nmodels have also demonstrated exceptional performance in text-guided image\nediting. A key strategy for effective image editing involves inverting the\nsource image into editable noise maps associated with the target image.\nHowever, previous inversion methods face challenges in adhering closely to the\ntarget text prompt. The limitation arises because inverted noise maps, while\nenabling faithful reconstruction of the source image, restrict the flexibility\nneeded for desired edits. To overcome this issue, we propose Editable Noise Map\nInversion (ENM Inversion), a novel inversion technique that searches for\noptimal noise maps to ensure both content preservation and editability. We\nanalyze the properties of noise maps for enhanced editability. Based on this\nanalysis, our method introduces an editable noise refinement that aligns with\nthe desired edits by minimizing the difference between the reconstructed and\nedited noise maps. Extensive experiments demonstrate that ENM Inversion\noutperforms existing approaches across a wide range of image editing tasks in\nboth preservation and edit fidelity with target prompts. Our approach can also\nbe easily applied to video editing, enabling temporal consistency and content\nmanipulation across frames.",
+            "pdf_url": "http://arxiv.org/pdf/2509.25776v2",
+            "published": "2025-09-30 04:44:53+00:00",
+            "updated": "2025-10-10 16:37:34+00:00"
+        },
+        {
+            "title": "CRPS-LAM: Regional ensemble weather forecasting from matching marginals",
+            "authors": "Erik Larsson, Joel Oskarsson, Tomas Landelius, Fredrik Lindsten",
+            "summary": "Machine learning for weather prediction increasingly relies on ensemble\nmethods to provide probabilistic forecasts. Diffusion-based models have shown\nstrong performance in Limited-Area Modeling (LAM) but remain computationally\nexpensive at sampling time. Building on the success of global weather\nforecasting models trained based on Continuous Ranked Probability Score (CRPS),\nwe introduce CRPS-LAM, a probabilistic LAM forecasting model trained with a\nCRPS-based objective. By sampling and injecting a single latent noise vector\ninto the model, CRPS-LAM generates ensemble members in a single forward pass,\nachieving sampling speeds up to 39 times faster than a diffusion-based model.\nWe evaluate the model on the MEPS regional dataset, where CRPS-LAM matches the\nlow errors of diffusion models. By retaining also fine-scale forecast details,\nthe method stands out as an effective approach for probabilistic regional\nweather forecasting",
+            "pdf_url": "http://arxiv.org/pdf/2510.09484v1",
+            "published": "2025-10-10 15:48:31+00:00",
+            "updated": "2025-10-10 15:48:31+00:00"
+        }
+    ]
+}
