@@ -221,6 +221,36 @@ TODO:
 
 
 
+
+## Update on 2025-10-15
+
+### Physics
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-10-14|2025-10-14|Ax-Prover: A Deep Reasoning Agentic Framework for Theorem Proving in Mathematics and Quantum Physics|Marco Del Tredici|[2510.12787v1](http://arxiv.org/pdf/2510.12787v1)|
+|2025-04-12|2025-10-14|Leading soft theorems on plane wave backgrounds|Sonja Klisch|[2504.09314v2](http://arxiv.org/pdf/2504.09314v2)|
+|2024-04-19|2025-10-14|Entanglement detection in quantum materials with competing orders|Giacomo Mazza|[2404.12931v2](http://arxiv.org/pdf/2404.12931v2)|
+|2025-07-24|2025-10-14|Digital Twin Simulations Toolbox of the Nitrogen-Vacancy Center in Diamond|Lucas Tsunaki|[2507.18759v2](http://arxiv.org/pdf/2507.18759v2)|
+|2025-03-18|2025-10-14|Superdiffusion resilience in Heisenberg Chains with 2D interactions on a quantum processor|Keerthi Kumaran|[2503.14371v2](http://arxiv.org/pdf/2503.14371v2)|
+|2024-12-30|2025-10-14|Stable bi-frequency spinor modes as Dark Matter candidates|Andrew Comech|[2501.04027v3](http://arxiv.org/pdf/2501.04027v3)|
+|2024-11-21|2025-10-14|Physics-Informed Autonomous LLM Agents for Explainable Power Electronics Modulation Design|Junhua Liu|[2411.14214v2](http://arxiv.org/pdf/2411.14214v2)|
+|2025-10-08|2025-10-14|In-pixel integration of signal processing and AI/ML based data filtering for particle tracking detectors|Benjamin Parpillon|[2510.07485v2](http://arxiv.org/pdf/2510.07485v2)|
+|2025-10-14|2025-10-14|Measurement of the tau anomalous magnetic moment using Ultra-peripheral collisions with the ALICE detector in Run 3 Pb-Pb data|Roman Lavička|[2510.12661v1](http://arxiv.org/pdf/2510.12661v1)|
+
+### Diffusion
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-10-14|2025-10-14|DriveVLA-W0: World Models Amplify Data Scaling Law in Autonomous Driving|Yingyan Li|[2510.12796v1](http://arxiv.org/pdf/2510.12796v1)|
+|2025-10-14|2025-10-14|UniFusion: Vision-Language Model as Unified Encoder in Image Generation|Kevin Li|[2510.12789v1](http://arxiv.org/pdf/2510.12789v1)|
+|2025-10-14|2025-10-14|MVP4D: Multi-View Portrait Video Diffusion for Animatable 4D Avatars|Felix Taubner|[2510.12785v1](http://arxiv.org/pdf/2510.12785v1)|
+|2025-10-14|2025-10-14|DiffEM: Learning from Corrupted Data with Diffusion Models via Expectation Maximization|Danial Hosseintabar|[2510.12691v1](http://arxiv.org/pdf/2510.12691v1)|
+|2025-10-10|2025-10-14|Denoised Diffusion for Object-Focused Image Augmentation|Nisha Pillai|[2510.08955v2](http://arxiv.org/pdf/2510.08955v2)|
+
+### Quantitative Finance
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-05-27|2025-10-13|TabAttackBench: A Benchmark for Adversarial Attacks on Tabular Data|Zhipeng He|[2505.21027v2](http://arxiv.org/pdf/2505.21027v2)|
+|2025-10-12|2025-10-12|GrifFinNet: A Graph-Relation Integrated Transformer for Financial Predictions|Chenlanhui Dai|[2510.10387v1](http://arxiv.org/pdf/2510.10387v1)|
 ## Update on 2025-10-13
 
 ### Physics
