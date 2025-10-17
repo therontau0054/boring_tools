@@ -222,6 +222,31 @@ TODO:
 
 
 
+
+## Update on 2025-10-17
+
+### Physics
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-10-16|2025-10-16|Agentic Design of Compositional Machines|Wenqian Zhang|[2510.14980v1](http://arxiv.org/pdf/2510.14980v1)|
+|2025-10-16|2025-10-16|Terra: Explorable Native 3D World Model with Point Latents|Yuanhui Huang|[2510.14977v1](http://arxiv.org/pdf/2510.14977v1)|
+|2025-10-16|2025-10-16|Astrophysical uncertainties challenge 21-cm forecasts: A primordial black hole case study|Dominic Agius|[2510.14877v1](http://arxiv.org/pdf/2510.14877v1)|
+|2025-10-16|2025-10-16|LabOS: The AI-XR Co-Scientist That Sees and Works With Humans|Le Cong|[2510.14861v1](http://arxiv.org/pdf/2510.14861v1)|
+|2025-10-16|2025-10-16|Exploiting Non-Diffracting Beams for Resilient Near-Field Millimeter-Wave Communications A Quantitative Roadmap|Yifeng Qin|[2510.14858v1](http://arxiv.org/pdf/2510.14858v1)|
+|2025-10-16|2025-10-16|RoboGPT-R1: Enhancing Robot Planning with Reinforcement Learning|Jinrui Liu|[2510.14828v1](http://arxiv.org/pdf/2510.14828v1)|
+|2025-10-16|2025-10-16|Signatures of Topological Symmetries on a Noisy Quantum Simulator|Christopher Lamb|[2510.14817v1](http://arxiv.org/pdf/2510.14817v1)|
+|2025-10-16|2025-10-16|Reflections of quantum educators on strategies to diversify the second quantum revolution|Apekshya Ghimire|[2510.14793v1](http://arxiv.org/pdf/2510.14793v1)|
+|2023-03-21|2025-10-16|Flavor solitons in dense neutrino gases|Damiano F. G. Fiorillo|[2303.12143v2](http://arxiv.org/pdf/2303.12143v2)|
+|2025-10-16|2025-10-16|Unifying Frictional Transients Reveals the Origin of Static Friction|Kasra Farain|[2510.14769v1](http://arxiv.org/pdf/2510.14769v1)|
+
+### Diffusion
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-10-16|2025-10-16|Coupled Diffusion Sampling for Training-Free Multi-View Image Editing|Hadi Alzayer|[2510.14981v1](http://arxiv.org/pdf/2510.14981v1)|
+|2025-10-16|2025-10-16|Learning an Image Editing Model without Image Editing Pairs|Nupur Kumari|[2510.14978v1](http://arxiv.org/pdf/2510.14978v1)|
+|2025-10-16|2025-10-16|WithAnyone: Towards Controllable and ID Consistent Image Generation|Hengyuan Xu|[2510.14975v1](http://arxiv.org/pdf/2510.14975v1)|
+|2025-10-16|2025-10-16|pi-Flow: Policy-Based Few-Step Generation via Imitation Distillation|Hansheng Chen|[2510.14974v1](http://arxiv.org/pdf/2510.14974v1)|
+|2025-10-16|2025-10-16|Attention Is All You Need for KV Cache in Diffusion LLMs|Quan Nguyen-Tri|[2510.14973v1](http://arxiv.org/pdf/2510.14973v1)|
 ## Update on 2025-10-15
 
 ### Physics
