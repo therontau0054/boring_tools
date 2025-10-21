@@ -223,6 +223,36 @@ TODO:
 
 
 
+
+## Update on 2025-10-21
+
+### Physics
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-10-20|2025-10-20|Exorcising ghosts with gravitational waves: cases of ghostful and ghost-free fourth-order gravity|Gaetano Lambiase|[2510.17789v1](http://arxiv.org/pdf/2510.17789v1)|
+|2025-10-20|2025-10-20|Searches for new physics breaking the CP and flavor symmetries in the top quark sector at CMS|Sergio Sánchez Cruz|[2510.17782v1](http://arxiv.org/pdf/2510.17782v1)|
+|2024-09-18|2025-10-20|On the difference between thermalization in open and isolated quantum systems: a case study|Archak Purkayastha|[2409.11932v3](http://arxiv.org/pdf/2409.11932v3)|
+|2025-10-20|2025-10-20|Prediction of Sea Ice Velocity and Concentration in the Arctic Ocean using Physics-informed Neural Network|Younghyun Koo|[2510.17756v1](http://arxiv.org/pdf/2510.17756v1)|
+|2025-10-20|2025-10-20|TCLK Must Stay! CAMAC Must Go! How Does Fermilab Move Forward|M. R. Austin|[2510.17751v1](http://arxiv.org/pdf/2510.17751v1)|
+|2025-10-20|2025-10-20|Lattice-induced sound trapping in biperiodic metasurfaces of acoustic resonators|Nikita Ustimenko|[2510.17750v1](http://arxiv.org/pdf/2510.17750v1)|
+|2025-07-07|2025-10-20|Recasting Experimental Constraints on Relativistic Magnetic Monopoles|Daniele Perri|[2507.05136v2](http://arxiv.org/pdf/2507.05136v2)|
+|2025-10-20|2025-10-20|B-Meson Anomalies: Effective Field Theory Meets Machine Learning|Alejandro Mir|[2510.17742v1](http://arxiv.org/pdf/2510.17742v1)|
+|2025-10-20|2025-10-20|Automated computation of spin-density matrices and quantum observables for collider physics|Valentin Durupt|[2510.17730v1](http://arxiv.org/pdf/2510.17730v1)|
+|2025-06-11|2025-10-20|Lieb-Mattis states for robust entangled differential phase sensing|Raphael Kaubruegger|[2506.10151v3](http://arxiv.org/pdf/2506.10151v3)|
+
+### Diffusion
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-10-20|2025-10-20|Inference-Time Compute Scaling For Flow Matching|Adam Stecklov|[2510.17786v1](http://arxiv.org/pdf/2510.17786v1)|
+|2025-10-20|2025-10-20|VERA-V: Variational Inference Framework for Jailbreaking Vision-Language Models|Qilin Liao|[2510.17759v1](http://arxiv.org/pdf/2510.17759v1)|
+|2025-10-20|2025-10-20|GAS: Improving Discretization of Diffusion ODEs via Generalized Adversarial Solver|Aleksandr Oganov|[2510.17699v1](http://arxiv.org/pdf/2510.17699v1)|
+|2025-08-18|2025-10-20|Wavy Transformer|Satoshi Noguchi|[2508.12787v2](http://arxiv.org/pdf/2508.12787v2)|
+|2025-10-20|2025-10-20|GUIDE: Enhancing Gradient Inversion Attacks in Federated Learning with Denoising Models|Vincenzo Carletti|[2510.17621v1](http://arxiv.org/pdf/2510.17621v1)|
+
+### Quantitative Finance
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-10-17|2025-10-17|Preliminary Quantitative Study on Explainability and Trust in AI Systems|Allen Daniel Sunny|[2510.15769v1](http://arxiv.org/pdf/2510.15769v1)|
 ## Update on 2025-10-17
 
 ### Physics

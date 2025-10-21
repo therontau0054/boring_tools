@@ -1,0 +1,136 @@
+{
+    "Physics": [
+        {
+            "title": "Exorcising ghosts with gravitational waves: cases of ghostful and ghost-free fourth-order gravity",
+            "authors": "Gaetano Lambiase, Shinji Mukohyama, Tanmay Kumar Poddar, Anna Chiara Rescigno",
+            "summary": "General Relativity (GR) is an effective field theory valid in the infrared\nregime. Quadratic curvature extensions intended to probe ultraviolet physics\ngenerically propagate a massive spin-$2$ ghost and are therefore non-unitary.\nOne route to remove ghost is by enlarging the geometric sector (torsion,\nnon-metricity). We investigate the infrared phenomenology of both the standard\n(ghostful) and ghost-free fourth-order gravity theories by computing\nGravitational Wave (GW) emission and confronting the results with observations\nsuch as the orbital-period decay of quasi-stable binaries such as PSR B1913+16\nand PSR J1738+0333 and the chirp-mass evolution of GW170817. In the ghostful\ntheory, besides the theoretical inconsistency due to non-unitarity, there are\nalso phenomenological problems: the massless spin-$2$ GW flux cancels the\ncombined GW fluxes of the massive spin-$2$ ghost and massive spin-$0$ scalar in\nthe vanishing-mass limit, so the GR quadrupole formula is not recovered at the\nleading order. As a result, we obtain the GW constraint on the ghostful theory\nas $m\\gtrsim 10^{-11}~\\mathrm{eV}$, where $m$ is the mass of the massive modes.\nBy contrast, the ghost-free theory smoothly reproduces the Newtonian potential\nand GR quadrupole formulae when the two coupling constants $\\alpha_1$ and\n$\\alpha_2$ vanish, independently of the mass $m$. Therefore, GW observations\nput mass-dependent upper bounds on the size of the coupling constants. For\nexample, if we assume $\\alpha_1\\simeq\\alpha_2$ for simplicity, then we obtain\n$\\alpha_{1,2}\\lesssim 4.2\\times 10^{83}$ for $m\\sim 3\\times\n10^{-16}\\,\\mathrm{eV}$ and $\\alpha_{1,2}\\lesssim 1.3\\times 10^{75}$ for $m\\sim\n10^{-11}\\,\\mathrm{eV}$. To our knowledge, these are the first\nastrophysical-scale bounds reported for ghostful and ghost-free fourth-order\ngravity.",
+            "pdf_url": "http://arxiv.org/pdf/2510.17789v1",
+            "published": "2025-10-20 17:47:09+00:00",
+            "updated": "2025-10-20 17:47:09+00:00"
+        },
+        {
+            "title": "Searches for new physics breaking the CP and flavor symmetries in the top quark sector at CMS",
+            "authors": "Sergio S\u00e1nchez Cruz",
+            "summary": "The top quark plays an important role in a number of new physics models, some\nof which introduce violations to some of the accidental symmetries of the SM,\nsuch as the lepton number conservation or introduce additional sources of\nothers already broken, such as the CP symmetry. A set of measurements is\npresented that probe violation of these symmetries in processes involving the\ntop quark, in association with additional particles.",
+            "pdf_url": "http://arxiv.org/pdf/2510.17782v1",
+            "published": "2025-10-20 17:41:50+00:00",
+            "updated": "2025-10-20 17:41:50+00:00"
+        },
+        {
+            "title": "On the difference between thermalization in open and isolated quantum systems: a case study",
+            "authors": "Archak Purkayastha, Giacomo Guarnieri, Janet Anders, Marco Merkli",
+            "summary": "Thermalization of isolated and open quantum systems has been studied\nextensively. However, being the subject of investigation by different\nscientific communities and being analysed using different mathematical tools,\nthe connection between the isolated (IQS) and open (OQS) approaches to\nthermalization has remained opaque. Here we demonstrate that the fundamental\ndifference between the two paradigms is the order in which the long time and\nthe thermodynamic limits are taken. This difference implies that they describe\nphysics on widely different time and length scales. Our analysis is carried out\nnumerically for the case of a double quantum dot (DQD) coupled to a fermionic\nlead, also known as the interacting resonant level model in quantum impurity\nphysics. We show how both OQS and IQS thermalization can be explored in this\nmodel on equal footing, allowing a fair comparison between the two. We find\nthat while the quadratically coupled (free) DQD experiences no isolated\nthermalization, it of course does experience open thermalization. For the\nnon-linearly interacting DQD coupled to a fermionic lead, the many-body\ninteraction in the DQD breaks the integrability of the whole system. We find\nthat this system shows strong evidence of both OQS and IQS thermalization in\nthe same dynamics, but at widely different time scales, consistent with\nreversing the order of the long time and the thermodynamic limits.",
+            "pdf_url": "http://arxiv.org/pdf/2409.11932v3",
+            "published": "2024-09-18 12:48:10+00:00",
+            "updated": "2025-10-20 17:25:41+00:00"
+        },
+        {
+            "title": "Prediction of Sea Ice Velocity and Concentration in the Arctic Ocean using Physics-informed Neural Network",
+            "authors": "Younghyun Koo, Maryam Rahnemoonfar",
+            "summary": "As an increasing amount of remote sensing data becomes available in the\nArctic Ocean, data-driven machine learning (ML) techniques are becoming widely\nused to predict sea ice velocity (SIV) and sea ice concentration (SIC).\nHowever, fully data-driven ML models have limitations in generalizability and\nphysical consistency due to their excessive reliance on the quantity and\nquality of training data. In particular, as Arctic sea ice entered a new phase\nwith thinner ice and accelerated melting, there is a possibility that an ML\nmodel trained with historical sea ice data cannot fully represent the\ndynamically changing sea ice conditions in the future. In this study, we\ndevelop physics-informed neural network (PINN) strategies to integrate physical\nknowledge of sea ice into the ML model. Based on the Hierarchical\nInformation-sharing U-net (HIS-Unet) architecture, we incorporate the physics\nloss function and the activation function to produce physically plausible SIV\nand SIC outputs. Our PINN model outperforms the fully data-driven model in the\ndaily predictions of SIV and SIC, even when trained with a small number of\nsamples. The PINN approach particularly improves SIC predictions in melting and\nearly freezing seasons and near fast-moving ice regions.",
+            "pdf_url": "http://arxiv.org/pdf/2510.17756v1",
+            "published": "2025-10-20 17:10:01+00:00",
+            "updated": "2025-10-20 17:10:01+00:00"
+        },
+        {
+            "title": "TCLK Must Stay! CAMAC Must Go! How Does Fermilab Move Forward",
+            "authors": "M. R. Austin, L. Carmichael, D. McArthur, E. Milton, A. Quilty",
+            "summary": "The current Timing System at Fermilab has been around for 40 years and\ncurrently relies on 7 CAMAC crates and over 100 CAMAC cards to produce the\nTevatron Clock (TCLK). Thanks to the ingenuity of those before us, this has\nallowed Fermilab the flexibility to change the timing and Events for its\naccelerator as beamlines and projects have changed over the years. With the\nadvent of the Proton Improvement Plan-II (PIP-II), the Timing System at\nFermilab is being reimagined into a single chassis with even greater\nflexibility and functionality for decades to come while tackling the\never-challenging task of maintaining backwards compatibility.",
+            "pdf_url": "http://arxiv.org/pdf/2510.17751v1",
+            "published": "2025-10-20 17:06:30+00:00",
+            "updated": "2025-10-20 17:06:30+00:00"
+        },
+        {
+            "title": "Lattice-induced sound trapping in biperiodic metasurfaces of acoustic resonators",
+            "authors": "Nikita Ustimenko, Andrey B. Evlyukhin, Vicky Kyrimi, Alexander V. Kildishev, Carsten Rockstuhl",
+            "summary": "A referential example of a physical system that supports bound states in the\ncontinuum (BICs) with an infinite quality factor ($Q$-factor) is a\nsubwavelength lattice of discrete scatterers (resonators) whose response can be\nsignificantly modified by exploiting lattice interactions. In this work, we\nexplore the interference Friedrich-Wintgen mechanism for realizing acoustic\nBICs (trapped modes) at the $\\Gamma$-point (in-plane Bloch wave vector\n$\\mathbf{k}_{\\parallel} = \\mathbf{0}$) in biperiodic lattices of acoustic\nresonators with one resonator per unit cell. To do so, we expand the pressure\nfield from the lattice into a series of scalar zonal ($m = 0$) spherical\nmultipoles, carried by a normally incident plane wave, and formulate analytical\nconditions on the resonator's multipole moments under which an eigenmode\nbecomes a BIC. The conditions allow us to determine the lattice constant and\nfrequency values that enable the formation of the axisymmetric BIC due to the\ndestructive interference of radiation from zonal multipole moments of a certain\nparity, although each moment radiates individually. By employing the T-matrix\nmethod for acoustic metasurfaces, we numerically investigate the BIC resonance\nin various structures, including finite arrays, and also the transformation of\nsuch resonances into high-$Q$ quasi-BIC regimes, which can be excited by a\nplane wave at normal incidence.",
+            "pdf_url": "http://arxiv.org/pdf/2510.17750v1",
+            "published": "2025-10-20 17:05:27+00:00",
+            "updated": "2025-10-20 17:05:27+00:00"
+        },
+        {
+            "title": "Recasting Experimental Constraints on Relativistic Magnetic Monopoles",
+            "authors": "Daniele Perri, Michele Doro, Takeshi Kobayashi",
+            "summary": "Magnetic monopoles with masses up to $10^{14}$ GeV can be accelerated to\nrelativistic velocities in Galactic and intergalactic magnetic fields. The\ncosmic flux of relativistic monopoles is constrained by various experiments,\nwith the limits given as functions of the monopole velocity (Lorentz factor) at\nthe detectors. The velocity, however, is usually treated as a free parameter\ndue to the ambiguity in the computation of the acceleration before the\nmonopoles arrive at Earth. We explicitly evaluate the velocity by exploiting\nrecent studies on cosmic magnetic fields and the monopole acceleration therein,\nto recast experimental limits in terms of the mass of monopoles. By applying\nour method to various terrestrial experiments, including the Pierre Auger\nObservatory, IceCube, MACRO, and the upcoming Cherenkov Telescope Array\nObservatory, as well as to astrophysical constraints, we report limits on the\nflux of monopoles for a wide range of monopole masses. We also highlight the\nrole of monopoles as messengers of cosmic magnetic fields, and discuss the\npossibility of using monopole experiments to probe intergalactic magnetic\nfields.",
+            "pdf_url": "http://arxiv.org/pdf/2507.05136v2",
+            "published": "2025-07-07 15:49:22+00:00",
+            "updated": "2025-10-20 16:58:03+00:00"
+        },
+        {
+            "title": "B-Meson Anomalies: Effective Field Theory Meets Machine Learning",
+            "authors": "Alejandro Mir, Jorge Alda, Siannah Penaranda",
+            "summary": "Discrepancies between experimental measurements and Standard Model\npredictions in $B$-meson decays, especially in lepton flavor universality\nratios like $R_{D^{(*)}}$, $R_{J/\\psi}$ and branching ratios for processes like\n$B\\to K^+\\nu\\bar\\nu$, suggest possible new physics (NP). In this study, we use\nan effective field theory framework, assuming NP effects only affect a single\ngeneration in the interaction basis, leading to non-universal mixing when\nrotating to the mass basis. We perform a global fit to the current experimental\ndata, exploring three scenarios characterized by different mixing patterns and\nconstraints. Our analysis finds that the best fit involves mixing between the\nsecond and third quark generations, with no lepton sector mixing and\nindependent coefficients for singlet and triplet four-fermion operators. To\naccurately capture the non-Gaussian nature of the resulting parameter\ndistributions, we use a Machine Learning-based Monte Carlo algorithm, enabling\nthe generation of representative samples that reflect the true underlying\ndistributions. This work highlights the valuable role of Machine Learning in\naccurately modeling complex parameter distributions in particle physics\nanalyses.",
+            "pdf_url": "http://arxiv.org/pdf/2510.17742v1",
+            "published": "2025-10-20 16:52:52+00:00",
+            "updated": "2025-10-20 16:52:52+00:00"
+        },
+        {
+            "title": "Automated computation of spin-density matrices and quantum observables for collider physics",
+            "authors": "Valentin Durupt, Fabio Maltoni, Olivier Mattelaer",
+            "summary": "We present a fully automated framework to compute production spin-density\nmatrices for generic collider processes at tree level within\n\\textsc{MadGraph5\\_aMC@NLO}. The method assembles helicity amplitudes into\nevent-by-event production matrices. These are written to the LHE file in a\ncompact form, together with run metadata, enabling direct post-processing of\nquantum observables. The implementation supports bi- and multipartite qubit and\nqutrit final states, configurable reference frames, and both polarised and\nunpolarised initial states. A companion, easy-to-extend library provides\nanalysis routines to determine key quantum-information measures and witnesses.\nThese include purity, concurrence, and entanglement of formation for qubits;\nPeres--Horodecki tests and negativity; spin-polarisation vectors and\ncorrelation matrices; $D$-coefficients; and stabiliser-based ``magic''\nmeasures. As a result, multi-particle quantum correlations can be quantified\nsystematically. We validate the implementation against known results for $t\\bar\nt$ and $VV$ ($V=W^\\pm,Z$) production in $pp$ and $e^+e^-$ collisions and in\nheavy-resonance decays. We then consider new applications and study quantum\ncorrelations in several LHC final states: $t\\bar t W^\\pm$, $tW^-$ vs.\\ $t(\\bar\nt\\to W^- \\bar b)$, and $t\\bar t t$ vs. $t\\bar t t\\bar t$.",
+            "pdf_url": "http://arxiv.org/pdf/2510.17730v1",
+            "published": "2025-10-20 16:44:34+00:00",
+            "updated": "2025-10-20 16:44:34+00:00"
+        },
+        {
+            "title": "Lieb-Mattis states for robust entangled differential phase sensing",
+            "authors": "Raphael Kaubruegger, Diego Fallas Padilla, Athreya Shankar, Christoph Hotter, Sean R. Muleady, Jacob Bringewatt, Youcef Baamara, Erfan Abbasgholinejad, Alexey V. Gorshkov, Klaus M\u00f8lmer, James K. Thompson, Ana Maria Rey",
+            "summary": "Developing sensors with large particle numbers $N$ that can resolve subtle\nphysical effects is a central goal in precision measurement science. Entangled\nquantum sensors can surpass the standard quantum limit (SQL), where the signal\nvariance scales as $1/N$, and approach the Heisenberg limit (HL) with variance\nscaling as $1/N^2$. However, entangled states are typically more sensitive to\nnoise, especially common-mode noise such as magnetic field fluctuations,\ncontrol phase noise, or vibrations in atomic interferometers. We propose a\ntwo-node entanglement-enhanced quantum sensor network for differential signal\nestimation that intrinsically rejects common-mode noise while remaining robust\nagainst local, uncorrelated noise. This architecture enables sensitivities\napproaching the Heisenberg limit. We investigate two state preparation\nstrategies: (i) unitary entanglement generation analogous to bosonic two-mode\nsqueezing, yielding Heisenberg scaling; and (ii) dissipative preparation via\ncollective emission into a shared cavity mode, offering a $\\sqrt{N}$\nimprovement over the SQL. Numerical simulations confirm that both protocols\nremain effective under realistic conditions, supporting scalable\nquantum-enhanced sensing in the presence of dominant common-mode noise.",
+            "pdf_url": "http://arxiv.org/pdf/2506.10151v3",
+            "published": "2025-06-11 20:11:45+00:00",
+            "updated": "2025-10-20 16:22:25+00:00"
+        }
+    ],
+    "Diffusion": [
+        {
+            "title": "Inference-Time Compute Scaling For Flow Matching",
+            "authors": "Adam Stecklov, Noah El Rimawi-Fine, Mathieu Blanchette",
+            "summary": "Allocating extra computation at inference time has recently improved sample\nquality in large language models and diffusion-based image generation. In\nparallel, Flow Matching (FM) has gained traction in language, vision, and\nscientific domains, but inference-time scaling methods for it remain\nunder-explored. Concurrently, Kim et al., 2025 approach this problem but\nreplace the linear interpolant with a non-linear variance-preserving (VP)\ninterpolant at inference, sacrificing FM's efficient and straight sampling.\nAdditionally, inference-time compute scaling for flow matching has only been\napplied to visual tasks, like image generation. We introduce novel\ninference-time scaling procedures for FM that preserve the linear interpolant\nduring sampling. Evaluations of our method on image generation, and for the\nfirst time (to the best of our knowledge), unconditional protein generation,\nshow that I) sample quality consistently improves as inference compute\nincreases, and II) flow matching inference-time scaling can be applied to\nscientific domains.",
+            "pdf_url": "http://arxiv.org/pdf/2510.17786v1",
+            "published": "2025-10-20 17:44:17+00:00",
+            "updated": "2025-10-20 17:44:17+00:00"
+        },
+        {
+            "title": "VERA-V: Variational Inference Framework for Jailbreaking Vision-Language Models",
+            "authors": "Qilin Liao, Anamika Lochab, Ruqi Zhang",
+            "summary": "Vision-Language Models (VLMs) extend large language models with visual\nreasoning, but their multimodal design also introduces new, underexplored\nvulnerabilities. Existing multimodal red-teaming methods largely rely on\nbrittle templates, focus on single-attack settings, and expose only a narrow\nsubset of vulnerabilities. To address these limitations, we introduce VERA-V, a\nvariational inference framework that recasts multimodal jailbreak discovery as\nlearning a joint posterior distribution over paired text-image prompts. This\nprobabilistic view enables the generation of stealthy, coupled adversarial\ninputs that bypass model guardrails. We train a lightweight attacker to\napproximate the posterior, allowing efficient sampling of diverse jailbreaks\nand providing distributional insights into vulnerabilities. VERA-V further\nintegrates three complementary strategies: (i) typography-based text prompts\nthat embed harmful cues, (ii) diffusion-based image synthesis that introduces\nadversarial signals, and (iii) structured distractors to fragment VLM\nattention. Experiments on HarmBench and HADES benchmarks show that VERA-V\nconsistently outperforms state-of-the-art baselines on both open-source and\nfrontier VLMs, achieving up to 53.75% higher attack success rate (ASR) over the\nbest baseline on GPT-4o.",
+            "pdf_url": "http://arxiv.org/pdf/2510.17759v1",
+            "published": "2025-10-20 17:12:10+00:00",
+            "updated": "2025-10-20 17:12:10+00:00"
+        },
+        {
+            "title": "GAS: Improving Discretization of Diffusion ODEs via Generalized Adversarial Solver",
+            "authors": "Aleksandr Oganov, Ilya Bykov, Eva Neudachina, Mishan Aliev, Alexander Tolmachev, Alexander Sidorov, Aleksandr Zuev, Andrey Okhotin, Denis Rakitin, Aibek Alanov",
+            "summary": "While diffusion models achieve state-of-the-art generation quality, they\nstill suffer from computationally expensive sampling. Recent works address this\nissue with gradient-based optimization methods that distill a few-step ODE\ndiffusion solver from the full sampling process, reducing the number of\nfunction evaluations from dozens to just a few. However, these approaches often\nrely on intricate training techniques and do not explicitly focus on preserving\nfine-grained details. In this paper, we introduce the Generalized Solver: a\nsimple parameterization of the ODE sampler that does not require additional\ntraining tricks and improves quality over existing approaches. We further\ncombine the original distillation loss with adversarial training, which\nmitigates artifacts and enhances detail fidelity. We call the resulting method\nthe Generalized Adversarial Solver and demonstrate its superior performance\ncompared to existing solver training methods under similar resource\nconstraints. Code is available at https://github.com/3145tttt/GAS.",
+            "pdf_url": "http://arxiv.org/pdf/2510.17699v1",
+            "published": "2025-10-20 16:14:38+00:00",
+            "updated": "2025-10-20 16:14:38+00:00"
+        },
+        {
+            "title": "Wavy Transformer",
+            "authors": "Satoshi Noguchi, Yoshinobu Kawahara",
+            "summary": "Transformers have achieved remarkable success across natural language\nprocessing (NLP) and computer vision (CV). However, deep transformer models\noften suffer from an over-smoothing issue, in which token representations\nconverge to similar values as they pass through successive transformer blocks.\nIn this paper, we establish an equivalence between the hidden-state dynamics\ninduced by stacked attention layers and graph neural diffusion on a complete\ngraph. From this perspective, over-smoothing can be interpreted as a\nconsequence of the dissipative nature of the underlying diffusion dynamics.\nMotivated by this physical interpretation, we propose Wavy Transformer, which\nconsists of a novel attention layer based on second-order wavy dynamics. We\nalso introduce a feed-forward network and a normalization layer designed to\npreserve the physical state-velocity relationship under the chain rule, thereby\nextending the transformer architecture. We further validate our proposed\ntechniques on various transformer models for NLP and CV tasks. The results\nconsistently demonstrate that Wavy Transformer improves performance with\nminimal additional parameters and no extra hyperparameter tuning.",
+            "pdf_url": "http://arxiv.org/pdf/2508.12787v2",
+            "published": "2025-08-18 10:03:38+00:00",
+            "updated": "2025-10-20 15:22:31+00:00"
+        },
+        {
+            "title": "GUIDE: Enhancing Gradient Inversion Attacks in Federated Learning with Denoising Models",
+            "authors": "Vincenzo Carletti, Pasquale Foggia, Carlo Mazzocca, Giuseppe Parrella, Mario Vento",
+            "summary": "Federated Learning (FL) enables collaborative training of Machine Learning\n(ML) models across multiple clients while preserving their privacy. Rather than\nsharing raw data, federated clients transmit locally computed updates to train\nthe global model. Although this paradigm should provide stronger privacy\nguarantees than centralized ML, client updates remain vulnerable to privacy\nleakage. Adversaries can exploit them to infer sensitive properties about the\ntraining data or even to reconstruct the original inputs via Gradient Inversion\nAttacks (GIAs). Under the honest-butcurious threat model, GIAs attempt to\nreconstruct training data by reversing intermediate updates using\noptimizationbased techniques. We observe that these approaches usually\nreconstruct noisy approximations of the original inputs, whose quality can be\nenhanced with specialized denoising models. This paper presents Gradient Update\nInversion with DEnoising (GUIDE), a novel methodology that leverages diffusion\nmodels as denoising tools to improve image reconstruction attacks in FL. GUIDE\ncan be integrated into any GIAs that exploits surrogate datasets, a widely\nadopted assumption in GIAs literature. We comprehensively evaluate our approach\nin two attack scenarios that use different FL algorithms, models, and datasets.\nOur results demonstrate that GUIDE integrates seamlessly with two state-ofthe-\nart GIAs, substantially improving reconstruction quality across multiple\nmetrics. Specifically, GUIDE achieves up to 46% higher perceptual similarity,\nas measured by the DreamSim metric.",
+            "pdf_url": "http://arxiv.org/pdf/2510.17621v1",
+            "published": "2025-10-20 15:04:29+00:00",
+            "updated": "2025-10-20 15:04:29+00:00"
+        }
+    ],
+    "Quantitative Finance": [
+        {
+            "title": "Preliminary Quantitative Study on Explainability and Trust in AI Systems",
+            "authors": "Allen Daniel Sunny",
+            "summary": "Large-scale AI models such as GPT-4 have accelerated the deployment of\nartificial intelligence across critical domains including law, healthcare, and\nfinance, raising urgent questions about trust and transparency. This study\ninvestigates the relationship between explainability and user trust in AI\nsystems through a quantitative experimental design. Using an interactive,\nweb-based loan approval simulation, we compare how different types of\nexplanations, ranging from basic feature importance to interactive\ncounterfactuals influence perceived trust. Results suggest that interactivity\nenhances both user engagement and confidence, and that the clarity and\nrelevance of explanations are key determinants of trust. These findings\ncontribute empirical evidence to the growing field of human-centered\nexplainable AI, highlighting measurable effects of explainability design on\nuser perception",
+            "pdf_url": "http://arxiv.org/pdf/2510.15769v1",
+            "published": "2025-10-17 15:59:28+00:00",
+            "updated": "2025-10-17 15:59:28+00:00"
+        }
+    ]
+}
