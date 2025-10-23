@@ -1,0 +1,128 @@
+{
+    "Physics": [
+        {
+            "title": "Passive quantum error correction of photon loss at breakeven",
+            "authors": "Shruti Shirol, Sean van Geldern, Hanzhe Xi, Chen Wang",
+            "summary": "Physical qubits in a quantum computer are often represented by superposition\nstates of single particles or excitations. Decay of the excitation itself is a\nfundamental error channel that is difficult to overcome via external drive or\ncontrol techniques. Quantum error correcting codes, which encode information in\nsuperpositions involving multiple excitations, provide a path to preserve\ninformation beyond the capacity of individual excitations, but typically\nrequire exquisite active operations on the system. Here, we demonstrate a\nsteady-state driven dissipative quantum system, composed of a superconducting\ncavity and a transmon ancilla, that preserves a logical qubit beyond the\nphoton-lifetime limit by about 5% using a binomial encoding. This realization\nof continuous quantum error correction at the breakeven point highlights the\nquantitative competitiveness of passive correction strategies while\ncircumventing some demanding hardware requirements of its active counterparts.",
+            "pdf_url": "http://arxiv.org/pdf/2510.19794v1",
+            "published": "2025-10-22 17:28:27+00:00",
+            "updated": "2025-10-22 17:28:27+00:00"
+        },
+        {
+            "title": "First Observation of Dispersive Shock Waves in an Electron Beam",
+            "authors": "H. McCright, I. G. Abel, I. Haber, P. G. O'Shea, B. L. Beaudoin",
+            "summary": "Dispersive shock waves (DSWs) are expanding nonlinear wave trains that arise\nwhen dispersion regularizes a steepening front, a phenomenon observed in\nfluids, plasmas, optics, and superfluids. Here we report the first experimental\nobservation of DSWs in an intense electron beam, using the University of\nMaryland Electron Ring (UMER). A localized induction-cell perturbation produced\na negative density pulse that evolved into a leading soliton-like peak followed\nby an expanding train of oscillations. The leading peak satisfied soliton\nscaling laws for width^2 vs inverse amplitude and velocity vs amplitude, while\nthe total wave-train width increased linearly with time, consistent with\nKorteweg--de Vries (KdV) predictions. Successive peaks showed decreasing\namplitude and velocity toward the trailing edge, in agreement with dispersive\nshock ordering. These results demonstrate that intense charged particle beams\nprovide a new laboratory platform for studying dispersive hydrodynamics,\nextending nonlinear wave physics into the high-intensity beam regime.",
+            "pdf_url": "http://arxiv.org/pdf/2510.19786v1",
+            "published": "2025-10-22 17:21:26+00:00",
+            "updated": "2025-10-22 17:21:26+00:00"
+        },
+        {
+            "title": "Diffusion-Based Hierarchical Graph Neural Networks for Simulating Nonlinear Solid Mechanics",
+            "authors": "Tobias W\u00fcrth, Niklas Freymuth, Gerhard Neumann, Luise K\u00e4rger",
+            "summary": "Graph-based learned simulators have emerged as a promising approach for\nsimulating physical systems on unstructured meshes, offering speed and\ngeneralization across diverse geometries. However, they often struggle with\ncapturing global phenomena, such as bending or long-range correlations usually\noccurring in solid mechanics, and suffer from error accumulation over long\nrollouts due to their reliance on local message passing and direct next-step\nprediction. We address these limitations by introducing the Rolling\nDiffusion-Batched Inference Network (ROBIN), a novel learned simulator that\nintegrates two key innovations: (i) Rolling Diffusion-Batched Inference (ROBI),\na parallelized inference scheme that amortizes the cost of diffusion-based\nrefinement across physical time steps by overlapping denoising steps across a\ntemporal window. (ii) A Hierarchical Graph Neural Network built on algebraic\nmultigrid coarsening, enabling multiscale message passing across different mesh\nresolutions. This architecture, implemented via Algebraic-hierarchical Message\nPassing Networks, captures both fine-scale local dynamics and global structural\neffects critical for phenomena like beam bending or multi-body contact. We\nvalidate ROBIN on challenging 2D and 3D solid mechanics benchmarks involving\ngeometric, material, and contact nonlinearities. ROBIN achieves\nstate-of-the-art accuracy on all tasks, substantially outperforming existing\nnext-step learned simulators while reducing inference time by up to an order of\nmagnitude compared to standard diffusion simulators.",
+            "pdf_url": "http://arxiv.org/pdf/2506.06045v2",
+            "published": "2025-06-06 12:46:36+00:00",
+            "updated": "2025-10-22 17:09:23+00:00"
+        },
+        {
+            "title": "Training-Free Constrained Generation With Stable Diffusion Models",
+            "authors": "Stefano Zampini, Jacob K. Christopher, Luca Oneto, Davide Anguita, Ferdinando Fioretto",
+            "summary": "Stable diffusion models represent the state-of-the-art in data synthesis\nacross diverse domains and hold transformative potential for applications in\nscience and engineering, e.g., by facilitating the discovery of novel solutions\nand simulating systems that are computationally intractable to model\nexplicitly. While there is increasing effort to incorporate physics-based\nconstraints into generative models, existing techniques are either limited in\ntheir applicability to latent diffusion frameworks or lack the capability to\nstrictly enforce domain-specific constraints. To address this limitation this\npaper proposes a novel integration of stable diffusion models with constrained\noptimization frameworks, enabling the generation of outputs satisfying\nstringent physical and functional requirements. The effectiveness of this\napproach is demonstrated through material design experiments requiring\nadherence to precise morphometric properties, challenging inverse design tasks\ninvolving the generation of materials inducing specific stress-strain\nresponses, and copyright-constrained content generation tasks. All code has\nbeen released at\nhttps://github.com/RAISELab-atUVA/Constrained-Stable-Diffusion.",
+            "pdf_url": "http://arxiv.org/pdf/2502.05625v4",
+            "published": "2025-02-08 16:11:17+00:00",
+            "updated": "2025-10-22 17:02:03+00:00"
+        },
+        {
+            "title": "Committors without Descriptors",
+            "authors": "Peilin Kang, Jintu Zhang, Enrico Trizio, TingJun Hou, Michele Parrinello",
+            "summary": "The study of rare events is one of the major challenges in atomistic\nsimulations, and several enhanced sampling methods towards its solution have\nbeen proposed. Recently, it has been suggested that the use of the committor,\nwhich provides a precise formal description of rare events, could be of use in\nthis context. We have recently followed up on this suggestion and proposed a\ncommittor-based method that promotes frequent transitions between the\nmetastable states of the system and allows extensive sampling of the process\ntransition state ensemble. One of the strengths of our approach is being\nself-consistent and semi-automatic, exploiting a variational criterion to\niteratively optimize a neural-network-based parametrization of the committor,\nwhich uses a set of physical descriptors as input. Here, we further automate\nthis procedure by combining our previous method with the expressive power of\ngraph neural networks, which can directly process atomic coordinates rather\nthan descriptors. Besides applications on benchmark systems, we highlight the\nadvantages of a graph-based approach in describing the role of solvent\nmolecules in systems, such as ion pair dissociation or ligand binding.",
+            "pdf_url": "http://arxiv.org/pdf/2510.18018v2",
+            "published": "2025-10-20 18:50:25+00:00",
+            "updated": "2025-10-22 16:52:41+00:00"
+        },
+        {
+            "title": "Coupling of neutrino beam-driven MHD waves and resonant instabilities in rotating magnetoplasmas with neutrino two-flavor oscillations",
+            "authors": "Jyoti Turi, Amar P. Misra",
+            "summary": "We present an analysis of neutrino-driven magnetohydrodynamic (MHD) waves and\ninstabilities in a rotating magnetoplasma with weak neutrino interactions. We\nshow, for the first time, that neutrino-driven shear Alfv{\\'e}n and oblique\nmagnetosonic waves can be coupled by the Coriolis force, forming new wave modes\naffected by this force, as well as neutrino beam and two neutrino flavor\noscillations. Our work extends previous theories by demonstrating that shear\nAlfv{\\'e}n waves are influenced by neutrino effects and by identifying\ninstabilities resulting from resonant interactions with both a streaming\nneutrino beam and flavor oscillations. We find that the Coriolis force, as well\nas plasma density and magnetic field strength, have a significant impact on the\nprofiles of the instability growth rates. Our findings may shed new light on\nthe physical mechanisms underlying core-collapse supernovae.",
+            "pdf_url": "http://arxiv.org/pdf/2510.19729v1",
+            "published": "2025-10-22 16:17:32+00:00",
+            "updated": "2025-10-22 16:17:32+00:00"
+        },
+        {
+            "title": "Classical theories of gravity produce entanglement",
+            "authors": "Joseph Aziz, Richard Howl",
+            "summary": "The unification of gravity and quantum mechanics remains one of the most\nprofound open questions in science. With recent advances in quantum technology,\nan experimental idea first proposed by Richard Feynman is now regarded as a\npromising route to testing this unification for the first time. The experiment\ninvolves placing a massive object in a quantum superposition of two locations\nand letting it gravitationally interact with another mass. If the two objects\nsubsequently become entangled, this is considered unambiguous evidence that\ngravity obeys the laws of quantum mechanics. This conclusion derives from\ntheorems that treat a classical gravitational interaction as a local\ninteraction capable of only transmitting classical, not quantum, information.\nHere, we extend the description of the gravitational interaction used in these\ntheorems to the full framework of quantum field theory, finding that theories\nwith classical gravity can then transmit quantum information, and thus generate\nentanglement through physical, local processes. The effect scales differently\nto that predicted by theories of quantum gravity, providing information on the\nparameters and form of the experiment required to robustly evidence the quantum\nnature of gravity.",
+            "pdf_url": "http://arxiv.org/pdf/2510.19714v1",
+            "published": "2025-10-22 16:01:51+00:00",
+            "updated": "2025-10-22 16:01:51+00:00"
+        },
+        {
+            "title": "Modification of ion-temperature-gradient turbulence by impurities in stellarator plasmas",
+            "authors": "Ivan Calvo, Felix I. Parra, Hanne Thienpondt, Jose Manuel Garcia-Rega\u00f1a",
+            "summary": "Recent nonlinear gyrokinetic simulations have shown that impurities can\nstrongly modify the turbulent heat flux in stellarator plasmas. Here, the\nion-temperature-gradient (ITG) dispersion relation in a plasma containing\nimpurities is analytically solved in certain limits and an expression for the\nmodification of the ITG growth rate by impurities is derived. The analytical\nexpression is the sum of three terms corresponding to three different physical\ncauses (impurity density gradient, impurity temperature gradient and dilution)\nof the change in the growth rate. The scalings predicted analytically for the\nmodification of the growth rate are shown to be reproduced by linear\ngyrokinetic simulations. The conditions for reduction or increase of the ITG\ngrowth by impurities are also correctly predicted by the analytical solution to\nthe dispersion relation. Finally, a remarkable correlation is found between the\nanalytical expression for the modification of the growth rate and the\nmodification of the turbulent heat flux obtained from nonlinear gyrokinetic\nsimulations.",
+            "pdf_url": "http://arxiv.org/pdf/2510.19690v1",
+            "published": "2025-10-22 15:38:02+00:00",
+            "updated": "2025-10-22 15:38:02+00:00"
+        },
+        {
+            "title": "Collisional Excitation in Space: Recent Advances and Future Challenges in the JWST Era",
+            "authors": "Francesca Tonolo",
+            "summary": "This perspective offers a viewpoint on how the challenges of molecular\nscattering investigations of astrophysical interest have evolved in recent\nyears. Computational progress has steadily expanded collisional databases and\nprovided essential tools for modeling non-LTE astronomical regions. However,\nthe observational leap enabled by the JWST and new observational facilities has\nrevealed critical gaps in these databases. In this framework, two major\nfrontiers emerge: the characterization of collisional processes involving heavy\nprojectiles, and the treatment of ro-vibrational excitation. The significant\ncomputational effort of these investigations emphasizes the need to test and\ndevelop robust theoretical methods and approximations, capable of extending the\ncensus of collisional coefficients required for reliable astrophysical\nmodeling. Recent developments in these directions are outlined, with particular\nattention to their application and their potential to broaden the coverage of\nmolecular systems and physical environments.",
+            "pdf_url": "http://arxiv.org/pdf/2510.19686v1",
+            "published": "2025-10-22 15:33:43+00:00",
+            "updated": "2025-10-22 15:33:43+00:00"
+        },
+        {
+            "title": "AeroDiT: Diffusion Transformers for Reynolds-Averaged Navier-Stokes Simulations of Airfoil Flows",
+            "authors": "Chunyang Wang, Biyue Pan, Zhibo Dai, Yudi Cai, Yuhao Ma, Hao Zheng, Dixia Fan, Hui Xiang",
+            "summary": "Real-time and accurate prediction of aerodynamic flow fields around airfoils\nis crucial for flow control and aerodynamic optimization. However, achieving\nthis remains challenging due to the high computational costs and the non-linear\nnature of flow physics. Traditional Computational Fluid Dynamics (CFD) methods\nface limitations in balancing computational efficiency and accuracy, hindering\ntheir application in real-time scenarios. To address these challenges, this\nstudy presents AeroDiT, a novel surrogate model that integrates scalable\ndiffusion models with transformer architectures to address these challenges.\nTrained on Reynolds-Averaged Navier-Stokes (RANS) simulation data for high\nReynolds-number airfoil flows, AeroDiT accurately captures complex flow\npatterns while enabling real-time predictions. The model demonstrates\nimpressive performance, with mean relative $L_2$ errors of 0.1, 0.025, and\n0.050 for pressure $p$ and velocity components $u_x, u_y$, confirming its\nreliability. To further enhance physical consistency, we incorporate explicit\nphysics-informed losses based on RANS residuals, including mass and momentum\nconservation constraints. The transformer-based structure allows for real-time\npredictions within seconds, enabling efficient aerodynamic simulations. This\nwork underscores the potential of generative machine learning techniques to\nadvance computational fluid dynamics, offering potential solutions to\nchallenges in simulating high-fidelity aerodynamic flows.",
+            "pdf_url": "http://arxiv.org/pdf/2412.17394v4",
+            "published": "2024-12-23 08:46:29+00:00",
+            "updated": "2025-10-22 15:13:40+00:00"
+        }
+    ],
+    "Diffusion": [
+        {
+            "title": "Graph Representation Learning with Diffusion Generative Models",
+            "authors": "Daniel Wesego",
+            "summary": "Diffusion models have established themselves as state-of-the-art generative\nmodels across various data modalities, including images and videos, due to\ntheir ability to accurately approximate complex data distributions. Unlike\ntraditional generative approaches such as VAEs and GANs, diffusion models\nemploy a progressive denoising process that transforms noise into meaningful\ndata over multiple iterative steps. This gradual approach enhances their\nexpressiveness and generation quality. Not only that, diffusion models have\nalso been shown to extract meaningful representations from data while learning\nto generate samples. Despite their success, the application of diffusion models\nto graph-structured data remains relatively unexplored, primarily due to the\ndiscrete nature of graphs, which necessitates discrete diffusion processes\ndistinct from the continuous methods used in other domains. In this work, we\nleverage the representational capabilities of diffusion models to learn\nmeaningful embeddings for graph data. By training a discrete diffusion model\nwithin an autoencoder framework, we enable both effective autoencoding and\nrepresentation learning tailored to the unique characteristics of\ngraph-structured data. We extract the representation from the combination of\nthe encoder's output and the decoder's first time step hidden embedding. Our\napproach demonstrates the potential of discrete diffusion models to be used for\ngraph representation learning. The code can be found at\nhttps://github.com/DanielMitiku/Graph-Representation-Learning-with-Diffusion-Generative-Models",
+            "pdf_url": "http://arxiv.org/pdf/2501.13133v2",
+            "published": "2025-01-22 07:12:10+00:00",
+            "updated": "2025-10-22 17:58:33+00:00"
+        },
+        {
+            "title": "Are Modern Speech Enhancement Systems Vulnerable to Adversarial Attacks?",
+            "authors": "Rostislav Makarov, Lea Sch\u00f6nherr, Timo Gerkmann",
+            "summary": "Machine learning approaches for speech enhancement are becoming increasingly\nexpressive, enabling ever more powerful modifications of input signals. In this\npaper, we demonstrate that this expressiveness introduces a vulnerability:\nadvanced speech enhancement models can be susceptible to adversarial attacks.\nSpecifically, we show that adversarial noise, carefully crafted and\npsychoacoustically masked by the original input, can be injected such that the\nenhanced speech output conveys an entirely different semantic meaning. We\nexperimentally verify that contemporary predictive speech enhancement models\ncan indeed be manipulated in this way. Furthermore, we highlight that diffusion\nmodels with stochastic samplers exhibit inherent robustness to such adversarial\nattacks by design.",
+            "pdf_url": "http://arxiv.org/pdf/2509.21087v2",
+            "published": "2025-09-25 12:39:19+00:00",
+            "updated": "2025-10-22 17:49:56+00:00"
+        },
+        {
+            "title": "A Survey on Cache Methods in Diffusion Models: Toward Efficient Multi-Modal Generation",
+            "authors": "Jiacheng Liu, Xinyu Wang, Yuqi Lin, Zhikai Wang, Peiru Wang, Peiliang Cai, Qinming Zhou, Zhengan Yan, Zexuan Yan, Zhengyi Shi, Chang Zou, Yue Ma, Linfeng Zhang",
+            "summary": "Diffusion Models have become a cornerstone of modern generative AI for their\nexceptional generation quality and controllability. However, their inherent\n\\textit{multi-step iterations} and \\textit{complex backbone networks} lead to\nprohibitive computational overhead and generation latency, forming a major\nbottleneck for real-time applications. Although existing acceleration\ntechniques have made progress, they still face challenges such as limited\napplicability, high training costs, or quality degradation.\n  Against this backdrop, \\textbf{Diffusion Caching} offers a promising\ntraining-free, architecture-agnostic, and efficient inference paradigm. Its\ncore mechanism identifies and reuses intrinsic computational redundancies in\nthe diffusion process. By enabling feature-level cross-step reuse and\ninter-layer scheduling, it reduces computation without modifying model\nparameters. This paper systematically reviews the theoretical foundations and\nevolution of Diffusion Caching and proposes a unified framework for its\nclassification and analysis.\n  Through comparative analysis of representative methods, we show that\nDiffusion Caching evolves from \\textit{static reuse} to \\textit{dynamic\nprediction}. This trend enhances caching flexibility across diverse tasks and\nenables integration with other acceleration techniques such as sampling\noptimization and model distillation, paving the way for a unified, efficient\ninference framework for future multimodal and interactive applications. We\nargue that this paradigm will become a key enabler of real-time and efficient\ngenerative AI, injecting new vitality into both theory and practice of\n\\textit{Efficient Generative Intelligence}.",
+            "pdf_url": "http://arxiv.org/pdf/2510.19755v1",
+            "published": "2025-10-22 16:46:05+00:00",
+            "updated": "2025-10-22 16:46:05+00:00"
+        },
+        {
+            "title": "Beyond Masked and Unmasked: Discrete Diffusion Models via Partial Masking",
+            "authors": "Chen-Hao Chao, Wei-Fang Sun, Hanwen Liang, Chun-Yi Lee, Rahul G. Krishnan",
+            "summary": "Masked diffusion models (MDM) are powerful generative models for discrete\ndata that generate samples by progressively unmasking tokens in a sequence.\nEach token can take one of two states: masked or unmasked. We observe that\ntoken sequences often remain unchanged between consecutive sampling steps;\nconsequently, the model repeatedly processes identical inputs, leading to\nredundant computation. To address this inefficiency, we propose the Partial\nmasking scheme (Prime), which augments MDM by allowing tokens to take\nintermediate states interpolated between the masked and unmasked states. This\ndesign enables the model to make predictions based on partially observed token\ninformation, and facilitates a fine-grained denoising process. We derive a\nvariational training objective and introduce a simple architectural design to\naccommodate intermediate-state inputs. Our method demonstrates superior\nperformance across a diverse set of generative modeling tasks. On text data, it\nachieves a perplexity of 15.36 on OpenWebText, outperforming previous MDM\n(21.52), autoregressive models (17.54), and their hybrid variants (17.58),\nwithout relying on an autoregressive formulation. On image data, it attains\ncompetitive FID scores of 3.26 on CIFAR-10 and 6.98 on ImageNet-32, comparable\nto leading continuous generative models.",
+            "pdf_url": "http://arxiv.org/pdf/2505.18495v2",
+            "published": "2025-05-24 04:16:40+00:00",
+            "updated": "2025-10-22 16:25:33+00:00"
+        }
+    ],
+    "Quantitative Finance": [
+        {
+            "title": "Quantum Machine Learning methods for Fourier-based distribution estimation with application in option pricing",
+            "authors": "Fernando Alonso, \u00c1lvaro Leitao, Carlos V\u00e1zquez",
+            "summary": "The ongoing progress in quantum technologies has fueled a sustained\nexploration of their potential applications across various domains. One\nparticularly promising field is quantitative finance, where a central challenge\nis the pricing of financial derivatives-traditionally addressed through Monte\nCarlo integration techniques. In this work, we introduce two hybrid\nclassical-quantum methods to address the option pricing problem. These\napproaches rely on reconstructing Fourier series representations of statistical\ndistributions from the outputs of Quantum Machine Learning (QML) models based\non Parametrized Quantum Circuits (PQCs). We analyze the impact of data size and\nPQC dimensionality on performance. Quantum Accelerated Monte Carlo (QAMC) is\nemployed as a benchmark to quantitatively assess the proposed models in terms\nof computational cost and accuracy in the extraction of Fourier coefficients.\nThrough the numerical experiments, we show that the proposed methods achieve\nremarkable accuracy, becoming a competitive quantum alternative for derivatives\nvaluation.",
+            "pdf_url": "http://arxiv.org/pdf/2510.19494v1",
+            "published": "2025-10-22 11:43:08+00:00",
+            "updated": "2025-10-22 11:43:08+00:00"
+        }
+    ]
+}

@@ -224,6 +224,35 @@ TODO:
 
 
 
+
+## Update on 2025-10-23
+
+### Physics
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-10-22|2025-10-22|Passive quantum error correction of photon loss at breakeven|Shruti Shirol|[2510.19794v1](http://arxiv.org/pdf/2510.19794v1)|
+|2025-10-22|2025-10-22|First Observation of Dispersive Shock Waves in an Electron Beam|H. McCright|[2510.19786v1](http://arxiv.org/pdf/2510.19786v1)|
+|2025-06-06|2025-10-22|Diffusion-Based Hierarchical Graph Neural Networks for Simulating Nonlinear Solid Mechanics|Tobias Würth|[2506.06045v2](http://arxiv.org/pdf/2506.06045v2)|
+|2025-02-08|2025-10-22|Training-Free Constrained Generation With Stable Diffusion Models|Stefano Zampini|[2502.05625v4](http://arxiv.org/pdf/2502.05625v4)|
+|2025-10-20|2025-10-22|Committors without Descriptors|Peilin Kang|[2510.18018v2](http://arxiv.org/pdf/2510.18018v2)|
+|2025-10-22|2025-10-22|Coupling of neutrino beam-driven MHD waves and resonant instabilities in rotating magnetoplasmas with neutrino two-flavor oscillations|Jyoti Turi|[2510.19729v1](http://arxiv.org/pdf/2510.19729v1)|
+|2025-10-22|2025-10-22|Classical theories of gravity produce entanglement|Joseph Aziz|[2510.19714v1](http://arxiv.org/pdf/2510.19714v1)|
+|2025-10-22|2025-10-22|Modification of ion-temperature-gradient turbulence by impurities in stellarator plasmas|Ivan Calvo|[2510.19690v1](http://arxiv.org/pdf/2510.19690v1)|
+|2025-10-22|2025-10-22|Collisional Excitation in Space: Recent Advances and Future Challenges in the JWST Era|Francesca Tonolo|[2510.19686v1](http://arxiv.org/pdf/2510.19686v1)|
+|2024-12-23|2025-10-22|AeroDiT: Diffusion Transformers for Reynolds-Averaged Navier-Stokes Simulations of Airfoil Flows|Chunyang Wang|[2412.17394v4](http://arxiv.org/pdf/2412.17394v4)|
+
+### Diffusion
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-01-22|2025-10-22|Graph Representation Learning with Diffusion Generative Models|Daniel Wesego|[2501.13133v2](http://arxiv.org/pdf/2501.13133v2)|
+|2025-09-25|2025-10-22|Are Modern Speech Enhancement Systems Vulnerable to Adversarial Attacks?|Rostislav Makarov|[2509.21087v2](http://arxiv.org/pdf/2509.21087v2)|
+|2025-10-22|2025-10-22|A Survey on Cache Methods in Diffusion Models: Toward Efficient Multi-Modal Generation|Jiacheng Liu|[2510.19755v1](http://arxiv.org/pdf/2510.19755v1)|
+|2025-05-24|2025-10-22|Beyond Masked and Unmasked: Discrete Diffusion Models via Partial Masking|Chen-Hao Chao|[2505.18495v2](http://arxiv.org/pdf/2505.18495v2)|
+
+### Quantitative Finance
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-10-22|2025-10-22|Quantum Machine Learning methods for Fourier-based distribution estimation with application in option pricing|Fernando Alonso|[2510.19494v1](http://arxiv.org/pdf/2510.19494v1)|
 ## Update on 2025-10-21
 
 ### Physics
