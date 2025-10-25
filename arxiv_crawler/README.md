@@ -225,6 +225,31 @@ TODO:
 
 
 
+
+## Update on 2025-10-25
+
+### Physics
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-10-23|2025-10-23|VAMOS: A Hierarchical Vision-Language-Action Model for Capability-Modulated and Steerable Navigation|Mateo Guaman Castro|[2510.20818v1](http://arxiv.org/pdf/2510.20818v1)|
+|2025-10-23|2025-10-23|GSWorld: Closed-Loop Photo-Realistic Simulation Suite for Robotic Manipulation|Guangqi Jiang|[2510.20813v1](http://arxiv.org/pdf/2510.20813v1)|
+|2025-10-23|2025-10-23|Video Prediction of Dynamic Physical Simulations With Pixel-Space Spatiotemporal Transformers|Dean L Slack|[2510.20807v1](http://arxiv.org/pdf/2510.20807v1)|
+|2025-10-23|2025-10-23|Analog Quantum Feature Selection with Neutral-Atom Quantum Processors|Jose J. Orquin-Marques|[2510.20798v1](http://arxiv.org/pdf/2510.20798v1)|
+|2025-10-23|2025-10-23|Bayesian Inference of Primordial Magnetic Field Parameters from CMB with Spherical Graph Neural Networks|Juan Alejandro Pinto Castro|[2510.20795v1](http://arxiv.org/pdf/2510.20795v1)|
+|2025-10-23|2025-10-23|Trapping, manipulating and probing ultracold atoms: a quantum technologies tutorial|Louise Wolswijk|[2510.20790v1](http://arxiv.org/pdf/2510.20790v1)|
+|2025-10-23|2025-10-23|CSU-PCAST: A Dual-Branch Transformer Framework for medium-range ensemble Precipitation Forecasting|Tianyi Xiong|[2510.20769v1](http://arxiv.org/pdf/2510.20769v1)|
+|2025-10-23|2025-10-23|Dynamical entropy of charged black objects|Manus R. Visser|[2510.20747v1](http://arxiv.org/pdf/2510.20747v1)|
+|2025-08-16|2025-10-23|CosmicWatch: The Desktop Muon Detector(v3X)|Spencer Axani|[2508.12111v2](http://arxiv.org/pdf/2508.12111v2)|
+|2025-08-29|2025-10-23|Mass-deformed Super Yang-Mills theory on $\mathbb T^4$: sum over twisted sectors, $\mathbfθ$-angle, and CP violation|Mohamed M. Anber|[2509.00157v2](http://arxiv.org/pdf/2509.00157v2)|
+
+### Diffusion
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-05-19|2025-10-23|One-Step Offline Distillation of Diffusion-based Models via Koopman Modeling|Nimrod Berman|[2505.13358v3](http://arxiv.org/pdf/2505.13358v3)|
+|2025-10-23|2025-10-23|Towards General Modality Translation with Contrastive and Predictive Latent Diffusion Bridge|Nimrod Berman|[2510.20819v1](http://arxiv.org/pdf/2510.20819v1)|
+|2025-10-02|2025-10-23|DragFlow: Unleashing DiT Priors with Region Based Supervision for Drag Editing|Zihan Zhou|[2510.02253v2](http://arxiv.org/pdf/2510.02253v2)|
+|2025-10-23|2025-10-23|BadGraph: A Backdoor Attack Against Latent Diffusion Model for Text-Guided Graph Generation|Liang Ye|[2510.20792v1](http://arxiv.org/pdf/2510.20792v1)|
+|2024-12-31|2025-10-23|Sampling from multi-modal distributions with polynomial query complexity in fixed dimension via reverse diffusion|Adrien Vacher|[2501.00565v3](http://arxiv.org/pdf/2501.00565v3)|
 ## Update on 2025-10-23
 
 ### Physics
