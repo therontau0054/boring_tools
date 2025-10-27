@@ -226,6 +226,29 @@ TODO:
 
 
 
+
+## Update on 2025-10-27
+
+### Physics
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-06-11|2025-10-24|Causal Climate Emulation with Bayesian Filtering|Sebastian Hickman|[2506.09891v2](http://arxiv.org/pdf/2506.09891v2)|
+|2025-10-24|2025-10-24|A Knowledge-Graph Translation Layer for Mission-Aware Multi-Agent Path Planning in Spatiotemporal Dynamics|Edward Holmberg|[2510.21695v1](http://arxiv.org/pdf/2510.21695v1)|
+|2025-10-24|2025-10-24|On Uncertainty Calibration for Equivariant Functions|Edward Berman|[2510.21691v1](http://arxiv.org/pdf/2510.21691v1)|
+|2024-12-11|2025-10-24|DynamicPAE: Generating Scene-Aware Physical Adversarial Examples in Real-Time|Jin Hu|[2412.08053v3](http://arxiv.org/pdf/2412.08053v3)|
+|2025-10-24|2025-10-24|Foundations of Carrollian Geometry|Luca Ciambelli|[2510.21651v1](http://arxiv.org/pdf/2510.21651v1)|
+|2025-10-24|2025-10-24|Search for dijet resonances with data scouting in proton-proton collisions at $\sqrt{s}$ = 13 TeV|CMS Collaboration|[2510.21641v1](http://arxiv.org/pdf/2510.21641v1)|
+|2025-10-24|2025-10-24|Analytical determination of multi-time correlation functions in quantum chaotic systems|Yoana R. Chorbadzhiyska|[2510.21637v1](http://arxiv.org/pdf/2510.21637v1)|
+|2025-10-24|2025-10-24|RydIQule Version 2: Enhancing graph-based modeling of Rydberg atoms|Benjamin N. Miller|[2510.21628v1](http://arxiv.org/pdf/2510.21628v1)|
+|2025-10-24|2025-10-24|DESI constraints on two-field quintessence with exponential potentials|George Alestas|[2510.21627v1](http://arxiv.org/pdf/2510.21627v1)|
+
+### Diffusion
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-10-24|2025-10-24|Visual Diffusion Models are Geometric Solvers|Nir Goren|[2510.21697v1](http://arxiv.org/pdf/2510.21697v1)|
+|2025-06-30|2025-10-24|System-Embedded Diffusion Bridge Models|Bartlomiej Sobieski|[2506.23726v2](http://arxiv.org/pdf/2506.23726v2)|
+|2025-10-24|2025-10-24|Generalised Flow Maps for Few-Step Generative Modelling on Riemannian Manifolds|Oscar Davis|[2510.21608v1](http://arxiv.org/pdf/2510.21608v1)|
+|2025-10-24|2025-10-24|HollowFlow: Efficient Sample Likelihood Evaluation using Hollow Message Passing|Johann Flemming Gloy|[2510.21542v1](http://arxiv.org/pdf/2510.21542v1)|
 ## Update on 2025-10-25
 
 ### Physics
