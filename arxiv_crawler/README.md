@@ -227,6 +227,36 @@ TODO:
 
 
 
+
+## Update on 2025-10-29
+
+### Physics
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-01-14|2025-10-28|Physics-Informed Latent Neural Operator for Real-time Predictions of time-dependent parametric PDEs|Sharmila Karumuri|[2501.08428v3](http://arxiv.org/pdf/2501.08428v3)|
+|2024-06-14|2025-10-28|DeltaPhi: Physical States Residual Learning for Neural Operators in Data-Limited PDE Solving|Xihang Yue|[2406.09795v2](http://arxiv.org/pdf/2406.09795v2)|
+|2025-10-28|2025-10-28|ComboBench: Can LLMs Manipulate Physical Devices to Play Virtual Reality Games?|Shuqing Li|[2510.24706v1](http://arxiv.org/pdf/2510.24706v1)|
+|2025-10-28|2025-10-28|Fast algorithms enabling optimization and deep learning for photoacoustic tomography in a circular detection geometry|Andreas Hauptmann|[2510.24687v1](http://arxiv.org/pdf/2510.24687v1)|
+|2025-10-28|2025-10-28|Learning constitutive models and rheology from partial flow measurements|Alp M. Sunol|[2510.24673v1](http://arxiv.org/pdf/2510.24673v1)|
+|2025-10-28|2025-10-28|Pearl: A Foundation Model for Placing Every Atom in the Right Location|Genesis Research Team|[2510.24670v1](http://arxiv.org/pdf/2510.24670v1)|
+|2025-09-27|2025-10-28|Study of the Semileptonic Decay $Λ\to p\,\ell\,\barν_{\ell}$ in QCD|M. Ahmadi|[2509.23421v2](http://arxiv.org/pdf/2509.23421v2)|
+|2025-10-27|2025-10-28|Radiation enhanced diffusion in cartilages as a physical mechanism underlying radiation treatments of osteoarthritis and related disorders|Diana Shvydka|[2510.22903v2](http://arxiv.org/pdf/2510.22903v2)|
+|2025-10-28|2025-10-28|Statistical physics of deep learning: Optimal learning of a multi-layer perceptron near interpolation|Jean Barbier|[2510.24616v1](http://arxiv.org/pdf/2510.24616v1)|
+|2025-10-28|2025-10-28|Efficient magic state cultivation with lattice surgery|Yutaka Hirano|[2510.24615v1](http://arxiv.org/pdf/2510.24615v1)|
+
+### Diffusion
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-10-28|2025-10-28|Generative View Stitching|Chonghyuk Song|[2510.24718v1](http://arxiv.org/pdf/2510.24718v1)|
+|2025-10-28|2025-10-28|Causal Ordering for Structure Learning From Time Series|Pedro P. Sanchez|[2510.24639v1](http://arxiv.org/pdf/2510.24639v1)|
+|2025-10-28|2025-10-28|Diffusion Models for Wireless Transceivers: From Pilot-Efficient Channel Estimation to AI-Native 6G Receivers|Yuzhi Yang|[2510.24495v1](http://arxiv.org/pdf/2510.24495v1)|
+|2025-08-27|2025-10-28|Discrete Diffusion VLA: Bringing Discrete Diffusion to Action Decoding in Vision-Language-Action Policies|Zhixuan Liang|[2508.20072v2](http://arxiv.org/pdf/2508.20072v2)|
+|2025-10-28|2025-10-28|Rethinking Visual Intelligence: Insights from Video Pretraining|Pablo Acuaviva|[2510.24448v1](http://arxiv.org/pdf/2510.24448v1)|
+
+### Quantitative Finance
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2012-12-09|2025-10-26|Stochastic PDEs and Quantitative Finance: The Black-Scholes-Merton Model of Options Pricing and Riskless Trading|Brandon Kaplowitz|[1212.1919v3](http://arxiv.org/pdf/1212.1919v3)|
 ## Update on 2025-10-27
 
 ### Physics
