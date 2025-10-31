@@ -228,6 +228,36 @@ TODO:
 
 
 
+
+## Update on 2025-10-31
+
+### Physics
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-10-30|2025-10-30|Are Video Models Ready as Zero-Shot Reasoners? An Empirical Study with the MME-CoF Benchmark|Ziyu Guo|[2510.26802v1](http://arxiv.org/pdf/2510.26802v1)|
+|2025-10-30|2025-10-30|OmniX: From Unified Panoramic Generation and Perception to Graphics-Ready 3D Scenes|Yukun Huang|[2510.26800v1](http://arxiv.org/pdf/2510.26800v1)|
+|2025-10-30|2025-10-30|Boosting the cosmic 21-cm signal with exotic Lyman-$α$ from dark matter|Dominic Agius|[2510.26791v1](http://arxiv.org/pdf/2510.26791v1)|
+|2025-10-30|2025-10-30|Characterizing the initial state and dynamical evolution in XeXe and PbPb collisions using multiparticle cumulants|CMS Collaboration|[2510.26766v1](http://arxiv.org/pdf/2510.26766v1)|
+|2025-10-30|2025-10-30|Approximate quantum error correction, eigenstate thermalization and the chaos bound|Shozab Qasim|[2510.26758v1](http://arxiv.org/pdf/2510.26758v1)|
+|2025-10-30|2025-10-30|Tunable frequency conversion and comb generation with a superconducting artificial atom|Fahad Aziz|[2510.26749v1](http://arxiv.org/pdf/2510.26749v1)|
+|2025-10-30|2025-10-30|Spectral Deconvolution without the Deconvolution: Extracting Temperature from X-ray Thomson Scattering Spectra without the Source-and-Instrument Function|Thomas Gawne|[2510.26747v1](http://arxiv.org/pdf/2510.26747v1)|
+|2025-10-30|2025-10-30|Moments of parton distributions functions of the pion from lattice QCD using gradient flow|Anthony Francis|[2510.26738v1](http://arxiv.org/pdf/2510.26738v1)|
+|2025-10-30|2025-10-30|Digitized Counterdiabatic Quantum Sampling|Narendra N. Hegade|[2510.26735v1](http://arxiv.org/pdf/2510.26735v1)|
+|2025-10-30|2025-10-30|Cross-Platform Evaluation of Reasoning Capabilities in Foundation Models|J. de Curtò|[2510.26732v1](http://arxiv.org/pdf/2510.26732v1)|
+
+### Diffusion
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-04-28|2025-10-30|Advancing Local Clustering on Graphs via Compressive Sensing: Semi-supervised and Unsupervised Methods|Zhaiming Shen|[2504.19419v2](http://arxiv.org/pdf/2504.19419v2)|
+|2025-10-30|2025-10-30|Enhancing ECG Classification Robustness with Lightweight Unsupervised Anomaly Detection Filters|Mustafa Fuad Rifet Ibrahim|[2510.26501v1](http://arxiv.org/pdf/2510.26501v1)|
+|2025-05-24|2025-10-30|StyleGuard: Preventing Text-to-Image-Model-based Style Mimicry Attacks by Style Perturbations|Yanjie Li|[2505.18766v2](http://arxiv.org/pdf/2505.18766v2)|
+|2025-09-28|2025-10-30|Tunable-Generalization Diffusion Powered by Self-Supervised Contextual Sub-Data for Low-Dose CT Reconstruction|Guoquan Wei|[2509.23885v2](http://arxiv.org/pdf/2509.23885v2)|
+|2025-10-30|2025-10-30|GLYPH-SR: Can We Achieve Both High-Quality Image Super-Resolution and High-Fidelity Text Recovery via VLM-guided Latent Diffusion Model?|Mingyu Sung|[2510.26339v1](http://arxiv.org/pdf/2510.26339v1)|
+
+### Quantitative Finance
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-10-29|2025-10-29|A mathematical study of the excess growth rate|Steven Campbell|[2510.25740v1](http://arxiv.org/pdf/2510.25740v1)|
 ## Update on 2025-10-29
 
 ### Physics
