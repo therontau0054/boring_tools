@@ -229,6 +229,31 @@ TODO:
 
 
 
+
+## Update on 2025-11-03
+
+### Physics
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-10-31|2025-10-31|Dark-Field X-Ray Imaging Significantly Improves Deep-Learning based Detection of Synthetic Early-Stage Lung Tumors in Preclinical Models|Joyoni Dey|[2510.27679v1](http://arxiv.org/pdf/2510.27679v1)|
+|2025-08-25|2025-10-31|Diffusioosmotic corner flows|Dobromir Nowak|[2508.18233v2](http://arxiv.org/pdf/2508.18233v2)|
+|2025-10-31|2025-10-31|Teaching competencies in physics for engineering education: A qualitative analysis from teaching practice|Vanessa Cruz Molina|[2510.27674v1](http://arxiv.org/pdf/2510.27674v1)|
+|2025-10-31|2025-10-31|Probing non-equilibrium physics through the two-body Bell correlator|Abhishek Muhuri|[2510.27657v1](http://arxiv.org/pdf/2510.27657v1)|
+|2025-07-13|2025-10-31|TrajectoryFlowNet: Lagrangian-Eulerian learning of flow field and trajectories|Jingdi Wan|[2507.09621v2](http://arxiv.org/pdf/2507.09621v2)|
+|2025-10-31|2025-10-31|From photons to dikaon -- theoretical insights into $K^+K^-$ production in nuclear collisions|Nikhil Krishna|[2510.27642v1](http://arxiv.org/pdf/2510.27642v1)|
+|2025-07-30|2025-10-31|On the reggeon model with the pomeron and odderon: singularities with non-zero masses|M. A. Braun|[2507.23086v3](http://arxiv.org/pdf/2507.23086v3)|
+|2025-10-31|2025-10-31|Sensor operating point calibration and monitoring of the ALICE Inner Tracking System during LHC Run 3|D. Agguiaro|[2510.27592v1](http://arxiv.org/pdf/2510.27592v1)|
+|2025-10-31|2025-10-31|CMB observables and reheat temperature as a window to models of inflation and freeze-in dark matter production|Anish Ghoshal|[2510.27587v1](http://arxiv.org/pdf/2510.27587v1)|
+|2025-07-21|2025-10-31|Entanglement Preservation and Clauser-Horne Nonlocality in Electromagnetically Induced Transparency Quantum Memories|Po-Han Tseng|[2507.15453v3](http://arxiv.org/pdf/2507.15453v3)|
+
+### Diffusion
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-10-31|2025-10-31|MolChord: Structure-Sequence Alignment for Protein-Guided Drug Design|Wei Zhang|[2510.27671v1](http://arxiv.org/pdf/2510.27671v1)|
+|2025-10-31|2025-10-31|Bayesian model selection and misspecification testing in imaging inverse problems only from noisy and partial measurements|Tom Sprunck|[2510.27663v1](http://arxiv.org/pdf/2510.27663v1)|
+|2025-09-20|2025-10-31|Discrete Diffusion Models: Novel Analysis and New Sampler Guarantees|Yuchen Liang|[2509.16756v2](http://arxiv.org/pdf/2509.16756v2)|
+|2025-06-02|2025-10-31|Absorb and Converge: Provable Convergence Guarantee for Absorbing Discrete Diffusion Models|Yuchen Liang|[2506.02318v3](http://arxiv.org/pdf/2506.02318v3)|
+|2025-10-31|2025-10-31|Optimal Convergence Analysis of DDPM for General Distributions|Yuchen Jiao|[2510.27562v1](http://arxiv.org/pdf/2510.27562v1)|
 ## Update on 2025-10-31
 
 ### Physics
