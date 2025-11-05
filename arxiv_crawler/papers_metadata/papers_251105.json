@@ -1,0 +1,120 @@
+{
+    "Physics": [
+        {
+            "title": "Tensors, entanglement, separability, and their complexity",
+            "authors": "Shmuel Friedland",
+            "summary": "One of the most challenging problems in quantum physics is to quantify the\nentanglement of $d$-partite states and their separability. We show here that\nthese problems are best addressed using tensors. The geometric measure of\nentanglement of a pure state is one of most natural ways to quantify the\nentanglement, which is simply related to the spectral norm of a tensor state.\nOn the other hand, the logarithm of the nuclear norm of the state and density\ntensors can be considered as its ``energy''. We first show that the most\ngeometric measure entangled $d$-partite state has the minimum spectral norm and\nmaximum nuclear norm. Second, we introduce the notion of Hermitian and density\ntensors, and the subspace of bi-symmetric Hermitian tensors, which correspond\nto Bosons. We show that separable density tensors, and strongly separable\nbi-symmetric density tensors are characterized by the value (equal to one) of\ntheir corresponding nuclear norms. In general, these characterizations are\nNP-hard to verify. Third, we show that the above quantities are computed in\npolynomial time when we restrict our attentions to Bosons: symmetric\n$d$-qubits, or more generally to symmetric $d$-qunits in $C^n$, and the\ncorresponding bi-symmetric Hermtian density tensors, for a fixed value of $n$.",
+            "pdf_url": "http://arxiv.org/pdf/2509.21639v2",
+            "published": "2025-09-25 21:58:44+00:00",
+            "updated": "2025-11-04 18:54:31+00:00"
+        },
+        {
+            "title": "Neurosymbolic Deep Learning Semantics",
+            "authors": "Artur d'Avila Garcez, Simon Odense",
+            "summary": "Artificial Intelligence (AI) is a powerful new language of science as\nevidenced by recent Nobel Prizes in chemistry and physics that recognized\ncontributions to AI applied to those areas. Yet, this new language lacks\nsemantics, which makes AI's scientific discoveries unsatisfactory at best. With\nthe purpose of uncovering new facts but also improving our understanding of the\nworld, AI-based science requires formalization through a framework capable of\ntranslating insight into comprehensible scientific knowledge. In this paper, we\nargue that logic offers an adequate framework. In particular, we use logic in a\nneurosymbolic framework to offer a much needed semantics for deep learning, the\nneural network-based technology of current AI. Deep learning and neurosymbolic\nAI lack a general set of conditions to ensure that desirable properties are\nsatisfied. Instead, there is a plethora of encoding and knowledge extraction\napproaches designed for particular cases. To rectify this, we introduced a\nframework for semantic encoding, making explicit the mapping between neural\nnetworks and logic, and characterizing the common ingredients of the various\nexisting approaches. In this paper, we describe succinctly and exemplify how\nlogical semantics and neural networks are linked through this framework, we\nreview some of the most prominent approaches and techniques developed for\nneural encoding and knowledge extraction, provide a formal definition of our\nframework, and discuss some of the difficulties of identifying a semantic\nencoding in practice in light of analogous problems in the philosophy of mind.",
+            "pdf_url": "http://arxiv.org/pdf/2511.02825v1",
+            "published": "2025-11-04 18:51:04+00:00",
+            "updated": "2025-11-04 18:51:04+00:00"
+        },
+        {
+            "title": "Hybrid Quantum-Classical Recurrent Neural Networks",
+            "authors": "Wenduan Xu",
+            "summary": "We present a hybrid quantum-classical recurrent neural network (QRNN)\narchitecture in which the recurrent core is realized as a parametrized quantum\ncircuit (PQC) controlled by a classical feedforward network. The hidden state\nis the quantum state of an $n$-qubit PQC in an exponentially large Hilbert\nspace $\\mathbb{C}^{2^n}$, which serves as a coherent recurrent quantum memory.\nThe PQC is unitary by construction, making the hidden-state evolution\nnorm-preserving without external constraints. At each timestep, mid-circuit\nPauli expectation-value readouts are combined with the input embedding and\nprocessed by the feedforward network, which provides explicit classical\nnonlinearity. The outputs parametrize the PQC, which updates the hidden state\nvia unitary dynamics. The QRNN is compact and physically consistent, and it\nunifies (i) unitary recurrence as a high-capacity memory, (ii) partial\nobservation via mid-circuit readouts, and (iii) nonlinear classical control for\ninput-conditioned parametrization. We evaluate the model in simulation with up\nto 14 qubits on sentiment analysis, MNIST, permuted MNIST, copying memory, and\nlanguage modeling. For sequence-to-sequence learning, we further devise a soft\nattention mechanism over the mid-circuit readouts and show its effectiveness\nfor machine translation. To our knowledge, this is the first model (RNN or\notherwise) grounded in quantum operations to achieve competitive performance\nagainst strong classical baselines across a broad class of sequence-learning\ntasks.",
+            "pdf_url": "http://arxiv.org/pdf/2510.25557v2",
+            "published": "2025-10-29 14:21:49+00:00",
+            "updated": "2025-11-04 18:43:14+00:00"
+        },
+        {
+            "title": "Majorana string simulation of nonequilibrium dynamics in two-dimensional lattice fermion systems",
+            "authors": "Matteo D'Anna, Jannes Nys, Juan Carrasquilla",
+            "summary": "The study of real-time dynamics of fermions remains one of the last frontiers\nbeyond the reach of classical simulations and is key to our understanding of\nquantum behavior in chemistry and materials, with implications for quantum\ntechnology. Here we introduce a Heisenberg-picture algorithm that propagates\nobservables expressed in a Majorana-string basis using a truncation scheme that\npreserves Trotter accuracy and aims at maintaining computational efficiency.\nThe framework is exact for quadratic Hamiltonians--remaining restricted to a\nfixed low-weight sector determined by the physical observable--admits\nvariational initial states, and can be extended to interacting regimes via\nsystematically controlled truncations. We benchmark our approach on one- and\ntwo-dimensional Fermi-Hubbard quenches, comparing against tensor network\nmethods (MPS and fPEPS) and recent experimental data. The method achieves high\naccuracy on timescales comparable to state-of-the-art variational techniques\nand experiments, demonstrating that controlled Majorana-string truncation is a\npractical tool for simulating two-dimensional fermionic dynamics.",
+            "pdf_url": "http://arxiv.org/pdf/2511.02809v1",
+            "published": "2025-11-04 18:30:35+00:00",
+            "updated": "2025-11-04 18:30:35+00:00"
+        },
+        {
+            "title": "Topologically Quantized Soliton-Like Pumping using Synthetic Nonlinearity",
+            "authors": "Ankitkumar Maisuriya, Siddhi Mali, Sunil Mittal",
+            "summary": "The interplay between nonlinear and topological physics has led to intriguing\nemergent phenomena, such as quantized and fractionally quantized Thouless\npumping of solitons dictated by the topological invariants of the underlying\nband structure. Unlike linear Thouless pumping, which requires excitation of a\nWannier function of a uniformly filled band, quantized soliton pumping is\nobserved even with localized excitations that do not represent Wannier\nfunctions. Here, we show that similar soliton-like quantized pumping can be\nobserved in Aubry-Andre-Harper (AAH) model by introducing a synthetic\nnonlinearity in the form of a cutoff on the coupling strengths between lattice\nsites. More importantly, we reveal that the localized excitations driving\nquantized soliton pumping are precisely the Wannier functions of the uniformly\nfilled bands of the effectively nonlinear lattice, thus restoring consistency\nwith linear Thouless pumping. We extend this approach to multi-band systems and\nshow that the nonlinearity introduces a degeneracy between bands, subsequently\nleading to the observation of fractionally quantized pumping. Our approach of\nintroducing a synthetic nonlinearity is general and could be extended to reveal\nsoliton dynamics in other nonlinear topological systems.",
+            "pdf_url": "http://arxiv.org/pdf/2511.02806v1",
+            "published": "2025-11-04 18:28:17+00:00",
+            "updated": "2025-11-04 18:28:17+00:00"
+        },
+        {
+            "title": "Code in Motion: Integrating Computational Thinking with Kinematics Exploration",
+            "authors": "Mateo Dutra, \u00c1lvaro Su\u00e1rez, Arturo C. Marti",
+            "summary": "Although physics has become increasingly computational, with computing even\nbeing considered the third pillar of physics, it is still not well integrated\ninto physics education. Research suggests that integrating Computational\nThinking (CT) into physics enhances conceptual understanding and strengthens\nstudents' ability to model and analyze phenomena. Building on this, we designed\na didactic sequence for K9 students to foster specific CT practices while\nreinforcing fundamental kinematics concepts. The activity revealed students'\nability to apply CT skills and is well suited for use in introductory\nkinematics courses.",
+            "pdf_url": "http://arxiv.org/pdf/2503.03850v2",
+            "published": "2025-03-05 19:25:29+00:00",
+            "updated": "2025-11-04 18:23:40+00:00"
+        },
+        {
+            "title": "Visualization of High Dynamic Range Solar Imagery and the Radial Histogram Equalizing Filter",
+            "authors": "Chris Gilly, Steven Cranmer",
+            "summary": "Standard visualizations of Extreme Ultraviolet (EUV) solar imagery often fail\nto convey the full complexity of the Sun's corona, especially in faint off-limb\nregions. This can leave the misleading impression of the Sun as a bright ball\nin a dark void, rather than revealing it as the dynamic, structured source of\nthe solar wind and space weather. A variety of enhancement algorithms have been\ndeveloped to address this challenge, each with its own strengths and tradeoffs.\nWe introduce the Radial Histogram Equalizing Filter (RHEF), a novel hybrid\ntechnique that optimizes contrast in high dynamic range solar images. By\ncombining the spatial awareness of radial graded filters with the perceptual\nbenefits of histogram equalization, RHEF reveals faint coronal structures and\nworks out of the box -- without requiring careful parameter tuning or prior\ndataset characterization. RHEF operates independently on each frame, and it\nenhances on-disk and off-limb features uniformly across the field of view. For\nadditional control, we also present the Upsilon redistribution function -- a\nsymmetrized cousin of gamma correction -- as an optional post-processing step\nthat provides intuitive programmatic tonal compression. We benchmark RHEF\nagainst established methods and offer guidance on filter selection across\nvarious applications, with examples from multiple solar instruments provided in\nan appendix. Implemented and available in both Python sunkit_image and IDL,\nRHEF enables immediate improvements in solar coronal visualization.",
+            "pdf_url": "http://arxiv.org/pdf/2511.02798v1",
+            "published": "2025-11-04 18:22:40+00:00",
+            "updated": "2025-11-04 18:22:40+00:00"
+        },
+        {
+            "title": "Enhancing Kinematics Understanding through a Video Game Based on Real-Time Motion Graphs",
+            "authors": "Mateo Dutra, Marcos Abreu, Mart\u00edn Monteiro, Silvia Sguilla, Cecilia Stari, \u00c1lvaro Su\u00e1rez, Arturo Mart\u00ed",
+            "summary": "Interpreting kinematic graphs remains a significant challenge in physics\neducation. The MissionMotion Project addresses this issue by providing a\ngamified physical-computational environment combining low-cost sensors,\nphysical activity, computational thinking, and real-time visualization of\nmotion graphs. This paper presents the design, development, and implementation\nof the project, with a particular focus on the pilot phase conducted with high\nschool students in Uruguay. During this phase, we primarily used the MEEGA+\nquestionnaire to evaluate the gaming experience, usability, and motivation of\nthe participants. Our analysis of the results shows high levels of\nsatisfaction, perceived learning, and engagement, supporting the proposal's\nviability. Finally, we plan to conduct a large-scale conceptual evaluation to\nanalyze how the proposal impacts understanding of kinematic graphs using\nstandardized assessment tools.",
+            "pdf_url": "http://arxiv.org/pdf/2508.19119v3",
+            "published": "2025-08-26 15:20:38+00:00",
+            "updated": "2025-11-04 18:18:00+00:00"
+        },
+        {
+            "title": "When alcoved polytopes add",
+            "authors": "Nick Early, Lukas K\u00fchne, Leonid Monin",
+            "summary": "Alcoved polytopes are characterized by the property that all facet normal\ndirections are parallel to the roots $e_i-e_j$. Unlike other prominent families\nof polytopes, like generalized permutahedra, alcoved polytopes are not closed\nunder Minkowski sums. We nonetheless show that the Minkowski sum of a\ncollection of alcoved polytopes is alcoved if and only if each pairwise sum is\nalcoved. This implies that the type fan of alcoved polytopes is determined by\nits two-dimensional cones. Moreover, we provide a complete characterization of\nwhen the Minkowski sum of alcoved simplices is again alcoved via a graphical\ncriterion on pairs of ordered set partitions. Our characterization reduces to\nchecking conditions on restricted partitions of length at most six. In\nparticular, we show how the Minkowski sum decompositions of the two most\nwell-known families of alcoved polytopes, the associahedron and the\ncyclohedron, fit in our framework. Additionally, inspired by the physical\nconstruction of one-loop scattering amplitudes, we present a new infinite\nfamily of alcoved polytopes, called $\\widehat{D}_n$ polytopes. We conclude by\ndrawing a connection to matroidal blade arrangements and the Dressian.",
+            "pdf_url": "http://arxiv.org/pdf/2501.17249v2",
+            "published": "2025-01-28 19:16:04+00:00",
+            "updated": "2025-11-04 17:40:26+00:00"
+        },
+        {
+            "title": "An introduction to Markovian open quantum systems",
+            "authors": "Shovan Dutta",
+            "summary": "This is a concise, pedagogical introduction to the dynamic field of open\nquantum systems governed by Markovian master equations. We focus on the\nmathematical and physical origins of the widely used Lindblad equation, its\nunraveling in terms of stochastic pure-state trajectories and the corresponding\ncontinuous measurement protocols, the structure of steady states with emphasis\non the role of symmetry and conservation laws, and a sampling of the novel\nphysical phenomena that arise from nonunitary dynamics (dissipation and\nmeasurements). This is far from a comprehensive summary of the field. Rather,\nthe objective is to provide a conceptual foundation and physically illuminating\nexamples that are useful to graduate students and researchers entering this\nsubject. There are exercise problems and references for further reading\nthroughout the notes.",
+            "pdf_url": "http://arxiv.org/pdf/2510.26530v2",
+            "published": "2025-10-30 14:21:43+00:00",
+            "updated": "2025-11-04 17:27:18+00:00"
+        }
+    ],
+    "Diffusion": [
+        {
+            "title": "Measuring AI Diffusion: A Population-Normalized Metric for Tracking Global AI Usage",
+            "authors": "Amit Misra, Jane Wang, Scott McCullers, Kevin White, Juan Lavista Ferres",
+            "summary": "Measuring global AI diffusion remains challenging due to a lack of\npopulation-normalized, cross-country usage data. We introduce AI User Share, a\nnovel indicator that estimates the share of each country's working-age\npopulation actively using AI tools. Built from anonymized Microsoft telemetry\nand adjusted for device access and mobile scaling, this metric spans 147\neconomies and provides consistent, real-time insight into global AI diffusion.\nWe find wide variation in adoption, with a strong correlation between AI User\nShare and GDP. High uptake is concentrated in developed economies, though usage\namong internet-connected populations in lower-income countries reveals\nsubstantial latent demand. We also detect sharp increases in usage following\nmajor product launches, such as DeepSeek in early 2025. While the metric's\nreliance solely on Microsoft telemetry introduces potential biases related to\nthis user base, it offers an important new lens into how AI is spreading\nglobally. AI User Share enables timely benchmarking that can inform data-driven\nAI policy.",
+            "pdf_url": "http://arxiv.org/pdf/2511.02781v1",
+            "published": "2025-11-04 18:03:51+00:00",
+            "updated": "2025-11-04 18:03:51+00:00"
+        },
+        {
+            "title": "AI Diffusion in Low Resource Language Countries",
+            "authors": "Amit Misra, Syed Waqas Zamir, Wassim Hamidouche, Inbal Becker-Reshef, Juan Lavista Ferres",
+            "summary": "Artificial intelligence (AI) is diffusing globally at unprecedented speed,\nbut adoption remains uneven. Frontier Large Language Models (LLMs) are known to\nperform poorly on low-resource languages due to data scarcity. We hypothesize\nthat this performance deficit reduces the utility of AI, thereby slowing\nadoption in Low-Resource Language Countries (LRLCs). To test this, we use a\nweighted regression model to isolate the language effect from socioeconomic and\ndemographic factors, finding that LRLCs have a share of AI users that is\napproximately 20% lower relative to their baseline. These results indicate that\nlinguistic accessibility is a significant, independent barrier to equitable AI\ndiffusion.",
+            "pdf_url": "http://arxiv.org/pdf/2511.02752v1",
+            "published": "2025-11-04 17:31:39+00:00",
+            "updated": "2025-11-04 17:31:39+00:00"
+        },
+        {
+            "title": "TAUE: Training-free Noise Transplant and Cultivation Diffusion Model",
+            "authors": "Daichi Nagai, Ryugo Morita, Shunsuke Kitada, Hitoshi Iyatomi",
+            "summary": "Despite the remarkable success of text-to-image diffusion models, their\noutput of a single, flattened image remains a critical bottleneck for\nprofessional applications requiring layer-wise control. Existing solutions\neither rely on fine-tuning with large, inaccessible datasets or are\ntraining-free yet limited to generating isolated foreground elements, failing\nto produce a complete and coherent scene. To address this, we introduce the\nTraining-free Noise Transplantation and Cultivation Diffusion Model (TAUE), a\nnovel framework for zero-shot, layer-wise image generation. Our core technique,\nNoise Transplantation and Cultivation (NTC), extracts intermediate latent\nrepresentations from both foreground and composite generation processes,\ntransplanting them into the initial noise for subsequent layers. This ensures\nsemantic and structural coherence across foreground, background, and composite\nlayers, enabling consistent, multi-layered outputs without requiring\nfine-tuning or auxiliary datasets. Extensive experiments show that our\ntraining-free method achieves performance comparable to fine-tuned methods,\nenhancing layer-wise consistency while maintaining high image quality and\nfidelity. TAUE not only eliminates costly training and dataset requirements but\nalso unlocks novel downstream applications, such as complex compositional\nediting, paving the way for more accessible and controllable generative\nworkflows.",
+            "pdf_url": "http://arxiv.org/pdf/2511.02580v1",
+            "published": "2025-11-04 13:56:39+00:00",
+            "updated": "2025-11-04 13:56:39+00:00"
+        }
+    ],
+    "Quantitative Finance": [
+        {
+            "title": "The ORCA Benchmark: Evaluating Real-World Calculation Accuracy in Large Language Models",
+            "authors": "Claudia Herambourg, Dawid Siuda, Anna Szczepanek, Julia Kopczy\u0144ska, Joao R. L. Santos, Wojciech Sas, Joanna \u015amieta\u0144ska-Nowak",
+            "summary": "We present ORCA (Omni Research on Calculation in AI) Benchmark -- a novel\nbenchmark that evaluates large language models (LLMs) on multi-domain,\nreal-life quantitative reasoning using verified outputs from Omni's calculator\nengine. In 500 natural-language tasks across domains such as finance, physics,\nhealth, and statistics, the five state-of-the-art systems (ChatGPT-5,\nGemini~2.5~Flash, Claude~Sonnet~4.5, Grok~4, and DeepSeek~V3.2) achieved only\n$45\\text{--}63\\,\\%$ accuracy, with errors mainly related to rounding ($35\\,\\%$)\nand calculation mistakes ($33\\,\\%$). Results in specific domains indicate\nstrengths in mathematics and engineering, but weaknesses in physics and natural\nsciences. Correlation analysis ($r \\approx 0.40\\text{--}0.65$) shows that the\nmodels often fail together but differ in the types of errors they make,\nhighlighting their partial complementarity rather than redundancy. Unlike\nstandard math datasets, ORCA evaluates step-by-step reasoning, numerical\nprecision, and domain generalization across real problems from finance,\nphysics, health, and statistics.",
+            "pdf_url": "http://arxiv.org/pdf/2511.02589v1",
+            "published": "2025-11-04 14:09:09+00:00",
+            "updated": "2025-11-04 14:09:09+00:00"
+        }
+    ]
+}

@@ -230,6 +230,34 @@ TODO:
 
 
 
+
+## Update on 2025-11-05
+
+### Physics
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-09-25|2025-11-04|Tensors, entanglement, separability, and their complexity|Shmuel Friedland|[2509.21639v2](http://arxiv.org/pdf/2509.21639v2)|
+|2025-11-04|2025-11-04|Neurosymbolic Deep Learning Semantics|Artur d'Avila Garcez|[2511.02825v1](http://arxiv.org/pdf/2511.02825v1)|
+|2025-10-29|2025-11-04|Hybrid Quantum-Classical Recurrent Neural Networks|Wenduan Xu|[2510.25557v2](http://arxiv.org/pdf/2510.25557v2)|
+|2025-11-04|2025-11-04|Majorana string simulation of nonequilibrium dynamics in two-dimensional lattice fermion systems|Matteo D'Anna|[2511.02809v1](http://arxiv.org/pdf/2511.02809v1)|
+|2025-11-04|2025-11-04|Topologically Quantized Soliton-Like Pumping using Synthetic Nonlinearity|Ankitkumar Maisuriya|[2511.02806v1](http://arxiv.org/pdf/2511.02806v1)|
+|2025-03-05|2025-11-04|Code in Motion: Integrating Computational Thinking with Kinematics Exploration|Mateo Dutra|[2503.03850v2](http://arxiv.org/pdf/2503.03850v2)|
+|2025-11-04|2025-11-04|Visualization of High Dynamic Range Solar Imagery and the Radial Histogram Equalizing Filter|Chris Gilly|[2511.02798v1](http://arxiv.org/pdf/2511.02798v1)|
+|2025-08-26|2025-11-04|Enhancing Kinematics Understanding through a Video Game Based on Real-Time Motion Graphs|Mateo Dutra|[2508.19119v3](http://arxiv.org/pdf/2508.19119v3)|
+|2025-01-28|2025-11-04|When alcoved polytopes add|Nick Early|[2501.17249v2](http://arxiv.org/pdf/2501.17249v2)|
+|2025-10-30|2025-11-04|An introduction to Markovian open quantum systems|Shovan Dutta|[2510.26530v2](http://arxiv.org/pdf/2510.26530v2)|
+
+### Diffusion
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-11-04|2025-11-04|Measuring AI Diffusion: A Population-Normalized Metric for Tracking Global AI Usage|Amit Misra|[2511.02781v1](http://arxiv.org/pdf/2511.02781v1)|
+|2025-11-04|2025-11-04|AI Diffusion in Low Resource Language Countries|Amit Misra|[2511.02752v1](http://arxiv.org/pdf/2511.02752v1)|
+|2025-11-04|2025-11-04|TAUE: Training-free Noise Transplant and Cultivation Diffusion Model|Daichi Nagai|[2511.02580v1](http://arxiv.org/pdf/2511.02580v1)|
+
+### Quantitative Finance
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-11-04|2025-11-04|The ORCA Benchmark: Evaluating Real-World Calculation Accuracy in Large Language Models|Claudia Herambourg|[2511.02589v1](http://arxiv.org/pdf/2511.02589v1)|
 ## Update on 2025-11-03
 
 ### Physics
