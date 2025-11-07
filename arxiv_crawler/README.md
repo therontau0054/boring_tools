@@ -231,6 +231,30 @@ TODO:
 
 
 
+
+## Update on 2025-11-07
+
+### Physics
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-11-06|2025-11-06|X-Diffusion: Training Diffusion Policies on Cross-Embodiment Human Demonstrations|Maximus A. Pace|[2511.04671v1](http://arxiv.org/pdf/2511.04671v1)|
+|2025-11-06|2025-11-06|Real-to-Sim Robot Policy Evaluation with Gaussian Splatting Simulation of Soft-Body Interactions|Kaifeng Zhang|[2511.04665v1](http://arxiv.org/pdf/2511.04665v1)|
+|2025-11-06|2025-11-06|Nowcast3D: Reliable precipitation nowcasting via gray-box learning|Huaguan Chen|[2511.04659v1](http://arxiv.org/pdf/2511.04659v1)|
+|2025-11-06|2025-11-06|Automated Discovery of Non-local Photonic Gates|Sören Arlt|[2511.04648v1](http://arxiv.org/pdf/2511.04648v1)|
+|2025-11-06|2025-11-06|The phase-field model of fracture incorporating Mohr-Coulomb, Mogi-Coulomb, and Hoek-Brown strength surfaces|S Chockalingam|[2511.04627v1](http://arxiv.org/pdf/2511.04627v1)|
+|2025-06-21|2025-11-06|Implications of recent $\left(g-2\right)_μ$ measurements for MeV-GeV dark sector searches|Aleksandr Pustyntsev|[2506.17750v2](http://arxiv.org/pdf/2506.17750v2)|
+|2025-11-06|2025-11-06|Effective matter sectors from modified entropies|Ankit Anand|[2511.04613v1](http://arxiv.org/pdf/2511.04613v1)|
+|2025-11-06|2025-11-06|Qubit Mapping and Routing tailored to Advanced Quantum ISAs: Not as Costly as You Think|Zhaohui Yang|[2511.04608v1](http://arxiv.org/pdf/2511.04608v1)|
+|2025-11-06|2025-11-06|Controlling Hong-Ou-Mandel antibunching via parity governed spectral shaping of biphoton states|Mikhail Guselnikov|[2511.04604v1](http://arxiv.org/pdf/2511.04604v1)|
+|2025-11-06|2025-11-06|Cosmogenic Neutron Production in Water at SNO+|SNO+ Collaboration|[2511.04600v1](http://arxiv.org/pdf/2511.04600v1)|
+
+### Diffusion
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-11-06|2025-11-06|Optimal Inference Schedules for Masked Diffusion Models|Sitan Chen|[2511.04647v1](http://arxiv.org/pdf/2511.04647v1)|
+|2025-11-06|2025-11-06|Efficient probabilistic surrogate modeling techniques for partially-observed large-scale dynamical systems|Hans Harder|[2511.04641v1](http://arxiv.org/pdf/2511.04641v1)|
+|2025-11-06|2025-11-06|Unified Generative Latent Representation for Functional Brain Graphs|Subati Abulikemu|[2511.04539v1](http://arxiv.org/pdf/2511.04539v1)|
+|2024-10-03|2025-11-06|Diffusion & Adversarial Schrödinger Bridges via Iterative Proportional Markovian Fitting|Sergei Kholkin|[2410.02601v4](http://arxiv.org/pdf/2410.02601v4)|
 ## Update on 2025-11-05
 
 ### Physics
