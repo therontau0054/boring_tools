@@ -1,0 +1,126 @@
+{
+    "Physics": [
+        {
+            "title": "Robot Learning from a Physical World Model",
+            "authors": "Jiageng Mao, Sicheng He, Hao-Ning Wu, Yang You, Shuyang Sun, Zhicheng Wang, Yanan Bao, Huizhong Chen, Leonidas Guibas, Vitor Guizilini, Howard Zhou, Yue Wang",
+            "summary": "We introduce PhysWorld, a framework that enables robot learning from video\ngeneration through physical world modeling. Recent video generation models can\nsynthesize photorealistic visual demonstrations from language commands and\nimages, offering a powerful yet underexplored source of training signals for\nrobotics. However, directly retargeting pixel motions from generated videos to\nrobots neglects physics, often resulting in inaccurate manipulations. PhysWorld\naddresses this limitation by coupling video generation with physical world\nreconstruction. Given a single image and a task command, our method generates\ntask-conditioned videos and reconstructs the underlying physical world from the\nvideos, and the generated video motions are grounded into physically accurate\nactions through object-centric residual reinforcement learning with the\nphysical world model. This synergy transforms implicit visual guidance into\nphysically executable robotic trajectories, eliminating the need for real robot\ndata collection and enabling zero-shot generalizable robotic manipulation.\nExperiments on diverse real-world tasks demonstrate that PhysWorld\nsubstantially improves manipulation accuracy compared to previous approaches.\nVisit \\href{https://pointscoder.github.io/PhysWorld_Web/}{the project webpage}\nfor details.",
+            "pdf_url": "http://arxiv.org/pdf/2511.07416v1",
+            "published": "2025-11-10 18:59:07+00:00",
+            "updated": "2025-11-10 18:59:07+00:00"
+        },
+        {
+            "title": "Higher Spins, Holography and Exotic Matter",
+            "authors": "Carlo Iazeolla, Per Sundell",
+            "summary": "We review a new perspective on higher-spin holography, whereby Vasiliev's 4D\nhigher-spin gravity emerges together with a 3D counterpart, consisting of\ncoloured conformal matter fields coupled to topological conformal higher-spin\nand colour gauge fields, as two distinct reductions, characterised by dual\nstructure groups, of a common parent model. The latter is given by a\nnon-commutative AKSZ sigma model consisting on-shell of a flat superconnection\nvalued in a fractional-spin extension of Fradkin-Vasiliev's higher-spin\nalgebra. In particular, we highlight an intermediate 4D reduction, referred to\nfractional-spin gravity, consisting of exotic matter, in the form of coloured\nsingletons, coupled to higher-spin and colour gauge fields.",
+            "pdf_url": "http://arxiv.org/pdf/2511.07408v1",
+            "published": "2025-11-10 18:56:39+00:00",
+            "updated": "2025-11-10 18:56:39+00:00"
+        },
+        {
+            "title": "The ideal limit of rhombohedral graphene: Interaction-induced layer-skyrmion lattices and their collective excitations",
+            "authors": "Tixuan Tan, Patrick J. Ledwith, Trithep Devakul",
+            "summary": "We introduce an ideal limit of rhombohedral graphene multilayers. In this\nlimit, we show analytically how short-range repulsion stabilizes a\nlayer-pseudospin skyrmion lattice, which generates an effective magnetic field\nand gives rise to a Chern band. This establishes the real-space origin of\ninteraction-driven topology in moir\\'e rhombohedral graphene. The resulting\ninteraction-induced skyrmion lattice is physically analogous to magnetic\nskyrmion crystals and hosts a hierarchy of collective excitations naturally\ndescribed within the framework of skyrmion-lattice dynamics.",
+            "pdf_url": "http://arxiv.org/pdf/2511.07402v1",
+            "published": "2025-11-10 18:52:45+00:00",
+            "updated": "2025-11-10 18:52:45+00:00"
+        },
+        {
+            "title": "Lagrangian neural ODEs: Measuring the existence of a Lagrangian with Helmholtz metrics",
+            "authors": "Luca Wolf, Tobias Buck, Bjoern Malte Schaefer",
+            "summary": "Neural ODEs are a widely used, powerful machine learning technique in\nparticular for physics. However, not every solution is physical in that it is\nan Euler-Lagrange equation. We present Helmholtz metrics to quantify this\nresemblance for a given ODE and demonstrate their capabilities on several\nfundamental systems with noise. We combine them with a second order neural ODE\nto form a Lagrangian neural ODE, which allows to learn Euler-Lagrange equations\nin a direct fashion and with zero additional inference cost. We demonstrate\nthat, using only positional data, they can distinguish Lagrangian and\nnon-Lagrangian systems and improve the neural ODE solutions.",
+            "pdf_url": "http://arxiv.org/pdf/2510.06367v2",
+            "published": "2025-10-07 18:29:03+00:00",
+            "updated": "2025-11-10 18:25:10+00:00"
+        },
+        {
+            "title": "Machine-Learning Accelerated Calculations of Reduced Density Matrices",
+            "authors": "Awwab A. Azam, Lexu Zhao, Jiabin Yu",
+            "summary": "$n$-particle reduced density matrices ($n$-RDMs) play a central role in\nunderstanding correlated phases of matter. Yet the calculation of $n$-RDMs is\noften computationally inefficient for strongly-correlated states, particularly\nwhen the system sizes are large. In this work, we propose to use neural network\n(NN) architectures to accelerate the calculation of, and even predict, the\n$n$-RDMs for large-size systems. The underlying intuition is that $n$-RDMs are\noften smooth functions over the Brillouin zone (BZ) (certainly true for gapped\nstates) and are thus interpolable, allowing NNs trained on small-size $n$-RDMs\nto predict large-size ones. Building on this intuition, we devise two NNs: (i)\na self-attention NN that maps random RDMs to physical ones, and (ii) a\nSinusoidal Representation Network (SIREN) that directly maps momentum-space\ncoordinates to RDM values. We test the NNs in three 2D models: the pair-pair\ncorrelation functions of the Richardson model of superconductivity, the\ntranslationally-invariant 1-RDM in a four-band model with short-range\nrepulsion, and the translation-breaking 1-RDM in the half-filled Hubbard model.\nWe find that a SIREN trained on a $6\\times 6$ momentum mesh can predict the\n$18\\times 18$ pair-pair correlation function with a relative accuracy of\n$0.839$. The NNs trained on $6\\times 6 \\sim 8\\times 8$ meshes can provide\nhigh-quality initial guesses for $50\\times 50$ translation-invariant\nHartree-Fock (HF) and $30\\times 30$ fully translation-breaking-allowed HF,\nreducing the number of iterations required for convergence by up to $91.63\\%$\nand $92.78\\%$, respectively, compared to random initializations. Our results\nillustrate the potential of using NN-based methods for interpolable $n$-RDMs,\nwhich might open a new avenue for future research on strongly correlated\nphases.",
+            "pdf_url": "http://arxiv.org/pdf/2511.07367v1",
+            "published": "2025-11-10 18:23:34+00:00",
+            "updated": "2025-11-10 18:23:34+00:00"
+        },
+        {
+            "title": "Some of the many uses of scalar fields: kinks, lumps, and geometric constraints",
+            "authors": "D. Bazeia, R. Menezes",
+            "summary": "This perspective deals with real scalar fields in two-dimensional spacetime.\nWe focus on models described by one and two real scalar fields, paying closer\nattention to kinks and lumps, which are localized structures of current\ninterest in high energy physics and in other areas of nonlinear science. We\nbriefly review some of the main results presented in the literature and then\nfocus on some new issues concerning the compact and long-range behavior of\nsolutions and the presence of geometric constraints, suggesting how they can be\nused in applications in other areas of nonlinear science.",
+            "pdf_url": "http://arxiv.org/pdf/2511.07360v1",
+            "published": "2025-11-10 18:13:18+00:00",
+            "updated": "2025-11-10 18:13:18+00:00"
+        },
+        {
+            "title": "The algebraic structure of the gradient expansion in linearised classical hydrodynamics",
+            "authors": "Sa\u0161o Grozdanov, Mile Vrbica",
+            "summary": "In this work, we systematically treat the ambiguities that generically arise\nin the gradient expansion of any hydrodynamic theory. While these ambiguities\ndo not affect the physical content of the equations, they induce two types of\ntransformations in the space of transport coefficients. The first type is known\nas the 'frame' transformations, and amounts to field redefinitions. The second\ntype, which we introduce and formalise here, we term the 'on-shell'\ntransformations. This identifies equivalence classes of hydrodynamic theories\nthat provide an equally valid low-energy description of the underlying\nmicroscopic theory. We show that in any (classical) theory of hydrodynamics (at\narbitrary order in derivatives), the action of such transformations on the\ndispersion relations and two-point correlation functions is universal. We\nexplicitly construct invariants which can then be matched to a microscopic\ntheory. Among them are, expectedly, the low-momentum expansions of the\nhydrodynamic modes. The (unphysical) gapped modes can, however, be added or\nremoved at will. Finally, we show that such transformations assign a nilpotent\nLie group to every hydrodynamic theory, and discuss the related algebraic\nproperties underlying classical hydrodynamics.",
+            "pdf_url": "http://arxiv.org/pdf/2511.07357v1",
+            "published": "2025-11-10 18:10:35+00:00",
+            "updated": "2025-11-10 18:10:35+00:00"
+        },
+        {
+            "title": "Sensitivity Analysis for Climate Science with Generative Flow Models",
+            "authors": "Alex Dobra, Jakiw Pidstrigach, Tim Reichelt, Christian Schroeder de Witt, Philip Torr, Philip Stier",
+            "summary": "Sensitivity analysis is a cornerstone of climate science, essential for\nunderstanding phenomena ranging from storm intensity to long-term climate\nfeedbacks. However, computing these sensitivities using traditional physical\nmodels is often prohibitively expensive in terms of both computation and\ndevelopment time. While modern AI-based generative models are orders of\nmagnitude faster to evaluate, computing sensitivities with them remains a\nsignificant bottleneck. This work addresses this challenge by applying the\nadjoint state method for calculating gradients in generative flow models. We\napply this method to the cBottle generative model, trained on ERA5 and ICON\ndata, to perform sensitivity analysis of any atmospheric variable with respect\nto sea surface temperatures. We quantitatively validate the computed\nsensitivities against the model's own outputs. Our results provide initial\nevidence that this approach can produce reliable gradients, reducing the\ncomputational cost of sensitivity analysis from weeks on a supercomputer with a\nphysical model to hours on a GPU, thereby simplifying a critical workflow in\nclimate science. The code can be found at\nhttps://github.com/Kwartzl8/cbottle_adjoint_sensitivity.",
+            "pdf_url": "http://arxiv.org/pdf/2511.00663v2",
+            "published": "2025-11-01 18:57:01+00:00",
+            "updated": "2025-11-10 18:07:41+00:00"
+        },
+        {
+            "title": "Defect Fusion and Casimir Energy in Higher Dimensions",
+            "authors": "Oleksandr Diatlyk, Himanshu Khanchandani, Fedor K. Popov, Yifan Wang",
+            "summary": "We study the operator algebra of extended conformal defects in more than two\nspacetime dimensions. Such algebra structure encodes the combined effect of\nmultiple impurities on physical observables at long distances as well as the\ninteractions among the impurities. These features are formalized by a fusion\nproduct which we define for a pair of defects, after isolating divergences that\ncapture the effective potential between the defects, which generalizes the\nusual Casimir energy. We discuss general properties of the corresponding fusion\nalgebra and contrast with the more familiar cases that involve topological\ndefects. We also describe the relation to a different defect setup in the shape\nof a wedge. We provide explicit examples to illustrate these properties using\nline defects and interfaces in the Wilson-Fisher CFT and the\nGross-Neveu(-Yukawa) CFT and determine the defect fusion data thereof.",
+            "pdf_url": "http://arxiv.org/pdf/2404.05815v4",
+            "published": "2024-04-08 18:37:29+00:00",
+            "updated": "2025-11-10 18:05:36+00:00"
+        },
+        {
+            "title": "NOWS: Neural Operator Warm Starts for Accelerating Iterative Solvers",
+            "authors": "Mohammad Sadegh Eshaghi, Cosmin Anitescu, Navid Valizadeh, Yizheng Wang, Xiaoying Zhuang, Timon Rabczuk",
+            "summary": "Partial differential equations (PDEs) underpin quantitative descriptions\nacross the physical sciences and engineering, yet high-fidelity simulation\nremains a major computational bottleneck for many-query, real-time, and design\ntasks. Data-driven surrogates can be strikingly fast but are often unreliable\nwhen applied outside their training distribution. Here we introduce Neural\nOperator Warm Starts (NOWS), a hybrid strategy that harnesses learned solution\noperators to accelerate classical iterative solvers by producing high-quality\ninitial guesses for Krylov methods such as conjugate gradient and GMRES. NOWS\nleaves existing discretizations and solver infrastructures intact, integrating\nseamlessly with finite-difference, finite-element, isogeometric analysis,\nfinite volume method, etc. Across our benchmarks, the learned initialization\nconsistently reduces iteration counts and end-to-end runtime, resulting in a\nreduction of the computational time of up to 90 %, while preserving the\nstability and convergence guarantees of the underlying numerical algorithms. By\ncombining the rapid inference of neural operators with the rigor of traditional\nsolvers, NOWS provides a practical and trustworthy approach to accelerate\nhigh-fidelity PDE simulations.",
+            "pdf_url": "http://arxiv.org/pdf/2511.02481v3",
+            "published": "2025-11-04 11:12:27+00:00",
+            "updated": "2025-11-10 17:57:10+00:00"
+        }
+    ],
+    "Diffusion": [
+        {
+            "title": "StreamDiffusionV2: A Streaming System for Dynamic and Interactive Video Generation",
+            "authors": "Tianrui Feng, Zhi Li, Shuo Yang, Haocheng Xi, Muyang Li, Xiuyu Li, Lvmin Zhang, Keting Yang, Kelly Peng, Song Han, Maneesh Agrawala, Kurt Keutzer, Akio Kodaira, Chenfeng Xu",
+            "summary": "Generative models are reshaping the live-streaming industry by redefining how\ncontent is created, styled, and delivered. Previous image-based streaming\ndiffusion models have powered efficient and creative live streaming products\nbut have hit limits on temporal consistency due to the foundation of\nimage-based designs. Recent advances in video diffusion have markedly improved\ntemporal consistency and sampling efficiency for offline generation. However,\noffline generation systems primarily optimize throughput by batching large\nworkloads. In contrast, live online streaming operates under strict\nservice-level objectives (SLOs): time-to-first-frame must be minimal, and every\nframe must meet a per-frame deadline with low jitter. Besides, scalable\nmulti-GPU serving for real-time streams remains largely unresolved so far. To\naddress this, we present StreamDiffusionV2, a training-free pipeline for\ninteractive live streaming with video diffusion models. StreamDiffusionV2\nintegrates an SLO-aware batching scheduler and a block scheduler, together with\na sink-token--guided rolling KV cache, a motion-aware noise controller, and\nother system-level optimizations. Moreover, we introduce a scalable pipeline\norchestration that parallelizes the diffusion process across denoising steps\nand network layers, achieving near-linear FPS scaling without violating latency\nguarantees. The system scales seamlessly across heterogeneous GPU environments\nand supports flexible denoising steps (e.g., 1--4), enabling both\nultra-low-latency and higher-quality modes. Without TensorRT or quantization,\nStreamDiffusionV2 renders the first frame within 0.5s and attains 58.28 FPS\nwith a 14B-parameter model and 64.52 FPS with a 1.3B-parameter model on four\nH100 GPUs, making state-of-the-art generative live streaming practical and\naccessible--from individual creators to enterprise-scale platforms.",
+            "pdf_url": "http://arxiv.org/pdf/2511.07399v1",
+            "published": "2025-11-10 18:51:28+00:00",
+            "updated": "2025-11-10 18:51:28+00:00"
+        },
+        {
+            "title": "A Diffusion Model to Shrink Proteins While Maintaining Their Function",
+            "authors": "Ethan Baron, Alan N. Amin, Ruben Weitzman, Debora Marks, Andrew Gordon Wilson",
+            "summary": "Many proteins useful in modern medicine or bioengineering are challenging to\nmake in the lab, fuse with other proteins in cells, or deliver to tissues in\nthe body, because their sequences are too long. Shortening these sequences\ntypically involves costly, time-consuming experimental campaigns. Ideally, we\ncould instead use modern models of massive databases of sequences from nature\nto learn how to propose shrunken proteins that resemble sequences found in\nnature. Unfortunately, these models struggle to efficiently search the\ncombinatorial space of all deletions, and are not trained with inductive biases\nto learn how to delete. To address this gap, we propose SCISOR, a novel\ndiscrete diffusion model that deletes letters from sequences to generate\nprotein samples that resemble those found in nature. To do so, SCISOR trains a\nde-noiser to reverse a forward noising process that adds random insertions to\nnatural sequences. As a generative model, SCISOR fits evolutionary sequence\ndata competitively with previous large models. In evaluation, SCISOR achieves\nstate-of-the-art predictions of the functional effects of deletions on\nProteinGym. Finally, we use the SCISOR de-noiser to shrink long protein\nsequences, and show that its suggested deletions result in significantly more\nrealistic proteins and more often preserve functional motifs than previous\nmodels of evolutionary sequences.",
+            "pdf_url": "http://arxiv.org/pdf/2511.07390v1",
+            "published": "2025-11-10 18:46:24+00:00",
+            "updated": "2025-11-10 18:46:24+00:00"
+        },
+        {
+            "title": "Inference-Time Scaling of Diffusion Models for Infrared Data Generation",
+            "authors": "Kai A. Horstmann, Maxim Clouser, Kia Khezeli",
+            "summary": "Infrared imagery enables temperature-based scene understanding using passive\nsensors, particularly under conditions of low visibility where traditional RGB\nimaging fails. Yet, developing downstream vision models for infrared\napplications is hindered by the scarcity of high-quality annotated data, due to\nthe specialized expertise required for infrared annotation. While synthetic\ninfrared image generation has the potential to accelerate model development by\nproviding large-scale, diverse training data, training foundation-level\ngenerative diffusion models in the infrared domain has remained elusive due to\nlimited datasets. In light of such data constraints, we explore an\ninference-time scaling approach using a domain-adapted CLIP-based verifier for\nenhanced infrared image generation quality. We adapt FLUX.1-dev, a\nstate-of-the-art text-to-image diffusion model, to the infrared domain by\nfinetuning it on a small sample of infrared images using parameter-efficient\ntechniques. The trained verifier is then employed during inference to guide the\ndiffusion sampling process toward higher quality infrared generations that\nbetter align with input text prompts. Empirically, we find that our approach\nleads to consistent improvements in generation quality, reducing FID scores on\nthe KAIST Multispectral Pedestrian Detection Benchmark dataset by 10% compared\nto unguided baseline samples. Our results suggest that inference-time guidance\noffers a promising direction for bridging the domain gap in low-data infrared\nsettings.",
+            "pdf_url": "http://arxiv.org/pdf/2511.07362v1",
+            "published": "2025-11-10 18:18:38+00:00",
+            "updated": "2025-11-10 18:18:38+00:00"
+        },
+        {
+            "title": "PADiff: Predictive and Adaptive Diffusion Policies for Ad Hoc Teamwork",
+            "authors": "Hohei Chan, Xinzhi Zhang, Antao Xiang, Weinan Zhang, Mengchen Zhao",
+            "summary": "Ad hoc teamwork (AHT) requires agents to collaborate with previously unseen\nteammates, which is crucial for many real-world applications. The core\nchallenge of AHT is to develop an ego agent that can predict and adapt to\nunknown teammates on the fly. Conventional RL-based approaches optimize a\nsingle expected return, which often causes policies to collapse into a single\ndominant behavior, thus failing to capture the multimodal cooperation patterns\ninherent in AHT. In this work, we introduce PADiff, a diffusion-based approach\nthat captures agent's multimodal behaviors, unlocking its diverse cooperation\nmodes with teammates. However, standard diffusion models lack the ability to\npredict and adapt in highly non-stationary AHT scenarios. To address this\nlimitation, we propose a novel diffusion-based policy that integrates critical\npredictive information about teammates into the denoising process. Extensive\nexperiments across three cooperation environments demonstrate that PADiff\noutperforms existing AHT methods significantly.",
+            "pdf_url": "http://arxiv.org/pdf/2511.07260v1",
+            "published": "2025-11-10 16:05:40+00:00",
+            "updated": "2025-11-10 16:05:40+00:00"
+        },
+        {
+            "title": "Mitigating Sexual Content Generation via Embedding Distortion in Text-conditioned Diffusion Models",
+            "authors": "Jaesin Ahn, Heechul Jung",
+            "summary": "Diffusion models show remarkable image generation performance following text\nprompts, but risk generating sexual contents. Existing approaches, such as\nprompt filtering, concept removal, and even sexual contents mitigation methods,\nstruggle to defend against adversarial attacks while maintaining benign image\nquality. In this paper, we propose a novel approach called Distorting Embedding\nSpace (DES), a text encoder-based defense mechanism that effectively tackles\nthese issues through innovative embedding space control. DES transforms unsafe\nembeddings, extracted from a text encoder using unsafe prompts, toward\ncarefully calculated safe embedding regions to prevent unsafe contents\ngeneration, while reproducing the original safe embeddings. DES also\nneutralizes the ``nudity'' embedding, by aligning it with neutral embedding to\nenhance robustness against adversarial attacks. As a result, extensive\nexperiments on explicit content mitigation and adaptive attack defense show\nthat DES achieves state-of-the-art (SOTA) defense, with attack success rate\n(ASR) of 9.47% on FLUX.1, a recent popular model, and 0.52% on the widely\nadopted Stable Diffusion v1.5. These correspond to ASR reductions of 76.5% and\n63.9% compared to previous SOTA methods, EraseAnything and AdvUnlearn,\nrespectively. Furthermore, DES maintains benign image quality, achieving\nFrechet Inception Distance and CLIP score comparable to those of the original\nFLUX.1 and Stable Diffusion v1.5.",
+            "pdf_url": "http://arxiv.org/pdf/2501.18877v2",
+            "published": "2025-01-31 04:14:05+00:00",
+            "updated": "2025-11-10 15:18:58+00:00"
+        }
+    ]
+}

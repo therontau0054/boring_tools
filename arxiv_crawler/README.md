@@ -232,6 +232,31 @@ TODO:
 
 
 
+
+## Update on 2025-11-11
+
+### Physics
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-11-10|2025-11-10|Robot Learning from a Physical World Model|Jiageng Mao|[2511.07416v1](http://arxiv.org/pdf/2511.07416v1)|
+|2025-11-10|2025-11-10|Higher Spins, Holography and Exotic Matter|Carlo Iazeolla|[2511.07408v1](http://arxiv.org/pdf/2511.07408v1)|
+|2025-11-10|2025-11-10|The ideal limit of rhombohedral graphene: Interaction-induced layer-skyrmion lattices and their collective excitations|Tixuan Tan|[2511.07402v1](http://arxiv.org/pdf/2511.07402v1)|
+|2025-10-07|2025-11-10|Lagrangian neural ODEs: Measuring the existence of a Lagrangian with Helmholtz metrics|Luca Wolf|[2510.06367v2](http://arxiv.org/pdf/2510.06367v2)|
+|2025-11-10|2025-11-10|Machine-Learning Accelerated Calculations of Reduced Density Matrices|Awwab A. Azam|[2511.07367v1](http://arxiv.org/pdf/2511.07367v1)|
+|2025-11-10|2025-11-10|Some of the many uses of scalar fields: kinks, lumps, and geometric constraints|D. Bazeia|[2511.07360v1](http://arxiv.org/pdf/2511.07360v1)|
+|2025-11-10|2025-11-10|The algebraic structure of the gradient expansion in linearised classical hydrodynamics|Sašo Grozdanov|[2511.07357v1](http://arxiv.org/pdf/2511.07357v1)|
+|2025-11-01|2025-11-10|Sensitivity Analysis for Climate Science with Generative Flow Models|Alex Dobra|[2511.00663v2](http://arxiv.org/pdf/2511.00663v2)|
+|2024-04-08|2025-11-10|Defect Fusion and Casimir Energy in Higher Dimensions|Oleksandr Diatlyk|[2404.05815v4](http://arxiv.org/pdf/2404.05815v4)|
+|2025-11-04|2025-11-10|NOWS: Neural Operator Warm Starts for Accelerating Iterative Solvers|Mohammad Sadegh Eshaghi|[2511.02481v3](http://arxiv.org/pdf/2511.02481v3)|
+
+### Diffusion
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-11-10|2025-11-10|StreamDiffusionV2: A Streaming System for Dynamic and Interactive Video Generation|Tianrui Feng|[2511.07399v1](http://arxiv.org/pdf/2511.07399v1)|
+|2025-11-10|2025-11-10|A Diffusion Model to Shrink Proteins While Maintaining Their Function|Ethan Baron|[2511.07390v1](http://arxiv.org/pdf/2511.07390v1)|
+|2025-11-10|2025-11-10|Inference-Time Scaling of Diffusion Models for Infrared Data Generation|Kai A. Horstmann|[2511.07362v1](http://arxiv.org/pdf/2511.07362v1)|
+|2025-11-10|2025-11-10|PADiff: Predictive and Adaptive Diffusion Policies for Ad Hoc Teamwork|Hohei Chan|[2511.07260v1](http://arxiv.org/pdf/2511.07260v1)|
+|2025-01-31|2025-11-10|Mitigating Sexual Content Generation via Embedding Distortion in Text-conditioned Diffusion Models|Jaesin Ahn|[2501.18877v2](http://arxiv.org/pdf/2501.18877v2)|
 ## Update on 2025-11-07
 
 ### Physics
