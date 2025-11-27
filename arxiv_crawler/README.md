@@ -233,6 +233,36 @@ TODO:
 
 
 
+
+## Update on 2025-11-27
+
+### Physics
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-11-26|2025-11-26|Mean-field Modelling of Moiré Materials: A User's Guide with Selected Applications to Twisted Bilayer Graphene|Yves H. Kwan|[2511.21683v1](https://arxiv.org/pdf/2511.21683v1)|
+|2025-11-26|2025-11-26|On Evolution-Based Models for Experimentation Under Interference|Sadegh Shirani|[2511.21675v1](https://arxiv.org/pdf/2511.21675v1)|
+|2025-11-20|2025-11-26|Worldline Localization|Changha Choi|[2511.16663v2](https://arxiv.org/pdf/2511.16663v2)|
+|2025-11-26|2025-11-26|Gauge theories from scattering amplitudes with minimal assumptions|Renato M. Fonseca|[2511.21664v1](https://arxiv.org/pdf/2511.21664v1)|
+|2025-11-26|2025-11-26|Rapid ground state energy estimation with a Sparse Pauli Dynamics-enabled Variational Double Bracket Flow|Chinmay Shrikhande|[2511.21651v1](https://arxiv.org/pdf/2511.21651v1)|
+|2025-11-26|2025-11-26|Updated bounds on the (1,2) neutrino oscillation parameters after first JUNO results|Francesco Capozzi|[2511.21650v1](https://arxiv.org/pdf/2511.21650v1)|
+|2025-11-26|2025-11-26|Factorisation conditions and causality for local measurements in QFT|Robin Simmons|[2511.21644v1](https://arxiv.org/pdf/2511.21644v1)|
+|2025-11-26|2025-11-26|Dynamics of generalized abcd Boussinesq solitary waves under a slowly variable bottom|André de Laire|[2511.21632v1](https://arxiv.org/pdf/2511.21632v1)|
+|2025-11-26|2025-11-26|The derivation of the Liouville equation from the Schrodinger equation and its implications|A. P. Meilakhs|[2511.21601v1](https://arxiv.org/pdf/2511.21601v1)|
+|2025-11-26|2025-11-26|Dichroism from Thermoelectric Chiral Drives: Generalized Sum Rules for Orbital and Heat Magnetizations|Baptiste Bermond|[2511.21599v1](https://arxiv.org/pdf/2511.21599v1)|
+
+### Diffusion
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-11-26|2025-11-26|Mechanisms of Non-Monotonic Scaling in Vision Transformers|Anantha Padmanaban Krishna Kumar|[2511.21635v1](https://arxiv.org/pdf/2511.21635v1)|
+|2025-10-31|2025-11-26|Diffusion Models at the Drug Discovery Frontier: A Review on Generating Small Molecules versus Therapeutic Peptides|Yiquan Wang|[2511.00209v2](https://arxiv.org/pdf/2511.00209v2)|
+|2025-11-26|2025-11-26|TAB-DRW: A DFT-based Robust Watermark for Generative Tabular Data|Yizhou Zhao|[2511.21600v1](https://arxiv.org/pdf/2511.21600v1)|
+|2025-11-26|2025-11-26|Model-Based Policy Adaptation for Closed-Loop End-to-End Autonomous Driving|Haohong Lin|[2511.21584v1](https://arxiv.org/pdf/2511.21584v1)|
+|2025-06-10|2025-11-26|Flow Matching Meets PDEs: A Unified Framework for Physics-Constrained Generation|Giacomo Baldan|[2506.08604v2](https://arxiv.org/pdf/2506.08604v2)|
+
+### Quantitative Finance
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-11-25|2025-11-25|Constrained deep learning for pricing and hedging european options in incomplete markets|Nicolas Baradel|[2511.20837v1](https://arxiv.org/pdf/2511.20837v1)|
 ## Update on 2025-11-11
 
 ### Physics
