@@ -234,6 +234,35 @@ TODO:
 
 
 
+
+## Update on 2025-12-03
+
+### Physics
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-12-02|2025-12-02|Learning Physically Consistent Lagrangian Control Models Without Acceleration Measurements|Ibrahim Laiche|[2512.03035v1](https://arxiv.org/pdf/2512.03035v1)|
+|2025-12-02|2025-12-02|The Gamma-disordered Aztec diamond|Maurice Duits|[2512.03033v1](https://arxiv.org/pdf/2512.03033v1)|
+|2025-12-02|2025-12-02|The Hilbert space of gauge theories: group averaging and the quantization of Jackiw-Teitelboim gravity|Elba Alonso-Monsalve|[2512.03030v1](https://arxiv.org/pdf/2512.03030v1)|
+|2025-12-02|2025-12-02|Combinatorial foundations for solvable chaotic local Euclidean quantum circuits in two dimensions|Fredy Yip|[2512.03029v1](https://arxiv.org/pdf/2512.03029v1)|
+|2025-12-02|2025-12-02|SMP: Reusable Score-Matching Motion Priors for Physics-Based Character Control|Yuxuan Mu|[2512.03028v1](https://arxiv.org/pdf/2512.03028v1)|
+|2023-07-11|2025-12-02|Theory of coherent interaction-free detection of pulses|John J. McCord|[2307.05214v2](https://arxiv.org/pdf/2307.05214v2)|
+|2025-11-07|2025-12-02|Trade-off between complexity and energy in quantum phase estimation|Yukuan Tao|[2511.05458v2](https://arxiv.org/pdf/2511.05458v2)|
+|2025-12-02|2025-12-02|IOTA Experiment for Proton Pulse Compression at Extreme Space-Charge|Benjamin Simons|[2512.03002v1](https://arxiv.org/pdf/2512.03002v1)|
+|2025-12-02|2025-12-02|Characterisation of the LAPPD, a large area microchannel-plate PMT|S. Korpar|[2512.02990v1](https://arxiv.org/pdf/2512.02990v1)|
+|2025-12-02|2025-12-02|Flexible Gravitational-Wave Parameter Estimation with Transformers|Annalena Kofler|[2512.02968v1](https://arxiv.org/pdf/2512.02968v1)|
+
+### Diffusion
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-12-02|2025-12-02|Video4Spatial: Towards Visuospatial Intelligence with Context-Guided Video Generation|Zeqi Xiao|[2512.03040v1](https://arxiv.org/pdf/2512.03040v1)|
+|2025-12-02|2025-12-02|In-Context Sync-LoRA for Portrait Video Editing|Sagi Polaczek|[2512.03013v1](https://arxiv.org/pdf/2512.03013v1)|
+|2025-08-02|2025-12-02|Instruction-based Time Series Editing|Jiaxing Qiu|[2508.01504v2](https://arxiv.org/pdf/2508.01504v2)|
+|2025-12-01|2025-12-02|Forecasting in Offline Reinforcement Learning for Non-stationary Environments|Suzan Ece Ada|[2512.01987v2](https://arxiv.org/pdf/2512.01987v2)|
+
+### Quantitative Finance
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-12-02|2025-12-02|Leveraging Large Language Models to Bridge On-chain and Off-chain Transparency in Stablecoins|Yuexin Xiang|[2512.02418v1](https://arxiv.org/pdf/2512.02418v1)|
 ## Update on 2025-11-27
 
 ### Physics
