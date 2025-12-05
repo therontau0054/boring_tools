@@ -235,6 +235,37 @@ TODO:
 
 
 
+
+## Update on 2025-12-05
+
+### Physics
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-12-04|2025-12-04|ShadowDraw: From Any Object to Shadow-Drawing Compositional Art|Rundong Luo|[2512.05110v1](https://arxiv.org/pdf/2512.05110v1)|
+|2025-12-04|2025-12-04|The Geometry of Intelligence: Deterministic Functional Topology as a Foundation for Real-World Perception|Eduardo Di Santi|[2512.05089v1](https://arxiv.org/pdf/2512.05089v1)|
+|2025-09-25|2025-12-04|MORPH: PDE Foundation Models with Arbitrary Data Modality|Mahindra Singh Rautela|[2509.21670v3](https://arxiv.org/pdf/2509.21670v3)|
+|2025-12-04|2025-12-04|Axionic tunneling from a topological Kondo insulator|Saikat Banerjee|[2512.05057v1](https://arxiv.org/pdf/2512.05057v1)|
+|2025-12-04|2025-12-04|A Theory of Backgrounds and Background Independence|Marc Klinger|[2512.05043v1](https://arxiv.org/pdf/2512.05043v1)|
+|2025-12-04|2025-12-04|Structured Light at the Extreme: Harnessing Spatiotemporal Control for High-Field Laser-Matter Interactions|Sergio Carbajo|[2512.05042v1](https://arxiv.org/pdf/2512.05042v1)|
+|2025-12-04|2025-12-04|Isolating chirality-breaking SMEFT operators with Drell-Yan angular analysis|Samuele Grossi|[2512.05018v1](https://arxiv.org/pdf/2512.05018v1)|
+|2025-12-04|2025-12-04|Reflection Removal through Efficient Adaptation of Diffusion Transformers|Daniyar Zakarin|[2512.05000v1](https://arxiv.org/pdf/2512.05000v1)|
+|2025-12-04|2025-12-04|LEDDS: Portable LBM-DEM simulations on GPUs|Raphael Maggio-Aprile|[2512.04997v1](https://arxiv.org/pdf/2512.04997v1)|
+|2025-12-04|2025-12-04|Introduction to quantum control: From basic concepts to applications in quantum technologies|Christiane P. Koch|[2512.04990v1](https://arxiv.org/pdf/2512.04990v1)|
+
+### Diffusion
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-12-04|2025-12-04|Value Gradient Guidance for Flow Matching Alignment|Zhen Liu|[2512.05116v1](https://arxiv.org/pdf/2512.05116v1)|
+|2025-12-04|2025-12-04|NeuralRemaster: Phase-Preserving Diffusion for Structure-Aligned Generation|Yu Zeng|[2512.05106v1](https://arxiv.org/pdf/2512.05106v1)|
+|2025-12-04|2025-12-04|Foundations of Diffusion Models in General State Spaces: A Self-Contained Introduction|Vincent Pauline|[2512.05092v1](https://arxiv.org/pdf/2512.05092v1)|
+|2025-12-04|2025-12-04|Control Consistency Losses for Diffusion Bridges|Samuel Howard|[2512.05070v1](https://arxiv.org/pdf/2512.05070v1)|
+|2025-12-04|2025-12-04|Towards a unified framework for guided diffusion models|Yuchen Jiao|[2512.04985v1](https://arxiv.org/pdf/2512.04985v1)|
+
+### Quantitative Finance
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-12-03|2025-12-03|Idea-Gated Transformers: Enforcing Semantic Coherence via Differentiable Vocabulary Pruning|Darshan Fofadiya|[2512.03343v1](https://arxiv.org/pdf/2512.03343v1)|
+|2025-12-02|2025-12-02|The First Crypto President: Presidential Power and Cryptocurrency Markets During Trump's Second Term (2025-2029)|Habib Badawi|[2512.03189v1](https://arxiv.org/pdf/2512.03189v1)|
 ## Update on 2025-12-03
 
 ### Physics
