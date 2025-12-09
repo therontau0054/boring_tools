@@ -236,6 +236,36 @@ TODO:
 
 
 
+
+## Update on 2025-12-09
+
+### Physics
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-12-08|2025-12-08|Comparing quantum channels using Hermitian-preserving trace-preserving linear maps: A physically meaningful approach|Arindam Mitra|[2512.07822v1](https://arxiv.org/pdf/2512.07822v1)|
+|2025-12-08|2025-12-08|Nonlinear Quantum Mechanics and Artificial Intelligence|Jonathan Oppenheim|[2512.07809v1](https://arxiv.org/pdf/2512.07809v1)|
+|2025-12-03|2025-12-08|Polylogarithmic-Depth Quantum Algorithm for Simulating the Extended Hubbard Model on a Two-Dimensional Lattice Using the Fast Multipole Method|Yu Wang|[2512.03898v3](https://arxiv.org/pdf/2512.03898v3)|
+|2025-12-08|2025-12-08|Strongly driven cavity quantum electrodynamical-optomechanical hybrid system|Xuxin Wang|[2512.07788v1](https://arxiv.org/pdf/2512.07788v1)|
+|2025-12-08|2025-12-08|Automating High Energy Physics Data Analysis with LLM-Powered Agents|Eli Gendreau-Distler|[2512.07785v1](https://arxiv.org/pdf/2512.07785v1)|
+|2025-04-29|2025-12-08|Spacetime boundaries do not break diffeomorphism and gauge symmetries|J. François|[2504.20945v2](https://arxiv.org/pdf/2504.20945v2)|
+|2025-12-08|2025-12-08|Physics-Informed Neural Networks for Source Inversion and Parameters Estimation in Atmospheric Dispersion|Brenda Anague|[2512.07755v1](https://arxiv.org/pdf/2512.07755v1)|
+|2025-12-08|2025-12-08|The Ginsparg-Wilson relation and overlap fermions|Thomas DeGrand|[2512.07743v1](https://arxiv.org/pdf/2512.07743v1)|
+|2025-12-08|2025-12-08|A scalable and real-time neural decoder for topological quantum codes|Andrew W. Senior|[2512.07737v1](https://arxiv.org/pdf/2512.07737v1)|
+|2025-12-08|2025-12-08|The Native Spiking Microarchitecture: From Iontronic Primitives to Bit-Exact FP8 Arithmetic|Zhengzheng Tang|[2512.07724v1](https://arxiv.org/pdf/2512.07724v1)|
+
+### Diffusion
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-12-08|2025-12-08|One Layer Is Enough: Adapting Pretrained Visual Encoders for Image Generation|Yuan Gao|[2512.07829v1](https://arxiv.org/pdf/2512.07829v1)|
+|2025-12-08|2025-12-08|The Adoption and Usage of AI Agents: Early Evidence from Perplexity|Jeremy Yang|[2512.07828v1](https://arxiv.org/pdf/2512.07828v1)|
+|2025-12-08|2025-12-08|Guiding What Not to Generate: Automated Negative Prompting for Text-Image Alignment|Sangha Park|[2512.07702v1](https://arxiv.org/pdf/2512.07702v1)|
+|2025-12-08|2025-12-08|Delay-Aware Diffusion Policy: Bridging the Observation-Execution Gap in Dynamic Tasks|Aileen Liao|[2512.07697v1](https://arxiv.org/pdf/2512.07697v1)|
+
+### Quantitative Finance
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-12-07|2025-12-07|Quantum Temporal Convolutional Neural Networks for Cross-Sectional Equity Return Prediction: A Comparative Benchmark Study|Chi-Sheng Chen|[2512.06630v1](https://arxiv.org/pdf/2512.06630v1)|
+|2025-12-07|2025-12-07|Unveiling Hedge Funds: Topic Modeling and Sentiment Correlation with Fund Performance|Chang Liu|[2512.06620v1](https://arxiv.org/pdf/2512.06620v1)|
 ## Update on 2025-12-05
 
 ### Physics
