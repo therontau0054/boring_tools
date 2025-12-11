@@ -237,6 +237,36 @@ TODO:
 
 
 
+
+## Update on 2025-12-11
+
+### Physics
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-12-10|2025-12-10|Connecting single-layer $t$-$J$ to Kondo lattice models: Exploration with cold atoms|Hannah Lange|[2512.09926v1](https://arxiv.org/pdf/2512.09926v1)|
+|2025-12-10|2025-12-10|Evaluating Function-as-a-Service (FaaS) frameworks for the Accelerator Control System|A. Jaikar|[2512.09917v1](https://arxiv.org/pdf/2512.09917v1)|
+|2025-12-10|2025-12-10|FALCON: Few-step Accurate Likelihoods for Continuous Flows|Danyal Rehman|[2512.09914v1](https://arxiv.org/pdf/2512.09914v1)|
+|2025-12-10|2025-12-10|Py-DiSMech: A Scalable and Efficient Framework for Discrete Differential Geometry-Based Modeling and Control of Soft Robots|Radha Lahoti|[2512.09911v1](https://arxiv.org/pdf/2512.09911v1)|
+|2025-12-10|2025-12-10|A Precise $α_s$ Determination from the R-improved QCD Static Energy|Jose M. Mena-Valle|[2512.09888v1](https://arxiv.org/pdf/2512.09888v1)|
+|2025-10-11|2025-12-10|ChemGen: Code Generation for Multispecies Chemically Reacting Flow Simulations|Ryan F. Johnson|[2510.10005v3](https://arxiv.org/pdf/2510.10005v3)|
+|2025-12-10|2025-12-10|Tomographic characterization of non-Hermitian Hamiltonians in reciprocal space|Francesco Di Colandrea|[2512.09870v1](https://arxiv.org/pdf/2512.09870v1)|
+|2025-12-10|2025-12-10|Effective Operators in the Theory of Composites: Hilbert Space Framework|Aaron Welters|[2512.09860v1](https://arxiv.org/pdf/2512.09860v1)|
+|2025-07-18|2025-12-10|Probing of EoS with clusters and hypernuclei|Yingjie Zhou|[2507.14255v2](https://arxiv.org/pdf/2507.14255v2)|
+|2025-12-10|2025-12-10|Noise dynamics in large mode volume Brillouin lasers|Andrew J. Shepherd|[2512.09855v1](https://arxiv.org/pdf/2512.09855v1)|
+
+### Diffusion
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-12-10|2025-12-10|Splatent: Splatting Diffusion Latents for Novel View Synthesis|Or Hirschorn|[2512.09923v1](https://arxiv.org/pdf/2512.09923v1)|
+|2025-03-12|2025-12-10|Constrained Discrete Diffusion|Michael Cardei|[2503.09790v3](https://arxiv.org/pdf/2503.09790v3)|
+|2025-12-10|2025-12-10|Composing Concepts from Images and Videos via Concept-prompt Binding|Xianghao Kong|[2512.09824v1](https://arxiv.org/pdf/2512.09824v1)|
+|2025-10-03|2025-12-10|OneFlow: Concurrent Mixed-Modal and Interleaved Generation with Edit Flows|John Nguyen|[2510.03506v3](https://arxiv.org/pdf/2510.03506v3)|
+|2025-10-07|2025-12-10|Learning What Matters: Steering Diffusion via Spectrally Anisotropic Forward Noise|Luca Scimeca|[2510.09660v4](https://arxiv.org/pdf/2510.09660v4)|
+
+### Quantitative Finance
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-12-09|2025-12-09|Towards a Science of Scaling Agent Systems|Yubin Kim|[2512.08296v1](https://arxiv.org/pdf/2512.08296v1)|
 ## Update on 2025-12-09
 
 ### Physics
