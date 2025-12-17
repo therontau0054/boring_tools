@@ -238,6 +238,37 @@ TODO:
 
 
 
+
+## Update on 2025-12-17
+
+### Physics
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-12-16|2025-12-16|Native and Compact Structured Latents for 3D Generation|Jianfeng Xiang|[2512.14692v1](https://arxiv.org/pdf/2512.14692v1)|
+|2025-12-16|2025-12-16|Drell-Yan at the Electron-Ion Collider|Henry T. Klest|[2512.14690v1](https://arxiv.org/pdf/2512.14690v1)|
+|2024-07-06|2025-12-16|A Physical Basis for Information|Wouter van der Wijngaart|[2407.09567v6](https://arxiv.org/pdf/2407.09567v6)|
+|2025-12-16|2025-12-16|WaveSim: A Wavelet-based Multi-scale Similarity Metric for Weather and Climate Fields|Gabriele Accarino|[2512.14656v1](https://arxiv.org/pdf/2512.14656v1)|
+|2025-12-09|2025-12-16|Axial Symmetric Navier Stokes Equations and the Beltrami /anti Beltrami spectrum in view of Physics Informed Neural Networks|Pietro Fré|[2512.08846v2](https://arxiv.org/pdf/2512.08846v2)|
+|2025-12-16|2025-12-16|Electrodrying in nanopores: from fundamentals to iontronic and memristive applications|Giovanni Di Muccio|[2512.14631v1](https://arxiv.org/pdf/2512.14631v1)|
+|2025-11-20|2025-12-16|Towards a worldsheet theory of entanglement entropy|Houwen Wu|[2511.16586v2](https://arxiv.org/pdf/2511.16586v2)|
+|2025-04-27|2025-12-16|Geometric calculations on probability manifolds from reciprocal relations in Master equations|Wuchen Li|[2504.19368v3](https://arxiv.org/pdf/2504.19368v3)|
+|2025-12-16|2025-12-16|Self-adaptive physics-informed neural network for forward and inverse problems in heterogeneous porous flow|Md. Abdul Aziz|[2512.14610v1](https://arxiv.org/pdf/2512.14610v1)|
+|2025-07-01|2025-12-16|Generalization performance of narrow one-hidden layer networks in the teacher-student setting|Jean Barbier|[2507.00629v3](https://arxiv.org/pdf/2507.00629v3)|
+
+### Diffusion
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-10-12|2025-12-16|Understanding Sampler Stochasticity in Training Diffusion Models for RLHF|Jiayuan Sheng|[2510.10767v2](https://arxiv.org/pdf/2510.10767v2)|
+|2025-12-16|2025-12-16|Dual Language Models: Balancing Training Efficiency and Overfitting Resilience|David Samuel|[2512.14549v1](https://arxiv.org/pdf/2512.14549v1)|
+|2025-12-16|2025-12-16|Massive Editing for Large Language Models Based on Dynamic Weight Generation|Wentao Wan|[2512.14395v1](https://arxiv.org/pdf/2512.14395v1)|
+|2025-05-28|2025-12-16|High Volume Rate 3D Ultrasound Reconstruction with Diffusion Models|Tristan S. W. Stevens|[2505.22090v2](https://arxiv.org/pdf/2505.22090v2)|
+|2025-12-16|2025-12-16|Towards Transferable Defense Against Malicious Image Edits|Jie Zhang|[2512.14341v1](https://arxiv.org/pdf/2512.14341v1)|
+
+### Quantitative Finance
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-04-04|2025-12-16|A stochastic volatility approximation for a tick-by-tick price model with mean-field interaction|Paolo Dai Pra|[2504.03445v2](https://arxiv.org/pdf/2504.03445v2)|
+|2025-12-15|2025-12-15|Interpretable Hypothesis-Driven Trading:A Rigorous Walk-Forward Validation Framework for Market Microstructure Signals|Gagan Deep|[2512.12924v1](https://arxiv.org/pdf/2512.12924v1)|
 ## Update on 2025-12-11
 
 ### Physics
