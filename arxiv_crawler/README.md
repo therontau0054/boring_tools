@@ -239,6 +239,35 @@ TODO:
 
 
 
+
+## Update on 2025-12-19
+
+### Physics
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-12-18|2025-12-18|Probing scalar and pseudoscalar new physics using rare kaon decays|G. D'Ambrosio|[2512.16903v1](https://arxiv.org/pdf/2512.16903v1)|
+|2025-12-18|2025-12-18|Machine learning assisted high throughput prediction of moiré materials|Daniel Kaplan|[2512.16892v1](https://arxiv.org/pdf/2512.16892v1)|
+|2025-12-18|2025-12-18|Anomalous Dimension of a General Effective Gauge Theory II: Fermionic Sector|Jason Aebischer|[2512.16890v1](https://arxiv.org/pdf/2512.16890v1)|
+|2025-12-18|2025-12-18|Many-body contextuality and self-testing quantum matter via nonlocal games|Oliver Hart|[2512.16886v1](https://arxiv.org/pdf/2512.16886v1)|
+|2025-12-18|2025-12-18|PolaRiS: Scalable Real-to-Sim Evaluations for Generalist Robot Policies|Arhan Jain|[2512.16881v1](https://arxiv.org/pdf/2512.16881v1)|
+|2025-12-18|2025-12-18|Advantage of Warm Starts for Electron-Phonon Systems on Quantum Computers|Arnab Adhikary|[2512.16879v1](https://arxiv.org/pdf/2512.16879v1)|
+|2025-12-11|2025-12-18|Structure of Chern-Simons Graviton Scattering Amplitudes from Topological Graviton Equivalence Theorem and Double Copy|Hong-Xu Liu|[2512.10870v2](https://arxiv.org/pdf/2512.10870v2)|
+|2025-12-09|2025-12-18|Developing Distance-Aware, and Evident Uncertainty Quantification in Dynamic Physics-Constrained Neural Networks for Robust Bearing Degradation Estimation|Waleed Razzaq|[2512.08499v2](https://arxiv.org/pdf/2512.08499v2)|
+|2025-11-28|2025-12-18|Extended regime of nematic order in an interacting monomer-dimer model of Heilmann and Lieb|Qidong He|[2511.23437v2](https://arxiv.org/pdf/2511.23437v2)|
+|2025-12-18|2025-12-18|Exploring nuclear modification using one-point energy correlator at the electron-ion collider|Yu Fu|[2512.16847v1](https://arxiv.org/pdf/2512.16847v1)|
+
+### Diffusion
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-12-15|2025-12-18|Diffusion-Based Restoration for Multi-Modal 3D Object Detection in Adverse Weather|Zhijian He|[2512.13107v2](https://arxiv.org/pdf/2512.13107v2)|
+|2025-12-18|2025-12-18|Yuan-TecSwin: A text conditioned Diffusion model with Swin-transformer blocks|Shaohua Wu|[2512.16586v1](https://arxiv.org/pdf/2512.16586v1)|
+|2025-12-16|2025-12-18|Cornserve: Efficiently Serving Any-to-Any Multimodal Models|Jeff J. Ma|[2512.14098v2](https://arxiv.org/pdf/2512.14098v2)|
+|2025-11-12|2025-12-18|Hierarchical Schedule Optimization for Fast and Robust Diffusion Model Sampling|Aihua Zhu|[2511.11688v2](https://arxiv.org/pdf/2511.11688v2)|
+
+### Quantitative Finance
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-12-17|2025-12-17|SigMA: Path Signatures and Multi-head Attention for Learning Parameters in fBm-driven SDEs|Xianglin Wu|[2512.15088v1](https://arxiv.org/pdf/2512.15088v1)|
 ## Update on 2025-12-17
 
 ### Physics
