@@ -240,6 +240,37 @@ TODO:
 
 
 
+
+## Update on 2025-12-25
+
+### Physics
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-12-24|2025-12-24|When Geometry Radiates Review: Gravitational Waves in Theory, Cosmology, and Observation|Azadeh Maleknejad|[2512.21328v1](https://arxiv.org/pdf/2512.21328v1)|
+|2025-12-24|2025-12-24|Variationally correct operator learning: Reduced basis neural operator with a posteriori error estimation|Yuan Qiu|[2512.21319v1](https://arxiv.org/pdf/2512.21319v1)|
+|2025-08-01|2025-12-24|On the interaction of dilatancy and friction in the behavior of fluid-saturated sheared granular materials: a coupled Computational Fluid Dynamics--Discrete Element Method study|Bimal Chhushyabaga|[2508.00786v2](https://arxiv.org/pdf/2508.00786v2)|
+|2025-12-24|2025-12-24|Transcriptome-Conditioned Personalized De Novo Drug Generation for AML Using Metaheuristic Assembly and Target-Driven Filtering|Abdullah G. Elafifi|[2512.21301v1](https://arxiv.org/pdf/2512.21301v1)|
+|2025-12-24|2025-12-24|T-Duality Effects in Electrodynamics: The (2+1)-dimensional Case|Patricio Gaete|[2512.21291v1](https://arxiv.org/pdf/2512.21291v1)|
+|2024-06-19|2025-12-24|Evidence of Coherent Elastic Neutrino-Nucleus Scattering with COHERENT's Germanium Array|S. Adamski|[2406.13806v2](https://arxiv.org/pdf/2406.13806v2)|
+|2025-12-24|2025-12-24|Impurity peaking of SPARC H-modes: a sensitivity study on physics and engineering assumptions|Marco Muraca|[2512.21286v1](https://arxiv.org/pdf/2512.21286v1)|
+|2025-06-29|2025-12-24|Fault-tolerant dynamically-decoupled hyper-Ramsey spectroscopy of ultra-narrow clock transitions|T. Zanon-Willette|[2506.23091v4](https://arxiv.org/pdf/2506.23091v4)|
+|2025-12-24|2025-12-24|Multivariate scaling of proton and ion energies, divergence, and charge states in Target Normal Sheath Acceleration|Vasiliki E. Alexopoulou|[2512.21279v1](https://arxiv.org/pdf/2512.21279v1)|
+|2024-10-15|2025-12-24|Agnostic Process Tomography|Chirag Wadhwa|[2410.11957v2](https://arxiv.org/pdf/2410.11957v2)|
+
+### Diffusion
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-12-24|2025-12-24|Optimizing Decoding Paths in Masked Diffusion Models by Quantifying Uncertainty|Ziyu Chen|[2512.21336v1](https://arxiv.org/pdf/2512.21336v1)|
+|2025-10-10|2025-12-24|DiTSinger: Scaling Singing Voice Synthesis with Diffusion Transformer and Implicit Alignment|Zongcai Du|[2510.09016v2](https://arxiv.org/pdf/2510.09016v2)|
+|2025-12-03|2025-12-24|Data-regularized Reinforcement Learning for Diffusion Models at Scale|Haotian Ye|[2512.04332v3](https://arxiv.org/pdf/2512.04332v3)|
+|2025-12-24|2025-12-24|STLDM: Spatio-Temporal Latent Diffusion Model for Precipitation Nowcasting|Shi Quan Foo|[2512.21118v1](https://arxiv.org/pdf/2512.21118v1)|
+|2025-12-03|2025-12-24|On the Design of One-step Diffusion via Shortcutting Flow Paths|Haitao Lin|[2512.11831v3](https://arxiv.org/pdf/2512.11831v3)|
+
+### Quantitative Finance
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-12-24|2025-12-24|When Experts Speak:Sequential LLM-Bayesian Learning for Startup Success Prediction|Yidong Chai|[2512.20900v1](https://arxiv.org/pdf/2512.20900v1)|
+|2025-12-23|2025-12-23|Quantitative Financial Modeling for Sri Lankan Markets: Approach Combining NLP, Clustering and Time-Series Forecasting|Linuk Perera|[2512.20216v1](https://arxiv.org/pdf/2512.20216v1)|
 ## Update on 2025-12-19
 
 ### Physics
