@@ -241,6 +241,37 @@ TODO:
 
 
 
+
+## Update on 2025-12-29
+
+### Physics
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-12-26|2025-12-26|Charge-Informed Quantum Error Correction|Vlad Temkin|[2512.22119v1](https://arxiv.org/pdf/2512.22119v1)|
+|2025-12-26|2025-12-26|A simple realization of Weyl-Heisenberg covariant measurements|Sachin Gupta|[2512.22111v1](https://arxiv.org/pdf/2512.22111v1)|
+|2025-02-23|2025-12-26|Rewards-based image analysis in microscopy|Kamyar Barakati|[2502.18522v2](https://arxiv.org/pdf/2502.18522v2)|
+|2025-11-14|2025-12-26|Lorentz Transformation in Quantum Mechanics|Marcello Baldo|[2511.11342v3](https://arxiv.org/pdf/2511.11342v3)|
+|2025-12-12|2025-12-26|NetQMPI: An MPI-Inspired library for programming Distributed Quantum Applications over Quantum Networks using NetQASM SDK|F. Javier Cardama|[2512.11483v2](https://arxiv.org/pdf/2512.11483v2)|
+|2025-12-26|2025-12-26|Enhanced Distributed Variational Quantum Eigensolver for Large-Scale MaxCut Problem|Yuefeng Lin|[2512.22056v1](https://arxiv.org/pdf/2512.22056v1)|
+|2025-12-22|2025-12-26|Real-time propagators resummed with nontrivial boundary wavefunctions in a constant electric field|Kenji Fukushima|[2512.19337v2](https://arxiv.org/pdf/2512.19337v2)|
+|2025-12-26|2025-12-26|Rethinking photonic nanojets: a new definition and design paradigm|Mirza Karamehmedović|[2512.22008v1](https://arxiv.org/pdf/2512.22008v1)|
+|2025-12-26|2025-12-26|Revealing the transient ionization dynamics and mode-coupling mechanisms of helicon discharge through a self-consistent multiphysics model|Jing-Jing Ma|[2512.21974v1](https://arxiv.org/pdf/2512.21974v1)|
+|2025-12-26|2025-12-26|The Wiener Path Integral Interpretation of the 3:1 Combat Rule|Wei Liang|[2512.21957v1](https://arxiv.org/pdf/2512.21957v1)|
+
+### Diffusion
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-06-09|2025-12-26|Accelerating Diffusion Planners in Offline RL via Reward-Aware Consistency Trajectory Distillation|Xintong Duan|[2506.07822v2](https://arxiv.org/pdf/2506.07822v2)|
+|2025-12-26|2025-12-26|StreamAvatar: Streaming Diffusion Models for Real-Time Interactive Human Avatars|Zhiyao Sun|[2512.22065v1](https://arxiv.org/pdf/2512.22065v1)|
+|2025-12-22|2025-12-26|Real-Time Streamable Generative Speech Restoration with Flow Matching|Simon Welker|[2512.19442v2](https://arxiv.org/pdf/2512.19442v2)|
+|2025-12-26|2025-12-26|From In Silico to In Vitro: Evaluating Molecule Generative Models for Hit Generation|Nagham Osman|[2512.22031v1](https://arxiv.org/pdf/2512.22031v1)|
+|2025-08-06|2025-12-26|Convolutional autoencoders for the reconstruction of three-dimensional interfacial multiphase flows|Murray Cutforth|[2508.04084v2](https://arxiv.org/pdf/2508.04084v2)|
+
+### Quantitative Finance
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-12-26|2025-12-26|MASFIN: A Multi-Agent System for Decomposed Financial Reasoning and Forecasting|Marc S. Montalvo|[2512.21878v1](https://arxiv.org/pdf/2512.21878v1)|
+|2025-12-25|2025-12-25|Applications of synthetic financial data in portfolio and risk modeling|Christophe D. Hounwanou|[2512.21798v1](https://arxiv.org/pdf/2512.21798v1)|
 ## Update on 2025-12-25
 
 ### Physics
