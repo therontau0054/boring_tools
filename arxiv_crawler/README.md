@@ -242,6 +242,35 @@ TODO:
 
 
 
+
+## Update on 2025-12-31
+
+### Physics
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-12-29|2025-12-29|Non-Invertible Interfaces Between Symmetry-Enriched Critical Phases|Saranesh Prembabu|[2512.23706v1](https://arxiv.org/pdf/2512.23706v1)|
+|2025-12-29|2025-12-29|The operational no-signalling constraints and their implications|Michał Eckstein|[2512.23702v1](https://arxiv.org/pdf/2512.23702v1)|
+|2025-12-29|2025-12-29|Web World Models|Jichen Feng|[2512.23676v1](https://arxiv.org/pdf/2512.23676v1)|
+|2025-12-29|2025-12-29|Limits of applicability of holographic dual descriptions to QCD: virtuality and coherence|Guy F. de Teramond|[2512.23663v1](https://arxiv.org/pdf/2512.23663v1)|
+|2025-12-29|2025-12-29|Ordering-Independent Wheeler-DeWitt Equation for Flat Minisuperspace Models|Victor Franken|[2512.23656v1](https://arxiv.org/pdf/2512.23656v1)|
+|2025-12-29|2025-12-29|Physics-Informed Neural Networks for Device and Circuit Modeling: A Case Study of NeuroSPICE|Chien-Ting Tung|[2512.23624v1](https://arxiv.org/pdf/2512.23624v1)|
+|2025-12-29|2025-12-29|Paradox-free classical non-causality and unambiguous non-locality without entanglement are equivalent|Hippolyte Dourdent|[2512.23599v1](https://arxiv.org/pdf/2512.23599v1)|
+|2025-12-02|2025-12-29|A New Type of Saddle in the Euclidean IKKT Matrix Model and Its Emergent Geometry|Henry Liao|[2512.03161v2](https://arxiv.org/pdf/2512.03161v2)|
+|2023-04-02|2025-12-29|Modified Fermi's golden rule rate expressions|Seogjoo J. Jang|[2304.00572v3](https://arxiv.org/pdf/2304.00572v3)|
+|2025-07-02|2025-12-29|Neural Measures for learning distributions of Random PDEs|Georgios Arampatzis|[2507.01687v2](https://arxiv.org/pdf/2507.01687v2)|
+
+### Diffusion
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-12-29|2025-12-29|Memorization in 3D Shape Generation: An Empirical Study|Shu Pu|[2512.23628v1](https://arxiv.org/pdf/2512.23628v1)|
+|2025-12-29|2025-12-29|AnyMS: Bottom-up Attention Decoupling for Layout-guided and Training-free Multi-subject Customization|Binhe Yu|[2512.23537v1](https://arxiv.org/pdf/2512.23537v1)|
+|2025-12-29|2025-12-29|Semantic Tree Inference on Text Corpa using a Nested Density Approach together with Large Language Model Embeddings|Thomas Haschka|[2512.23471v1](https://arxiv.org/pdf/2512.23471v1)|
+|2025-12-29|2025-12-29|HY-Motion 1.0: Scaling Flow Matching Models for Text-To-Motion Generation|Yuxin Wen|[2512.23464v1](https://arxiv.org/pdf/2512.23464v1)|
+
+### Quantitative Finance
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-12-29|2025-12-29|Lambda Expected Shortfall|Fabio Bellini|[2512.23139v1](https://arxiv.org/pdf/2512.23139v1)|
 ## Update on 2025-12-29
 
 ### Physics

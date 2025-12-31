@@ -1,0 +1,185 @@
+# Abstracts of Papers
+
+## Physics
+### Non-Invertible Interfaces Between Symmetry-Enriched Critical Phases
+**Authors**: Saranesh Prembabu, Shu-Heng Shao, Ruben Verresen
+
+**Published Date**: 2025-12-29
+
+**Updated Date**: 2025-12-29
+
+**PDF Url**: [2512.23706v1](https://arxiv.org/pdf/2512.23706v1)
+
+**Abstract**: Gapless quantum phases can become distinct when internal symmetries are enforced, in analogy with gapped symmetry-protected topological (SPT) phases. However, this distinction does not always lead to protected edge modes, raising the question of how the bulk-boundary correspondence is generalized to gapless cases. We propose that the spatial interface between gapless phases -- rather than their boundaries -- provides a more robust fingerprint. We show that whenever two 1+1d conformal field theories (CFTs) differ in symmetry charge assignments of local operators or twisted sectors, any symmetry-preserving spatial interface between the theories must flow to a non-invertible defect. We illustrate this general result for different versions of the Ising CFT with $\mathbb{Z}_2 \times \mathbb{Z}_2^T$ symmetry, obtaining a complete classification of allowed conformal interfaces. When the Ising CFTs differ by nonlocal operator charges, the interface hosts 0+1d symmetry-breaking phases with finite-size splittings scaling as $1/L^3$, as well as continuous phase transitions between them. For general gapless phases differing by an SPT entangler, the interfaces between them can be mapped to conformal defects with a certain defect 't Hooft anomaly. This classification also gives implications for higher-dimensional examples, including symmetry-enriched variants of the 2+1d Ising CFT. Our results establish a physical indicator for symmetry-enriched criticality through symmetry-protected interfaces, giving a new handle on the interplay between topology and gapless phases.
+
+
+### The operational no-signalling constraints and their implications
+**Authors**: Michał Eckstein, Tomasz Miller, Ryszard Horodecki, Ravishankar Ramanathan, Paweł Horodecki
+
+**Published Date**: 2025-12-29
+
+**Updated Date**: 2025-12-29
+
+**PDF Url**: [2512.23702v1](https://arxiv.org/pdf/2512.23702v1)
+
+**Abstract**: The study of quantum correlations within relativistic spacetimes, and the consequences of relativistic causality on information processing using such correlations, has gained much attention in recent years. In this paper, we establish a unified framework in the form of operational no-signalling constraints to study both nonlocal and temporal correlations within general relativistic spacetimes. We explore several intriguing consequences arising from our framework. Firstly, we show that the violation of the operational no-signalling constraints in Minkowski spacetime implies either a logical paradox or an operational infringement of Poincaré symmetry. We thereby examine and subvert recent claims in [Phys. Rev. Lett. 129, 110401 (2022)] on the possibility of witnessing operationally detectable causal loops in Minkowski spacetime. Secondly, we explore the possibility of jamming of nonlocal correlations, controverting a recent claim in [Nat. Comm. 16, 269 (2025)] that a physical mechanism for jamming would necessarily lead to superluminal signalling. Finally, we show that in black hole spacetimes certain nonlocal correlations under and across the event horizon can be jammed by any agent without spoiling the operational no-signalling constraints.
+
+
+### Web World Models
+**Authors**: Jichen Feng, Yifan Zhang, Chenggong Zhang, Yifu Lu, Shilong Liu, Mengdi Wang
+
+**Published Date**: 2025-12-29
+
+**Updated Date**: 2025-12-29
+
+**PDF Url**: [2512.23676v1](https://arxiv.org/pdf/2512.23676v1)
+
+**Abstract**: Language agents increasingly require persistent worlds in which they can act, remember, and learn. Existing approaches sit at two extremes: conventional web frameworks provide reliable but fixed contexts backed by databases, while fully generative world models aim for unlimited environments at the expense of controllability and practical engineering. In this work, we introduce the Web World Model (WWM), a middle ground where world state and ``physics'' are implemented in ordinary web code to ensure logical consistency, while large language models generate context, narratives, and high-level decisions on top of this structured latent state. We build a suite of WWMs on a realistic web stack, including an infinite travel atlas grounded in real geography, fictional galaxy explorers, web-scale encyclopedic and narrative worlds, and simulation- and game-like environments. Across these systems, we identify practical design principles for WWMs: separating code-defined rules from model-driven imagination, representing latent state as typed web interfaces, and utilizing deterministic generation to achieve unlimited but structured exploration. Our results suggest that web stacks themselves can serve as a scalable substrate for world models, enabling controllable yet open-ended environments. Project Page: https://github.com/Princeton-AI2-Lab/Web-World-Models.
+
+
+### Limits of applicability of holographic dual descriptions to QCD: virtuality and coherence
+**Authors**: Guy F. de Teramond
+
+**Published Date**: 2025-12-29
+
+**Updated Date**: 2025-12-29
+
+**PDF Url**: [2512.23663v1](https://arxiv.org/pdf/2512.23663v1)
+
+**Abstract**: Virtuality and coherence determine the limits of applicability of holographic concepts in QCD. In light-front quantization, the invariant mass controls the off-shell behavior of a physical process and thus provides a measure of its virtuality. In impact space, the corresponding quantity is the invariant transverse separation between quarks and gluons, $ζ$, which is identified with the holographic coordinate $z$ in holographic light-front QCD. By embedding the internal structure of hadrons and implementing an effective superconformal symmetry, the mapping between quantum states and classical gravity -- central to the holographic principle -- yields new analytic insights into the strong-interaction dynamics responsible for the emergence of a confinement scale and the observed hadron spectrum. We show that the possible emergence of a gravity dual to physical QCD is restricted to the Regge limit of high-energy scattering, where many partonic degrees of freedom participate coherently. This criterion provides a quantitative definition of the domain of applicability of holographic QCD to dynamical processes and allows it to be tested directly against experimental results. By further enforcing analyticity together with exact QCD constraints at asymptotic infinity, the holographic framework can be consistently extended beyond the infrared domain. To illustrate this procedure, we briefly discuss recent work by the HLFHS collaboration, where the effective strong coupling was extended from the Regge-limit domain, through the near-perturbative transition region, and into the ultraviolet Bjorken-limit domain. The resulting scheme provides a unified and precise nonperturbative description of the strong coupling across all virtuality scales.
+
+
+### Ordering-Independent Wheeler-DeWitt Equation for Flat Minisuperspace Models
+**Authors**: Victor Franken, Eftychios Kaimakkamis, Hervé Partouche, Nicolaos Toumbas
+
+**Published Date**: 2025-12-29
+
+**Updated Date**: 2025-12-29
+
+**PDF Url**: [2512.23656v1](https://arxiv.org/pdf/2512.23656v1)
+
+**Abstract**: We consider minisuperspace models with quadratic kinetic terms, assuming a flat target space and a closed Universe. We show that, upon canonical quantization of the Hamiltonian, only a restricted subset of operator orderings is consistent with the path-integral viewpoint. Remarkably, all consistent orderings are physically equivalent to all orders in $\hbar$. Specifically, each choice of path-integral measure in the definition of the wavefunction path integral uniquely determines an operator ordering and hence a corresponding Wheeler-DeWitt equation. The consistent orderings are in one-to-one correspondence with the Jacobians associated with all field redefinitions of a set of canonical degrees of freedom. For each admissible operator ordering--or equivalently, each path-integral measure--we identify a definite, positive Hilbert-space inner product. All such prescriptions define the same quantum theory, in the sense that they lead to identical physical observables. We illustrate our formalism by applying it to de Sitter Jackiw-Teitelboim gravity and to the Starobinsky model.
+
+
+### Physics-Informed Neural Networks for Device and Circuit Modeling: A Case Study of NeuroSPICE
+**Authors**: Chien-Ting Tung, Chenming Hu
+
+**Published Date**: 2025-12-29
+
+**Updated Date**: 2025-12-29
+
+**PDF Url**: [2512.23624v1](https://arxiv.org/pdf/2512.23624v1)
+
+**Abstract**: We present NeuroSPICE, a physics-informed neural network (PINN) framework for device and circuit simulation. Unlike conventional SPICE, which relies on time-discretized numerical solvers, NeuroSPICE leverages PINNs to solve circuit differential-algebraic equations (DAEs) by minimizing the residual of the equations through backpropagation. It models device and circuit waveforms using analytical equations in time domain with exact temporal derivatives. While PINNs do not outperform SPICE in speed or accuracy during training, they offer unique advantages such as surrogate models for design optimization and inverse problems. NeuroSPICE's flexibility enables the simulation of emerging devices, including highly nonlinear systems such as ferroelectric memories.
+
+
+### Paradox-free classical non-causality and unambiguous non-locality without entanglement are equivalent
+**Authors**: Hippolyte Dourdent, Kyrylo Simonov, Andreas Leitherer, Emanuel-Cristian Boghiu, Ravi Kunjwal, Saronath Halder, Remigiusz Augusiak, Antonio Acín
+
+**Published Date**: 2025-12-29
+
+**Updated Date**: 2025-12-29
+
+**PDF Url**: [2512.23599v1](https://arxiv.org/pdf/2512.23599v1)
+
+**Abstract**: Closed timelike curves (CTCs) challenge our conception of causality by allowing information to loop back into its own past. Any consistent description of such scenarios must avoid time-travel paradoxes while respecting the no-new-physics principle, which requires that the set of operations available within any local spacetime region remain unchanged, irrespective of whether CTCs exist elsewhere. Within an information-theoretic framework, this leads to process functions: deterministic classical communication structures that remain logically consistent under arbitrary local operations, yet can exhibit correlations incompatible with any definite causal order - a phenomenon known as non-causality. In this work, we provide the first complete recursive characterization of process functions and of (non-)causal process functions. We use it to establish a correspondence between process functions and unambiguous complete product bases, i.e., product bases in which every local state belongs to a unique local basis. This equivalence implies that non-causality of process functions is exactly mirrored by quantum nonlocality without entanglement (QNLWE) - the impossibility of perfectly distinguishing separable states using local operations and causal classical communication - for such bases. Our results generalize previous special cases to arbitrary local dimensions and any number of parties, enable systematic constructions of non-causal process functions and unambiguous QNLWE bases, and reveal an unexpected connection between certain non-signaling inequalities and causal inequalities.
+
+
+### A New Type of Saddle in the Euclidean IKKT Matrix Model and Its Emergent Geometry
+**Authors**: Henry Liao, Reishi Maeta
+
+**Published Date**: 2025-12-02
+
+**Updated Date**: 2025-12-29
+
+**PDF Url**: [2512.03161v2](https://arxiv.org/pdf/2512.03161v2)
+
+**Abstract**: We study the equation of motion of the Euclidean IKKT matrix model, and realize a new type of classical saddle that only exists in $N\rightarrow\infty$ limit. Under the assumption that the matrices are the generators of $\mathfrak{so}(n,m)$, we identify a unique solution, that is, $\mathfrak{so}(1,3)$. Even though it has $6$ generators and thus $6$ non-zero matrices, they are not independent due to the $2$ Casimir constraints in $\mathfrak{so}(1,3)$. Exploiting the Lie-algebraic structure and the Casimir constraints, we derive a four-dimensional space that a test scalar propagates on. The associated metric possesses $\mathrm{SU}(2)$ isometry, which is closely related to the Taub NUT/Bolt geometry and, more broadly, to black hole physics.
+
+
+### Modified Fermi's golden rule rate expressions
+**Authors**: Seogjoo J. Jang, Young Min Rhee
+
+**Published Date**: 2023-04-02
+
+**Updated Date**: 2025-12-29
+
+**PDF Url**: [2304.00572v3](https://arxiv.org/pdf/2304.00572v3)
+
+**Abstract**: Fermi's golden rule (FGR) serves as the basis for many expressions of spectroscopic observables and quantum transition rates. The utility of FGR has been demonstrated through decades of experimental confirmation. However, there still remain important cases where the evaluation of a FGR rate is ambiguous or ill-defined. Examples are cases where the rate has divergent terms due to the sparsity in the density of final states or time dependent fluctuations of system Hamiltonians. Strictly speaking, assumptions of FGR are no longer valid for such cases. However, it is still possible to define modified FGR rate expressions that are useful as effective rates. The resulting modified FGR rate expressions resolve a long standing ambiguity often encountered in using FGR and offer more reliable ways to model general rate processes. Simple model calculations illustrate the utility and implications of new rate expressions.
+
+
+### Neural Measures for learning distributions of Random PDEs
+**Authors**: Georgios Arampatzis, Stylianos Katsarakis, Charalambos Makridakis
+
+**Published Date**: 2025-07-02
+
+**Updated Date**: 2025-12-29
+
+**PDF Url**: [2507.01687v2](https://arxiv.org/pdf/2507.01687v2)
+
+**Abstract**: The integration of Scientific Machine Learning (SciML) techniques with uncertainty quantification (UQ) represents a rapidly evolving frontier in computational science. This work advances Physics-Informed Neural Networks (PINNs) by incorporating probabilistic frameworks to effectively model uncertainty in complex systems. Our approach enhances the representation of uncertainty in forward problems by combining generative modeling techniques with PINNs. This integration enables in a systematic fashion uncertainty control while maintaining the predictive accuracy of the model. We demonstrate the utility of this method through applications to random differential equations and random partial differential equations (PDEs).
+
+
+## Diffusion
+### Memorization in 3D Shape Generation: An Empirical Study
+**Authors**: Shu Pu, Boya Zeng, Kaichen Zhou, Mengyu Wang, Zhuang Liu
+
+**Published Date**: 2025-12-29
+
+**Updated Date**: 2025-12-29
+
+**PDF Url**: [2512.23628v1](https://arxiv.org/pdf/2512.23628v1)
+
+**Abstract**: Generative models are increasingly used in 3D vision to synthesize novel shapes, yet it remains unclear whether their generation relies on memorizing training shapes. Understanding their memorization could help prevent training data leakage and improve the diversity of generated results. In this paper, we design an evaluation framework to quantify memorization in 3D generative models and study the influence of different data and modeling designs on memorization. We first apply our framework to quantify memorization in existing methods. Next, through controlled experiments with a latent vector-set (Vecset) diffusion model, we find that, on the data side, memorization depends on data modality, and increases with data diversity and finer-grained conditioning; on the modeling side, it peaks at a moderate guidance scale and can be mitigated by longer Vecsets and simple rotation augmentation. Together, our framework and analysis provide an empirical understanding of memorization in 3D generative models and suggest simple yet effective strategies to reduce it without degrading generation quality. Our code is available at https://github.com/zlab-princeton/3d_mem.
+
+
+### AnyMS: Bottom-up Attention Decoupling for Layout-guided and Training-free Multi-subject Customization
+**Authors**: Binhe Yu, Zhen Wang, Kexin Li, Yuqian Yuan, Wenqiao Zhang, Long Chen, Juncheng Li, Jun Xiao, Yueting Zhuang
+
+**Published Date**: 2025-12-29
+
+**Updated Date**: 2025-12-29
+
+**PDF Url**: [2512.23537v1](https://arxiv.org/pdf/2512.23537v1)
+
+**Abstract**: Multi-subject customization aims to synthesize multiple user-specified subjects into a coherent image. To address issues such as subjects missing or conflicts, recent works incorporate layout guidance to provide explicit spatial constraints. However, existing methods still struggle to balance three critical objectives: text alignment, subject identity preservation, and layout control, while the reliance on additional training further limits their scalability and efficiency. In this paper, we present AnyMS, a novel training-free framework for layout-guided multi-subject customization. AnyMS leverages three input conditions: text prompt, subject images, and layout constraints, and introduces a bottom-up dual-level attention decoupling mechanism to harmonize their integration during generation. Specifically, global decoupling separates cross-attention between textual and visual conditions to ensure text alignment. Local decoupling confines each subject's attention to its designated area, which prevents subject conflicts and thus guarantees identity preservation and layout control. Moreover, AnyMS employs pre-trained image adapters to extract subject-specific features aligned with the diffusion model, removing the need for subject learning or adapter tuning. Extensive experiments demonstrate that AnyMS achieves state-of-the-art performance, supporting complex compositions and scaling to a larger number of subjects.
+
+
+### Semantic Tree Inference on Text Corpa using a Nested Density Approach together with Large Language Model Embeddings
+**Authors**: Thomas Haschka, Joseph Bakarji
+
+**Published Date**: 2025-12-29
+
+**Updated Date**: 2025-12-29
+
+**PDF Url**: [2512.23471v1](https://arxiv.org/pdf/2512.23471v1)
+
+**Abstract**: Semantic text classification has undergone significant advances in recent years due to the rise of large language models (LLMs) and their high dimensional embeddings. While LLM-embeddings are frequently used to store and retrieve text by semantic similarity in vector databases, the global structure semantic relationships in text corpora often remains opaque. Herein we propose a nested density clustering approach, to infer hierarchical trees of semantically related texts. The method starts by identifying texts of strong semantic similarity as it searches for dense clusters in LLM embedding space. As the density criterion is gradually relaxed, these dense clusters merge into more diffuse clusters, until the whole dataset is represented by a single cluster -- the root of the tree. By embedding dense clusters into increasingly diffuse ones, we construct a tree structure that captures hierarchical semantic relationships among texts. We outline how this approach can be used to classify textual data for abstracts of scientific abstracts as a case study. This enables the data-driven discovery research areas and their subfields without predefined categories. To evaluate the general applicability of the method, we further apply it to established benchmark datasets such as the 20 Newsgroups and IMDB 50k Movie Reviews, demonstrating its robustness across domains. Finally we discuss possible applications on scientometrics, topic evolution, highlighting how nested density trees can reveal semantic structure and evolution in textual datasets.
+
+
+### HY-Motion 1.0: Scaling Flow Matching Models for Text-To-Motion Generation
+**Authors**: Yuxin Wen, Qing Shuai, Di Kang, Jing Li, Cheng Wen, Yue Qian, Ningxin Jiao, Changhai Chen, Weijie Chen, Yiran Wang, Jinkun Guo, Dongyue An, Han Liu, Yanyu Tong, Chao Zhang, Qing Guo, Juan Chen, Qiao Zhang, Youyi Zhang, Zihao Yao, Cheng Zhang, Hong Duan, Xiaoping Wu, Qi Chen, Fei Cheng, Liang Dong, Peng He, Hao Zhang, Jiaxin Lin, Chao Zhang, Zhongyi Fan, Yifan Li, Zhichao Hu, Yuhong Liu, Linus, Jie Jiang, Xiaolong Li, Linchao Bao
+
+**Published Date**: 2025-12-29
+
+**Updated Date**: 2025-12-29
+
+**PDF Url**: [2512.23464v1](https://arxiv.org/pdf/2512.23464v1)
+
+**Abstract**: We present HY-Motion 1.0, a series of state-of-the-art, large-scale, motion generation models capable of generating 3D human motions from textual descriptions. HY-Motion 1.0 represents the first successful attempt to scale up Diffusion Transformer (DiT)-based flow matching models to the billion-parameter scale within the motion generation domain, delivering instruction-following capabilities that significantly outperform current open-source benchmarks. Uniquely, we introduce a comprehensive, full-stage training paradigm -- including large-scale pretraining on over 3,000 hours of motion data, high-quality fine-tuning on 400 hours of curated data, and reinforcement learning from both human feedback and reward models -- to ensure precise alignment with the text instruction and high motion quality. This framework is supported by our meticulous data processing pipeline, which performs rigorous motion cleaning and captioning. Consequently, our model achieves the most extensive coverage, spanning over 200 motion categories across 6 major classes. We release HY-Motion 1.0 to the open-source community to foster future research and accelerate the transition of 3D human motion generation models towards commercial maturity.
+
+
+## Quantitative Finance
+### Lambda Expected Shortfall
+**Authors**: Fabio Bellini, Muqiao Huang, Qiuqi Wang, Ruodu Wang
+
+**Published Date**: 2025-12-29
+
+**Updated Date**: 2025-12-29
+
+**PDF Url**: [2512.23139v1](https://arxiv.org/pdf/2512.23139v1)
+
+**Abstract**: The Lambda Value-at-Risk (Lambda$-VaR) is a generalization of the Value-at-Risk (VaR), which has been actively studied in quantitative finance. Over the past two decades, the Expected Shortfall (ES) has become one of the most important risk measures alongside VaR because of its various desirable properties in the practice of optimization, risk management, and financial regulation. Analogously to the intimate relation between ES and VaR, we introduce the Lambda Expected Shortfall (Lambda-ES), as a generalization of ES and a counterpart to Lambda-VaR. Our definition of Lambda-ES has an explicit formula and many convenient properties, and we show that it is the smallest quasi-convex and law-invariant risk measure dominating Lambda-VaR under mild assumptions. We examine further properties of Lambda-ES, its dual representation, and related optimization problems.
+
+
