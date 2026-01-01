@@ -243,6 +243,35 @@ TODO:
 
 
 
+
+## Update on 2026-01-01
+
+### Physics
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-12-31|2025-12-31|Randomization Times under Quantum Chaotic Hamiltonian Evolution|Souradeep Ghosh|[2512.25074v1](https://arxiv.org/pdf/2512.25074v1)|
+|2025-12-31|2025-12-31|The Logical Structure of Physical Laws: A Fixed Point Reconstruction|Eren Volkan Küçük|[2512.25057v1](https://arxiv.org/pdf/2512.25057v1)|
+|2025-12-31|2025-12-31|On Nonlinear Inertial Transformations|Nicholas Agia|[2512.25024v1](https://arxiv.org/pdf/2512.25024v1)|
+|2025-12-31|2025-12-31|DarkEQA: Benchmarking Vision-Language Models for Embodied Question Answering in Low-Light Indoor Environments|Yohan Park|[2512.24985v1](https://arxiv.org/pdf/2512.24985v1)|
+|2025-12-31|2025-12-31|Optical Spiking Neural Networks via Rogue-Wave Statistics|Bahadır Utku Kesgin|[2512.24983v1](https://arxiv.org/pdf/2512.24983v1)|
+|2025-12-31|2025-12-31|Large language models and the entropy of English|Colin Scheibner|[2512.24969v1](https://arxiv.org/pdf/2512.24969v1)|
+|2025-12-31|2025-12-31|From Principles to Effective Models: A Constructive Framework for Effective Covariant Actions with a Unique Vacuum Solution|Kristina Giesel|[2512.24960v1](https://arxiv.org/pdf/2512.24960v1)|
+|2025-07-19|2025-12-31|Sampling from Gaussian Processes: A Tutorial and Applications in Global Sensitivity Analysis and Optimization|Bach Do|[2507.14746v2](https://arxiv.org/pdf/2507.14746v2)|
+|2025-12-31|2025-12-31|Introduction to black hole thermodynamics|Pietro Benetti Genolini|[2512.24929v1](https://arxiv.org/pdf/2512.24929v1)|
+
+### Diffusion
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-12-31|2025-12-31|SpaceTimePilot: Generative Rendering of Dynamic Scenes Across Space and Time|Zhening Huang|[2512.25075v1](https://arxiv.org/pdf/2512.25075v1)|
+|2025-12-31|2025-12-31|Coordinated Humanoid Manipulation with Choice Policies|Haozhi Qi|[2512.25072v1](https://arxiv.org/pdf/2512.25072v1)|
+|2025-12-31|2025-12-31|Generative Classifiers Avoid Shortcut Solutions|Alexander C. Li|[2512.25034v1](https://arxiv.org/pdf/2512.25034v1)|
+|2025-12-31|2025-12-31|Diffusion Language Models are Provably Optimal Parallel Samplers|Haozhe Jiang|[2512.25014v1](https://arxiv.org/pdf/2512.25014v1)|
+|2025-12-31|2025-12-31|ProDM: Synthetic Reality-driven Property-aware Progressive Diffusion Model for Coronary Calcium Motion Correction in Non-gated Chest CT|Xinran Gong|[2512.24948v1](https://arxiv.org/pdf/2512.24948v1)|
+
+### Quantitative Finance
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-12-31|2025-12-31|Generative AI-enhanced Sector-based Investment Portfolio Construction|Alina Voronina|[2512.24526v1](https://arxiv.org/pdf/2512.24526v1)|
 ## Update on 2025-12-31
 
 ### Physics
