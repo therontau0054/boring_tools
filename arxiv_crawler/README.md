@@ -244,6 +244,37 @@ TODO:
 
 
 
+
+## Update on 2026-01-07
+
+### Physics
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-10-01|2026-01-06|CP violation in the hyperon decays $Σ\to Nπ$|Xiao-Gang He|[2510.01134v2](https://arxiv.org/pdf/2510.01134v2)|
+|2025-12-30|2026-01-06|Diagonal Unitary Covariant Superchannels|Dariusz Chruściński|[2512.24389v2](https://arxiv.org/pdf/2512.24389v2)|
+|2026-01-06|2026-01-06|Open-Source Coil Matching Toolbox for Magnetic Stimulation and Other Electromagnetics (COMATOSE)|Max Koehler|[2601.03224v1](https://arxiv.org/pdf/2601.03224v1)|
+|2026-01-06|2026-01-06|Emulating 2D Materials with Magnons|Bobby Kaman|[2601.03210v1](https://arxiv.org/pdf/2601.03210v1)|
+|2025-03-31|2026-01-06|Deterministic quantum trajectory via imaginary time evolution|Shivan Mittal|[2504.00210v2](https://arxiv.org/pdf/2504.00210v2)|
+|2025-09-04|2026-01-06|Transport coefficients of charged Gauss-Bonnet black holes with arbitrary topology|Moisés Bravo-Gaete|[2509.03838v3](https://arxiv.org/pdf/2509.03838v3)|
+|2025-04-07|2026-01-06|Extreme Anisotropy in the Metallic and Superconducting Phases of Rhombohedral Hexalayer Graphene|Peiyu Qin|[2504.05129v4](https://arxiv.org/pdf/2504.05129v4)|
+|2025-11-27|2026-01-06|Non-commutativity as a Universal Characterization for Enhanced Quantum Metrology|Ningxin Kong|[2511.22280v2](https://arxiv.org/pdf/2511.22280v2)|
+|2025-04-17|2026-01-06|The $β$-decay spectrum of Tritiated graphene: combining nuclear quantum mechanics with Density Functional Theory|Andrea Casale|[2504.13259v2](https://arxiv.org/pdf/2504.13259v2)|
+|2025-12-28|2026-01-06|TauSpinner algorithms for including spin and New Physics effects in $\bar q q \rightarrow Z/γ^* \to ττ$ process|A. Yu. Korchin|[2512.22971v2](https://arxiv.org/pdf/2512.22971v2)|
+
+### Diffusion
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-01-06|2026-01-06|Critic-Guided Reinforcement Unlearning in Text-to-Image Diffusion|Mykola Vysotskyi|[2601.03213v1](https://arxiv.org/pdf/2601.03213v1)|
+|2026-01-06|2026-01-06|DIP: Dynamic In-Context Planner For Diffusion Language Models|Yang Li|[2601.03199v1](https://arxiv.org/pdf/2601.03199v1)|
+|2025-10-17|2026-01-06|Error analysis of a compositional score-based algorithm for simulation-based inference|Camille Touron|[2510.15817v2](https://arxiv.org/pdf/2510.15817v2)|
+|2026-01-06|2026-01-06|Flow Matching and Diffusion Models via PointNet for Generating Fluid Fields on Irregular Geometries|Ali Kashefi|[2601.03030v1](https://arxiv.org/pdf/2601.03030v1)|
+|2026-01-06|2026-01-06|LAMS-Edit: Latent and Attention Mixing with Schedulers for Improved Content Preservation in Diffusion-Based Image and Style Editing|Wingwa Fu|[2601.02987v1](https://arxiv.org/pdf/2601.02987v1)|
+
+### Quantitative Finance
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2023-04-04|2026-01-05|The Recalibration Conundrum: Hedging Valuation Adjustment for Callable Claims|Cyril Bénézet|[2304.02479v3](https://arxiv.org/pdf/2304.02479v3)|
+|2026-01-03|2026-01-03|Beyond P-Values: Importing Quantitative Finance's Risk and Regret Metrics for AI in Learning Health Systems|Richik Chakraborty|[2601.01116v1](https://arxiv.org/pdf/2601.01116v1)|
 ## Update on 2026-01-01
 
 ### Physics
