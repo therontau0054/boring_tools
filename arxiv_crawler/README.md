@@ -245,6 +245,39 @@ TODO:
 
 
 
+
+## Update on 2026-01-15
+
+### Physics
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-12-04|2026-01-14|Hardware-inspired Continuous Variables Quantum Optical Neural Networks|Todor Krasimirov-Ivanov|[2512.05204v2](https://arxiv.org/pdf/2512.05204v2)|
+|2025-11-20|2026-01-14|Development & Characterization of Electrodes for large-scale Xenon Time Projection Chambers|A. Elykov|[2511.16408v2](https://arxiv.org/pdf/2511.16408v2)|
+|2026-01-07|2026-01-14|Cyclotron Radiation Signal Characterization in Resonant Cavities for the Project 8 Neutrino Mass Experiment|A. Ashtari Esfahani|[2601.07848v2](https://arxiv.org/pdf/2601.07848v2)|
+|2026-01-14|2026-01-14|Constitutive parameter inference using physics-based data-driven modeling in full volume datasets of intact and torn rotator cuff tendons|Carla Nathaly Villacís Núñez|[2601.09660v1](https://arxiv.org/pdf/2601.09660v1)|
+|2025-08-27|2026-01-14|Dynamics-Aligned Latent Imagination in Contextual World Models for Zero-Shot Generalization|Frank Röder|[2508.20294v2](https://arxiv.org/pdf/2508.20294v2)|
+|2026-01-14|2026-01-14|Constraint-Induced Effective Mass in Massless Field Propagation|Charles Wood|[2601.09642v1](https://arxiv.org/pdf/2601.09642v1)|
+|2025-06-12|2026-01-14|Quirk SUEP|David Curtin|[2506.11192v2](https://arxiv.org/pdf/2506.11192v2)|
+|2025-09-26|2026-01-14|Physically Plausible Multi-System Trajectory Generation and Symmetry Discovery|Jiayin Liu|[2509.23003v2](https://arxiv.org/pdf/2509.23003v2)|
+|2026-01-14|2026-01-14|Introduction to the Combination of Reduced Order Models and Domain Decomposition: State of the Art and Perspectives|Shenhui Ruan|[2601.09623v1](https://arxiv.org/pdf/2601.09623v1)|
+|2025-07-26|2026-01-14|Mechanical Impedance and the Physics of Faster-Than-the-Wind Travel|Karl Svozil|[2507.22081v3](https://arxiv.org/pdf/2507.22081v3)|
+
+### Diffusion
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-10-08|2026-01-14|Coupled Data and Measurement Space Dynamics for Enhanced Diffusion Posterior Sampling|Shayan Mohajer Hamidi|[2510.09676v2](https://arxiv.org/pdf/2510.09676v2)|
+|2025-06-19|2026-01-14|Can AI Dream of Unseen Galaxies? Conditional Diffusion Model for Galaxy Morphology Augmentation|Chenrui Ma|[2506.16233v2](https://arxiv.org/pdf/2506.16233v2)|
+|2025-08-16|2026-01-14|Content Accuracy and Quality Aware Resource Allocation Based on LP-Guided DRL for ISAC-Driven AIGC Networks|Ningzhe Shi|[2508.12079v2](https://arxiv.org/pdf/2508.12079v2)|
+|2026-01-14|2026-01-14|Learning Whole-Body Human-Humanoid Interaction from Human-Human Demonstrations|Wei-Jin Huang|[2601.09518v1](https://arxiv.org/pdf/2601.09518v1)|
+|2026-01-09|2026-01-14|VideoAR: Autoregressive Video Generation via Next-Frame & Scale Prediction|Longbin Ji|[2601.05966v2](https://arxiv.org/pdf/2601.05966v2)|
+
+### Quantitative Finance
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-01-13|2026-01-13|Systemic Risk in DeFi: A Network-Based Fragility Analysis of TVL Dynamics|Shiyu Zhang|[2601.08540v1](https://arxiv.org/pdf/2601.08540v1)|
+|2026-01-13|2026-01-13|A Blessing in Disguise: How DeFi Hacks Trigger Unintended Liquidity Injections into US Money Markets|Tingyi Lin|[2601.08263v1](https://arxiv.org/pdf/2601.08263v1)|
+|2026-01-12|2026-01-12|Non-Convex Portfolio Optimization via Energy-Based Models: A Comparative Analysis Using the Thermodynamic HypergRaphical Model Library (THRML) for Index Tracking|Javier Mancilla|[2601.07792v1](https://arxiv.org/pdf/2601.07792v1)|
+|2026-01-11|2026-01-11|FinForge: Semi-Synthetic Financial Benchmark Generation|Glenn Matlin|[2601.06747v1](https://arxiv.org/pdf/2601.06747v1)|
 ## Update on 2026-01-07
 
 ### Physics
