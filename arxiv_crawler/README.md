@@ -246,6 +246,37 @@ TODO:
 
 
 
+
+## Update on 2026-01-17
+
+### Physics
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-01-15|2026-01-15|Emergence and transition of incompressible phases in decorated Landau levels|Bo Peng|[2601.10717v1](https://arxiv.org/pdf/2601.10717v1)|
+|2026-01-15|2026-01-15|DInf-Grid: A Neural Differential Equation Solver with Differentiable Feature Grids|Navami Kairanda|[2601.10715v1](https://arxiv.org/pdf/2601.10715v1)|
+|2026-01-15|2026-01-15|See Less, Drive Better: Generalizable End-to-End Autonomous Driving via Foundation Models Stochastic Patch Selection|Amir Mallak|[2601.10707v1](https://arxiv.org/pdf/2601.10707v1)|
+|2026-01-15|2026-01-15|The Effective Theory of Muon-to-Electron Conversion|W. C. Haxton|[2601.10704v1](https://arxiv.org/pdf/2601.10704v1)|
+|2026-01-15|2026-01-15|Data-driven stochastic reduced-order modeling of parametrized dynamical systems|Andrew F. Ilersich|[2601.10690v1](https://arxiv.org/pdf/2601.10690v1)|
+|2026-01-15|2026-01-15|Efficiency, Curvature, and Complexity of Quantum Evolutions for Qubits in Nonstationary Magnetic Fields|Carlo Cafaro|[2601.10672v1](https://arxiv.org/pdf/2601.10672v1)|
+|2025-06-10|2026-01-15|JT de Sitter Gravity as a Model of Coleman-de Luccia Tunneling|Sidan A|[2506.09283v3](https://arxiv.org/pdf/2506.09283v3)|
+|2026-01-15|2026-01-15|Massless-Massive Amplitude Correspondence II: Constructive Massive Amplitudes in Standard Model|Yu-Han Ni|[2601.10622v1](https://arxiv.org/pdf/2601.10622v1)|
+|2023-10-20|2026-01-15|Localization with non-Hermitian off-diagonal disorder|Aitijhya Saha|[2310.13744v5](https://arxiv.org/pdf/2310.13744v5)|
+|2026-01-13|2026-01-15|Rewarding the Rare: Uniqueness-Aware RL for Creative Problem Solving in LLMs|Zhiyuan Hu|[2601.08763v2](https://arxiv.org/pdf/2601.08763v2)|
+
+### Diffusion
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-01-15|2026-01-15|High-accuracy and dimension-free sampling with diffusions|Khashayar Gatmiry|[2601.10708v1](https://arxiv.org/pdf/2601.10708v1)|
+|2025-06-24|2026-01-15|Data-Driven Dynamic Factor Modeling via Manifold Learning|Graeme Baker|[2506.19945v2](https://arxiv.org/pdf/2506.19945v2)|
+|2026-01-15|2026-01-15|Discrete Feynman-Kac Correctors|Mohsin Hasan|[2601.10403v1](https://arxiv.org/pdf/2601.10403v1)|
+|2026-01-14|2026-01-15|Discrete Solution Operator Learning for Geometry-Dependent PDEs|Jinshuai Bai|[2601.09143v2](https://arxiv.org/pdf/2601.09143v2)|
+|2026-01-15|2026-01-15|Towards Efficient Low-rate Image Compression with Frequency-aware Diffusion Prior Refinement|Yichong Xia|[2601.10373v1](https://arxiv.org/pdf/2601.10373v1)|
+
+### Quantitative Finance
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-01-15|2026-01-15|ProbFM: Probabilistic Time Series Foundation Model with Uncertainty Decomposition|Arundeep Chinta|[2601.10591v1](https://arxiv.org/pdf/2601.10591v1)|
+|2026-01-15|2026-01-15|History Is Not Enough: An Adaptive Dataflow System for Financial Time-Series Synthesis|Haochong Xia|[2601.10143v1](https://arxiv.org/pdf/2601.10143v1)|
 ## Update on 2026-01-15
 
 ### Physics
