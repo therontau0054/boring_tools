@@ -247,6 +247,36 @@ TODO:
 
 
 
+
+## Update on 2026-01-19
+
+### Physics
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-01-16|2026-01-16|MetaboNet: The Largest Publicly Available Consolidated Dataset for Type 1 Diabetes Management|Miriam K. Wolff|[2601.11505v1](https://arxiv.org/pdf/2601.11505v1)|
+|2026-01-16|2026-01-16|QUPID: A Partitioned Quantum Neural Network for Anomaly Detection in Smart Grid|Hoang M. Ngo|[2601.11500v1](https://arxiv.org/pdf/2601.11500v1)|
+|2026-01-16|2026-01-16|Conformal Symmetry and the Thermal Effects of Acceleration in Classical Physic|Timothy H Boyer|[2601.11494v1](https://arxiv.org/pdf/2601.11494v1)|
+|2025-12-15|2026-01-16|Transversal Clifford-Hierarchy Gates via Non-Abelian Surface Codes|Alison Warman|[2512.13777v2](https://arxiv.org/pdf/2512.13777v2)|
+|2026-01-16|2026-01-16|Learning Semantic-Geometric Task Graph-Representations from Human Demonstrations|Franziska Herbert|[2601.11460v1](https://arxiv.org/pdf/2601.11460v1)|
+|2024-02-24|2026-01-16|The power-spectrum tensor in steady-state systems and its role in quantum friction|F. Intravaia|[2402.15777v2](https://arxiv.org/pdf/2402.15777v2)|
+|2026-01-16|2026-01-16|Principles of Client Enrichment in Multicomponent Biomolecular Condensates|Aishani Ghosal|[2601.11450v1](https://arxiv.org/pdf/2601.11450v1)|
+|2026-01-02|2026-01-16|Entropy Production in Machine Learning Under Fokker-Planck Probability Flow|Lennon Shikhman|[2601.00554v3](https://arxiv.org/pdf/2601.00554v3)|
+|2025-11-03|2026-01-16|Simulation of Self-Assembled Monolayers of Polyalanine $α$-Helices: Development and Application of an Effective Potential for Film Structure Predictions|Hadis Ghodrati Saeini|[2511.01596v2](https://arxiv.org/pdf/2511.01596v2)|
+|2025-03-07|2026-01-16|Deterministic Theories|Hans Halvorson|[2503.05681v2](https://arxiv.org/pdf/2503.05681v2)|
+
+### Diffusion
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-01-16|2026-01-16|When Are Two Scores Better Than One? Investigating Ensembles of Diffusion Models|Raphaël Razafindralambo|[2601.11444v1](https://arxiv.org/pdf/2601.11444v1)|
+|2026-01-16|2026-01-16|GenDA: Generative Data Assimilation on Complex Urban Areas via Classifier-Free Diffusion Guidance|Francisco Giral|[2601.11440v1](https://arxiv.org/pdf/2601.11440v1)|
+|2026-01-16|2026-01-16|Factored Value Functions for Graph-Based Multi-Agent Reinforcement Learning|Ahmed Rashwan|[2601.11401v1](https://arxiv.org/pdf/2601.11401v1)|
+|2026-01-16|2026-01-16|Unlocking the Potentials of Retrieval-Augmented Generation for Diffusion Language Models|Chuanyue Yu|[2601.11342v1](https://arxiv.org/pdf/2601.11342v1)|
+|2026-01-16|2026-01-16|X-Distill: Cross-Architecture Vision Distillation for Visuomotor Learning|Maanping Shao|[2601.11269v1](https://arxiv.org/pdf/2601.11269v1)|
+
+### Quantitative Finance
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-01-16|2026-01-16|KANHedge: Efficient Hedging of High-Dimensional Options Using Kolmogorov-Arnold Network-Based BSDE Solver|Rushikesh Handal|[2601.11097v1](https://arxiv.org/pdf/2601.11097v1)|
 ## Update on 2026-01-17
 
 ### Physics
