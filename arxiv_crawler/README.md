@@ -248,6 +248,36 @@ TODO:
 
 
 
+
+## Update on 2026-01-21
+
+### Physics
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-01-20|2026-01-20|Spatiotemporal Wildfire Prediction and Reinforcement Learning for Helitack Suppression|Shaurya Mathur|[2601.14238v1](https://arxiv.org/pdf/2601.14238v1)|
+|2026-01-20|2026-01-20|Opportunities in AI/ML for the Rubin LSST Dark Energy Science Collaboration|LSST Dark Energy Science Collaboration|[2601.14235v1](https://arxiv.org/pdf/2601.14235v1)|
+|2024-12-12|2026-01-20|Searching for New Physics in Ultradense Environment: a Review on Dark Matter Admixed Neutron Stars|Francesco Grippa|[2412.09381v3](https://arxiv.org/pdf/2412.09381v3)|
+|2026-01-15|2026-01-20|Unifying Quantum and Classical Dynamics|Abdul Rahaman Shaikh|[2601.10423v2](https://arxiv.org/pdf/2601.10423v2)|
+|2026-01-20|2026-01-20|Gradient-based optimization of exact stochastic kinetic models|Francesco Mottes|[2601.14183v1](https://arxiv.org/pdf/2601.14183v1)|
+|2025-07-17|2026-01-20|WaveletInception Networks for on-board Vibration-Based Infrastructure Health Monitoring|Reza Riahi Samani|[2507.12969v2](https://arxiv.org/pdf/2507.12969v2)|
+|2024-10-25|2026-01-20|Approaching Stable Quark Matter|Yang Bai|[2410.19678v3](https://arxiv.org/pdf/2410.19678v3)|
+|2025-06-25|2026-01-20|Physics-Informed Machine Learning Regulated by Finite Element Analysis for Simulation Acceleration of Laser Powder Bed Fusion|R. Sharma|[2506.20537v2](https://arxiv.org/pdf/2506.20537v2)|
+|2026-01-20|2026-01-20|Multidimensional arrow of time|Sergey G. Rubin|[2601.14134v1](https://arxiv.org/pdf/2601.14134v1)|
+|2026-01-20|2026-01-20|Measurement of the Z$γ$ production cross section and search for anomalous neutral triple gauge couplings in pp collisions at $\sqrt{s}$ = 13 TeV|CMS Collaboration|[2601.14102v1](https://arxiv.org/pdf/2601.14102v1)|
+
+### Diffusion
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-01-20|2026-01-20|VideoMaMa: Mask-Guided Video Matting via Generative Prior|Sangbeom Lim|[2601.14255v1](https://arxiv.org/pdf/2601.14255v1)|
+|2026-01-20|2026-01-20|Q-learning with Adjoint Matching|Qiyang Li|[2601.14234v1](https://arxiv.org/pdf/2601.14234v1)|
+|2026-01-20|2026-01-20|Attention-Based Offline Reinforcement Learning and Clustering for Interpretable Sepsis Treatment|Punit Kumar|[2601.14228v1](https://arxiv.org/pdf/2601.14228v1)|
+|2024-01-18|2026-01-20|DiffusionAgent: Navigating Expert Models for Agentic Image Generation|Jie Qin|[2401.10061v2](https://arxiv.org/pdf/2401.10061v2)|
+|2025-02-11|2026-01-20|DiffRatio: Training One-Step Diffusion Models Without Teacher Supervision|Wenlin Chen|[2502.08005v4](https://arxiv.org/pdf/2502.08005v4)|
+
+### Quantitative Finance
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-01-19|2026-01-19|Trend-Adjusted Time Series Models with an Application to Gold Price Forecasting|Sina Kazemdehbashi|[2601.12706v1](https://arxiv.org/pdf/2601.12706v1)|
 ## Update on 2026-01-19
 
 ### Physics
