@@ -249,6 +249,36 @@ TODO:
 
 
 
+
+## Update on 2026-01-23
+
+### Physics
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2024-06-25|2026-01-22|Quantum hall transformer in a quantum point contact over the full range of transmission|Stuart Yi-Thomas|[2406.17778v2](https://arxiv.org/pdf/2406.17778v2)|
+|2026-01-22|2026-01-22|Gauge Theory and Skein Modules|Du Pei|[2601.16213v1](https://arxiv.org/pdf/2601.16213v1)|
+|2026-01-22|2026-01-22|LLM-in-Sandbox Elicits General Agentic Intelligence|Daixuan Cheng|[2601.16206v1](https://arxiv.org/pdf/2601.16206v1)|
+|2026-01-22|2026-01-22|Universal non-Gaussian order parameter statistics in 2D superfluids|Abel Beregi|[2601.16204v1](https://arxiv.org/pdf/2601.16204v1)|
+|2026-01-22|2026-01-22|Pushing the limits of unconstrained machine-learned interatomic potentials|Filippo Bigi|[2601.16195v1](https://arxiv.org/pdf/2601.16195v1)|
+|2026-01-22|2026-01-22|Robust Bell Nonlocality from Gottesman-Kitaev-Preskill States|Xiaotian Yang|[2601.16189v1](https://arxiv.org/pdf/2601.16189v1)|
+|2026-01-22|2026-01-22|String Breaking and Glueball Dynamics in $2+1$D Quantum Link Electrodynamics|Jiahao Cao|[2601.16166v1](https://arxiv.org/pdf/2601.16166v1)|
+|2026-01-22|2026-01-22|Cosmos Policy: Fine-Tuning Video Models for Visuomotor Control and Planning|Moo Jin Kim|[2601.16163v1](https://arxiv.org/pdf/2601.16163v1)|
+|2026-01-22|2026-01-22|On the structural properties of Lie algebras via associated labeled directed graphs|Tim Heib|[2601.16161v1](https://arxiv.org/pdf/2601.16161v1)|
+|2025-12-04|2026-01-22|Mode interactions in scalar field cosmology|Spiros Cotsakis|[2512.04607v2](https://arxiv.org/pdf/2512.04607v2)|
+
+### Diffusion
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-01-22|2026-01-22|Pay (Cross) Attention to the Melody: Curriculum Masking for Single-Encoder Melodic Harmonization|Maximos Kaliakatsos-Papakostas|[2601.16150v1](https://arxiv.org/pdf/2601.16150v1)|
+|2026-01-22|2026-01-22|Learning to Watermark in the Latent Space of Generative Models|Sylvestre-Alvise Rebuffi|[2601.16140v1](https://arxiv.org/pdf/2601.16140v1)|
+|2025-05-24|2026-01-22|GenPO: Generative Diffusion Models Meet On-Policy Reinforcement Learning|Shutong Ding|[2505.18763v4](https://arxiv.org/pdf/2505.18763v4)|
+|2025-08-05|2026-01-22|Likelihood Matching for Diffusion Models|Lei Qian|[2508.03636v2](https://arxiv.org/pdf/2508.03636v2)|
+|2026-01-22|2026-01-22|PF-D2M: A Pose-free Diffusion Model for Universal Dance-to-Music Generation|Jaekwon Im|[2601.15872v1](https://arxiv.org/pdf/2601.15872v1)|
+
+### Quantitative Finance
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-01-21|2026-01-21|MiRAGE: A Multiagent Framework for Generating Multimodal Multihop Question-Answer Dataset for RAG Evaluation|Chandan Kumar Sahu|[2601.15487v1](https://arxiv.org/pdf/2601.15487v1)|
 ## Update on 2026-01-21
 
 ### Physics
