@@ -1,0 +1,197 @@
+# Abstracts of Papers
+
+## Physics
+### Neural S-matrix bootstrap II: solvable 4d amplitudes with particle production
+**Authors**: Mehmet Asim Gumus, Damien Leflot, Piotr Tourkine, Alexander Zhiboedov
+
+**Published Date**: 2026-01-29
+
+**Updated Date**: 2026-01-29
+
+**PDF Url**: [2601.22145v1](https://arxiv.org/pdf/2601.22145v1)
+
+**Abstract**: We study a model for nonperturbative unitarization of the four-point contact scalar amplitude in four dimensions. It is defined through an infinite sum of planar diagrams, constructed using two-particle unitarity and crossing symmetry. We reformulate the problem in terms of a set of nonlinear integral equations obeyed by the single and double discontinuities of the amplitude. We then solve them using a neural-network ansatz trained by minimizing a physics-informed loss functional. We obtain a one-parameter family of amplitudes, which exhibit rich structure: sizeable particle production, nontrivial emergent Regge behavior, Landau curves, a logarithmic decay at high energy and fixed angle. Finally, we go beyond the two-particle-reducible setup by treating the multi-particle data -- supported above the multi-particle Landau curves due to multi-particle unitarity -- as a dynamical variable. We demonstrate that it can be tuned to suppress low-spin particle production -- a phenomenon we call Aks screening -- at the cost of generating larger and oscillatory double spectral density in the multi-particle region.
+
+
+### Physics Informed Reconstruction of Four-Dimensional Atmospheric Wind Fields Using Multi-UAS Swarm Observations in a Synthetic Turbulent Environment
+**Authors**: Abdullah Tasim, Wei Sun
+
+**Published Date**: 2026-01-29
+
+**Updated Date**: 2026-01-29
+
+**PDF Url**: [2601.22111v1](https://arxiv.org/pdf/2601.22111v1)
+
+**Abstract**: Accurate reconstruction of atmospheric wind fields is essential for applications such as weather forecasting, hazard prediction, and wind energy assessment, yet conventional instruments leave spatio-temporal gaps within the lower atmospheric boundary layer. Unmanned aircraft systems (UAS) provide flexible in situ measurements, but individual platforms sample wind only along their flight trajectories, limiting full wind-field recovery. This study presents a framework for reconstructing four-dimensional atmospheric wind fields using measurements obtained from a coordinated UAS swarm. A synthetic turbulence environment and high-fidelity multirotor simulation are used to generate training and evaluation data. Local wind components are estimated from UAS dynamics using a bidirectional long short-term memory network (Bi-LSTM) and assimilated into a physics-informed neural network (PINN) to reconstruct a continuous wind field in space and time. For local wind estimation, the bidirectional LSTM achieves root-mean-square errors (RMSE) of 0.064 and 0.062 m/s for the north and east components in low-wind conditions, increasing to 0.122 to 0.129 m/s under moderate winds and 0.271 to 0.273 m/s in high-wind conditions, while the vertical component exhibits higher error, with RMSE values of 0.029 to 0.091 m/s. The physics-informed reconstruction recovers the dominant spatial and temporal structure of the wind field up to 1000 m altitude while preserving mean flow direction and vertical shear. Under moderate wind conditions, the reconstructed mean wind field achieves an overall RMSE between 0.118 and 0.154 m/s across evaluated UAS configurations, with the lowest error obtained using a five-UAS swarm. These results demonstrate that coordinated UAS measurements enable accurate and scalable four-dimensional wind-field reconstruction without dedicated wind sensors or fixed infrastructure.
+
+
+### Vision Calorimeter for High-Energy Particle Detection
+**Authors**: Hongtian Yu, Yangu Li, Yunfan Liu, Yunxuan Song, Xiao-Rui Lyu, Qixiang Ye
+
+**Published Date**: 2026-01-29
+
+**Updated Date**: 2026-01-29
+
+**PDF Url**: [2601.22097v1](https://arxiv.org/pdf/2601.22097v1)
+
+**Abstract**: In high-energy physics, estimating anti-neutron parameters (position and momentum) using the electromagnetic calorimeter (EMC) is crucial but challenging. To conquer this challenge, we propose Vision Calorimeter (ViC), a framework that migrates visual object detectors to analyze particle images. The motivation lies in introducing a physics-inspired heat-conduction operator (HCO) into the detector's backbone and head to handle the discrete and sparse patterns of these images. Implemented via the Discrete Cosine Transform, HCO extracts frequency-domain features, bridging the distribution gap between natural and particle images. Experiments demonstrate that ViC significantly outperforms conventional methods, reducing the incident position prediction error by 46.16% (from 17.31° to 9.32°) and providing the first baseline result with an incident momentum regression error of 21.48%. This study underscores ViC's great potential as a reliable particle detector for high-energy physics. Code is available at https://github.com/yuhongtian17/ViC.
+
+
+### Learning Transient Convective Heat Transfer with Geometry Aware World Models
+**Authors**: Onur T. Doganay, Alexander Klawonn, Martin Eigel, Hanno Gottschalk
+
+**Published Date**: 2026-01-29
+
+**Updated Date**: 2026-01-29
+
+**PDF Url**: [2601.22086v1](https://arxiv.org/pdf/2601.22086v1)
+
+**Abstract**: Partial differential equation (PDE) simulations are fundamental to engineering and physics but are often computationally prohibitive for real-time applications. While generative AI offers a promising avenue for surrogate modeling, standard video generation architectures lack the specific control and data compatibility required for physical simulations. This paper introduces a geometry aware world model architecture, derived from a video generation architecture (LongVideoGAN), designed to learn transient physics. We introduce two key architecture elements: (1) a twofold conditioning mechanism incorporating global physical parameters and local geometric masks, and (2) an architectural adaptation to support arbitrary channel dimensions, moving beyond standard RGB constraints. We evaluate this approach on a 2D transient computational fluid dynamics (CFD) problem involving convective heat transfer from buoyancy-driven flow coupled to a heat flow in a solid structure. We demonstrate that the conditioned model successfully reproduces complex temporal dynamics and spatial correlations of the training data. Furthermore, we assess the model's generalization capabilities on unseen geometric configurations, highlighting both its potential for controlled simulation synthesis and current limitations in spatial precision for out-of-distribution samples.
+
+
+### Probing the Sound Speed of Dark Energy with a Lunar Laser Interferometer
+**Authors**: Alfredo Gurrola, Robert J. Scherrer, Oem Trivedi
+
+**Published Date**: 2026-01-29
+
+**Updated Date**: 2026-01-29
+
+**PDF Url**: [2601.22084v1](https://arxiv.org/pdf/2601.22084v1)
+
+**Abstract**: The sound speed of dark energy encodes fundamental information about the microphysics underlying cosmic acceleration, yet remains essentially unconstrained by existing observations. We demonstrate that a lunar-based laser interferometer, such as the proposed Laser Interferometer Lunar Antenna (LILA), can directly probe the sound speed of dark energy by measuring the real-time evolution of horizon-scale gravitational potentials. Operating in the ultra-low-frequency gravitational band inaccessible from Earth, LILA is sensitive to scalar metric perturbations sourced by dark energy dynamics. Using both fluid and effective field theory descriptions, we develop a complete framework linking dark energy sound speed to observable strain signatures. We construct a likelihood pipeline and Fisher forecasts, showing that LILA can either detect clustering dark energy or exclude broad classes of models with unprecedented sensitivity. This establishes lunar interferometry as a novel and powerful probe of the physics driving cosmic acceleration.
+
+
+### Axion-Scalar Systems and Dynamical Distances
+**Authors**: Thomas W. Grimm, Damian van de Heisteeg, Filippo Revello
+
+**Published Date**: 2025-10-14
+
+**Updated Date**: 2026-01-29
+
+**PDF Url**: [2510.12879v2](https://arxiv.org/pdf/2510.12879v2)
+
+**Abstract**: We study the cosmology of axion-scalar pairs, coupled by a hyperbolic field-space metric and with a string-motivated rational scalar potential. Borrowing tools from the theory of dynamical systems, we are able to classify all late-time trajectories and extract physical properties of the asymptotic solutions. These results suggest a Dynamical Distance Conjecture: along the physical (possibly non-geodesic) trajectories, towers of states become exponentially light as a function of the traversed field-space distance. We further rule out possible counterexamples with wildly oscillating solutions. The considered axion-scalar systems are realized in F-theory compactifications, where the axion-scalar pair is a complex-structure modulus and four-form fluxes induce the asymptotic potentials. We also provide a complete Hodge-theoretic classification of all one-modulus asymptotic potentials of this type.
+
+
+### Unsupervised Decomposition and Recombination with Discriminator-Driven Diffusion Models
+**Authors**: Archer Wang, Emile Anand, Yilun Du, Marin Soljačić
+
+**Published Date**: 2026-01-29
+
+**Updated Date**: 2026-01-29
+
+**PDF Url**: [2601.22057v1](https://arxiv.org/pdf/2601.22057v1)
+
+**Abstract**: Decomposing complex data into factorized representations can reveal reusable components and enable synthesizing new samples via component recombination. We investigate this in the context of diffusion-based models that learn factorized latent spaces without factor-level supervision. In images, factors can capture background, illumination, and object attributes; in robotic videos, they can capture reusable motion components. To improve both latent factor discovery and quality of compositional generation, we introduce an adversarial training signal via a discriminator trained to distinguish between single-source samples and those generated by recombining factors across sources. By optimizing the generator to fool this discriminator, we encourage physical and semantic consistency in the resulting recombinations. Our method outperforms implementations of prior baselines on CelebA-HQ, Virtual KITTI, CLEVR, and Falcor3D, achieving lower FID scores and better disentanglement as measured by MIG and MCC. Furthermore, we demonstrate a novel application to robotic video trajectories: by recombining learned action components, we generate diverse sequences that significantly increase state-space coverage for exploration on the LIBERO benchmark.
+
+
+### Holographic generative flows with AdS/CFT
+**Authors**: Ehsan Mirafzali, Sanjit Shashi, Sanya Murdeshwar, Edgar Shaghoulian, Daniele Venturi, Razvan Marinescu
+
+**Published Date**: 2026-01-29
+
+**Updated Date**: 2026-01-29
+
+**PDF Url**: [2601.22033v1](https://arxiv.org/pdf/2601.22033v1)
+
+**Abstract**: We present a framework for generative machine learning that leverages the holographic principle of quantum gravity, or to be more precise its manifestation as the anti-de Sitter/conformal field theory (AdS/CFT) correspondence, with techniques for deep learning and transport theory. Our proposal is to represent the flow of data from a base distribution to some learned distribution using the bulk-to-boundary mapping of scalar fields in AdS. In the language of machine learning, we are representing and augmenting the flow-matching algorithm with AdS physics. Using a checkerboard toy dataset and MNIST, we find that our model achieves faster and higher quality convergence than comparable physics-free flow-matching models. Our method provides a physically interpretable version of flow matching. More broadly, it establishes the utility of AdS physics and geometry in the development of novel paradigms in generative modeling.
+
+
+### The Ensemble Inverse Problem: Applications and Methods
+**Authors**: Zhengyan Huan, Camila Pazos, Martin Klassen, Vincent Croft, Pierre-Hugues Beauchemin, Shuchin Aeron
+
+**Published Date**: 2026-01-29
+
+**Updated Date**: 2026-01-29
+
+**PDF Url**: [2601.22029v1](https://arxiv.org/pdf/2601.22029v1)
+
+**Abstract**: We introduce a new multivariate statistical problem that we refer to as the Ensemble Inverse Problem (EIP). The aim of EIP is to invert for an ensemble that is distributed according to the pushforward of a prior under a forward process. In high energy physics (HEP), this is related to a widely known problem called unfolding, which aims to reconstruct the true physics distribution of quantities, such as momentum and angle, from measurements that are distorted by detector effects. In recent applications, the EIP also arises in full waveform inversion (FWI) and inverse imaging with unknown priors. We propose non-iterative inference-time methods that construct posterior samplers based on a new class of conditional generative models, which we call ensemble inverse generative models. For the posterior modeling, these models additionally use the ensemble information contained in the observation set on top of single measurements. Unlike existing methods, our proposed methods avoid explicit and iterative use of the forward model at inference time via training across several sets of truth-observation pairs that are consistent with the same forward model, but originate from a wide range of priors. We demonstrate that this training procedure implicitly encodes the likelihood model. The use of ensemble information helps posterior inference and enables generalization to unseen priors. We benchmark the proposed method on several synthetic and real datasets in inverse imaging, HEP, and FWI. The codes are available at https://github.com/ZhengyanHuan/The-Ensemble-Inverse-Problem--Applications-and-Methods.
+
+
+### Advanced measurement techniques in quantum Monte Carlo: The permutation matrix representation approach
+**Authors**: Nic Ezzell, Itay Hen
+
+**Published Date**: 2025-04-09
+
+**Updated Date**: 2026-01-29
+
+**PDF Url**: [2504.07295v2](https://arxiv.org/pdf/2504.07295v2)
+
+**Abstract**: In a typical finite temperature quantum Monte Carlo (QMC) simulation, estimators for simple static observables such as specific heat and magnetization are known. With a great deal of system-specific manual labor, one can sometimes also derive more complicated non-local or even dynamic observable estimators. Within the permutation matrix representation (PMR) flavor of QMC, however, we show that one can derive formal estimators for arbitrary static observables. We also derive exact, explicit estimators for general imaginary-time correlation functions and non-trivial integrated susceptibilities thereof. We demonstrate the practical versatility of our method by estimating various non-local, random observables for the transverse-field Ising model on a square lattice.
+
+
+## Diffusion
+### JUST-DUB-IT: Video Dubbing via Joint Audio-Visual Diffusion
+**Authors**: Anthony Chen, Naomi Ken Korem, Tavi Halperin, Matan Ben Yosef, Urska Jelercic, Ofir Bibi, Or Patashnik, Daniel Cohen-Or
+
+**Published Date**: 2026-01-29
+
+**Updated Date**: 2026-01-29
+
+**PDF Url**: [2601.22143v1](https://arxiv.org/pdf/2601.22143v1)
+
+**Abstract**: Audio-Visual Foundation Models, which are pretrained to jointly generate sound and visual content, have recently shown an unprecedented ability to model multi-modal generation and editing, opening new opportunities for downstream tasks. Among these tasks, video dubbing could greatly benefit from such priors, yet most existing solutions still rely on complex, task-specific pipelines that struggle in real-world settings. In this work, we introduce a single-model approach that adapts a foundational audio-video diffusion model for video-to-video dubbing via a lightweight LoRA. The LoRA enables the model to condition on an input audio-video while jointly generating translated audio and synchronized facial motion. To train this LoRA, we leverage the generative model itself to synthesize paired multilingual videos of the same speaker. Specifically, we generate multilingual videos with language switches within a single clip, and then inpaint the face and audio in each half to match the language of the other half. By leveraging the rich generative prior of the audio-visual model, our approach preserves speaker identity and lip synchronization while remaining robust to complex motion and real-world dynamics. We demonstrate that our approach produces high-quality dubbed videos with improved visual fidelity, lip synchronization, and robustness compared to existing dubbing pipelines.
+
+
+### EditYourself: Audio-Driven Generation and Manipulation of Talking Head Videos with Diffusion Transformers
+**Authors**: John Flynn, Wolfgang Paier, Dimitar Dinev, Sam Nhut Nguyen, Hayk Poghosyan, Manuel Toribio, Sandipan Banerjee, Guy Gafni
+
+**Published Date**: 2026-01-29
+
+**Updated Date**: 2026-01-29
+
+**PDF Url**: [2601.22127v1](https://arxiv.org/pdf/2601.22127v1)
+
+**Abstract**: Current generative video models excel at producing novel content from text and image prompts, but leave a critical gap in editing existing pre-recorded videos, where minor alterations to the spoken script require preserving motion, temporal coherence, speaker identity, and accurate lip synchronization. We introduce EditYourself, a DiT-based framework for audio-driven video-to-video (V2V) editing that enables transcript-based modification of talking head videos, including the seamless addition, removal, and retiming of visually spoken content. Building on a general-purpose video diffusion model, EditYourself augments its V2V capabilities with audio conditioning and region-aware, edit-focused training extensions. This enables precise lip synchronization and temporally coherent restructuring of existing performances via spatiotemporal inpainting, including the synthesis of realistic human motion in newly added segments, while maintaining visual fidelity and identity consistency over long durations. This work represents a foundational step toward generative video models as practical tools for professional video post-production.
+
+
+### SiDGen: Structure-informed Diffusion for Generative modeling of Ligands for Proteins
+**Authors**: Samyak Sanghvi, Nishant Ranjan, Tarak Karmakar
+
+**Published Date**: 2025-11-12
+
+**Updated Date**: 2026-01-29
+
+**PDF Url**: [2511.09529v2](https://arxiv.org/pdf/2511.09529v2)
+
+**Abstract**: Designing ligands that are both chemically valid and structurally compatible with protein binding pockets is a key bottleneck in computational drug discovery. Existing approaches either ignore structural context or rely on expensive, memory-intensive encoding that limits throughput and scalability. We present SiDGen (Structure-informed Diffusion Generator), a protein-conditioned diffusion framework that integrates masked SMILES generation with lightweight folding-derived features for pocket awareness. To balance expressivity with efficiency, SiDGen supports two conditioning pathways: a streamlined mode that pools coarse structural signals from protein embeddings and a full mode that injects localized pairwise biases for stronger coupling. A coarse-stride folding mechanism with nearest-neighbor upsampling alleviates the quadratic memory costs of pair tensors, enabling training on realistic sequence lengths. Learning stability is maintained through in-loop chemical validity checks and an invalidity penalty, while large-scale training efficiency is restored \textit{via} selective compilation, dataloader tuning, and gradient accumulation. In automated benchmarks, SiDGen generates ligands with high validity, uniqueness, and novelty, while achieving competitive performance in docking-based evaluations and maintaining reasonable molecular properties. These results demonstrate that SiDGen can deliver scalable, pocket-aware molecular design, providing a practical route to conditional generation for high-throughput drug discovery.
+
+
+### Corrective Diffusion Language Models
+**Authors**: Shuibai Zhang, Fred Zhangzhi Peng, Yiheng Zhang, Jin Pan, Grigorios G. Chrysos
+
+**Published Date**: 2025-12-17
+
+**Updated Date**: 2026-01-29
+
+**PDF Url**: [2512.15596v2](https://arxiv.org/pdf/2512.15596v2)
+
+**Abstract**: While Diffusion Language Models (DLMs) are theoretically well-suited for iterative refinement due to their non-causal structure, they often fail to reliably revise incorrect tokens in practice. The key challenge lies in the model's inability to distinguish between correct and erroneous tokens in a visible sequence. Standard masked diffusion language model (MDLM) training is restricted to the objective of unmasking, undermining the effectiveness of refinement guided by confidence. Based on this observation, we study corrective behavior in DLMs, defined as the ability to assign lower confidence to incorrect tokens and iteratively refine them while preserving correct content. We show that this capability is not induced by conventional masked diffusion objectives and propose a post-training principle oriented by correction that explicitly supervises visible incorrect tokens, enabling discriminative confidence and targeted refinement. To evaluate corrective behavior, we introduce the Code Revision Benchmark, a controllable and executable benchmark for assessing error localization and in-place correction. Experiments on code revision tasks and parallel decoding scenarios demonstrate that models trained with our approach substantially outperform standard MDLMs, with gains that are most pronounced when parallel decoding introduces substantial uncertainty and iterative refinement becomes essential. Our code is publicly available at https://github.com/zhangshuibai/CDLM.
+
+
+### Thinking Out of Order: When Output Order Stops Reflecting Reasoning Order in Diffusion Language Models
+**Authors**: Longxuan Yu, Yu Fu, Shaorong Zhang, Hui Liu, Mukund Varma T, Greg Ver Steeg, Yue Dong
+
+**Published Date**: 2026-01-29
+
+**Updated Date**: 2026-01-29
+
+**PDF Url**: [2601.22035v1](https://arxiv.org/pdf/2601.22035v1)
+
+**Abstract**: Autoregressive (AR) language models enforce a fixed left-to-right generation order, creating a fundamental limitation when the required output structure conflicts with natural reasoning (e.g., producing answers before explanations due to presentation or schema constraints). In such cases, AR models must commit to answers before generating intermediate reasoning, and this rigid constraint forces premature commitment. Masked diffusion language models (MDLMs), which iteratively refine all tokens in parallel, offer a way to decouple computation order from output structure. We validate this capability on GSM8K, Math500, and ReasonOrderQA, a benchmark we introduce with controlled difficulty and order-level evaluation. When prompts request answers before reasoning, AR models exhibit large accuracy gaps compared to standard chain-of-thought ordering (up to 67% relative drop), while MDLMs remain stable ($\leq$14% relative drop), a property we term "order robustness". Using ReasonOrderQA, we present evidence that MDLMs achieve order robustness by stabilizing simpler tokens (e.g., reasoning steps) earlier in the diffusion process than complex ones (e.g., final answers), enabling reasoning tokens to stabilize before answer commitment. Finally, we identify failure conditions where this advantage weakens, outlining the limits required for order robustness.
+
+
+## Quantitative Finance
+### Alpha Discovery via Grammar-Guided Learning and Search
+**Authors**: Han Yang, Dong Hao, Zhuohan Wang, Qi Shi, Xingtong Li
+
+**Published Date**: 2026-01-29
+
+**Updated Date**: 2026-01-29
+
+**PDF Url**: [2601.22119v1](https://arxiv.org/pdf/2601.22119v1)
+
+**Abstract**: Automatically discovering formulaic alpha factors is a central problem in quantitative finance. Existing methods often ignore syntactic and semantic constraints, relying on exhaustive search over unstructured and unbounded spaces. We present AlphaCFG, a grammar-based framework for defining and discovering alpha factors that are syntactically valid, financially interpretable, and computationally efficient. AlphaCFG uses an alpha-oriented context-free grammar to define a tree-structured, size-controlled search space, and formulates alpha discovery as a tree-structured linguistic Markov decision process, which is then solved using a grammar-aware Monte Carlo Tree Search guided by syntax-sensitive value and policy networks. Experiments on Chinese and U.S. stock market datasets show that AlphaCFG outperforms state-of-the-art baselines in both search efficiency and trading profitability. Beyond trading strategies, AlphaCFG serves as a general framework for symbolic factor discovery and refinement across quantitative finance, including asset pricing and portfolio construction.
+
+

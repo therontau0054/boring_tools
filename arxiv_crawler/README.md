@@ -250,6 +250,36 @@ TODO:
 
 
 
+
+## Update on 2026-01-31
+
+### Physics
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-01-29|2026-01-29|Neural S-matrix bootstrap II: solvable 4d amplitudes with particle production|Mehmet Asim Gumus|[2601.22145v1](https://arxiv.org/pdf/2601.22145v1)|
+|2026-01-29|2026-01-29|Physics Informed Reconstruction of Four-Dimensional Atmospheric Wind Fields Using Multi-UAS Swarm Observations in a Synthetic Turbulent Environment|Abdullah Tasim|[2601.22111v1](https://arxiv.org/pdf/2601.22111v1)|
+|2026-01-29|2026-01-29|Vision Calorimeter for High-Energy Particle Detection|Hongtian Yu|[2601.22097v1](https://arxiv.org/pdf/2601.22097v1)|
+|2026-01-29|2026-01-29|Learning Transient Convective Heat Transfer with Geometry Aware World Models|Onur T. Doganay|[2601.22086v1](https://arxiv.org/pdf/2601.22086v1)|
+|2026-01-29|2026-01-29|Probing the Sound Speed of Dark Energy with a Lunar Laser Interferometer|Alfredo Gurrola|[2601.22084v1](https://arxiv.org/pdf/2601.22084v1)|
+|2025-10-14|2026-01-29|Axion-Scalar Systems and Dynamical Distances|Thomas W. Grimm|[2510.12879v2](https://arxiv.org/pdf/2510.12879v2)|
+|2026-01-29|2026-01-29|Unsupervised Decomposition and Recombination with Discriminator-Driven Diffusion Models|Archer Wang|[2601.22057v1](https://arxiv.org/pdf/2601.22057v1)|
+|2026-01-29|2026-01-29|Holographic generative flows with AdS/CFT|Ehsan Mirafzali|[2601.22033v1](https://arxiv.org/pdf/2601.22033v1)|
+|2026-01-29|2026-01-29|The Ensemble Inverse Problem: Applications and Methods|Zhengyan Huan|[2601.22029v1](https://arxiv.org/pdf/2601.22029v1)|
+|2025-04-09|2026-01-29|Advanced measurement techniques in quantum Monte Carlo: The permutation matrix representation approach|Nic Ezzell|[2504.07295v2](https://arxiv.org/pdf/2504.07295v2)|
+
+### Diffusion
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-01-29|2026-01-29|JUST-DUB-IT: Video Dubbing via Joint Audio-Visual Diffusion|Anthony Chen|[2601.22143v1](https://arxiv.org/pdf/2601.22143v1)|
+|2026-01-29|2026-01-29|EditYourself: Audio-Driven Generation and Manipulation of Talking Head Videos with Diffusion Transformers|John Flynn|[2601.22127v1](https://arxiv.org/pdf/2601.22127v1)|
+|2025-11-12|2026-01-29|SiDGen: Structure-informed Diffusion for Generative modeling of Ligands for Proteins|Samyak Sanghvi|[2511.09529v2](https://arxiv.org/pdf/2511.09529v2)|
+|2025-12-17|2026-01-29|Corrective Diffusion Language Models|Shuibai Zhang|[2512.15596v2](https://arxiv.org/pdf/2512.15596v2)|
+|2026-01-29|2026-01-29|Thinking Out of Order: When Output Order Stops Reflecting Reasoning Order in Diffusion Language Models|Longxuan Yu|[2601.22035v1](https://arxiv.org/pdf/2601.22035v1)|
+
+### Quantitative Finance
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-01-29|2026-01-29|Alpha Discovery via Grammar-Guided Learning and Search|Han Yang|[2601.22119v1](https://arxiv.org/pdf/2601.22119v1)|
 ## Update on 2026-01-23
 
 ### Physics
