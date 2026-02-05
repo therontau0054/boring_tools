@@ -1,0 +1,234 @@
+# Abstracts of Papers
+
+## Physics
+### Robust inverse material design with physical guarantees using the Voigt-Reuss Net
+**Authors**: Sanath Keshav, Felix Fritzen
+
+**Published Date**: 2025-11-14
+
+**Updated Date**: 2026-02-04
+
+**PDF Url**: [2511.11388v2](https://arxiv.org/pdf/2511.11388v2)
+
+**Abstract**: We propose a spectrally normalized surrogate for forward and inverse mechanical homogenization with hard physical guarantees. Leveraging the Voigt-Reuss bounds, we factor their difference via a Cholesky-like operator and learn a dimensionless, symmetric positive semi-definite representation with eigenvalues in $[0,1]$; the inverse map returns symmetric positive-definite predictions that lie between the bounds in the Löwner sense. In 3D linear elasticity on an open dataset of stochastic biphasic microstructures, a fully connected Voigt-Reuss net trained on $>\!7.5\times 10^{5}$ FFT-based labels with 236 isotropy-invariant descriptors and three contrast parameters recovers the isotropic projection with near-perfect fidelity (isotropy-related entries: $R^2 \ge 0.998$), while anisotropy-revealing couplings are unidentifiable from $SO(3)$-invariant inputs. Tensor-level relative Frobenius errors have median $\approx 1.7\%$ and mean $\approx 3.4\%$ across splits. For 2D plane strain on thresholded trigonometric microstructures, coupling spectral normalization with a differentiable renderer and a CNN yields $R^2>0.99$ on all components, subpercent normalized losses, accurate tracking of percolation-induced eigenvalue jumps, and robust generalization to out-of-distribution images. Treating the parametric microstructure as design variables, batched first-order optimization with a single surrogate matches target tensors within a few percent and returns diverse near-optimal designs. Overall, the Voigt-Reuss net unifies accurate, physically admissible forward prediction with large-batch, constraint-consistent inverse design, and is generic to elliptic operators and coupled-physics settings.
+
+
+### GoodRegressor: A General-Purpose Symbolic Regression Framework for Physically Interpretable Materials Modeling
+**Authors**: Seong-Hoon Jang
+
+**Published Date**: 2025-10-21
+
+**Updated Date**: 2026-02-04
+
+**PDF Url**: [2510.18325v5](https://arxiv.org/pdf/2510.18325v5)
+
+**Abstract**: Symbolic regression offers a promising route toward interpretable machine learning, yet existing methods suffer from poor predictability and computational intractability when exploring large expression spaces. I introduce GoodRegressor, a general-purpose C++-based framework that resolves these limitations while preserving full physical interpretability. By combining hierarchical descriptor construction, interaction discovery, nonlinear transformations, statistically rigorous model selection, and stacking ensemble, GoodRegressor efficiently explores symbolic model spaces such as $1.44 \times 10^{457}$, $5.99 \times 10^{124}$, and $4.20 \times 10^{430}$ possible expressions for oxygen-ion conductors, NASICONs, and superconducting oxides, respectively. Across these systems, it achieves predictive performance that is comparable to or exceeds that of state-of-the-art black-box models and consistently outperforms existing white-box symbolic regression methods. The resulting expressions provide physical insights; for example, in the oxygen-ion conductor problem, they elucidate oxygen-ion transport in terms of the coordination environment and lattice flexibility. Independent ensemble runs yield nearly identical regressed values and the identical top-ranked candidate, demonstrating high reproducibility. With scalability up to $10^{4392}$ choices without interaction terms, GoodRegressor provides a foundation for general-purpose interpretable machine intelligence.
+
+
+### CRoSS: A Continual Robotic Simulation Suite for Scalable Reinforcement Learning with High Task Diversity and Realistic Physics Simulation
+**Authors**: Yannick Denker, Alexander Gepperth
+
+**Published Date**: 2026-02-04
+
+**Updated Date**: 2026-02-04
+
+**PDF Url**: [2602.04868v1](https://arxiv.org/pdf/2602.04868v1)
+
+**Abstract**: Continual reinforcement learning (CRL) requires agents to learn from a sequence of tasks without forgetting previously acquired policies. In this work, we introduce a novel benchmark suite for CRL based on realistically simulated robots in the Gazebo simulator. Our Continual Robotic Simulation Suite (CRoSS) benchmarks rely on two robotic platforms: a two-wheeled differential-drive robot with lidar, camera and bumper sensor, and a robotic arm with seven joints. The former represent an agent in line-following and object-pushing scenarios, where variation of visual and structural parameters yields a large number of distinct tasks, whereas the latter is used in two goal-reaching scenarios with high-level cartesian hand position control (modeled after the Continual World benchmark), and low-level control based on joint angles. For the robotic arm benchmarks, we provide additional kinematics-only variants that bypass the need for physical simulation (as long as no sensor readings are required), and which can be run two orders of magnitude faster. CRoSS is designed to be easily extensible and enables controlled studies of continual reinforcement learning in robotic settings with high physical realism, and in particular allow the use of almost arbitrary simulated sensors. To ensure reproducibility and ease of use, we provide a containerized setup (Apptainer) that runs out-of-the-box, and report performances of standard RL algorithms, including Deep Q-Networks (DQN) and policy gradient methods. This highlights the suitability as a scalable and reproducible benchmark for CRL research.
+
+
+### From Evaluation to Design: Using Potential Energy Surface Smoothness Metrics to Guide Machine Learning Interatomic Potential Architectures
+**Authors**: Ryan Liu, Eric Qu, Tobias Kreiman, Samuel M. Blau, Aditi S. Krishnapriyan
+
+**Published Date**: 2026-02-04
+
+**Updated Date**: 2026-02-04
+
+**PDF Url**: [2602.04861v1](https://arxiv.org/pdf/2602.04861v1)
+
+**Abstract**: Machine Learning Interatomic Potentials (MLIPs) sometimes fail to reproduce the physical smoothness of the quantum potential energy surface (PES), leading to erroneous behavior in downstream simulations that standard energy and force regression evaluations can miss. Existing evaluations, such as microcanonical molecular dynamics (MD), are computationally expensive and primarily probe near-equilibrium states. To improve evaluation metrics for MLIPs, we introduce the Bond Smoothness Characterization Test (BSCT). This efficient benchmark probes the PES via controlled bond deformations and detects non-smoothness, including discontinuities, artificial minima, and spurious forces, both near and far from equilibrium. We show that BSCT correlates strongly with MD stability while requiring a fraction of the cost of MD. To demonstrate how BSCT can guide iterative model design, we utilize an unconstrained Transformer backbone as a testbed, illustrating how refinements such as a new differentiable $k$-nearest neighbors algorithm and temperature-controlled attention reduce artifacts identified by our metric. By optimizing model design systematically based on BSCT, the resulting MLIP simultaneously achieves a low conventional E/F regression error, stable MD simulations, and robust atomistic property predictions. Our results establish BSCT as both a validation metric and as an "in-the-loop" model design proxy that alerts MLIP developers to physical challenges that cannot be efficiently evaluated by current MLIP benchmarks.
+
+
+### Digital signatures with classical shadows on near-term quantum computers
+**Authors**: Pradeep Niroula, Minzhao Liu, Sivaprasad Omanakuttan, David Amaro, Shouvanik Chakrabarti, Soumik Ghosh, Zichang He, Yuwei Jin, Fatih Kaleoglu, Steven Kordonowy, Rohan Kumar, Michael A. Perlin, Akshay Seshadri, Matthew Steinberg, Joseph Sullivan, Jacob Watkins, Henry Yuen, Ruslan Shaydulin
+
+**Published Date**: 2026-02-04
+
+**Updated Date**: 2026-02-04
+
+**PDF Url**: [2602.04859v1](https://arxiv.org/pdf/2602.04859v1)
+
+**Abstract**: Quantum mechanics provides cryptographic primitives whose security is grounded in hardness assumptions independent of those underlying classical cryptography. However, existing proposals require low-noise quantum communication and long-lived quantum memory, capabilities which remain challenging to realize in practice. In this work, we introduce a quantum digital signature scheme that operates with only classical communication, using the classical shadows of states produced by random circuits as public keys. We provide theoretical and numerical evidence supporting the conjectured hardness of learning the private key (the circuit) from the public key (the shadow). A key technical ingredient enabling our scheme is an improved state-certification primitive that achieves higher noise tolerance and lower sample complexity than prior methods. We realize this certification by designing a high-rate error-detecting code tailored to our random-circuit ensemble and experimentally generating shadows for 32-qubit states using circuits with $\geq 80$ logical ($\geq 582$ physical) two-qubit gates, attaining 0.90 $\pm$ 0.01 fidelity. With increased number of measurement samples, our hardware-demonstrated primitives realize a proof-of-principle quantum digital signature, demonstrating the near-term feasibility of our scheme.
+
+
+### Fermi Geometry of the Higgs Sector
+**Authors**: Nathaniel Craig, I-Kwan Lee, Yu-Tse Lee
+
+**Published Date**: 2025-09-08
+
+**Updated Date**: 2026-02-04
+
+**PDF Url**: [2509.07101v2](https://arxiv.org/pdf/2509.07101v2)
+
+**Abstract**: We develop the field space geometry of scalar-fermion effective field theories as a vector bundle supermanifold. We further establish a Fermi normal coordinate system on the bundle that clarifies the geometric content in scattering amplitudes, particularly the imprints of field space non-analyticities. Specializing to the Standard Model Higgs sector, we examine the geometric consequences of custodial symmetry violation, including implications for the physical Higgs field as a distinguished scalar axis and deformations in the fermionic sector. Our results enable a systematic and realistic geometric interpretation of Higgs sector phenomenology.
+
+
+### Finite-dimensional algebras, gauge-string duality and thermodynamics
+**Authors**: Sanjaye Ramgoolam
+
+**Published Date**: 2026-02-04
+
+**Updated Date**: 2026-02-04
+
+**PDF Url**: [2602.04845v1](https://arxiv.org/pdf/2602.04845v1)
+
+**Abstract**: Gauge-invariant polynomial functions of matrix and tensor variables capture combinatorial structures of gauge-string duality, which can be usefully organised using finite-dimensional associative algebras. I review recent work on eigenvalue systems using these algebras as state spaces, which provide efficient computational algorithms for the construction of orthogonal bases in the multi-matrix case. Algebraic counting formulae in matrix and tensor systems with $U(N)$ as well as $S_N$ symmetry have led to gauged quantum mechanical models which display a negative branch of specific heat capacity in the micro-canonical ensemble followed by positive specific heat capacity at larger energies measured by a polynomial degree parameter $n$. The negative branch is associated with near-exponential or factorial growth of degeneracies for $ n \gg 1$ in a region of large $N$ stability, while the positive branch occurs when the finite $N$ reduction of degrees of freedom takes over as $n$ becomes sufficiently large compared to $N$.
+
+
+### Spin-momentum Locking and Topological Vector Charge Response with Conserved Spin
+**Authors**: Yoonseok Hwang, Penghao Zhu, Taylor L. Hughes
+
+**Published Date**: 2023-04-06
+
+**Updated Date**: 2026-02-04
+
+**PDF Url**: [2304.03301v2](https://arxiv.org/pdf/2304.03301v2)
+
+**Abstract**: Spin-momentum locking plays a fundamental role in spintronics and, more broadly, is an important concept in condensed matter physics. In 2D and 3D, spin-momentum locking typically does not allow spin-conservation because the spin-1/2 operators of electrons anticommute. Instead, here we study spin-momentum locking terms with conserved, commuting pseudospins built from a combination of spin and orbitals. We find that 2D spin-momentum locking terms with conserved pseudospins generally lead to linearly dispersing modes at low-energy with anomalous charge and pseudospin currents. To cure the anomaly we show that such anomalous modes can be realized on the surface of a 3D Weyl semimetal (or an associated weak topological insulator) with a nonzero mixed spin-momentum quadrupole moment, which is determined by the momentum location and pseudospin eigenvalues of Weyl points at the Fermi level. Crucially, this mixed quadrupole moment captures a mixed pseudospin-charge bulk response that cancels the anomaly of surface modes, and can generate a giant 3D spin Hall effect, among other phenomena.
+
+
+### Exploring the keV-scale physics potential of CUORE
+**Authors**: CUORE Collaboration, D. Q. Adams, C. Alduino, K. Alfonso, A. Armatol, F. T. Avignone, O. Azzolini, G. Bari, F. Bellini, G. Benato, M. Beretta, M. Biassoni, A. Branca, C. Brofferio, C. Bucci, J. Camilleri, A. Caminata, A. Campani, J. Cao, C. Capelli, S. Capelli, L. Cappelli, L. Cardani, P. Carniti, N. Casali, E. Celi, D. Chiesa, M. Clemenza, S. Copello, A. Cosoli, O. Cremonesi, R. J. Creswick, A. DAddabbo, I. Dafinei, S. DellOro, S. Di Domizio, S. Di Lorenzo, T. Dixon, D. Q. Fang, M. Faverzani, E. Ferri, F. Ferroni, E. Fiorini, M. A. Franceschi, S. J. Freedman, S. H. Fu, B. K. Fujikawa, S. Ghislandi, A. Giachero, M. Girola, L. Gironi, A. Giuliani, P. Gorla, C. Gotti, P. V. Guillaumon, T. D. Gutierrez, K. Han, E. V. Hansen, K. M. Heeger, D. L. Helis, H. Z. Huang, M. T. Hurst, G. Keppel, Yu. G. Kolomensky, R. Kowalski, R. Liu, L. Ma, Y. G. Ma, L. Marini, R. H. Maruyama, D. Mayer, Y. Mei, M. N. Moore, T. Napolitano, M. Nastasi, C. Nones, E. B. Norman, A. Nucciotti, I. Nutini, T. ODonnell, M. Olmi, B. T. Oregui, S. Pagan, C. E. Pagliarone, L. Pagnanini, M. Pallavicini, L. Pattavina, M. Pavan, G. Pessina, V. Pettinacci, C. Pira, S. Pirro, E. G. Pottebaum, S. Pozzi, E. Previtali, A. Puiu, S. Quitadamo, A. Ressa, C. Rosenfeld, B. Schmidt, R. Serino, A. Shaikina, V. Sharma, V. Singh, M. Sisti, D. Speller, P. T. Surukuchi, L. Taffarello, C. Tomei, A. Torres, J. A. Torres, K. J. Vetter, M. Vignati, S. L. Wagaarachchi, R. Wang, B. Welliver, J. Wilson, K. Wilson, L. A. Winslow, F. Xie, T. Zhu, S. Zimmermann, S. Zucchelli
+
+**Published Date**: 2025-05-29
+
+**Updated Date**: 2026-02-04
+
+**PDF Url**: [2505.23955v2](https://arxiv.org/pdf/2505.23955v2)
+
+**Abstract**: We present the analysis techniques developed to explore the keV-scale energy region of the CUORE experiment, based on more than 2 tonne yr of data collected over 5 years. By prioritizing a stricter selection over a larger exposure, we are able to optimize data selection for thresholds at 10 keV and 3 keV with 691 kg yr and 11 kg yr of data, respectively. We study how the performance varies among the 988-detector array with different detector characteristics and data taking conditions. We achieve an average baseline resolution of 2.54 $\pm$ 0.14 keV FWHM and 1.18 $\pm$ 0.02 keV FWHM for the data selection at 10 keV and 3 keV, respectively. The analysis methods employed reduce the overall background by about an order of magnitude, reaching 2.06 $\pm$ 0.05 counts/(keV kg days) and 16 $\pm$ 2 counts/(keV kg days) at the thresholds of 10 keV and 3 keV. We evaluate for the first time the near-threshold reconstruction efficiencies of the CUORE experiment, and find these to be 26 $\pm$ 4 \% and 50 $\pm$ 2 \% at 3 keV and 10 keV, respectively. This analysis provides crucial insights into rare decay studies, new physics searches, and keV-scale background modeling with CUORE. We demonstrate that tonne-scale cryogenic calorimeters can operate across a wide energy range, from keV to MeV, establishing their scalability as versatile detectors for rare event and dark matter physics. These findings also inform the optimization of future large mass cryogenic calorimeters to enhance the sensitivity to low-energy phenomena.
+
+
+### UniReason 1.0: A Unified Reasoning Framework for World Knowledge Aligned Image Generation and Editing
+**Authors**: Dianyi Wang, Chaofan Ma, Feng Han, Size Wu, Wei Song, Yibin Wang, Zhixiong Zhang, Tianhang Wang, Siyuan Wang, Zhongyu Wei, Jiaqi Wang
+
+**Published Date**: 2026-02-02
+
+**Updated Date**: 2026-02-04
+
+**PDF Url**: [2602.02437v2](https://arxiv.org/pdf/2602.02437v2)
+
+**Abstract**: Unified multimodal models often struggle with complex synthesis tasks that demand deep reasoning, and typically treat text-to-image generation and image editing as isolated capabilities rather than interconnected reasoning steps. To address this, we propose UniReason, a unified framework that harmonizes these two tasks through two complementary reasoning paradigms. We incorporate world knowledge-enhanced textual reasoning into generation to infer implicit knowledge, and leverage editing capabilities for fine-grained editing-like visual refinement to further correct visual errors via self-reflection. This approach unifies generation and editing within a shared architecture, mirroring the human cognitive process of planning followed by refinement. We support this framework by systematically constructing a large-scale reasoning-centric dataset (~300k samples) covering five major knowledge domains (e.g., cultural commonsense, physics, etc.) for textual reasoning, alongside an agent-generated corpus for visual refinement. Extensive experiments demonstrate that UniReason achieves advanced performance on reasoning-intensive benchmarks such as WISE, KrisBench and UniREditBench, while maintaining superior general synthesis capabilities.
+
+
+## Diffusion
+### Personalized Image Generation via Human-in-the-loop Bayesian Optimization
+**Authors**: Rajalaxmi Rajagopalan, Debottam Dutta, Yu-Lin Wei, Romit Roy Choudhury
+
+**Published Date**: 2026-02-02
+
+**Updated Date**: 2026-02-04
+
+**PDF Url**: [2602.02388v2](https://arxiv.org/pdf/2602.02388v2)
+
+**Abstract**: Imagine Alice has a specific image $x^\ast$ in her mind, say, the view of the street in which she grew up during her childhood. To generate that exact image, she guides a generative model with multiple rounds of prompting and arrives at an image $x^{p*}$. Although $x^{p*}$ is reasonably close to $x^\ast$, Alice finds it difficult to close that gap using language prompts. This paper aims to narrow this gap by observing that even after language has reached its limits, humans can still tell when a new image $x^+$ is closer to $x^\ast$ than $x^{p*}$. Leveraging this observation, we develop MultiBO (Multi-Choice Preferential Bayesian Optimization) that carefully generates $K$ new images as a function of $x^{p*}$, gets preferential feedback from the user, uses the feedback to guide the diffusion model, and ultimately generates a new set of $K$ images. We show that within $B$ rounds of user feedback, it is possible to arrive much closer to $x^\ast$, even though the generative model has no information about $x^\ast$. Qualitative scores from $30$ users, combined with quantitative metrics compared across $5$ baselines, show promising results, suggesting that multi-choice feedback from humans can be effectively harnessed for personalized image generation.
+
+
+### Dynamical Regimes of Multimodal Diffusion Models
+**Authors**: Emil Albrychiewicz, Andrés Franco Valiente, Li-Ching Chen
+
+**Published Date**: 2026-02-04
+
+**Updated Date**: 2026-02-04
+
+**PDF Url**: [2602.04780v1](https://arxiv.org/pdf/2602.04780v1)
+
+**Abstract**: Diffusion based generative models have achieved unprecedented fidelity in synthesizing high dimensional data, yet the theoretical mechanisms governing multimodal generation remain poorly understood. Here, we present a theoretical framework for coupled diffusion models, using coupled Ornstein-Uhlenbeck processes as a tractable model. By using the nonequilibrium statistical physics of dynamical phase transitions, we demonstrate that multimodal generation is governed by a spectral hierarchy of interaction timescales rather than simultaneous resolution. A key prediction is the ``synchronization gap'', a temporal window during the reverse generative process where distinct eigenmodes stabilize at different rates, providing a theoretical explanation for common desynchronization artifacts. We derive analytical conditions for speciation and collapse times under both symmetric and anisotropic coupling regimes, establishing strict bounds for coupling strength to avoid unstable symmetry breaking. We show that the coupling strength acts as a spectral filter that enforces a tunable temporal hierarchy on generation. We support these predictions through controlled experiments with diffusion models trained on MNIST datasets and exact score samplers. These results motivate time dependent coupling schedules that target mode specific timescales, offering a potential alternative to ad hoc guidance tuning.
+
+
+### Generative Modeling via Drifting
+**Authors**: Mingyang Deng, He Li, Tianhong Li, Yilun Du, Kaiming He
+
+**Published Date**: 2026-02-04
+
+**Updated Date**: 2026-02-04
+
+**PDF Url**: [2602.04770v1](https://arxiv.org/pdf/2602.04770v1)
+
+**Abstract**: Generative modeling can be formulated as learning a mapping f such that its pushforward distribution matches the data distribution. The pushforward behavior can be carried out iteratively at inference time, for example in diffusion and flow-based models. In this paper, we propose a new paradigm called Drifting Models, which evolve the pushforward distribution during training and naturally admit one-step inference. We introduce a drifting field that governs the sample movement and achieves equilibrium when the distributions match. This leads to a training objective that allows the neural network optimizer to evolve the distribution. In experiments, our one-step generator achieves state-of-the-art results on ImageNet at 256 x 256 resolution, with an FID of 1.54 in latent space and 1.61 in pixel space. We hope that our work opens up new opportunities for high-quality one-step generation.
+
+
+### Causal-Adapter: Taming Text-to-Image Diffusion for Faithful Counterfactual Generation
+**Authors**: Lei Tong, Zhihua Liu, Chaochao Lu, Dino Oglic, Tom Diethe, Philip Teare, Sotirios A. Tsaftaris, Chen Jin
+
+**Published Date**: 2025-09-29
+
+**Updated Date**: 2026-02-04
+
+**PDF Url**: [2509.24798v5](https://arxiv.org/pdf/2509.24798v5)
+
+**Abstract**: We present Causal-Adapter, a modular framework that adapts frozen text-to-image diffusion backbones for counterfactual image generation. Our method supports causal interventions on target attributes and consistently propagates their effects to causal dependents while preserving the core identity of the image. Unlike prior approaches that rely on prompt engineering without explicit causal structure, Causal-Adapter leverages structural causal modeling with two attribute-regularization strategies: (i) prompt-aligned injection, which aligns causal attributes with textual embeddings for precise semantic control, and (ii) a conditioned token contrastive loss that disentangles attribute factors and reduces spurious correlations. Causal-Adapter achieves state-of-the-art performance on both synthetic and real-world datasets, including up to a 91% reduction in MAE on Pendulum for accurate attribute control and up to an 87% reduction in FID on ADNI for high-fidelity MRI generation. These results demonstrate robust, generalizable counterfactual editing with faithful attribute modification and strong identity preservation. Code and models will be released at: https://leitong02.github.io/causaladapter/.
+
+
+### Unlocking hidden biomolecular conformational landscapes in diffusion models at inference time
+**Authors**: Daniel D. Richman, Jessica Karaguesian, Carl-Mikael Suomivuori, Ron O. Dror
+
+**Published Date**: 2025-12-02
+
+**Updated Date**: 2026-02-04
+
+**PDF Url**: [2512.03312v2](https://arxiv.org/pdf/2512.03312v2)
+
+**Abstract**: The function of biomolecules such as proteins depends on their ability to interconvert between a wide range of structures or "conformations." Researchers have endeavored for decades to develop computational methods to predict the distribution of conformations, which is far harder to determine experimentally than a static folded structure. We present ConforMix, an inference-time algorithm that enhances sampling of conformational distributions using a combination of classifier guidance, filtering, and free energy estimation. Our approach upgrades diffusion models -- whether trained for static structure prediction or conformational generation -- to enable more efficient discovery of conformational variability without requiring prior knowledge of major degrees of freedom. ConforMix is orthogonal to improvements in model pretraining and would benefit even a hypothetical model that perfectly reproduced the Boltzmann distribution. Remarkably, when applied to a diffusion model trained for static structure prediction, ConforMix captures structural changes including domain motion, cryptic pocket flexibility, and transporter cycling, while avoiding unphysical states. Case studies of biologically critical proteins demonstrate the scalability, accuracy, and utility of this method.
+
+
+## Quantitative Finance
+### Quantum Speedups for Derivative Pricing Beyond Black-Scholes
+**Authors**: Dylan Herman, Yue Sun, Jin-Peng Liu, Marco Pistoia, Charlie Che, Rob Otter, Shouvanik Chakrabarti, Aram Harrow
+
+**Published Date**: 2026-02-03
+
+**Updated Date**: 2026-02-03
+
+**PDF Url**: [2602.03725v1](https://arxiv.org/pdf/2602.03725v1)
+
+**Abstract**: This paper explores advancements in quantum algorithms for derivative pricing of exotics, a computational pipeline of fundamental importance in quantitative finance. For such cases, the classical Monte Carlo integration procedure provides the state-of-the-art provable, asymptotic performance: polynomial in problem dimension and quadratic in inverse-precision. While quantum algorithms are known to offer quadratic speedups over classical Monte Carlo methods, end-to-end speedups have been proven only in the simplified setting over the Black-Scholes geometric Brownian motion (GBM) model. This paper extends existing frameworks to demonstrate novel quadratic speedups for more practical models, such as the Cox-Ingersoll-Ross (CIR) model and a variant of Heston's stochastic volatility model, utilizing a characteristic of the underlying SDEs which we term fast-forwardability. Additionally, for general models that do not possess the fast-forwardable property, we introduce a quantum Milstein sampler, based on a novel quantum algorithm for sampling Lévy areas, which enables quantum multi-level Monte Carlo to achieve quadratic speedups for multi-dimensional stochastic processes exhibiting certain correlation types.
+  We also present an improved analysis of numerical integration for derivative pricing, leading to substantial reductions in the resource requirements for pricing GBM and CIR models. Furthermore, we investigate the potential for additional reductions using arithmetic-free quantum procedures. Finally, we critique quantum partial differential equation (PDE) solvers as a method for derivative pricing based on amplitude estimation, identifying theoretical barriers that obstruct achieving a quantum speedup through this approach. Our findings significantly advance the understanding of quantum algorithms in derivative pricing, addressing key challenges and open questions in the field.
+
+
+### Dual Attainment in Multi-Period Multi-Asset Martingale Optimal Transport and Its Computation
+**Authors**: Charlie Che, Tongseok Lim, Yue Sun
+
+**Published Date**: 2026-02-03
+
+**Updated Date**: 2026-02-03
+
+**PDF Url**: [2602.02996v1](https://arxiv.org/pdf/2602.02996v1)
+
+**Abstract**: We establish dual attainment for the multimarginal, multi-asset martingale optimal transport (MOT) problem, a fundamental question in the mathematical theory of model-independent pricing and hedging in quantitative finance. Our main result proves the existence of dual optimizers under mild regularity and irreducibility conditions, extending previous duality and attainment results from the classical and two-marginal settings to arbitrary numbers of assets and time periods. This theoretical advance provides a rigorous foundation for robust pricing and hedging of complex, path-dependent financial derivatives. To support our analysis, we present numerical experiments that demonstrate the practical solvability of large-scale discrete MOT problems using the state-of-the-art primal-dual linear programming (PDLP) algorithm. In particular, we solve multi-dimensional (or vectorial) MOT instances arising from the robust pricing of worst-of autocallable options, confirming the accuracy and feasibility of our theoretical results. Our work advances the mathematical understanding of MOT and highlights its relevance for robust financial engineering in high-dimensional and model-uncertain environments.
+
+
+### Efficient Counterfactual Estimation of Conditional Greeks via Malliavin-based Weak Derivatives
+**Authors**: Vikram Krishnamurthy, Luke Snow
+
+**Published Date**: 2026-02-02
+
+**Updated Date**: 2026-02-02
+
+**PDF Url**: [2602.02811v1](https://arxiv.org/pdf/2602.02811v1)
+
+**Abstract**: We study counterfactual gradient estimation of conditional loss functionals of diffusion processes. In quantitative finance, these gradients are known as conditional Greeks: the sensitivity of expected market values, conditioned on some event of interest. The difficulty is that when the conditioning event has vanishing or zero probability, naive Monte Carlo estimators are prohibitively inefficient; kernel smoothing, though common, suffers from slow convergence. We propose a two-stage kernel-free methodology. First, we show using Malliavin calculus that the conditional loss functional of a diffusion process admits an exact representation as a Skorohod integral, yielding classical Monte-Carlo estimator variance and convergence rates. Second, we establish that a weak derivative estimate of the conditional loss functional with respect to model parameters can be evaluated algorithmically with constant variance, in contrast to the widely used score function method whose variance grows linearly in the sample path length. Together, these results yield an efficient framework for counterfactual conditional stochastic gradient algorithms and financial Greek computations in rare-event regimes.
+
+
+### ASRI: An Aggregated Systemic Risk Index for Cryptocurrency Markets
+**Authors**: Murad Farzulla, Andrew Maksakov
+
+**Published Date**: 2026-02-01
+
+**Updated Date**: 2026-02-01
+
+**PDF Url**: [2602.03874v1](https://arxiv.org/pdf/2602.03874v1)
+
+**Abstract**: Cryptocurrency markets have grown to represent over $3 trillion in capitalization, yet no unified index exists to monitor the systemic risks arising from the interconnection between decentralized finance (DeFi) protocols and traditional financial institutions. This paper introduces the Aggregated Systemic Risk Index (ASRI), a composite measure comprising four weighted sub-indices: Stablecoin Concentration Risk (30%), DeFi Liquidity Risk (25%), Contagion Risk (25%), and Regulatory Opacity Risk (20%). We derive theoretical foundations for each component, specify quantitative formulas incorporating data from DeFi Llama, Federal Reserve FRED, and on-chain analytics, and validate the framework against historical crisis events including the Terra/Luna collapse (May 2022), the Celsius/3AC contagion (June 2022), the FTX bankruptcy (November 2022), and the SVB banking crisis (March 2023). Event study analysis detects statistically significant abnormal signals for all four crises (t-statistics 5.47-32.64, all p < 0.01), though threshold-based operational detection identifies three of four events with an average lead time of 18 days. A three-regime Hidden Markov Model identifies distinct Low Risk, Moderate, and Elevated states with regime persistence exceeding 94%. Out-of-sample specificity testing on 2024-2025 data confirms zero false positives. The ASRI framework addresses a critical gap in existing risk monitoring by capturing DeFi-specific vulnerabilities -- composability risk, flash loan exposure, and tokenized real-world asset linkages -- that traditional systemic risk measures cannot accommodate.
+
+

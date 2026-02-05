@@ -251,6 +251,39 @@ TODO:
 
 
 
+
+## Update on 2026-02-05
+
+### Physics
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2025-11-14|2026-02-04|Robust inverse material design with physical guarantees using the Voigt-Reuss Net|Sanath Keshav|[2511.11388v2](https://arxiv.org/pdf/2511.11388v2)|
+|2025-10-21|2026-02-04|GoodRegressor: A General-Purpose Symbolic Regression Framework for Physically Interpretable Materials Modeling|Seong-Hoon Jang|[2510.18325v5](https://arxiv.org/pdf/2510.18325v5)|
+|2026-02-04|2026-02-04|CRoSS: A Continual Robotic Simulation Suite for Scalable Reinforcement Learning with High Task Diversity and Realistic Physics Simulation|Yannick Denker|[2602.04868v1](https://arxiv.org/pdf/2602.04868v1)|
+|2026-02-04|2026-02-04|From Evaluation to Design: Using Potential Energy Surface Smoothness Metrics to Guide Machine Learning Interatomic Potential Architectures|Ryan Liu|[2602.04861v1](https://arxiv.org/pdf/2602.04861v1)|
+|2026-02-04|2026-02-04|Digital signatures with classical shadows on near-term quantum computers|Pradeep Niroula|[2602.04859v1](https://arxiv.org/pdf/2602.04859v1)|
+|2025-09-08|2026-02-04|Fermi Geometry of the Higgs Sector|Nathaniel Craig|[2509.07101v2](https://arxiv.org/pdf/2509.07101v2)|
+|2026-02-04|2026-02-04|Finite-dimensional algebras, gauge-string duality and thermodynamics|Sanjaye Ramgoolam|[2602.04845v1](https://arxiv.org/pdf/2602.04845v1)|
+|2023-04-06|2026-02-04|Spin-momentum Locking and Topological Vector Charge Response with Conserved Spin|Yoonseok Hwang|[2304.03301v2](https://arxiv.org/pdf/2304.03301v2)|
+|2025-05-29|2026-02-04|Exploring the keV-scale physics potential of CUORE|CUORE Collaboration|[2505.23955v2](https://arxiv.org/pdf/2505.23955v2)|
+|2026-02-02|2026-02-04|UniReason 1.0: A Unified Reasoning Framework for World Knowledge Aligned Image Generation and Editing|Dianyi Wang|[2602.02437v2](https://arxiv.org/pdf/2602.02437v2)|
+
+### Diffusion
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-02-02|2026-02-04|Personalized Image Generation via Human-in-the-loop Bayesian Optimization|Rajalaxmi Rajagopalan|[2602.02388v2](https://arxiv.org/pdf/2602.02388v2)|
+|2026-02-04|2026-02-04|Dynamical Regimes of Multimodal Diffusion Models|Emil Albrychiewicz|[2602.04780v1](https://arxiv.org/pdf/2602.04780v1)|
+|2026-02-04|2026-02-04|Generative Modeling via Drifting|Mingyang Deng|[2602.04770v1](https://arxiv.org/pdf/2602.04770v1)|
+|2025-09-29|2026-02-04|Causal-Adapter: Taming Text-to-Image Diffusion for Faithful Counterfactual Generation|Lei Tong|[2509.24798v5](https://arxiv.org/pdf/2509.24798v5)|
+|2025-12-02|2026-02-04|Unlocking hidden biomolecular conformational landscapes in diffusion models at inference time|Daniel D. Richman|[2512.03312v2](https://arxiv.org/pdf/2512.03312v2)|
+
+### Quantitative Finance
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-02-03|2026-02-03|Quantum Speedups for Derivative Pricing Beyond Black-Scholes|Dylan Herman|[2602.03725v1](https://arxiv.org/pdf/2602.03725v1)|
+|2026-02-03|2026-02-03|Dual Attainment in Multi-Period Multi-Asset Martingale Optimal Transport and Its Computation|Charlie Che|[2602.02996v1](https://arxiv.org/pdf/2602.02996v1)|
+|2026-02-02|2026-02-02|Efficient Counterfactual Estimation of Conditional Greeks via Malliavin-based Weak Derivatives|Vikram Krishnamurthy|[2602.02811v1](https://arxiv.org/pdf/2602.02811v1)|
+|2026-02-01|2026-02-01|ASRI: An Aggregated Systemic Risk Index for Cryptocurrency Markets|Murad Farzulla|[2602.03874v1](https://arxiv.org/pdf/2602.03874v1)|
 ## Update on 2026-01-31
 
 ### Physics
