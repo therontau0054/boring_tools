@@ -300,6 +300,44 @@ TODO:
 
 
 
+
+## Update on 2026-07-25
+
+### World Model
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-07-23|2026-07-23|3D-Aware VLMs with Implicit and Explicit Geometries|Wenhao Li|[2607.21595v1](https://arxiv.org/pdf/2607.21595v1)|
+|2026-07-23|2026-07-23|Streaming Multi-Agent Autoregressive Diffusion Model with World State Registers|Sicheng Mo|[2607.21594v1](https://arxiv.org/pdf/2607.21594v1)|
+|2026-07-23|2026-07-23|Expanding Flow Maps|Sophia Tang|[2607.21585v1](https://arxiv.org/pdf/2607.21585v1)|
+|2026-07-23|2026-07-23|GraphVid: Interactive Graph-Controllable Video Generation|Vedant Shah|[2607.21580v1](https://arxiv.org/pdf/2607.21580v1)|
+|2026-07-23|2026-07-23|Synthetic data generation framework for quality control automation in gravure printing|Korota Arsène Coulibaly|[2607.21577v1](https://arxiv.org/pdf/2607.21577v1)|
+|2026-07-23|2026-07-23|Beyond Sufficiency: Time Series Explanation with Counterfactual Necessity|Hongnan Ma|[2607.21573v1](https://arxiv.org/pdf/2607.21573v1)|
+
+### Generation
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-07-23|2026-07-23|Beyond Sycophancy: Structured Resistance and Compliance in LLM Moral Reasoning|Baihui Wang|[2607.21558v1](https://arxiv.org/pdf/2607.21558v1)|
+|2026-07-23|2026-07-23|Visual Contrastive Self-Distillation|Yijun Liang|[2607.21556v1](https://arxiv.org/pdf/2607.21556v1)|
+|2026-07-23|2026-07-23|X$^3$-OPD: Distilling Reasoning into Large Audio-Language Models via On-Policy Alignment|Dongjie Fu|[2607.21550v1](https://arxiv.org/pdf/2607.21550v1)|
+|2026-07-23|2026-07-23|Windowed-MTP: Removing the Full-Context Draft-KV Tax at Million-Token Context|Alagappan Valliappan|[2607.21535v1](https://arxiv.org/pdf/2607.21535v1)|
+|2026-07-23|2026-07-23|From Resource Flow to Executable Tests: Petri-Net-Guided LLM Test Generation for Concurrent Stateful Rust APIs|Kaiwen Zhang|[2607.21530v1](https://arxiv.org/pdf/2607.21530v1)|
+|2026-07-23|2026-07-23|ElasticTTT: Prior-Preserving Test-Time Tuning for Video Editing|Yueyi Liu|[2607.21529v1](https://arxiv.org/pdf/2607.21529v1)|
+
+### VLA
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-07-23|2026-07-23|HyWorldVLA: A Vision-Language-Action Model with Hybrid World Modeling for Autonomous Driving|Quanfu Yu|[2607.20988v1](https://arxiv.org/pdf/2607.20988v1)|
+|2026-07-22|2026-07-22|Emergent Compositional Skills in Mixture-of-Experts VLAs|Shlok Shah|[2607.20771v1](https://arxiv.org/pdf/2607.20771v1)|
+
+### Agent
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-07-23|2026-07-23|OpenForgeRL: Train Harness-native Agents in Any Environment|Xiao Yu|[2607.21557v1](https://arxiv.org/pdf/2607.21557v1)|
+|2026-07-23|2026-07-23|GS-Agent: Creating 4D Physical Worlds With Generative Simulation|Hongxin Zhang|[2607.21522v1](https://arxiv.org/pdf/2607.21522v1)|
+|2026-07-23|2026-07-23|Same Dangerous Objective, Opposite Advice: Direct Exposure versus Multi-Agent Mediation|Linjun Li|[2607.21518v1](https://arxiv.org/pdf/2607.21518v1)|
+|2026-07-23|2026-07-23|Agentic Context Management: Solving Agent Memory and Cost by Treating Them as Lifecycle and Architecture Problems|Gaurav Dadhich|[2607.21503v1](https://arxiv.org/pdf/2607.21503v1)|
+|2026-07-23|2026-07-23|Toward Continuous Assurance for the Democratization of AI Agent Creation in Industry|Natan Levy|[2607.21495v1](https://arxiv.org/pdf/2607.21495v1)|
+|2026-07-23|2026-07-23|Compact Latent Coordination for Autonomous Vehicles at Unsignalized Intersections|Gil Lifshits|[2607.21488v1](https://arxiv.org/pdf/2607.21488v1)|
 ## Update on 2026-07-23
 
 ### World Model
