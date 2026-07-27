@@ -1,0 +1,224 @@
+# Abstracts of Papers
+
+## World Model
+### Robot-Factored World Models via Robot Rendering
+**Authors**: Byungjun Kim, Taeksoo Kim, Hyunsoo Cha, Hanbyul Joo
+
+**Published Date**: 2026-07-24
+
+**Updated Date**: 2026-07-24
+
+**PDF Url**: [2607.22535v1](https://arxiv.org/pdf/2607.22535v1)
+
+**Abstract**: Action-conditioned video world models predict future observations from an initial observation and an action signal. In robotics, actions influence future observations through two distinct processes: they are first realized into robot motion by the robot body and controller, and the scene then responds through contact and object motion. Conditioning directly on action commands asks the world model to learn the realization process itself, while conditioning on logged future states leaks the interaction outcomes it is meant to predict. We propose robot-factored world models, which move two robot-specific factors outside the world model. First, action realization: each command is rolled through the robot's own controller and kinematics into a deployment-available nominal trajectory, a middle signal that avoids both action-realization learning and future-state leakage. Second, robot rendering: this nominal trajectory is rendered through the robot URDF, factoring the robot's geometry, kinematics, and appearance out of the model and into explicit rendered robot geometry. To resolve depth ambiguity, we pair end-effector depth with scene depth, giving geometric cues for contact and occlusion beyond image-plane overlap. Together, camera-aware static RGB/depth context and rendered robot geometry form a shared visual world-model interface that stays consistent across viewpoints and robot embodiments, so the model sees the action only as visible robot geometry and learns how objects respond to it. Our experiments show that the rendered interface outperforms vector-conditioned baselines and generalizes to unseen robot embodiments at inference. We further demonstrate that our model generates robot manipulation videos from human demonstrations by retargeting and rendering the hand motion as robot geometry.
+
+
+### SM4RT: Learning Structured Motion Geometry for 4D Reconstruction
+**Authors**: Shing Ho J. Lin, Wenzhao Zheng, Dong Zhuo, Yuqi Wu, Jie Zhou, Jiwen Lu
+
+**Published Date**: 2026-07-24
+
+**Updated Date**: 2026-07-24
+
+**PDF Url**: [2607.22534v1](https://arxiv.org/pdf/2607.22534v1)
+
+**Abstract**: Geometry Foundation Models (GFMs) have substantially advanced monocular 3D reconstruction, yet extending this capability to 4D dynamic understanding remains a fundamental challenge. Most existing motion perception methods (e.g., sparse tracking, dense point-wise flow) treat motion as independent point-wise displacements, ignoring the structured nature of physical motion. However, real-world objects usually obey rigid-body kinematics, and points thus usually move collectively, not in isolation. Motion itself possesses geometric structure: physical objects undergo a set of rigid-body transformations governed by SE(3), rather than unstructured point-wise displacements. Building on this insight, we propose SM4RT, a Structured Motion 4D Reconstruction Transformer for end-to-end 3D reconstruction and structured motion perception. SM4RT introduces Structure-of-Motion to represent scene dynamics, where scene motion is decomposed into a compact set of motion bases, each represented as a temporal sequence of 6D twists in SE(3). Dense scene motion is then recovered by sparse, time-shared per-pixel assignment weights over these bases, ensuring points on the same object share a common rigid-body motion trajectory. SM4RT introduces a parallel motion geometry encoder and decoder that jointly infer 3D geometry, world-coordinate motion, and scene kinematic structure in a single forward pass from monocular RGB video. SM4RT achieves strong motion reconstruction performance while preserving the geometric structure of scene motion.
+
+
+### ViTacWorld: Scaling Visuo-Tactile World Models for Contact-Rich Robot Manipulation
+**Authors**: Yunao Huang, Shiyu Sang, Haotao Lu, Suting Ni, Shijie Wu, Ziyang Guo, Ye Shi, Jingya Wang
+
+**Published Date**: 2026-07-24
+
+**Updated Date**: 2026-07-24
+
+**PDF Url**: [2607.22530v1](https://arxiv.org/pdf/2607.22530v1)
+
+**Abstract**: Contact-rich robot manipulation requires physical interaction cues that are often invisible to cameras, making tactile sensing essential for robust control. However, scaling visuo-tactile robot learning remains difficult because real tactile interaction data are expensive to collect, hardware-dependent, and limited in task and scene diversity. We present ViTacWorld, an action-conditioned visuo-tactile world model for scalable contact-rich robot manipulation. ViTacWorld leverages public real tactile datasets and a constructed simulation environment to scale visuo-tactile-action data, exploiting the fact that tactile signals are directly grounded in physical contact and can exhibit a smaller simulation-to-real gap than purely visual observations. The model is first pretrained with large-scale real and simulated visuo-tactile trajectories, and then finetuned with real-world policy rollouts to better match downstream manipulation behaviors. Given robot actions, ViTacWorld predicts temporally aligned visual observations and tactile feedback, enabling visuo-tactile-action rollout generation. To the best of our knowledge, ViTacWorld is the first framework that uses a world model for robot visuo-tactile-action trajectory generation and policy evaluation. It serves two roles: synthesizing rollouts to improve downstream tactile policies, and evaluating policies by predicting action-conditioned visuo-tactile outcomes under controlled action sequences. Experiments on contact-rich manipulation tasks show that ViTacWorld generates physically meaningful rollouts, improves policy performance through scalable data augmentation, and enables action-conditioned policy evaluation. Project page: https://vitacworld.github.io/
+
+
+### The Regression Tax: Decomposing Why Skills Help and Hurt LLM Agents
+**Authors**: Darshan Tank, Baran Nama
+
+**Published Date**: 2026-07-24
+
+**Updated Date**: 2026-07-24
+
+**PDF Url**: [2607.22520v1](https://arxiv.org/pdf/2607.22520v1)
+
+**Abstract**: Adding procedural skills to an LLM agent is typically evaluated by average improvement in task success. However, this metric hides an important cost: skills can also make agents worse. We measure both sides by comparing agents with and without skills across nearly 6,000 runs spanning two office automation benchmarks and three model harness stacks. This allows us to distinguish two outcomes. A regression is a task solved without skills but failed after skills are added. A residual failure is a task that fails both with and without skills. We find that regressions are substantial enough that the best performing skills outperform others primarily by regressing less, not by gaining more. We identify three causes of regression: (i) skill description osmosis, a skill changes an agent's behavior simply by being present in context, even when it is never invoked; (ii) grounding displacement, a skill's prescribed procedure overrides how the agent interprets its inputs; and (iii) verification displacement, where the procedure suppresses checks the agent would otherwise perform on its outputs. Analysing persistent failures reveals the same underlying pattern. Existing skills overemphasize procedural guidance the stage least often responsible for failure while under supporting grounding and verification, the dominant sources of remaining errors. After correcting evaluation artifacts and studying traces, we find many regressions and persistent failures recoverable through better grounding and verification. Procedural skills should be evaluated by decomposing their net effect into gains and regressions, not by aggregate improvement alone. We identify three regression modes skills should avoid, and find that reliability depends more on grounding and verification than on procedural skill choice.
+
+
+### PinEqualizer: Full Funnel Content Exploration and Debiasing System at Pinterest
+**Authors**: Olafur Gudmundsson, Bo Zhao, Huayi Liao, Anna Kiyantseva, Sai Xiao, Heath Vinicombe, Mostafa Keikha, Luke DeLuccia, Zihao Chen, Junpeng Hou, Weijie Jiang, Bhawna Juneja, Andreanne Lemay, Wei-Ting Lin, Keyvan Moghadam, Jiaxing Qu, Zhiqing Rao, Zhihua Zhang
+
+**Published Date**: 2026-07-24
+
+**Updated Date**: 2026-07-24
+
+**PDF Url**: [2607.22518v1](https://arxiv.org/pdf/2607.22518v1)
+
+**Abstract**: In this paper, we propose a new solution for addressing the content cold-start problem in industry-scale search and recommender systems. Compared to prior approaches, we have made the following new contributions: 1) our solution spans the entire multi-stage funnel and generalizes well for both search and recommendation surfaces, 2) our solution reduces bias favoring existing content, allowing more accurate model prediction across content types and reducing short-term tradeoffs associated with high volumes of explicit content exploration, 3) our solution is evaluated with a scalable measurement framework that enables fast short-term experimentation while validating long-term impact. We have iteratively built and successfully deployed this new system at Pinterest in the past two years and observed significant improvements in fresh content exploration, overall user engagement, and content ecosystem health.
+
+
+### Quantum Spectral Model: Data Reuploading with Input-Conditioned Frequency Support
+**Authors**: Peiyong Wang, Udaya Parampalli, Casey R. Myers
+
+**Published Date**: 2026-07-24
+
+**Updated Date**: 2026-07-24
+
+**PDF Url**: [2607.22516v1](https://arxiv.org/pdf/2607.22516v1)
+
+**Abstract**: A central design principle in modern machine learning and artificial intelligence is to align a model's inductive bias with the structure of its input data. For matrix-valued inputs, relevant matrix-level relationships can be characterised through spectral values and spectral subspaces; however, common coordinate-wise rotation-gate data-encoding unitaries used in most quantum machine learning models do not explicitly construct such a matrix-level representation. We introduce Quantum Spectral Models (QSMs), in which we construct the generator of the data-encoding unitary directly from each input matrix. We study three QSM variants based on symmetric, global block, and non-overlapping patch-local block Hamiltonians. Their outputs admit truncated Fourier representations in which input-dependent spectral gaps supply candidate phase carriers, while spectral subspaces help determine their coefficients. We evaluate the QSMs and comparison quantum models on two matrix representations of Pendigits and two controlled synthetic tasks defined by spectral statistics. At the largest evaluated circuit depth, QSM variants lead the tested quantum models in mean test accuracy across all four benchmarks. The patch-local QSM leads on Pendigits, whereas the global block-Hamiltonian QSM leads on the controlled spectral tasks. Ablations show a task-dependent reversal: subspace-preserving controls perform better on Pendigits, whereas spectral-value-only controls lead among the tested ablations on the synthetic tasks. Together, these results shed new light on quantum machine-learning model design by showing how input-conditioned spectral representations can provide an analysable inductive bias, while offering a broader perspective on structure-aware model design in machine learning and artificial intelligence.
+
+
+## Generation
+### CausalForge: A Formally Grounded, Self-Improving Agentic Framework for Automated Research in Causal Inference
+**Authors**: Jiyuan Tan, Vasilis Syrgkanis
+
+**Published Date**: 2026-07-24
+
+**Updated Date**: 2026-07-24
+
+**PDF Url**: [2607.22511v1](https://arxiv.org/pdf/2607.22511v1)
+
+**Abstract**: Automating theoretical research is constrained not only by the generation of candidate results, but also by their reliable evaluation. A common approach is to close the research loop with a large language model (LLM) reviewer. However, such reviewers remain empirically unreliable: they may accept fabricated papers and detect them at rates close to chance (Bad Scientist, 2025). We present CausalForge, a framework for automated theoretical research in causal inference grounded in the Lean proof assistant. CausalForge combines Causalean, a foundational Lean library for causal inference containing 7,035 machine-checked declarations developed with language-model assistance under human design and review, with CausalSmith, a self-improving agentic pipeline that selects research topics, proposes results, formalizes statements, constructs proofs, and presents the resulting artifacts for human inspection. Because a machine-checked proof establishes only that a formal statement follows from its assumptions, not that the statement faithfully captures the intended scientific claim, the pipeline augments kernel verification with a statement audit that compares each formal theorem against the informal claim it is intended to express. We evaluate the system using artifacts produced by completed autonomous research runs. The source code, formal library, and run records are available at https://github.com/Jiyuan-Tan/CausalForge.
+
+
+### Beyond Negative-Ridge Endpoints: Mixed-Sign Spectral Regularization via Negative-Shifted Gradient Descent
+**Authors**: Peng Zhao
+
+**Published Date**: 2026-07-24
+
+**Updated Date**: 2026-07-24
+
+**PDF Url**: [2607.22474v1](https://arxiv.org/pdf/2607.22474v1)
+
+**Abstract**: In overparameterized linear regression, many weak spectral directions act like a ridge penalty on the signal-bearing spectrum; negative ridge is the natural correction, pushing filters above one. The stable negative-ridge endpoint, however, is structurally limited: its pole must stay below the smallest nonzero empirical eigenvalue, and it anti-shrinks smaller eigenvalues more than larger ones. Early-stopped negative-shifted gradient descent escapes this constraint. Its filter is smooth at the would-be pole and mixed-sign-capable: above-ridgeless directions form a leading prefix, with lower directions shrunk or exposure-controlled while stopping sets the crossover. In a Gaussian spike-plus-flat model we discover a Marchenko-Pastur barrier: the shift that cancels the implicit penalty lies a bulk width above the smallest empirical eigenvalue, and the stopped path improves on every admissible endpoint by a polynomial factor in risk under explicit conditions. Our main theorem permits a general high-effective-rank tail: its trace sets the implicit floor, its squared spectrum controls exposure, and the floor-critical path recovers all head scales at once, beyond positive shrinkage and, once scales separate, every uniform rescaling of ridgeless. Handling the noncontractive shifted dynamics is the central technical challenge; localized Duhamel integrals control them. A finite-grid hold-out inequality transfers the separations to the validation-selected algorithm.
+
+
+### MineValiCoder: Reliable Code Generation with Test Case Quality Mining and Bipartite Graph-Based Mutual Validation
+**Authors**: Zhen Zhao, Qihang Yang, Feifei Dai, Xiangfang Li, Bo Li
+
+**Published Date**: 2026-07-24
+
+**Updated Date**: 2026-07-24
+
+**PDF Url**: [2607.22471v1](https://arxiv.org/pdf/2607.22471v1)
+
+**Abstract**: Large Language Model (LLM)-based Test-Driven Development (TDD) has advanced automated code generation. However, existing approaches depend heavily on human-crafted test cases and cannot operate effectively when only natural-language requirements are available. Although recent work enables automatic test generation, it often overlooks the inherent stochasticity of LLMs, leading to two key defects: faulty tests generate misleading feedback that distorts code optimization, while mixed-quality test cases produce conflicting evaluation signals that hinder reliable code selection.
+  To address these challenges, we propose MineValiCoder, a collaborative closed-loop TDD framework based on the mutual reinforcement of test-case quality and code quality. MineValiCoder comprises three modules. The Test Case Quality Mining (TCQM) module filters faulty test cases through self-validation, providing reliable optimization supervision. The Parallel TDD Refinement module iteratively optimizes code and generates diverse high-quality code candidates using validated test-case feedback. The Bipartite Graph-Based Code-Test Mutual Validation (BiCoTeV) module dynamically models code-test interactions and performs mutual validation scoring for stable and reliable optimal-code selection.
+  Extensive evaluations across four LLMs and mainstream benchmarks show that MineValiCoder significantly outperforms state-of-the-art methods. Specifically, it achieves Pass@1 scores of 96.34% on HumanEval, 87.40% on MBPP, 64.00% on APPS, and 51.33% on LiveCodeBench. These results demonstrate the effectiveness of MineValiCoder in mitigating LLM stochasticity and improving the reliability of automated code generation.
+
+
+### Learning to Prepare Molecular Ground States with Transformer Models
+**Authors**: Alex Koziell-Pipe, Jasmine Brewer, Jem Guhit, Marwa H. Farag, Kripa Panchagnula, Gabriel Laude, Fabian Finger, Carlo Gaggioli, Ludmila Szulakowska, Oliver J. Backhouse, Christos Papalitsas, Jason G. Mustakis, Thomas Soini, David Munoz Ramo, Stephen Clark, Elica Kyoseva, Enrico Rinaldi
+
+**Published Date**: 2026-07-24
+
+**Updated Date**: 2026-07-24
+
+**PDF Url**: [2607.22468v1](https://arxiv.org/pdf/2607.22468v1)
+
+**Abstract**: Quantum state preparation is a key component of many quantum algorithms. Performing this step efficiently is essential for realizing practical quantum advantage in quantum chemistry applications. Iterative algorithms like ADAPT-VQE can produce shallow ground-state preparation circuits, but become computationally prohibitive for the larger molecules relevant to materials science and pharmaceutical development. Here, we introduce ADAPT-GQE, a generative AI framework that learns to synthesize ground-state preparation circuits for electronic structure calculations. We first use ADAPT-VQE to generate high-quality reference circuits, which are then used as targets for training models for circuit generation. Once trained, the model can efficiently propose and score circuits, enabling reinforcement learning (RL) to drive circuit generation accuracy beyond the accuracy of the ADAPT-VQE training data. This pipeline achieves order-of-magnitude reductions in circuit generation time relative to ADAPT-VQE while maintaining comparable or improved state-preparation accuracy. We demonstrate ADAPT-GQE on imipramine, a well-established tricyclic antidepressant that serves as a representative, challenging target for computational modelling in drug stability protocols. We execute generated circuits on Quantinuum Helios-1, representing a milestone for AI-generated quantum chemistry circuits on state-of-the-art quantum hardware. These results establish a pathway toward automated quantum circuit synthesis for utility-scale quantum computational chemistry.
+
+
+### Complexity Bounds and Approaches to Learning Projected Gradient Descent Solver Iterates
+**Authors**: Anjian Li, Ryne Beeson
+
+**Published Date**: 2026-07-24
+
+**Updated Date**: 2026-07-24
+
+**PDF Url**: [2607.22467v1](https://arxiv.org/pdf/2607.22467v1)
+
+**Abstract**: Data scarcity poses a fundamental challenge in training generative models to produce initial guesses for parametric optimization problems that are otherwise numerically expensive to solve. We therefore study a $k$-neighborhood data collection strategy that augments datasets of converged solutions with intermediate solver iterates, increasing the amount of training data without additional solver runs. To understand the benefits of this approach, we derive a generalization bound based on Rademacher complexity that reveals the role of the $k$-neighborhoods and related parameters. To achieve this result, we focus on one-sided box-constrained quadratic programs solved by projected gradient descent. We illustrate the behavior of this solver on two examples. The approach proposed in this paper enables a more capable DDDAS paradigm by improving the efficiency of the data-model-optimization loop. We finish by discussing two views of learning solver-iterate data and connect our analysis with GLENS, a new data-efficient global search method.
+
+
+### Beyond Perspectives: A Trio-Ethnography of Interpretation Evolution in LLM-Supported Programming Education
+**Authors**: Jennie Ren, Jordan H. McDowell, Kyrie Zhixuan Zhou
+
+**Published Date**: 2026-07-24
+
+**Updated Date**: 2026-07-24
+
+**PDF Url**: [2607.22463v1](https://arxiv.org/pdf/2607.22463v1)
+
+**Abstract**: Generative AI is reshaping programming education, yet educators often infer students' AI-supported learning from classroom observations alone. This experience report presents a trio-ethnography involving two computing educators with different teaching philosophies and one undergraduate computer science student to examine how these interpretations evolve through dialogue. Across three conversations, the educators reflected on students' AI use, discussed changes to programming pedagogy, and revisited their assumptions after engaging with the student's lived experiences. Rather than simply confirming or contradicting the educators' perspectives, the student's narratives revealed learning processes that were largely invisible in the classroom, prompting both educators to reconsider assumptions about AI use, assessment, transparency, and programming instruction. We argue that trio-ethnography offers a valuable reflective approach for helping computing educators move beyond observable student behaviors toward a richer understanding of AI-supported learning and for informing instructional adaptation in the era of generative AI.
+
+
+## Agent
+### Explainable Reinforcement Learning for assisting Air Traffic Controllers
+**Authors**: Anduel Mehmeti, Gabriella Gigante, Salvatore Venticinque
+
+**Published Date**: 2026-07-24
+
+**Updated Date**: 2026-07-24
+
+**PDF Url**: [2607.22525v1](https://arxiv.org/pdf/2607.22525v1)
+
+**Abstract**: To effectively integrate AI into high-stakes, critical environments such as healthcare, autonomous driving, and aviation--and to advance toward higher levels of automation and seamless human-AI collaboration--building trust in AI-driven solutions is essential. Trust, in turn, is closely linked to the explainability of AI systems. The rapid advancements in AI across various domains have underscored the challenges of establishing trust, raising increasing interest in AI explainability even more when applied to deep learning. In this context, the present work aims to explore the application of explainability techniques to Reinforcement Learning (RL) algorithms, specifically within the safety-critical domain of Air Traffic Control (ATC). Using a simplified ATC environment as an initial testbed, an intelligent agent is trained with a reinforcement learning algorithm to make decisions on alternative flight routes that avoid no-fly zones. As a preliminary explainability approach, a saliency map is employed, providing insights into the input features that most significantly influence the agent's decision-making process.
+
+
+### TRACE-ROUTER: Task-Consistent and Adaptive Online Routing for Agentic AI
+**Authors**: Ritik Raj, Souvik Kundu, Sarbartha Banerjee, Dheemanth Joshi, Ishita Vohra, Tushar Krishna
+
+**Published Date**: 2026-07-24
+
+**Updated Date**: 2026-07-24
+
+**PDF Url**: [2607.22465v1](https://arxiv.org/pdf/2607.22465v1)
+
+**Abstract**: Routing to select large language models (LLMs) with different cost-quality trade-offs has become a fundamental deployment feature of enterprise AI. Existing routers, primarily make independent routing decisions for each LLM call. However, agentic applications execute as long-horizon workflows whose quality is determined only by a delayed, task-level outcome. This mismatch prevents per-call routers from correctly attributing feedback to individual routing decisions. Towards mitigating this, we present TRACE-Router, a task-level routing framework that aligns routing with the unit of supervision. TRACE-Router assigns each task to a model once at admission using a contextual bandit, pins all subsequent LLM calls to the selected backend, and updates its policy using the task's terminal reward, jointly accounting for accuracy and latency. By leveraging delayed task feedback, TRACE-Router learns routing policies that adapt to the workload while avoiding explicit task-complexity estimation. Across three agentic benchmarks, TRACE-Router consistently improves the accuracy-latency trade-off, achieving non-dominated Pareto frontier points. On tau2-Bench, it outperforms latency-matched interpolation between individual models by 7-8 accuracy points, while on Terminal-Bench it achieves 7.1 higher accuracy points than the strongest single model baseline with 36% lower latency.
+
+
+### Dynamic Capability Scoping for Enterprise AI Agents: A Synthetic Dataset and Three-Source Permission Architecture
+**Authors**: Halil Burak Noyan
+
+**Published Date**: 2026-07-24
+
+**Updated Date**: 2026-07-24
+
+**PDF Url**: [2607.22445v1](https://arxiv.org/pdf/2607.22445v1)
+
+**Abstract**: Enterprise AI agents are typically granted static credential sets at configuration time, holding every tool the role might need for every task they perform. This persistent over-privilege expands the attack surface. We argue that capability scoping must follow a dynamic least-privilege principle and be treated as a prevention mechanism before a detection one. A credential that does not exist in an agent's context cannot be misused regardless of the agent's reasoning or evasion sophistication. We outline a three-source architecture instantiating this principle: role-based ceilings, a task-context classifier, and policy-derived combination prohibitions creating a layered proactive defense against LLM agent misalignment and misuse cases. The architecture supports both enforcing and observe-only deployment; the latter records agent permission requests inconsistent with task context, producing a behavioral signal usable in misalignment research.
+  As a first step toward evaluating this architecture, we contribute a synthetic dataset of 600 enterprise task prompts grounded in a multi-department company policy, labeled with minimum required permissions across a 15-permission tool-based taxonomy that maps directly to deployable credentials or enforceable guardrails. The dataset is constructed via a two-pass pipeline that separates prompt generation from permission labeling to avoid circularity, and is validated against a 60-record/688 decisions human-reviewed sample (Cohen's $κ= 0.917$ pre-review and $κ= 0.967$ post-review). Iterating between dataset and policy reduced ceiling violations from 46 to 3, a 93% reduction. This shows that synthetic prompt generation can drive policy refinement when the two are developed together. The dataset, environment specification, and generation pipeline are released to support evaluation of dynamic scoping mechanisms.
+
+
+### A Self-Calibrating Agentic AI Framework for Autonomous Edge Resource Allocation
+**Authors**: Fin Gentzen, Marla Grunewald, Iulisloi Zacarias, Mounir Bensalem, Admela Jukan
+
+**Published Date**: 2026-07-24
+
+**Updated Date**: 2026-07-24
+
+**PDF Url**: [2607.22400v1](https://arxiv.org/pdf/2607.22400v1)
+
+**Abstract**: Large Language Models (LLMs) are increasingly deployed as autonomous agents, transitioning from static conversational interfaces to dynamic systems capable of complex reasoning, tool execution, and decision-making. However, the operational reliability of these agentic AI systems is fundamentally challenged by the absence of reliable ground truth in open-ended environments and the risk of increasing operational drift over time. To address this challenge, we propose and experimentally evaluate an agentic AI framework, designed to enforce autonomous integrity within LLM-driven systems. We design a self-calibration mechanism that mitigates drift and dynamically approximates ground truth by incorporating an ARIMA forecaster, without requiring continuous human oversight. To demonstrate the effectiveness and reliability of our methodology, we apply it to the complex domain of profiling the resource usage of zero-knowledge workloads in edge computing networks. Experimental results show that the proposed self-calibrating agentic framework successfully profiles the zero-knowledge workloads, achieving a higher accuracy than baseline LLM agents by 91.7% for resource usage prediction and improving the prediction speed by 71.7% compared to pure profiling, establishing a robust foundation for deploying autonomous AI in decentralized infrastructures. Furthermore, the ground truth generation using the proposed ARIMA leaping algorithm is 52% faster than a standard ARIMA forecasting algorithm, while achieving the same accuracy.
+
+
+### SceneActBench: Can Agents Act on the 3D Scenes They See?
+**Authors**: Yifei Zhao, Xiangxin Zhou, Wenhao Yang, Jiaqi Tang, Pu Jian, Huanjin Yao, Jiarui Yao, Haowei Lin, Chunchao Guo, Zhuo Chen, Wenkai Lyu, Jianzhu Ma, Xueqian Wang, Wenxi Zhu
+
+**Published Date**: 2026-07-24
+
+**Updated Date**: 2026-07-24
+
+**PDF Url**: [2607.22393v1](https://arxiv.org/pdf/2607.22393v1)
+
+**Abstract**: Vision-language model (VLM) agents increasingly use tools to act on 3D scenes rather than only describe them. Existing 3D benchmarks score textual responses or single-object operations, leaving agent action on complete multi-object 3D scenes under evaluated. We present SceneActBench, a benchmark for visually conditioned action across five 3D tasks under a unified agent-environment loop. Given PNG images or sampled video frames and, where applicable, supplied 3D assets, an agent acts on a 3D environment. We evaluate each final output against hidden ground truth with task-specific geometric metrics. SceneActBench comprises five tasks built from 210 source instances, yielding 520 task cases including paired input conditions. Every task runs through one fixed agent loop to keep the comparison fair. Across eleven proprietary VLM configurations, Overall scores span 38.6-50.2, and none performs consistently well across tasks. We further analyse where and how failures manifest.
+
+
+### Agentic Root Cause Analysis through Evidence-Grounded Reasoning
+**Authors**: Amaury Wei, Olga Fink
+
+**Published Date**: 2026-07-24
+
+**Updated Date**: 2026-07-24
+
+**PDF Url**: [2607.22385v1](https://arxiv.org/pdf/2607.22385v1)
+
+**Abstract**: Diagnosing the root cause of anomalies is essential for safe industrial operation. Despite extensive sensor instrumentation, formulating hypotheses and gathering evidence remains a manual process, creating a major operational bottleneck. While existing data-driven approaches aim to automate this, two critical limitations restrict their deployment: their operate as black boxes unable to justify their diagnosis, and they require scarce labeled examples of faulty operation. To address this gap, we introduce AgentRCA, a zero-shot agentic framework for evidence-grounded root cause analysis. Rather than learning fault-specific mappings, AgentRCA performs inference-time reasoning by combining a data-driven digital twin (modeling normal system dynamics) with a tool-augmented large language model. The agent iteratively gathers statistical evidence, evaluates competing hypotheses, and identifies the physical fault that best explains the observed behavior. Evaluated on a real-world multiphase-flow facility and a large-scale chemical plant, AgentRCA achieves diagnostic performance competitive with fully supervised baselines without relying on fault-specific training. Crucially, it produces transparent reasoning traces that explicitly link observed symptoms to their underlying physical causes. These results establish autonomous hypothesis-driven reasoning as a practical foundation for scalable industrial root cause analysis.
+
+

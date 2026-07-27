@@ -301,6 +301,38 @@ TODO:
 
 
 
+
+## Update on 2026-07-27
+
+### World Model
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-07-24|2026-07-24|Robot-Factored World Models via Robot Rendering|Byungjun Kim|[2607.22535v1](https://arxiv.org/pdf/2607.22535v1)|
+|2026-07-24|2026-07-24|SM4RT: Learning Structured Motion Geometry for 4D Reconstruction|Shing Ho J. Lin|[2607.22534v1](https://arxiv.org/pdf/2607.22534v1)|
+|2026-07-24|2026-07-24|ViTacWorld: Scaling Visuo-Tactile World Models for Contact-Rich Robot Manipulation|Yunao Huang|[2607.22530v1](https://arxiv.org/pdf/2607.22530v1)|
+|2026-07-24|2026-07-24|The Regression Tax: Decomposing Why Skills Help and Hurt LLM Agents|Darshan Tank|[2607.22520v1](https://arxiv.org/pdf/2607.22520v1)|
+|2026-07-24|2026-07-24|PinEqualizer: Full Funnel Content Exploration and Debiasing System at Pinterest|Olafur Gudmundsson|[2607.22518v1](https://arxiv.org/pdf/2607.22518v1)|
+|2026-07-24|2026-07-24|Quantum Spectral Model: Data Reuploading with Input-Conditioned Frequency Support|Peiyong Wang|[2607.22516v1](https://arxiv.org/pdf/2607.22516v1)|
+
+### Generation
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-07-24|2026-07-24|CausalForge: A Formally Grounded, Self-Improving Agentic Framework for Automated Research in Causal Inference|Jiyuan Tan|[2607.22511v1](https://arxiv.org/pdf/2607.22511v1)|
+|2026-07-24|2026-07-24|Beyond Negative-Ridge Endpoints: Mixed-Sign Spectral Regularization via Negative-Shifted Gradient Descent|Peng Zhao|[2607.22474v1](https://arxiv.org/pdf/2607.22474v1)|
+|2026-07-24|2026-07-24|MineValiCoder: Reliable Code Generation with Test Case Quality Mining and Bipartite Graph-Based Mutual Validation|Zhen Zhao|[2607.22471v1](https://arxiv.org/pdf/2607.22471v1)|
+|2026-07-24|2026-07-24|Learning to Prepare Molecular Ground States with Transformer Models|Alex Koziell-Pipe|[2607.22468v1](https://arxiv.org/pdf/2607.22468v1)|
+|2026-07-24|2026-07-24|Complexity Bounds and Approaches to Learning Projected Gradient Descent Solver Iterates|Anjian Li|[2607.22467v1](https://arxiv.org/pdf/2607.22467v1)|
+|2026-07-24|2026-07-24|Beyond Perspectives: A Trio-Ethnography of Interpretation Evolution in LLM-Supported Programming Education|Jennie Ren|[2607.22463v1](https://arxiv.org/pdf/2607.22463v1)|
+
+### Agent
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-07-24|2026-07-24|Explainable Reinforcement Learning for assisting Air Traffic Controllers|Anduel Mehmeti|[2607.22525v1](https://arxiv.org/pdf/2607.22525v1)|
+|2026-07-24|2026-07-24|TRACE-ROUTER: Task-Consistent and Adaptive Online Routing for Agentic AI|Ritik Raj|[2607.22465v1](https://arxiv.org/pdf/2607.22465v1)|
+|2026-07-24|2026-07-24|Dynamic Capability Scoping for Enterprise AI Agents: A Synthetic Dataset and Three-Source Permission Architecture|Halil Burak Noyan|[2607.22445v1](https://arxiv.org/pdf/2607.22445v1)|
+|2026-07-24|2026-07-24|A Self-Calibrating Agentic AI Framework for Autonomous Edge Resource Allocation|Fin Gentzen|[2607.22400v1](https://arxiv.org/pdf/2607.22400v1)|
+|2026-07-24|2026-07-24|SceneActBench: Can Agents Act on the 3D Scenes They See?|Yifei Zhao|[2607.22393v1](https://arxiv.org/pdf/2607.22393v1)|
+|2026-07-24|2026-07-24|Agentic Root Cause Analysis through Evidence-Grounded Reasoning|Amaury Wei|[2607.22385v1](https://arxiv.org/pdf/2607.22385v1)|
 ## Update on 2026-07-25
 
 ### World Model
