@@ -302,6 +302,48 @@ TODO:
 
 
 
+
+## Update on 2026-07-29
+
+### World Model
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-07-28|2026-07-28|INTACT: Isomorphic Intent-to-Action Learning for Search-Free World Models|Junhan Sun|[2607.26056v1](https://arxiv.org/pdf/2607.26056v1)|
+|2026-07-28|2026-07-28|$π\mathbf{R}^2$: Reactive Real-time Flow Policies|Sungjae Park|[2607.26055v1](https://arxiv.org/pdf/2607.26055v1)|
+|2026-07-28|2026-07-28|Spend Experts Where You Are Unsure: Confidence-Adaptive Routing for Mixture-of-Experts LoRA|Tom Saliencro|[2607.26052v1](https://arxiv.org/pdf/2607.26052v1)|
+|2026-07-28|2026-07-28|S2A2: Audio-Visual Imitation Learning for Manipulation Tasks Using Acoustic Spatial Information|Kaneyoshi Hiratsuka|[2607.26047v1](https://arxiv.org/pdf/2607.26047v1)|
+|2026-07-28|2026-07-28|VetClaw: An Edge-Cloud Multimodal Agentic System for Veterinary Disease Screening|Syed Mhamudul Hasan|[2607.26042v1](https://arxiv.org/pdf/2607.26042v1)|
+|2026-07-28|2026-07-28|Desktop-Delta Bench: Do Computer-Use Models Understand Desktop GUI Transitions?|Abhishek Pillai|[2607.26041v1](https://arxiv.org/pdf/2607.26041v1)|
+
+### Generation
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-07-28|2026-07-28|Pass the Baton: Trajectory-Relayed On-Policy Distillation|Haolei Xu|[2607.26057v1](https://arxiv.org/pdf/2607.26057v1)|
+|2026-07-28|2026-07-28|CHARM: A Multimodal Graph Foundation Model with Hierarchical Context Modeling for Zero-Shot Transfer|Ankang Yang|[2607.26023v1](https://arxiv.org/pdf/2607.26023v1)|
+|2026-07-28|2026-07-28|MDTransformer: A Hardware-Software Co-Design of Mode-Division Photonic Transformer Accelerator with Inverse-Designed Coherent Crossbar|Solomon Micheal Serunjogi|[2607.26016v1](https://arxiv.org/pdf/2607.26016v1)|
+|2026-07-28|2026-07-28|Parallel Decoding Distillation for Fast Image and Video Generation|Neta Shaul|[2607.26004v1](https://arxiv.org/pdf/2607.26004v1)|
+|2026-07-28|2026-07-28|Sharpness-Aware Minimization and Muon: Robustness under the Spectral Norm|Wenzhi Zhong|[2607.26001v1](https://arxiv.org/pdf/2607.26001v1)|
+|2026-07-28|2026-07-28|Does Runtime Topology Context Improve LLM-Generated Kubernetes Security Patches?|Farooq Shaikh|[2607.25995v1](https://arxiv.org/pdf/2607.25995v1)|
+
+### VLA
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-07-28|2026-07-28|SAM3D-Guided Object-Centric Representation Alignment for Vision-Language-Action Models|Zonghe Liu|[2607.25912v1](https://arxiv.org/pdf/2607.25912v1)|
+|2026-07-28|2026-07-28|CoTinyVLA: Chain-of-Thought Distillation for a Sub-Billion-Parameter Vision-Language-Action Model|Minhyeok Lee|[2607.25487v1](https://arxiv.org/pdf/2607.25487v1)|
+|2026-07-27|2026-07-27|A Motion-Aware Vector Quantization Framework with Centroid Reuse for Efficient VLA Inference|Zhuoran Song|[2607.24148v1](https://arxiv.org/pdf/2607.24148v1)|
+|2026-07-26|2026-07-26|MulRobBench: A Decision-Level Benchmark for Safe and Security-Policy-Compliant Multimodal UAV Agents|Belal S. Alsinglawi|[2607.23870v1](https://arxiv.org/pdf/2607.23870v1)|
+|2026-07-26|2026-07-26|A Few Words Go a Long Way: Language Guided Robot Policy Synthesis|Daphne Chen|[2607.23784v1](https://arxiv.org/pdf/2607.23784v1)|
+|2026-07-25|2026-07-25|Real2Sim2Real for Vision-Language-Action Manipulation: An AMD ROCm-Based Pipeline|Qing Yang|[2607.22997v1](https://arxiv.org/pdf/2607.22997v1)|
+
+### Agent
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-07-28|2026-07-28|Pictura: Perspective-View Self-Play at Scale for Driving|Yuan Yin|[2607.26005v1](https://arxiv.org/pdf/2607.26005v1)|
+|2026-07-28|2026-07-28|MemLens: A Value-Aware Memory Management System with Interactive Analytics for LLM-based Agents|Shuyue Wei|[2607.25992v1](https://arxiv.org/pdf/2607.25992v1)|
+|2026-07-28|2026-07-28|Evaluating VLMs for Autonomous Agent-Driven Geometry Clipping Detection in Video Game QA|Carlos Celemin|[2607.25921v1](https://arxiv.org/pdf/2607.25921v1)|
+|2026-07-28|2026-07-28|Toward Standardized Cross-Vendor Agent Tool Trust Management in Autonomous Networks|Ravi Kant Sharma|[2607.25914v1](https://arxiv.org/pdf/2607.25914v1)|
+|2026-07-28|2026-07-28|Interactive Reward Agent: GUI Task Evaluation via Environment-State Verification|Chenrui Shi|[2607.25904v1](https://arxiv.org/pdf/2607.25904v1)|
+|2026-07-28|2026-07-28|Messier: A High-Resolution Corpus for Cross-Benchmark Agent Evaluation|Stefan Krsteski|[2607.25891v1](https://arxiv.org/pdf/2607.25891v1)|
 ## Update on 2026-07-27
 
 ### World Model
