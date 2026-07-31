@@ -303,6 +303,47 @@ TODO:
 
 
 
+
+## Update on 2026-07-31
+
+### World Model
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-07-30|2026-07-30|Learning to Trace Seiberg Dualities|Jonathan J. Heckman|[2607.28628v1](https://arxiv.org/pdf/2607.28628v1)|
+|2026-07-30|2026-07-30|ReToken: One Token to Improve Vision-Language Models for Visual Retrieval|Yao Xiao|[2607.28627v1](https://arxiv.org/pdf/2607.28627v1)|
+|2026-07-30|2026-07-30|ACE-Data-0: Human-Centric Ambient Capture as Embodied Data Engine|Yukang Cao|[2607.28625v1](https://arxiv.org/pdf/2607.28625v1)|
+|2026-07-30|2026-07-30|PhiZero: A World Model Built Around Physical Language|Shuyao Shang|[2607.28624v1](https://arxiv.org/pdf/2607.28624v1)|
+|2026-07-30|2026-07-30|PAC-MAN: Perception-Aware CBF-RL for Whole-Body Safety in Humanoid Dodgeball|Lizhi Yang|[2607.28623v1](https://arxiv.org/pdf/2607.28623v1)|
+|2026-07-30|2026-07-30|AISPA: User-Centric System Prompt Auditing for Large Language Model Applications|Xiangning Lin|[2607.28617v1](https://arxiv.org/pdf/2607.28617v1)|
+
+### Generation
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-07-30|2026-07-30|Change2Task: From Repository Changes to Executable Coding Agent Tasks and Environments|Haomin Qi|[2607.28591v1](https://arxiv.org/pdf/2607.28591v1)|
+|2026-07-30|2026-07-30|$β$-OPSD: Deriving with Policy Optimization, Training with Self-Distillation|Jiawei Xu|[2607.28582v1](https://arxiv.org/pdf/2607.28582v1)|
+|2026-07-30|2026-07-30|DualG-MRAG: Decoupling Macro-Reasoning and Micro-Matching for Multimodal Retrieval-Augmented Generation|Jiacheng Tao|[2607.28580v1](https://arxiv.org/pdf/2607.28580v1)|
+|2026-07-30|2026-07-30|Sample More, Reflect Less: Self-Refine and Reflexion Lose to Repeated Sampling at Equal Token Cost, from 1.5B to 7B|Iliya Mirzaei|[2607.28576v1](https://arxiv.org/pdf/2607.28576v1)|
+|2026-07-30|2026-07-30|Algorithms for Structured Elections under Thiele Voting Rules|Alexandra Lassota|[2607.28575v1](https://arxiv.org/pdf/2607.28575v1)|
+|2026-07-30|2026-07-30|ORCA-bench: How Ready Are Language Model Agents for Oncall?|Albert Gong|[2607.28545v1](https://arxiv.org/pdf/2607.28545v1)|
+
+### VLA
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-07-30|2026-07-30|RoboBRIDGE: A Modular Framework for Bridging Policies to Robust Real-World Robotic Agents|Sihyung Yoon|[2607.27881v1](https://arxiv.org/pdf/2607.27881v1)|
+|2026-07-30|2026-07-30|RedFlow: Redirect Failure into Action-Level Corrections for Flow-matching VLA Policy|Zhengyang Yan|[2607.27782v1](https://arxiv.org/pdf/2607.27782v1)|
+|2026-07-30|2026-07-30|World Action Planner: Generalizable Decision-Making with Action-Conditioned World Models|Xiangcheng Zhang|[2607.27599v1](https://arxiv.org/pdf/2607.27599v1)|
+|2026-07-30|2026-07-30|Cross-Embodiment Transfer via Behavior-Aligned Representations|Ajay Sridhar|[2607.27549v1](https://arxiv.org/pdf/2607.27549v1)|
+|2026-07-29|2026-07-29|DLAM: Distributional Latent Actions with Temporal Constraints|Zuojin Tang|[2607.27138v1](https://arxiv.org/pdf/2607.27138v1)|
+
+### Agent
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-07-30|2026-07-30|AskChem: Claim-Centered Infrastructure for Chemistry Literature Synthesis|Bing Yan|[2607.28618v1](https://arxiv.org/pdf/2607.28618v1)|
+|2026-07-30|2026-07-30|OSReward: Instituting Standardized Evaluation for Cross-Platform Computer-Use Reward Models|Qiushi Sun|[2607.28609v1](https://arxiv.org/pdf/2607.28609v1)|
+|2026-07-30|2026-07-30|PAIChecker: Uncovering and Checking PR-Issue Misalignment in SWE-Bench-Like Benchmarks|Manyi Wang|[2607.28587v1](https://arxiv.org/pdf/2607.28587v1)|
+|2026-07-30|2026-07-30|Rethinking Inference-Time Scaling in Local Computer-Use Agents: Failure Modes and Compute Tradeoffs|Woongkyu Lee|[2607.28573v1](https://arxiv.org/pdf/2607.28573v1)|
+|2026-07-30|2026-07-30|MANTA: Multi-Agent Network Topology Adaptation for Self-Evolving Multi-Agent Systems|Mao-xun Huang|[2607.28527v1](https://arxiv.org/pdf/2607.28527v1)|
+|2026-07-30|2026-07-30|Selective Credibility-Limited Belief Update|Theofanis Aravanis|[2607.28523v1](https://arxiv.org/pdf/2607.28523v1)|
 ## Update on 2026-07-29
 
 ### World Model
