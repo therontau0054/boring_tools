@@ -304,6 +304,38 @@ TODO:
 
 
 
+
+## Update on 2026-08-01
+
+### World Model
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-07-30|2026-07-30|KAISEN: Reproducible Subgroup Fairness Auditing for Clinical Risk Models|Sparsh Roy|[2607.28608v1](https://arxiv.org/pdf/2607.28608v1)|
+|2026-07-30|2026-07-30|Laboratory demonstration of low order wavefront control using light reflected off the vortex coronagraph|Clarissa R. Do Ó|[2607.28603v1](https://arxiv.org/pdf/2607.28603v1)|
+|2026-07-30|2026-07-30|Using Theory of Mind to Arbitrate between Social and Non-social Learning|Lance Ying|[2607.28601v1](https://arxiv.org/pdf/2607.28601v1)|
+|2026-07-30|2026-07-30|ROAD: Reciprocal-Objective Alignment of Discriminative Semantics for 3D Shape Generation|Xiao Luo|[2607.28581v1](https://arxiv.org/pdf/2607.28581v1)|
+|2026-07-30|2026-07-30|Benchmarking Quantum Simulations of the Lipkin-Meshkov-Glick Model Using Large Tensor Networks|Maggie Bao|[2607.28570v1](https://arxiv.org/pdf/2607.28570v1)|
+|2026-07-30|2026-07-30|X-NavDP: Generalizing Navigation Diffusion Policy to Novel Behavior and Embodiments with Group Q-score Reweighted Matching|Tianyu Yang|[2607.28560v1](https://arxiv.org/pdf/2607.28560v1)|
+
+### Generation
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-07-30|2026-07-30|ScaFE: Data-Efficient Scar Classification with LLM-Generated Clinical Feature Programs|Ruman Wang|[2607.28538v1](https://arxiv.org/pdf/2607.28538v1)|
+|2026-07-30|2026-07-30|Graph Neural Network Force Fields for Spin Dynamics in Metallic Magnets|Ali Rayat|[2607.28537v1](https://arxiv.org/pdf/2607.28537v1)|
+|2026-07-30|2026-07-30|What to Remove, What to Preserve: Dual-Ambiguity Rectification for All-in-One Image Restoration|Cencen Liu|[2607.28526v1](https://arxiv.org/pdf/2607.28526v1)|
+|2026-07-30|2026-07-30|TCA-SIR: Learning Target-Conditioned Abstractions for Scientific Inspiration Retrieval|Yuto Suzuki|[2607.28498v1](https://arxiv.org/pdf/2607.28498v1)|
+|2026-07-30|2026-07-30|A Fuzzy Rule-based Neuro-Symbolic Approach for Pipe Severity Prediction in Sewer Networks|Ngoc Thai Le|[2607.28481v1](https://arxiv.org/pdf/2607.28481v1)|
+|2026-07-30|2026-07-30|Towards Autonomous Aircraft Surveillance from Nanosatellites through On-Board Inference and Generative Data Augmentation|Antonio Delgado-Rosa|[2607.28470v1](https://arxiv.org/pdf/2607.28470v1)|
+
+### Agent
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-07-30|2026-07-30|Agents That Certify Their Own Exploits: Confidence-Scheduled Restricted Responses for Safe Opponent Exploitation|Boning Li|[2607.28520v1](https://arxiv.org/pdf/2607.28520v1)|
+|2026-07-30|2026-07-30|The Role of Causality in Algorithmic Recourse|Srikanth Avasarala|[2607.28497v1](https://arxiv.org/pdf/2607.28497v1)|
+|2026-07-30|2026-07-30|A foundation model of numerical intelligence with cross-disciplinary generalization|Chenghan Wu|[2607.28432v1](https://arxiv.org/pdf/2607.28432v1)|
+|2026-07-30|2026-07-30|On-Policy and Off-Policy Learning for Large Action Spaces|Imad Aouali|[2607.28408v1](https://arxiv.org/pdf/2607.28408v1)|
+|2026-07-30|2026-07-30|Why Are GUI Agents Correct but Late? Decode on the Decision-Time Critical Path, Tested with Pre-Compiled Policy Trees|Zihan Dong|[2607.28399v1](https://arxiv.org/pdf/2607.28399v1)|
+|2026-07-30|2026-07-30|Hierarchical Multilevel Monte Carlo for Order-Optimal Neural Actor-Critic in Average-Reward CMDPs|Ankur Naskar|[2607.28390v1](https://arxiv.org/pdf/2607.28390v1)|
 ## Update on 2026-07-31
 
 ### World Model
