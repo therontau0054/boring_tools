@@ -305,6 +305,44 @@ TODO:
 
 
 
+
+## Update on 2026-08-03
+
+### World Model
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-07-31|2026-07-31|Scaling Properties of Text Conditioning in Visual Generation|Zilong Chen|[2607.29679v1](https://arxiv.org/pdf/2607.29679v1)|
+|2026-07-31|2026-07-31|GQ-FSL: Green Quantized Federated Split Learning|Idan Roth|[2607.29659v1](https://arxiv.org/pdf/2607.29659v1)|
+|2026-07-31|2026-07-31|Non-reciprocal torques guide self-assembly of active particles into clusters with controllable function|Till Welker|[2607.29651v1](https://arxiv.org/pdf/2607.29651v1)|
+|2026-07-31|2026-07-31|Bootstrapping Self-Supervised Learning of Binary Classification Using Error Bounds: A Case Study on a Robotic Insertion Task|Zebin Duan|[2607.29640v1](https://arxiv.org/pdf/2607.29640v1)|
+|2026-07-31|2026-07-31|FlexComposer: Unified Video Compositing from Images to Dynamic Footage with Flexible Trajectory Control|Songchun Zhang|[2607.29627v1](https://arxiv.org/pdf/2607.29627v1)|
+|2026-07-31|2026-07-31|The Theoretical Foundation of Socratic Tests: Dynamic, Multimodal, Conversational Examinations|Ilya Mikhelson|[2607.29624v1](https://arxiv.org/pdf/2607.29624v1)|
+
+### Generation
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-07-31|2026-07-31|Sign compression for Muon: SignMuon, MuonSign, and the Limits of Error Feedback|Maria Smirnova|[2607.29674v1](https://arxiv.org/pdf/2607.29674v1)|
+|2026-07-31|2026-07-31|Freeze, Then Select: Structured Field Adapters and Stability-Validated Weak Selection for PDE Discovery from Sparse Observations|Juncheng Zhong|[2607.29665v1](https://arxiv.org/pdf/2607.29665v1)|
+|2026-07-31|2026-07-31|AgentHPOBench: A Benchmark For Evaluating LLM Agents as Sequential Hyperparameter Optimizers|Tianyu Huai|[2607.29626v1](https://arxiv.org/pdf/2607.29626v1)|
+|2026-07-31|2026-07-31|When Does On-Policy Interaction Help? Representational Tradeoffs in Value-Based Imitation Learning|Luca Viano|[2607.29617v1](https://arxiv.org/pdf/2607.29617v1)|
+|2026-07-31|2026-07-31|QASP: Query-Adaptive Robust Vector Search Policy|Hakan Ferhatosmanoglu|[2607.29606v1](https://arxiv.org/pdf/2607.29606v1)|
+|2026-07-31|2026-07-31|DungeonBench: A Benchmark for Rules-Rich Tactical Reasoning in Dungeons & Dragons Combat|Ismayil Ismayilov|[2607.29577v1](https://arxiv.org/pdf/2607.29577v1)|
+
+### VLA
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-07-31|2026-07-31|CLIFT: Turning Gemini Robotics On-Device into Humanoid Specialists via Non-Invasive Closed-Loop Iterative Fine-Tuning|Yuxin Chen|[2607.29172v1](https://arxiv.org/pdf/2607.29172v1)|
+|2026-07-31|2026-07-31|ActFovea: Runtime Safeguarding for VLA Policies via Spatiotemporal Visual-Action Consistency|Wenda Yu|[2607.29169v1](https://arxiv.org/pdf/2607.29169v1)|
+
+### Agent
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-07-31|2026-07-31|ExtractBench: A Benchmark for Schema-Guided Enterprise Document Extraction|Boyang Zhang|[2607.29677v1](https://arxiv.org/pdf/2607.29677v1)|
+|2026-07-31|2026-07-31|LEMUR: Learning to Align with Multi-Objective Reinforcement Learning from Preference Feedback|Manith Adikari|[2607.29559v1](https://arxiv.org/pdf/2607.29559v1)|
+|2026-07-31|2026-07-31|AMTFV: Agentic Mathematical Tool-Flow Verification for LLM Self-Correction|Rui Zou|[2607.29549v1](https://arxiv.org/pdf/2607.29549v1)|
+|2026-07-31|2026-07-31|From Code Review to Code Critique: Intent, Drift, and Spotlight for AI-Generated Diffs at Scale|Chandra Maddila|[2607.29516v1](https://arxiv.org/pdf/2607.29516v1)|
+|2026-07-31|2026-07-31|Transcript-Managed Transformers: Monotone Multi-Agent Collapse and Universality with Two Pop-Enabled Transcripts|Sergey Salishev|[2607.29496v1](https://arxiv.org/pdf/2607.29496v1)|
+|2026-07-31|2026-07-31|Self-Play Meets Skill Evolution: Self-Evolving Search Agents that Pose, Solve, and Remember|Zenghuang Fu|[2607.29468v1](https://arxiv.org/pdf/2607.29468v1)|
 ## Update on 2026-08-01
 
 ### World Model
