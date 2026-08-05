@@ -306,6 +306,48 @@ TODO:
 
 
 
+
+## Update on 2026-08-05
+
+### World Model
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-08-04|2026-08-04|SocietyBench: Forecasting Counterfactual Social-World Evolution|Zhenran Wang|[2608.04009v1](https://arxiv.org/pdf/2608.04009v1)|
+|2026-08-04|2026-08-04|WorldCup Arena: Prospective, Leakage-Free Evaluation of Frontier LLMs on a Live Tournament|Zhenran Wang|[2608.04008v1](https://arxiv.org/pdf/2608.04008v1)|
+|2026-08-04|2026-08-04|Test-Time Scaling in Reasoning LLMs: Inference Regimes, Evaluation, and Reproducibility|Mohsen Hariri|[2608.04001v1](https://arxiv.org/pdf/2608.04001v1)|
+|2026-08-04|2026-08-04|Assessment of Conditional Diffusion Model for Synthetic Histopathology Image Generation|Seyed Kahaki|[2608.03990v1](https://arxiv.org/pdf/2608.03990v1)|
+|2026-08-04|2026-08-04|Can Large Language Models Recover Semantic Optimization Opportunities That Compilers Miss?|Hailong Jiang|[2608.03983v1](https://arxiv.org/pdf/2608.03983v1)|
+|2026-08-04|2026-08-04|Video-DeepResearch: Towards the Next-Generation Multimodal Deepresearch Agent|Zhen Fang|[2608.03979v1](https://arxiv.org/pdf/2608.03979v1)|
+
+### Generation
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-08-04|2026-08-04|Information-Geometric Forward Policy Training in GFlowNets|Yordan Raykov|[2608.03967v1](https://arxiv.org/pdf/2608.03967v1)|
+|2026-08-04|2026-08-04|Separating quantum circuits from classical LLMs|Srinivasan Arunachalam|[2608.03962v1](https://arxiv.org/pdf/2608.03962v1)|
+|2026-08-04|2026-08-04|Interpretable Adaptive Sampling for LLM Test-Time Scaling|Mobina Kashaniyan|[2608.03961v1](https://arxiv.org/pdf/2608.03961v1)|
+|2026-08-04|2026-08-04|TACT: Taxonomy-Aligned Post-Training for Pedagogically Adaptive English Tutoring|Dongjie Yang|[2608.03952v1](https://arxiv.org/pdf/2608.03952v1)|
+|2026-08-04|2026-08-04|Latent Reward Registers for Diffusion Preference Alignment|Yuanshen Guan|[2608.03929v1](https://arxiv.org/pdf/2608.03929v1)|
+|2026-08-04|2026-08-04|The Transformer Revolution, Part 1: Dynamic Processing through Output- Weight Interconnections|Marco Giunti|[2608.03921v1](https://arxiv.org/pdf/2608.03921v1)|
+
+### VLA
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-08-04|2026-08-04|PhyAI: Real-Time Physical AI at the Edge, Scalable Rollouts in the Cloud|Chenghua Wang|[2608.03682v1](https://arxiv.org/pdf/2608.03682v1)|
+|2026-08-04|2026-08-04|Continue or Replan? Bernoulli-Continuation Policy Learning for Adaptive Horizon Execution|Weichen Xu|[2608.03483v1](https://arxiv.org/pdf/2608.03483v1)|
+|2026-08-04|2026-08-04|Structure-Aware Robust Fine-Tuning: Defending Vision-Language-Action Robots Against Physical Attention Hijacking|Jinquan Zhang|[2608.03231v1](https://arxiv.org/pdf/2608.03231v1)|
+|2026-08-04|2026-08-04|DRIFT: Derailing Denoising Trajectories of Flow-Matching VLAs with Adversarial Patch Attack|Hoseong Tae|[2608.03207v1](https://arxiv.org/pdf/2608.03207v1)|
+|2026-08-03|2026-08-03|ValueFormer: A Causal Transformer Value Function with Stage-Aware Labels for Semi-Autonomous Vision-Language-Action Policies|Inkyu Sa|[2608.02958v1](https://arxiv.org/pdf/2608.02958v1)|
+|2026-08-03|2026-08-03|Weights or Skills? A Survey of Robot-Learning Techniques: from Action-Predicting Weights to Robots that Write their Own Skills|Gaytri Jena|[2608.01851v1](https://arxiv.org/pdf/2608.01851v1)|
+
+### Agent
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-08-04|2026-08-04|TurnSight: Turn-Level Hindsight Self-Distillation for Tool-Integrated Reasoning|Changle Qu|[2608.04007v1](https://arxiv.org/pdf/2608.04007v1)|
+|2026-08-04|2026-08-04|Should We Type or Talk to LLM Agents? A Comprehensive Study of Voice and Keyboard Input Perturbations|Zizhao Hu|[2608.03970v1](https://arxiv.org/pdf/2608.03970v1)|
+|2026-08-04|2026-08-04|A game theory for foundation models shows new paths to rational cooperation through similarity inference|Alexander Meulemans|[2608.03958v1](https://arxiv.org/pdf/2608.03958v1)|
+|2026-08-04|2026-08-04|When and Where to Look: Adaptive Visual Evidence Scheduling for Efficient Long Video Understanding|Ke Li|[2608.03918v1](https://arxiv.org/pdf/2608.03918v1)|
+|2026-08-04|2026-08-04|Implementing Causal Perception: Competing SCMs and Situated Fairness|Jose M. Álvarez|[2608.03917v1](https://arxiv.org/pdf/2608.03917v1)|
+|2026-08-04|2026-08-04|Socially Grounded Agentic AI: Coordinating Plural Perspectives through Social Theory|Matt Ratto|[2608.03910v1](https://arxiv.org/pdf/2608.03910v1)|
 ## Update on 2026-08-03
 
 ### World Model
