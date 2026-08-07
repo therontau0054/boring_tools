@@ -307,6 +307,48 @@ TODO:
 
 
 
+
+## Update on 2026-08-07
+
+### World Model
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-08-06|2026-08-06|Learning When to Trust via Selective Context Preference Optimization|Xian Sun|[2608.06377v1](https://arxiv.org/pdf/2608.06377v1)|
+|2026-08-06|2026-08-06|$ω$-0: A Latent Predictive World Action Model for Concurrent Humanoid Loco-Manipulation|Zhe Li|[2608.06375v1](https://arxiv.org/pdf/2608.06375v1)|
+|2026-08-06|2026-08-06|DyPES-VLA: Learning Shared Dynamics Priors and Embodiment-Specific Control for Cross-Embodiment Manipulation|Junfeng Li|[2608.06374v1](https://arxiv.org/pdf/2608.06374v1)|
+|2026-08-06|2026-08-06|The Bitter Lesson of Tool Calling|Ishan Patel|[2608.06370v1](https://arxiv.org/pdf/2608.06370v1)|
+|2026-08-06|2026-08-06|Tracing the Heart: An Evidence-Linked Pipeline for Heart-Failure Feature Engineering|Soorya Ram Shimgekar|[2608.06366v1](https://arxiv.org/pdf/2608.06366v1)|
+|2026-08-06|2026-08-06|AV-AIVAT: 74x Cheaper Agent Evaluation with Certified Anytime-Valid Stopping in Imperfect-Information Games|Boning Li|[2608.06362v1](https://arxiv.org/pdf/2608.06362v1)|
+
+### Generation
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-08-06|2026-08-06|Tytan: Interactive Neurosymbolic Construction of Analytic Semantic Schemas from Relational Data|Donna Hooshmand|[2608.06331v1](https://arxiv.org/pdf/2608.06331v1)|
+|2026-08-06|2026-08-06|Benchmarking the Benchmarks: Evaluating Benchmarks for Conversational Agents|Noam Koren|[2608.06329v1](https://arxiv.org/pdf/2608.06329v1)|
+|2026-08-06|2026-08-06|RRC: Unlocking Generative Reward Models in LLM Reinforcement Learning via Ranking-Based Reward Construction|Chenglong Wang|[2608.06310v1](https://arxiv.org/pdf/2608.06310v1)|
+|2026-08-06|2026-08-06|Beyond Top-K: Replacing Black-Box Retrieval with Interpretable Agentic Operations|Sagar Tamang|[2608.06305v1](https://arxiv.org/pdf/2608.06305v1)|
+|2026-08-06|2026-08-06|On-Policy Self-Distillation without Any Supervision|Yijiang Li|[2608.06296v1](https://arxiv.org/pdf/2608.06296v1)|
+|2026-08-06|2026-08-06|Improving the Realism of Synthetic Clinical Benchmarks Under Utility Constraints|Omid Bazgir|[2608.06265v1](https://arxiv.org/pdf/2608.06265v1)|
+
+### VLA
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-08-06|2026-08-06|SkillMemo: Expert-guided Skill Memory Framework for Compositional Embodied Manipulation|Changyuan Wang|[2608.05970v1](https://arxiv.org/pdf/2608.05970v1)|
+|2026-08-05|2026-08-05|Explicit Language Memory for Long-Horizon Planning in Vision-Language-Action Models|Houze Xu|[2608.04765v1](https://arxiv.org/pdf/2608.04765v1)|
+|2026-08-05|2026-08-05|Suppression Sticks, Locality Is Fragile: A Closed-Loop Target-and-Control Audit of Task-Vector Negation in VLA Policies|Shaoguang Wang|[2608.04692v1](https://arxiv.org/pdf/2608.04692v1)|
+|2026-08-05|2026-08-05|GUARD: Grounding Uncertainty and Ablation-Based Risk Detection for Diffusion-Based VLAs|Suhas Hegde|[2608.04510v1](https://arxiv.org/pdf/2608.04510v1)|
+|2026-08-05|2026-08-05|Deltoris: Enabling Real-time VLA Inference in Embodied AI via Bit-level Sparsity and Speculative Inference|Zheng Liu|[2608.04428v1](https://arxiv.org/pdf/2608.04428v1)|
+|2026-08-04|2026-08-04|SiMDex: Mining Similar Egocentric Videos for Cross-Embodiment Dexterous Manipulation|Nie Lin|[2608.04196v1](https://arxiv.org/pdf/2608.04196v1)|
+
+### Agent
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-08-06|2026-08-06|Resourced Authority A Mechanism-Design Model for Participatory Governance of Deployed AI Agents|Praphul Chandra|[2608.06353v1](https://arxiv.org/pdf/2608.06353v1)|
+|2026-08-06|2026-08-06|CalibForge: Adversarial Solver Calibration for Scaling Learnable Terminal Tasks|Fanzhe Meng|[2608.06352v1](https://arxiv.org/pdf/2608.06352v1)|
+|2026-08-06|2026-08-06|TRAJDEBUG: Tracing Error Lifecycle to Identify Critical Failures in Long-Horizon Agent Trajectories|Yunjia Qi|[2608.06346v1](https://arxiv.org/pdf/2608.06346v1)|
+|2026-08-06|2026-08-06|HarnessOpt-Bench: Evaluating LLMs at Harness Optimization|Varun Ursekar|[2608.06301v1](https://arxiv.org/pdf/2608.06301v1)|
+|2026-08-06|2026-08-06|QuanTiMedAI: Quantum-Enhanced Time-Series Model guided by Agentic AI for Cardiac Arrest Mortality Prediction|Mutasim Fuad Sarker|[2608.06294v1](https://arxiv.org/pdf/2608.06294v1)|
+|2026-08-06|2026-08-06|From Passive Mirrors to Active Agents: Holonic Digital Twins for Physical AI over Networks|Christo Kurisummoottil Thomas|[2608.06227v1](https://arxiv.org/pdf/2608.06227v1)|
 ## Update on 2026-08-05
 
 ### World Model
