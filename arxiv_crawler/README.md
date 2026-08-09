@@ -308,6 +308,48 @@ TODO:
 
 
 
+
+## Update on 2026-08-09
+
+### World Model
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-08-06|2026-08-06|The Low Frequency Trap: Video Language Models Fail at Simple Event Bookkeeping|Sarvesh Baskar|[2608.06361v1](https://arxiv.org/pdf/2608.06361v1)|
+|2026-08-06|2026-08-06|Challenges in Evaluating Explanation Methods for Static and Evolving Data|Jerzy Stefanowski|[2608.06351v1](https://arxiv.org/pdf/2608.06351v1)|
+|2026-08-06|2026-08-06|Scalable estimation of VARMA models|Daniel Paulin|[2608.06340v1](https://arxiv.org/pdf/2608.06340v1)|
+|2026-08-06|2026-08-06|Optimal Rates for Learning with Monotone Adversaries|Anay Mehrotra|[2608.06337v1](https://arxiv.org/pdf/2608.06337v1)|
+|2026-08-06|2026-08-06|GeniWorld: A Generalizable Interactive World Model for Robotic Manipulation via Visual Actions|Chenghao Gu|[2608.06332v1](https://arxiv.org/pdf/2608.06332v1)|
+|2026-08-06|2026-08-06|Breaking Memory Bottlenecks in Quantum Control Systems for More Precise Experiments and Higher Throughput Computing|Yicheng Guang|[2608.06318v1](https://arxiv.org/pdf/2608.06318v1)|
+
+### Generation
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-08-06|2026-08-06|OTLesMix: Wasserstein Barycenter and Optimal Transport Map for Synthetic Lesion Generation with Diverse Shapes and Locations|Robin Trombetta|[2608.06264v1](https://arxiv.org/pdf/2608.06264v1)|
+|2026-08-06|2026-08-06|RxnCLF: Contrastive Transformation-Aware Reaction Foundation Model for Improved Reactivity Prediction|Yiting Zheng|[2608.06259v1](https://arxiv.org/pdf/2608.06259v1)|
+|2026-08-06|2026-08-06|MetaboLLM: a metabolomics-specialized large language model for biochemical knowledge integration and predictive metabolite graph construction|Dohyun Ku|[2608.06253v1](https://arxiv.org/pdf/2608.06253v1)|
+|2026-08-06|2026-08-06|DASH: Divergence-Adaptive Supervision Horizons for On-Policy Self-Distillation of Reasoning Models|ZhiYan Hou|[2608.06243v1](https://arxiv.org/pdf/2608.06243v1)|
+|2026-08-06|2026-08-06|PRISM: Distribution-Gated Flow Matching for Controllable Unpaired Image Translation|Elad Yoshai|[2608.06240v1](https://arxiv.org/pdf/2608.06240v1)|
+|2026-08-06|2026-08-06|Depth-Guided Video Object Counting in Crowded Scenes|Yuanjing Xu|[2608.06236v1](https://arxiv.org/pdf/2608.06236v1)|
+
+### VLA
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-08-03|2026-08-04|Deferred Exposure of Future Trajectories for Verifiable Reasoning in Autonomous Driving VLMs|Zixuan Huang|[2608.01755v2](https://arxiv.org/pdf/2608.01755v2)|
+|2026-08-03|2026-08-03|ProtoAct: Turning Wet-Lab Protocols into Embodied Robotic Actions|Zhe Liu|[2608.01690v1](https://arxiv.org/pdf/2608.01690v1)|
+|2026-08-02|2026-08-02|Demystifying When and Why VLAs Fail in Contact-Rich Tasks and How to Fix Them|Carlota Parés-Morlans|[2608.01402v1](https://arxiv.org/pdf/2608.01402v1)|
+|2026-08-02|2026-08-02|WAM-Diff2: Hierarchical AR-to-Diffusion Distillation for Highly Efficient Autonomous Driving VLA|Zhihao Zhu|[2608.01035v1](https://arxiv.org/pdf/2608.01035v1)|
+|2026-08-02|2026-08-02|VLAGuard: A Framework for Evaluating and Mitigating Physical Attention Hijacking in Vision-Language-Action Robots within Wireless Sensor Networks|Dongfu Yin|[2608.01028v1](https://arxiv.org/pdf/2608.01028v1)|
+|2026-08-01|2026-08-01|Latency-Tolerant Cloud-Edge Collaborative Vision-Language-Action Models via Emergent Representational Specialization|Daojie Peng|[2608.00569v1](https://arxiv.org/pdf/2608.00569v1)|
+
+### Agent
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-08-06|2026-08-06|EnvACE: Internalizing Environment Dynamics via World Rehearsal for Agentic Reinforcement Learning|Zishan Xu|[2608.06197v1](https://arxiv.org/pdf/2608.06197v1)|
+|2026-08-06|2026-08-06|Comparative Approaches to Agent Retrieval over Large Skill Libraries|Indivara Kolluru|[2608.06196v1](https://arxiv.org/pdf/2608.06196v1)|
+|2026-08-06|2026-08-06|iARCS: Iterative Agentic RL for Controllable 3D Scene Generation|Saugat Adhikari|[2608.06161v1](https://arxiv.org/pdf/2608.06161v1)|
+|2026-08-06|2026-08-06|Learning Globally Reusable Skills for Coding Agents|Chen Yang|[2608.06153v1](https://arxiv.org/pdf/2608.06153v1)|
+|2026-08-06|2026-08-06|FinEvo-Bench: A Longitudinal Benchmark for Self-Evolving Agents in Professional Financial Workflows|Bo Deng|[2608.06144v1](https://arxiv.org/pdf/2608.06144v1)|
+|2026-08-06|2026-08-06|SkillTFM: Gated Skill Evolution for Training-Free Adaptation of Tabular Foundation Models|Yi He|[2608.06137v1](https://arxiv.org/pdf/2608.06137v1)|
 ## Update on 2026-08-07
 
 ### World Model
