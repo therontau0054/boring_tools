@@ -309,6 +309,48 @@ TODO:
 
 
 
+
+## Update on 2026-08-11
+
+### World Model
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-08-10|2026-08-10|Beyond Naturalness: Probing Automated Text-To-Speech Evaluators on Linguistically Grounded Dimensions|Oluwanifemi Bamgbose|[2608.09930v1](https://arxiv.org/pdf/2608.09930v1)|
+|2026-08-10|2026-08-10|Multimodal Model Diffing for Feature Discovery and Control|Hunar Batra|[2608.09928v1](https://arxiv.org/pdf/2608.09928v1)|
+|2026-08-10|2026-08-10|Learning How the World Evolves: Extrapolative Video World Models via Latent Dynamics Reasoning|Haodong Li|[2608.09926v1](https://arxiv.org/pdf/2608.09926v1)|
+|2026-08-10|2026-08-10|From Values to Benchmarks: Evaluating Large Language Models for Governmental Use in Dutch|Laurens Samson|[2608.09925v1](https://arxiv.org/pdf/2608.09925v1)|
+|2026-08-10|2026-08-10|GENCO - A Unified Neural Solver Embedded in a Development Framework for Steady-State Grid Analysis|Alban Puech|[2608.09921v1](https://arxiv.org/pdf/2608.09921v1)|
+|2026-08-10|2026-08-10|Decoding-Level Taboo: A Diagnostic Stress Test for LLM Robustness|Tadanobu Chuyo Kamijo|[2608.09900v1](https://arxiv.org/pdf/2608.09900v1)|
+
+### Generation
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-08-10|2026-08-10|Consilience for Verifier-Free Test-Time Scaling|Lecheng Kong|[2608.09898v1](https://arxiv.org/pdf/2608.09898v1)|
+|2026-08-10|2026-08-10|Fusion Training for Mathematical Generalization in Large Language Models|Congfeng Cao|[2608.09893v1](https://arxiv.org/pdf/2608.09893v1)|
+|2026-08-10|2026-08-10|SHE: Trajectory-driven Safety Harness Evolution for LLM Agents|Wanying Qu|[2608.09885v1](https://arxiv.org/pdf/2608.09885v1)|
+|2026-08-10|2026-08-10|Financial Numerical Prediction and Allocation as Token Generation|Xu Ouyang|[2608.09880v1](https://arxiv.org/pdf/2608.09880v1)|
+|2026-08-10|2026-08-10|Energy-Structured Latent World Models with Neural Time Fields for Physically Constistent Open-World Motion Planning|Yapeng Liu|[2608.09876v1](https://arxiv.org/pdf/2608.09876v1)|
+|2026-08-10|2026-08-10|Sci-VBench: Evaluating Knowledge- and Reasoning-Intensive Video Generation in Science Domains|Diandian Zhang|[2608.09873v1](https://arxiv.org/pdf/2608.09873v1)|
+
+### VLA
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-08-10|2026-08-10|RecoverFly: A Failure-Aware Reinforcement Learning Post-Training Framework for Aerial Vision-Language Navigation|Boxiong Wang|[2608.09467v1](https://arxiv.org/pdf/2608.09467v1)|
+|2026-08-09|2026-08-09|From Recovery to Drop-off: How Action Post-training Reduces a VLM's Late-Layer Depth Decodability|Alexander Hackett|[2608.08904v1](https://arxiv.org/pdf/2608.08904v1)|
+|2026-08-07|2026-08-07|WNM-3D: A World Navigation Model with 3D Scene Conditioning for Closed-Loop VLN|Yuehao Huang|[2608.07267v1](https://arxiv.org/pdf/2608.07267v1)|
+|2026-08-07|2026-08-07|CMU-Drive and V2V-VLA: Cooperative Multi-agent Unified Driving with Reasoning Benchmark and Vehicle-to-Vehicle Vision-Language-Action Models|Hsu-kuang Chiu|[2608.07621v1](https://arxiv.org/pdf/2608.07621v1)|
+|2026-08-06|2026-08-06|Fast and Accurate: An Adaptive VLA Inference Framework through Environment-aware Model Selection|Yuewei Sun|[2608.06434v1](https://arxiv.org/pdf/2608.06434v1)|
+|2026-08-01|2026-08-01|The Gate, Not the Cache: Gate Provenance Bounds the Closed-Loop Reliability of Training-Free VLA Token Skipping|Qi Luo|[2608.00391v1](https://arxiv.org/pdf/2608.00391v1)|
+
+### Agent
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-08-10|2026-08-10|DSLE: A Learning Environment for Dark Souls Boss Encounters|Derin Gezgin|[2608.09902v1](https://arxiv.org/pdf/2608.09902v1)|
+|2026-08-10|2026-08-10|ArchAgent v2: A Case Study with the Data Prefetching Championship|Abraham Gonzalez|[2608.09874v1](https://arxiv.org/pdf/2608.09874v1)|
+|2026-08-10|2026-08-10|Stealing Reasoning Traces from Proprietary LLM APIs|Alexander Panfilov|[2608.09867v1](https://arxiv.org/pdf/2608.09867v1)|
+|2026-08-10|2026-08-10|Towards Expert-level Medical AI for Real-time Video Consultations|Mahvish Nagda|[2608.09861v1](https://arxiv.org/pdf/2608.09861v1)|
+|2026-08-10|2026-08-10|Agentic Harnesses: LLM-Driven Verification Layers for Robot Autonomy|Rohan Bhagra|[2608.09857v1](https://arxiv.org/pdf/2608.09857v1)|
+|2026-08-10|2026-08-10|Agentic Auto-Research is Fuzz Testing|Yifeng He|[2608.09855v1](https://arxiv.org/pdf/2608.09855v1)|
 ## Update on 2026-08-09
 
 ### World Model
