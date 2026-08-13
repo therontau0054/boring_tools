@@ -310,6 +310,47 @@ TODO:
 
 
 
+
+## Update on 2026-08-13
+
+### World Model
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-08-12|2026-08-12|StateFlow: Building, Evolving, and Accessing 3D World States for Previsualization|Yuyang Yin|[2608.12314v1](https://arxiv.org/pdf/2608.12314v1)|
+|2026-08-12|2026-08-12|DreamFly: Causal Memory and Receding-Horizon Diffusion Planning for Aerial Vision-Language Navigation|Yan Deng|[2608.12308v1](https://arxiv.org/pdf/2608.12308v1)|
+|2026-08-12|2026-08-12|AI4AI at Test-Time: Strong-to-Weak Capability Transfer via Harnesses|Cheng Qian|[2608.12307v1](https://arxiv.org/pdf/2608.12307v1)|
+|2026-08-12|2026-08-12|Constructing Dynamic Master Logic Models as Knowledge Graphs for Complex System Diagnostics Using Retrieval-Augmented Large Language Models|Saman Marandi|[2608.12304v1](https://arxiv.org/pdf/2608.12304v1)|
+|2026-08-12|2026-08-12|Class Activation Mapping in Explainable Computer Vision: A Method-Centered Review of CNN, Transformer, and Foundation-Model-Era Visual Explanations|AmirHossein Eshghi|[2608.12299v1](https://arxiv.org/pdf/2608.12299v1)|
+|2026-08-12|2026-08-12|Beyond Trial-and-Error: Agentic Optimization for Image-to-Video Adherence|Aman Tyagi|[2608.12290v1](https://arxiv.org/pdf/2608.12290v1)|
+
+### Generation
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-08-12|2026-08-12|A Neighborhood Attention Transformer Network for Enhanced 3D Segmentation of the Left Anterior Descending Artery|Rafi Ibn Sultan|[2608.12274v1](https://arxiv.org/pdf/2608.12274v1)|
+|2026-08-12|2026-08-12|Diagram-MMU: A Multi-Modal Benchmark for Scientific Diagrams|Weihao Bo|[2608.12262v1](https://arxiv.org/pdf/2608.12262v1)|
+|2026-08-12|2026-08-12|One Frozen Simulator Is Not Enough: Simulator Collapse in Multi-Agent RL|Simon Yu|[2608.12253v1](https://arxiv.org/pdf/2608.12253v1)|
+|2026-08-12|2026-08-12|An Agentic Workflow for Legacy HPC Modernization: Converting the Two-Electron-Integral Core of GAMESS|Yuzhong Shen|[2608.12249v1](https://arxiv.org/pdf/2608.12249v1)|
+|2026-08-12|2026-08-12|How Organizations Use AI: Evidence from ChatGPT|Aaron Chatterji|[2608.12236v1](https://arxiv.org/pdf/2608.12236v1)|
+|2026-08-12|2026-08-12|SCOUT: Unlocking Enhanced Spatial Reasoning via Structured Chain-of-Thought and Multi-Objective Process Reward|Zile Zhou|[2608.12220v1](https://arxiv.org/pdf/2608.12220v1)|
+
+### VLA
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-08-12|2026-08-12|G0.5: One Autoregressive Stream for Robot Reasoning and Action|Yicheng Liu|[2608.11739v1](https://arxiv.org/pdf/2608.11739v1)|
+|2026-08-11|2026-08-11|Adaptation of Generalist Robot Policies with Minimal Data|Shreyas Kowshik|[2608.11363v1](https://arxiv.org/pdf/2608.11363v1)|
+|2026-08-11|2026-08-11|XCoT-VLA: Executable Chain-of-Thought for Vision-Language-Action Driving| Foundation Model Team|[2608.10976v1](https://arxiv.org/pdf/2608.10976v1)|
+|2026-08-11|2026-08-11|Lost in Reconstruction: Aligning Action Representations with Language in Vision-Language-Action Models|Li Wenjie|[2608.10484v1](https://arxiv.org/pdf/2608.10484v1)|
+|2026-08-11|2026-08-11|Hidden in Plain Sight: Diffusion-Based Unrestricted Robotic Attacks on Vision-Language-Action Models|Jiahui Han|[2608.10393v1](https://arxiv.org/pdf/2608.10393v1)|
+
+### Agent
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-08-12|2026-08-12|VAKRA: Evaluating Multi-Hop Reasoning Across APIs and Retrieval Under Tool-Use Policies|Ankita Rajaram Naik|[2608.12282v1](https://arxiv.org/pdf/2608.12282v1)|
+|2026-08-12|2026-08-12|Convergent Detour Hijacking: Task-Preserving Resource Amplification in Skill-Based LLM Agents|Junliang Liu|[2608.12273v1](https://arxiv.org/pdf/2608.12273v1)|
+|2026-08-12|2026-08-12|VICBench: A Multi-Language Benchmark for Code Vulnerability Detection|Jin Lu|[2608.12246v1](https://arxiv.org/pdf/2608.12246v1)|
+|2026-08-12|2026-08-12|GUIDE: Governed Unified Intelligence for Document-to-Artifact Generation in Enterprise Settings|Shivali Dalmia|[2608.12133v1](https://arxiv.org/pdf/2608.12133v1)|
+|2026-08-12|2026-08-12|Do LLMs Take Care of Their Own? Similarity Signals Can Induce Cooperation|Akash Kundu|[2608.12125v1](https://arxiv.org/pdf/2608.12125v1)|
+|2026-08-12|2026-08-12|Ready Cohorts: Bounding GPU Opportunity and Avoiding Host Round Trips in LLM-Agent Control|Josef Liyanjun Chen|[2608.12123v1](https://arxiv.org/pdf/2608.12123v1)|
 ## Update on 2026-08-11
 
 ### World Model
