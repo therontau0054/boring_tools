@@ -311,6 +311,46 @@ TODO:
 
 
 
+
+## Update on 2026-08-15
+
+### World Model
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-08-13|2026-08-13|AutoDesign: Meta-Harness Optimization for Long-Horizon Agentic Design|Yaxin Luo|[2608.13560v1](https://arxiv.org/pdf/2608.13560v1)|
+|2026-08-13|2026-08-13|OmniScientist: An Omni-Modal Omni-Discipline AI Scientist|Bobo Li|[2608.13558v1](https://arxiv.org/pdf/2608.13558v1)|
+|2026-08-13|2026-08-13|PlayWorld: Benchmarking World Models with Agent Players over Long-Horizon Objectives|Kaixin Ding|[2608.13552v1](https://arxiv.org/pdf/2608.13552v1)|
+|2026-08-13|2026-08-13|QuoteBench: How Matched Scores Can Hide Command-Path Failures|Shangao Li|[2608.13547v1](https://arxiv.org/pdf/2608.13547v1)|
+|2026-08-13|2026-08-13|Alaya-EVOKE: From Linear-Scaling Supervision to Endless World|Yuanyang Yin|[2608.13546v1](https://arxiv.org/pdf/2608.13546v1)|
+|2026-08-13|2026-08-13|LittleLearner: Language Models Under Pedagogically Controlled Knowledge Exposure|Fanfei Li|[2608.13545v1](https://arxiv.org/pdf/2608.13545v1)|
+
+### Generation
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-08-13|2026-08-13|Vero: Can AI Agents Build Formally Verified Software Repositories?|Zhe Ye|[2608.13522v1](https://arxiv.org/pdf/2608.13522v1)|
+|2026-08-13|2026-08-13|Bagging Robustly Learns VC Classes with Linear Sample Complexity|Omar Montasser|[2608.13514v1](https://arxiv.org/pdf/2608.13514v1)|
+|2026-08-13|2026-08-13|On the Structural Limits of Machine Learning Decision Systems: An Information-Theoretic, Interaction-Based, and Stochastic-Dynamical Perspective|Nestor R. Barraza|[2608.13510v1](https://arxiv.org/pdf/2608.13510v1)|
+|2026-08-13|2026-08-13|Equivariant learning of a transferable three-dimensional classical density functional|Bingqing Cheng|[2608.13506v1](https://arxiv.org/pdf/2608.13506v1)|
+|2026-08-13|2026-08-13|Intern-S2-Preview: Scientific Agentic Foundation Model|Lei Bai|[2608.13505v1](https://arxiv.org/pdf/2608.13505v1)|
+|2026-08-13|2026-08-13|Sparse Orthogonal Regression Technique: A Spectral Framework for Equation Discovery, Approximation, and Integration|Sabin Roman|[2608.13504v1](https://arxiv.org/pdf/2608.13504v1)|
+
+### VLA
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-08-13|2026-08-13|UniTexture: Cross-Task Universal Adversarial Textures for Vision-Language-Action Models|Yukun Dai|[2608.13453v1](https://arxiv.org/pdf/2608.13453v1)|
+|2026-08-13|2026-08-13|FlashDrive: Flash Vision-Language-Action Inference for Autonomous Driving|Zekai Li|[2608.12932v1](https://arxiv.org/pdf/2608.12932v1)|
+|2026-08-13|2026-08-13|BrainWAM: Action-Space Coordination of Semantic Priors and Predictive Dynamics for Autonomous Driving|Bing Zhan|[2608.12854v1](https://arxiv.org/pdf/2608.12854v1)|
+|2026-08-12|2026-08-12|Scaling Automatic Research Agents via World Models|Xiyuan Yang|[2608.12564v1](https://arxiv.org/pdf/2608.12564v1)|
+
+### Agent
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-08-13|2026-08-13|MARC v1: An Open-Source Multi-Agent Framework for Clinical AI Reasoning and Coordination|Saisha Shetty|[2608.13476v1](https://arxiv.org/pdf/2608.13476v1)|
+|2026-08-13|2026-08-13|AaLLM: An End-to-End Analog Circuit Design Framework from Topology Generation to Sizing Using Large Language Models|Mohammed Ayman Habib|[2608.13472v1](https://arxiv.org/pdf/2608.13472v1)|
+|2026-08-13|2026-08-13|MLLM-Routed Heterogeneous Ensembles for Robust Cross-Dataset Image Classification|Daniel Perkins|[2608.13463v1](https://arxiv.org/pdf/2608.13463v1)|
+|2026-08-13|2026-08-13|A Unifying Perspective on Causal World Models: From Observations to Representations to Structure|Avinash Kori|[2608.13456v1](https://arxiv.org/pdf/2608.13456v1)|
+|2026-08-13|2026-08-13|RAIL: An Automatic Classifier of the Artificial Intelligence Readiness Level|Juan Irving Vasquez|[2608.13428v1](https://arxiv.org/pdf/2608.13428v1)|
+|2026-08-13|2026-08-13|Enhancing Virtual Agents through SLMs and Edge-Computing: An Exploratory Evaluation of Think and Memory Processes|Aimilios Hadjiliasi|[2608.13420v1](https://arxiv.org/pdf/2608.13420v1)|
 ## Update on 2026-08-13
 
 ### World Model
