@@ -312,6 +312,44 @@ TODO:
 
 
 
+
+## Update on 2026-08-17
+
+### World Model
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-08-14|2026-08-14|CPI-Bench: A Comprehensive,Practical and Intelligent Benchmark for Real-World Image Editing|Qinye Zhou|[2608.14546v1](https://arxiv.org/pdf/2608.14546v1)|
+|2026-08-14|2026-08-14|MagnifiQ: Patch-aware Text Guided Progressive Upscaling for High-Resolution Image Restoration|Mahesh Reddy|[2608.14543v1](https://arxiv.org/pdf/2608.14543v1)|
+|2026-08-14|2026-08-14|Decoding the Past: An Uncertainty-Aware Deep Learning Framework for Sex Attribution in Prehistoric Hand Stencils|Karel Becerra|[2608.14539v1](https://arxiv.org/pdf/2608.14539v1)|
+|2026-08-14|2026-08-14|Finding Vulnerabilities via LLM-Augmented Semantics-Aware Type-Checking|Ruizhe Wang|[2608.14533v1](https://arxiv.org/pdf/2608.14533v1)|
+|2026-08-14|2026-08-14|Marionette: Predicting World States, Rendering Geometry, Painting Appearance|Zian Meng|[2608.14530v1](https://arxiv.org/pdf/2608.14530v1)|
+|2026-08-14|2026-08-14|Handover of In-Context Learning State Across Session Boundaries|Masahiro Kato|[2608.14528v1](https://arxiv.org/pdf/2608.14528v1)|
+
+### Generation
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-08-14|2026-08-14|Participatory Moral AI Is Not Neutral: The Invisible Hand of Developers|Taenyun Kim|[2608.14522v1](https://arxiv.org/pdf/2608.14522v1)|
+|2026-08-14|2026-08-14|Learning-to-Transition for Large-scale and High-Order MIMO Detection|Yubo Zhang|[2608.14511v1](https://arxiv.org/pdf/2608.14511v1)|
+|2026-08-14|2026-08-14|Rollplex: Cross-Phase GPU Spatial Sharing for Vision Language Model Post-Training|Hanfeng Lu|[2608.14498v1](https://arxiv.org/pdf/2608.14498v1)|
+|2026-08-14|2026-08-14|Generating Benchmark Health Data Using a Tabular Diffusion Transformer|Hao Yan|[2608.14496v1](https://arxiv.org/pdf/2608.14496v1)|
+|2026-08-14|2026-08-14|LP-NAS: Linear Programming-based Neural Architecture Search|Abhishek Shukla|[2608.14472v1](https://arxiv.org/pdf/2608.14472v1)|
+|2026-08-14|2026-08-14|Wyvern: An Agentic Framework for Generating Grounded Multimodal Reports|Beatrice Alessandra Motetti|[2608.14446v1](https://arxiv.org/pdf/2608.14446v1)|
+
+### VLA
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-08-14|2026-08-14|Reflex: Enabling Fast and Predictive Vision-Language-Action Models for Reaction-Critical Manipulation|Yuxuan Chen|[2608.14379v1](https://arxiv.org/pdf/2608.14379v1)|
+|2026-08-14|2026-08-14|Evolve Vision-Language-Action Model into an Agent with On-the-fly Tool-use|Yi Ding|[2608.14047v1](https://arxiv.org/pdf/2608.14047v1)|
+
+### Agent
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-08-14|2026-08-14|Twin: Playing an Unknown Game with a Test-Time Digital Twin|Alexy Skoutnev|[2608.14490v1](https://arxiv.org/pdf/2608.14490v1)|
+|2026-08-14|2026-08-14|Expected Free Energy-based Informative Path Planning for Robotic Mars Exploration|Ajith Anil Meera|[2608.14466v1](https://arxiv.org/pdf/2608.14466v1)|
+|2026-08-14|2026-08-14|SheetCompass: Hierarchical Relation Graphs for Agentic Spreadsheet Reasoning|Panjing He|[2608.14452v1](https://arxiv.org/pdf/2608.14452v1)|
+|2026-08-14|2026-08-14|PACE-Bench: Benchmarking Physics Adaptation via Code Evolution in Dynamic Environments|Yuhao Zhan|[2608.14441v1](https://arxiv.org/pdf/2608.14441v1)|
+|2026-08-14|2026-08-14|The Past and Future of AI Scientists|Ross D. King|[2608.14407v1](https://arxiv.org/pdf/2608.14407v1)|
+|2026-08-14|2026-08-14|AgentRewind: Recoverable Execution for Long-Horizon LLM Agents|Yu Zhuang|[2608.14380v1](https://arxiv.org/pdf/2608.14380v1)|
 ## Update on 2026-08-15
 
 ### World Model
