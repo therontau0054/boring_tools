@@ -313,6 +313,48 @@ TODO:
 
 
 
+
+## Update on 2026-08-19
+
+### World Model
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-08-18|2026-08-18|Hydra-0: Action Flow for Generalist World Modeling and Control|Hongyu Li|[2608.18077v1](https://arxiv.org/pdf/2608.18077v1)|
+|2026-08-18|2026-08-18|From Corpora to Co-Evolving Capabilities: Capability-Centric Data Design for Generalist Image Generation|Xingjian Wang|[2608.18076v1](https://arxiv.org/pdf/2608.18076v1)|
+|2026-08-18|2026-08-18|TokEval: A Tokenizer Evaluation Suite|Clara Meister|[2608.18062v1](https://arxiv.org/pdf/2608.18062v1)|
+|2026-08-18|2026-08-18|Delegation Asymmetry in Agentic Recommender Systems: Measuring Two-Sided Receptivity in Online Dating|Daria Leshchikova|[2608.18058v1](https://arxiv.org/pdf/2608.18058v1)|
+|2026-08-18|2026-08-18|StagedWorkspace: A Versioned Workspace for Knowledge-Work Agents|Yining Hua|[2608.18050v1](https://arxiv.org/pdf/2608.18050v1)|
+|2026-08-18|2026-08-18|Global Optimization of Flexible District Heating Networks|Marc E. Pfetsch|[2608.18046v1](https://arxiv.org/pdf/2608.18046v1)|
+
+### Generation
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-08-18|2026-08-18|The concentration game: Bayesian updating, regret, and information|Akshay Balsubramani|[2608.18061v1](https://arxiv.org/pdf/2608.18061v1)|
+|2026-08-18|2026-08-18|HLSR: Hybrid Live Forecast Selective Dynamic Vehicle Rerouting for Real-Time Congestion Avoidance|Xiao Wang|[2608.18056v1](https://arxiv.org/pdf/2608.18056v1)|
+|2026-08-18|2026-08-18|Optimize Your Sampling: Tuned Diffusion Sampling with Bayesian Optimization|Travis Zhang|[2608.18040v1](https://arxiv.org/pdf/2608.18040v1)|
+|2026-08-18|2026-08-18|Where A Small Language Model Helps in Invoice Categorisation, Understood Through Embedding Geometry|Emma Ceccherini|[2608.18033v1](https://arxiv.org/pdf/2608.18033v1)|
+|2026-08-18|2026-08-18|Can Large Language Models Explain Flight Safety Events? A Prior-Guided Semantic LLM-based Approach|Lu Xu|[2608.18017v1](https://arxiv.org/pdf/2608.18017v1)|
+|2026-08-18|2026-08-18|Policy-Invariant Reward Shaping from LLM Feedback: A Framework for Hybrid RL Agents|Christophe D. Hounwanou|[2608.18008v1](https://arxiv.org/pdf/2608.18008v1)|
+
+### VLA
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-08-18|2026-08-18|Prism-GRPO: Faster VLA Policy Optimization via Splitting Same-outcome Groups|Zeyun Deng|[2608.17423v1](https://arxiv.org/pdf/2608.17423v1)|
+|2026-08-17|2026-08-17|Teach and Grow: An Agent-Centered Architecture for General Robot Learning|Chang Nie|[2608.17209v1](https://arxiv.org/pdf/2608.17209v1)|
+|2026-08-17|2026-08-17|Don't Drop the BATON: Long-Horizon Robot Manipulation via Agentic Subtask Exploration and Transition-aware Memory|Bingxin Xu|[2608.16889v1](https://arxiv.org/pdf/2608.16889v1)|
+|2026-08-17|2026-08-17|HAF: Adapting Generalist VLAs to Humanoid Whole-Body Loco-manipulation via Hierarchical Action Flow and Spectral Latent RL|Langzhe Gu|[2608.16837v1](https://arxiv.org/pdf/2608.16837v1)|
+|2026-08-17|2026-08-17|FabriMAE I Trust Myself? Self-Evaluating VLA Action Generation with Markov Attention Entropy| Aniri|[2608.16697v1](https://arxiv.org/pdf/2608.16697v1)|
+|2026-08-17|2026-08-17|NebulaVLA: A Dual-Frequency Vision-Language-Action Model With Guide Action for Robotic Manipulation|Cong Zhao|[2608.16503v1](https://arxiv.org/pdf/2608.16503v1)|
+
+### Agent
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-08-18|2026-08-18|On the Fragility of Self-Improving Agents: Variance, Task Order, and Underspecification|Qinyuan Ye|[2608.18066v1](https://arxiv.org/pdf/2608.18066v1)|
+|2026-08-18|2026-08-18|EvoTS-Agent: A Self-Evolving LLM Agent for Financial Time Series Change Point Detection|Lei Jiang|[2608.17933v1](https://arxiv.org/pdf/2608.17933v1)|
+|2026-08-18|2026-08-18|Collective Counterfactual Planning: Coordination, Consent, and Verification under Representational Constraints|Chainarong Amornbunchornvej|[2608.17932v1](https://arxiv.org/pdf/2608.17932v1)|
+|2026-08-18|2026-08-18|A Theoretical Framework for Parallel Lifelong MAPF Using Group Decentralized Planning|Alex DeWeese|[2608.17928v1](https://arxiv.org/pdf/2608.17928v1)|
+|2026-08-18|2026-08-18|AutoResearch: Insight In, Hallucination Out|Yiming Ren|[2608.17906v1](https://arxiv.org/pdf/2608.17906v1)|
+|2026-08-18|2026-08-18|AdaLens: Interactive Storyline for Monitoring and Steering Long-Running Agentic Data Analysis|Yangtian Liu|[2608.17834v1](https://arxiv.org/pdf/2608.17834v1)|
 ## Update on 2026-08-17
 
 ### World Model

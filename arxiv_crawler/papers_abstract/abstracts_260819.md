@@ -1,0 +1,297 @@
+# Abstracts of Papers
+
+## World Model
+### Hydra-0: Action Flow for Generalist World Modeling and Control
+**Authors**: Hongyu Li, Bowen Wen, Xinghao Zhu, Yixuan Wang, Yilun Du, Yunzhu Li, George Konidaris, Stan Birchfield, Soha Pouya, Chenran Li, Yan Chang
+
+**Published Date**: 2026-08-18
+
+**Updated Date**: 2026-08-18
+
+**PDF Url**: [2608.18077v1](https://arxiv.org/pdf/2608.18077v1)
+
+**Abstract**: We introduce Hydra-0, a generalist world model conditioned on action flow, which represents robot actions as pixel motion. This shared visual interface enables generalist world modeling and control by learning action consequences across embodiments, tasks, environments, and video-generation backbones. Our best configuration achieves 90.4% lower robot-motion error and 60.2% lower object-motion error than our action-conditioned baseline, while supporting zero-shot composition and data-efficient adaptation. On the RoboLab benchmark, Hydra-0 achieves a Pearson correlation of r=0.96 between replayed and reference success rates. Finally, we uncover an emergent inverse mode of this interface: a world action model that predicts compatible robot motion from desired object flow transferred from a human demonstration. A trained action head maps the resulting latent features to executable actions without requiring task-specific expert robot demonstrations. Together, these results demonstrate the potential of action flow as a shared control interface connecting heterogeneous training data, open-loop policy evaluation, and robot control.
+
+
+### From Corpora to Co-Evolving Capabilities: Capability-Centric Data Design for Generalist Image Generation
+**Authors**: Xingjian Wang, Zhao Wang, Taihang Hu, Jun Zheng, Qing Jin, Qinye Zhou, Zhengtao Wu, Yongchao Du, Zuan Gao, Chao Lin, Yefeng Shen, Xiaoli Xu, Zhengze Xu, Hao Yan, Yuhang Yu, Mingzhou Zhang, Mengting Chen
+
+**Published Date**: 2026-08-18
+
+**Updated Date**: 2026-08-18
+
+**PDF Url**: [2608.18076v1](https://arxiv.org/pdf/2608.18076v1)
+
+**Abstract**: Large-scale image generation has benefited from advances in data scale, quality, rebalancing, and recaptioning, yet conventional pipelines typically optimize task-specific datasets in isolation. A central challenge is not only how to curate each task-specific corpus, but also how to organize heterogeneous supervision according to the dependencies among generative capabilities. We present a \textbf{capability-driven data infrastructure} that couples capability-specific supervision construction with capability-aligned curriculum scheduling. Its three specialized yet interoperable data engines build complementary relational supervision for text-image grounding, inter-image transformation, and image-knowledge association, while caption experts align T2I and editing supervision across tasks and granularities. A multi-stage curriculum jointly evolves task composition, visual-concept distribution, data quality, and image resolution along the dependency order of capability acquisition, with capability-aware evaluation closing the loop through targeted retrieval, expert construction, and gap-aware resampling. At scale, the framework curates a 440M-image T2I corpus, 120M editing pairs, and over 27M image-entity pairs. With this infrastructure, we train multimodal diffusion models at two scales from scratch, with 3B and 6B sizes respectively. We conduct quantitative evaluation on CPI-Bench, along with qualitative evaluations across diverse text-to-image and editing scenarios. Experimental results present broad visual coverage, versatile rendering, and effective transfer across generative capabilities.
+
+
+### TokEval: A Tokenizer Evaluation Suite
+**Authors**: Clara Meister
+
+**Published Date**: 2026-08-18
+
+**Updated Date**: 2026-08-18
+
+**PDF Url**: [2608.18062v1](https://arxiv.org/pdf/2608.18062v1)
+
+**Abstract**: Language model tokenizers are typically selected with minimal evaluation, despite the fact that their design choices directly impact model capabilities. This can be partly attributed to a limited understanding of which tokenizer properties affect which aspects of downstream performance. We introduce TokEval, a framework of tokenizer evaluation metrics that goes beyond standard measures like fertility and compression rate to capture linguistically and structurally meaningful properties, e.g., UTF-8 character boundary integrity and digit place-value boundary alignment for mathematics. To validate whether these metrics are predictive of downstream model performance, we conduct controlled language model pretraining experiments, varying solely the tokenizers' training data mixture, pretokenization strategy, and training algorithm. We evaluate the resulting models on bits-per-byte (a tokenizer-agnostic version of perplexity) and several benchmarks, spanning linguistic understanding, mathematical reasoning, and code generation. Our experiments suggest that different intrinsic properties have different impacts on model abilities: information-theoretic metrics predict language modeling abilities (Spearman rho up to 0.80), while structure-sensitive metrics, such as those measuring digit and line-break handling, correlate with task accuracy. We hope TokEval enables more principled tokenizer evaluation, replacing pretraining sweeps with intrinsic measurement wherever the two agree.
+
+
+### Delegation Asymmetry in Agentic Recommender Systems: Measuring Two-Sided Receptivity in Online Dating
+**Authors**: Daria Leshchikova, Valentina V. Kuskova, Dmitry Zaytsev, Valerii Klimov
+
+**Published Date**: 2026-08-18
+
+**Updated Date**: 2026-08-18
+
+**PDF Url**: [2608.18058v1](https://arxiv.org/pdf/2608.18058v1)
+
+**Abstract**: Autonomous LLM agents that converse on a user's behalf are an emerging design pattern in matching platforms, yet their viability depends on a condition rarely examined: users must accept not only delegating conversation to an agent, but also receiving agent-mediated communication from others. We study this condition using two large-scale surveys of active users of a major dating platform (N=2,894 on generative profile features; N=2,617 on autonomous conversational agents, fielded in two languages). We develop a latent-variable measurement model of agent receptivity based on graded response models with latent regression, and show via model comparison that willingness to send and willingness to receive agent communication are distinct constructs: highly correlated (rho=0.92) but separable (Delta BIC=52), with partial measurement invariance across languages. The model quantifies a systematic delegation asymmetry: deploying one's own agent requires far lower receptivity (threshold -0.38) than engaging a counterpart's agent (+0.32; full engagement +1.39), and mean deployment propensity exceeds engagement propensity roughly threefold. Under a random-pairing counterfactual derived from stated receptivity, only 4-13% of directed dyads combine agent deployment with receiver engagement, with a pronounced gender-directional imbalance. Design counterfactuals quantify the levers: a reciprocity requirement cuts interaction volume by half or more by excluding nearly two-thirds of would-be deployment, while routing agent contacts on receive receptivity triples per-contact engagement, a lift that survives out-of-sample validation with the target item held out (AUC 0.88, 3.1x quartile lift under respondent-level cross-validation). We discuss implications for agentic recommender design, including disclosure, opt-in mechanics, and receptivity-aware matchmaking.
+
+
+### StagedWorkspace: A Versioned Workspace for Knowledge-Work Agents
+**Authors**: Yining Hua, Hongbin Na, Yifan Zhou, Akshay Kalose, Cyrus Ayubcha, Levi Lian
+
+**Published Date**: 2026-08-18
+
+**Updated Date**: 2026-08-18
+
+**PDF Url**: [2608.18050v1](https://arxiv.org/pdf/2608.18050v1)
+
+**Abstract**: AI agents increasingly perform knowledge work (i.e., produce and modify persistent digital artifacts such as code repositories, documents, spreadsheets, slides, reports), yet the parsed views they search, the native files they edit, the changes they review, and the artifacts they submit can refer to different versions of the same work product. We formulate this as a workspace-state contract: every view should be explicitly tied to a version of the evolving workspace state. Coding agents partly address this need through repository contracts for search, diffs, and tests, whereas an analogous contract is less explicit for PDFs, spreadsheets, slides, notebooks, and mixed-format project folders. We propose StagedWorkspace, a versioned workspace for knowledge-work agents. The workspace binds parsed records and review diffs to content hashes of the native files as they change. In fixed-harness ablations on OfficeQA Pro and APEX-Agents, dual parsed/native access has the highest point estimate for every tested model; relative to the more limiting single view, it improves OfficeQA Pass@1 by 8.3-12.1 points and APEX mean rubric score by 4.7-9.2 points. SW-AGENT scores 63.9% with Gemini 3.1 Pro on OfficeQA and 42.1 with GPT-5.4 Nano on APEX, compared with published same-model scores of 29.3% and 25.5, respectively. A paired review-axis ablation on 57 file-editing tasks further finds higher observed scores when diffs are visible. These results identify workspace state as an experimental variable in knowledge-work agents and motivate benchmarks that score evidence, staged edits, and submitted artifacts as explicit state transitions.
+
+
+### Global Optimization of Flexible District Heating Networks
+**Authors**: Marc E. Pfetsch, Lea Rehlich, Florian Steinke, Stefan Ulbrich
+
+**Published Date**: 2026-08-18
+
+**Updated Date**: 2026-08-18
+
+**PDF Url**: [2608.18046v1](https://arxiv.org/pdf/2608.18046v1)
+
+**Abstract**: District heating networks are a central tool to achieve low-carbon heat supplies. In this realm, they face the challenge of dealing with increasingly heterogeneous, partially time-varying renewable sources, thermal storage, and meshed topologies. This paper examines global optimization of the operation of such district heating networks over multiple time steps, based on a stationary, yet realistical nonlinear network model.
+  To accelerate the solution performance of a spatial branch-and-bound algorithm for one time step, the following new methodological ingredients are introduced: exclusion of cyclic flow, symmetry exploitation between supply and return networks, reduction of temperature mixing constraints, novel primal heuristics and branching rules. The proposed methods are evaluated on a set of generated and real-world benchmark network instances with cycles and several suppliers. On the generated benchmark instances, using these methods more than doubles the number of solved instances and more than halves the runtime. For the real-world benchmark instances, the resulting algorithm produces solutions with guaranteed quality in reasonable run time.
+  For multiple time steps that are coupled by a storage, a time decomposition approach is investigated. Under assumptions that are reasonable in practice, this approach is shown to yield an optimal solution. On a small example network, this decomposition is able to compute optimal solutions in less than a second, while solving the complete time-coupled problem is not possible within one hour.
+
+
+## Generation
+### The concentration game: Bayesian updating, regret, and information
+**Authors**: Akshay Balsubramani
+
+**Published Date**: 2026-08-18
+
+**Updated Date**: 2026-08-18
+
+**PDF Url**: [2608.18061v1](https://arxiv.org/pdf/2608.18061v1)
+
+**Abstract**: We give a two-player zero-sum repeated game between a learner and nature whose value identity generates Bayesian updating and an exact accounting of exponential-weights regret at once, and supplies the comparator-class variational form that a wide class of concentration phenomena share. The terminal payoff is the most a comparator can gain at fixed relative entropy from the prior, and the one-step constraint is an information budget on nature's move under the learner's mixed action. With the learner's move otherwise unrestricted, Gibbs/Bayes weights emerge as its unique Bellman equalizer -- the mixed action that makes the per-round loss independent of which direction nature moves -- with log-partition functions playing the role of value functions. The regret decomposes exactly into three parts: a per-round information loss reflecting the variation in observed outcomes, an additive retempering drift that accounts exactly for any change of measurement scale between rounds, and the information the comparator carries relative to the prior. The variance and bounded-range proxies that drive standard regret bounds are looser relaxations of this decomposition, which holds generally and governs them all. Both players' strategies are read off from the decomposition term by term, and repeated play yields an information-theoretic ledger of self-play in place of the usual quadratic-variation surrogate. The same comparator-class geometry accounts for the classical large-deviation bounds, and methods across bandits, posterior sampling, aggregation, and boosting are specializations of the one regret decomposition.
+
+
+### HLSR: Hybrid Live Forecast Selective Dynamic Vehicle Rerouting for Real-Time Congestion Avoidance
+**Authors**: Xiao Wang, Shun Ren Yang, Hui Nien Hung
+
+**Published Date**: 2026-08-18
+
+**Updated Date**: 2026-08-18
+
+**PDF Url**: [2608.18056v1](https://arxiv.org/pdf/2608.18056v1)
+
+**Abstract**: Urban traffic congestion reduces productivity and increases travel cost and emissions. Network-wide live travel-time shortest-path rerouting can be highly effective in simulation, but assumes that essentially every on-road vehicle is replanned every decision period. We propose HLSR, a selective hybrid live--forecast vehicle rerouting framework that fuses live edge speeds with short-horizon forecasts under limited intervention scope. Building on dual-threshold congestion detection, calibrated upstream selection, and driver-tailored travel-time prediction, HLSR further introduces approaching-vehicle expansion, travel-time-weighted k-shortest-path generation, and a horizon-dependent hybrid live--forecast segment speed used in multi-cost route allocation.
+
+
+### Optimize Your Sampling: Tuned Diffusion Sampling with Bayesian Optimization
+**Authors**: Travis Zhang, Christian Belardi, Justin Lovelace, Jin Peng Zhou, Saebyeol Shin, Carla P. Gomes, Kilian Q. Weinberger
+
+**Published Date**: 2026-08-18
+
+**Updated Date**: 2026-08-18
+
+**PDF Url**: [2608.18040v1](https://arxiv.org/pdf/2608.18040v1)
+
+**Abstract**: Sampling from a diffusion model typically requires many forward passes through a large neural network, making generation computationally expensive. While much work has focused on efficient solvers and samplers, comparatively little attention has been paid to selecting the sampling timesteps themselves. A recent line of work optimizes theoretically derived surrogates for sample quality rather than the quality metric itself. We propose Optimizing Your Sampling (OYS), which instead treats timestep selection as a black-box optimization problem, optimizing the target metric directly with Bayesian optimization. OYS outperforms both the default schedules and those of Align Your Steps on text-to-image generation, and improves over the default schedules on inpainting and other image tasks, in both quantitative and human evaluations. OYS requires no additional training, is applicable even to distilled models, and improves both simple and sophisticated samplers such as Euler and DPM-Solver++. A 5-step OYS schedule retains 89%-94% of the quality of a 50-step schedule while reducing inference cost by 10x.
+
+
+### Where A Small Language Model Helps in Invoice Categorisation, Understood Through Embedding Geometry
+**Authors**: Emma Ceccherini, Daniel Lawson, Anjulika Salhan
+
+**Published Date**: 2026-08-18
+
+**Updated Date**: 2026-08-18
+
+**PDF Url**: [2608.18033v1](https://arxiv.org/pdf/2608.18033v1)
+
+**Abstract**: Categorising invoices into the correct General Ledger (GL) code underpins financial reporting and tax compliance. This is a skilled accounting judgement rather than a routine task: the correct category depends subtly on the nature of the purchasing business, the vendor and the invoice text. Whilst AI is increasingly being adopted across industries to automate tasks, including invoice categorisation, implementations built on in-house small language models (SLMs) can simultaneously reduce cost and improve data security, confidentiality, and interpretability. We investigate this approach by first analysing the pre-trained embedding geometry of a small sentence transformer (SBERT) and classic SLM (DeBERTa). The sentence-embedding space of this financial corpus is globally anisotropic but composed of locally isotropic clusters, extending prior token-level findings to sentence embeddings in a financial setting, and these clusters are strongly correlated with the vendor identity. SBERT fine-tuned on a single GPU reaches 0.96 accuracy on invoice classification, above both a zero-shot LLM and a vendor identity baseline, increasing performance for smaller, challenging categories and new clients. For this important generalisation problem, SBERT reaches 0.9 F1 with roughly 100 client-specific invoices, showing that an in-house SLM implementation is promising. Combining these results with geometric analysis shows that pre-trained embedding geometry is associated with classification performance and reveals a counterintuitive finding that a structured input that would help a human reader does not improve the SLM performance.
+
+
+### Can Large Language Models Explain Flight Safety Events? A Prior-Guided Semantic LLM-based Approach
+**Authors**: Lu Xu, Xu Li, Linjiang Zheng, Fan Li, Riquan Zhang, Jiaxing Shang
+
+**Published Date**: 2026-08-18
+
+**Updated Date**: 2026-08-18
+
+**PDF Url**: [2608.18017v1](https://arxiv.org/pdf/2608.18017v1)
+
+**Abstract**: Improving flight safety with flight data requires not only accurate detection of risk events, but more importantly, clear interpretation of their underlying causes at the level of pilot control behavior. Existing explainable AI techniques, such as feature importance maps, often require considerable domain knowledge to translate them into operationally meaningful explanations. Large Language Models (LLMs), which excel at language reasoning, bring a promising solution to this issue. However, applying LLMs in this domain presents key challenges such as modal inconsistency, limited classification ability, scarcity of task-specific data for fine-tuning, and lack of domain knowledge. To overcome these challenges, we propose FlightLLM, a prior-guided semantic LLM-based approach for interpretable flight safety analysis. Specifically, we first perform feature engineering to address modal inconsistency, combining statistical descriptors with physically meaningful flight indicators. This representation is further processed by a Semantic Discretization module, which converts abstract numerical patterns into qualitative descriptions that are more compatible with language reasoning. In addition, since LLMs are not inherently strong classifiers, CatBoost is incorporated as a statistical expert, and its prediction results are injected into the prompt as prior guidance. A contrastive few-shot learning strategy is further adopted to compensate for limited data. Finally, we design structured prompts to embed aviation-specific knowledge into the inference process. Using hard landing, a representative risk event with complex causal mechanisms, as an anchor point, we evaluate FlightLLM on a dataset of 704 real-world A320 flight samples. Experimental results show that the proposed approach achieves competitive classification performance while generating direct and reasonable explanations for event causes.
+
+
+### Policy-Invariant Reward Shaping from LLM Feedback: A Framework for Hybrid RL Agents
+**Authors**: Christophe D. Hounwanou, John Emeka Eze, Yaé U. Gaba
+
+**Published Date**: 2026-08-18
+
+**Updated Date**: 2026-08-18
+
+**PDF Url**: [2608.18008v1](https://arxiv.org/pdf/2608.18008v1)
+
+**Abstract**: Combining large language models with reinforcement learning is increasingly explored, yet the theoretical status of LLM-derived reward signals is often left implicit. We formalize the hybrid LLM-planner and RL-controller architecture as a Goal-Augmented Markov Decision Process and show that when the LLM per-state progress score is used as a bounded potential function, the resulting shaping term preserves the optimal policy set even when the LLM scores are inaccurate. This guarantee is stronger than what general LLM-as-reward approaches provide. We verify the result numerically on a small MDP under four potential configurations, including an adversarial one scaled to twenty times the base reward magnitude.
+
+
+## VLA
+### Prism-GRPO: Faster VLA Policy Optimization via Splitting Same-outcome Groups
+**Authors**: Zeyun Deng, Yuzhe Lu, Yawei Wang, Linbo Liu, Qing Ping, Han Ding, Guande Wu, Panpan Xu, Jun Huan
+
+**Published Date**: 2026-08-18
+
+**Updated Date**: 2026-08-18
+
+**PDF Url**: [2608.17423v1](https://arxiv.org/pdf/2608.17423v1)
+
+**Abstract**: GRPO is increasingly used for reinforcement learning of vision-language-action (VLA) policies because, unlike PPO, it does not require training a critic. This simplification comes with a sampling cost: group-relative advantages require multiple rollouts from each scene. Under binary success rewards, groups whose rollouts all succeed or all fail have zero advantage and are discarded by dynamic sampling. These groups are especially common early in training, when most rollouts fail, wasting much of the expensive robotic rollout budget. We introduce Prism-GRPO, which augments binary outcome reward with a weighted trajectory-level execution-quality score. By splitting same-outcome groups into a quality spectrum, Prism-GRPO recovers training signal while ensuring that every success still outranks every failure. Quality scores can be derived from simulator contacts, executed actions, or visual observations, avoiding task-specific progress rewards. We prove that Prism-GRPO never increases the probability that a sampled group is discarded for having zero advantages, and derive a gradient-alignment condition under which its combined update remains a local ascent direction for task success. Across four RoboTwin tasks spanning different horizons and coordination patterns, Prism-GRPO improves success and quality at matched rollout budgets and reaches target success rates with up to 56% fewer rollouts. It also suppresses a reward-hacking shortcut, with the cleaner behavior transferring under direct deployment to a real robot. Through ablations, we show consistent gains across contact-, smoothness-, and VLM-derived quality signals.
+
+
+### Teach and Grow: An Agent-Centered Architecture for General Robot Learning
+**Authors**: Chang Nie, Zhe Liu, Hesheng Wang
+
+**Published Date**: 2026-08-17
+
+**Updated Date**: 2026-08-17
+
+**PDF Url**: [2608.17209v1](https://arxiv.org/pdf/2608.17209v1)
+
+**Abstract**: End-to-end vision-language-action (VLA) and world-action models offer an elegant route to general-purpose robotics, but their reliability is bounded by validated physical coverage. When an unfamiliar object, sensor, embodiment, or contact falls outside that coverage and no validated fallback exists, correcting the failure requires new robot data, a policy update, and regression testing. This recurring burden is the retraining tax. Unlike text, embodied data must often be created by operating machines. We present Teach-and-Grow Learning (TGL), an agent-centered architecture for general robot learning. In its general form, a multimodal agent turns a few successful demonstrations into reusable Skill Blocks: closed-loop behaviors for meaningful subgoals. In a new scene, the agent grounds and composes these blocks, selects learned or geometric tools, observes the physical outcome, and revises the route when execution departs from intent. A Skill Library stores executable behavior, while structured Experience Memory carries forward success, failure, and repair. New tasks are acquired without task-specific policy retraining. Our LIBERO evaluation attains state-of-the-art performance; controlled studies expose skill induction, persistent reuse, and agent-directed adaptation. Finally, we propose the Teach-and-Grow scaling-law hypothesis: if X denotes effective reusable experience, future-task error and teaching demand should approach irreducible floors as power laws in X. The architecture therefore treats deployment as a period of continued learning, in which one task can make the next easier.
+
+
+### Don't Drop the BATON: Long-Horizon Robot Manipulation via Agentic Subtask Exploration and Transition-aware Memory
+**Authors**: Bingxin Xu, Yuzhang Shang, Emilio Ferrara
+
+**Published Date**: 2026-08-17
+
+**Updated Date**: 2026-08-17
+
+**PDF Url**: [2608.16889v1](https://arxiv.org/pdf/2608.16889v1)
+
+**Abstract**: Long-horizon robot manipulation chains many contact-rich skills into one multi-stage task. Vision-language-action (VLA) models increasingly master the individual skills, yet the chain still fails: errors compound beyond the policy's ability to correct, and one subtask silently constrains the next. A promising recipe freezes the VLA and puts an LLM agent in charge: it plans in language, moves in free space with analytic primitives, invokes the VLA only for contact-rich segments, and writes adaptation into language memory. Applied to long horizons, it breaks twice. (1) Competence comes from whole-task exploration at test time, whose cost is multiplicative in stages: if one stage needs T episodes, a K-stage task needs about T^K, and a failure does not reveal which stage caused it. (2) It has no representation of transitions: the VLA primitive carries an exit but no entry condition, so a subtask can succeed in a form its successor cannot use. We present BATON. Against (1), BATON makes the subtask the unit of exploration: each is explored in the cheap short-horizon regime and its solution stored in memory; a long-horizon trajectory is then composed from these solutions rather than discovered whole. Cost becomes additive (T*K) and every failure is attributed to a single stage. Against (2), BATON equips exploration with a transition-aware memory. Within a subtask, a verifier agent governs the invocation transition: the VLA is called only after the wrist view confirms the scene is ready. Across subtasks, a handoff transition restores an entry state disturbed by the predecessor's residue, and a lookahead transition selects the strategy whose outcome the successor can inherit. No parameters are updated. On the long-horizon benchmark RoboMemArena, BATON improves task success by 11.6% and cumulative success by 14.9% over the SoTA.
+
+
+### HAF: Adapting Generalist VLAs to Humanoid Whole-Body Loco-manipulation via Hierarchical Action Flow and Spectral Latent RL
+**Authors**: Langzhe Gu, Chengkai Hou, Meng Li, Xinhua Wang, Jiaming Liu, Xinyuan Lv, Bowei Zhang, Shuanghao Bai, Guangrun Li, Jingyang He, Gaole Dai, Ziluo Ding, Zhiyuan Xu, Kuan Cheng, Jian Tang, Zhengping Che, Shanghang Zhang
+
+**Published Date**: 2026-08-17
+
+**Updated Date**: 2026-08-17
+
+**PDF Url**: [2608.16837v1](https://arxiv.org/pdf/2608.16837v1)
+
+**Abstract**: Humanoid robots hold great promise as general-purpose agents in human-centered environments, yet generalist vision-language-action (VLA) foundation models are not readily applicable to humanoid whole-body loco-manipulation. The high dimensionality and interdependence of humanoid motions make it challenging for conventional single-stage VLA architectures to coordinate locomotion, waist posture, and dual-arm manipulation effectively. Moreover, policies trained through offline behavior cloning can remain suboptimal during real-world deployment. Although online reinforcement learning can refine policies through real-world interaction, directly tuning large VLA backbones demands excessive computation and may introduce safety risks during real-robot exploration. To address these bottlenecks, we introduce HAF (Humanoid Adaptation Framework), a two-part framework consisting of HAF-VLA and HAF-Steer that transfers off-the-shelf generalist VLA foundation models to humanoid whole-body loco-manipulation. HAF-VLA is a hierarchical action-flow generator built on a pretrained flow-matching VLA. It splits full-body action denoising into three sequential stages with stage embeddings and cross-stage KV caches that retain kinematic dependencies, avoiding incoherent whole-body actions from one-shot generation. On top of the frozen HAF-VLA, HAF-Steer is a latent offline-to-online RL pipeline that leverages flow-matching invertibility and DCT-based dimensionality reduction to restrict RL optimization to a compact noise subspace and train a regularized SAC policy. This avoids updating the large VLA backbone and enables efficient real-world policy refinement. Evaluated on seven real-world humanoid loco-manipulation tasks, HAF surpasses vanilla single-stage VLA baselines and improves whole-body coordination and task performance. Project website: https://grange007.github.io/HAF .
+
+
+### FabriMAE I Trust Myself? Self-Evaluating VLA Action Generation with Markov Attention Entropy
+**Authors**:  Aniri, Chen Yilin, Jinhe Bi, Junfei Guo, Donglai Ran, Xu Bian, Zengjie Jin, Yujun Wang, Yijun Tian, Volker Tresp, Fei Shen, Tat-Seng Chua, Yunpu Ma
+
+**Published Date**: 2026-08-17
+
+**Updated Date**: 2026-08-17
+
+**PDF Url**: [2608.16697v1](https://arxiv.org/pdf/2608.16697v1)
+
+**Abstract**: Vision-Language-Action models (VLAs) integrate visual perception, language instruction, and action generation into end-to-end policies across heterogeneous architectures. However, enabling VLAs to self-evaluate their action generation reliability without external supervision remains a major challenge. Existing methods either rely on expert annotations or estimate uncertainty only from output statistics, largely ignoring internal signals. In this work, we observe that internal visual modality entropy exhibits consistent distinctions between successful and failed tasks across heterogeneous VLAs. Although VLAs' architectures differ in their action generation, we show that they share a common latent action generation abstraction evolving under visual perception, language instruction, and state input, which we formulate as a Conditional Generative Markov Chain. Based on this formulation, we propose MAE (Markov Attention Entropy), a self-evaluation framework that directly converts internal attention signals into architecture-aware reliability scores, and introduce LIBERO-Reflect, a 4,000-episode benchmark combining 2,000 standard episodes and 2,000 challenging episodes across four subsets. Extensive experiments across heterogeneous VLA architectures and diverse scenarios show that MAE consistently outperforms state-of-the-art baselines on AUPR, AUROC, and FPR@95. We further instantiate FabriMAE for verifier-free test-time action selection, showing that MAE-guided multiple sampling improves PI-family robustness on LIBERO-Plus with small observed runtime overhead.
+
+
+### NebulaVLA: A Dual-Frequency Vision-Language-Action Model With Guide Action for Robotic Manipulation
+**Authors**: Cong Zhao, Shuai Tian, Xu Zhang, Baocheng Ni, Xinguo Song, Xueying Sun, Shu Jiang, Shouchang Yang, Bo Tang, Jin Deng, Ge Zhu, YongCheng Wang, Jin Xu, Ri Yang
+
+**Published Date**: 2026-08-17
+
+**Updated Date**: 2026-08-17
+
+**PDF Url**: [2608.16503v1](https://arxiv.org/pdf/2608.16503v1)
+
+**Abstract**: Real-world deployment of Vision-Language-Action (VLA) models is often bottlenecked by efficiency-performance trade-offs, cross-embodiment generalization, and execution smoothness. We present NebulaVLA, an asynchronous dual-frequency architecture that decouples high-level semantic reasoning from low-level action control, optimizing computational resources and modularity. To bridge semantic gaps across heterogeneous robots, we introduce GESTURE-7, a unified language-grounded action representation. Furthermore, our Guide Action algorithm enforces kinematic continuity via mask-based smoothness constraints. Comprehensive evaluations demonstrate that NebulaVLA significantly outperforms synchronous baselines, achieving an 85.5\% average success rate on LIBERO-Plus and accelerating action generation by \textasciitilde 2.7$\times$. This asynchronous design enables highly efficient and responsive control for practical robotics.
+
+
+## Agent
+### On the Fragility of Self-Improving Agents: Variance, Task Order, and Underspecification
+**Authors**: Qinyuan Ye, Yu Li, Yada Pruksachatkun, Jiaxin Zhang, Chien-Sheng Wu
+
+**Published Date**: 2026-08-18
+
+**Updated Date**: 2026-08-18
+
+**PDF Url**: [2608.18066v1](https://arxiv.org/pdf/2608.18066v1)
+
+**Abstract**: Memory-based self-improving agents--those that learn from an online stream of tasks and improve over time by maintaining a textual memory bank--have shown great promise in recent literature. However, the reliability aspects of these methods have been critically overlooked. In this work, we conduct a comprehensive re-evaluation of two memory-based methods, broadening the scope of evaluation along two axes: (1) including multiple runs to quantify variance, and (2) randomly shuffling the tasks to investigate the effect of task order. Through these experiments, we make two observations that expose the fragility of current methods: First, agent evaluation is inherently noisy in complex environments and on multi-step tasks, and stacking a self-improving loop on top can further amplify this noise. Second, the agent's improvement is highly dependent on task order. Prior works often adopt default orderings that impose an implicit curriculum, acting as a hidden prerequisite for success.
+  To better understand this fragility, we manually examine the agents' memory and hypothesize that task and environment underspecification contribute to this fragility. We validate this hypothesis by incorporating information that enables better specification, such as detailed rubrics and environment feedback, into the memory construction process. While this added information partially closes the performance degradation in previous experiments, significant gaps still remain, suggesting that other uncharacterized factors contribute to this fragility. Looking ahead, our work advocates for more rigorous evaluation protocols for self-improving agents by reporting results across multiple runs and stress-testing them under challenging conditions. Moreover, our findings on underspecification call for systems and interfaces that enable effective human oversight, preventing agents from failing in unforeseeable ways.
+
+
+### EvoTS-Agent: A Self-Evolving LLM Agent for Financial Time Series Change Point Detection
+**Authors**: Lei Jiang, Ye Wei, Xinyu Xi, Jordan Langham-Lopez, Yifan Bao, Raad Khraishi, Yihao Ang, Anthony K. H. Tung, Lukasz Szpruch, Hao Ni
+
+**Published Date**: 2026-08-18
+
+**Updated Date**: 2026-08-18
+
+**PDF Url**: [2608.17933v1](https://arxiv.org/pdf/2608.17933v1)
+
+**Abstract**: Financial time series exhibit non-stationary and heterogeneous statistical properties, making change-point detection challenging because no single unsupervised algorithm performs consistently across assets and market regimes. Conventional workflows consequently depend heavily on expert-driven model selection, feature design, and hyperparameter tuning, limiting their scalability and adaptability. We propose EvoTS-Agent, a validation-guided self-evolving LLM agent for autonomous financial time-series change-point detection. EvoTS-Agent first performs curated exploratory data analysis to characterize dataset properties and initialize candidate detection models. It then evolves executable experiment trajectories through three complementary operators: \textit{Revision} exploits the current best solution, \textit{Alternative Strategy} explores fundamentally different modeling directions when progress stagnates, and \textit{Recombination} synthesizes complementary evidence from high-performing trajectories. Validation feedback guides trajectory evolution throughout the search, enabling the agent to adapt its detection pipeline to the statistical characteristics of each dataset while preserving reliable optimization. Experiments across four benchmark datasets demonstrate that EvoTS-Agent consistently outperforms existing LLM-based agents while maintaining a 100\% execution success rate across all evaluated backbone LLMs.
+
+
+### Collective Counterfactual Planning: Coordination, Consent, and Verification under Representational Constraints
+**Authors**: Chainarong Amornbunchornvej
+
+**Published Date**: 2026-08-18
+
+**Updated Date**: 2026-08-18
+
+**PDF Url**: [2608.17932v1](https://arxiv.org/pdf/2608.17932v1)
+
+**Abstract**: Groups routinely complete projects that no single member can plan, execute, or verify alone. We propose a formal model of this phenomenon, Collective Counterfactual Planning (CCP), in which the binding limitation on each agent is neither capability, knowledge, nor observability, but representational geometry: each agent perceives the state, conceives moves, consents to actions, and certifies goal requirements only through a projection onto an agent-specific subspace of a common task space. Four gates jointly determine whether a team can reach a conjunctive goal and legitimately recognize that it has done so: the exogenous implementation coalitions required to perform each action, together with three representational gates -- conception, consent, and task-relative verification qualification. We define the Collective Counterfactual Solvability (CCS) problem, separating geometric feasibility, executable attainment, and validated completion. The results expose a positive-negative duality. Iterated cross-agent relay can unlock a solution that no one-shot pooling of individual plans contains, but any goal requirement depending essentially on the subspace dark to the entire team is unverifiable and therefore not validly completable, even when the trajectory accidentally attains it. Memoryless and audited consent further constrain different objects -- action directions versus cumulative trajectory states -- and neither dominates the other. A four-step exhaustive horizon-bounded solvability scheme is sound and complete under exact representation of the relay closure; restricted implementations remain sound on returned plans but need not be complete. The model gives one geometry for sequential mutual enabling, competent execution of steps whose purpose is invisible to the executor, forced sub-teaming at expertise boundaries, and completion that cannot be validly declared.
+
+
+### A Theoretical Framework for Parallel Lifelong MAPF Using Group Decentralized Planning
+**Authors**: Alex DeWeese, Jiaoyang Li, Guannan Qu
+
+**Published Date**: 2026-08-18
+
+**Updated Date**: 2026-08-18
+
+**PDF Url**: [2608.17928v1](https://arxiv.org/pdf/2608.17928v1)
+
+**Abstract**: In the Lifelong Multi-Agent Path Finding (L-MAPF) problem, agents must repeatedly move from one destination to another while avoiding obstacles and inter-agent collisions. Widely regarded as one of the highest-performing solutions to this problem is the Rolling-Horizon Collision Resolution (RHCR) framework. However, commensurate with its quality solutions, it incurs a computational cost that limits its applicability to even modest agent counts. In this paper, leveraging theoretical methods from the Locally Interdependent Multi-Agent MDP literature, we first theoretically prove the near-optimality of RHCR in a discounted MDP formulation of the L-MAPF problem. Then, we leverage these results to naturally motivate an extended framework called Group Decentralized RHCR (GD-RHCR) which incorporates a group decentralized structure that partitions agents based on a transitive communication scheme and plans for each partition of agents in parallel. We show that both RHCR and GD-RHCR achieve similar exponentially close to optimal guarantees, establishing a theoretical duality between the time based restrictions performed by vanilla RHCR and the additional space based partitioning performed by GD-RHCR. Lastly, we show that across varying maps, GD-RHCR is able to attain high throughput that scales into higher agent counts while maintaining a significantly lower per plan cost.
+
+
+### AutoResearch: Insight In, Hallucination Out
+**Authors**: Yiming Ren, Xiang Liu, Qumeng Sun, Xiao Zhang, Jiahao Li, Haoyang Zhang, Junjie Wang
+
+**Published Date**: 2026-08-18
+
+**Updated Date**: 2026-08-18
+
+**PDF Url**: [2608.17906v1](https://arxiv.org/pdf/2608.17906v1)
+
+**Abstract**: Autonomous research systems are increasingly capable of executing long research workflows, yet automation alone does not ensure that the resulting process remains scientifically grounded. We introduce AutoResearch, a two-stage system that connects Idea Generation with Idea Execution to address both how research ideas are formed and how they are reliably established through experimentation. In Idea Generation, AutoResearch continuously integrates emerging research signals with accumulated domain knowledge, identifies transferable mechanistic insights, and uses multi-model generation and cross-review to produce grounded, testable research plans. In Idea Execution, coordinated agents decompose these plans into experiments, iteratively implement and diagnose them, and employ independent evidence-based review before accepting research conclusions. Across representative settings in cross-modal retrieval, systems optimization, and benchmark-driven machine learning, AutoResearch turns generated ideas into measurable progress, detects and corrects unreliable experimental results, and makes evidence-conditioned decisions to continue, revise, or terminate research directions. For example, on RSICD benchmark, an AutoResearch-generated idea improves mean Recall from 32.84 to 34.69, while recording only 5 audit-confirmed issue events compared with 11-27 for other autonomous research systems. These results demonstrate a research process in which meaningful insight is grounded before experimentation and conclusions are grounded before acceptance: Insight In, Hallucination Out.
+
+
+### AdaLens: Interactive Storyline for Monitoring and Steering Long-Running Agentic Data Analysis
+**Authors**: Yangtian Liu, Yan Miao, Shuhan Liu, Yunfan Zhou, Dae Hyun Kim, Di Weng, Yingcai Wu
+
+**Published Date**: 2026-08-18
+
+**Updated Date**: 2026-08-18
+
+**PDF Url**: [2608.17834v1](https://arxiv.org/pdf/2608.17834v1)
+
+**Abstract**: Large language models are pushing data science toward increasingly autonomous and agentic workflows, with recent systems already supporting multi-step and long-running analyses. As these workflows become more autonomous, conventional interfaces no longer provide adequate support for two critical requirements: observability for understanding an agent's evolving reasoning and evidence, and steerability for redirecting low-value directions or deepening promising ones during execution. Existing interactive approaches improve process visibility and open intervention points, but they remain largely designed for discrete, turn-by-turn exchanges rather than the parallel branches and evolving decision structures of long-running agentic analysis. We study this need as interactive oversight in long-running agentic data analysis and present AdaLens, an interactive system for monitoring and steering ongoing runs. AdaLens combines a storyline-based representation that unifies analytical plans, execution progress, intermediate findings, and data-column involvement with steering interactions grounded in these analytical elements for directional guidance and execution control. We evaluate AdaLens through two case studies and a user study, examining how it supports analysts in monitoring and steering long-running agentic data analysis.
+
+
