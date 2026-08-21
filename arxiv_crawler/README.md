@@ -314,6 +314,48 @@ TODO:
 
 
 
+
+## Update on 2026-08-21
+
+### World Model
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-08-20|2026-08-20|Information on trajectories: martingales and random times|Akshay Balsubramani|[2608.20337v1](https://arxiv.org/pdf/2608.20337v1)|
+|2026-08-20|2026-08-20|ConceptGuard: Benchmarking Context-Sensitive Unlearning in Large Language Models|Sahil Kale|[2608.20338v1](https://arxiv.org/pdf/2608.20338v1)|
+|2026-08-20|2026-08-20|G-CARL: Grounded Checklist-Aligned Reward Learning for Patient-Oriented Medical Report Interpretation|Shiao Xie|[2608.20331v1](https://arxiv.org/pdf/2608.20331v1)|
+|2026-08-20|2026-08-20|$TCP_α$: Margin-Controlled Confidence estimation for reliable Music Information Retrieval|Parampreet Singh|[2608.20326v1](https://arxiv.org/pdf/2608.20326v1)|
+|2026-08-20|2026-08-20|An Agentic Approach for Active Data Collection, Travel Behavior Modeling, and Weather-Sensitive Demand Prediction|Narges Ahmadi|[2608.20320v1](https://arxiv.org/pdf/2608.20320v1)|
+|2026-08-20|2026-08-20|Inducing Task Models from Computer-Use Traces|Yucheng Jiang|[2608.20319v1](https://arxiv.org/pdf/2608.20319v1)|
+
+### Generation
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-08-20|2026-08-20|A comparison between ceiling-mounted FMCW, IR-UWB and Wi-Fi radar for in-bedroom human activity monitoring and sleep interruption detection|Anton Lambrecht|[2608.20322v1](https://arxiv.org/pdf/2608.20322v1)|
+|2026-08-20|2026-08-20|Explainable Transformer Models for Clinical Prediction Tasks on Structured Electronic Health Records|Jun Ni Du|[2608.20315v1](https://arxiv.org/pdf/2608.20315v1)|
+|2026-08-20|2026-08-20|MidTool: Mid-training Data Synthesis for Agentic Tool Use|Fengqing Jiang|[2608.20314v1](https://arxiv.org/pdf/2608.20314v1)|
+|2026-08-20|2026-08-20|Inject, Align, Recover: Staged Post-Training for Retrieval-Free Document Knowledge Internalization|Qian Kou|[2608.20281v1](https://arxiv.org/pdf/2608.20281v1)|
+|2026-08-20|2026-08-20|Catching the Rug: Early Prediction of Fraudulent Memecoins on Solana via Machine Learning|Jianghai Li|[2608.20271v1](https://arxiv.org/pdf/2608.20271v1)|
+|2026-08-20|2026-08-20|Transfer Learning in Nonparametric Regression with Deep ReLU Networks|Junpeng Ren|[2608.20255v1](https://arxiv.org/pdf/2608.20255v1)|
+
+### VLA
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-08-20|2026-08-20|EXIMO: VLM Guided Exploration of VLA Policies|Bhavya Sukhija|[2608.19891v1](https://arxiv.org/pdf/2608.19891v1)|
+|2026-08-19|2026-08-19|Fine-Tuning VLAs with Self-Demonstrated Generative Control for Multi-Task Manipulation|Prachi Garg|[2608.19490v1](https://arxiv.org/pdf/2608.19490v1)|
+|2026-08-19|2026-08-19|Beyond the Transcript: Detecting Covert Co ordination in Latent Multi-Agent Communication|Ramneet Kaur|[2608.19161v1](https://arxiv.org/pdf/2608.19161v1)|
+|2026-08-19|2026-08-19|GS-VLA: Plug-and-Play Viewpoint Canonicalization for Frozen VLA Policies via Gaussian Splatting|Yechan Park|[2608.19066v1](https://arxiv.org/pdf/2608.19066v1)|
+|2026-08-19|2026-08-19|The Embodiment Gap in Robot Foundation Models|Yukiyasu Domae|[2608.18433v1](https://arxiv.org/pdf/2608.18433v1)|
+|2026-08-19|2026-08-19|Role-Conditioned Sub-Token Routing for Efficient Vision-Language-Action Policies|Wei Jiang|[2608.18410v1](https://arxiv.org/pdf/2608.18410v1)|
+
+### Agent
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-08-20|2026-08-20|AI4AI-Bench: Benchmarking LLM Agents in Algorithmic Design for Recursive Self-Improvement|Yizhe Chi|[2608.20318v1](https://arxiv.org/pdf/2608.20318v1)|
+|2026-08-20|2026-08-20|Break It Down, Pass It On: Cross-Task Skill Transfer in LLM Agents|Yiyang Feng|[2608.20274v1](https://arxiv.org/pdf/2608.20274v1)|
+|2026-08-20|2026-08-20|Growth Without Us: Machine Consumers, Corporate Circularity, and the Decoupling of GDP from Humanity after AGI|Sahil Sharma|[2608.20231v1](https://arxiv.org/pdf/2608.20231v1)|
+|2026-08-20|2026-08-20|The Third Restructuring of Software Form: From the Three-Tier Architecture to Storage, Models, and Agents|Wei Lin|[2608.20201v1](https://arxiv.org/pdf/2608.20201v1)|
+|2026-08-20|2026-08-20|From Agent Behaviour to Agent-Friendly Documentation: An Empirical Study of How Coding Agents Discover, Read, and Write Technical Documentation|Zhijun Gao|[2608.20195v1](https://arxiv.org/pdf/2608.20195v1)|
+|2026-08-20|2026-08-20|Task-CoEvolve: Efficient Harness Optimization via Adaptive Validation Task Selection|Atsuyuki Miyai|[2608.20169v1](https://arxiv.org/pdf/2608.20169v1)|
 ## Update on 2026-08-19
 
 ### World Model
