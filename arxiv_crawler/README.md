@@ -315,6 +315,47 @@ TODO:
 
 
 
+
+## Update on 2026-08-23
+
+### World Model
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-08-20|2026-08-20|Pandora's AI Model Routing Box: Efficient Allocation with Costly Value Estimation|Adam Fisch|[2608.20316v1](https://arxiv.org/pdf/2608.20316v1)|
+|2026-08-20|2026-08-20|Imaging the vacuum fluctuations of a quantum field|Yansheng Zhang|[2608.20311v1](https://arxiv.org/pdf/2608.20311v1)|
+|2026-08-20|2026-08-20|Phantom Gains: Auditing Self-Improvement Against a Measured Null|Cheng Xu|[2608.20290v1](https://arxiv.org/pdf/2608.20290v1)|
+|2026-08-20|2026-08-20|Dynamic Structural Causal Modeling for Sleep|Ranveer Singh|[2608.20285v1](https://arxiv.org/pdf/2608.20285v1)|
+|2026-08-20|2026-08-20|Towards Surgical World-Action Modeling: A Preliminary Joint Visual-Trajectory Forecasting for Surgical Motion Planning|Weiliang Huang|[2608.20284v1](https://arxiv.org/pdf/2608.20284v1)|
+|2026-08-20|2026-08-20|Which Eviction Policy Should an LLM Cache Use? A Systematic Study Across Workloads, Capacities, and Encoders|Yash Kulkarni|[2608.20280v1](https://arxiv.org/pdf/2608.20280v1)|
+
+### Generation
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-08-20|2026-08-20|Rule-Compliant Visual Spatial Planning for Multimodal Large Language Models|Yu Chen|[2608.20237v1](https://arxiv.org/pdf/2608.20237v1)|
+|2026-08-20|2026-08-20|Gravitational-wave parameter estimation with machine-learning generated surrogate waveforms|Suyog Garg|[2608.20222v1](https://arxiv.org/pdf/2608.20222v1)|
+|2026-08-20|2026-08-20|ContractScrub: A benchmark for final review of legal contracts|Yejin Bang|[2608.20204v1](https://arxiv.org/pdf/2608.20204v1)|
+|2026-08-20|2026-08-20|Decoding silent reading from non-invasive EEG|Ingo Marquardt|[2608.20186v1](https://arxiv.org/pdf/2608.20186v1)|
+|2026-08-20|2026-08-20|Exact Algebraic Computation of Learning Coefficients for Two-Dimensional Singular Models|Grégoire Sergeant-Perthuis|[2608.20183v1](https://arxiv.org/pdf/2608.20183v1)|
+|2026-08-20|2026-08-20|Discrete Diffusion Inference-Time Control with Nested Sequential Monte Carlo|Lohithsai Yadala Chanchu|[2608.20123v1](https://arxiv.org/pdf/2608.20123v1)|
+
+### VLA
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-08-16|2026-08-16|Robo-Dopamine 2.0: History-Conditioned and OOD-Aware Process Reward Modeling for Robotic Manipulation|Yijie Xu|[2608.15680v1](https://arxiv.org/pdf/2608.15680v1)|
+|2026-08-16|2026-08-16|Algorithm-Architecture Co-Design for Efficient VLA Inference via Speculative Inference and Verification|Chunyu Qi|[2608.15636v1](https://arxiv.org/pdf/2608.15636v1)|
+|2026-08-16|2026-08-16|EcoVLA: Energy-Efficient Device-Edge Co-Inference for Vision-Language-Action Models under Real-Time Constraints|Ao Zhou|[2608.15502v1](https://arxiv.org/pdf/2608.15502v1)|
+|2026-08-16|2026-08-16|Bit-Flip Attacks on Vision-Language-Action Models: Action-Decoding Architecture Shapes the Vulnerability|Yudong Gao|[2608.15475v1](https://arxiv.org/pdf/2608.15475v1)|
+|2026-08-15|2026-08-15|PhaseLoRA: Control-Regime-Conditioned Low-Rank Adaptation for Continuous-Action Vision-Language-Action Policies|Yufei Guo|[2608.15285v1](https://arxiv.org/pdf/2608.15285v1)|
+
+### Agent
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-08-20|2026-08-20|Reward-Guided Autoregressive Graph Generation for Efficient Multi-Agent Communication Topology Design|Poomphob Suwannapichat|[2608.20099v1](https://arxiv.org/pdf/2608.20099v1)|
+|2026-08-20|2026-08-20|A three-dimensional typology of agency for advanced AI systems|Willem Fourie|[2608.20041v1](https://arxiv.org/pdf/2608.20041v1)|
+|2026-08-20|2026-08-20|Optimal Skill Selection for LLM Agents with Provable Bicriteria Guarantees|Yu Chen|[2608.19993v1](https://arxiv.org/pdf/2608.19993v1)|
+|2026-08-20|2026-08-20|ReguSim: Evaluating LLM Agent Rule Grounding in Financial Compliance|Yiyang Luo|[2608.19974v1](https://arxiv.org/pdf/2608.19974v1)|
+|2026-08-20|2026-08-20|G-MARK: Grounded Multi-Agent Reasoning for Cooperative Driving via Knowledge Graphs|Bhavya Gupta|[2608.19964v1](https://arxiv.org/pdf/2608.19964v1)|
+|2026-08-20|2026-08-20|Bringing analytic rigor to agentic AI for science: The Brain Researcher platform for neuroimaging data analysis|Zijiao Chen|[2608.19902v1](https://arxiv.org/pdf/2608.19902v1)|
 ## Update on 2026-08-21
 
 ### World Model
