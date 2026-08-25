@@ -316,6 +316,48 @@ TODO:
 
 
 
+
+## Update on 2026-08-25
+
+### World Model
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-08-24|2026-08-24|How to Train a Critic Stably and Efficiently|Penghui Qi|[2608.23566v1](https://arxiv.org/pdf/2608.23566v1)|
+|2026-08-24|2026-08-24|ReWorld: An Interactive World Model with Long-Horizon Memory|Zhifei Chen|[2608.23565v1](https://arxiv.org/pdf/2608.23565v1)|
+|2026-08-24|2026-08-24|SWE Refactor Bench: Can Coding Agents Complete a Long-Horizon, Whole-Repository Stack Migration?|Deyao Hong|[2608.23564v1](https://arxiv.org/pdf/2608.23564v1)|
+|2026-08-24|2026-08-24|EG-ARSA: An Expert-Grounded Open Model for Visual Road Safety Auditing in Low-Resource Settings|Md Thamed Bin Zaman Chowdhury|[2608.23563v1](https://arxiv.org/pdf/2608.23563v1)|
+|2026-08-24|2026-08-24|Physics-Constrained Deep Learning Model for Contactless Blood Pressure Monitoring from Triaxial Bodyseismography|Yuanyuan Zhang|[2608.23562v1](https://arxiv.org/pdf/2608.23562v1)|
+|2026-08-24|2026-08-24|Provably adaptive sampling with uniform and remasking discrete diffusion models|Daniil Dmitriev|[2608.23554v1](https://arxiv.org/pdf/2608.23554v1)|
+
+### Generation
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-08-24|2026-08-24|Prime Agent: A Self-Improving RLM Harness|Seth Karten|[2608.23552v1](https://arxiv.org/pdf/2608.23552v1)|
+|2026-08-24|2026-08-24|ConvergeFlow: Language Flow with Provable Convergence to Token Embeddings|Na Li|[2608.23551v1](https://arxiv.org/pdf/2608.23551v1)|
+|2026-08-24|2026-08-24|The Interaction Tax: When Communication Erases Diversity in Multi-Agent Teams|Summer Eunhyung Ann|[2608.23541v1](https://arxiv.org/pdf/2608.23541v1)|
+|2026-08-24|2026-08-24|The Measurement Revolution? Credible Measurement and Inference in the Age of AI|Melissa Dell|[2608.23524v1](https://arxiv.org/pdf/2608.23524v1)|
+|2026-08-24|2026-08-24|When Names Cross Scripts: A Source-Grounded Benchmark for Historical Entity Reconciliation in the Mongol World|Xiang Chen|[2608.23507v1](https://arxiv.org/pdf/2608.23507v1)|
+|2026-08-24|2026-08-24|Multi-Modal Semantic Expansion with Constrained LLM Reranking for Conversational Music Recommendation|Naman Garg|[2608.23484v1](https://arxiv.org/pdf/2608.23484v1)|
+
+### VLA
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-08-24|2026-08-24|Act with Intent: Distilling Behavior Intent for Vision-Language-Action Models|Sangoh Lee|[2608.23478v1](https://arxiv.org/pdf/2608.23478v1)|
+|2026-08-24|2026-08-24|Think Only When Needed: Prompt-Authority Control for Selective Slow-Path Intervention in Vision-Language-Action Manipulation|Zhiruo Zhou|[2608.23224v1](https://arxiv.org/pdf/2608.23224v1)|
+|2026-08-24|2026-08-24|Pointing-VLA: Typed Spatial Grounding Interfaces for Vision-Language-Action Manipulation|Xiwen Chen|[2608.23138v1](https://arxiv.org/pdf/2608.23138v1)|
+|2026-08-24|2026-08-24|Triplet2Track: A Hierarchical System with Object-Centric Representations for Reliable Long-Horizon Manipulation|Jianxiang Liu|[2608.22800v1](https://arxiv.org/pdf/2608.22800v1)|
+|2026-08-21|2026-08-21|CertVLA: Certified Defense against Physical Visual Attacks for Vision-Language-Action Models|Hui Lu|[2608.20791v1](https://arxiv.org/pdf/2608.20791v1)|
+|2026-08-21|2026-08-21|Is Multimodal Speculative Decoding Ready for Diffusion-Based Parallel Drafting? A Survey and Empirical Diagnosis|Yantao Li|[2608.20743v1](https://arxiv.org/pdf/2608.20743v1)|
+
+### Agent
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-08-24|2026-08-24|EarthVerse: Benchmarking Scientific Agents Across Dynamic Earth Systems and Natural Hazards|Zhiqing Cui|[2608.23525v1](https://arxiv.org/pdf/2608.23525v1)|
+|2026-08-24|2026-08-24|SRPO: Self-Reflective Policy Optimization for Long-Horizon Reasoning|Jialong Liu|[2608.23493v1](https://arxiv.org/pdf/2608.23493v1)|
+|2026-08-24|2026-08-24|MetaCaster: Meta-Harness-Optimized Agent for End-to-End Few-Shot Learning of Lightweight Time Series Forecasters|ChengAo Shen|[2608.23473v1](https://arxiv.org/pdf/2608.23473v1)|
+|2026-08-24|2026-08-24|InjecMEM: Memory Injection Attack on LLM Agent Memory Systems|Hanling Tian|[2608.23471v1](https://arxiv.org/pdf/2608.23471v1)|
+|2026-08-24|2026-08-24|Reward-Free Continual Adaptation for Resilient Space Robots|Andrej Orsula|[2608.23452v1](https://arxiv.org/pdf/2608.23452v1)|
+|2026-08-24|2026-08-24|Towards Comprehensive Basketball Understanding|Yirong Hu|[2608.23435v1](https://arxiv.org/pdf/2608.23435v1)|
 ## Update on 2026-08-23
 
 ### World Model
