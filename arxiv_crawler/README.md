@@ -317,6 +317,48 @@ TODO:
 
 
 
+
+## Update on 2026-08-27
+
+### World Model
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-08-26|2026-08-26|VBVR-Pro: A Scalable and Verifiable Suite for Native Visual Reasoning|Junxiang Xu|[2608.26105v1](https://arxiv.org/pdf/2608.26105v1)|
+|2026-08-26|2026-08-26|Zero-WAM: In-Context World-Action Modeling from Human Videos for Open-Ended Task Generalization|Jiaming Zhou|[2608.26103v1](https://arxiv.org/pdf/2608.26103v1)|
+|2026-08-26|2026-08-26|MyoMechanix: Biomechanically-Grounded Compositional Skilled Activity Understanding and Coaching|Hao Yin|[2608.26094v1](https://arxiv.org/pdf/2608.26094v1)|
+|2026-08-26|2026-08-26|Finding and using interpretable latents in a neutrino foundation model with sparse autoencoders|Raphaël Bonnet-Guerrini|[2608.26090v1](https://arxiv.org/pdf/2608.26090v1)|
+|2026-08-26|2026-08-26|Planetary Prediction Engine: Autonomous Geospatial Prediction via Intelligent Data Selection and Foundation Model Embeddings|Evelyn Ma|[2608.26088v1](https://arxiv.org/pdf/2608.26088v1)|
+|2026-08-26|2026-08-26|TraceML: An Empirical Analysis of Human-Agent Planning in Machine Learning Development|Jiarui Yan|[2608.26086v1](https://arxiv.org/pdf/2608.26086v1)|
+
+### Generation
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-08-26|2026-08-26|$R^3$: Training Robots to Reason in Natural Language via Reinforcement Learning|Lehong Wu|[2608.26053v1](https://arxiv.org/pdf/2608.26053v1)|
+|2026-08-26|2026-08-26|AsymSpec: Context-Asymmetric Speculative Decoding for Agentic LLMs|Sheng Liang|[2608.26004v1](https://arxiv.org/pdf/2608.26004v1)|
+|2026-08-26|2026-08-26|ProgRouter: Online Progress-Guided Orchestration for Multi-Agent LLM Workflows under Quality-Cost Tradeoffs|Songyuan Li|[2608.25992v1](https://arxiv.org/pdf/2608.25992v1)|
+|2026-08-26|2026-08-26|Multi-Granularity Context-Enhanced RAG over Multimodal Knowledge Graphs|Zongyu Wu|[2608.25986v1](https://arxiv.org/pdf/2608.25986v1)|
+|2026-08-26|2026-08-26|SciMIF: Understanding Multimodal Instruction Following in Scientific Domains|Ye Shen|[2608.25973v1](https://arxiv.org/pdf/2608.25973v1)|
+|2026-08-26|2026-08-26|Quantitative Analysis of $ω$-Regular Robust MDPs|Ali Asadi|[2608.25968v1](https://arxiv.org/pdf/2608.25968v1)|
+
+### VLA
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-08-26|2026-08-26|LM-X: Explainable Action Modeling with Progress, Event, and Uncertainty Prediction for Generalist Robot Manipulation|Jin Lou|[2608.25757v1](https://arxiv.org/pdf/2608.25757v1)|
+|2026-08-25|2026-08-25|PonderPounce: A Pretrained MLLM as an Episode Context Engine for Robot Control|Suhwan Choi|[2608.24115v1](https://arxiv.org/pdf/2608.24115v1)|
+|2026-08-25|2026-08-25|Hierarchical Skill Retrieval for Data-Efficient Adaptation of Vision-Language-Action Models|Haoran Hao|[2608.24042v1](https://arxiv.org/pdf/2608.24042v1)|
+|2026-08-24|2026-08-26|Learning to Act While Waiting: RL Finetuning of Generalist Robot Policies Under Inference Latency|Brian Zhu|[2608.23831v2](https://arxiv.org/pdf/2608.23831v2)|
+|2026-08-21|2026-08-24|ForeTime-VLA: Causal Future-Token Distillation from a World Action Model for Conveyor-Belt Manipulation|Siyuan Ma|[2608.20735v2](https://arxiv.org/pdf/2608.20735v2)|
+|2026-08-18|2026-08-18|Geo-VLA: Geometry-Aware Vision-Language-Action Planning via Internalization of Map Semantics|Ran Chen|[2608.21440v1](https://arxiv.org/pdf/2608.21440v1)|
+
+### Agent
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-08-26|2026-08-26|Agentic Autoresearch for Cell-Edge Power Control: Radically Redefining the Researcher's Role|Ahmad Khan|[2608.26093v1](https://arxiv.org/pdf/2608.26093v1)|
+|2026-08-26|2026-08-26|SwarmWorld: Stigmergic technological evolution in societies of language-model agents|Subhadeep Pal|[2608.26081v1](https://arxiv.org/pdf/2608.26081v1)|
+|2026-08-26|2026-08-26|Trace Integrity for LLM Data Agents: A Vision for Auditable Structured Reasoning in Real-World Systems|Srimonti Dutta|[2608.26036v1](https://arxiv.org/pdf/2608.26036v1)|
+|2026-08-26|2026-08-26|Candidate supply and answer selection shape the value of LLM judging in multi-agent systems|Jia-Hao Ji|[2608.25937v1](https://arxiv.org/pdf/2608.25937v1)|
+|2026-08-26|2026-08-26|TAU-Agent: An Agentic Retrieval-Augmented Framework for Traffic Anomaly Understanding|Yuqiang Lin|[2608.25935v1](https://arxiv.org/pdf/2608.25935v1)|
+|2026-08-26|2026-08-26|Code World Model: Coding Agent as World Brain|Yiwen Chen|[2608.25927v1](https://arxiv.org/pdf/2608.25927v1)|
 ## Update on 2026-08-25
 
 ### World Model
