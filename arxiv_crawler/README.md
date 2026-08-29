@@ -318,6 +318,38 @@ TODO:
 
 
 
+
+## Update on 2026-08-29
+
+### World Model
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-08-27|2026-08-27|WikiSkill: Compiling Agent Experience into Persistent Knowledge for Skill Evolution|Liyan Tang|[2608.27454v1](https://arxiv.org/pdf/2608.27454v1)|
+|2026-08-27|2026-08-27|SWE-Prime: Fewer Trajectories, Better Performance|Dewu Zheng|[2608.27449v1](https://arxiv.org/pdf/2608.27449v1)|
+|2026-08-27|2026-08-27|From Static to Dynamic: Benchmarking Real-World Code Review with MCR-Bench|Dewu Zheng|[2608.27442v1](https://arxiv.org/pdf/2608.27442v1)|
+|2026-08-27|2026-08-27|RedEvoAgent: Automatic Red-Teaming Agent with Experience-Driven Skill Evolution|Junjie Zhang|[2608.27439v1](https://arxiv.org/pdf/2608.27439v1)|
+|2026-08-27|2026-08-27|Mechanistic Reaction Prediction via Discrete Flow Matching on Graph-Structured Electron Occupation|Nguyen Xuan-Vu|[2608.27429v1](https://arxiv.org/pdf/2608.27429v1)|
+|2026-08-27|2026-08-27|Persona-Execution Separation: An Architecture Pattern for Evolving LLM Agents under Execution Audit|Yisen Xi|[2608.27427v1](https://arxiv.org/pdf/2608.27427v1)|
+
+### Generation
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-08-27|2026-08-27|Beyond F1: Evaluating Coverage and Failure Recovery in AI Model Security Scanners|Qianlong Lan|[2608.27424v1](https://arxiv.org/pdf/2608.27424v1)|
+|2026-08-27|2026-08-27|CLAP: Cross-Embodiment Video World Models are Zero-Shot Physical Simulators|Kechen Liu|[2608.27406v1](https://arxiv.org/pdf/2608.27406v1)|
+|2026-08-27|2026-08-27|LeVJEPA: Efficient & Scalable Video Pretraining without the Heuristics|Lukas Kuhn|[2608.27395v1](https://arxiv.org/pdf/2608.27395v1)|
+|2026-08-27|2026-08-27|CorporateBench: Large-Scale Q&A Benchmarking with Temporal Knowledge Bases|Sil Hamilton|[2608.27391v1](https://arxiv.org/pdf/2608.27391v1)|
+|2026-08-27|2026-08-27|Token-Level Advertising|Hanbing Liu|[2608.27382v1](https://arxiv.org/pdf/2608.27382v1)|
+|2026-08-27|2026-08-27|Sophistication in GenAI Use: Field Evidence from a Large Firm|Nicholas J. Hallman|[2608.27364v1](https://arxiv.org/pdf/2608.27364v1)|
+
+### Agent
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-08-27|2026-08-27|Verify Smarter, Evolve Further: Efficient Harness Evolution through Behavior-Aware Verification|Jinghan Xu|[2608.27311v1](https://arxiv.org/pdf/2608.27311v1)|
+|2026-08-27|2026-08-27|Naive Prompt Optimization: Rethinking the Need for Complex Prompt Search|Yuan Chang|[2608.27266v1](https://arxiv.org/pdf/2608.27266v1)|
+|2026-08-27|2026-08-27|What Makes Good Agentic Data? An ACE Lens on Data Generation for LLM Agents|Xingshan Zeng|[2608.27260v1](https://arxiv.org/pdf/2608.27260v1)|
+|2026-08-27|2026-08-27|LLMs in Digital EDA: A perspective on shifting roles from Generation to Orchestration|Matthew Youngman|[2608.27184v1](https://arxiv.org/pdf/2608.27184v1)|
+|2026-08-27|2026-08-27|TraceBench: Controlled Evaluation of LLM Agents for Time-Series Root-Cause Attribution|Tommaso Bendinelli|[2608.27182v1](https://arxiv.org/pdf/2608.27182v1)|
+|2026-08-27|2026-08-27|When Text Misleads: Inconsistent-Aware Reasoning for Audio-Grounded Dialogue|Yen-Ju Lu|[2608.27176v1](https://arxiv.org/pdf/2608.27176v1)|
 ## Update on 2026-08-27
 
 ### World Model
