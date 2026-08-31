@@ -319,6 +319,43 @@ TODO:
 
 
 
+
+## Update on 2026-08-31
+
+### World Model
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-08-28|2026-08-28|QGPINNs: A Physics-Informed Neural Network Framework for Nonlocal Differential Equations on Quantum Graphs|Vaibhav Mehandiratta|[2608.28589v1](https://arxiv.org/pdf/2608.28589v1)|
+|2026-08-28|2026-08-28|Aero Hand Open: A Simulation-Ready Tendon-Driven Hand for Dexterous Manipulation Learning|Nan Wang|[2608.28578v1](https://arxiv.org/pdf/2608.28578v1)|
+|2026-08-28|2026-08-28|Learning a Size-Weight Frontier for Synthetic-Augmented Inference|Chengpiao Huang|[2608.28576v1](https://arxiv.org/pdf/2608.28576v1)|
+|2026-08-28|2026-08-28|ChainSplat: A Physics-Inspired Screw-Theoretic Model for Learning Deformable Linear Object Dynamics from Multi-View RGB Videos|Seungyeon Kim|[2608.28570v1](https://arxiv.org/pdf/2608.28570v1)|
+|2026-08-28|2026-08-28|Blog: Survey of Optimizers|Ruoran Xu|[2608.28557v1](https://arxiv.org/pdf/2608.28557v1)|
+|2026-08-28|2026-08-28|Logos: An Agent Harness on a Cross-Process Bus|Hanzhang Jia|[2608.28553v1](https://arxiv.org/pdf/2608.28553v1)|
+
+### Generation
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-08-28|2026-08-28|On two proofs of $d^2$ mixing of weighted Dikin walks|Yuansi Chen|[2608.28566v1](https://arxiv.org/pdf/2608.28566v1)|
+|2026-08-28|2026-08-28|Learning between the peaks: sharp asymptotics for kernel ridge regression under power-law anisotropy|Lorenzo Rizzi|[2608.28564v1](https://arxiv.org/pdf/2608.28564v1)|
+|2026-08-28|2026-08-28|Video Generative Models as Geometry Learner|Haosen Yang|[2608.28549v1](https://arxiv.org/pdf/2608.28549v1)|
+|2026-08-28|2026-08-28|DARTS: Decoder-Aware Representation Tuning via Surgery for Model Merging|Aaryan Ajay Sharma|[2608.28547v1](https://arxiv.org/pdf/2608.28547v1)|
+|2026-08-28|2026-08-28|InstructMesh: Selective Refinement of Generative 3D Models for Fabrication|Faraz Faruqi|[2608.28534v1](https://arxiv.org/pdf/2608.28534v1)|
+|2026-08-28|2026-08-28|When Robots Mishear Us: Mapping the Safety Risks of Voice-Controlled Embodied AI|Sihan Jia|[2608.28518v1](https://arxiv.org/pdf/2608.28518v1)|
+
+### VLA
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-08-27|2026-08-27|PHR-VLA: Planning Horizon Reasoning for Vision-Language-Action Models|Davood Soleymanzadeh|[2608.27609v1](https://arxiv.org/pdf/2608.27609v1)|
+
+### Agent
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-08-28|2026-08-28|On the Maintenance and Co-evolution of Agent Plugins: An Empirical Study of Claude Code Plugin Marketplaces|Ahmed Hereiz|[2608.28497v1](https://arxiv.org/pdf/2608.28497v1)|
+|2026-08-28|2026-08-28|LLM-Based Agents for Software and Systems Security: Approaches, Applications, and Assessment|Jingjing Nie|[2608.28490v1](https://arxiv.org/pdf/2608.28490v1)|
+|2026-08-28|2026-08-28|COVER: Identifiable Evaluation of Coalition Routing|Raghul Sugumar|[2608.28475v1](https://arxiv.org/pdf/2608.28475v1)|
+|2026-08-28|2026-08-28|Acquire, Repair, Preserve: A Diagnosis-Guided Post-Training Recipe for Small-Model Dialogue Game Agents|Nan Li|[2608.28458v1](https://arxiv.org/pdf/2608.28458v1)|
+|2026-08-28|2026-08-28|Fidelity Is Not Enough: Dispatch-Level Instrumentation for Agentic Datasheet Extraction|Qing Ye|[2608.28439v1](https://arxiv.org/pdf/2608.28439v1)|
+|2026-08-28|2026-08-28|Prove2Me: An Open Collaborative Platform for Scaling Math Formalization|Shuze Chen|[2608.28433v1](https://arxiv.org/pdf/2608.28433v1)|
 ## Update on 2026-08-29
 
 ### World Model
