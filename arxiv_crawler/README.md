@@ -320,6 +320,46 @@ TODO:
 
 
 
+
+## Update on 2026-09-01
+
+### World Model
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-08-31|2026-08-31|Context-Aware Interleaved Batching for WhisperX|Carlos Bain|[2608.31170v1](https://arxiv.org/pdf/2608.31170v1)|
+|2026-08-31|2026-08-31|SUN: Persistent Programs For Language-Grounded Control-to-Learning-to-Real Policies|Weiqi Wang|[2608.31167v1](https://arxiv.org/pdf/2608.31167v1)|
+|2026-08-31|2026-08-31|Sharp Approximation Rates for Neural Networks with Affine Latent Parameterizations|Shijun Zhang|[2608.31157v1](https://arxiv.org/pdf/2608.31157v1)|
+|2026-08-31|2026-08-31|Auditing Anonymous AI Models: A Four-Stage Protocol for Black-Box Identity Verification|Yisen Xi|[2608.31142v1](https://arxiv.org/pdf/2608.31142v1)|
+|2026-08-31|2026-08-31|OntoAligner-Ensemble: Voting-Based Fusion across Heterogeneous Ontology Alignment Techniques|Hamed Babaei Giglou|[2608.31137v1](https://arxiv.org/pdf/2608.31137v1)|
+|2026-08-31|2026-08-31|Implementing neural network mixed-effects models in Template Model Builder (TMB)|Nan Zheng|[2608.31133v1](https://arxiv.org/pdf/2608.31133v1)|
+
+### Generation
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-08-31|2026-08-31|Constant Individual Regret in General Games|Mingyang Liu|[2608.31166v1](https://arxiv.org/pdf/2608.31166v1)|
+|2026-08-31|2026-08-31|When Does Bigger Help? A Controlled Study of LLM Scale for Ontology Learning|Hamed Babaei Giglou|[2608.31118v1](https://arxiv.org/pdf/2608.31118v1)|
+|2026-08-31|2026-08-31|"Train classical, deploy quantum" requires rethinking generalization|Snehal Raj|[2608.31117v1](https://arxiv.org/pdf/2608.31117v1)|
+|2026-08-31|2026-08-31|BLOOM-WILT: Logit Tilting for Behaviour Elicitation in Automated LLM Auditing|Adrians Skapars|[2608.31105v1](https://arxiv.org/pdf/2608.31105v1)|
+|2026-08-31|2026-08-31|LLM Post-Training as Brownfield Maintenance: An Industrial Perspective on Dataware Engineering|Gopi Krishnan Rajbahadur|[2608.31102v1](https://arxiv.org/pdf/2608.31102v1)|
+|2026-08-31|2026-08-31|Token-Efficient Data Reasoning Agents via Adaptive Structuring of Unstructured Data|Milad Rezaei Hajidehi|[2608.31082v1](https://arxiv.org/pdf/2608.31082v1)|
+
+### VLA
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-08-31|2026-08-31|Aligning Multi-Trajectory Supervision with Policy Optimization for VLA Driving|Tian Zhang|[2608.30122v1](https://arxiv.org/pdf/2608.30122v1)|
+|2026-08-30|2026-08-30|Training-Free Action Correction for VLA Model Failures via Language Feedback|Owen Kwon|[2608.29967v1](https://arxiv.org/pdf/2608.29967v1)|
+|2026-08-30|2026-08-30|AGM: Achievement-Grounded Memory for Closed-Loop Agents with Frozen VLA Policies|Hongbo Gao|[2608.29537v1](https://arxiv.org/pdf/2608.29537v1)|
+|2026-08-29|2026-08-29|AdaVLA: Adaptive Step Flow Matching for Training-free Acceleration of Vision-Language-Action Models|Sunghwan Han|[2608.29208v1](https://arxiv.org/pdf/2608.29208v1)|
+
+### Agent
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-08-31|2026-08-31|Reconciling Process Supervision with Outcome-Based Credit in Agentic Policy Optimization|Jingxiao Yang|[2608.31077v1](https://arxiv.org/pdf/2608.31077v1)|
+|2026-08-31|2026-08-31|Learning to Evaluate Before Improving: Automatic Rubric Induction for Automatic Research Agents|Xuehai Wang|[2608.31076v1](https://arxiv.org/pdf/2608.31076v1)|
+|2026-08-31|2026-08-31|Scaling Large Reasoning Models beyond Human Supervision: A Path toward Superintelligence|Zhiqin Yang|[2608.31075v1](https://arxiv.org/pdf/2608.31075v1)|
+|2026-08-31|2026-08-31|Measure Before You Manage: Evaluating Agent Working Memory in Coding Agents|Le Chen|[2608.31057v1](https://arxiv.org/pdf/2608.31057v1)|
+|2026-08-31|2026-08-31|MNIST-PRO: MNIST is Back as a Partially Observable World for AI Agents|Vernon Toh|[2608.31022v1](https://arxiv.org/pdf/2608.31022v1)|
+|2026-08-31|2026-08-31|Language-Informed Flow Matching for Trend-Guided Structure-Based 3D Molecular Generation|Tianyu Gao|[2608.31009v1](https://arxiv.org/pdf/2608.31009v1)|
 ## Update on 2026-08-31
 
 ### World Model
