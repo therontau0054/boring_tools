@@ -321,6 +321,44 @@ TODO:
 
 
 
+
+## Update on 2026-09-03
+
+### World Model
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-09-02|2026-09-02|SolarWM: Open Data and Scalable Training for Long-Horizon Video World Models|Junchao Huang|[2609.02886v1](https://arxiv.org/pdf/2609.02886v1)|
+|2026-09-02|2026-09-02|Discriminative World Models for Web Agents|Kelvin Li|[2609.02885v1](https://arxiv.org/pdf/2609.02885v1)|
+|2026-09-02|2026-09-02|Graph Machine: Towards Better Pretraining via Edges|Lintai Hou|[2609.02881v1](https://arxiv.org/pdf/2609.02881v1)|
+|2026-09-02|2026-09-02|GRADSOLVE: fast exact gradients for ODE ensembles on GPUs|Alessio Spurio Mancini|[2609.02876v1](https://arxiv.org/pdf/2609.02876v1)|
+|2026-09-02|2026-09-02|Thinking in Pictures: A Systematic Benchmark for Reasoning-driven Image Generation|Yutong Liu|[2609.02864v1](https://arxiv.org/pdf/2609.02864v1)|
+|2026-09-02|2026-09-02|Towards Trustworthy Autonomous Robots: An Explainable AI-Based Decision Framework|Cagri Temel|[2609.02861v1](https://arxiv.org/pdf/2609.02861v1)|
+
+### Generation
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-09-02|2026-09-02|The Implications of Linguistic Illegibility for LLM Security|James Mickens|[2609.02852v1](https://arxiv.org/pdf/2609.02852v1)|
+|2026-09-02|2026-09-02|Post-Training Language Models for Gold-Medal Performance in Coding Competitions|Aleksander Ficek|[2609.02849v1](https://arxiv.org/pdf/2609.02849v1)|
+|2026-09-02|2026-09-02|Learning Spectral-Like Mesh-Free Discretisations|Lucas Gerken Starepravo|[2609.02833v1](https://arxiv.org/pdf/2609.02833v1)|
+|2026-09-02|2026-09-02|Cliff: Learning Process Rewards from the First Mistake|Peixuan Han|[2609.02817v1](https://arxiv.org/pdf/2609.02817v1)|
+|2026-09-02|2026-09-02|Large Language Models (LLMs) for Telecom Root Cause Analysis (RCA): A Structured Reasoning Framework for Evidence-Grounded Diagnosis|Hao Zhou|[2609.02805v1](https://arxiv.org/pdf/2609.02805v1)|
+|2026-09-02|2026-09-02|Dutch Books for Language Models|Isaiah Andrews|[2609.02797v1](https://arxiv.org/pdf/2609.02797v1)|
+
+### VLA
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-09-01|2026-09-01|EmbodiedSkills: A Unified Framework for Orchestrating, Training, and Deploying VLA Agents|Wei Wang|[2609.01281v1](https://arxiv.org/pdf/2609.01281v1)|
+|2026-09-01|2026-09-01|REFACTOR-VLA: Unsupervised Library Learning of Typed Motor Programs|Riyaaz Shaik|[2609.01215v1](https://arxiv.org/pdf/2609.01215v1)|
+
+### Agent
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-09-02|2026-09-02|SafeEvolve: Harness-Policy Co-Evolution from Agent Experience for Safety Alignment|Qinghua Mao|[2609.02786v1](https://arxiv.org/pdf/2609.02786v1)|
+|2026-09-02|2026-09-02|Measurement-Driven Sub-Network Selection for On-Premise Retrieval-Augmented Factory Agents|Vasileios Rizeakos|[2609.02760v1](https://arxiv.org/pdf/2609.02760v1)|
+|2026-09-02|2026-09-02|Bilevel Coordinated Reflection: A Game-Theoretic Approach to Multi-Agent LLM Systems|Yihang Chen|[2609.02750v1](https://arxiv.org/pdf/2609.02750v1)|
+|2026-09-02|2026-09-02|Repo-To-Skill: Distilling GitHub Repositories Into AI4AI Skills|Jianlyu Chen|[2609.02749v1](https://arxiv.org/pdf/2609.02749v1)|
+|2026-09-02|2026-09-02|Loom: Weaving Diagnostic Strands into Free-Text Consensus via Embedding-Space Reweighting|Ron Begleiter|[2609.02649v1](https://arxiv.org/pdf/2609.02649v1)|
+|2026-09-02|2026-09-02|Collective creativity in hybrid societies|Mason Youngblood|[2609.02620v1](https://arxiv.org/pdf/2609.02620v1)|
 ## Update on 2026-09-01
 
 ### World Model
