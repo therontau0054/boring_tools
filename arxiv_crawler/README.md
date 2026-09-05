@@ -322,6 +322,35 @@ TODO:
 
 
 
+
+## Update on 2026-09-05
+
+### Generation
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-09-03|2026-09-03|Compile by Training: Turning Natural-Language Specifications into Local Neural Functions|Yuntian Deng|[2609.04199v1](https://arxiv.org/pdf/2609.04199v1)|
+|2026-09-03|2026-09-03|Clean Engineering, Unstable Measurement: A Preregistered Reliability Failure of Black-Box LLM Observers on Shared Endpoints|Haoyaun Zhu|[2609.04198v1](https://arxiv.org/pdf/2609.04198v1)|
+|2026-09-03|2026-09-03|ESPO: Error-Structured Prompt Optimization via Diagnose, Diversify, and Stabilize|Lihao Liu|[2609.04197v1](https://arxiv.org/pdf/2609.04197v1)|
+|2026-09-03|2026-09-03|Legibility is Not Interpretability: Comparing Judged and Actual Importance in Chain-Of-Thought Reasoning|Kevin Du|[2609.04194v1](https://arxiv.org/pdf/2609.04194v1)|
+|2026-09-03|2026-09-03|Robust PAC Learning of Concurrent Stochastic Games|Angel Y. He|[2609.04189v1](https://arxiv.org/pdf/2609.04189v1)|
+|2026-09-03|2026-09-03|Seeing Before Synthesizing: VLM-Guided Transition Event Discovery for Weakly-Supervised Dense Video Captioning|Ye-Chan Kim|[2609.04183v1](https://arxiv.org/pdf/2609.04183v1)|
+
+### VLA
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-09-03|2026-09-03|FWBC-VLA: Force-Aware Whole-Body Compensation for Contact-Rich Loco-Manipulation|Yutian Zhang|[2609.03889v1](https://arxiv.org/pdf/2609.03889v1)|
+|2026-09-03|2026-09-03|Air-Ground Collaborative Vision-and-Language Navigation via Shared Bird's-Eye Maps|Shuning Zhang|[2609.03483v1](https://arxiv.org/pdf/2609.03483v1)|
+|2026-09-02|2026-09-02|Sensing Which Modality Matters: Evidence-Gated Regularization for Robust VLA Policies|Yue Yang|[2609.03142v1](https://arxiv.org/pdf/2609.03142v1)|
+
+### Agent
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-09-03|2026-09-03|A Case Study on Emergent Cheating and Whistleblowing in Autonomous Research Swarms|Davide Paglieri|[2609.04170v1](https://arxiv.org/pdf/2609.04170v1)|
+|2026-09-03|2026-09-03|SWE-Gate: Passing Functional Tests Is Not Enough for Software Engineering Agents|Xin He|[2609.04167v1](https://arxiv.org/pdf/2609.04167v1)|
+|2026-09-03|2026-09-03|SENTINEL-RL: Offloading Topological Reasoning from LLM Agents in the Security Operations Center|Uday Vallabhaneni|[2609.04159v1](https://arxiv.org/pdf/2609.04159v1)|
+|2026-09-03|2026-09-03|Terminal-Universe: Turning Agent Trajectories into Scalable Terminal Environments|Jie Wu|[2609.04148v1](https://arxiv.org/pdf/2609.04148v1)|
+|2026-09-03|2026-09-03|Efficient Test-Time Adaptation through Human-AI Interaction|Zora Zhiruo Wang|[2609.04141v1](https://arxiv.org/pdf/2609.04141v1)|
+|2026-09-03|2026-09-03|The Natural Language Interaction Protocol and Standard for AI Agents|Luyi Xing|[2609.04135v1](https://arxiv.org/pdf/2609.04135v1)|
 ## Update on 2026-09-03
 
 ### World Model
