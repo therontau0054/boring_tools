@@ -323,6 +323,44 @@ TODO:
 
 
 
+
+## Update on 2026-09-07
+
+### World Model
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-09-04|2026-09-04|WorldSculpt: Generating Compositional Worlds from Grounded Videos|Muyao Niu|[2609.05416v1](https://arxiv.org/pdf/2609.05416v1)|
+|2026-09-04|2026-09-04|UniMate: One Unified Model to Animate Diverse Skeletons|Linzhan Mou|[2609.05415v1](https://arxiv.org/pdf/2609.05415v1)|
+|2026-09-04|2026-09-04|Two extremely irradiated volatile-rich sub-Neptunes with companions in the TOI-426 and TOI-1839 systems: Insights into arrival and survival near the lower edge of the Neptunian desert|A. Castro-González|[2609.05413v1](https://arxiv.org/pdf/2609.05413v1)|
+|2026-09-04|2026-09-04|WearableQA: A Benchmark for Health Reasoning over Real-World Wearable Data|Ji Soo Lee|[2609.05405v1](https://arxiv.org/pdf/2609.05405v1)|
+|2026-09-04|2026-09-04|Diffusion TV: Experiencing Diffusion Models through Tangible, Embodied Interaction|Sihwa Park|[2609.05404v1](https://arxiv.org/pdf/2609.05404v1)|
+|2026-09-04|2026-09-04|RegionFed: Federated Learning for Personalized Query Understanding in Heterogeneous Retail Environments|Quoc H. Nguyen|[2609.05403v1](https://arxiv.org/pdf/2609.05403v1)|
+
+### Generation
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-09-04|2026-09-04|A Deep Generative Model for Synthesizing Labeled Wireless Signals|Yuxiao Li|[2609.05396v1](https://arxiv.org/pdf/2609.05396v1)|
+|2026-09-04|2026-09-04|Reflection-aware Generative Novel View Synthesis|GeonU Kim|[2609.05382v1](https://arxiv.org/pdf/2609.05382v1)|
+|2026-09-04|2026-09-04|Molecular Déjà Vu: Digit-Level Retrieval of Published Values in Frontier Language Models|Matthias Busch|[2609.05381v1](https://arxiv.org/pdf/2609.05381v1)|
+|2026-09-04|2026-09-04|CUA-Universe: A Scalable and Dynamic Environment for Hybrid GUI+CLI Agents|Haoting Shi|[2609.05374v1](https://arxiv.org/pdf/2609.05374v1)|
+|2026-09-04|2026-09-04|Design Docs Are All You Need: An AI-native Machine-Learning Performance Tool|Samuel Kushnir|[2609.05364v1](https://arxiv.org/pdf/2609.05364v1)|
+|2026-09-04|2026-09-04|Distill Globally, Adapt Locally: Reasoning Distillation and Product-Type Test-Time Training for Scalable Trade-Up Recommendation|Siliang Liu|[2609.05363v1](https://arxiv.org/pdf/2609.05363v1)|
+
+### VLA
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-09-04|2026-09-04|RoboSPA: Can VLA Models Go Beyond Simple Scenes and Short-Horizon Tasks?|Zhenxuan Fan|[2609.05324v1](https://arxiv.org/pdf/2609.05324v1)|
+|2026-09-03|2026-09-03|VLA-Precision: Asymmetric Co-Bootstrapping for Efficient Real-World Online RL of Vision-Language-Action Models|Chenyu Su|[2609.04355v1](https://arxiv.org/pdf/2609.04355v1)|
+
+### Agent
+|Publish Date|Updated Date|Title|Authors|PDF|
+|---|---|---|---|---|
+|2026-09-04|2026-09-04|Multi-Step Tool-Calling over Korean Open Public APIs: A Benchmark and a Data-Synthesis Recipe|Dain Kim|[2609.05395v1](https://arxiv.org/pdf/2609.05395v1)|
+|2026-09-04|2026-09-04|Necessary or Sufficient? Evaluating LLM Explanations With Behavioural Evidence|Urja Pawar|[2609.05385v1](https://arxiv.org/pdf/2609.05385v1)|
+|2026-09-04|2026-09-04|Does Your Agent's Memory Survive a Model Upgrade? A Controlled Study of Memory Portability|Ankit Goyal|[2609.05339v1](https://arxiv.org/pdf/2609.05339v1)|
+|2026-09-04|2026-09-04|The History Is the Detector: Executing CVE Patch History, End-to-End|Qiushi Wu|[2609.05335v1](https://arxiv.org/pdf/2609.05335v1)|
+|2026-09-04|2026-09-04|Optimal Rates for Agentic Networked Information Aggregation|MohammadHossein Bateni|[2609.05318v1](https://arxiv.org/pdf/2609.05318v1)|
+|2026-09-04|2026-09-04|Large Language Models for HVAC Operations in Building Energy Systems: A Critical Review of Methods, Applications, and Deployment Readiness|Alexander Neubauer|[2609.05314v1](https://arxiv.org/pdf/2609.05314v1)|
 ## Update on 2026-09-05
 
 ### Generation
